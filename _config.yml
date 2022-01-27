@@ -1,0 +1,5 @@
+name: SpacePirates
+description: Piraten im Weltraum
+
+sass:
+    sass_dir: assets/css

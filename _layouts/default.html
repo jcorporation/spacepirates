@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
+    <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <header class="navbar navbar-expand-sm navbar-dark bg-sterne">
+      <nav class="container-xxl flex-wrap flex-md-nowrap py-3">
+        <a class="navbar-brand p-0 me-4" href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates" width="398" height="93">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+          <div class="navbar-nav flex-grow-1">
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Das_Rollenspiel/">Das Rollenspiel</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Downloads/">Downloads</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Produkte/">Produkte</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Tools/">Tools</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Kontakt">Kontakt</a>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <header class="navbar navbar-expand-md bg-light py-2 mb-2">
+      <nav class="breadcrumb container-xxl flex-wrap px-3 mb-0 justify-content-start">
+        {% include breadcrumbs.md %}
+      </nav>
+    </header>
+    <div class="container-xxl py-2 flex-grow-1">
+      {% if page.aside %}
+        <div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">
+          <main class="col col-xl-8">
+            {{ content }}
+          </main>
+          <aside class="col col-xl-4 pe-0">
+            {% include_relative {{ page.aside }} %}
+          </aside>
+        </div>
+      {% else %}
+        <main>
+            {{ content }}
+        </main>
+      {% endif %}
+    </div>
+    <footer class="footer-bottom bg-light">
+      <nav class="container-xxl text-center">
+        <a class="p-2" href="https://www.jcgames.de/">
+          <img src="{{ site.baseurl }}/assets/images/jcgames-logo.png"/>
+        </a>
+      </nav>
+    </footer>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap-native.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/default.js"></script>
+  </body>
+</html>

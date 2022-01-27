@@ -1,0 +1,66 @@
+---
+---
+
+@import "bootstrap.min.css";
+
+body {
+  background-color: #ececec;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+div.card,
+ol,
+ul,
+p {
+  max-width: 50rem;
+}
+
+.bg-sterne {
+  background-color: black;
+  background-image: url("{{ site.baseurl }}/assets/images/sterne.jpg");
+}
+
+.bg-yellow {
+  background-color: #fc0;
+}
+
+table {
+  caption-side: top;
+}
+
+caption {
+  white-space: nowrap;
+}
+
+caption,
+th {
+  background-color: #fc0;
+  color: black;
+  padding: 0.3rem 0.5rem;
+  border: 1px solid #ececec;
+  font-weight: normal;
+}
+
+td {
+  background-color: white;
+  padding: 0.3rem 0.5rem;
+  border: 1px solid #ececec;
+}
+
+.card-body p:last-child {
+  margin-bottom: 0;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+main ul {
+  list-style-type: square;
+}
+
+.breadcrumb > span {
+  margin-top: -0.2rem;
+}
