@@ -50,17 +50,17 @@ SpacePirates ist ein [freies](/spacepirates/Freies_Rollenspiel) und abgedrehtes 
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
   </a>
 </div>
-<div class="row bg-yellow">
-    <div class="col">
-        <a href="{{ site.baseurl }}/Spielregeln/" class="text-light">Spielregeln</a>
+<div class="row bg-yellow g-0 text-center">
+    <div class="col clickable border-end p-2">
+        <a href="{{ site.baseurl }}/Spielregeln/" class="link-dark">Spielregeln</a>
     </div>
-    <div class="col">
-        <a href="{{ site.baseurl }}/Weltraum/" class="text-light">Weltraum</a>
+    <div class="col clickable border-end p-2">
+        <a href="{{ site.baseurl }}/Weltraum/" class="link-dark">Weltraum</a>
     </div>
-    <div class="col">
-        <a href="{{ site.baseurl }}/Abenteuer/" class="text-light">Abenteuer</a>
+    <div class="col clickable border-end p-2">
+        <a href="{{ site.baseurl }}/Abenteuer/" class="link-dark">Abenteuer</a>
     </div>
-    <div class="col">
-        <a href="{{ site.baseurl }}/Spielleiter/" class="text-light">Spielleiter</a>
+    <div class="col clickable border-end p-2">
+        <a href="{{ site.baseurl }}/Spielleiter/" class="link-dark">Spielleiter</a>
     </div>
 </div>
