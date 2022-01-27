@@ -61,6 +61,6 @@ SpacePirates ist ein [freies](/spacepirates/Freies_Rollenspiel) und abgedrehtes 
         <a href="{{ site.baseurl }}/Abenteuer/" class="link-dark">Abenteuer</a>
     </div>
     <div class="col clickable border-end p-2">
-        <a href="{{ site.baseurl }}/Spielleiter/" class="link-dark">Spielleiter</a>
+        <a href="{{ site.baseurl }}/Tools/" class="link-dark">Tools</a>
     </div>
 </div>
