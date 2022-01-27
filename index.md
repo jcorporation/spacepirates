@@ -6,7 +6,7 @@ title: Ein einfaches und erzählerisches Rollenspiel
 
 # SpacePirates
 
-SpacePirates ist ein [freies](/spacepirates/Freies_Rollenspiel) und abgedrehtes Space-Opera-[Rollenspiel]({{ site.baseurl }}/Das_Rollenspiel) um Piraten im [Weltraum]({{ site.baseurl }}/Weltraum/) im Stil der 1980er Zeichentrickserien und Comics. Es ist für einmalige Abenteuer oder kurze Kampagnen gedacht, das [Setting]({{ site.baseurl }}/Weltraum/) ist daher kompakt und das [Regelwerk]({{ site.baseurl }}/Spielregeln/) leicht zu erlernen, zudem ermutigt es die Spieler, die [Abenteuer]({{ site.baseurl }}/Abenteuer/) mitzugestalten.
+SpacePirates ist ein [freies](/spacepirates/Freies_Rollenspiel) und abgedrehtes Space-Opera-Rollenspiel um Piraten im [Weltraum]({{ site.baseurl }}/Weltraum/) im Stil der 1980er Zeichentrickserien und Comics. Es ist für einmalige Abenteuer oder kurze Kampagnen gedacht, das [Setting]({{ site.baseurl }}/Weltraum/) ist daher kompakt und die [Spielregeln]({{ site.baseurl }}/Spielregeln/) leicht zu erlernen, zudem ermutigt es die Spieler, die [Abenteuer]({{ site.baseurl }}/Abenteuer/) mitzugestalten.
 
 <div id="Carousel" class="carousel slide bg-sterne" data-bs-ride="carousel" data-bs-interval="5000" data-bs-touch="true" data-bs-pause="hover">
   <div class="carousel-indicators">
@@ -20,25 +20,25 @@ SpacePirates ist ein [freies](/spacepirates/Freies_Rollenspiel) und abgedrehtes 
   </div>
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
-    <div class="carousel-item active">
+    <div class="carousel-item text-center active">
       <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite0.jpg">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item text-center">
       <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite1.jpg">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item text-center">
       <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite2.jpg">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item text-center">
       <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite3.jpg">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item text-center">
       <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite4.jpg">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item text-center">
       <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite5.jpg">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item text-center">
       <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite6.jpg">
     </div>
   </div>

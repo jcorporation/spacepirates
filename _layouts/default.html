@@ -9,8 +9,8 @@
   </head>
   <body>
     <header class="navbar navbar-expand-sm navbar-dark bg-sterne">
-      <nav class="container-xxl flex-wrap flex-md-nowrap py-3">
-        <a class="navbar-brand p-0 me-4" href="{{ site.baseurl }}/">
+      <nav class="container-xxl flex-column flex-wrap flex-md-nowrap pt-3 ptb-1">
+        <a class="navbar-brand p-0 mb-4" href="{{ site.baseurl }}/">
           <img src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates" width="398" height="93">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar">
@@ -18,16 +18,18 @@
         </button>
         <div class="collapse navbar-collapse" id="navbar">
           <div class="navbar-nav flex-grow-1">
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Das_Rollenspiel">Das Rollenspiel</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Spielregeln/">Spielregeln</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Weltraum/">Weltraum</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Spielleiter/">Spielleiter</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Abenteuer/">Abenteuer</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Downloads/">Downloads</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Produkte/">Produkte</a>
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Tools/">Tools</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Kontakt">Kontakt</a>
           </div>
         </div>
       </nav>
     </header>
-    <header class="navbar navbar-expand-md bg-light py-2 mb-2 bg-yellow">
+    <header class="navbar navbar-expand-md py-2 mb-2 bg-yellow">
       <nav class="breadcrumb container-xxl flex-wrap px-3 mb-0 justify-content-start">
         {% include breadcrumbs.md %}
       </nav>
