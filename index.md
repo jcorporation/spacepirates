@@ -8,6 +8,8 @@ title: Ein einfaches und erzählerisches Rollenspiel
 
 SpacePirates ist ein [freies](/spacepirates/Freies_Rollenspiel) und abgedrehtes Space-Opera-Rollenspiel um Piraten im [Weltraum]({{ site.baseurl }}/Weltraum/) im Stil der 1980er Zeichentrickserien und Comics. Es ist für einmalige Abenteuer oder kurze Kampagnen gedacht, das [Setting]({{ site.baseurl }}/Weltraum/) ist daher kompakt und die [Spielregeln]({{ site.baseurl }}/Spielregeln/) leicht zu erlernen, zudem ermutigt es die Spieler, die [Abenteuer]({{ site.baseurl }}/Abenteuer/) mitzugestalten.
 
+{% include working.md %}
+
 <div id="Carousel" class="carousel slide bg-sterne overflow-hidden rounded-top" data-bs-ride="carousel" data-bs-interval="5000" data-bs-touch="true" data-bs-pause="hover">
   <div class="carousel-indicators">
     <button data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></button>
