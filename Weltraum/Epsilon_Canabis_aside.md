@@ -1,1 +1,1 @@
-{% include sternensystem.md data=page.sitedata.Epsilon_Canabis %}
+{% include sternensystem.md data=page.sitedata.Sternensystem.Epsilon_Canabis %}

@@ -1,1 +1,1 @@
-{% include planet.md data=page.sitedata.Woodstock %}
+{% include planet.md data=page.sitedata.Planet.Woodstock %}

@@ -5,16 +5,16 @@ title: Brarbragroz
 aside: Brarbragroz_aside.md
 
 sitedata:
-    Brarbragoz:
-        Datatype: Planet
-        Typ: Erdähnlich
-        Name: Brarbragoz
-        Sektor: 
-        Monde: 2
-        Einwohner: Brarbragrozianer
-        Hauptstadt: viele
-        Besiedelung: kleine Städte
-        Politisches: Zurückgebliebener Planet
+    Planet:
+        Brarbragoz:
+            Typ: Erdähnlich
+            Name: Brarbragoz
+            Sektor: 
+            Monde: 2
+            Einwohner: Brarbragrozianer
+            Hauptstadt: viele
+            Besiedelung: kleine Städte
+            Politisches: Zurückgebliebener Planet
 ---
 
 # Brarbragroz

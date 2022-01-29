@@ -5,14 +5,14 @@ title: Epsilon Canabis
 aside: Epsilon_Canabis_aside.md
 
 sitedata:
-    Epsilon_Canabis:
-        Datatype: Sternensystem
-        Name: Epsilon Canabis
-        Sektor: weit außerhalb
-        Zentralgestirn: Neutronenstern
-        Planeten: 7
-        Bewohner: fast unbewohnt
-        Politisches: 
+    Sternensystem:
+        Epsilon_Canabis:
+            Name: Epsilon Canabis
+            Sektor: weit außerhalb
+            Zentralgestirn: Neutronenstern
+            Planeten: 7
+            Bewohner: fast unbewohnt
+            Politisches: 
 ---
 
 # Epsilon Canabis

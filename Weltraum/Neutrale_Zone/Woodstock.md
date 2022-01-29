@@ -5,16 +5,16 @@ title: Woodstock
 aside: Woodstock_aside.md
 
 sitedata:
-    Woodstock:
-        Datatype: Planet
-        Typ: Erdähnlich
-        Name: Woodstock
-        Sektor: "[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/)"
-        Monde: Asteroidengürtel
-        Einwohner: Hippies
-        Hauptstadt: Das große Festival
-        Besiedelung: Das großes Festival
-        Politisches: keine politischen Beziehungen
+    Planet:
+        Woodstock:
+            Typ: Erdähnlich
+            Name: Woodstock
+            Sektor: "[Neutrale Zone](/Weltraum/Neutrale_Zone/)"
+            Monde: Asteroidengürtel
+            Einwohner: Hippies
+            Hauptstadt: Das große Festival
+            Besiedelung: Das großes Festival
+            Politisches: keine politischen Beziehungen
 ---
 
 
