@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/Selbstdarsteller
-title: (Selbst-)Darsteller
+title: "(Selbst-)Darsteller"
 ---
 
 # (Selbst-)Darsteller

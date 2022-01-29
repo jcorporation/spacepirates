@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Laborratten/Railroading_sturm
-title: Szene 1: Der Sturm
+title: "Szene 1: Der Sturm"
 ---
 
 # Szene 1: Der Sturm

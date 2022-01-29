@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Laborratten/Railroading_schatzinsel
-title: Szene 2: Schatzinsel
+title: "Szene 2: Schatzinsel"
 ---
 
 # Szene 2: Schatzinsel

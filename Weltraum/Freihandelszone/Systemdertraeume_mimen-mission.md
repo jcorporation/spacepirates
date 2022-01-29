@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Weltraum/Freihandelszone/Systemdertraeume_mimen-mission
-title: Die SdT-Station oder: &bdquo;Die Mimen-Mission&ldquo;
+title: "Die SdT-Station oder: &bdquo;Die Mimen-Mission&ldquo;"
 ---
 
 

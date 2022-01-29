@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/Bisam
-title: Auftritt: Sing es selber, (Bi-)sam!
+title: "Auftritt: Sing es selber, (Bi-)sam!"
 ---
 
 # Auftritt: Sing es selber, (Bi-)sam!

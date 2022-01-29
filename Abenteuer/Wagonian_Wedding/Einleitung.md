@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/Einleitung
-title: Einleitung: Hein the Mono
+title: "Einleitung: Hein the Mono"
 ---
 
 # Einleitung: Hein the Mono

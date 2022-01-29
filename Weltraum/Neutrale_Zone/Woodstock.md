@@ -6,7 +6,7 @@ aside: Woodstock_aside.md
 
 sitedata:
     Planet:
-        Woodstock:
+        -Woodstock:
             Typ: Erdähnlich
             Name: Woodstock
             Sektor: "[Neutrale Zone](/Weltraum/Neutrale_Zone/)"
@@ -19,7 +19,6 @@ sitedata:
 
 
 # Woodstock
-
 
 Der Planet Woodstock ist erdähnlich und war lange Zeit unbewohnt, bis die Hippies ihn entdeckten. Da er in der Neutralen Zone liegt, ist er politisch unbeeinflusst und das Klima ist ideal um Hanf, Marihuana und andere Rauschmittel anzubauen.
 

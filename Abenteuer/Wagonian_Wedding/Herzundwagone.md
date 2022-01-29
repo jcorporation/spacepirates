@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/Herzundwagone
-title: Auftritt: Ein Herz und ein Wagone
+title: "Auftritt: Ein Herz und ein Wagone"
 ---
 
 # Auftritt: Ein Herz und ein Wagone

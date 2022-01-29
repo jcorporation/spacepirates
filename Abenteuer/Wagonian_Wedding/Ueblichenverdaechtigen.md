@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/Ueblichenverdaechtigen
-title: Auftritt: Die üblichen Verdächtigen
+title: "Auftritt: Die üblichen Verdächtigen"
 ---
 
 # Auftritt: Die üblichen Verdächtigen

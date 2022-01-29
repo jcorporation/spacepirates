@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/Spion
-title: Auftritt: Der Spion, der aus dem Weltall kam
+title: "Auftritt: Der Spion, der aus dem Weltall kam"
 ---
 
 # Auftritt: Der Spion, der aus dem Weltall kam

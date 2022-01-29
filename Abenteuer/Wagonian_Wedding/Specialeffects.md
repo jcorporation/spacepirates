@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/Specialeffects
-title: Auftritt: Special Effects für alle!
+title: "Auftritt: Special Effects für alle!"
 ---
 
 # Auftritt: Special Effects für alle!

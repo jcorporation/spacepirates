@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/Baeaemler
-title: Auftritt: Der Teufel trägt Bäämler
+title: "Auftritt: Der Teufel trägt Bäämler"
 ---
 
 # Auftritt: Der Teufel trägt Bäämler
