@@ -1,10 +1,10 @@
 <table>
-    <caption>{{ Name }}</caption>
+    <caption>{{ include.Name }}</caption>
     <tbody>
-        <tr><th>Sektor</th><td>{{ Sektor }}</td></tr>
-        <tr><th>Zentralgestirn</th><td>{{ Zentralgestirn }}</td></tr>
-        <tr><th>Planeten</th><td>{{ Planeten }}</td></tr>
-        <tr><th>Bewohner</th><td>{{ Bewohner }}</td></tr>
-        <tr><th>Politisches</th><td>{{ Politisches }}</td></tr>
+        <tr><th>Sektor</th><td>{{ include.Sektor }}</td></tr>
+        <tr><th>Zentralgestirn</th><td>{{ include.Zentralgestirn }}</td></tr>
+        <tr><th>Planeten</th><td>{{ include.Planeten }}</td></tr>
+        <tr><th>Bewohner</th><td>{{ include.Bewohner }}</td></tr>
+        <tr><th>Politisches</th><td>{{ include.Politisches }}</td></tr>
     </tbody>
 </table>
