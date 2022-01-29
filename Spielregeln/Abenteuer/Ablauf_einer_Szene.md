@@ -1,0 +1,131 @@
+---
+layout: page
+permalink: /Spielregeln/Abenteuer/Ablaufeinerszene
+title: Ablauf einer Szene
+---
+
+
+# Ablauf einer Szene
+
+
+## Szenenstart
+
+Zum Start der Szene beschreibt der Spielleiter den Ort, die anwesenden Personen, hervorstechende Objekte und was sich gerade ereignet. Eben alles, was für die Szene von Bedeutung ist. Dabei sollte er darauf achten, dass es offensichtliche Einstiegsmöglichkeiten für die Spielercharaktere gibt.
+
+<div class="beispiel">
+## Beispiel eines Szenenstarts
+
+Die Piratencrew stattet der Raumstation [Two-Eyed-Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Twoeyedjack) einen Besuch ab. Der Spielleiter beschreibt den Trubel am Dock der Raumstation, herumlungernde Gestalten und ein auffälliges Schiff, das gerade eilig und nicht besonders sauber umlackiert wird.
+
+</div>
+## Die Szene
+
+Jeder Spieler kann seinen Charakter innerhalb einer Szene frei handeln lassen, die Szenenelemente aufgreifen und mit den anderen Charakteren und Spielleitercharakteren interagieren. Jetzt ist auch der richtige Zeitpunkt, eine zur Szene passende Macke des Charakters auszuspielen.
+
+Der Spielleiter kann dasselbe natürlich für seine Spielleitercharaktere machen und Ereignisse in der Szene in Gang bringen.
+
+<div class="hinweis">
+## Sag Ja
+
+Sage &bdquo;Ja&ldquo; zu den Ideen und Aktionen deiner Mitspieler und baue darauf auf. Dadurch entwickelt sich die Geschichte im Abenteuer weiter; wenn du &bdquo;Nein&ldquo; sagst, gerät sie ins Stocken. Als Spielleiter kannst du auch &bdquo;Ja, aber &hellip;&ldquo; sagen, um die Szene spannender zu gestalten oder etwas Hintergrund des Abenteuers einzubauen.
+
+</div>
+Neben diesem freien Spiel greifen in einer Szene die im Folgenden vorgestellten Regelelemente. Im Spiel entscheidet der Spielleiter, wann welche Regel angewandt wird. Die Spieler beschreiben immer nur die Aktionen ihrer Charaktere.
+
+<div class="beispiel">
+## Beispiel einer Szene
+
+Kathy beschreibt, wie ihr Charakter Chen versucht, unauffällig einen Blick auf das auffällige Schiff zu werfen. Das klappt im Trubel problemlos, daher beschreibt der Spielleiter das Schiff genauer, ohne dass Kathy würfeln müsste. Es ist schwer beschädigt, mit Einschusslöchern übersät und im Heck des Schiffs hat es wohl eine Explosion gegeben. Die restliche Gruppe folgt Chen und die Spieler beratschlagen, wie sie weiter vorgehen sollen und entscheiden sich dafür die andere Piratencrew anzusprechen.
+
+</div>
+### Piratenwürfel verdienen
+
+Piratenwürfel verdient sich ein Spieler, wenn &hellip;
+
+- er mit seinem Charakter coole Szenen und Aktionen initiiert.
+- sein Charakterkonzept und die Macken des Charakters zum eigenen Nachteil ausspielt.
+- der Gruppe oder dem Fortschritt des Abenteuers unterhaltsam weiterhilft.
+
+Grundsätzlich sollte der Spielleiter die Piratenwürfel freigiebig verteilen. Das ermutigt im Gegenzug auch die Spieler, ihre Piratenwürfel einzusetzen.
+
+<div class="beispiel">
+## Beispiel zu Piratenwürfel verdienen
+
+Chen entdeckt den Pilot der anderen Piratencrew und wollte ihn ursprünglich fragen, was denn geschehen ist. Er ist aber ein Trull und die kann sie absolut nicht ausstehen (Macke von Chen). Daher ändert sie ihr Vorhaben, pöbelt ihn an und bezeichnet ihn als unfähigen Piloten. Das lässt er sich natürlich nicht gefallen und es kommt zu einer kleinen Schlägerei.
+
+Für diese Aktion vergibt der Spielleiter einen Piratenwürfel an Kathy, da sie ihren Charakter ausspielte, für piratige Action sorgte und dabei gleichzeitig das Abenteuer verkomplizierte.
+
+</div>
+### Ausrüstung kaufen
+
+Wenn die Charaktere Ausrüstung benötigen, muss diese ganz normal gekauft werden. Normalerweise reicht es aber, den Einkauf in ein, zwei Sätzen abzuhandeln. Lediglich, wenn alle Beteiligten ihn ausspielen wollen und der Einkauf plotwichtigen Materials dient, sollte er eine eigene Szene erhalten.
+
+<div class="hinweis">
+## Kleinigkeiten
+
+Kleinigkeiten müssen bei SpacePirates nicht bezahlt werden, also weder der Rum in der Bar noch der Reiseproviant, eine neue Raumschiffwaffe aber schon.
+
+</div>
+### Fakten hinzufügen
+
+Die Spieler können und sollen einer Szene einzelne Fakten hinzufügen, solange sie folgende drei Regeln beachten:
+
+- Fakten dürfen der Beschreibung des Spielleiters nicht widersprechen.
+- Sie müssen sich stimmig in die Szene einfügen.
+- Sie müssen die SpacePirates-Genrekonventionen einhalten.
+- Der Fakt darf weder die Szene noch das Abenteuer auflösen.
+
+So erhält die Szene mehr Details, ohne dass die Spieler wegen jeder Kleinigkeit nachfragen müssen. Ein Fakt kann dabei ein beliebiges Szenenelement sein, wie z.B. ein Gegenstand oder ein Ereignis. Wenn also im Ballsaal ein Kronleuchter fehlt oder in der Bar eine Spaceamazone, dann sollen die Spieler solche Details ergänzen. Erzählt einfach davon und es ist Fakt!
+
+Wichtige Fakten kosten einen Piratenwürfel pro Fakt. Der Spielleiter entscheidet, was ein wichtiger Fakt ist und er hat ein Vetorecht.
+
+<div class="hinweis">
+## Wichtige Fakten
+
+Wichtige Fakten beeinflussen eine Szene maßgeblich. Bei der Planung eines Überfalls auf ein Schiff wäre z.B. das Einfügen eines Asteroidengürtels oder Nebels in die Flugroute des Handelsschiffs ein wichtiger Fakt. Die Spaceamazone zum Anflirten am Tresen ist kein wichtiger Fakt.
+
+</div>
+<div class="beispiel">
+## Beispiel zu Fakt hinzufügen
+
+Kathy möchte ihren Charakter Chen dem auffälligen Schiff unauffällig nähern. Sie beschreibt daher, wie Chen augenscheinlich einen Bekannten in der Nähe des anderen Schiffes entdeckt und zu ihm geht, aber das andere Schiff dabei im Auge behält. Dies passt zur Szene, bringt den Spielern aber keinen weiteren Vorteil. Daher kostet der Fakt &raquo;Bekannter in der Nähe&laquo; keinen Piratenwürfel.
+
+Weiterhin beschreibt Kathy, dass sie durch das Loch, das die Explosion hinterlassen hat, in den Frachtraum des Schiffes sehen kann und dabei Kisten mit Handelsratskennzeichen entdeckt. Dies ist ein wichtiger Fakt und kostet Kathy einen Piratenwürfel.
+
+</div>
+### Konflikte auflösen
+
+Konflikte treten immer ein, wenn mindestens zwei Parteien versuchen, ihre Ziele auf Kosten der anderen durchzusetzen, oder wenn die Charaktere ein Hindernis überwinden müssen.
+
+Konflikte besitzen immer eine gewisse Relevanz für die Charaktere oder das Abenteuer, dabei ist es egal, ob es sich um eine Kampfsituation, eine Actionsequenz oder ein Wortgefecht handelt.
+
+Kommt es zu einem Konflikt, endet das freie Spiel und die Gruppe verwendet die [Konfliktregeln]({{ site.baseurl }}/Spielregeln/Konflikte), um den Konflikt aufzulösen. Nach dem Ende des Konflikts wechselt die Spielweise wieder zum freien Spiel, bis entweder ein weiterer Konflikt aufkommt oder die Szene endet.
+
+<div class="hinweis">
+## Verlorene Konflikte
+
+Eine Niederlage darf nicht in eine Sackgasse führen. Auch ein verlorener Konflikt muss interessante Folgen haben, damit das Abenteuer nicht durch einen schlechten Würfelwurf ins Stocken gerät.
+
+</div>
+### Zähigkeit regenerieren
+
+Es kann zu jeder Zeit ein Piratenwürfel ausgegeben werden, um die Zähigkeit eines Profils oder eines Ausrüstungsgegenstandes um drei Punkte zu regenerieren.
+
+Alternativ kann auch zu passender Zeit versucht werden das Profil zu heilen oder den Gegenstand zu reparieren. Dies funktioniert selbstverständlich nur mit passender Ausrüstung, genügend Zeit und wenn es logisch ins Setting passt. Dazu wird ein einfacher Konflikt ausgeführt, es werden soviel Erfolge benötigt, wie Zähigkeit verloren wurde. Ist der Konflikt gewonnen, werden drei Punkte Zähigkeit regeneriert. Natürlich kann die Zähigkeit nicht über ihren ursprünglichen Wert hinaus regeneriert werden.
+
+<div class="hinweis">
+## Passende Ausrüstung
+
+Passende Ausrüstungsgegenstände um das SÖLDNER-Profil zu regenerieren sind z.B. ein Medikit oder Medipapagei.
+
+</div>
+### Raumflüge und -kämpfe
+
+Raumflüge liegen meist zwischen zwei Szenen, dauern lang und sind meist recht langweilig, der Weltraum ist eben zum größten Teil leer. Aber natürlich kann auch während des Flugs auf dem Schiff eine Szene spielen. Falls aber nichts Interessantes passiert, sollte einfach zur Ankunft gesprungen werden. Wie [Schäden und Macken von Raumschiffen]({{ site.baseurl }}/Raumflüge und -kämpfe]({{ site.baseurl }}/Spielregeln/Raumschiffkampf) und )({{ site.baseurl }}/Spielregeln/Raumschiffkampf_wartung) abgehandelt werden, wird nach den [Konfliktregeln]({{ site.baseurl }}/Spielregeln/Konflikte) erläutert.
+
+## Szenenende
+
+Eine Szene endet, wenn der Schauplatz wechselt oder nichts Interessantes mehr geschieht und die Spieler keine Motivation zeigen, noch etwas zu unternehmen.
+
+
+

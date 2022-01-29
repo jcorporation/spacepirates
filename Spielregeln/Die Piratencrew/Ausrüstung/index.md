@@ -1,0 +1,61 @@
+---
+layout: page
+permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/index
+title: Ausrüstung
+---
+
+# Ausrüstung
+
+Ausrüstung ist derjenige Besitz des Charakters, der relevant für Abenteuer ist oder die Persönlichkeit des Charakters unterstützt. Alltägliche Dinge, spielen bei SpacePirates keine Rolle. Alles, was auf einem typischen Piratenschiff vorhanden ist, und alles, was ein Pirat dabei haben könnte, ist automatisch verfügbar. Daher ist es nicht nötig, bei der Charaktererschaffung jede Kleinigkeit zu kaufen und im Abenteuer Stunden beim Einkauf zu vertrödeln.
+
+Kommt bei einem Konflikt ein Ausrüstungsgegenstand zum Einsatz, erhöht dessen Bonus temporär den Profilwert oder die Zähigkeit.
+
+## Startgeld
+
+Jeder Charakter startet mit 3.000 UC, von denen er sich Ausrüstung und Waffen kaufen kann. Es müssen nur Dinge bezahlt werden, die einen Bonus geben oder Grundlage für eine Tätigkeit sind; alles andere ist kostenlos, also sucht keine Kleinigkeiten in den Ausrüstungslisten. Das persönliche Startgeld kann von den Spielern natürlich auch in das gemeinsame Raumschiff investiert werden.
+
+- **Startgeld:** 3.000 UC
+
+- [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen)
+- [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse)
+- [Rauschmittel]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel)
+
+<div class="beispiel">
+## Beispiel zu Ausrüstung
+
+Kathy schaut sich die Ausrüstungsliste an und sucht sich einen Laserdegen (1.500 UC), ein xPhone 3Gx (150 UC) und einen Diktierpapagei (100 UC) aus. So bleiben 1.250 UC übrig, die sie in das Raumschiff stecken kann.
+
+</div>
+
+<aside>
+<div class="hinweis">
+## Notation der Boni
+
+Die Boni werden direkt hinter dem Gegenstand notiert.
+
+<p>**P** steht dabei für den Profilbonus.<br/>
+**Z** für den Zähigkeitsbonus.</p>
+</div>
+<div class="hinweis">
+## Rum
+
+Rum ist Grundnahrungsmittel der Piraten &ndash; mehr gibt es dazu nicht zu sagen. Rum gibt es überall und niemand muss dafür UC ausgeben. Da die Piraten ständig Rum trinken, gibt es auch keine Mali, nur weil der Pilot im betrunkenen Zustand den FTL anwirft (die Frage ist eher, ob er schon mal vollkommen nüchtern geflogen ist). Trotz des kostenlosen Rums sollten die Piraten aber nicht als Säufer gespielt werden.
+
+</div>
+</aside>
+
+## Raumschiff
+
+Die gesamte Gruppe bekommt ein Raumschiff im Wert von 13.000 + 5.000 &times; Gruppenmitglieder UC, das sie gemeinsam gestalten können und sollen. Zusätzlich kann je 4 Spieler (aufgerundet) ein Style-Zubehörteil für eine weitere Macke ertauscht werden. Überschüssige UC, die nicht für das Schiff benötigt werden, verfallen.
+
+Zu einem vernünftigen Piratenschiff gehören natürlich Bordkanonen, Sensoren, Schilde, ein spaciger Name und eine kurze Beschreibung.
+
+- **Raumschiffwert:** 13.000 + 5.000 &times; Gruppenmitglieder UC
+- [Raumschiffe]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe)
+  - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_waffen)
+  - [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_schilde)
+  - [Sensoren]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_sensoren)
+  - [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_diverses)
+  - [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_style)
+- [Raumschiffmacken]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken)
+- [Beispielraumschiff]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Beispielraumschiff)

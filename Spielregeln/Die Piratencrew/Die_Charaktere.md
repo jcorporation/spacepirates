@@ -1,0 +1,120 @@
+---
+layout: page
+permalink: /Spielregeln/Die_Piratencrew/Charaktere
+title: Die Charaktere
+---
+
+# Die Charaktere
+
+Die Charaktere sind Piraten und treiben sich in den zwielichtigen Bars und Kneipen des Universums herum, liefern sich Schlägereien mit anderen Piraten und knüpfen Kontakte zu halbseidenen Händlern, inoffiziellen Regierungsbeauftragten und undurchsichtigen Vereinigungen. Auf ihrer Jagd nach Ruhm und Reichtum führen sie, mit ihrem Piratenschiff voller seltsamer Macken, höchst illegale und wagemutige Aufträge durch, rauben Schiffe aus, liefern sich waghalsige Raumschlachten und entdecken neue Weltraumphänomene und Planeten. Trauen können sie niemandem, da jeder Auftraggeber und Handelspartner, der mit ihnen verkehrt, genauso verschlagen und geldgierig ist, wie sie selbst. Als wäre das nicht genug, werden sie natürlich auch vom Handelsrat und den Regierungen verfolgt und stehen in Konkurrenz mit vielen anderen Piraten.
+
+<div class="hinweis">
+## Eine Piratencrew erschaffen
+
+Die Charaktere bilden eine Mannschaft und sollten dementsprechend auch gemeinsam erschaffen werden. Die Spieler sollten einen Piloten, einen Tech und einen oder mehrere Bordschützen bestimmen. Auch ein Kapitän darf nicht fehlen, aber jeder auf dem Raumschiff hat gleich viel zu sagen, jedenfalls, wenn es nach den Regeln geht.
+
+Ihr spielt eine Piratencrew, also eine Gruppe, die zusammenarbeiten muss, wenn sie überleben, Schätze erbeuten und im Holo-Highscore aufsteigen will. Menschenscheue Einzelgänger, die nicht auf andere eingehen können, sind fehl am Platze, jeder muss hier seine Aufgabe erfüllen, egal ob als Kapitän, Pilot, Bordschütze oder Techniker des Schiffs.
+
+</div>
+## Rassenwahl
+
+Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich gibt es auch Alienpiraten. Zur Auswahl stehen die folgenden Rassen:
+
+- [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/index) &ndash; kriegerische, zwergenähnliche Aliens
+- [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer) &ndash; echsenartige Aliens
+- [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/index) &ndash; forschende, wissbegierige Cyborgs
+- [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/index) &ndash; niedliche kleine Pelzwesen
+- [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/index) &ndash; sexy, kriegerische Aliens
+- [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/index) &ndash; schwebende, birnenförmige Aliens
+- [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/index) &ndash; rauchende Würmer
+- [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/index) &ndash; kuschelige Yetis
+- [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/index) &ndash; käferähnliche Händler
+- [Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/index) &ndash; bürokratische Marsmenschen
+
+Wenn der Spieler will, kann er natürlich auch eine neue Alienrasse erschaffen, das sollte er aber mit der Gruppe und insbesondere mit dem Spielleiter absprechen, der selbstverständlich ein Vetorecht hat.
+
+## Hintergrund
+
+Der Hintergrund verleiht dem Charakter Individualität. Neben Namen, Beschreibung und Verhalten, interessieren auch vergangene, prägende Ereignisse. Ob der Hintergrund ausformuliert oder in Stichpunkten notiert wird, bleibt jedem selber überlassen.
+
+<div class="hinweis">
+## Tipps zum Hintergrund
+
+Erschaffe einen Hintergrund, der den Charakter für die anderen Spieler interessant werden lässt. Charaktere mit Ecken und Kanten bereichern das Spiel. Also spielt keine introvertierten Einzelgänger, sondern Piraten mit Stärken und Schwächen, die man lieben und hassen kann.
+
+Ein cooler Hintergrund bringt nichts, wenn er im Spiel untergeht. Also gestalte deinen Charakterhintergrund nützlich. Erstens für dich, um ihn besser auszuspielen, zweitens für die Gruppe und den Spielleiter, damit sie den Hintergrund deines Charakters anspielen können.
+
+Klischees sind wunderbar, jeder kennt sie und man hat schnell ein Bild vor Augen. Also verwende Klischees, um deinen Charakter typische oder untypische Merkmale zu geben.
+
+</div>
+Folgende Fragen können helfen, um die wichtigsten Fakten des Charakterhintergrunds festzulegen:
+
+<ol>
+- Wie sieht der Charakter aus? Wie kleidet er sich? Ist er gepflegt oder meidet er Wasser?
+- Wie verhält sich der Charakter? Ist er aufgeschlossen oder grummelig?
+- Was hat er gemacht, bevor er Pirat wurde? Hat er einen Beruf erlernt?
+- Warum und wie ist er Pirat geworden?
+</ol>
+<div class="beispiel">
+## Beispiel zum Charakterhintergrund
+
+Kathy nennt ihren Charakter Sun Chen, sie ist Neuasiatin und kommt vom Planeten Kabukicho-Prime. Sie ist 30 Jahre alt. Kathy beantwortet die Hintergrundfragen wie folgt:
+
+<ol>
+- Lange, schwarze Haare, die sie meist hochgesteckt trägt. Sie trägt meist hochgeschlossene, aber figurbetonte Kleidung.
+- Sie weiß ihre Reize einzusetzen und hat eine flotte Zunge.
+- Sie war Händlerin.
+- Sie hat durch einen aufgeflogenen Betrug all ihre Handelskontakte verloren und muss ihr Geld jetzt anders verdienen.
+</ol>
+</div>
+### Macken
+
+Zum Hintergrund des Charakters gehören bei SpacePirates auch seine Macken. Sie dienen nur zur Individualisierung des Charakters und haben keine regeltechnischen Auswirkungen, bringen aber dafür etwas mehr Farbe ins Spiel. Jeder Pirat sollte zwei Macken besitzen, der Spieler kann sie entweder frei erfinden oder sie anhand der folgenden Liste bestimmen, indem er daraus wählt oder würfelt. Es ist jederzeit möglich, eine Macke abzulegen oder zu ersetzen, falls sie nicht zum Charakter passt, den der Spieler spielen will.
+
+<div class="hinweis">
+## Macken
+
+Insbesondere bei OneShots oder Spielrunden auf Cons ist es zu empfehlen, die Macken auszuwürfeln, da dies flott erledigt ist. Sollte aber ein längeres Abenteuer oder sogar eine kleine Kampagne gespielt werden, sollte man sich Zeit lassen und die Macken individueller gestalten.
+
+Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben.
+
+</div>
+<table data-type="zufallstabelle">
+<caption>Piratenmacken</caption>
+<thead>
+<tr><th>W30</th><th>Macke</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>extrem bürokratisch</td></tr>
+<tr><td>2</td><td>immer auf eine Schlägerei aus</td></tr>
+<tr><td>3</td><td>zu cool für dieses Universum</td></tr>
+<tr><td>4</td><td>zu wagemutig</td></tr>
+<tr><td>5</td><td>geldgierig</td></tr>
+<tr><td>6</td><td>hasst eine Alienrasse</td></tr>
+<tr><td>7</td><td>griesgrämig</td></tr>
+<tr><td>8</td><td>rumsüchtig</td></tr>
+<tr><td>9</td><td>in seinen Cyberpapagei vernarrt</td></tr>
+<tr><td>10</td><td>technikverliebt</td></tr>
+<tr><td>11</td><td>spuckt ständig Kautabak in die Ecke</td></tr>
+<tr><td>12</td><td>zu redegewandt (macht viele Worte und jeder versteht nur die Hälfte)</td></tr>
+<tr><td>13</td><td>erzählt dauernd alte Geschichten</td></tr>
+<tr><td>14</td><td>immer hinter den Weibern bzw. Kerlen her</td></tr>
+<tr><td>15</td><td>trägt die Augenklappe nur, weil er dann grimmiger aussieht</td></tr>
+<tr><td>16</td><td>verträgt keinen Alkohol (außer Rum)</td></tr>
+<tr><td>17</td><td>ist immer wesentlich zu früh</td></tr>
+<tr><td>18</td><td>wirkt auf andere Piraten zu weibisch oder mimosenhaft</td></tr>
+<tr><td>19</td><td>kann nicht weiter als bis 20 rechnen</td></tr>
+<tr><td>20</td><td>schnell beleidigt</td></tr>
+<tr><td>21</td><td>bewegt sich in der Öffentlichkeit nur maskiert</td></tr>
+<tr><td>22</td><td>hasst eine Regierung und &bdquo;rebelliert&ldquo; gegen diese</td></tr>
+<tr><td>23</td><td>Religiöser Fanatiker</td></tr>
+<tr><td>24</td><td>hat einen Lieblingsspruch, den er bei jeder Gelegenheit verwendet</td></tr>
+<tr><td>25</td><td>Ökoaktivist</td></tr>
+<tr><td>26</td><td>überzeugter Esoteriker</td></tr>
+<tr><td>27</td><td>hyperaktiv und nervös</td></tr>
+<tr><td>28</td><td>extreme Stimmungsschwankungen</td></tr>
+<tr><td>29</td><td>extremer Macho oder extreme Feministin</td></tr>
+<tr><td>30</td><td>hoffnungsloser Optimist</td></tr>
+</tbody>
+</table>
+

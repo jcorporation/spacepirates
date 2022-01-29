@@ -1,0 +1,48 @@
+---
+layout: page
+permalink: /Spielregeln/Konflikte/Einfachekonflikte
+title: Einfache Konflikte
+---
+
+# Einfache Konflikte
+
+Wenn die obige Vorgehensweise für einen Konflikt zu aufwendig erscheint und die Details keine Rolle spielen, kann auch ein einfacher Konflikt ausgeführt werden.
+
+<div class="hinweis">
+## Typische einfache Konflikte
+
+- das Aufbrechen einer gesicherten Tür
+- das Reparieren eines Raumschiffs
+- die Suche nach nützlichen Informationen im Starnet
+- ein Handel
+
+</div>
+Ein einfacher Konflikt wird wie eine Konfliktszene behandelt, nur der Punkt &bdquo;Was genau ist geschehen?&ldquo; wird übersprungen. Die siegreiche Partei fügt die Differenz der Erfolge der Gegenpartei zu.
+
+Bei einem einfachen Konflikt, der gegen ein passives Hindernis ausgeführt wird, kann der Spielleiter auch eine Mindestzahl an Erfolgen festlegen, die die Partei erreichen muss. Erreicht sie die nötigen Erfolge, gewinnt sie den Konflikt. Erreicht sie die nötigen Erfolge nicht, sinkt die Zähigkeit des verwendeten Profils um die Punkte, die zu einem Erfolg fehlen.
+
+<table>
+<thead>
+<tr><th>Schwierigkeit</th><th>Benötigte Erfolge</th></tr>
+</thead>
+<tbody>
+<tr><td>Einfach</td><td>1</td></tr>
+<tr><td>Durchschnitt</td><td>2</td></tr>
+<tr><td>Schwer</td><td>3</td></tr>
+<tr><td>Sehr schwer</td><td>5</td></tr>
+<tr><td>Unmöglich</td><td>7</td></tr>
+</tbody>
+</table>
+Der Zähigkeitsverlust bei einem verlorenen Konflikt wird dabei gleichmäßig auf die Mitglieder der Partei verteilt. 
+
+<div class="beispiel">
+## Beispiel eines einfachen Konflikts
+
+Chen, die Kapitänin verhandelt mit einem Auftraggeber über den Lohn eines Auftrags und die genauen Zahlungskonditionen. Der Auftraggeber bietet 4.000 UC pro Kopf bei Abschluss des Auftrags. Chen will 6.000 UC pro Kopf und die Hälfte als Vorschuss. Die Ziele sind also klar und es wird gewürfelt.
+
+- Chen würfelt mit ihrem HÄNDLER-Profil (5): (**2** **2** 3 **4** 5) = 3 Erfolge
+- Der Auftraggeber (HÄNDLER 7) würfelt: (1 3 3 5 **8** **8** **0**) = 3 Erfolge
+
+Somit ist es ein Patt und sie treffen sich in der Mitte. Die Charaktere bekommen 5.000 UC und davon 1.000 UC als Vorschuss.
+
+</div>

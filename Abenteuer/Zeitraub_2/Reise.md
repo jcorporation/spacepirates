@@ -1,0 +1,64 @@
+---
+layout: page
+permalink: /Abenteuer/Zeitraub_2/Reise
+title: Reise nach Javar 3
+---
+
+# Reise nach Javar 3
+
+Javar 3 liegt knapp 53 Lichtjahre vom Brabengürtel entfernt. Die Reise dauert somit mit einem FTL1-Antrieb 53 Stunden.
+
+## Javar 3
+
+<table>
+<thead>
+<tr><th colspan="2">Javar 3</th></tr>
+</thead>
+<tbody>
+<tr><th>Typ</th><td>Dschungelplanet</td></tr>
+<tr><th>Sektor</th><td>Neutrale Zone</td></tr>
+<tr><th>Monde</th><td>2</td></tr>
+<tr><th>Einwohner</th><td>Forscher</td></tr>
+<tr><th>Hauptstadt</th><td>-</td></tr>
+<tr><th>Raumhäfen</th><td>kleine Schiffe</td></tr>
+<tr><th>Besiedelung</th><td>Forschungsstation</td></tr>
+<tr><th>Verfolgungsstatus</th><td>12 (stark)</td></tr>
+<tr><th>Technologielevel</th><td>FTL</td></tr>
+<tr><th>Politisches</th><td>Forschungsplanet</td></tr>
+</tbody>
+</table>
+Javar 3 ist ein kleiner Planet am Rande der großen Raumzeitverschiebung in der Neutralen Zone. Auf diesem Planeten befindet sich als einzige Ansiedlung eine Forschungsstation, die hauptsächlich die Raumzeitverschiebung erforscht. Diese Forschungsstation wurde vom Galaktischen Handelsrat betrieben. Javar 3 ist zur Quarantänezone erklärt und evakuiert worden.
+
+Der Planet wird nur selten von den Patrouillen der neutralen Zone angeflogen, aber dafür von Jangbas Raumschiffe aus dem Orbit bewacht. Das Raumschiff ist aber nur mit einer Rumpftruppe ausgestattet und kann weder den ganzen Planeten noch den ganzen Weltraum im Blick behalten, ist aber trotzdem dem Piratenschiff weit überlegen.
+
+<table>
+<thead>
+<tr><th colspan="2">Jangbas Raumschiff</th></tr>
+</thead>
+<tbody>
+<tr><th>Pilotenwert</th><td>8</td></tr>
+<tr><th>Techwert</th><td>4</td></tr>
+<tr><th>Söldnerwert</th><td>5</td></tr>
+<tr><th>Antrieb</th><td>FTL2</td></tr>
+<tr><th>Geschwindigkeit</th><td>4</td></tr>
+<tr><th>Wendigkeit</th><td>2</td></tr>
+<tr><th>Zuverlässigkeit</th><td>4</td></tr>
+<tr><th>Hilfsenergie</th><td>40</td></tr>
+<tr><th>Schadenspunkte</th><td>50</td></tr>
+<tr><th>Schilde</th><td>15</td></tr>
+<tr><th>Sensoren</th><td>Forschung</td></tr>
+<tr><th>Bewaffnung</th><td>2 Gravitationskanonen: WB 3, SM 3<br/>
+2 Laserkanonen: WB 2, SM 1</td></tr>
+</tbody>
+</table>
+### Möglichkeiten auf den Planeten zu kommen
+
+- Das Piratenschiff schleicht sich irgendwie an Jangbas Raumschiff vorbei und landet auf dem Planeten.
+- Die Piraten liefern sich einen etwas aussichtslosen Kampf mit dem Raumschiff und flüchten dann mehr oder weniger unbeschadet auf den Planeten.
+- Der mitgereiste Jangba versucht, die Raumschiffbesatzung zu überzeugen, dass er der richtige Jangba ist.
+
+
+***
+- **Zurück:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub2/Auftragserteilung)
+- **Weiter:** [Auf Javar 3]({{ site.baseurl }}/Abenteuer/Zeitraub2/Javar3)
+

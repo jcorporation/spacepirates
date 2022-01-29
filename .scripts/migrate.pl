@@ -16,8 +16,14 @@ sub replace_href() {
         return "[$text]($href)"
     }
     if ($href eq "//jcgames/lizenz") {
-        return "[$text]({{ site.baseurl }}/lizenz)"
+        return "[$text]({{ site.baseurl }}/Kontakt)"
     }
+    my @hrefs = split /\//, $href;
+    $href = "";
+    for (@hrefs) {
+        $href.= "/".ucfirst($_);
+    }
+    $href=~s|//|/|g;
     return "[$text]({{ site.baseurl }}$href)"
 }
 
@@ -34,19 +40,43 @@ sub replace_h() {
 my $title = "";
 open my $in, $ARGV[0] or die;
 while (<$in>) {
-    if (/<h1[^>]+>(.*)<\/h1>/) {
+    if (/<h1[^>]*>(.*)<\/h1>/) {
         $title = $1;
         $title =~ s/<[^>]+>//g;
+        $title =~ s|\&auml;|ä|g;
+        $title =~ s|\&ouml;|ö|g;
+        $title =~ s|\&uuml;|ü|g;
+        $title =~ s|\&Auml;|Ä|g;
+        $title =~ s|\&Ouml;|Ö|g;
+        $title =~ s|\&Uuml;|Ü|g;
+        $title =~ s|\&szlig;|ß|g;
         last;
     }
 }
 close $in;
 
 open $in, $ARGV[0] or die;
-open my $out, ">".$ARGV[0].".md" or die;
+my $outfile = "";
+my ($path, $file) = $ARGV[0] =~ /(.*)\/([^\/]+)$/;
+if ($file ne "index") {
+    $outfile = $path."/".ucfirst($file).".md";
+}
+else {
+    $outfile = $path."/".$file.".md";
+}
+
+my @permalinks = split /\//, $ARGV[0];
+my $permalink = "";
+for (@permalinks) {
+    $permalink.= "/".ucfirst($_);
+}
+$permalink =~ s|//|/|g;
+$permalink =~ s|/./|/|g;
+
+open my $out, ">".$outfile or die;
 print $out qq|---
 layout: page
-permalink: /$ARGV[0]
+permalink: $permalink
 title: $title
 ---
 
@@ -56,6 +86,7 @@ while (<$in>) {
     chomp;
     s|src=\"/www/([^"]+)\"|&replace_src($1)|ge;
     s|<a href=\"([^"]+)\">([^<]+)</a>|&replace_href($1, $2)|ge;
+    s|\[([^\[]+)\[([^\]]+)\]|&replace_href($1, $2)|ge;
     s|\&auml;|ä|g;
     s|\&ouml;|ö|g;
     s|\&uuml;|ü|g;
@@ -73,6 +104,11 @@ while (<$in>) {
     s|<strong>([^<]+)</strong>|**$1**|g;
     s|<em>([^<]+)</em>|*$1*|g;
     s|<hr/>|***|g;
+    s|<article>||g;
+    s|<section>||g;
+    s|</article>||g;
+    s|</section>||g;
+    s|/Regelwerkv5/|/Spielregeln/|g;
     if (m/^<ul>/) {
         next;
     }
