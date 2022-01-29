@@ -2,7 +2,7 @@
 layout: page
 permalink: /Weltraum/Epsilon_Canabis
 title: Epsilon Canabis
-aside: Epsilon_Canabis_aside.md
+
 Datatype: Sternensystem
 Name: Epsilon Canabis
 Sektor: weit außerhalb
