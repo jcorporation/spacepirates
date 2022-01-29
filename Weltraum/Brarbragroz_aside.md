@@ -1,1 +1,1 @@
-{% include planet.md data=page.sitedata %}
+{% include planet.md data=page.sitedata.Brarbragoz %}
