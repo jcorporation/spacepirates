@@ -4,17 +4,14 @@ permalink: /Weltraum/index
 title: Weltraum
 ---
 
-
 # Weltraum
 
-
+<div class="float-start me-2">
+<a href="/Weltraum/Sternenkarte/"><img alt="Sternenkarte" src="{{ site.baseurl }}/assets/images/cover/sternenkarte.png" /></a>
+</div>
 Der Weltraum &ndash; unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die [Politik]({{ site.baseurl }}/Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/index). Hier kann man nichts von der Unendlichkeit des Weltraums erahnen, denn ihr Zentrum besteht aus zehn dicht gedrängten Sonnensystemen. Daher ist die Freihandelszone das Zentrum des Handels, der )({{ site.baseurl }}/Weltraum/Politik) und Kultur im bekannten Universum, auch wenn die [Piraten]({{ site.baseurl }}/Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/index) das nicht wahrhaben will. Hier sind Händler noch Händler, Intrigen noch Intrigen und )({{ site.baseurl }}/Weltraum/Piraten) noch frei. Genau diese Freihandelszone ist der Mittelpunkt der [Abenteuer]({{ site.baseurl }}/Abenteuer) von SpacePirates.
 
-
-<aside><a href="/karte/"><img alt="Sternenkarte" src="{{ site.baseurl }}/assets/pics/spacepirates/titel/sternenkarte.png" /></a></aside>
-
-***
-<div class="col">
+{% capture include_col1 %}
 ## Der Weltraum
 
 - [Interaktive Sternenkarte]({{ site.baseurl }}/Karte)
@@ -29,9 +26,9 @@ Der Weltraum &ndash; unendliche Weiten. Zumindest beinahe, denn es gibt ja noch 
 - [Planeten und Sternensysteme]({{ site.baseurl }}/Weltraum/Planeten-sternensysteme)
 - [Zurückgebliebene Planeten]({{ site.baseurl }}/Weltraum/Zurueckgebliebeneplaneten)
 - [Raumstationen]({{ site.baseurl }}/Weltraum/Raumstationen)
+{% endcapture %}
 
-</div>
-<div class="col">
+{% capture include_col2 %}
 ## Menschen
 
 - [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/index)
@@ -53,9 +50,9 @@ Der Weltraum &ndash; unendliche Weiten. Zumindest beinahe, denn es gibt ja noch 
 - [Syoner]({{ site.baseurl }}/Weltraum/Aliens/Syoner/index)
 - [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/index)
 - [Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/index)
+{% endcapture %}
 
-</div>
-<div class="col">
+{% capture include_col3 %}
 ## Organisationen und Gruppen
 
 - [Piraten]({{ site.baseurl }}/Weltraum/Piraten)
@@ -69,6 +66,6 @@ Der Weltraum &ndash; unendliche Weiten. Zumindest beinahe, denn es gibt ja noch 
 - [Verrückte Wissenschaftler]({{ site.baseurl }}/Weltraum/Wissenschaftler)
 - [Sekten]({{ site.baseurl }}/Weltraum/Sekten)
 - [Militär]({{ site.baseurl }}/Weltraum/Militaer)
+{% endcapture %}
 
-</div>
-
+{% include columns.md col1=include_col1 col2=include_col2 col3=include_col3%}
