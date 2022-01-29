@@ -12,8 +12,13 @@ Hier sind alle wichtigen Planeten und Sternensysteme des SpacePirates Universums
 
 ## Planeten
 
-| Name | Sektor | Einwohner | Politisches |
-| ---- | ------ | --------- | ----------- |
+<table>
+<thead>
+<tr><th>Name</th><th>Sektor</th><th>Einwohner</th><th>Politisches</th></tr>
+</thead>
+<tbody>
 {% for planet in site.data.planeten %}
-    | {{ planet.Name }} | {{ planet.Sektor }} | {{ planet.Einwohner }} | {{ planet.Politisches }} |
+    <tr><td>{{ planet.Name }}</td><td>{{ planet.Sektor }}</td><td>{{ planet.Einwohner }}</td><td>{{ planet.Politisches }}</td></tr>
 {% endfor %}
+</tbody>
+</table>
