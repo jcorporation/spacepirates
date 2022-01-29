@@ -2,9 +2,10 @@
 layout: page
 permalink: /Weltraum/Brarbragroz
 title: Brarbragroz
+aside: Brarbragroz_aside.md
 
 sitedata:
-    Type: Planet
+    Typ: Planet
     Name: Brarbragoz
     Sektor: 
     Monde: 2
