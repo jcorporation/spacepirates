@@ -1,5 +1,5 @@
 <table>
-    <caption>{{ include.Name }}</caption>
+    <caption>{{ include.data.Name }}</caption>
     <tbody>
         <tr><th>Sektor</th><td>{{ include.Sektor }}</td></tr>
         <tr><th>Zentralgestirn</th><td>{{ include.Zentralgestirn }}</td></tr>
