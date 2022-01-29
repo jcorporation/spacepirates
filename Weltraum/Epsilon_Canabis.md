@@ -2,6 +2,7 @@
 layout: page
 permalink: /Weltraum/Epsilon_Canabis
 title: Epsilon Canabis
+aside: Epsilon_Canabis_aside.md
 
 sitedata:
     Epsilon_Canabis:
@@ -17,8 +18,6 @@ sitedata:
 # Epsilon Canabis
 
 Epsilon Canabis ist ein nahezu unbewohntes Sternensystem, einzig ein Mond fällt schon von Weitem durch seine vitale, grüne Farbe auf. Der Mond kreist um einen Gasplaneten (2. Planet). Auf dem Mond lebt der SpaceWorm Bahir der im Abenteuer [Buschraub]({{ site.baseurl }}/Abenteuer/Buschraub/) vorkommt.
-
-{% include sternensystem.md data=page.sitedata.Epsilon_Canabis %}
 
 ## Planeten
 
