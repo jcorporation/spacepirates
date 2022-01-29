@@ -7,7 +7,7 @@ aside: Brarbragroz_aside.md
 sitedata:
     Brarbragoz:
         Datatype: Planet
-        Typ: Erdähnlicher Planet
+        Typ: Erdähnlich
         Name: Brarbragoz
         Sektor: 
         Monde: 2
