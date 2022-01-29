@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Brarbragoz
+permalink: /Weltraum/Brarbragroz
 title: Brarbragroz
 aside: Brarbragroz_aside.md
 ---
