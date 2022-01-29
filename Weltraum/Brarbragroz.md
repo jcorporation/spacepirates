@@ -2,7 +2,16 @@
 layout: page
 permalink: /Weltraum/Brarbragroz
 title: Brarbragroz
-aside: Brarbragroz_aside.md
+
+sitedata:
+    Type: Planet
+    Name: Brarbragoz
+    Sektor: 
+    Monde: 2
+    Einwohner: Brarbragrozianer
+    Hauptstadt: viele
+    Besiedelung: kleine Städte
+    Politisches: Zurückgebliebener Planet
 ---
 
 # Brarbragroz
