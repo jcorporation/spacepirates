@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Was_ist_Spacepirates
+permalink: /Spielregeln/Was_ist_SpacePirates
 title: Was ist SpacePirates?
 ---
 
@@ -12,12 +12,11 @@ Bei SpacePirates geht es um eine zusammengewürfelte Piratencrew, die ein gebrau
 
 Die Geschehnisse des Abenteuers werden dabei am Spieltisch durch Beschreibungen und Skizzen dargestellt. Konflikte im Abenteuer werden durch die Kompetenzen der Charaktere und Würfel entschieden.
 
-<div class="hinweis">
-## Nehmt SpacePirates nicht zu ernst &hellip;
-
+{% capture include_body %}
 &hellip; denn SpacePirates nimmt sich selber nicht ernst. Es ist in erster Linie ein Spiel, an dem alle Spaß haben sollen. Der Weltraum von SpacePirates ist voller Klischees und Absurditäten, nutzt sie, um damit verrückte Abenteuer zu erleben.
+{% endcapture %}
+{% include hinweis.md title="Nehmt SpacePirates nicht zu ernst &hellip;" body=include_body %}
 
-</div>
 Bei SpacePirates übernehmen die Beteiligten eine von zwei Rollen: 1 Spielleiter und 3&ndash;6 Spieler.
 
 ## Die Spieler
@@ -41,4 +40,3 @@ SpacePirates besitzt ein erzählerisches Regelwerk mit nur wenigen Charakterwert
 ## Dieses Buch
 
 Dieses Buch enthält alles, um das erste Abenteuer im SpacePirates-Universum zu erleben. Im ersten Teil des Buches wird das Universum von SpacePirates beschrieben: Von bekannten Piratenstationen über Weltraumphänomenen bis hin zu den bunten Alienrassen, beschreibt dieser Teil alles, um sich im Universum zurechtzufinden. Im zweiten Teil werden die Spielregeln von SpacePirates erklärt: Wie eine Piratencrew erschaffen wird, wie ein Abenteuer abläuft und Konflikte aufgelöst werden. Zudem erhält der Spielleiter Tipps, wie er Abenteuer vorbereitet und eigene schreiben kann. Im Anhang befindet sich auch gleich ein erstes Abenteuer für SpacePirates. Viele weitere Abenteuer gibt es im Abenteuerband für SpacePirates und auf der Homepage als PDF.
-

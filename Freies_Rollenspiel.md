@@ -18,7 +18,7 @@ Wie jedes freies Rollenspiel, so wäre auch dieses so nicht ohne Hilfe und Feedb
 
 ## Freies Rollenspiel mit freier Software
 
-Lite wird ausschließlich mit Opensource Software erstellt.
+SpacePirates wird ausschließlich mit Opensource Software erstellt.
 
 - [LibreOffice](http://www.libreoffice.org)
 - [Inkscape](http://www.inkscape.org)

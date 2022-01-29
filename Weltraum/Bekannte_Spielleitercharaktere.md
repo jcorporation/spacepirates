@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Bekannteslc
+permalink: /Weltraum/Bekannte_Spielleitercharaktere
 title: Bekannte Spielleitercharaktere
 ---
 

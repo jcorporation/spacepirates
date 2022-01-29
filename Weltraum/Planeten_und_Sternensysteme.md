@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Planeten-sternensysteme
+permalink: /Weltraum/Planeten_und_Sternensysteme
 title: Planeten und Sternensysteme
 ---
 

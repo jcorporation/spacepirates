@@ -6,7 +6,7 @@ title: Die Piratencrew
 
 # Die Piratencrew
 
-- [Die Charaktere]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charaktere)
+- [Die Charaktere]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Die_Charaktere)
 - [Charakterwerte]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charakterwerte)
 - [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung)
   - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen)

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Politik
+permalink: /Weltraum/Politische_Lage/index
 title: Politische Lage
 ---
 

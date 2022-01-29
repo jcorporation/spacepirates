@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Haendlerundhalunken
+permalink: /Weltraum/Händler_und_Halunken
 title: Händler und Halunken
 ---
 

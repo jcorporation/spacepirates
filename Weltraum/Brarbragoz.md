@@ -2,11 +2,10 @@
 layout: page
 permalink: /Weltraum/Brarbragoz
 title: Brarbragroz
+aside: Brarbragroz_aside.md
 ---
 
-
 # Brarbragroz
-
 
 Brarbragroz ist eine sehr erdähnliche Welt, die von einer primitiven, humanoiden Rasse, den Brarbragrozianern, bewohnt wird. Die Brarbragrozianer ähneln Menschen stark, wenn man mal von der grünlichen Haut und den geschlitzten Pupillen absieht. Kulturell und technologisch sind sie aber noch viele tausend Jahre von der Menschheit entfernt. Der Planet ist übersät von vielen kleinen Königreichen, Fürstentümern, Stammesgebieten und Imperien. Die am Weitesten entwickelten befinden sich auf einer Kulturstufe, die etwa der Europas im 13. Jahrhundert entspricht, sehr viele Völker rangieren aber eher darunter.
 
@@ -15,21 +14,3 @@ Außerweltliche Besucher werden auf Brarbragroz sehr schnell von gar romantische
 Wie Brarbragrozianer auf Außenweltler reagieren, variiert von Kultur zu Kultur. Aber immer ist diese Reaktion extrem: Entweder, sie fangen an, einen als Gott anzubeten, oder sie versuchen einen als Dämon am Nächsten Baum aufzuhängen. Zum Glück für viele Raumfahrer sind Brarbragrozianer leicht zu beeindrucken, da sie jeden Blödsinn glauben, wenn er sich nur fantastisch genug anhört. Der berühmte Raumpirat Glorb McFepsy beispielsweise konnte sich im Brülfischen Imperium allein deswegen zum Sonnengott aufschwingen, weil er den Brarbragrozianern seine Digitaluhr mit eingebautem Tetrisspiel zeigte.
 
 Die Föderation beobachtet den Planeten von getarnten Basen aus.
-
-
-<aside>
-<table data-type="planet">
-<caption>Brarbragoz</caption>
-<tbody>
-<tr><th>Typ</th><td>Erdähnlicher Planet</td></tr>
-<tr><th>Sektor</th><td> </td></tr>
-<tr><th>Monde</th><td>2</td></tr>
-<tr><th>Einwohner</th><td>Brarbragrozianer</td></tr>
-<tr><th>Hauptstadt</th><td>viele</td></tr>
-<tr><th>Besiedelung</th><td>kleine Städte</td></tr>
-<tr><th>Politisches</th><td>Zurückgebliebener Planet</td></tr>
-<tr><th>Erwähnungen</th><td>[Brarbragoz]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
-

@@ -58,3 +58,6 @@ Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um
 {% endcapture %}
 
 {% include columns.md col1=include_col1 col2=include_col2 col3=include_col3%}
+
+***
+Die Spielregeln basieren auf [Lite](https://lite.jcgames.de/).

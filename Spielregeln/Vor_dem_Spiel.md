@@ -10,9 +10,8 @@ Vor dem Spiel erschaffen die Spieler gemeinsam ihre Charaktere und ein Raumschif
 
 ## 1. Charaktere erschaffen
 
-Jeder Spieler erschafft seinen Charakter, dies geschieht gemeinsam, damit alle Charaktere gut zusammenpassen und miteinander gespielt werden können. Genauere Angaben dazu, was Charaktere sind und wie man sie erstellt, finden sich im Kapitel &bdquo;[Piratencrew]({{ site.baseurl }}/Spielregeln/Die_Piratencrew)&ldquo;. Jeder Charakter wird dabei auf dem Charakterbogen festgehalten.
+Jeder Spieler erschafft seinen Charakter, dies geschieht gemeinsam, damit alle Charaktere gut zusammenpassen und miteinander gespielt werden können. Genauere Angaben dazu, was Charaktere sind und wie man sie erstellt, finden sich im Kapitel &bdquo;[Piratencrew]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/)&ldquo;. Jeder Charakter wird dabei auf dem Charakterbogen festgehalten.
 
 ## 2. Abenteuer vorbereiten oder erstellen
 
 Dieser Teil liegt vollständig in der Verantwortung des Spielleiters. Er nimmt entweder ein fertiges Abenteuer oder schreibt ein eigenes. Hinweise, wie man dies am besten tut, finden sich im Kapitel &bdquo;[Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer)&ldquo; weiter hinten im Buch.
-
