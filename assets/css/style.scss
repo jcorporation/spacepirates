@@ -58,6 +58,10 @@ td {
   border: 1px solid #ececec;
 }
 
+td > p:last-child {
+  margin-bottom: 0;
+}
+
 .card-body p:last-child {
   margin-bottom: 0;
 }
