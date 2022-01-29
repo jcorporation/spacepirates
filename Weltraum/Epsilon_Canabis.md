@@ -16,6 +16,8 @@ Politisches:
 
 Epsilon Canabis ist ein nahezu unbewohntes Sternensystem, einzig ein Mond fällt schon von Weitem durch seine vitale, grüne Farbe auf. Der Mond kreist um einen Gasplaneten (2. Planet). Auf dem Mond lebt der SpaceWorm Bahir der im Abenteuer [Buschraub]({{ site.baseurl }}/Abenteuer/Buschraub) vorkommt.
 
+{% include sternensystem.md %}
+
 ## Planeten
 
 1. Giftiger Planet, 54 Monde
