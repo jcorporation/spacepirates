@@ -3,6 +3,7 @@
 YQ=".scripts/yq"
 
 printf "" > _data/planeten.yml.tmp
+printf "" > _data/städte.yml.tmp
 printf "" > _data/sternensysteme.yml.tmp
 while read -r F
 do
@@ -22,9 +23,17 @@ do
     then 
         echo "$SYSTEM" >> _data/sternensysteme.yml.tmp
     fi
+
+    STADT=$($YQ e '.Stadt' - <<< "$SITEDATA")
+    if [ "$STADT" != "null" ] && [ "$STADT" != "" ]
+    then 
+        echo "$STADT" >> _data/städte.yml.tmp
+    fi
 done < <(find ./ -name \*.md)
 
 $YQ e 'sort_keys(.)' _data/planeten.yml.tmp | sed -r 's/^(\w)/- \1/g' > _data/planeten.yml
+$YQ e 'sort_keys(.)' _data/städte.yml.tmp | sed -r 's/^(\w)/- \1/g' > _data/städte.yml
 $YQ e 'sort_keys(.)' _data/sternensysteme.yml.tmp | sed -r 's/^(\w)/- \1/g' > _data/sternensysteme.yml
 rm _data/planeten.yml.tmp
+rm _data/städte.yml.tmp
 rm _data/sternensysteme.yml.tmp

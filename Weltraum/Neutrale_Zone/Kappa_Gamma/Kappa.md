@@ -1,12 +1,17 @@
 ---
 layout: page
-permalink: /Weltraum/Neutrale_Zone/Kappagamma_kappa
+permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa
 title: Kappa
+sitedata:
+    Stadt:
+        Kappa-Stadt:
+            Planet: "[Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutralezone/Kappa_Gamma/)"
+            Name: "[Kappa-Stadt](/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa)"
+            Groesse: Millionenstadt
+            Kategorie: Hauptstadt
 ---
 
-
 # Kappa
-
 
 Die Kappa-KI und ihre Anhänger leben auf dem gleichnamigen Kontinent. Unter Kappa hat sich eine barbarische Robotergesellschaft entwickelt, in der das Recht des Stärkeren zählt. Daher werden die Roboter immer größer, besser gepanzert und besser bewaffnet. Es gibt große Arenen, in denen sich Gladiatoren-Roboter mit ihren Lasern und Greifern gegenseitig vernichten und wo die Sieger als Helden gefeiert werden. Fehlkonstruktionen werden gnadenlos aussortiert und ins Exil geschickt. Die Kappa-Kultur hat sich dem kapitalistischen Werten immer größer, immer besser und immer schneller verschrieben, so dass für schwache und unproduktive Roboter kein Platz in dieser Gesellschaft existiert.
 
@@ -14,15 +19,4 @@ Die Kappa-Roboter sind in einer kirchenähnlichen Gemeinschaft organisiert, die 
 
 Die Kappa-Roboter leben in einer gigantischen Megastadt, die sich immer weiter ausbreitet. In der Mitte dieser Stadt befindet sich eine große Palastkirche, die vom Papstbot, seinen 7 Kardinalbots und ihren Helfern bewohnt wird. Im direkten Umkreis wohnen die mächtigsten Roboter. Umso weiter man sich von diesem Machtzentrum entfernt, umso weniger gigantisch werden die Roboter und ihre Behausungen, bis man in den äußeren Slums endet, in denen die ausgestoßenen Roboter dahinvegetieren.
 
-<table data-type="stadt">
-<caption>Kappa-Stadt</caption>
-<tbody>
-<tr><th>Planet</th><td>[Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutralezone/Kappagamma)</td></tr>
-<tr><th>Größe</th><td>Millionenstadt</td></tr>
-<tr><th>Kategorie</th><td>Hauptstadt</td></tr>
-<tr><th>Erwähnungen</th><td>[Kappa-Stadt]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
 <aside><img alt="Kappa Roboter" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/Kappa.png" /></aside>
-

@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /Weltraum/Neutrale_Zone/Kappagamma_pflanzen
+permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/Roboterfressende_Pflanzen
 title: Roboterfressende Pflanzen
 ---
 
-
 # Roboterfressende Pflanzen
-
 
 Auf dem Planeten gibt es keine Tiere, dafür hat sich die Flora den neuen Gegebenheiten angepasst: Die roboterfressenden Pflanzen betreiben ihre Fotosynthese jetzt mittels Radioaktivität und sind dementsprechend gefährlich.
 
@@ -17,6 +15,3 @@ Das Herkuleskraut erreicht innerhalb weniger Wochen eine Höhe von dreißig bis 
 ### Riesenlilie
 
 Die Riesenlilie ist, wie anderen Lilien, schön und elegant anzuschauen. Sie besitzt weiß-rosa Blüten und wird bis zu zwanzig Meter hoch. Aber so zart, wie sie auch aussieht, so gefährlich ist sie auch. Die dicht unter der Erde wachsenden gigantischen Wurzeln warten nur darauf, dass unvorsichtige Roboter in ihre Reichweite gelangen. Die Wurzeln schlingen sich in Windeseile um das Opfer erdrücken es, bis der letzte Tropfen Öl von den gierigen Wurzeln aufgenommen wurde. Es ist nicht ungewöhnlich, dass rund um eine Riesenlilie Dutzende ausgepresste Roboter vor sich hinrosten.
-
-
-

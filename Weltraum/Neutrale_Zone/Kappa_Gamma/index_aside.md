@@ -1,0 +1,1 @@
+{% include planet.md data=page.sitedata.Planet.Kappa_Gamma %}
