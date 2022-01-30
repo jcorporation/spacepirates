@@ -31,13 +31,13 @@ Hier sind alle wichtigen Planeten und Sternensysteme des SpacePirates Universums
 {% for planet in site.data.Planeten %}
     {% assign Name = planet[1].Name %}
     {% assign Sektor = planet[1].Sektor %}
-    {% assign Einwohner = planet[1].Name %}
-    {% assign Politisches = planet[1].Name %}
+    {% assign Einwohner = planet[1].Einwohner %}
+    {% assign Politisches = planet[1].Politisches %}
     <tr>
-        <td>{% include printlink.md data=Name %}</td>
-        <td>{% include printlink.md data=Sektor %}</td>
-        <td>{% include printlink.md data=Einwohner %}</td>
-        <td>{% include printlink.md data=Politisches %}</td>
+        <td>{% include printlink.md data=Name | markdownify %}</td>
+        <td>{% include printlink.md data=Sektor | markdownify %}</td>
+        <td>{% include printlink.md data=Einwohner | markdownify %}</td>
+        <td>{% include printlink.md data=Politisches | markdownify %}</td>
     </tr>
 {% endfor %}
 </tbody>
