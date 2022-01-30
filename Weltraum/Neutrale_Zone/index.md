@@ -18,4 +18,4 @@ Die neutrale Zone befindet sich zwischen der Freihandelszone und dem Glukoranisc
 
 ## Weltraumphänomene
 
-{% include weltraumphänomene_list.md filter_field='Sektor' filter_value='Neutrale Zone' %}
+{% include weltraumphaenomene_list.md filter_field='Sektor' filter_value='Neutrale Zone' %}
