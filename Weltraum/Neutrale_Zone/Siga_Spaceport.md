@@ -1,15 +1,12 @@
 ---
 layout: page
-permalink: /Weltraum/Neutrale_Zone/Sigaspaceport
+permalink: /Weltraum/Neutrale_Zone/Siga_Spaceport
 title: Siga Spaceport
 ---
 
-
 # Siga Spaceport
 
-
 Siga Spaceport ist eine Forschungsstation in der Neutralen Zone. Von hier aus starten die großen Forschungsschiffe, um neue Welten zu entdecken, unbekannte Phänomene zu erforschen und unbekannte Sektoren zu kartografieren. Siga Spaceport ist eine moderne Raumstation, an der auch die größten Schiffe andocken können. Allein schon wegen ihrer abgelegenen Position zieht sie Abenteurer an.
-
 
 <aside>
 <table data-type="raumstation">
@@ -22,4 +19,3 @@ Siga Spaceport ist eine Forschungsstation in der Neutralen Zone. Von hier aus st
 </tbody>
 </table>
 </aside>
-

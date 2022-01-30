@@ -1,1 +1,1 @@
-{% include planet.md data=page.sitedata.Planet.Kappa_Gamma %}
+{% include planet.md data=page.sitedata.Planeten.Kappa_Gamma %}

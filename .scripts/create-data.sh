@@ -2,7 +2,7 @@
 
 YQ=".scripts/yq"
 
-LISTS="Planeten Städte Sternensysteme Slc"
+LISTS="Planeten Städte Sternensysteme Slc Raumstationen Phänomene"
 
 #create empty tmp file
 for L in $LISTS

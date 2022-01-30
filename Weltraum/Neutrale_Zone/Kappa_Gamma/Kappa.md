@@ -7,7 +7,7 @@ sitedata:
         Kappa-Stadt:
             Planet: "[Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutralezone/Kappa_Gamma/)"
             Name: "[Kappa-Stadt](/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa)"
-            Groesse: Millionenstadt
+            Größe: Millionenstadt
             Kategorie: Hauptstadt
 ---
 
