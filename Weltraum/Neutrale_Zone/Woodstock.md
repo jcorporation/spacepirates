@@ -5,11 +5,15 @@ title: Woodstock
 aside: Woodstock_aside.md
 
 sitedata:
-    Planet:
+    Planeten:
         Woodstock:
             Typ: Erdähnlich
-            Name: "[Woodstock](/Weltraum/Neutrale_Zone/Woodstock)"
-            Sektor: "[Neutrale Zone](/Weltraum/Neutrale_Zone/)"
+            Name:
+                Text: Woodstock
+                Link: /Weltraum/Neutrale_Zone/Woodstock
+            Sektor:
+                Text: Neutrale Zone
+                Link: /Weltraum/Neutrale_Zone/
             Monde: Asteroidengürtel
             Einwohner: Hippies
             Hauptstadt: Das große Festival

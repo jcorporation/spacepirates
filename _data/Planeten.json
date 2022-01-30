@@ -1,0 +1,38 @@
+{
+  "Brarbragoz": {
+    "Typ": "Erdähnlich",
+    "Name": "Brarbragoz",
+    "Sektor": null,
+    "Monde": 2,
+    "Einwohner": "Brarbragrozianer",
+    "Hauptstadt": "viele",
+    "Besiedelung": "kleine Städte",
+    "Politisches": "Zurückgebliebener Planet"
+  },
+  "Kappa_Gamma": {
+    "Typ": "Erdähnlich",
+    "Name": "[Kappa Gamma](/Weltraum/Neutrale_Zone/Kappa_Gamma/)",
+    "Sektor": "[Neutrale Zone](/Weltraum/Neutrale_Zone/)",
+    "Monde": 2,
+    "Einwohner": "KIs und Roboter",
+    "Hauptstadt": "Kappa und Gamma",
+    "Besiedelung": "Roboterstädte",
+    "Politisches": "keine politischen Beziehungen"
+  },
+  "Woodstock": {
+    "Typ": "Erdähnlich",
+    "Name": {
+      "Text": "Woodstock",
+      "Link": "/Weltraum/Neutrale_Zone/Woodstock"
+    },
+    "Sektor": {
+      "Text": "Neutrale Zone",
+      "Link": "/Weltraum/Neutrale_Zone/"
+    },
+    "Monde": "Asteroidengürtel",
+    "Einwohner": "Hippies",
+    "Hauptstadt": "Das große Festival",
+    "Besiedelung": "Das großes Festival",
+    "Politisches": "keine politischen Beziehungen"
+  }
+}

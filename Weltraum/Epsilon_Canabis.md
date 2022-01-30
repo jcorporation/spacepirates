@@ -5,7 +5,7 @@ title: Epsilon Canabis
 aside: Epsilon_Canabis_aside.md
 
 sitedata:
-    Sternensystem:
+    Sternensysteme:
         Epsilon_Canabis:
             Name: Epsilon Canabis
             Sektor: weit außerhalb

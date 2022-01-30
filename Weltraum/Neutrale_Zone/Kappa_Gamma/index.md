@@ -5,7 +5,7 @@ title: Kappa Gamma
 aside: index_aside.md
 
 sitedata:
-    Planet:
+    Planeten:
         Kappa_Gamma:
             Typ: Erdähnlich
             Name: "[Kappa Gamma](/Weltraum/Neutrale_Zone/Kappa_Gamma/)"

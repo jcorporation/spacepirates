@@ -4,7 +4,7 @@
 </thead>
 <tbody>
 {% for slc in include.data %}
-    <tr><td>{{ slc[1].Name | markdownify }}</td><td>{{ slc.Rasse[1] | markdownify }}</td><td>{{ slc.Wohnort[1] }}</td><td>{{ slc.Position[1] }}</td></tr>
+    <tr><td>{{ slc[1].Name | markdownify }}</td><td>{{ slc[1].Rasse | markdownify }}</td><td>{{ slc[1].Wohnort }}</td><td>{{ slc[1].Position }}</td></tr>
 {% endfor %}
 </tbody>
 </table>

@@ -5,7 +5,7 @@ title: Brarbragroz
 aside: Brarbragroz_aside.md
 
 sitedata:
-    Planet:
+    Planeten:
         Brarbragoz:
             Typ: Erdähnlich
             Name: Brarbragoz

@@ -2,47 +2,40 @@
 
 YQ=".scripts/yq"
 
-printf "" > _data/planeten.yml.tmp
-printf "" > _data/slc.yml.tmp
-printf "" > _data/städte.yml.tmp
-printf "" > _data/sternensysteme.yml.tmp
+LISTS="Planeten Städte Sternensysteme Slc"
+
+#create empty tmp file
+for L in $LISTS
+do
+    printf "" > "_data/$L.yml.tmp"
+done
+
 while read -r F
 do
     [ "$F" = "./README.md" ] && continue
     [[ "$F" =~ ^./_includes.* ]] && continue
     [[ "$F" =~ .*_aside.md$ ]] && continue
-    SITEDATA=$($YQ --front-matter=extract e '.sitedata' "$F")
-
-    PLANET=$($YQ e '.Planet' - <<< "$SITEDATA")
-    if [ "$PLANET" != "null" ] && [ "$PLANET" != "" ]
-    then 
-        echo "$PLANET" >> _data/planeten.yml.tmp
-    fi
-
-    SYSTEM=$($YQ e '.Sternensystem' - <<< "$SITEDATA")
-    if [ "$SYSTEM" != "null" ] && [ "$SYSTEM" != "" ]
-    then 
-        echo "$SYSTEM" >> _data/sternensysteme.yml.tmp
-    fi
-
-    STADT=$($YQ e '.Stadt' - <<< "$SITEDATA")
-    if [ "$STADT" != "null" ] && [ "$STADT" != "" ]
-    then 
-        echo "$STADT" >> _data/städte.yml.tmp
-    fi
-
-    SLC=$($YQ e '.Slc' - <<< "$SITEDATA")
-    if [ "$SLC" != "null" ] && [ "$SLC" != "" ]
-    then 
-        echo "$SLC" >> _data/slc.yml.tmp
-    fi
+    SITEDATA=$($YQ --front-matter=extract '.sitedata' "$F")
+    
+    for L in $LISTS
+    do
+        V=$($YQ ".${L}" - <<< "$SITEDATA")
+        if [ "$V" != "null" ] && [ "$V" != "" ]
+        then 
+            echo "$V" >> _data/$L.yml.tmp
+        fi
+    done
 done < <(find ./ -name \*.md)
 
-$YQ e 'sort_keys(.)' _data/planeten.yml.tmp > _data/planeten.yml
-$YQ e 'sort_keys(.)' _data/städte.yml.tmp > _data/städte.yml
-$YQ e 'sort_keys(.)' _data/sternensysteme.yml.tmp > _data/sternensysteme.yml
-$YQ e 'sort_keys(.)' _data/slc.yml.tmp > _data/slc.yml
-rm _data/planeten.yml.tmp
-rm _data/städte.yml.tmp
-rm _data/sternensysteme.yml.tmp
-rm _data/slc.yml.tmp
+# sort, convert, cleanup
+for L in $LISTS
+do
+    $YQ -o=json 'sort_keys(.)' "_data/$L.yml.tmp" > "_data/$L.json.tmp"
+    if [ -s "_data/$L.json.tmp" ]
+    then
+        mv "_data/$L.json.tmp" "_data/$L.json"
+    else
+        rm -f "_data/$L.json.tmp"
+    fi
+    rm "_data/$L.yml.tmp"
+done
