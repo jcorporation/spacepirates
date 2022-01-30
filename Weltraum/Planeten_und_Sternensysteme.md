@@ -23,4 +23,4 @@ Hier sind alle wichtigen Planeten und Sternensysteme des SpacePirates Universums
 
 ## Planeten
 
-{% include planeten_list  filter_field='' filter_value='' %}
+{% include planeten_list.md  filter_field='' filter_value='' %}
