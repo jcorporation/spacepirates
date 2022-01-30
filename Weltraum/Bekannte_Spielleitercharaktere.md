@@ -14,7 +14,7 @@ Hier eine Zusammenstellung von bekannten Spielleitercharakteren die im Grundrege
 </thead>
 <tbody>
 {% for slc in site.data.slc %}
-    <tr><td>{{ slc.Name | markdownify }}</td><td>{{ slc.Rasse | markdownify }}</td><td>{{ slc.Wohnort }}</td><td>{{ slc.Kategorie }}</td><td>{{ slc.Position }}</td></tr>
+    <tr><td>{{ slc[1].Name | markdownify }}</td><td>{{ slc[1].Rasse | markdownify }}</td><td>{{ slc[1].Wohnort }}</td><td>{{ slc[1].Kategorie }}</td><td>{{ slc[1].Position }}</td></tr>
 {% endfor %}
 </tbody>
 </table>

@@ -15,6 +15,7 @@ Natürlich gibt es noch wesentlich mehr Tiere im Weltraum, da aber der Weltraum 
 Meteorkraken besitzen die Größe kleiner Transportschiffe und leben meist in Meteoritengürteln oder den Überbleibseln gesprengter Planeten. Sie sind sehr selten im freien Raum anzutreffen. Mit ihren gigantischen Fangarmen können sie massiven Stahl verbiegen und ihr Hornschnabel kann problemlos die Panzerung eines Raumschiffs, ihrer Lieblingsnahrung, knacken. Glücklicherweise sind Meteorkraken Einzelgänger und treffen sich nur in der Paarungszeit.
 
 <img alt="Meteorkrake" height="281" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/meteorkrake.jpg" width="500"/>
+
 ## Mykoniden
 
 Mykoniden sind menschengroße, intelligente und sehr aggressive Pilze. Sie können andere Pilze kontrollieren und leben in großen Gruppen auf den äußeren Planeten vieler Sonnensysteme.
@@ -54,6 +55,7 @@ Der Weltraumkäfer lebt innerhalb eines Sternensystems und hat es auf jedes Raum
 Weltraumspinnen besitzen die Größe von mittleren Raumschiffen und ihre Kieferklauen sind so stark, dass sie auch gut gepanzerte Raumschiffhüllen durchdringen. Sie spannen ihre gigantischen Netze zwischen Planeten auf, meist in Sternensystemen mit vielen Felsplaneten. Ihre Netze sind so stabil, dass sich auch größere Raumschiffe, Asteroiden und kleinere Weltraumtiere wie Riesen-Weltraumhamster und Spaceameisen darin verfangen können. Einmal im Netz gefangen, schnürt die Weltraumspinne ihr Opfer in ihre Klebefäden ein, bevor sie es gut abgehängt verspeist.
 
 ***
+
 ## Werte von Weltraumtieren
 
 <table>
@@ -68,5 +70,5 @@ Weltraumspinnen besitzen die Größe von mittleren Raumschiffen und ihre Kieferk
 <tr><td>Space-Eiswurm</td><td>9</td><td>3</td><td>50</td></tr>
 </tbody>
 </table>
-Weltraumtiere kämpfen mit ihrem Profilwert und der Schadensmodifikator funktioniert wie bei Raumschiffwaffen. Unter normalen Umständen fliehen sie, wenn sie die Hälfte ihrer Schadenspunkte verloren haben.
 
+Weltraumtiere kämpfen mit ihrem Profilwert und der Schadensmodifikator funktioniert wie bei Raumschiffwaffen. Unter normalen Umständen fliehen sie, wenn sie die Hälfte ihrer Schadenspunkte verloren haben.

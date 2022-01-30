@@ -38,10 +38,10 @@ do
     fi
 done < <(find ./ -name \*.md)
 
-$YQ e 'sort_keys(.)' _data/planeten.yml.tmp | sed -r 's/^(\w)/- \1/g' > _data/planeten.yml
-$YQ e 'sort_keys(.)' _data/städte.yml.tmp | sed -r 's/^(\w)/- \1/g' > _data/städte.yml
-$YQ e 'sort_keys(.)' _data/sternensysteme.yml.tmp | sed -r 's/^(\w)/- \1/g' > _data/sternensysteme.yml
-$YQ e 'sort_keys(.)' _data/slc.yml.tmp | sed -r 's/^(\w)/- \1/g' > _data/slc.yml
+$YQ e 'sort_keys(.)' _data/planeten.yml.tmp > _data/planeten.yml
+$YQ e 'sort_keys(.)' _data/städte.yml.tmp > _data/städte.yml
+$YQ e 'sort_keys(.)' _data/sternensysteme.yml.tmp > _data/sternensysteme.yml
+$YQ e 'sort_keys(.)' _data/slc.yml.tmp > _data/slc.yml
 rm _data/planeten.yml.tmp
 rm _data/städte.yml.tmp
 rm _data/sternensysteme.yml.tmp

@@ -16,7 +16,7 @@ Hier sind alle wichtigen Planeten und Sternensysteme des SpacePirates Universums
 </thead>
 <tbody>
 {% for system in site.data.sternensysteme %}
-    <tr><td>{{ system.Name | markdownify }}</td><td>{{ system.Sektor | markdownify }}</td><td>{{ system.Politisches }}</td></tr>
+    <tr><td>{{ system[1].Name | markdownify }}</td><td>{{ system[1].Sektor | markdownify }}</td><td>{{ system[1].Politisches }}</td></tr>
 {% endfor %}
 </tbody>
 </table>
@@ -29,7 +29,7 @@ Hier sind alle wichtigen Planeten und Sternensysteme des SpacePirates Universums
 </thead>
 <tbody>
 {% for planet in site.data.planeten %}
-    <tr><td>{{ planet.Name | markdownify }}</td><td>{{ planet.Sektor | markdownify }}</td><td>{{ planet.Einwohner }}</td><td>{{ planet.Politisches }}</td></tr>
+    <tr><td>{{ planet[1].Name | markdownify }}</td><td>{{ planet[1].Sektor | markdownify }}</td><td>{{ planet[1].Einwohner }}</td><td>{{ planet[1].Politisches }}</td></tr>
 {% endfor %}
 </tbody>
 </table>
