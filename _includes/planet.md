@@ -1,5 +1,5 @@
 <table>
-    <caption>{{ include.data.Name }}</caption>
+    <caption>{{ include.data.Name | markdownify }}</caption>
     <tbody>
         <tr><th>Typ</th><td>{{ include.data.Typ | markdownify }}</td></tr>
         <tr><th>Sektor</th><td>{{ include.data.Sektor | markdownify }}</td></tr>
