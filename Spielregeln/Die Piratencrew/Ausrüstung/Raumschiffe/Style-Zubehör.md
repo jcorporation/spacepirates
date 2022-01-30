@@ -33,6 +33,7 @@ title: Style-Zubehör
 <tr><td>Rumdestille</td><td>4.000</td></tr>
 </tbody>
 </table>
+
 - **Antiphotonen-Schild:** Eingeschaltet löscht es alle Photonen aus, die das Raumschiff treffen, schwärzer kann kein Raumschiff werden.
 - **Cabriokit:** Teile der Schiffshülle werden durch dauerhafte Anti-Vakuum-Kraftfelder ersetzt.
 - **Chamäleonlackierung:** Farbe und Muster des Schiffs können elektrisch verändert werden.

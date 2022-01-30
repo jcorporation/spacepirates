@@ -10,7 +10,7 @@ sitedata:
             Typ: Erdähnlich
             Name:
                 Text: Kappa Gamma
-                Linkt: /Weltraum/Neutrale_Zone/Kappa_Gamma
+                Link: /Weltraum/Neutrale_Zone/Kappa_Gamma
             Sektor:
                 Text: Neutrale Zone
                 Link: /Weltraum/Neutrale_Zone/

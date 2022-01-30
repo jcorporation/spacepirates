@@ -9,7 +9,7 @@ sitedata:
         Brarbragoz:
             Typ: Erdähnlich
             Name: Brarbragoz
-            Sektor: 
+            Sektor: ""
             Monde: 2
             Einwohner: Brarbragrozianer
             Hauptstadt: viele

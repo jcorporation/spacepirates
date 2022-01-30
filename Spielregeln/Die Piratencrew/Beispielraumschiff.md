@@ -25,6 +25,7 @@ Cabriokit (für 1 Macke ertauscht)</td></tr>
 6. KI eingebaut</td></tr>
 </tbody>
 </table>
+
 Dark Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nicht ganz so viel her und hat ein paar Macken; aber dafür stimmen die inneren Werte: Die Bewaffnung kann sich sehen lassen und aus dem Cabriodeck dröhnt der mächtige Hyperbass der eingebauten Stereoanlage.
 
 <table>
@@ -45,10 +46,8 @@ Dark Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nic
 <tr><th>Gesamt</th><th>72.000</th><th>36.000</th></tr>
 </tfoot>
 </table>
-<div class="beispiel">
-## Beispiel zu Raumschiffkosten und Macken
 
+{% capture include_body %}
 Die Gruppe besteht aus 4 Spielern und bekommt daher 33.000 UC für das Raumschiff. Das Raumschiff kostet gebraucht 36.000 UC. Die Differenz müssen die Spieler aus dem Privatvermögen der Charaktere begleichen. Da das Schiff gebraucht ist und sie auch nur gebrauchte Teile einbauen, erhält das Schiff 5 Macken (2 für das gebrauchte Schiff und 3 für die 6 gebrauchten Teile). Zudem nimmt die Gruppe noch freiwillig eine zusätzliche Macke, um das Schiff mit einem Cabriokit auszustatten.
-
-</div>
-
+{% endcapture %}
+{% include beispiel.md title="Beispiel zu Raumschiffkosten und Macken" body=include_body %}

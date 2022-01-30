@@ -2,7 +2,7 @@
   "Brarbragoz": {
     "Typ": "Erdähnlich",
     "Name": "Brarbragoz",
-    "Sektor": null,
+    "Sektor": "",
     "Monde": 2,
     "Einwohner": "Brarbragrozianer",
     "Hauptstadt": "viele",
@@ -13,7 +13,7 @@
     "Typ": "Erdähnlich",
     "Name": {
       "Text": "Kappa Gamma",
-      "Linkt": "/Weltraum/Neutrale_Zone/Kappa_Gamma"
+      "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma"
     },
     "Sektor": {
       "Text": "Neutrale Zone",

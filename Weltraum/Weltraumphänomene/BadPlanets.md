@@ -13,6 +13,10 @@ sitedata:
             Sektor:
                 Text: Neutrale Zone
                 Link: /Weltraum/Neutrale_Zone/
+            Beschreibung: "Aggressive, lebende Planeten"
+            Politisches:
+                Text: Heimat der SpaceRocker Baneros Banditos
+                Link: /Weltraum/SpaceRocker/Baneros_Banditos/
 ---
 
 # BadPlanets

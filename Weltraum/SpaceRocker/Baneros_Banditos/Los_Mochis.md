@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /Weltraum/SpaceRocker/Banerosbanditos_losmochis
+permalink: /Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis
 title: Los Mochis
 ---
-
 
 # Los Mochis
 

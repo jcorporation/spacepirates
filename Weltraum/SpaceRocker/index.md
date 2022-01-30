@@ -16,13 +16,9 @@ Rocker fahren natürlich nicht auf 0815 SpaceBikes, sondern auf SpaceChoppern mi
 
 ## Banden
 
-<li>[Baneros Banditos]({{ site.baseurl }}/Weltraum/Spacerocker/Banerosbanditos)
-- [Los Mochis]({{ site.baseurl }}/Weltraum/Spacerocker/Banerosbanditos_losmochis)
-
-</li>
-<li>[SpaceAngels]({{ site.baseurl }}/Weltraum/Spacerocker/Spaceangels)
-- [Hells Place]({{ site.baseurl }}/Weltraum/Spacerocker/Spaceangels_hellsplace)
-
-</li>
+- [Baneros Banditos]({{ site.baseurl }}/Weltraum/Spacerocker/Banerosbanditos)
+  - [Los Mochis]({{ site.baseurl }}/Weltraum/Spacerocker/Banerosbanditos_losmochis)
+- [SpaceAngels]({{ site.baseurl }}/Weltraum/Spacerocker/Spaceangels)
+  - [Hells Place]({{ site.baseurl }}/Weltraum/Spacerocker/Spaceangels_hellsplace)
 - [Rockbands]({{ site.baseurl }}/Weltraum/Spacerocker/Rockbands)
 
