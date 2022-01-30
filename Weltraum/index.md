@@ -23,7 +23,7 @@ Der Weltraum &ndash; unendliche Weiten. Zumindest beinahe, denn es gibt ja noch 
 - [Aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Politik)
 - [Weltraumtiere]({{ site.baseurl }}/Weltraum/Weltraumtiere)
 - [Weltraumphänomene]({{ site.baseurl }}/Weltraum/Phaenomene/index)
-- [Planeten und Sternensysteme]({{ site.baseurl }}/Weltraum/Planeten-sternensysteme)
+- [Planeten und Sternensysteme]({{ site.baseurl }}/Weltraum/Planeten_und_Sternensysteme)
 - [Zurückgebliebene Planeten]({{ site.baseurl }}/Weltraum/Zurueckgebliebeneplaneten)
 - [Raumstationen]({{ site.baseurl }}/Weltraum/Raumstationen)
 {% endcapture %}
