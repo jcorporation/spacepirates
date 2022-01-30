@@ -1,0 +1,12 @@
+{
+  "BadPlanets": {
+    "Name": {
+      "Text": "BadPlanets",
+      "Link": "/Weltraum/Phänomene/BadPlanets"
+    },
+    "Sektor": {
+      "Text": "Neutrale Zone",
+      "Link": "/Weltraum/Neutrale_Zone/"
+    }
+  }
+}

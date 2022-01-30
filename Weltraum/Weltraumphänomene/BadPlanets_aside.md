@@ -1,1 +1,1 @@
-{% include weltraumphänomen.md data=page.sitedata.Weltraumphänomene.BadPlanets %}
+{% include weltraumphaenomen.md data=page.sitedata.Weltraumphaenomene.BadPlanets %}

@@ -2,7 +2,7 @@
 
 YQ=".scripts/yq"
 
-LISTS="Planeten Städte Sternensysteme Slc Raumstationen Phänomene"
+LISTS="Planeten Staedte Sternensysteme Slc Raumstationen Weltraumphaenomene"
 
 #create empty tmp file
 for L in $LISTS
@@ -16,7 +16,7 @@ do
     [[ "$F" =~ ^./_includes.* ]] && continue
     [[ "$F" =~ .*_aside.md$ ]] && continue
     SITEDATA=$($YQ --front-matter=extract '.sitedata' "$F")
-    
+
     for L in $LISTS
     do
         V=$($YQ ".${L}" - <<< "$SITEDATA")

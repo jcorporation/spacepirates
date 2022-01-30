@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /Weltraum/Phänomene/BadPlanets
+permalink: /Weltraum/Weltraumphänomene/BadPlanets
 title: BadPlanets
 
 sitedata:
-    Weltraumphänomene:
+    Weltraumphaenomene:
         BadPlanets:
             Name: 
                 Text: BadPlanets
-                Link: /Weltraum/Phänomene/BadPlanets
+                Link: /Weltraum/Weltraumphänomene/BadPlanets
             Sektor:
                 Text: Neutrale Zone
                 Link: /Weltraum/Neutrale_Zone/

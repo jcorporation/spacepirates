@@ -3,7 +3,7 @@ layout: page
 permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa
 title: Kappa
 sitedata:
-    Städte:
+    Staedte:
         Kappa-Stadt:
             Planet: "[Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutralezone/Kappa_Gamma/)"
             Name: "[Kappa-Stadt](/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa)"
