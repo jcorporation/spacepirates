@@ -4,10 +4,10 @@
 </thead>
 <tbody>
 {% for system in site.data.Sternensysteme %}
-    {% assign Name = planet[1].Name %}
-    {% assign Sektor = planet[1].Sektor %}
-    {% assign Politisches = planet[1].Politisches %}
-    {% if include.filter_field == '' or planet[1][include.filter_field] == include.filter_value or planet[1][include.filter_field].Text == include.filter_value %}
+    {% assign Name = system[1].Name %}
+    {% assign Sektor = system[1].Sektor %}
+    {% assign Politisches = system[1].Politisches %}
+    {% if include.filter_field == '' or system[1][include.filter_field] == include.filter_value or system[1][include.filter_field].Text == include.filter_value %}
         <tr>
             <td>{% include printlink.md data=Name %}</td>
             <td>{% include printlink.md data=Sektor %}</td>
