@@ -9,7 +9,7 @@
     {% assign Einwohner = planet[1].Einwohner %}
     {% assign Politisches = planet[1].Politisches %}
     
-    {% if include.filter_field != '' or planet[1][include.filter_field] == include.filter_value %}
+    {% if include.filter_field == '' or planet[1][include.filter_field] == include.filter_value %}
         <tr>
             <td>{% include printlink.md data=Name %}</td>
             <td>{% include printlink.md data=Sektor %}</td>

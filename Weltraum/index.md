@@ -17,15 +17,15 @@ Der Weltraum &ndash; unendliche Weiten. Zumindest beinahe, denn es gibt ja noch 
 - [Interaktive Sternenkarte]({{ site.baseurl }}/Karte)
 - [Sektoren]({{ site.baseurl }}/Weltraum/Sektoren)
 - [Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/index)
-- [Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutralezone/index)
+- [Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/index)
 - [Technologie]({{ site.baseurl }}/Weltraum/Technologie/index)
 - [Historie]({{ site.baseurl }}/Weltraum/Historie)
-- [Aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Politik)
+- [Aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Polische_Lage/index)
 - [Weltraumtiere]({{ site.baseurl }}/Weltraum/Weltraumtiere)
-- [Weltraumphänomene]({{ site.baseurl }}/Weltraum/Phaenomene/index)
+- [Weltraumphänomene]({{ site.baseurl }}/Weltraum/Phänomene/index)
 - [Planeten und Sternensysteme]({{ site.baseurl }}/Weltraum/Planeten_und_Sternensysteme)
-- [Zurückgebliebene Planeten]({{ site.baseurl }}/Weltraum/Zurueckgebliebeneplaneten)
-- [Raumstationen]({{ site.baseurl }}/Weltraum/Raumstationen)
+- [Zurückgebliebene Planeten]({{ site.baseurl }}/Weltraum/Zurückgebliebene_Planeten)
+- [Raumstationen]({{ site.baseurl }}/Weltraum/Raumstationen/index)
 {% endcapture %}
 
 {% capture include_col2 %}

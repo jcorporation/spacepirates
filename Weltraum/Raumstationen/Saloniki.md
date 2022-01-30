@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /Weltraum/Raumstationen_saloniki
+permalink: /Weltraum/Raumstationen/Saloniki
 title: Saloniki
 ---
 
-
 # Saloniki
-
 
 Saloniki wäre ein typisches, langweiliges und altertümliches griechisches Restaurant, wäre es nicht direkt am Rande des Universums auf einem winzigen, grünen Planeten erbaut worden. Um diesen herum befindet sich ein dichter Asteroidengürtel, in dem Meteorkraken ihr Unwesen treiben. Der Planet wird von einem mächtigen Schutzschild umgeben.
 

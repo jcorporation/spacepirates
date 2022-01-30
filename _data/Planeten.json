@@ -11,8 +11,14 @@
   },
   "Kappa_Gamma": {
     "Typ": "Erdähnlich",
-    "Name": "[Kappa Gamma](/Weltraum/Neutrale_Zone/Kappa_Gamma/)",
-    "Sektor": "[Neutrale Zone](/Weltraum/Neutrale_Zone/)",
+    "Name": {
+      "Text": "Kappa Gamma",
+      "Linkt": "/Weltraum/Neutrale_Zone/Kappa_Gamma"
+    },
+    "Sektor": {
+      "Text": "Neutrale Zone",
+      "Link": "/Weltraum/Neutrale_Zone/"
+    },
     "Monde": 2,
     "Einwohner": "KIs und Roboter",
     "Hauptstadt": "Kappa und Gamma",
