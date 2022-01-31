@@ -10,5 +10,14 @@
     },
     "Größe": "Millionenstadt",
     "Kategorie": "Hauptstadt"
+  },
+  "Sila_City": {
+    "Planet": {
+      "Text": "Sampuk",
+      "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
+    },
+    "Größe": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Normalized": "sila city"
   }
 }

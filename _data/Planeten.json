@@ -1,7 +1,7 @@
 {
-  "Brarbragoz": {
+  "Brarbragroz": {
     "Typ": "Erdähnlich",
-    "Name": "Brarbragoz",
+    "Name": "Brarbragroz",
     "Sektor": "",
     "Monde": 2,
     "Einwohner": "Brarbragrozianer",
@@ -25,6 +25,43 @@
     "Besiedelung": "Roboterstädte",
     "Politisches": "keine politischen Beziehungen"
   },
+  "Nova_Ceti": {
+    "Typ": "Waldplanet",
+    "Name": {
+      "Text": "Nova Ceti",
+      "Link": "/Weltraum/Aliens/Samnesen/Nova_Ceti"
+    },
+    "Sektor": {
+      "Text": "Samara",
+      "Link": "/Weltraum/Aliens/Samnesen/"
+    },
+    "Monde": 0,
+    "Einwohner": "intelligente Pflanzen",
+    "Hauptstadt": "keine",
+    "Besiedelung": "Forschungsstation",
+    "Politisches": "In einer Sperrzone",
+    "Normalized": "nova ceti"
+  },
+  "Sampuk": {
+    "Typ": "Felsplanet",
+    "Name": {
+      "Text": "Sampuk",
+      "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
+    },
+    "Sektor": {
+      "Text": "Samara",
+      "Link": "/Weltraum/Aliens/Samnesen/"
+    },
+    "Monde": 2,
+    "Einwohner": {
+      "Text": "Samnesen",
+      "Link": "/Weltraum/Aliens/Samnesen"
+    },
+    "Hauptstadt": "Sila City",
+    "Besiedelung": "große Städte",
+    "Politisches": "Heimatplanet der Samnesen",
+    "Normalized": "sampuk"
+  },
   "Woodstock": {
     "Typ": "Erdähnlich",
     "Name": {
@@ -39,6 +76,7 @@
     "Einwohner": "Hippies",
     "Hauptstadt": "Das große Festival",
     "Besiedelung": "Das großes Festival",
-    "Politisches": "keine politischen Beziehungen"
+    "Politisches": "keine politischen Beziehungen",
+    "Normalized": "woodstock"
   }
 }
