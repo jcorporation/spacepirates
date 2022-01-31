@@ -106,11 +106,11 @@ sub add_keyword {
 sub add_keyphrase {
     my $kw = $_[0];
     my $full = $_[1];
-    
+
     $kw = remove_prefix($kw);
     $kw = normalize($kw);
     my @kws = split /\s+/, $kw;
-    
+
     # add full string
     if ($full eq "true") {
         add_keyword($kw);
@@ -184,7 +184,7 @@ for my $filename (@files) {
             my $c = length($1);
             $inc = 30 - ($c * 5);
         }
-        $line = normalize($line);    
+        $line = normalize($line);
         for my $key (keys %keywords) {
             if ($line =~ /\b$key\b/) {
                 if ($line =~ /^title $key$/) {
@@ -223,7 +223,7 @@ for my $key (sort keys %keywords) {
         if ($j++) {
             print $out ",\n";
         }
-        
+
         print $out "\t\t\"$site\": $keywords{$key}{$site}";
         if ($j ge 20 and $keywords{$key}{$site} eq 1) {
             last;

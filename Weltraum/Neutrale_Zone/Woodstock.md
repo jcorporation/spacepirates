@@ -19,6 +19,7 @@ sitedata:
             Hauptstadt: Das große Festival
             Besiedelung: Das großes Festival
             Politisches: keine politischen Beziehungen
+            Normalized: woodstock
 ---
 
 # Woodstock

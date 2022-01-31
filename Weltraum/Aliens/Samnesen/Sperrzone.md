@@ -4,16 +4,14 @@ permalink: /Weltraum/Aliens/Samnesen/Sperrzone
 title: Sperrzone in Samara
 ---
 
-
 # Sperrzone in Samara
-
 
 Natürlich ist die Sperrzone gesichert; rund um die Sperrzone befinden sich in kleinen Abständen kleine intelligente Raumbojen, die rot blinken. Die Sperrzone wird von einem gewaltigen Dimensionsriss dominiert
 
 ## In der Sperrzone
 
 - Planet: [Nova Ceti]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/Novaceti)
-- Phänomen: [Dimensionsriss]({{ site.baseurl }}/Weltraum/Phaenomene/Dimensionsriss)
+- Phänomen: [Dimensionsriss]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Dimensionsriss)
 
 ## Raumbojen
 
@@ -23,8 +21,6 @@ Die Raumbojen sind miteinander verbunden und bilden zusammen eine Schwarmintelli
 
 - Wenn eine Boje ausfällt, versuchen die anderen Bojen, das Netz zu kompensieren.
 - Wenn eine Boje beschossen wird, schießen sie selber und die vier benachbarten Bojen zurück.
-
-
 
 <aside>
 <div class="hinweis">
