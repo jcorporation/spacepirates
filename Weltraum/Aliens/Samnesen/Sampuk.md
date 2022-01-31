@@ -27,7 +27,7 @@ sitedata:
             Planet:
                 Text: Sampuk
                 Link: /Weltraum/Aliens/Samnesen/Sampuk
-            Größe: Millionenstadt
+            Groesse: Millionenstadt
             Kategorie: Hauptstadt
             Normalized: sila city
 ---

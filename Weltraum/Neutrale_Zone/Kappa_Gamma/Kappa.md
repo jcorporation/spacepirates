@@ -2,6 +2,8 @@
 layout: page
 permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa
 title: Kappa
+aside: Kappa_aside.md
+
 sitedata:
     Staedte:
         Kappa-Stadt:
@@ -11,8 +13,9 @@ sitedata:
             Name:
                 Text: Kappa-Stadt
                 Link: /Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa
-            Größe: Millionenstadt
+            Groesse: Millionenstadt
             Kategorie: Hauptstadt
+            Normalized: kappa stadt
 ---
 
 # Kappa
@@ -23,4 +26,4 @@ Die Kappa-Roboter sind in einer kirchenähnlichen Gemeinschaft organisiert, die 
 
 Die Kappa-Roboter leben in einer gigantischen Megastadt, die sich immer weiter ausbreitet. In der Mitte dieser Stadt befindet sich eine große Palastkirche, die vom Papstbot, seinen 7 Kardinalbots und ihren Helfern bewohnt wird. Im direkten Umkreis wohnen die mächtigsten Roboter. Umso weiter man sich von diesem Machtzentrum entfernt, umso weniger gigantisch werden die Roboter und ihre Behausungen, bis man in den äußeren Slums endet, in denen die ausgestoßenen Roboter dahinvegetieren.
 
-<aside><img alt="Kappa Roboter" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/Kappa.png" /></aside>
+{% include stadt.md data=page.sitedata.Staedte.Kappa-Stadt %}
