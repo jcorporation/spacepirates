@@ -24,6 +24,7 @@ sitedata:
             Normalized: sampuk
     Staedte:
         Sila_City:
+            Name: Sila City
             Planet:
                 Text: Sampuk
                 Link: /Weltraum/Aliens/Samnesen/Sampuk
