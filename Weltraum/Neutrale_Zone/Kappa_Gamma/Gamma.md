@@ -6,7 +6,7 @@ aside: Gamma_aside.md
 
 sitedata:
     Staedte:
-        Kappa-Stadt:
+        Gamma-Stadt:
             Planet:
                 Text: Kappa Gamma
                 Link: /Weltraum/Neutralezone/Kappa_Gamma/
