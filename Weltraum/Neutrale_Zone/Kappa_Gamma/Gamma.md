@@ -2,6 +2,20 @@
 layout: page
 permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma
 title: Gamma
+aside: Gamma_aside.md
+
+sitedata:
+    Staedte:
+        Kappa-Stadt:
+            Planet:
+                Text: Kappa Gamma
+                Link: /Weltraum/Neutralezone/Kappa_Gamma/
+            Name:
+                Text: Gamma-Stadt
+                Link: /Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma
+            Groesse: Millionenstadt
+            Kategorie: Hauptstadt
+            Normalized: gamma stadt
 ---
 
 # Gamma
@@ -12,15 +26,4 @@ Auf Gamma gibt es wesentlich mehr Städte als auf Kappa, dafür sind sie wesentl
 
 Die Gamma-KI entwickelt ihren Plan selbst, lässt die Ausführung aber von einem Präsidentenbot und dessen Kommunikations-General-Büro überwachen. Die Bots der KGB sorgen für die reibungslose Kommunikation innerhalb der Robotergesellschaft und beseitigen Störungsquellen, indem sie deren Verursacher verschrotten. Entsprechend effektiv ist die Koordination und Kommunikation auf Kappa, auch wenn der einzelne Roboter seinen Gegenstücken von Kappa unterlegen ist.
 
-<table data-type="stadt">
-<caption>Gamma-Stadt</caption>
-<tbody>
-<tr><th>Planet</th><td>[Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutralezone/Kappagamma)</td></tr>
-<tr><th>Größe</th><td>Millionenstadt</td></tr>
-<tr><th>Kategorie</th><td>Hauptstadt</td></tr>
-<tr><th>Erwähnungen</th><td>[Gamma-Stadt]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
-<aside><img alt="Gamma Roboter" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/Gamma.png" /></aside>
-
+{% include stadt.md data=page.sitedata.Staedte.Gamma-Stadt %}

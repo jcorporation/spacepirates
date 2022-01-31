@@ -2,6 +2,7 @@
 layout: page
 permalink: /Weltraum/Aliens/Samnesen/
 title: Samnesen
+aside: index_aside.md
 ---
 
 # Samnesen

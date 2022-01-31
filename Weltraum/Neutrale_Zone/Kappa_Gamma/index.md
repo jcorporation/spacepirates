@@ -32,4 +32,4 @@ Die Roboter sind Ungetüme auf Rädern, Ketten oder Stelzen. Sie verfügen über
 - [Geschichte]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappa_Gamma/Geschichte)
 - [Kappa]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa)
 - [Gamma]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma)
-- [Roboterfressende Pflanzen]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappa_Gamma/Pflanzen)
+- [Roboterfressende Pflanzen]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappa_Gamma/Roboterfressende_Pflanzen)
