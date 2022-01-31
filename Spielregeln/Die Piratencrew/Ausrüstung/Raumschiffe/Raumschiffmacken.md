@@ -8,11 +8,12 @@ title: Raumschiffmacken
 
 Die Macken eines Raumschiffs werden immer zufällig mit 1W6 und 1W20 bestimmt. Ein Schiff kann jede Macke nur einmal besitzen. Zeigen die Würfel zweimal die gleiche Macke an, so wird der Wurf wiederholt.
 
-<div class="beispiel">
+{% capture include_body %}
 Erst Macken machen ein Raumschiff zu einem individuellen Fortbewegungsmittel. Sie verleihen ihm einen eigenen Charme. Piraten sind daher oftmals stolz auf die Macken ihres Raumschiffs.
+{% endcapture %}
+{% include hinweis.md title="Raumschiffmacken" body=include_body %}
 
-</div>
-<table data-type="zufallstabelle">
+<table>
 <caption>Raumschiffmacken</caption>
 <thead>
 <tr><th>W30</th><th>Macke</th><th>Beschreibung</th></tr>
@@ -50,4 +51,3 @@ Erst Macken machen ein Raumschiff zu einem individuellen Fortbewegungsmittel. Si
 <tr><td>30</td><td>Computer deprimiert</td><td>Der Computer ist deprimiert und führt deshalb jede Aktion nur noch halb so schnell aus und jammert der Crew die Ohren voll.</td></tr>
 </tbody>
 </table>
-

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Diverses
+permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Diverses
 title: Diverses
 ---
 
@@ -26,6 +26,7 @@ title: Diverses
 <tr><td>Versteckter Frachtraum</td><td>4.000</td></tr>
 </tbody>
 </table>
+
 - **Airbags** mindern den Aufprall, falls der fähige Pilot das Raumschiff mal wieder bruchlandet oder beim Andocken etwas ungenau ist. (Schaden wird um 2 Punkte reduziert)
 - Raumschiffe verfügen standardmäßig nur über normalen Funk, **FTL-Funk** muss extra gekauft werden. FTL-Funk ist in Ausführungen FTL4 oder FTL8 verfügbar, die Funksprüche verbreiten sich also bis zu acht Lichtjahren pro Stunde.
 - Die **Einparkhilfe** gibt einen Bonus von 1 auf Lande- und An- und Abdockmöver.
@@ -35,4 +36,3 @@ title: Diverses
 - Der **Störsender **stört FTL-Funk im Umkreis von 100 km.
 - Der **Turbo** verdoppelt 1W8 Stunden lang den FTL-Antrieb (von FTL1 auf 2 und von FTL2 auf 4) und muss danach 10 Tage abkühlen.
 - Der **versteckte Frachtraum **wird bei einer Routinekontrolle nicht entdeckt.
-

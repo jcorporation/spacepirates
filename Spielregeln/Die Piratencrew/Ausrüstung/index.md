@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/index
+permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/
 title: Ausrüstung
+aside: index_aside.md
 ---
 
 # Ausrüstung
@@ -20,29 +21,10 @@ Jeder Charakter startet mit 3.000 UC, von denen er sich Ausrüstung und Waffen k
 - [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse)
 - [Rauschmittel]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel)
 
-<div class="beispiel">
-## Beispiel zu Ausrüstung
-
+{% capture include_body %}
 Kathy schaut sich die Ausrüstungsliste an und sucht sich einen Laserdegen (1.500 UC), ein xPhone 3Gx (150 UC) und einen Diktierpapagei (100 UC) aus. So bleiben 1.250 UC übrig, die sie in das Raumschiff stecken kann.
-
-</div>
-
-<aside>
-<div class="hinweis">
-## Notation der Boni
-
-Die Boni werden direkt hinter dem Gegenstand notiert.
-
-<p>**P** steht dabei für den Profilbonus.<br/>
-**Z** für den Zähigkeitsbonus.</p>
-</div>
-<div class="hinweis">
-## Rum
-
-Rum ist Grundnahrungsmittel der Piraten &ndash; mehr gibt es dazu nicht zu sagen. Rum gibt es überall und niemand muss dafür UC ausgeben. Da die Piraten ständig Rum trinken, gibt es auch keine Mali, nur weil der Pilot im betrunkenen Zustand den FTL anwirft (die Frage ist eher, ob er schon mal vollkommen nüchtern geflogen ist). Trotz des kostenlosen Rums sollten die Piraten aber nicht als Säufer gespielt werden.
-
-</div>
-</aside>
+{% endcapture %}
+{% include beispiel.md title="Beispiel zu Ausrüstung" body=include_body %}
 
 ## Raumschiff
 

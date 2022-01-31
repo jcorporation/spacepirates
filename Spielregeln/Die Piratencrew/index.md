@@ -19,5 +19,5 @@ title: Die Piratencrew
     - [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_diverses)
     - [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_style)
     - [Raumschiffmacken]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffmacken)
-- [Beispielcharaktere]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Beispielcharaktere)
+- [Beispielpiraten]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Beispielpiraten)
 - [Beispielraumschiff]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Beispielraumschiff)

@@ -4,23 +4,17 @@ permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel
 title: Rauschmittel
 ---
 
-
 # Rauschmittel
-
 
 Hier werden ein paar bekannte SpaceWorm-Rauschmittel vorgestellt, die harmloseren gelangen auch in den normalen Handel und können beim Dealer des Vertrauens erworben werden. Richtige SpaceWorm-Spezialitäten kann man natürlich nur auf einer SpaceWorm-Raumstation ergattern und das auch nur mit guten Beziehungen.
 
-<table>
-<thead>
-<tr><th>Rauschmittel</th><th>Kosten/Einheit</th></tr>
-</thead>
-<tbody>
-<tr><td>Alcid</td><td>20</td></tr>
-<tr><td>SpaceShit</td><td>5</td></tr>
-<tr><td>Starcoke</td><td>50</td></tr>
-<tr><td>Sundope</td><td>200</td></tr>
-</tbody>
-</table>
+| Rauschmittel | Kosten/Einheit |
+| ------------ | -------------- |
+| Alcid | 20 |
+| SpaceShit | 5 |
+| Starcoke | 50 |
+| Sundope | 200 |
+
 ## Alcid
 
 Alcid wird, wie sein Vorgänger LSD, auf kleine Blättchen aufgeträufelt und geschluckt. Es wird halbsynthetisch aus genmanipulierten Trichterwinden (Schlingpflanzen) hergestellt. Alcid ist ein starkes Halluzinogen und daher vor allem eine Partydroge. Es verhilft dem Konsumenten zu einer intensiveren und synästhetischeren Wahrnehmung der Dinge, Farben werden z.B. geschmeckt oder Gegenstände morphen.
@@ -36,6 +30,3 @@ Wie das herkömmliche Kokain auch, wird Sternenkoks aus der Kokapflanze gewonnen
 ## Sundope
 
 Sundope wird aus Sonnenmohn, einer genmanipulierten Mohnart, die mit dem Schlafmohn verwandt ist, hergestellt. Es kann gespritzt, aber auch geraucht werden. Sundope macht schnell psychisch und physisch abhängig. Dafür hat es aber eine extrem euphorisierende Wirkung.
-
-
-

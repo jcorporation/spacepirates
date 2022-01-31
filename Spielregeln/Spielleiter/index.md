@@ -1,17 +1,17 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/index
+permalink: /Spielregeln/Spielleiter/
 title: Spielleiter
 ---
 
 # Spielleiter
 
-- [Abenteuer vorbereiten]({{ site.baseurl }}/Spielregeln/Spielleiter/Vorbereiten)
-- [Abenteuer erstellen]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen)
-  - [Verlauf]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_verlauf)
-  - [Schauplätze]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_schauplaetze)
-  - [Parteien]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_parteien)
-  - [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_spielleitercharaktere)
+- [Abenteuer vorbereiten]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_vorbereiten)
+- [Abenteuer erstellen]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/)
+  - [Verlauf]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf)
+  - [Schauplätze]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze)
+  - [Parteien]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien)
+  - [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere)
 - [Kampagnen mit SpacePirates]({{ site.baseurl }}/Spielleiter/Kampagnen/index)
   - [Gegenspieler der Charaktere]({{ site.baseurl }}/Spielleiter/Kampagnen/Gegenspieler)
   - [Freunde der Charaktere]({{ site.baseurl }}/Spielleiter/Kampagnen/Freunde)

@@ -4,9 +4,7 @@ permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen
 title: Waffen
 ---
 
-
 # Waffen
-
 
 Je höher der Schadensmodifikator (kurz SM) ist, umso mehr Schaden verursacht die Waffe.
 
@@ -26,16 +24,13 @@ Je höher der Schadensmodifikator (kurz SM) ist, umso mehr Schaden verursacht di
 <tr><td>Unobtaniumwerfer</td><td>3</td><td>4</td><td>60.000</td></tr>
 </tbody>
 </table>
+
 - **Gravitationskanone:** Bei einem Treffer wird die Gravitation des Ziels für eine Kampfrunde aufgehoben (&minus;2 auf alle Proben)
 - **Warptorpedo:** Warptorpedos werden mit FTL2-Geschwindigkeit abgefeuert
-- **Tachyonenkanone: **Schießt schneller als das Licht (wie FTL8) und kann somit auch Schiffe treffen, die gerade mit FTL-Geschwindigkeit fliegen.
+- **Tachyonenkanone:** Schießt schneller als das Licht (wie FTL8) und kann somit auch Schiffe treffen, die gerade mit FTL-Geschwindigkeit fliegen.
 - **Unobtaniumgeschosse** werden von den bekannten Schilden nicht aufgehalten.
 
-<div class="anmerkung">
-## Aus dem wagonischen Raumwirkungswaffenmodifikatorenprüfgesetz
-
+{% capture include_body %}
 Die Wirkung von Raumwaffen wird gemäß der Raumwaffenwirkungsmodifikatorverordnung von der dafür zuständigen technischen Behörde, einschließlich Behörden gleichgestellter sonstiger technischer Vereinigungen gemäß dem Raumwirkungswaffenmodifikatorenprüfgesetz, berechnet.
-
-</div>
-
-
+{% endcapture %}
+{% include hinweis.md title="Aus dem wagonischen Raumwirkungswaffenmodifikatorenprüfgesetz" body=include_body %}

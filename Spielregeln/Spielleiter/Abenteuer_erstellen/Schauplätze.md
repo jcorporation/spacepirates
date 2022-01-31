@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Erstellen_schauplaetze
+permalink: /Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze
 title: Schauplätze
 ---
 
@@ -19,4 +19,3 @@ Im Normalfall ist ein Schauplatz nicht unbevölkert. Also notiere, auf welche Sp
 ## Informationen
 
 Notiere dir, was den Schauplatz interessant macht und was die Spielercharaktere hier entdecken können, damit das Abenteuer voranschreitet. Können sie hier von einem Spielleitercharakter einen Hinweis erlangen, gibt es hier einen nützlichen Gegenstand oder findet hier ein wichtiges Ereignis statt?
-

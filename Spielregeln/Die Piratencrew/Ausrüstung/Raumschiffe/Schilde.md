@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Schilde
+permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde
 title: Schilde
 ---
 
-
 # Schilde
-
 
 Schilde schützen das Raumschiff vor Schadenspunkten und sind überlebenswichtig. Ein Raumschiff kann immer nur mit einem Schild ausgestattet sein.
 
@@ -20,5 +18,3 @@ Schilde schützen das Raumschiff vor Schadenspunkten und sind überlebenswichtig
 <tr><td>Militärschild</td><td>16</td><td>50.000</td></tr>
 </tbody>
 </table>
-
-

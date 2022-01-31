@@ -6,12 +6,11 @@ title: Raumflüge und -kämpfe
 
 # Raumflüge und -kämpfe
 
-<aside>
-<div class="anmerkung">
+{% capture include_body %}
 Der Pilot drückt den Knopf, der den FTL-Antrieb in Gang setzt. Es macht Schwupp, Ratter, Ratter und das Piratenschiff befindet sich immer noch an Ort und Stelle. Es wäre ja auch kein Piratenschiff, wenn es ohne kräftigen Tritt gegen das Kühlaggregat den FTL starten würde &hellip;
+{% endcapture %}
+{% include anmerkung.md body=include_body %}
 
-</div>
-</aside>
 ## Raumflüge
 
 Raumflüge laufen im Normalfall unspektakulär ab, man rast einfach so durchs Weltall. Aber auch bei Raumflügen kann etwas am Schiff kaputtgehen. Bei jedem Start und Stopp eines Raumflugs ist ein Mackencheck nötig. Raumschiffe mit FTL-Antrieb erreichen eine Geschwindigkeit von bis zu zwei Lichtjahren in der Stunde.
@@ -35,6 +34,7 @@ Für normale Manöver muss der Pilot natürlich keine Probe ablegen, das Andocke
 <tr><td>Flug durch ein instabiles Wurmloch</td><td>7</td></tr>
 </tbody>
 </table>
+
 #### Schaden bei misslungenen Proben
 
 Wenn eine Pilotenprobe bei Andock-, Abdock- oder Landemanövern misslingt, verursacht dies Schaden am Raumschiff und keinen Zähigkeitsverlust beim Piloten. Pro fehlenden Erfolg nimmt das Schiff einen Schadenspunkt, der nicht von Schilden aufgefangen wird.

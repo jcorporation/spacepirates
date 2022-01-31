@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Erstellen_parteien
+permalink: /Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien
 title: Parteien
 ---
 
@@ -8,24 +8,22 @@ title: Parteien
 
 In einem Abenteuer gibt es immer verschiedene Parteien mit unterschiedlichen Zielen. Die Parteien sind das wichtigste in deinem Abenteuer, denn sie lassen es erst lebendig werden. Durch die Ziele der Parteien und ihre Handlungen ergeben sich im Abenteuer die Konflikte, die es erst spannend und aktionsreich werden lassen. Die wichtigste Partei ist natürlich immer die Gruppe der Spielercharaktere, um sie dreht sich das Abenteuer.
 
-Parteien bestehen aus einem oder mehreren Spielleitercharakteren. Dabei hat jede Partei einen Anführer (Hauptcharakter), ein oder zwei wichtige Charaktere und einige Handlanger. Jede Partei bzw. Anführer sollte mit Motivationen und Zielen ausgestattet werden, damit du im Abenteuer anhand dieser auf die Aktionen der Spielercharaktere konsistent reagieren kannst. Aus den Motivationen und Zielen muss sich natürlich ein Konfliktpotenzial ableiten lassen, damit die Spielleitercharaktere und Spielercharaktere auch aufeinanderprallen. Wie unter [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_spielleitercharaktere) beschrieben, solltest du die Werte und Ausrüstung der wichtigen Protagonisten niederschreiben.
+Parteien bestehen aus einem oder mehreren Spielleitercharakteren. Dabei hat jede Partei einen Anführer (Hauptcharakter), ein oder zwei wichtige Charaktere und einige Handlanger. Jede Partei bzw. Anführer sollte mit Motivationen und Zielen ausgestattet werden, damit du im Abenteuer anhand dieser auf die Aktionen der Spielercharaktere konsistent reagieren kannst. Aus den Motivationen und Zielen muss sich natürlich ein Konfliktpotenzial ableiten lassen, damit die Spielleitercharaktere und Spielercharaktere auch aufeinanderprallen. Wie unter [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere) beschrieben, solltest du die Werte und Ausrüstung der wichtigen Protagonisten niederschreiben.
 
-<div class="hinweis">
-## Fragen um Parteien zu bestimmen
-
+{% capture include_body %}
 - Welche anderen Parteien sind am Misslingen des Auftrags interessiert?
 - Welche Gegenspieler hat der Auftraggeber oder die Charaktere?
 - Welche andere Gruppe könnte genau derselbe Gegenstand interessieren?
+{% endcapture %}
+{% include hinweis.md title="Fragen um Parteien zu bestimmen" body=include_body %}
 
-</div>
-<div class="hinweis">
-## Typische Parteien
-
+{% capture include_body %}
 - andere Piratengruppe oder die SpaceNinjas
 - ein Konzern, Sekte oder Bande
 - eine Regierung, der Handelsrat oder eine fremde Alienrasse
+{% endcapture %}
+{% include hinweis.md title="Typische Parteien" body=include_body %}
 
-</div>
 ## Beziehungs- und Konfliktnetz
 
 Ein Beziehungs- und Konfliktnetz visualisiert die Beziehungen der einzelnen Charaktere zueinander. Ein solches Netz braucht zumindest drei unterschiedliche Seiten, damit auch Interessenskonflikte auftreten können. Weitere Seiten verkomplizieren das Abenteuer merklich. Jeder wichtige Spielleitercharakter und die Charaktergruppe wird dabei in Form eines Rechtecks auf einem Blatt Papier notiert. Für ein kurzes Abenteuer reichen fünf Spielleitercharaktere, damit es nicht zu komplex wird.
@@ -39,4 +37,3 @@ Charaktere, die miteinander in Beziehung stehen, werden mit Linien verbunden. Di
 Am besten beginnt man mit den wichtigsten Charakteren und fügt nach und nach die unwichtigeren Charaktere hinzu. Jeder Charakter, der die Speerspitze einer Partei darstellt, sollten zwei Helfer zur Seite stehen, die verschiedene Facetten dieser Seite verkörpern. Helfer können eine extremere Einstellung besitzen oder auch von der Haltung des Anführers abweichen.
 
 Als letzter Schritt wird noch das große Ding eingetragen, um das sich das Abenteuer dreht. Dieses wird in einen Kreis geschrieben und wieder mit Linien mit den wichtigsten Charakteren verknüpft. Auf der Linie wird mit einem Stichwort notiert, wie dies erreicht werden soll. Damit bekommt man noch die Motivationen der wichtigsten Charaktere unter.
-

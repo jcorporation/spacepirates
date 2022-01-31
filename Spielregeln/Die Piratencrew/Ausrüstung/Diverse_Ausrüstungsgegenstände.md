@@ -4,9 +4,7 @@ permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenst�
 title: Diverse Ausrüstungsgegenstände
 ---
 
-
 # Diverse Ausrüstungsgegenstände
-
 
 Hier sind nur wichtige und interessante Ausrüstungsgegenstände aufgeführt. Alltagsdinge, die keine Boni geben und nicht unbedingt Voraussetzung für eine Tätigkeit sind, müssen von den Charakteren nicht gekauft werden. Daher reicht es z.B. aus, wenn der Tech ein Universalwerkzeug &ndash; Tech kauft, ein normales Universalwerkzeug benötigt er nicht.
 
@@ -39,6 +37,7 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 <tr><td>xPhone 3Gx</td><td>P+1 auf Informationsbeschaffung</td><td>150</td></tr>
 </tbody>
 </table>
+
 - Das **Anti-Schwerkraft-Spray** wird in praktischen Sprühdosen verkauft. Es gibt sie im handlichen 100-ml Format für die Handtasche bis hin zur 50-Liter-Flasche, die auf dem Rücken getragen werden kann. Das Anti-Schwerkraft-Spray versprüht eine durchsichtige Flüssigkeit, die von jedem Material absorbiert wird. Pro 10 ml Spray wird der eingesprühte Gegenstand um 1 kg leichter. Die Wirkung hält dabei 24 Stunden an.
 - Der **Einweg-Liebeslippenstift** verspricht Liebe auf den ersten Kuss. Das Opfer muss nach einem Kuss eine PILOT Probe mit 4 Erfolgen schaffen um nicht 12 Stunden in einen Liebesrausch zu verfallen. Den Lippenstift gibt es natürlich in klassischem Amorrot und auch in allen anderen hippen Farben. Ein Liebeslippenstift reicht für 10 Küsse.
 - Der **elektronische Dietrich** hilft beim Knacken von elektronischen Schlössern, andere Schlösser findet man eh kaum noch. Er muss mit dem Schloss verbunden werden und braucht für herkömmliche Schlösser fünf Minuten.
@@ -67,6 +66,7 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 <tr><td>Werkzeugpapagei</td><td>P+1 auf Tech</td><td>550</td></tr>
 </tbody>
 </table>
+
 - **Rum** ist in piratenüblichen Mengen kostenlos, ansonsten fallen 20 UC pro Fass an.
 
 ## Spezialkleidung
@@ -85,6 +85,7 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 <tr><td>Exoskelett</td><td>P+2</td><td>4.000</td></tr>
 </tbody>
 </table>
+
 - Der **Strahlenschutzanzug** schützt vor jeglicher Strahlung, insbesondere vor der tödlichen Negatritiumstrahlung.
 - Ein **Weltraumschutzanzug** schützt vor Vakuum, Kälte und Hitze und kann CO<sup>2</sup> in atembare Luft verwandeln.
 - Der **Spaceskin&trade; Dextrosynth** wandelt Ausscheidungen in frisches Wasser und Dextrose um.
@@ -105,9 +106,7 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 <tr><td>Personenschild</td><td>Z+3</td><td>7.000</td></tr>
 </tbody>
 </table>
+
 - **Leichte Panzerung** kann unter der Kleidung getragen werden, es gibt auch Kleidung, in die ein leichter Panzer eingearbeitet ist.
 - **Sturmpanzer** sind immer sichtbar und erinnern an die Polizeiausrüstung des 20. Jahrhunderts.
 - Das **Personenschild** umgibt den Träger mit einem leicht schillernden Schild.
-
-
-

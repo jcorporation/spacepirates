@@ -4,9 +4,7 @@ permalink: /Spielregeln/Abenteuer/Vordemabenteuer
 title: Vor dem Abenteuer
 ---
 
-
 # Vor dem Abenteuer
-
 
 Direkt vor Beginn des Abenteuers sollte jeder Spieler seinen Charakter kurz und vor allem plastisch beschreiben. Er soll nicht nur die Ausrüstung des Charakters aufzählen, sondern auch seine Charakterzüge und äußerlichen Merkmale schildern, damit sich die Mitspieler den Charakter vorstellen können. Normalerweise sollte hierbei auch angeschnitten werden, woher sich die Charaktere kennen, um langwierige (und oft gekünstelt wirkende) Zusammenführungsszenen zu vermeiden.
 
@@ -27,11 +25,7 @@ Wenn das Abenteuer deutlich länger als 4&ndash;5 Stunden dauert, ist es ratsam,
 
 Der Spielleiter erhält ebenfalls Piratenwürfel, und zwar pro Abenteuer &bdquo;Anzahl Spieler&ldquo; + &bdquo;durchschnittliche Stufe der Charaktere&ldquo;.
 
-<div class="hinweis">
-## Einsatz von Spielleiter-Piratenwürfel
-
+{% capture include_body %}
 Die Spielleiter-Piratenwürfel dienen dazu, um in spannenden Momenten noch mehr Dramatik in das Geschehen zu bringen, etwa wichtigen Gegenspielern der Charaktere kurzzeitig höheres Können zu verleihen oder Hindernisse schwieriger zu gestalten. Aber Vorsicht, durch den Einsatz der Piratenwürfel sollten die Charakterleistungen nicht geschmälert werden!
-
-</div>
-
-
+{% endcapture %}
+{% include hinweis.md title="Einsatz von Spielleiter-Piratenwürfel" body=include_body %}

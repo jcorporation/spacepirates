@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/index
+permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/
 title: Raumschiffe
 ---
 
-
 # Raumschiffe
-
 
 Wie das Raumschiff genau aussieht, bleibt natürlich den Spielern überlassen. Da sich die Piratencrew wohl kein neues Raumschiff leisten kann, können alle Raumschiffe und das gesamte Zubehör gebraucht erworben werden. Gebrauchte Raumschiffe und Zubehör kostet nur die Hälfte des Neupreises. Im Gegenzug haben gebrauchte Raumschiffe ein paar unbedeutende Nachteile:
 
@@ -22,9 +20,7 @@ Wie das Raumschiff genau aussieht, bleibt natürlich den Spielern überlassen. D
 - Der Wert **Personen** gibt an, wieviel Kabinen das Raumschiff bietet.
 - **Schadenspunkte:** Anzahl an Schadenspunkten, die das Raumschiff verkraften kann.
 
-<div class="hinweis">
-## Tipps zum Kauf eines Raumschiffs
-
+{% capture include_body %}
 Das Raumschiff sollte zumindest mit folgenden Dingen ausgestattet sein:
 
 - Einen FTL-Antrieb, sonst können die Piraten nur auf einer Raumstation abhängen.
@@ -32,8 +28,8 @@ Das Raumschiff sollte zumindest mit folgenden Dingen ausgestattet sein:
 - Sensoren, Standardsensoren reichen meist aus.
 - Pro gutem Söldner eine Waffe. Besser nur eine Waffe mit hohem Schadensmodifikator als zwei Waffen mit einem niedrigen.
 - Eine Enterschleuse ist sehr praktisch, sonst benötigt man zum Entern Raumanzüge.
-
-</div>
+{% endcapture %}
+{% include hinweis.md title="Tipps zum Kauf eines Raumschiffs" body=include_body %}
 
 ## Raumschiffe
 

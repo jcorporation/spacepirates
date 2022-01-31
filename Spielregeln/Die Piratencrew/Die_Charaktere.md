@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Charaktere
+permalink: /Spielregeln/Die_Piratencrew/Die_Charaktere
 title: Die Charaktere
 ---
 
@@ -8,14 +8,13 @@ title: Die Charaktere
 
 Die Charaktere sind Piraten und treiben sich in den zwielichtigen Bars und Kneipen des Universums herum, liefern sich Schlägereien mit anderen Piraten und knüpfen Kontakte zu halbseidenen Händlern, inoffiziellen Regierungsbeauftragten und undurchsichtigen Vereinigungen. Auf ihrer Jagd nach Ruhm und Reichtum führen sie, mit ihrem Piratenschiff voller seltsamer Macken, höchst illegale und wagemutige Aufträge durch, rauben Schiffe aus, liefern sich waghalsige Raumschlachten und entdecken neue Weltraumphänomene und Planeten. Trauen können sie niemandem, da jeder Auftraggeber und Handelspartner, der mit ihnen verkehrt, genauso verschlagen und geldgierig ist, wie sie selbst. Als wäre das nicht genug, werden sie natürlich auch vom Handelsrat und den Regierungen verfolgt und stehen in Konkurrenz mit vielen anderen Piraten.
 
-<div class="hinweis">
-## Eine Piratencrew erschaffen
-
+{% capture include_body %}
 Die Charaktere bilden eine Mannschaft und sollten dementsprechend auch gemeinsam erschaffen werden. Die Spieler sollten einen Piloten, einen Tech und einen oder mehrere Bordschützen bestimmen. Auch ein Kapitän darf nicht fehlen, aber jeder auf dem Raumschiff hat gleich viel zu sagen, jedenfalls, wenn es nach den Regeln geht.
 
 Ihr spielt eine Piratencrew, also eine Gruppe, die zusammenarbeiten muss, wenn sie überleben, Schätze erbeuten und im Holo-Highscore aufsteigen will. Menschenscheue Einzelgänger, die nicht auf andere eingehen können, sind fehl am Platze, jeder muss hier seine Aufgabe erfüllen, egal ob als Kapitän, Pilot, Bordschütze oder Techniker des Schiffs.
+{% endcapture %}
+{% include hinweis.md title="Eine Piratencrew erschaffen" body=include_body %}
 
-</div>
 ## Rassenwahl
 
 Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich gibt es auch Alienpiraten. Zur Auswahl stehen die folgenden Rassen:
@@ -37,49 +36,44 @@ Wenn der Spieler will, kann er natürlich auch eine neue Alienrasse erschaffen, 
 
 Der Hintergrund verleiht dem Charakter Individualität. Neben Namen, Beschreibung und Verhalten, interessieren auch vergangene, prägende Ereignisse. Ob der Hintergrund ausformuliert oder in Stichpunkten notiert wird, bleibt jedem selber überlassen.
 
-<div class="hinweis">
-## Tipps zum Hintergrund
-
+{% capture include_body %}
 Erschaffe einen Hintergrund, der den Charakter für die anderen Spieler interessant werden lässt. Charaktere mit Ecken und Kanten bereichern das Spiel. Also spielt keine introvertierten Einzelgänger, sondern Piraten mit Stärken und Schwächen, die man lieben und hassen kann.
 
 Ein cooler Hintergrund bringt nichts, wenn er im Spiel untergeht. Also gestalte deinen Charakterhintergrund nützlich. Erstens für dich, um ihn besser auszuspielen, zweitens für die Gruppe und den Spielleiter, damit sie den Hintergrund deines Charakters anspielen können.
 
 Klischees sind wunderbar, jeder kennt sie und man hat schnell ein Bild vor Augen. Also verwende Klischees, um deinen Charakter typische oder untypische Merkmale zu geben.
+{% endcapture %}
+{% include hinweis.md title="Tipps zum Hintergrund" body=include_body %}
 
-</div>
 Folgende Fragen können helfen, um die wichtigsten Fakten des Charakterhintergrunds festzulegen:
 
-<ol>
-- Wie sieht der Charakter aus? Wie kleidet er sich? Ist er gepflegt oder meidet er Wasser?
-- Wie verhält sich der Charakter? Ist er aufgeschlossen oder grummelig?
-- Was hat er gemacht, bevor er Pirat wurde? Hat er einen Beruf erlernt?
-- Warum und wie ist er Pirat geworden?
-</ol>
-<div class="beispiel">
-## Beispiel zum Charakterhintergrund
+1. Wie sieht der Charakter aus? Wie kleidet er sich? Ist er gepflegt oder meidet er Wasser?
+2. Wie verhält sich der Charakter? Ist er aufgeschlossen oder grummelig?
+3. Was hat er gemacht, bevor er Pirat wurde? Hat er einen Beruf erlernt?
+4. Warum und wie ist er Pirat geworden?
 
+{% capture include_body %}
 Kathy nennt ihren Charakter Sun Chen, sie ist Neuasiatin und kommt vom Planeten Kabukicho-Prime. Sie ist 30 Jahre alt. Kathy beantwortet die Hintergrundfragen wie folgt:
 
-<ol>
-- Lange, schwarze Haare, die sie meist hochgesteckt trägt. Sie trägt meist hochgeschlossene, aber figurbetonte Kleidung.
-- Sie weiß ihre Reize einzusetzen und hat eine flotte Zunge.
-- Sie war Händlerin.
-- Sie hat durch einen aufgeflogenen Betrug all ihre Handelskontakte verloren und muss ihr Geld jetzt anders verdienen.
-</ol>
-</div>
+1. Lange, schwarze Haare, die sie meist hochgesteckt trägt. Sie trägt meist hochgeschlossene, aber figurbetonte Kleidung.
+2. Sie weiß ihre Reize einzusetzen und hat eine flotte Zunge.
+3. Sie war Händlerin.
+4. Sie hat durch einen aufgeflogenen Betrug all ihre Handelskontakte verloren und muss ihr Geld jetzt anders verdienen.
+{% endcapture %}
+{% include beispiel.md title="Beispiel zum Charakterhintergrund" body=include_body %}
+
 ### Macken
 
 Zum Hintergrund des Charakters gehören bei SpacePirates auch seine Macken. Sie dienen nur zur Individualisierung des Charakters und haben keine regeltechnischen Auswirkungen, bringen aber dafür etwas mehr Farbe ins Spiel. Jeder Pirat sollte zwei Macken besitzen, der Spieler kann sie entweder frei erfinden oder sie anhand der folgenden Liste bestimmen, indem er daraus wählt oder würfelt. Es ist jederzeit möglich, eine Macke abzulegen oder zu ersetzen, falls sie nicht zum Charakter passt, den der Spieler spielen will.
 
-<div class="hinweis">
-## Macken
-
+{% capture include_body %}
 Insbesondere bei OneShots oder Spielrunden auf Cons ist es zu empfehlen, die Macken auszuwürfeln, da dies flott erledigt ist. Sollte aber ein längeres Abenteuer oder sogar eine kleine Kampagne gespielt werden, sollte man sich Zeit lassen und die Macken individueller gestalten.
 
 Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben.
+{% endcapture %}
+{% include hinweis.md title="Macken" body=include_body %}
 
-</div>
-<table data-type="zufallstabelle">
+<table>
 <caption>Piratenmacken</caption>
 <thead>
 <tr><th>W30</th><th>Macke</th></tr>
@@ -117,4 +111,3 @@ Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben.
 <tr><td>30</td><td>hoffnungsloser Optimist</td></tr>
 </tbody>
 </table>
-

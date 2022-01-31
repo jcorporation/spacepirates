@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Beispielcharaktere
+permalink: /Spielregeln/Die_Piratencrew/Beispielpiraten
 title: Beispielpiraten
 ---
 

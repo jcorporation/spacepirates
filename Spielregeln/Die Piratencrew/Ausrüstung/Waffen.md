@@ -2,11 +2,10 @@
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Waffen
 title: Waffen
+aside: Waffen_aside.md
 ---
 
-
 # Waffen
-
 
 Es gibt alle möglichen und unmöglichen Waffen. Die meisten geben keinen Bonuswürfel, da sie oft recht billig gefertigt und etwas zu bunt lackiert sind. Je höher der Bonus, umso besser ist die Waffe. In einem Kampf kann immer nur eine Waffe genutzt werden. Natürlich können Fernkampfwaffen auch im Nahkampf als Prügel benutzt werden, geben dann aber keinen Bonus.
 
@@ -33,7 +32,8 @@ Es gibt alle möglichen und unmöglichen Waffen. Die meisten geben keinen Bonusw
 <tr><td>Negatronenwerfer</td><td>P+3</td><td>5.000</td></tr>
 </tbody>
 </table>
-- **Revolver **und **Gewehre** haben sich nicht viel weiterentwickelt und sind solide wie eh und je.
+
+- **Revolver** und **Gewehre** haben sich nicht viel weiterentwickelt und sind solide wie eh und je.
 - **Laserwaffen** gibt es in allen möglichen Ausführungen und auch in Pistolengröße. Die Farbe des Lasers hat nichts mehr mit der Stärke zu tun und hängt daher einzig vom Geschmack des Besitzers ab.
 - Die **Minilaserpistole** ist eine miniaturisierte Laserpistole im schicken Design, die in jede Hand- oder Jackentasche passt.
 - Der **Laserdegen** kombiniert einen Degen mit einer Laserpistole und sieht dementsprechend seltsam aus.
@@ -64,6 +64,7 @@ Es gibt alle möglichen und unmöglichen Waffen. Die meisten geben keinen Bonusw
 <tr><td>Laserwanderstab</td><td>P+2</td><td>2.500</td></tr>
 </tbody>
 </table>
+
 - Der **Cyberholzfuß** und die **Hakenhand** ersetzen die normalen Gliedmaßen.
 - **Vibrosäbel **sind elegante Piratensäbel, deren Klinge leicht vibriert, wodurch sie mehr Schaden verursachen.
 - **Ionisierte Äxte** sind zum einen besonders scharf, weshalb sie fast jedes Material durchdringen können, und stumpfen zum anderen nicht ab.
@@ -88,6 +89,7 @@ Es gibt alle möglichen und unmöglichen Waffen. Die meisten geben keinen Bonusw
 <tr><td>Wagonischer Halluzigonator</td><td>P+2</td><td>7.000</td><td>Löst Halluzinationen aus</td></tr>
 </tbody>
 </table>
+
 ### Eis-Ionenblaster
 
 Der bei den raptorianischen Kriegern sehr beliebte Eis-Ionenblaster, trägt den Beinamen &bdquo;Onkel Frost&ldquo;. Der Name ist Programm, der Strahl dieser Waffe kühlt das Opfer binnen weniger Millisekunden auf minus 152 Grad herunter. Sehr hilfreich während der Proteinjagd und zudem eine nützliche Waffe um konkurrierende Artgenossen oder auch Gegner für einen gewissen Zeitraum kalt zu stellen. Je nach Umgebungstemperatur tauen die Betroffenen binnen einiger Stunden wieder auf ohne Zellstrukturschäden zu erleiden. Denn kein Raptorianer mit Stil würde sein Steak mit Gefrierbrand verzehren wollen.
@@ -123,20 +125,3 @@ Mikrowellen lassen sich weder durch Chitin aufhalten noch auf enge Bereiche begr
 ### Wagonischer Halluzigonator
 
 Gemäß wagonischer Gesetze müssen Kampfhandlungen die Gefahr tödlicher Verletzungen minimieren. Aus diesem Grund entwickelten die Wagonen den Halluzigonator, der zwar regulär wie eine Gausskanone funktioniert, dabei aber Kugeln aus Biomaterial verschießt, die beim Ziel starke Halluzinationen auslösen. Auf diese Weise wird nicht nur das Opfer außer Gefecht gesetzt, sondern es werden auch weitere Gegner gebunden, die versuchen, das halluzinierende Opfer zu behandeln.
-
-
-<aside>
-<div class="hinweis">
-## Munition
-
-Waffen müssen weder nachgeladen werden, noch geht ihnen die Munition aus.
-
-</div>
-<div class="hinweis">
-## Schaden von Waffen
-
-Selbstverständlich lässt sich das Schadensniveau sämtlicher Waffen stufenlos umschalten, von **Betäubung** über **Kopfschmerzen**, **Durchlöchern** bis zur **Auflösung**. So kann man im Kampf jederzeit entscheiden, wie stark man dem Gegner schaden will.
-
-</div>
-</aside>
-

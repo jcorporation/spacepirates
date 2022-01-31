@@ -50,4 +50,3 @@ title: Style-Zubehör
 - Eine eigene kleine **Rumdestille** für die Kombüse des Piratenschiffs, das genug Rum für den Tagesbedarf von 4 bis 5 Piraten destillieren kann. Natürlich darf diese offiziell nur für Eigenbedarfszwecke genutzt werden, wenn man keine passende Lizenz vorweisen kann.
 - Die **Edel-Kombüse** ist mit allem Luxus ausgestattet, inklusive intelligenter Küchengeräten mit vernetzter KI.
 - Der **Notaus-Knopf**, in stylischem Retrodesign, fährt alle nicht lebensnotwendigen Systeme auf einem Schlag herunter.
-
