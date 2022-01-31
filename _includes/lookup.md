@@ -9,5 +9,4 @@
 {% else %}
     <li>keine Einträge gefunden</li>
 {% endif %}
-</tbody>
 </ul>

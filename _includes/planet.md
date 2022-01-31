@@ -17,6 +17,6 @@
         <tr><th>Hauptstadt</th><td>{% include printlink.md data=Hauptstadt %}</td></tr>
         <tr><th>Besiedelung</th><td>{% include printlink.md data=Besiedelung %}</td></tr>
         <tr><th>Politisches</th><td>{% include printlink.md data=Politisches %}</td></tr>
-        <tr><th>Erwähnungen</th><td>{% include suche.md data=Normalized %}</td></tr>
+        <tr><th>Erwähnungen</th><td>{% include lookup.md data=Normalized %}</td></tr>
     </tbody>
 </table>

@@ -2,6 +2,8 @@
 layout: page
 permalink: /Weltraum/Aliens/Samnesen/Sperrzone
 title: Sperrzone in Samara
+aside: Sperrzone_aside.md
+normalized: sperrzone in samara
 ---
 
 # Sperrzone in Samara
@@ -21,13 +23,3 @@ Die Raumbojen sind miteinander verbunden und bilden zusammen eine Schwarmintelli
 
 - Wenn eine Boje ausfällt, versuchen die anderen Bojen, das Netz zu kompensieren.
 - Wenn eine Boje beschossen wird, schießen sie selber und die vier benachbarten Bojen zurück.
-
-<aside>
-<div class="hinweis">
-## Wird auf folgenden Seiten erwähnt
-
-[Sperrzone in Samara]({{ site.baseurl }}/Search)
-
-</div>
-</aside>
-
