@@ -8,9 +8,7 @@ title: Berühmte Piratenkapitäne
 # Berühmte Piratenkapitäne
 
 
-## Tatjana Molotowa
-
-### &ndash; Die Gräfin
+## Tatjana Molotowa &ndash; Die Gräfin
 
 Schon mancher hat sich über den hochmütigen Gesichtsausdruck und die gewählte Sprache der &bdquo;Gräfin&ldquo; lustig gemacht, allerdings hat sie die meisten dieser Lästermäuler überlebt (die ersten grauen Strähnen in ihren dunklen Haaren bezeugen dies). Dazu beigetragen haben auch die in ihren teuren, dunklen Gewändern versteckten Laserpistolen. Allerdings folgt sie einem strikten Ehrenkodex (zumindest die meiste Zeit) und bevorzugt den offenen Zweikampf, am liebsten mit altertümlichen Stichwaffen. Wenn sie mit der Mannschaft ihres &bdquo;Sternenwolfs&ldquo; ein anderes Raumschiff kapert, kann die Mannschaft sicher sein, zumindest mit dem Leben davon zu kommen &ndash; sofern sie nicht auf die Idee kommt, Hinterhalte zu legen oder ähnliche &bdquo;unehrenhafte&ldquo; Taten zu begehen.
 

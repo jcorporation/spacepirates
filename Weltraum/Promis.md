@@ -72,7 +72,7 @@ Die wohl berühmteste Spaceamazone des Universums, sie spielte die Titelrolle de
 <table data-type="slc">
 <caption>Birgit Niels</caption>
 <tbody>
-<tr><th>Rasse</th><td>[Spazeamazone]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen)</td></tr>
+<tr><th>Rasse</th><td>[Spaceamazone]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen)</td></tr>
 <tr><th>Kategorie</th><td>Promi</td></tr>
 <tr><th>Wohnort</th><td> </td></tr>
 <tr><th>Erwähnungen</th><td>[Birgit Niels]({{ site.baseurl }}/Search)</td></tr>

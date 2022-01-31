@@ -1,0 +1,77 @@
+banchigos:banchigo
+berühmte:bekannte
+beliebte:bekannte
+binkels:binkel
+birgit:birgit niels
+brarbragrozianer:brarbragroz
+clans:clan
+harrys:harry
+kahadriern:kahadrier
+kapitalistischen:kapitalistische
+karten:karte
+mensch:menschen
+militärs:militär
+neuasiens:neuasien
+neuasiatischen:neuasien
+oysterclusters:oystercluster
+pirat:piraten
+planeten:planet
+politische:politik
+politische lage:politik
+raumschiffen:raumschiffe
+reichs der wagonen:reich der wagonen
+samnese:samnesen
+samnesin:samnesen
+schlachtkreuzers:schlachtkreuzer
+sektoren:sektor
+spaceamazone:spaceamazonen
+spacepears:spacepear
+spaceworms:spaceworm
+spiralnebels:spiralnebel
+streifianische:streifanier
+syonern:syoner
+trullisch:trull
+unbekannten:unbekannt
+unbekannter:unbekannt
+universums:universum
+vereinigten:vereinigte
+wagone:wagonen
+wagonische:wagonen
+yinyangyongs:yinyangyong
+währungen:währung
+weltraumtieren:weltraumtiere
+weiße loch:weißes loch
+stratum novas:stratum nova
+sternwalen:sternenwale
+stans:stan
+piratentreffpunkte:piratentreffpunkt
+neylas:neyla
+kahadrisches:kahadrisches reich
+italienischen mafia:italienische mafia
+interaktiven:interaktive
+hyperschiffmodelle:hyperschiffe
+handelsrats:handelsrat
+handelsrates:handelsrat
+achmed:achmeds
+asiaten:asiat
+clans der schildkröte:clan der schildkröte
+charakters:charaktere
+würfeln:würfel
+würfelt:würfel
+szenenstarts:szenenstart
+reichs:reich
+raumkämpfe:raumkampf
+raumflüge:raumflug
+konflikte:konflikt
+alten:alte
+zähigkeiten:zähigkeit
+sonde:sonden
+proben:probe
+pergaments:pergament
+parteien:partei
+kauf:kaufen
+informationen:information
+glutulhus:glutulhu
+einfachen:einfache
+britney s pears:britney
+rigel: rigel 3

@@ -6,9 +6,9 @@ aside: Brarbragroz_aside.md
 
 sitedata:
     Planeten:
-        Brarbragoz:
+        Brarbragroz:
             Typ: Erdähnlich
-            Name: Brarbragoz
+            Name: Brarbragroz
             Sektor: ""
             Monde: 2
             Einwohner: Brarbragrozianer

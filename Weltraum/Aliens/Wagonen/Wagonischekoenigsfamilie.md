@@ -29,9 +29,8 @@ Die wagonische Königsfamilie ist die vermutlich älteste Monarchie der Galaxis.
 <tr><td>Käthe von Wagonien</td><td>[Windsor Planet]({{ site.baseurl }}/Wagone]({{ site.baseurl }}/Weltraum/Aliens/Wagonen)</Td><td>Adel</Td><td>)({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Windsorplanet)</td><td>[Käthe von Wagonien]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>
-### Königin Elisabeth
 
-#### &ndash; die Standfeste
+### Königin Elisabeth &ndash; die Standfeste
 
 (Hinter ihrem Rücken nennen ihre Verwandten sie auch &bdquo;Mama Diktatora&ldquo;). Sie regiert seit 300 Jahren und denkt gar nicht ans Aufhören. Irgendwann war sie auch mal verheiratet, aber niemand weiß genau, wann und mit wem. Ihren Sohn Wagonion behandelt sie wie einen Untergebenen. Elisabeth liebt ihren Lord Chamberlain Alfred, was sie aber niemals zugeben würde. Er übrigens auch nicht.
 
