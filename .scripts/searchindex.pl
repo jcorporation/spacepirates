@@ -153,6 +153,7 @@ sub parse_data {
         {
             next;
         }
+        #extract json value
         if ($line =~ /"[^"]+":\s+"(.*)",?$/) {
             add_keyphrase($1, "true");
         }
@@ -181,14 +182,21 @@ for my $filename (@files) {
     while (my $line = <$fh>) {
         my $inc = 1;
         if ($line =~ /^(#)+/) {
+            #heading
             my $c = length($1);
             $inc = 30 - ($c * 5);
         }
+        #todo: extract keywords and title from frontmatter
         $line = normalize($line);
         for my $key (keys %keywords) {
             if ($line =~ /\b$key\b/) {
                 if ($line =~ /^title $key$/) {
+                    #site title
                     $inc = 50;
+                }
+                if ($line =~ /^keyword $key$/) {
+                    #site keywords
+                    $inc = 100;
                 }
                 my $nkey = defined $stompkeys{$key} ? $stompkeys{$key} : $key;
                 my $uri = get_uri($filename);

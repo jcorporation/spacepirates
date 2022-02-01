@@ -1,1 +1,1 @@
-{% include erwaehntbox.md data=site.title %}
+{% include erwaehntbox.md data="Sperrzone in Samara" %}
