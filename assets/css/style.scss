@@ -118,6 +118,14 @@ main ul {
 
 .bg-sternenkarte {
   background-image: url("/assets/images/sternenkarte-quadrat.png");
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-size: cover;
+}
+
+.mt-6 {
+  margin-top: 3rem !important;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px black;
 }
