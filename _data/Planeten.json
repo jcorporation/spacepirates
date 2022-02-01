@@ -39,8 +39,7 @@
     "Einwohner": "intelligente Pflanzen",
     "Hauptstadt": "keine",
     "Besiedelung": "Forschungsstation",
-    "Politisches": "In einer Sperrzone",
-    "Normalized": "nova ceti"
+    "Politisches": "In einer Sperrzone"
   },
   "Sampuk": {
     "Typ": "Felsplanet",
@@ -59,8 +58,7 @@
     },
     "Hauptstadt": "Sila City",
     "Besiedelung": "große Städte",
-    "Politisches": "Heimatplanet der Samnesen",
-    "Normalized": "sampuk"
+    "Politisches": "Heimatplanet der Samnesen"
   },
   "Woodstock": {
     "Typ": "Erdähnlich",
@@ -76,7 +74,6 @@
     "Einwohner": "Hippies",
     "Hauptstadt": "Das große Festival",
     "Besiedelung": "Das großes Festival",
-    "Politisches": "keine politischen Beziehungen",
-    "Normalized": "woodstock"
+    "Politisches": "keine politischen Beziehungen"
   }
 }
