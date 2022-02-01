@@ -22,7 +22,7 @@
   {% assign normalized = normalized | remove: char %}
 {% endfor %}
 
-{% if include.mode == "first"}
+{% if include.mode == "first" %}
     {%if site.data.searchindex[normalized] %}
         {% assign crumbs = site.data.searchindex[normalized][0][0] | split: '/' %}
         {% assign title = crumbs | join: " › " | remove_first: " › " %}
