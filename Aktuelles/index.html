@@ -3,6 +3,8 @@ layout: default
 title: Aktuelles
 ---
 
+<h1>Aktuelles</h2>
+
 <div class="row row-cols-1 row-cols-md-2 g-4">
 {% for post in paginator.posts %}
   <div class="col">
@@ -16,7 +18,9 @@ title: Aktuelles
 </div>
 
 <hr/>
-<ul class="pagination justify-content-center no-width-limit">
+<div class="row">
+<div class="col">
+<ul class="pagination">
   {% if paginator.previous_page %}
     <li class="page-item">
       <a class="page-link link-dark" href="{{ paginator.previous_page_path }}">&laquo;</a>
@@ -39,3 +43,8 @@ title: Aktuelles
     </li>
   {% endif %}
 </ul>
+</div>
+<div class="col">
+  <button class="btn btn-secondary"><span class="mi me-1">rss_feed</span>RSS Feed</button>
+</div>
+</div>

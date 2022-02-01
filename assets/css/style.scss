@@ -78,6 +78,31 @@ main ul {
   margin-top: -0.2rem;
 }
 
-.no-width-limit {
-  max-width: none;
+.btn-yellow {
+  color: #212529;
+  background-color: #ffcc00;
+  border-color: #dfb300;
+}
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/MaterialIcons-Regular.woff2) format('woff2');
+}
+
+.mi {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.4rem;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  vertical-align: top;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'liga';
 }
