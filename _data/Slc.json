@@ -1,9 +1,19 @@
 {
+  "Blue_Rai": {
+    "Name": "Blue Rai",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Hehler",
+      "Kneipenbesitzer"
+    ],
+    "Position": "Kneipenbesitzer",
+    "Wohnort": "Two Eyed Jack"
+  },
   "Chester_Gateland": {
     "Name": "Chester Gateland",
     "Rasse": "Trull",
     "Kategorie": "Militär",
-    "Position": "Bekannter Kapitän eines großen Trullschiffes, der Gateland.",
+    "Position": "Bekannter Kapitän des großen Trullschiffes Gateland.",
     "Wohnort": "Trullmania"
   },
   "Hari_Jambal": {

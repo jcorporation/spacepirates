@@ -8,12 +8,8 @@ sitedata:
     Planeten:
         Woodstock:
             Typ: Erdähnlich
-            Name:
-                Text: Woodstock
-                Link: /Weltraum/Neutrale_Zone/Woodstock
-            Sektor:
-                Text: Neutrale Zone
-                Link: /Weltraum/Neutrale_Zone/
+            Name: Woodstock
+            Sektor: Neutrale Zone
             Monde: Asteroidengürtel
             Einwohner: Hippies
             Hauptstadt: Das große Festival

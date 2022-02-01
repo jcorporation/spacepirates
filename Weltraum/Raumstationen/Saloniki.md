@@ -6,9 +6,7 @@ title: Saloniki
 sitedata:
     Raumstationen:
         Saloniki:
-            Name:
-                Text: Saloniki
-                Link: /Weltraum/Raumstationen/Saloniki
+            Name: Saloniki
             Sektor: Rand des Universums
             Bewohner: Griechen
             Politisches: Unabhängig

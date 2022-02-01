@@ -16,23 +16,4 @@ Wieviel Credits Beute genau einbringt, kann mit einer einfachen HÄNDLER-Probe b
 
 ## Bekannte Hehler
 
-### Al Banchigo
-
-<p>**Aufenthaltsort:** Freeport<br/>
-**Rasse:** Mensch<br/>
-Al Banchigo kauft alles Ungewöhnlich und Seltene, egal wie heiß die Ware ist. Standardware interessiert ihn dagegen nicht sonderlich.</p>
-### Blue Rai
-
-<p>**Aufenthaltsort:** jede halbseidene Raumstation<br/>
-**Rasse:** unbekannt<br/>
-Blue Rai betreibt eine bekannte Barkette, die als Tarnung für seine Hehleraktivitäten dient. Er kauft so ziemlich alles an, mit dem er Geld verdienen kann.</p>
-### Scharxu
-
-<p>**Aufenthaltsort:** überall und nirgends<br/>
-**Rasse:** Trull<br/>
-Scharxu und sein Frachter sind nur zu finden, wenn er es will. Er kauft auch die heißesten Waren an, ist allerdings ein unangenehmer Typ.</p>
-### Trödler Abraham
-
-<p>**Aufenthaltsort:** Halfway<br/>
-**Rasse:** Mensch<br/>
-Der Trödler Abraham kauft alles und nimmt selbst heiße Ware an. Seinen Kramladen findet man auf Halfway.</p>
+{%include slc_tabelle.md filter_fields="Kategorie" filter_value="Hehler"}

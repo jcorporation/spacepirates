@@ -2,22 +2,28 @@
 layout: page
 permalink: /Weltraum/Händler_und_Halunken
 title: Händler und Halunken
----
 
+sitedata:
+    Slc:
+        Blue_Rai:
+            Name: Blue Rai
+            Rasse: Mensch
+            Kategorie:
+                - Hehler
+                - Kneipenbesitzer
+            Position: Kneipenbesitzer
+            Wohnort: Two Eyed Jack
+---
 
 # Händler und Halunken
 
-
 Natürlich gibt es in SpacePirates neben den großen Konzernen auch kleinere Händler und Halunken, mit denen die Piraten krumme Geschäfte abschließen können. Hier einige bekannte Halunken.
-
-
 
 ## Blue Rai
 
 Blue Rai ist ein erfolgreicher, menschlicher Kneipenbesitzer. Er ist ein Mittvierziger und hat schon graue Haare und zu viele Falten für sein Alter. Seine Haut ist wettergegerbt und er kleidet sich stets sehr lässig.
 
 Seine Bars sind im ganzen Weltraum bekannt. Wie auch die Gäste in seinen Bars ist Blue Rai meistens ziemlich betrunken. Das hat aber keinen Einfluss auf seinen Geschäftssinn und seine gute Menschenkenntnis, die auch bei Aliens nicht versagt. Blue Rai handelt hinter der Theke mit allem, mit dem man Geld machen kann. Bei Blue Rai kann man gut Hehlerware loswerden oder erwerben.
-
 
 <aside>
 <table data-type="slc">
@@ -161,19 +167,13 @@ Bei Schröders Elektroshop auf [Two Eyed Jack]({{ site.baseurl }}/Weltraum/Pirat
 
 ### Stan
 
-Stan kauft für seinen Spacecraft Shoppe hauptsächlich Raumschiffersatzteile und -waffen an. Diese sollten aber in gutem Zustand sein, sonst wird Stan den Preis stark drücken. Stans Spacecraft Shoppe ist auf [Brabengürtel]({{ site.baseurl }}/Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Twoeyedjack) im )({{ site.baseurl }}/Weltraum/Phaenomene/Brabenguertel).
+Stan kauft für seinen Spacecraft Shoppe hauptsächlich Raumschiffersatzteile und -waffen an. Diese sollten aber in gutem Zustand sein, sonst wird Stan den Preis stark drücken. Stans Spacecraft Shoppe ist auf [Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Twoeyedjack) im [Brabengürtel]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Brabengürtel).
 
 ### Trödler Abraham
 
 Abraham kauft auch gerne heiße Ware an und handelt mit allem, was er in die Finger bekommt. Sein Trödlerladen ist auf [Halfway]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Halfway).
 
-
-
-<div class="hinweis">
-## Hehlerware
-
+{% capture include_body %}
 Die halbseidenen Händler des SpacePirates Universums sind eine der wenigen Möglichkeiten für Piraten, um gestohlene Waren, ausgeschlachtete Raumschiffteile und Ähnliches in UC umzusetzen. Natürlich zahlen die Händler nicht den vollen Preis, sondern maximal 20 % bis 30 % des eigentlichen Warenwerts. Je heißer die Ware ist, desto weniger zahlen sie dafür, falls sie diese überhaupt annehmen. Die Händler müssen solche Waren entweder aufwändig von eindeutigen Identifikationsmerkmalen befreien oder zumindest länger lagern, bevor sie diese weiterverkaufen können und genau dies drückt den Einkaufspreis beträchtlich. Natürlich zahlen die Händler auch gute Summen für gesuchte und seltene Ware.
-
-</div>
-
-
+{% endcapture %}
+{% include hinweis.md title="Hehlerware" body=include_body %}

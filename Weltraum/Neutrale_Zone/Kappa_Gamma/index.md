@@ -8,12 +8,8 @@ sitedata:
     Planeten:
         Kappa_Gamma:
             Typ: Erdähnlich
-            Name:
-                Text: Kappa Gamma
-                Link: /Weltraum/Neutrale_Zone/Kappa_Gamma
-            Sektor:
-                Text: Neutrale Zone
-                Link: /Weltraum/Neutrale_Zone/
+            Name: Kappa Gamma
+            Sektor: Neutrale Zone
             Monde: 2
             Einwohner: KIs und Roboter
             Hauptstadt: Kappa und Gamma

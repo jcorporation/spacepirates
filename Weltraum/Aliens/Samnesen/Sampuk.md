@@ -8,25 +8,17 @@ sitedata:
     Planeten:
         Sampuk:
             Typ: Felsplanet
-            Name:
-                Text: Sampuk
-                Link: /Weltraum/Aliens/Samnesen/Sampuk
-            Sektor:
-                Text: Samara
-                Link: /Weltraum/Aliens/Samnesen/
+            Name: Sampuk
+            Sektor: Samara
             Monde: 2
-            Einwohner:
-                Text: Samnesen
-                Link: /Weltraum/Aliens/Samnesen
+            Einwohner: Samnesen
             Hauptstadt: Sila City
             Besiedelung: große Städte
             Politisches: Heimatplanet der Samnesen
     Staedte:
         Sila_City:
             Name: Sila City
-            Planet:
-                Text: Sampuk
-                Link: /Weltraum/Aliens/Samnesen/Sampuk
+            Planet: Sampuk
             Groesse: Millionenstadt
             Kategorie: Hauptstadt
 ---

@@ -13,4 +13,3 @@ Dieses Vorgehen hat mehrere Vorteile:
 Zum Einen geht die Charaktererschaffung und der Raumschiffbau wesentlich schneller, wenn die Spieler anfangs weniger Optionen haben. Die Ausrüstung aus dem Grundregelwerk reicht aus, um ein wehrhaftes und interessantes Raumschiff zu erschaffen. Es sollen eben auch die Charaktere und die Ideen der Spieler im Mittelpunkt stehen und nicht die Ausrüstung.
 
 Zum Anderen kommen so, durch das Erleben von Abenteuern, langsam weitere Elemente von SpacePirates zum Vorschein und der &bdquo;Sense Of Wonder&ldquo; bleibt länger erhalten. Der Spielleiter kann die Spieler dadurch mit unbekannter Technologie, wie zum Beispiel dem Ninja-Tarnschild, überraschen.
-

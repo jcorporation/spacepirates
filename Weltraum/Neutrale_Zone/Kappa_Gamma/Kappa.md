@@ -7,12 +7,8 @@ aside: Kappa_aside.md
 sitedata:
     Staedte:
         Kappa-Stadt:
-            Planet:
-                Text: Kappa Gamma
-                Link: /Weltraum/Neutralezone/Kappa_Gamma/
-            Name:
-                Text: Kappa-Stadt
-                Link: /Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa
+            Name: Kappa-Stadt
+            Planet: Kappa Gamma
             Groesse: Millionenstadt
             Kategorie: Hauptstadt
 ---

@@ -8,12 +8,8 @@ sitedata:
     Planeten:
         Nova_Ceti:
             Typ: Waldplanet
-            Name:
-                Text: Nova Ceti
-                Link: /Weltraum/Aliens/Samnesen/Nova_Ceti
-            Sektor:
-                Text: Samara
-                Link: /Weltraum/Aliens/Samnesen/
+            Name: Nova Ceti
+            Sektor: Samara
             Monde: 0
             Einwohner: intelligente Pflanzen
             Hauptstadt: keine

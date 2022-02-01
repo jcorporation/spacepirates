@@ -1,34 +1,19 @@
 {
   "Gamma-Stadt": {
-    "Planet": {
-      "Text": "Kappa Gamma",
-      "Link": "/Weltraum/Neutralezone/Kappa_Gamma/"
-    },
-    "Name": {
-      "Text": "Gamma-Stadt",
-      "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma"
-    },
+    "Name": "Gamma-Stadt",
+    "Planet": "Kappa Gamma",
     "Groesse": "Millionenstadt",
     "Kategorie": "Hauptstadt"
   },
   "Kappa-Stadt": {
-    "Planet": {
-      "Text": "Kappa Gamma",
-      "Link": "/Weltraum/Neutralezone/Kappa_Gamma/"
-    },
-    "Name": {
-      "Text": "Kappa-Stadt",
-      "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa"
-    },
+    "Name": "Kappa-Stadt",
+    "Planet": "Kappa Gamma",
     "Groesse": "Millionenstadt",
     "Kategorie": "Hauptstadt"
   },
   "Sila_City": {
     "Name": "Sila City",
-    "Planet": {
-      "Text": "Sampuk",
-      "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
-    },
+    "Planet": "Sampuk",
     "Groesse": "Millionenstadt",
     "Kategorie": "Hauptstadt"
   }

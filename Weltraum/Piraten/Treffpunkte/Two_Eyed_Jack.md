@@ -4,18 +4,13 @@ permalink: /Weltraum/Piraten/Treffpunkte/Twoeyedjack
 title: Two Eyed Jack
 ---
 
-
 # Two Eyed Jack
-
 
 Two Eyed Jack ist eine große und bekannte Raumstation im Brabengürtel. Der Brabengürtel befindet sich am Rande der Freihandelszone und ist nichts weiter als ein großer Asteroidengürtel. Hier trifft sich der Abschaum der Galaxis: Kopfgeldjäger, Piraten und Beamte. Dementsprechend sieht Two Eyed Jack auch aus. Sie erinnert mehr an einen großen Müllhaufen als an eine hochmoderne Raumstation.
 
 Die Raumstation ist auf einem der größeren Asteroiden des Brabengürtels erbaut worden. Früher war sie eine Basisstation für die Erforschung des Weltraums, inzwischen ist sie allerdings nur noch heruntergekommen, versifft und ungepflegt. Sie bietet Andockstationen für kleine und mittelgroße Raumschiffe, also alle Schiffe, die im Brabengürtel navigieren können.
 
 Ihren heutigen Namen erhielt die Raumstation von der bekannten Kneipe Two Eyed Jack, die vor ein paar Jahrzehnten vom gleichnamigen, berühmt-berüchtigten Piraten gegründet wurde. Inzwischen bietet die Raumstation aber auch alles andere, was Piraten so brauchen.
-
-- [Karten]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Twoeyedjack_karte)
-
 
 <aside>
 <table data-type="raumstation">
@@ -32,7 +27,6 @@ Ihren heutigen Namen erhielt die Raumstation von der bekannten Kneipe Two Eyed J
 ### Al Banchigos Kuriositäten-Emporium
 
 Hinter diesem pompösen Namen verbirgt sich das Schlupfloch des örtlichen Hehlers und Schiebers. Wenn man heiße Waren loswerden will oder sich auf dem Schwarzmarkt mit Kuriositäten aus allen Ecken der Galaxis (wie z.B. illegalen Waffen) eindecken möchte, so hilft Al Banchigo einem stets weiter &ndash; für den richtigen Preis versteht sich. Kurz gesagt: Al Banchigo verdient sich eine goldene Nase, egal ob die Piraten bei ihm ein- oder verkaufen.
-
 
 <aside>
 <table data-type="slc">
@@ -86,8 +80,6 @@ Selbst die härtesten Piraten können nicht tagein, tagaus Schiffe überfallen, 
 
 Wenn schon alle Einzelzimmer belegt sind und man das Pech hat, den Raum mit Fremden zu teilen, sollte man sich von anderen Gästen fernhalten. Selbstverständlich sind die meisten Schläfer hier paranoid und schlafen mit entsicherten und griffbereiten Waffen, mit denen sie schon mal auf ihre Albträume schießen.
 
-
-
 ### Elektro Schröder
 
 Der Ersatzteilhändler der Station. Hier erhält man alle möglichen Ersatzteile für Schiffe, Roboter, usw. zu fairen Preisen. Elektro Schröder liefert sich mit Stans Spaceship Shop einen harten Kampf um den 2. Platz im Gebrauchtwarenmarkt, der unangefochten vom Schrottplatz in Scrabnambu beherrscht wird.
@@ -126,7 +118,6 @@ Der bekannteste, beste und auch teuerste Fälscher der Station. Er kann quasi al
 
 In dieser Klinik praktiziert Holly Day. Die ehemalige Schönheitskönigin versteht sich hervorragend auf Schönheitschirurgie, hilft aber auch bei allen anderen Leiden einschließlich Zahnschmerzen. Es ist allerdings nicht ganz klar, woher sie ihre mit summa cum laude bewertete Approbation hat, denn es lassen sich an keiner Universität Prüfungsergebnisse oder gar eine Promotionsarbeit finden. Sie hat allerdings zwei schlagende Argumente, die zumindest ihre männlichen Patienten davon abhalten, hier zu genau nachzufragen.
 
-
 <aside>
 <table data-type="slc">
 <caption>Holly Day</caption>
@@ -142,7 +133,6 @@ In dieser Klinik praktiziert Holly Day. Die ehemalige Schönheitskönigin verste
 ### Mad Harrys Weapon Shop
 
 Der kleine Laden für alle, die große Wummen brauchen. Der Besitzer ist ein schielender Halbinvalide, der zu jeder Waffe eine nette Anekdote auf Lager hat und den Piraten nebenbei noch mit Geschichten von damals auf die Nerven geht. (&bdquo;Damals, im interstellaren Zeitkrieg, musste ich mir den Rücken selbst decken! Wenn mein Ich aus der Zukunft nicht den Angreifer abgeschossen hätte, hätte es mein Ich aus der Vergangenheit fast zerlegt. Mein Ich aus der Gegenwart konnte nichts tun, lag ja unter Deckungsfeuer. Ja, damals wusste man noch, was echte Kameradschaft ist!&ldquo;)
-
 
 <aside>
 <table data-type="slc">
@@ -164,12 +154,9 @@ Doch das hiesige Publikum verlangt nach anderer Unterhaltung, weshalb rund um di
 
 Zudem dient das Metz&rsquo;l-O-Drom als Start- und Zielpunkt der allmonatlichen Regatta durch den Brabengürtel, vorbei an Asteroiden, gefährlichen Meteorkraken und Piraten. Selbstverständlich kann auch auf den Ausgang aller Spiele gewettet werden.
 
-
-
 ### Stans olde Spacecraft Shoppe
 
 Der vertrauenswürdige Gebrauchtraumschiffhandel für den verzweifelten Piraten. Wenn die geliebte Schrottmühle wieder mal den Geist aufgegeben hat, findet man bei Stan garantiert Ersatz, wenn nicht gleich ein praktisch neuwertiges Gebrauchtraumschiff. Der stets hektische und schmierige Stan hat für jeden eine Rostlaube auf Lager und wird einem diesen Seelenverkäufer ohne jegliche Garantie verkaufen, so dass unter Garantie alles beim Alten bleibt.
-
 
 <aside>
 <table data-type="slc">
@@ -197,7 +184,6 @@ Dies ist die Heimat der Piratenveteranen. Hier treffen sich die ganz alten Hasen
 
 Trotz allem sieht man immer noch ein Funkeln in ihren Augen, wenn sie darüber reden, welchen Spaß sie früher doch hatten, rührselig alte Piratenlieder singen oder sich darüber aufregen, dass dieser trullische Taugenichts seine Schulden immer noch nicht bezahlt hat. Anschließend wird stets auf die alten Tage angestoßen: Sie waren es verdammt noch mal wert!
 
-
 <aside>
 <table data-type="slc">
 <caption>Two Eyed Jack</caption>
@@ -214,7 +200,6 @@ Trotz allem sieht man immer noch ein Funkeln in ihren Augen, wenn sie darüber r
 
 Ursels Cafe ist berühmt für den leckeren selbst gebackenen Kuchen. Man kann bedenkenlos zuschlagen, denn Ursel kostet alle ihre Kreationen, um eine gleichbleibend hohe Qualität zu gewährleisten und ihre Figur beweist, dass diese Behauptung stimmt. Sie ist eine resolute Matrone und duldet keine Schlägereien in ihrem Caf&eacute;, weshalb ihre Sternenterrasse (mit romantischem Blick über den Brabengürtel) ein beliebtes Ziel verliebter Jungpiraten ist.
 
-
 <aside>
 <table data-type="slc">
 <caption>Ursel</caption>
@@ -227,3 +212,8 @@ Ursels Cafe ist berühmt für den leckeren selbst gebackenen Kuchen. Man kann be
 </table>
 </aside>
 
+## Karte
+
+<img alt="Erdgeschoss" src="{{ site.baseurl }}/assets/pics/spacepirates/plaene/twoeyedjack-eg.png" />
+
+<img alt="Obergeschoss" src="{{ site.baseurl }}/assets/pics/spacepirates/plaene/twoeyedjack-og.png" />

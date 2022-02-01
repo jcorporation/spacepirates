@@ -15,7 +15,7 @@ sitedata:
             Name: Chester Gateland
             Rasse: Trull
             Kategorie: Militär
-            Position: "Bekannter Kapitän eines großen Trullschiffes, der Gateland."
+            Position: "Bekannter Kapitän des großen Trullschiffes Gateland."
             Wohnort: Trullmania
         Walter_Kirkham:
             Name: Walter Kirkham

@@ -1,17 +1,8 @@
 {
   "BadPlanets": {
-    "Name": {
-      "Text": "BadPlanets",
-      "Link": "/Weltraum/Weltraumphänomene/BadPlanets"
-    },
-    "Sektor": {
-      "Text": "Neutrale Zone",
-      "Link": "/Weltraum/Neutrale_Zone/"
-    },
+    "Name": "BadPlanets",
+    "Sektor": "Neutrale Zone",
     "Beschreibung": "Aggressive, lebende Planeten",
-    "Politisches": {
-      "Text": "Heimat der SpaceRocker Baneros Banditos",
-      "Link": "/Weltraum/SpaceRocker/Baneros_Banditos/"
-    }
+    "Politisches": "Heimat der SpaceRocker Baneros Banditos"
   }
 }

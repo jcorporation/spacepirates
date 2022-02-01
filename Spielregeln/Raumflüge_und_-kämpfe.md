@@ -39,12 +39,11 @@ Für normale Manöver muss der Pilot natürlich keine Probe ablegen, das Andocke
 
 Wenn eine Pilotenprobe bei Andock-, Abdock- oder Landemanövern misslingt, verursacht dies Schaden am Raumschiff und keinen Zähigkeitsverlust beim Piloten. Pro fehlenden Erfolg nimmt das Schiff einen Schadenspunkt, der nicht von Schilden aufgefangen wird.
 
-<div class="beispiel">
-## Beispiel zum Raumflug
-
+{% capture include_body %}
 Das Piratenschiff startet von Two-Eyed-Jack zu einem Raumflug. Da diese Raumstation inmitten eines Asteroidengürtels liegt, ist eine Probe auf PILOT notwendig. Der Spielleiter setzt die Schwierigkeit auf 3 Erfolge an. Stardusts Spieler würfelt mit seinem PILOT-Profil (5) und bekommt die Wendigkeit des Schiffs (1) als Bonus: (1 **2** 3 5 **8** 9) = 2 Erfolge. Somit nimmt das Piratenschiff 1 Punkt Schaden.
+{% endcapture %}
+{% include beispiel.md title="Beispiel zum Raumflug" body=include_body %}
 
-</div>
 ### Mackencheck
 
 Das Heimtückische an Macken ist es, dass sie nicht immer auftreten, sondern nur ab und an. Jedes Mal, wenn eine PILOT-Probe fällig ist, würfelt der Kapitän vorher mit einem W10 auf die Mackenliste des Raumschiffs. Steht in der Liste auf dieser Position eine Macke, tritt deren Wirkung sofort ein, andernfalls geschieht einfach nichts. Falls bereits eine andere Macke aktiv ist, ist nun eine weitere aktiv. Falls eine Macke erwürfelt wurde, die schon aktiv ist, verschlimmert sich ihre Auswirkung (Mali werden verdoppelt).
@@ -56,14 +55,12 @@ Durch normale, dreistündige Wartung (TECH-Probe mit mindestens 2 Erfolgen) kann
 - **Wartungsprobe:** TECH + Zuverlässigkeit &ge; 2 (dauert drei Stunden)
 - **Treten / Improvisieren:** TECH + Zuverlässigkeit &ge; 3
 
-<div class="beispiel">
-## Beispiel zu Macken
-
+{% capture include_body %}
 Das Piratenschiff startet zu einem Raumflug durch einen Nebel, dafür ist eine PILOT-Probe notwendig und Kathy würfelt deshalb auf die Mackentabelle. Sie würfelt eine 3 und der FTL macht nur Wupp und das Raumschiff rührt sich nicht vom Fleck. Der Spieler des Piloten braucht nun natürlich auch keine Probe mehr ablegen, beschreibt aber wie Stardust zuerst nur verdutzt auf die Konsolen schaut und danach darauf einprügelt und wild nach Drake, dem Tech brüllt.
 
 Die Piratencrew hat es eilig wegzukommen, also beschließt Drake zu improvisieren. Er nimmt den Korken aus seiner Rumflasche, besprüht in mit seinem patentierten Super-Versiegel-Spray-Extrem&trade; und stopft ihn in das unbedeutende Loch in einer Neutritiumleitung. Sein Spieler würfelt (**2** **4** 5 **6** 5 **0**) = 4 Erfolge und Drake schafft es somit das Leck abzudichten und der Pilot darf nun seine Probe ablegen.
-
-</div>
+{% endcapture %}
+{% include beispiel.md title="Beispiel zu Macken" body=include_body %}
 
 ***
 ## Raumkämpfe
@@ -76,12 +73,11 @@ Ein Raumkampf wird wie eine Konfliktszene abgehandelt. Jedes beteiligte Raumschi
 - Bei Raumkämpfen wird mit den Waffen des Schiffes geschossen, daher erhalten die Bordschützen den Bonus einer Raumschiffwaffe auf ihr SÖLDNER-Profil.
 - Die Techs erhalten die Zuverlässigkeit des Raumschiffes als Bonus auf ihr TECH-Profil.
 
-<div class="hinweis">
-## FTL-Raumkämpfe
-
+{% capture include_body %}
 Raumkämpfe mit FTL-Geschwindigkeiten sind nur möglich, wenn das Schiff mit FTL-Sensoren und FTL-Waffen ausgerüstet ist. Normale Waffen und Sensoren sind während des FTL-Flugs nutzlos.
+{% endcapture %}
+{% include beispiel.md title="FTL-Raumkämpfe" body=include_body %}
 
-</div>
 ### Schilde
 
 Schilde fangen Schaden ab. Wenn ein Raumschiff getroffen wird, werden die Punkte zuerst vom Schild abgezogen und erst dann von den Schadenspunkten. Wenn ein Schild keine Punkte mehr hat, bricht es zusammen. Es bietet dem Schiff keinerlei Schutz mehr, weshalb dieses jetzt auch geentert werden kann. Schilde regenerieren nach dem Kampf automatisch um 2 Punkte pro Stunde.
@@ -106,12 +102,10 @@ Wenn alle Schadenspunkte des Raumschiffs verbraucht sind, bricht es auseinander,
 </tbody>
 </table>
 
-<div class="beispiel">
-## Beispiel für einen Raumkampf
-
+{% capture include_body %}
 Die Piraten um Chen überfallen ein altes Frachtschiff, das erstaunlich wehrhaft ist (Es gibt zwei Parteien in diesem Konflikt). Das Frachtschiff ist mit Torpedos ausgestattet und besitzt einen Schildwert von 5 Punkten. Die Piraten wollen das Raumschiff entern, der Frachter will entkommen (Ziele definieren).
 
-Da das Piratenschiff Macken besitzt ist vor dem eigentlichen Kampf ein [Mackencheck]({{ site.baseurl }}/Spielregeln/Raumschiffkampf_wartung) nötig. Kathy würfelt auf die Mackentabelle des Schiffs, erwürfelt eine 7 und zum Glück der Piratencrew setzt keine Macke ein.
+Da das Piratenschiff Macken besitzt ist vor dem eigentlichen Kampf ein Mackencheck nötig. Kathy würfelt auf die Mackentabelle des Schiffs, erwürfelt eine 7 und zum Glück der Piratencrew setzt keine Macke ein.
 
 #### Siegreiche Partei ermitteln
 
@@ -177,5 +171,5 @@ Stardust beginnt, da er näher beim Spielleiter sitzt als Xenur und beide die me
 - **Spielleiter &ndash; 2 Misserfolge:** Der Tech steht verzweifelt vor seinen Konsolen, kann nichts mehr unternehmen und ergibt sich.
 - **Chen &ndash; 1 Erfolg:** Sie entert auch den Frachter, schießt die Tür der Brücke auf und setzt den Piloten fest.
 - **Drake &ndash; 2 Misserfolge:** Er nimmt noch einen Schluck aus seiner Rumflasche, eilt die Treppe hoch, aber der Kampf ist schon zu Ende, als er eintrifft. Er schlägt wütend gegen eine Konsole und löst dadurch die Selbstzerstörung des gekaperten Frachters aus.
-
-</div>
+{% endcapture %}
+{% include beispiel.md title="Beispiel für einen Raumkampf" body=include_body %}
