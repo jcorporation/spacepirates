@@ -7,7 +7,9 @@ aside: Epsilon_Canabis_aside.md
 sitedata:
     Sternensysteme:
         Epsilon_Canabis:
-            Name: Epsilon Canabis
+            Name:
+                Text: Epsilon Canabis
+                Link: /Weltraum/Epsilon_Canabis
             Sektor: weit außerhalb
             Zentralgestirn: Neutronenstern
             Planeten: 7
