@@ -1,12 +1,8 @@
 {% if include.data.Text %}
     {% assign phrases = include.data.Text | downcase | split: " " %}
-    <p>{{ include.data.Text }}</p>
 {% else %}
     {% assign phrases = include.data | downcase | split: " " %}
-    <p>{{ include.data }}</p>
 {% endif %}
-
-<p>{{ phrases | join: " " }}</p>
 
 {% assign normalized = "" %}
 {% assign words = "aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|an|auf|der|die|das|ein|eine" | split: "|" %}
@@ -23,11 +19,11 @@
     {%endif %}
 {% endfor %}
 
-<p>{{ normalized }}</p>
+{% assign normalized = normalized | remove_first: " " %}
 
 {% assign chars = "'`´,;.-?!():[]|&/" | split: "" %}
 {% for char in chars %}
-  {% assign normalized = normalized | replace: char %}
+  {% assign normalized = normalized | remove: char %}
 {% endfor %}
 
 <ul data-lookup="{{ normalized }}">
