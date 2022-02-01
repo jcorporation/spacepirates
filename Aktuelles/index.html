@@ -19,11 +19,11 @@ title: Aktuelles
 <ul class="pagination justify-content-center no-width-limit">
   {% if paginator.previous_page %}
     <li class="page-item">
-      <a class="page-link" href="{{ paginator.previous_page_path }}">&laquo;</a>
+      <a class="page-link link-dark" href="{{ paginator.previous_page_path }}">&laquo;</a>
     </li>
   {% else %}
     <li class="page-item disabled">
-      <a class="page-link link-dark">&laquo;</a>
+      <a class="page-link">&laquo;</a>
     </li>
   {% endif %}
   <li class="page-item disabled">
@@ -31,11 +31,11 @@ title: Aktuelles
   </li>
   {% if paginator.next_page %}
     <li class="page-item">
-      <a class="page-link" href="{{ paginator.next_page_path }}">&raquo;</a>
+      <a class="page-link link-dark" href="{{ paginator.next_page_path }}">&raquo;</a>
     </li>
   {% else %}
     <li class="page-item disabled">
-      <a class="page-link link-dark">&raquo;</a>
+      <a class="page-link">&raquo;</a>
     </li>
   {% endif %}
 </ul>
