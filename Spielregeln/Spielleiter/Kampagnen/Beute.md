@@ -16,4 +16,4 @@ Wieviel Credits Beute genau einbringt, kann mit einer einfachen HÄNDLER-Probe b
 
 ## Bekannte Hehler
 
-{%include slc_tabelle.md filter_fields="Kategorie" filter_value="Hehler"}
+{% include slc_tabelle.md filter_fields="Kategorie" filter_value="Hehler" %}
