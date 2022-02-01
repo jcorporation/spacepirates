@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/index
+permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/
 title: Kappa Gamma
 aside: index_aside.md
 

@@ -31,7 +31,8 @@
     {% for uri in site.data.searchindex[normalized] %}
         {% if page.permalink != uri[0] %}
             {% assign crumbs = uri[0] | split: '/' %}
-            <li><a title="{{ crumbs | join: " › " }}" href="{{ uri[0] }}">{{ crumbs | last }}</a></li>
+            {% assign title = crumbs | join: " › " | remove_first: " › " %}
+            <li><a title="{{ title }}" href="{{ uri[0] }}">{{ crumbs | last | replace: "_", " " }}</a></li>
         {% endif %}
     {% endfor %}
 {% else %}
