@@ -1,10 +1,12 @@
 {% if include.data.Text %}
     {% assign phrases = data.Text | downcase | split: " " %}
+    <p>{{ data.Text }}</p>
 {% else %}
     {% assign phrases = data | downcase | split: " " %}
+    <p>{{ data }}</p>
 {% endif %}
 
-<p>{{ phrases | join " " }}</p>
+<p>{{ phrases | join: " " }}</p>
 
 {% assign normalized = "" %}
 {% assign words = "aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|an|auf|der|die|das|ein|eine" | split: "|" %}
