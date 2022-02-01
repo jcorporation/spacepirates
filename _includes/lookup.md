@@ -23,11 +23,11 @@
 {% endfor %}
 
 {% if include.mode == "first"}
-    {% assign link = site.data.searchindex[normalized][0][0] %}
+    {% assign link = site.data.searchindex[normalized] %}
     {%if link %}
-        {% assign crumbs = link | split: '/' %}
+        {% assign crumbs = link[0][0] | split: '/' %}
         {% assign title = crumbs | join: " › " | remove_first: " › " %}
-        <a title="{{ title }}" href="{{ link }}">{{ include.data }}</a>
+        <a title="{{ title }}" href="{{ link[0][0] }}">{{ include.data }}</a>
     {% else %}
         {{ include.data }}
     {% endif %}
