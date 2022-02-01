@@ -4,7 +4,7 @@
   {% if forloop.last %}
     {%if crumb != "index" %}
       <span>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</span>
-        <a>{{ crumb | replace:'_',' '}}</a>
+        {{ page.title }}
     {% endif %}
   {% else %}
   <span>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</span>
