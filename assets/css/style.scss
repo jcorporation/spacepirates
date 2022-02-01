@@ -19,7 +19,7 @@ a:hover {
   text-decoration: none;
 }
 
-a.nav-link:hover {
+a.text-light:hover {
   color: #ffcc00;
 }
 
@@ -110,4 +110,14 @@ main ul {
   vertical-align: top;
   text-rendering: optimizeLegibility;
   font-feature-settings: 'liga';
+}
+
+.box {
+  min-height: 10rem;
+}
+
+.bg-sternenkarte {
+  background-image: url("/assets/images/sternenkarte-quadrat.png");
+  background-repeat: none;
+  background-size: cover;
 }
