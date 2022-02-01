@@ -14,8 +14,8 @@
             <td>{% include printlink.md data=Name %}</td>
             <td>{% include printlink.md data=Rasse %}</td>
             <td>{% include printlink.md data=Wohnort %}</td>
-            <td>{% include printlink.md data=Kategorie %}</td>
-            <td>{% include printlink.md data=Position %}</td>
+            <td>{% include printtext.md data=Kategorie %}</td>
+            <td>{% include printtext.md data=Position %}</td>
         </tr>
     {% endif %}
 {% endfor %}

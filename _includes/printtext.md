@@ -1,5 +1,5 @@
-{% if include.data.Text %}
-{{ include.data.Text }}
+{% if include.data[1] %}
+{{ include.data | join: ", " }}
 {% else %}
 {{ include.data }}
 {%endif %}
