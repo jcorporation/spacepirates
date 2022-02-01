@@ -7,26 +7,26 @@ title: Aktuelles
 {% for post in paginator.posts %}
   <div class="col">
     <div class="card h-100 clickable">
-      <div class="card-header bg-yellow"><a class="link-dark" href="{{ post.url }}">{{ post.title }}</a></div>
+      <div class="card-header bg-yellow"><a class="link-dark text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
       <div class="card-body">{{ post.excerpt }}</div>
-      <div class="card-footer">{{ post.date | date: "%d.%m.%Y" }}</div>
+      <div class="card-footer"><small>Geschrieben am {{ post.date | date: "%d.%m.%Y" }}</small></div>
     </div>
   </div>
 {% endfor %}
 </div>
 
 <hr/>
-<ul class="pagination justify-content-center">
+<ul class="pagination justify-content-center no-width-limit">
   {% if paginator.previous_page %}
     <li class="page-item">
       <a class="page-link" href="{{ paginator.previous_page_path }}">&laquo;</a>
     </li>
   {% else %}
     <li class="page-item disabled">
-      <a class="page-link">&laquo;</a>
+      <a class="page-link link-dark">&laquo;</a>
     </li>
   {% endif %}
-  <li class="page-item active">
+  <li class="page-item disabled">
     <a class="page-link" href="#">{{ paginator.page }} / {{ paginator.total_pages }}</a>
   </li>
   {% if paginator.next_page %}
@@ -35,7 +35,7 @@ title: Aktuelles
     </li>
   {% else %}
     <li class="page-item disabled">
-      <a class="page-link">&raquo;</a>
+      <a class="page-link link-dark">&raquo;</a>
     </li>
   {% endif %}
 </ul>
