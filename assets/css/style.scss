@@ -19,6 +19,10 @@ a:hover {
   text-decoration: none;
 }
 
+a.nav-link:hover {
+  color: #ffcc00;
+}
+
 div.card,
 ol,
 ul,
@@ -78,6 +82,7 @@ main ul {
   margin-top: -0.2rem;
 }
 
+.page-link:hover,
 .btn-yellow {
   color: #212529;
   background-color: #ffcc00;
