@@ -29,7 +29,7 @@
         {% assign title = crumbs | join: " › " | remove_first: " › " %}
         <a title="{{ title }}" href="{{ link }}">{{ include.data }}</a>
     {% else %}
-        include.data
+        {{ include.data }}
     {% endif %}
 {% else %}
     <ul data-lookup="{{ normalized }}">
