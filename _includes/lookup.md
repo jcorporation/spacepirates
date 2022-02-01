@@ -1,9 +1,9 @@
 {% if include.data.Text %}
-    {% assign phrases = data.Text | downcase | split: " " %}
-    <p>{{ data.Text }}</p>
+    {% assign phrases = include.data.Text | downcase | split: " " %}
+    <p>{{ include.data.Text }}</p>
 {% else %}
-    {% assign phrases = data | downcase | split: " " %}
-    <p>{{ data }}</p>
+    {% assign phrases = include.data | downcase | split: " " %}
+    <p>{{ include.data }}</p>
 {% endif %}
 
 <p>{{ phrases | join: " " }}</p>
