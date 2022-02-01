@@ -1,7 +1,7 @@
 title: SpacePirates
 description: Piraten im Weltraum
 url: https://spacepirates.jcgames.de
-paginate: 4
+paginate: 10
 paginate_path: "/Aktuelles/Seite_:num/"
 
 sass:

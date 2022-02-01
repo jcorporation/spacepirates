@@ -49,12 +49,12 @@ Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um
   - [Verlauf]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen//erlauf)
   - [Schauplätze]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Shauplätze)
   - [Parteien]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien)
-  - [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Sielleitercharaktere)
-- [Kampagnen mit SpacePirates]({{ site.baseurl }}/Spielleiter/Kampagnen/index)
-  - [Gegenspieler der Charaktere]({{ site.baseurl }}/Spielleiter/Kampagnen/Gegenspieler)
-  - [Freunde der Charaktere]({{ site.baseurl }}/Spielleiter/Kampagnen/Freunde)
-  - [Beute]({{ site.baseurl }}/Spielleiter/Kampagnen/Beute)
-  - [Ausrüstung]({{ site.baseurl }}/Spielleiter/Kampagnen/Ausrüstung)
+  - [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere)
+- [Kampagnen mit SpacePirates]({{ site.base[url }}/Spielregeln/Spielleiter/Kampagnen/)
+  - [Gegenspieler der Charaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Gegenspieler)
+  - [Freunde der Charaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Freunde)
+  - [Beute]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Beute)
+  - [Ausrüstung]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Ausrüstung)
 {% endcapture %}
 
 {% include columns.md col1=include_col1 col2=include_col2 col3=include_col3%}
