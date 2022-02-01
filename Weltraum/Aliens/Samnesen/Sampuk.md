@@ -21,7 +21,6 @@ sitedata:
             Hauptstadt: Sila City
             Besiedelung: große Städte
             Politisches: Heimatplanet der Samnesen
-            Normalized: sampuk
     Staedte:
         Sila_City:
             Name: Sila City
@@ -30,7 +29,6 @@ sitedata:
                 Link: /Weltraum/Aliens/Samnesen/Sampuk
             Groesse: Millionenstadt
             Kategorie: Hauptstadt
-            Normalized: sila city
 ---
 
 # Sampuk

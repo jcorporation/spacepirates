@@ -1,5 +1,7 @@
 title: SpacePirates
 description: Piraten im Weltraum
+paginate: 10
+paginate_path: "/Aktuelles/page:num/"
 
 sass:
     sass_dir: assets/css

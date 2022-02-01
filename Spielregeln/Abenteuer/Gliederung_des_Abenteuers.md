@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Abenteuer/Gliederung
+permalink: /Spielregeln/Abenteuer/Gliederung_des_Abenteuers
 title: Gliederung des Abenteuers
 ---
 

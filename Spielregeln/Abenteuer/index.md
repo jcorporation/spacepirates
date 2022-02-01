@@ -11,7 +11,7 @@ Nachdem jeder Spieler einen Charakter erschaffen und der Spielleiter ein Abenteu
 Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es zu lösen gilt, oder sie erhalten einen Auftrag, den sie erfüllen sollen. Das Abenteuer selbst kennt dabei nur der Spielleiter, die Spieler erfahren durch die Handlungen ihrer Charaktere innerhalb des Abenteuers immer mehr Details und müssen versuchen es erfolgreich zu bestehen.
 
 - [Vor dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Vor_dem_Abenteuer)
-- [Gliederung des Abenteuers]({{ site.baseurl }}/Spielregeln/Abenteuer/Gliederung)
+- [Gliederung des Abenteuers]({{ site.baseurl }}/Spielregeln/Abenteuer/Gliederung_des_Abenteuers)
 - [Ablauf einer Szene]({{ site.baseurl }}/Spielregeln/Abenteuer/Ablauf_einer_Szene)
 - [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)
 

@@ -15,7 +15,6 @@ sitedata:
                 Link: /Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa
             Groesse: Millionenstadt
             Kategorie: Hauptstadt
-            Normalized: kappa stadt
 ---
 
 # Kappa

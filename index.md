@@ -63,6 +63,25 @@ SpacePirates ist ein [freies](/spacepirates/Freies_Rollenspiel) und abgedrehtes 
         <a href="{{ site.baseurl }}/Abenteuer/" class="link-dark">Abenteuer</a>
     </div>
     <div class="col clickable p-2">
-        <a href="{{ site.baseurl }}/Tools/" class="link-dark">Tools</a>
+        <a href="{{ site.baseurl }}/Zufallsgeneratoren/" class="link-dark">Zufallsgeneratoren</a>
+    </div>
+</div>
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
+    <div class="col">
+        <div class="card bg-sterne text-light h-100 clickable">
+            <div class="card-header">Interaktive Sternenkarte</div>
+            <div class="card-body bg-sternenkarte">
+                <p><a class="link-light" href="{{ site.baseurl }}/Weltraum/Sternenkarte/">Erforsche den Weltraum</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card bg-sterne text-light h-100 clickable">
+            <div class="card-header">StarTunes</div>
+            <div class="card-body bg-startunes">
+                <p><a class="link-light" href="{{ site.baseurl }}/StarTunes/">StarTunes</a></p>
+            </div>
+        </div>
     </div>
 </div>

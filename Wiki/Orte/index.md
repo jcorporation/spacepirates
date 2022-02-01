@@ -8,9 +8,8 @@ title: Interessante Orte
 
 Hier werden bemerkenswerte Orte des SpacePirates Universums gesammelt.
 
-<li>Genesis-Event-Park
-- Sinnflut-Wildwasserbahn
-- Arche Noa
-
-</li>
+- Foo Bar
+- Genesis-Event-Park
+  - Sinnflut-Wildwasserbahn
+  - Arche Noah
 

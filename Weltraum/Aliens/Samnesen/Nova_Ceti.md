@@ -19,7 +19,6 @@ sitedata:
             Hauptstadt: keine
             Besiedelung: Forschungsstation
             Politisches: In einer Sperrzone
-            Normalized: nova ceti
 ---
 
 # Nova Ceti

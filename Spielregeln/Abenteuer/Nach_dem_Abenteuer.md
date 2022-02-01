@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Abenteuer/Nachdemabenteuer
+permalink: /Spielregeln/Abenteuer/Nach_dem_Abenteuer
 title: Nach dem Abenteuer
 ---
 

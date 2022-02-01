@@ -6,7 +6,6 @@
 {% assign Hauptstadt = include.data.Hauptstadt %}
 {% assign Besiedelung = include.data.Besiedelung %}
 {% assign Politisches = include.data.Politisches %}
-{% assign Normalized = include.data.Normalized %}
 <table>
     <caption>{% include printtext.md data=Name %}</caption>
     <tbody>
@@ -17,6 +16,6 @@
         <tr><th>Hauptstadt</th><td>{% include printlink.md data=Hauptstadt %}</td></tr>
         <tr><th>Besiedelung</th><td>{% include printlink.md data=Besiedelung %}</td></tr>
         <tr><th>Politisches</th><td>{% include printlink.md data=Politisches %}</td></tr>
-        <tr><th>Erwähnungen</th><td>{% include lookup.md data=Normalized %}</td></tr>
+        <tr><th>Erwähnungen</th><td>{% include lookup.md data=Name %}</td></tr>
     </tbody>
 </table>

@@ -3,7 +3,6 @@ layout: page
 permalink: /Weltraum/Aliens/Samnesen/Sperrzone
 title: Sperrzone in Samara
 aside: Sperrzone_aside.md
-normalized: sperrzone in samara
 ---
 
 # Sperrzone in Samara

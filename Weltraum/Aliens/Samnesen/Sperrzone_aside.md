@@ -1,1 +1,1 @@
-{% include erwaehntbox.md data=site.normalized %}
+{% include erwaehntbox.md data=site.title %}

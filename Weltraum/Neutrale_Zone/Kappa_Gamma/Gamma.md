@@ -15,7 +15,6 @@ sitedata:
                 Link: /Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma
             Groesse: Millionenstadt
             Kategorie: Hauptstadt
-            Normalized: gamma stadt
 ---
 
 # Gamma

@@ -14,7 +14,7 @@ Der Weltraum &ndash; unendliche Weiten. Zumindest beinahe, denn es gibt ja noch 
 {% capture include_col1 %}
 ## Der Weltraum
 
-- [Interaktive Sternenkarte]({{ site.baseurl }}/Karte)
+- [Interaktive Sternenkarte]({{ site.baseurl }}/Sternenkarte/)
 - [Sektoren]({{ site.baseurl }}/Weltraum/Sektoren)
 - [Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/index)
 - [Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/index)

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Abenteuer/Vordemabenteuer
+permalink: /Spielregeln/Abenteuer/Vor_dem_Abenteuer
 title: Vor dem Abenteuer
 ---
 

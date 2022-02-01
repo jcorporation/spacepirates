@@ -31,13 +31,13 @@ Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um
 
 - [Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/)
   - [Vor dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Vor_dem_Abenteuer)
-  - [Gliederung des Abenteuers]({{ site.baseurl }}/Spielregeln/Abenteuer/Gliederung)
+  - [Gliederung des Abenteuers]({{ site.baseurl }}/Spielregeln/Abenteuer/Gliederung_des_Abenteuers)
   - [Ablauf einer Szene]({{ site.baseurl }}/Spielregeln/Abenteuer/Ablauf_einer_Szene)
   - [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)
 - [Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte)
   - [Konfliktszenen]({{ site.baseurl }}/Spielregeln/Konflikte/Konfliktszenen)
   - [Einfache Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/Einfache_Konflikte)
-- [Raumflüge und -kämpfe]({{ site.baseurl }}/Spielregeln/Raumflüge_und-kämpfe)
+- [Raumflüge und -kämpfe]({{ site.baseurl }}/Spielregeln/Raumflüge_und_-kämpfe)
 - [Wartung von Raumschiffen]({{ site.baseurl }}/Spielregeln/Wartung_von_Raumschiffen)
 {% endcapture %}
 
