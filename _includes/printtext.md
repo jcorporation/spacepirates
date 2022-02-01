@@ -1,5 +1,5 @@
 {% if include.data[1] %}
-{{ include.data | join: ", " }}
+    {{ include.data | join: ", " }}
 {% else %}
-{{ include.data }}
+    {{ include.data }}
 {%endif %}
