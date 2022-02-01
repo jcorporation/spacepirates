@@ -24,9 +24,12 @@
 
 {% if include.mode == "first" %}
     {%if site.data.searchindex[normalized] %}
-        {% assign crumbs = site.data.searchindex[normalized][0][0] | split: '/' %}
-        {% assign title = crumbs | join: " › " | remove_first: " › " %}
-        <a title="{{ title }}" href="{{ site.data.searchindex[normalized][0][0] }}">{{ include.data }}</a>
+        {% for uri in site.data.searchindex[normalized] %}
+            {% assign crumbs = uri[0] | split: '/' %}
+            {% assign title = crumbs | join: " › " | remove_first: " › " %}
+            <a title="{{ title }}" href="{{ uri[0] }}">{{ include.data }}</a>
+            {% break %}
+        {% endfor %}
     {% else %}
         {{ include.data }}
     {% endif %}
