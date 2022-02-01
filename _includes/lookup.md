@@ -14,7 +14,7 @@
 {% endfor %}
 
 
-{% assign chars = "'`´\",;.-?!():[]|&/" | split: "" %}
+{% assign chars = "' ` ´ \" , ; . - ? ! ( ) : [ ] | & /" | split: " " %}
 {% for char in chars %}
   {% assign normalized = normalized | replace: char %}
 {% endfor %}
