@@ -9,7 +9,7 @@
     {% assign Wohnort = slc[1].Wohnort %}
     {% assign Kategorie = slc[1].Kategorie %}
     {% assign Position = slc[1].Position %}
-    {% if include.filter_field == '' or station[1][include.filter_field] contains include.filter_value %}
+    {% if include.filter_field == '' or slc[1][include.filter_field] contains include.filter_value %}
         <tr>
             <td>{% include printlink.md data=Name %}</td>
             <td>{% include printlink.md data=Rasse %}</td>
