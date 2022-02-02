@@ -284,7 +284,7 @@ for my $filename (@files) {
                         #exact match
                         $inc = 10;
                         if ($key eq "title") {
-                            $inc = 50;
+                            $inc = 200;
                         }
                         elsif ($key eq "keywords") {
                             $inc = 100;
@@ -293,10 +293,10 @@ for my $filename (@files) {
                     }
                     elsif ($value =~ /\b$keyword\b/) {
                         if ($key eq "title") {
-                            $inc = 50;
+                            $inc = 100;
                         }
                         elsif ($key eq "keywords") {
-                            $inc = 100;
+                            $inc = 50;
                         }
                         add_uri($keyword, $inc, $filename);
                     }
