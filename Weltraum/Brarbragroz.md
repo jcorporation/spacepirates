@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Brarbragroz
 title: Brarbragroz
-aside: Brarbragroz_aside.md
 
 sitedata:
     Planeten:

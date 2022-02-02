@@ -212,7 +212,7 @@ my $keywords_count = scalar keys %keywords;
 print "Discovered $keywords_count keywords\n";
 
 print "Indexing files";
-# create index
+# add uri to index
 sub add_uri {
     my $key = $_[0];
     my $inc = $_[1];
@@ -228,6 +228,7 @@ sub add_uri {
     }
 }
 
+# index files
 for my $filename (@files) {
     open $fh, $filename or die "Error opening file $filename\n";
     print ".";
@@ -285,6 +286,12 @@ for my $filename (@files) {
             }
         }
     }
+    else {
+        # reopen to parse first line as content
+        close $fh;
+        open $fh, $filename or die "Error opening file $filename\n";
+    }
+    
     # parse content
     while ($line = <$fh>) {
         chomp $line;

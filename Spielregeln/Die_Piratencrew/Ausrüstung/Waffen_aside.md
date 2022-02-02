@@ -1,6 +1,3 @@
----
----
-
 {% capture include_body %}
 Waffen müssen weder nachgeladen werden, noch geht ihnen die Munition aus.
 {% endcapture %}
