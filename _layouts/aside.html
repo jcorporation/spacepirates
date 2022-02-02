@@ -7,11 +7,7 @@ layout: default
 		{{ content }}
 	</main>
 	<aside class="col col-xl-4 pe-0">
-		{% if aside_body %}
-			{{ aside_body | markdownify }}
-		{% else %}
-			{% assign aside = page.name | replace: ".md", "_aside.md" %}
-			{% include_relative {{ aside }} %}
-		{% endif %}
+		{% assign aside = page.name | replace: ".md", "_aside.md" %}
+		{% include_relative {{ aside }} %}
 	</aside>
 </div>

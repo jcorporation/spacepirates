@@ -1,13 +1,23 @@
 {
   "Brarbragroz": {
-    "Typ": "Erdähnlich",
     "Name": "Brarbragroz",
+    "Typ": "Erdähnlich",
     "Sektor": "",
     "Monde": 2,
     "Einwohner": "Brarbragrozianer",
     "Hauptstadt": "viele",
     "Besiedelung": "kleine Städte",
     "Politisches": "Zurückgebliebener Planet"
+  },
+  "DU-3864366": {
+    "Name": "DU-3864366",
+    "Typ": "Erdähnlich",
+    "Sektor": "",
+    "Monde": 3,
+    "Einwohner": "unbekannt",
+    "Hauptstadt": "unbekannt",
+    "Besiedelung": "Dungeon",
+    "Politisches": "Keine politischen Beziehungen"
   },
   "Kappa_Gamma": {
     "Typ": "Erdähnlich",
@@ -38,6 +48,16 @@
     "Hauptstadt": "Sila City",
     "Besiedelung": "große Städte",
     "Politisches": "Heimatplanet der Samnesen"
+  },
+  "Terra_20CAD": {
+    "Name": "Terra 20CAD",
+    "Typ": "Erdähnlich",
+    "Sektor": "Reich der Wagonen",
+    "Monde": 1,
+    "Einwohner": "Menschen",
+    "Hauptstadt": "viele Hauptstädte",
+    "Besiedelung": "dünn besiedelt",
+    "Politisches": "Zurückgebliebener Planet in Sperrzone"
   },
   "Woodstock": {
     "Typ": "Erdähnlich",

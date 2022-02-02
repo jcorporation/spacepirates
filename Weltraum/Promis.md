@@ -124,7 +124,7 @@ Dia Mond ist die momentan angesagteste Talkshow-Moderatorin der bekannten Galaxi
 
 ## Dimli
 
-Dieser etwas einfältige aber umso bärtigere Kahadrier hat vor vielen, vielen Jahren eine der Hauptrolle in einem mittlerweile völlig vergessenen Holo-Film gespielt. Da niemand mehr Autogramme von ihm haben will, ist er den ganzen Tag über betrunken und wird versuchen, jeden, der seinen Weg kreuzt, anzurempeln und in eine Schlägerei zu verwickeln. Von einem Angriff kann man ihn dann nur noch davon abhalten, indem man fragt: &bdquo;Moment, kenne ich dich nicht? Warst du das nicht in diesem &hellip; na, du weißt schon &hellip;&ldquo;, woraufhin er lang und breit von seiner ruhmreichen Rolle erzählen wird.
+Dieser etwas einfältige aber umso bärtigere Kahadrier hat vor vielen, vielen Jahren eine der Hauptrolle in einem mittlerweile völlig vergessenen Holo-Film gespielt. Da niemand mehr Autogramme von ihm haben will, ist er den ganzen Tag über betrunken und wird versuchen, jeden, der seinen Weg kreuzt, anzurempeln und in eine Schlägerei zu verwickeln. Von einem Angriff kann man ihn dann nur noch davon abhalten, indem man fragt: &bdquo;Moment, kenne ich dich nicht? Warst du das nicht in diesem … na, du weißt schon …&ldquo;, woraufhin er lang und breit von seiner ruhmreichen Rolle erzählen wird.
 
 
 <aside>

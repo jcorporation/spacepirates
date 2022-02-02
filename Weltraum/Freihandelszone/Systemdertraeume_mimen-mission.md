@@ -39,7 +39,7 @@ Wenn die Charaktere auf der Mimen-Mission unterwegs sind, können ihnen die unte
 <tr><td>1</td><td>Eine Gruppe männlicher Streifanier, die ehrlich verwirrt sind, weil sie auf der Suche nach &bdquo;den geilsten Streifen&ldquo; ins System der Träume geschickt wurden und nicht ganz das vorfinden, was sie sich erhofft hatten.</td></tr>
 <tr><td>2</td><td>Eine SpaceWorm-Drogendealer, der den Charakteren Stoff verkaufen will.</td></tr>
 <tr><td>3</td><td>Ein berühmter Schauspieler oder anderer Star aus dem Kapitel &bdquo;Promis&ldquo;, der mit einer Armada Leibwächter unterwegs ist.</td></tr>
-<tr><td>4</td><td>Ein Reporter von &bdquo;Stars und Sternchen&ldquo;, der einem solchen Promi hinterherschnüffelt&hellip;</td></tr>
+<tr><td>4</td><td>Ein Reporter von &bdquo;Stars und Sternchen&ldquo;, der einem solchen Promi hinterherschnüffelt…</td></tr>
 <tr><td>5</td><td>Ein Regisseur vom Roten Planeten, der die Charaktere für seinen nächsten Piraten-Erotik-Film engagieren will, weil sie &bdquo;so authentisch&ldquo; sind.</td></tr>
 <tr><td>6</td><td>Ein Trull-Schauspieler, der die Charaktere um Geld anfleht, damit er weiter zum Planet Hollywood fliegen kann, um ein großer Actionstar zu werden. Er will 2000 Credits haben und bietet an, die zehnfache Summer zurückzuzahlen, wenn er erst eine Berühmtheit ist. Falls die Charaktere sich darauf einlassen, kann der Spielleiter zwei Monate später auf die Fertigkeit Händler (Wert: 4) des Trulls würfeln. Erreicht er mindestens drei Erfolge, hat der Trull den Durchbruch geschafft – er zahlt den Piraten das versprochene Geld zurück, außerdem haben sie nun einen bekannten Freund und Gönner.</td></tr>
 </tbody>

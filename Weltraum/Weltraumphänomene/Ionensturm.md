@@ -21,7 +21,7 @@ Ein Ionensturm ist ein elektromagnetischer Sturm, der alle elektrischen Geräte 
 <tr><td>3</td><td>Die Piraten treffen auf eine, im Sturm lebende und aus Ionen bestehende, Lebensform.
 <table>
 <thead>
-<tr><th>W4</th><th>Die Lebensform &hellip;</th></tr>
+<tr><th>W4</th><th>Die Lebensform …</th></tr>
 </thead>
 <tbody>
 <tr><td>1</td><td>ist feindlich eingestellt und greift das Raumschiff an (Kampfprofil 8, Schadensmodifikator 2, Wendigkeit: 7, Schadenspunkte: 30).</td></tr>

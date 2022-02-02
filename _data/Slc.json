@@ -16,12 +16,42 @@
     "Position": "Bekannter Kapitän des großen Trullschiffes Gateland.",
     "Wohnort": "Trullmania"
   },
+  "Edward_Bakutha": {
+    "Name": "Edward Bakutha",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler"
+    ],
+    "Position": "Leiter eines Forschungsteams des galaktischen Handelsrats.",
+    "Wohnort": "Javar 3"
+  },
   "Hari_Jambal": {
     "Name": "Hari Jambal",
     "Rasse": "Asiat",
     "Kategorie": "Militär",
     "Position": "Admiral der Flotte Neuasiens.",
     "Wohnort": "Neuchina"
+  },
+  "John_Marric": {
+    "Name": "John Marric",
+    "Rasse": "Samnese",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler"
+    ],
+    "Position": "",
+    "Wohnort": "Weißes Loch"
+  },
+  "Professor_Robotto": {
+    "Name": "Professor Robotto",
+    "Rasse": "Kahadrier",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler"
+    ],
+    "Position": "",
+    "Wohnort": "Scrabnambu"
   },
   "Rachel_Springs": {
     "Name": "Rachel Springs",
@@ -30,11 +60,32 @@
     "Position": "Eine ranghohe Generalin der Föderationsflotte.",
     "Wohnort": "Erde"
   },
+  "Sabrwal": {
+    "Name": "Sabrwal",
+    "Rasse": "Trull",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler",
+      "Assistent"
+    ],
+    "Position": "Assistent von Professor Robotto",
+    "Wohnort": "Scrabnambu"
+  },
   "Walter_Kirkham": {
     "Name": "Walter Kirkham",
     "Rasse": "Mensch",
     "Kategorie": "Militär",
     "Position": "Ein korrupter Hauptmann der Flotte des Galaktischen Handelsrats.",
     "Wohnort": "Neusirius"
+  },
+  "Xergul": {
+    "Name": "Xergul",
+    "Rasse": "Kahadrier",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler"
+    ],
+    "Position": "",
+    "Wohnort": "unbekannt"
   }
 }

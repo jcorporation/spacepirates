@@ -21,7 +21,7 @@ Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es 
 - zu versuchen das Abenteuer voranzubringen, anstatt nur auf das Geschehen im Abenteuer zu reagieren.
 - die Regeln des Spiels zu kennen und seine Erzählrechte zu nutzen, um das Abenteuer mitzugestalten.
 {% endcapture %}
-{% include hinweis.md title="Aufgabe der Spieler ist es ..." body=include_body %}
+{% include hinweis.md title="Aufgabe der Spieler ist es …" body=include_body %}
 
 {% capture include_body %}
 - das Abenteuer gut vorzubereiten und auf die Charaktere zuzuschneiden.
@@ -31,4 +31,4 @@ Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es 
 - die Regeln des Spiels zu kennen und auch umzusetzen und dabei als Schiedsrichter zu agieren, falls etwas unklar ist.
 - das Abenteuer voranzutreiben und den Spielern aus Sackgassen zu helfen, wenn sie sich verzettelt haben.
 {% endcapture %}
-{% include hinweis.md title="Aufgabe des Spielleiters ist es ..." body=include_body %}
+{% include hinweis.md title="Aufgabe des Spielleiters ist es …" body=include_body %}

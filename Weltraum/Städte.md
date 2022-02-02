@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Staedte
+permalink: /Weltraum/Städte
 title: Städte
 ---
 

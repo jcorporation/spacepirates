@@ -13,9 +13,9 @@ Bei SpacePirates geht es um eine zusammengewürfelte Piratencrew, die ein gebrau
 Die Geschehnisse des Abenteuers werden dabei am Spieltisch durch Beschreibungen und Skizzen dargestellt. Konflikte im Abenteuer werden durch die Kompetenzen der Charaktere und Würfel entschieden.
 
 {% capture include_body %}
-&hellip; denn SpacePirates nimmt sich selber nicht ernst. Es ist in erster Linie ein Spiel, an dem alle Spaß haben sollen. Der Weltraum von SpacePirates ist voller Klischees und Absurditäten, nutzt sie, um damit verrückte Abenteuer zu erleben.
+… denn SpacePirates nimmt sich selber nicht ernst. Es ist in erster Linie ein Spiel, an dem alle Spaß haben sollen. Der Weltraum von SpacePirates ist voller Klischees und Absurditäten, nutzt sie, um damit verrückte Abenteuer zu erleben.
 {% endcapture %}
-{% include hinweis.md title="Nehmt SpacePirates nicht zu ernst &hellip;" body=include_body %}
+{% include hinweis.md title="Nehmt SpacePirates nicht zu ernst …" body=include_body %}
 
 Bei SpacePirates übernehmen die Beteiligten eine von zwei Rollen: 1 Spielleiter und 3–6 Spieler.
 

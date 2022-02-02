@@ -4,9 +4,7 @@ permalink: /Weltraum/Sekten
 title: Sekten
 ---
 
-
 # Sekten
-
 
 Neben Piraten, Rocker, Mafiosi, Ninjas, Händler, Halunken, Konzerne und verrückte Wissenschaftler gibt es in SpacePirates natürlich auch noch Sekten, die voller Überzeugung die Ungläubigen bekehren und verzweifelte Menschen und Aliens ausnutzen, um möglichst reich und bekannt zu werden.
 
@@ -16,7 +14,7 @@ Heavensgate ist eine völkerübergreifende Sekte, der neben Menschen auch viele 
 
 ## Kinder der Sternenleere
 
-Diese Sekte ist in fast allen Staaten verboten, da sie ihre Zöglinge angeblich einer Gehirnwäsche unter- und zu Fanatikern erzieht. Ihr Ziel ist es, die Sternenleere zu verbreiten und den Menschen (oder Glukorianer oder &hellip;) in Einheit mit dem Kosmos, also der Leere, zu bringen. Der Urknall war ein Fehler, der nie hätte passieren dürfen.
+Diese Sekte ist in fast allen Staaten verboten, da sie ihre Zöglinge angeblich einer Gehirnwäsche unter- und zu Fanatikern erzieht. Ihr Ziel ist es, die Sternenleere zu verbreiten und den Menschen (oder Glukorianer oder …) in Einheit mit dem Kosmos, also der Leere, zu bringen. Der Urknall war ein Fehler, der nie hätte passieren dürfen.
 
 Zu diesem Zweck setzen sich die Kinder der Sternenleere gegen die Kolonisierung neuer Planeten ein, opfern regelmäßig, um Vakuum, Dunkle Energie und Dunkle Materie zu beruhigen und sind in häufiger Meditation darum bemüht, ihren Geist zu leeren. Es gibt manche, die diese Religion der Stille und Ruhe ganz friedlich betreiben, viele sind aber einfach Terroristen.
 
@@ -39,6 +37,3 @@ Die harmloseren der Verfechter reisen mit Raumschiffen durch die bewohnten Sekto
 Die Weltraumpfleger sind eine sehr nützliche Sekte. Wie ihr Name schon ausdrückt, wollten sie den Weltraum pflegen und in Ordnung halten. So fangen sie aus der Bahn laufende Meteoriten ein und bringen sie wieder zu ihrem ursprünglichen Meteoritengürtel oder regenerieren verseuchte Planeten.
 
 Dummerweise schießen sie manchmal über das Ziel hinaus. Wenn etwa ein Planet nicht in ihre Ordnung passt, kommt es schon mal vor, dass sie ihn sprengen, in eine neue Umlaufbahn versetzen und dabei versehentlich ein paar (Billiarden) Leben auslöschen.
-
-
-

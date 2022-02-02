@@ -7,7 +7,7 @@ title: Raumflüge und -kämpfe
 # Raumflüge und -kämpfe
 
 {% capture include_body %}
-Der Pilot drückt den Knopf, der den FTL-Antrieb in Gang setzt. Es macht Schwupp, Ratter, Ratter und das Piratenschiff befindet sich immer noch an Ort und Stelle. Es wäre ja auch kein Piratenschiff, wenn es ohne kräftigen Tritt gegen das Kühlaggregat den FTL starten würde &hellip;
+Der Pilot drückt den Knopf, der den FTL-Antrieb in Gang setzt. Es macht Schwupp, Ratter, Ratter und das Piratenschiff befindet sich immer noch an Ort und Stelle. Es wäre ja auch kein Piratenschiff, wenn es ohne kräftigen Tritt gegen das Kühlaggregat den FTL starten würde …
 {% endcapture %}
 {% include anmerkung.md body=include_body %}
 

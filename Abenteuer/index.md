@@ -52,7 +52,7 @@ Hier gibt es vorgefertigte Abenteuer und Abenteuerideen für SpacePirates.
 <div class="box1 clickable">
 ## Dungeonplanet
 
-<div class="boxtext">Vor kurzem wurde ein neuer Planet gefunden, im Volksmund ist er nur als der Dungeon-Planet bekannt. Die Expeditionen des Handelsrates berichten von großen Gefahren, aber es sickern auch Gerüchte über gigantische Schätze durch. Angeblich haben sich sogar einige SpaceNinjas auf den Weg gemacht, um den Planeten auszuplündern&hellip;</div>
+<div class="boxtext">Vor kurzem wurde ein neuer Planet gefunden, im Volksmund ist er nur als der Dungeon-Planet bekannt. Die Expeditionen des Handelsrates berichten von großen Gefahren, aber es sickern auch Gerüchte über gigantische Schätze durch. Angeblich haben sich sogar einige SpaceNinjas auf den Weg gemacht, um den Planeten auszuplündern…</div>
 <div class="boxbottom">[&raquo; zum Abenteuer]({{ site.baseurl }}/Abenteuer/Dungeonplanet)</div>
 </div>
 <div class="box1 clickable">
@@ -76,7 +76,7 @@ Hier gibt es vorgefertigte Abenteuer und Abenteuerideen für SpacePirates.
 <div class="box1 clickable">
 ## Neutritiumklau
 
-<div class="boxtext">Die Piraten werden von Stan beauftragt, eine nicht ganz unerhebliche Menge an Neutritium zu besorgen. Sie haben ein paar Alternativen an das Neutritium zu kommen...</div>
+<div class="boxtext">Die Piraten werden von Stan beauftragt, eine nicht ganz unerhebliche Menge an Neutritium zu besorgen. Sie haben ein paar Alternativen an das Neutritium zu kommen…</div>
 <div class="boxbottom">[&raquo; zum Abenteuer]({{ site.baseurl }}/Abenteuer/Neutritiumklau)</div>
 </div>
 <div class="box1 clickable">

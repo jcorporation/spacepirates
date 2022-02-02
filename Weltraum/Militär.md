@@ -52,7 +52,7 @@ Die folgende Tabelle ist nach Größe und Schlagkraft der Flotten sortiert. Die 
 
 ## Bekannte Militärs
 
-{% include slc_list.md data=page.sitedata.Slc %}
+{% include slc_tabelle.md data=page.sitedata.Slc %}
 
 ## Space Hawks
 

@@ -2,15 +2,56 @@
 layout: page
 permalink: /Weltraum/Verrückte_Wissenschaftler
 title: Verrückte Wissenschaftler
----
 
+sitedata:
+    Slc:
+        Edward_Bakutha:
+            Name: Edward Bakutha
+            Rasse: Mensch
+            Kategorie:
+                - Forscher
+                - Verrückter Wissenschaftler
+            Position: "Leiter eines Forschungsteams des galaktischen Handelsrats."
+            Wohnort: Javar 3
+        John_Marric:
+            Name: John Marric
+            Rasse: Samnese
+            Kategorie:
+                - Forscher
+                - Verrückter Wissenschaftler
+            Position: ""
+            Wohnort: Weißes Loch
+        Professor_Robotto:
+            Name: Professor Robotto
+            Rasse: Kahadrier
+            Kategorie:
+                - Forscher
+                - Verrückter Wissenschaftler
+            Position: ""
+            Wohnort: Scrabnambu
+        Sabrwal:
+            Name: Sabrwal
+            Rasse: Trull
+            Kategorie:
+                - Forscher
+                - Verrückter Wissenschaftler
+                - Assistent
+            Position: "Assistent von Professor Robotto"
+            Wohnort: Scrabnambu
+        Xergul:
+            Name: Xergul
+            Rasse: Kahadrier
+            Kategorie:
+                - Forscher
+                - Verrückter Wissenschaftler
+            Position: ""
+            Wohnort: unbekannt
+
+---
 
 # Verrückte Wissenschaftler
 
-
 Hier werden die größten und verrücktesten Genies und Wissenschaftler des SpacePirates-Universums vorgestellt. Glücklicherweise sind die meisten so verwirrt und in ihre Arbeit vertieft, dass sie gar nicht auf die Idee kommen, die Weltherrschaft anzustreben, aber darauf verlassen sollte man sich natürlich nicht.
-
-
 
 ## Edward Bakutha
 
@@ -20,18 +61,7 @@ Edwards Forschungsgebiet sind Zeitphänomene und er betrachtet sich als unwürdi
 
 Seine Forschung hat ihn mittlerweile so vereinnahmt, dass er kein anderes Thema mehr kennt und die ganze Zeit von seinem großen Ziel, einer Zeitreise, redet. Auf jedem Zettel in seiner Umgebung sind die kompliziertesten und wildesten Formeln hingekritzelt, er wirkt gelegentlich zerstreut und immer wieder für einige Momente abwesend.
 
-
-<aside>
-<table data-type="slc">
-<caption>Edward Bakutha</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td></tr>
-<tr><th>Kategorie</th><td>Forscher</td></tr>
-<tr><th>Wohnort</th><td>[Javar 3]({{ site.baseurl }}/Weltraum/Neutralezone/Javar3)</td></tr>
-<tr><th>Erwähnungen</th><td>[Edward Bakutha]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
+{% include slc.md data=page.sitedata.Slc.Edward_Bakutha %}
 
 ## John Marric
 
@@ -39,18 +69,7 @@ John Marric ist ein verrückter, samnesischer Wissenschaftler. Er trägt immerzu
 
 Marric ist ein Genie in der Gentechnik und in der bioelektronischen Cypertechnik. Sein großes Ziel ist es aus uralten Fosilien und bioelektronischen Techniken eine sich selbst fortpflanzende Drachenarmee zu schaffen, um sich zum Herrscher des bekannten Universums aufzuschwingen. Bisher haben seine Experimente aber nur kleine fiepsende unberechenbar explodierende Drachen hervorgebracht.
 
-
-<aside>
-<table data-type="slc">
-<caption>John Marric</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Samnese]({{ site.baseurl }}/Weltraum/Aliens/Samnesen)</td></tr>
-<tr><th>Kategorie</th><td>Forscher</td></tr>
-<tr><th>Wohnort</th><td>[Weißes Loch]({{ site.baseurl }}/Weltraum/Phaenomene/Weissesloch)</td></tr>
-<tr><th>Erwähnungen</th><td>[John Marric]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
+{% include slc.md data=page.sitedata.Slc.John_Marric %}
 
 ## Professor Robotto
 
@@ -58,42 +77,11 @@ Professor Robotto ist ein Kahadrier mittleren Alters und auf den Bau intelligent
 
 Professor Robotto ist ein guter Freund des Schrottplatzbetreibers Iyani Dizalo. Der Professor benötigt die Teile vom Schrottplatz für seine einzigartigen Roboter, Dzialo hingegen braucht dank der genialen Roboter seines Freundes keine Arbeiter zu entlohnen.
 
-
-<aside>
-<table data-type="slc">
-<caption>Professor Robotto</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier)</td></tr>
-<tr><th>Kategorie</th><td>Forscher</td></tr>
-<tr><th>Wohnort</th><td>[Scrabnambu]({{ site.baseurl }}/Weltraum/Neutralezone/Scrabnambu)</td></tr>
-<tr><th>Erwähnungen</th><td>[Professor Robotto]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-<table data-type="slc">
-<caption>Sabrwal</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull)</td></tr>
-<tr><th>Kategorie</th><td>Forscher</td></tr>
-<tr><th>Wohnort</th><td>[Scrabnambu]({{ site.baseurl }}/Weltraum/Neutralezone/Scrabnambu)</td></tr>
-<tr><th>Erwähnungen</th><td>[Sabrwal]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
+{% include slc.md data=page.sitedata.Slc.Professor_robotto %}
+{% include slc.md data=page.sitedata.Slc.Sabrwal %}
 
 ## Xergul
 
 Xergul ist ein etwas verrückt gewordener, kahadrischer Wissenschaftler, sein Spezialgebiet ist die Erforschung von übernatürlichen Phänomenen. Er trägt immer einen weißen Laborkittel. Er ist vor Jahren in einem Nebel verschollen, den er erforschen wollte.
 
-
-<aside>
-<table data-type="slc">
-<caption>Xergul</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier)</td></tr>
-<tr><th>Kategorie</th><td>Forscher</td></tr>
-<tr><th>Wohnort</th><td>unbekannt</td></tr>
-<tr><th>Erwähnungen</th><td>[Xergul]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
-
+{% include slc.md data=page.sitedata.Slc.Xergul %}

@@ -23,6 +23,7 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 - [Planeten und Sternensysteme]({{ site.baseurl }}/Weltraum/Planeten_und_Sternensysteme)
 - [Zurückgebliebene Planeten]({{ site.baseurl }}/Weltraum/Zurückgebliebene_Planeten)
 - [Raumstationen]({{ site.baseurl }}/Weltraum/Raumstationen/index)
+- [Städte]({{ site.baseurl }}/Weltraum/Städte)
 {% endcapture %}
 
 {% capture include_col2 %}

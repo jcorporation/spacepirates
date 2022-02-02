@@ -10,6 +10,7 @@ do
     printf "" > "_data/$L.yml.tmp"
 done
 
+printf "Parsing frontmatters"
 while read -r F
 do
     [ "$F" = "./README.md" ] && continue
@@ -25,8 +26,11 @@ do
             echo "$V" >> _data/$L.yml.tmp
         fi
     done
+    printf "."
 done < <(find ./ -name \*.md)
 
+echo ""
+echo "Sorting"
 # sort, convert, cleanup
 for L in $LISTS
 do

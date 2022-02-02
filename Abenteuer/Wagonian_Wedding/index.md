@@ -12,7 +12,7 @@ Leider hat das &bdquo;Juwel von Xawang&ldquo; überhaupt keine Lust, Prinz Morph
 
 Sein Plan ist so simpel wie abgehoben: Die Piraten müssen lediglich den &bdquo;Stern von Urkalath&ldquo; stehlen, das Herz der wagonischen Kronjuwelen. Der wird traditionell bei der Hochzeit der ranghöchsten Prinzessin an die Braut übergeben, ohne ihn stünde die Ehe (in jeglicher Hinsicht) unter keinem guten Stern und wäre zudem rechtlich anfechtbar!
 
-Natürlich ist Hein Mono nicht der Einzige, der die Hochzeit zu seinen Gunsten ausnutzen will&hellip;
+Natürlich ist Hein Mono nicht der Einzige, der die Hochzeit zu seinen Gunsten ausnutzen will…
 
 <li>[(Selbst-)Darsteller]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Selbstdarsteller)
 - [Konfliktübersicht]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Selbstdarsteller_cmap)

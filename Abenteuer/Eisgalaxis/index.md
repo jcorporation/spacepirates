@@ -8,9 +8,9 @@ title: Die Eisgalaxis
 
 Die Piraten sitzen gerade wie so oft bei (selbstverständlich je) einem Eimer Rum in der [Scrum Bar]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport), als sie ein dringender Hilferuf auf ihrem Pager erreicht.
 
-Ein unfassbarer Notfall! Es herrschen sommerliche 41&deg; C im Schatten, die Bewohner sitzen in Badehosen am Strand, die Drogerien haben keine Sonnencreme mehr vorrätig, Sonnenbrand ist die Todesursache Nummer 1...
+Ein unfassbarer Notfall! Es herrschen sommerliche 41&deg; C im Schatten, die Bewohner sitzen in Badehosen am Strand, die Drogerien haben keine Sonnencreme mehr vorrätig, Sonnenbrand ist die Todesursache Nummer 1…
 
-... und das in der Eisgalaxis Eisgalaxis Eisgalaxis Eisgalaxis! So kann es nicht weitergehen. Graf Frost, ein [Eisgalaxis]({{ site.baseurl }}/SpaceYeti]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis) und alter Zechkumpan der Piraten und Herrscher über die )({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/Eisgalaxis) pfeift auf dem letzten Loch und sieht in den Piraten die letzte Hoffnung für sich und seine Untertanen.
+… und das in der Eisgalaxis Eisgalaxis Eisgalaxis Eisgalaxis! So kann es nicht weitergehen. Graf Frost, ein [Eisgalaxis]({{ site.baseurl }}/SpaceYeti]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis) und alter Zechkumpan der Piraten und Herrscher über die )({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/Eisgalaxis) pfeift auf dem letzten Loch und sieht in den Piraten die letzte Hoffnung für sich und seine Untertanen.
 
 Dieses Abenteuer findet im [Freeport]({{ site.baseurl }}/Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/index) statt, in dem sich auch )({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport) befindet.
 

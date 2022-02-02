@@ -6,7 +6,7 @@ title: Bei den Koordinaten
 
 # Bei den Koordinaten
 
-Angekommen bei den Koordinaten bietet sich den Charakteren ein unerwartetes Schauspiel. Sie sind ganz und garnicht die einzigen in dieser Gegend. Überall sind Starnet Reporter, Übertragungsraumschiffe und Schaulustige. Es gibt mobile Fly-Through-Schalter bekannter Fastfood-Ketten und auch Gimis Bar ist in der Ecke zu finden. Dominiert wird die Szenerie von einem gigantischen Countdown, der von einer Stunde nach unten zählt. Die Sternenkonstellation scheint wohl nicht ganz unbekannt zu sein. Noh Frut ist genauso perplex wie die Charaktere, hätten sie wohl besser die ganzen Werbeeinblendungen mehr beachtet...
+Angekommen bei den Koordinaten bietet sich den Charakteren ein unerwartetes Schauspiel. Sie sind ganz und garnicht die einzigen in dieser Gegend. Überall sind Starnet Reporter, Übertragungsraumschiffe und Schaulustige. Es gibt mobile Fly-Through-Schalter bekannter Fastfood-Ketten und auch Gimis Bar ist in der Ecke zu finden. Dominiert wird die Szenerie von einem gigantischen Countdown, der von einer Stunde nach unten zählt. Die Sternenkonstellation scheint wohl nicht ganz unbekannt zu sein. Noh Frut ist genauso perplex wie die Charaktere, hätten sie wohl besser die ganzen Werbeeinblendungen mehr beachtet…
 
 Von hier aus hat man einen freien Blick auf den Sombreronebel, der in der Tat die Form eines Sombreros hat und rot/gelb leuchtet.
 

@@ -24,7 +24,7 @@ Es sind Gerüchte im Umlauf, wonach eine unbekannte Gruppe eine Vendetta gegen d
 
 Egal wie, die SpacePirates sollten diverse Spuren erhalten, die darauf hinweisen, dass hinter den Anschlägen ein Ninja-Clan aus Neu-Neo-Tokio steckt und die einzige Möglichkeit, die Verleumdungen und Angriffe zu stoppen, darin besteht, sich in die Höhle des Löwen zu wagen. Sollten die Piraten nicht von selbst darauf kommen, so machen die Ninjas ihr Leben zur Hölle: ihre StarNet-Aktivitäten werden beständig manipuliert, weiterhin Parfümproben verschickt, in Schiffen, welche die Piraten überfallen wollen, lauern Ninjas auf sie usw.
 
-In Neu-Neo-Tokio müssen die Piraten sich dann nicht nur vor der Polizei verstecken, sondern auch vor den Ninjas des Akamachi-Clans. Und diese werden den Piraten im überrannten Neu-Neo-Tokio überall auflauern&hellip;
+In Neu-Neo-Tokio müssen die Piraten sich dann nicht nur vor der Polizei verstecken, sondern auch vor den Ninjas des Akamachi-Clans. Und diese werden den Piraten im überrannten Neu-Neo-Tokio überall auflauern…
 
 Trotzdem kann es den Piraten gelingen, zu überleben und das Hauptquartier der Ninjas zu finden – etwa, indem sie fliehende Ninjas verfolgen, ein Clan-Mitglied verführen, einen Peilsender dorthin schmuggeln lassen oder Ähnliches. Ein derartiger Plan wird erfolgreich ausgeführt, wenn in Neu-Neo-Tokio eine Probe mit 5 Erfolgen auf ein passendes Profil gelingt.
 

@@ -14,7 +14,7 @@ Natürlich gibt es noch wesentlich mehr Tiere im Weltraum, da aber der Weltraum 
 
 Meteorkraken besitzen die Größe kleiner Transportschiffe und leben meist in Meteoritengürteln oder den Überbleibseln gesprengter Planeten. Sie sind sehr selten im freien Raum anzutreffen. Mit ihren gigantischen Fangarmen können sie massiven Stahl verbiegen und ihr Hornschnabel kann problemlos die Panzerung eines Raumschiffs, ihrer Lieblingsnahrung, knacken. Glücklicherweise sind Meteorkraken Einzelgänger und treffen sich nur in der Paarungszeit.
 
-<img alt="Meteorkrake" height="281" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/meteorkrake.jpg" width="500"/>
+<img alt="Meteorkrake" width="500" height="282" src="{{ site.baseurl }}/assets/images/meteorkrake.jpg"/>
 
 ## Mykoniden
 
@@ -58,17 +58,12 @@ Weltraumspinnen besitzen die Größe von mittleren Raumschiffen und ihre Kieferk
 
 ## Werte von Weltraumtieren
 
-<table>
-<thead>
-<tr><th>Weltraumtier</th><th>Profilwert</th><th>Schadensmodifikator</th><th>Schadenspunkte</th></tr>
-</thead>
-<tbody>
-<tr><td>Meteorkrake</td><td>7</td><td>3</td><td>50</td></tr>
-<tr><td>Mykonide</td><td>4</td><td>1</td><td>7</td></tr>
-<tr><td>Sternenwal</td><td>8</td><td>2</td><td>100</td></tr>
-<tr><td>Spaceameise</td><td>3</td><td>2</td><td>3</td></tr>
-<tr><td>Space-Eiswurm</td><td>9</td><td>3</td><td>50</td></tr>
-</tbody>
-</table>
+| Weltraumtier | Profilwert | Schadensmodifikator | Schadenspunkte |
+| ------------ | ---------- | ------------------- | -------------- |
+| Meteorkrake | 7 | 3 | 50 |
+| Mykonide | 4 | 1 | 7 |
+| Sternenwal | 8 | 2 | 100 |
+| Spaceameise | 3 | 2 | 3 |
+| Space-Eiswurm | 9 | 3 | 50 |
 
 Weltraumtiere kämpfen mit ihrem Profilwert und der Schadensmodifikator funktioniert wie bei Raumschiffwaffen. Unter normalen Umständen fliehen sie, wenn sie die Hälfte ihrer Schadenspunkte verloren haben.

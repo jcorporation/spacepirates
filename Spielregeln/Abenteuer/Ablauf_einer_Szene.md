@@ -22,7 +22,7 @@ Jeder Spieler kann seinen Charakter innerhalb einer Szene frei handeln lassen, d
 Der Spielleiter kann dasselbe natürlich für seine Spielleitercharaktere machen und Ereignisse in der Szene in Gang bringen.
 
 {% capture include_body %}
-Sage &bdquo;Ja&ldquo; zu den Ideen und Aktionen deiner Mitspieler und baue darauf auf. Dadurch entwickelt sich die Geschichte im Abenteuer weiter; wenn du &bdquo;Nein&ldquo; sagst, gerät sie ins Stocken. Als Spielleiter kannst du auch &bdquo;Ja, aber &hellip;&ldquo; sagen, um die Szene spannender zu gestalten oder etwas Hintergrund des Abenteuers einzubauen.
+Sage &bdquo;Ja&ldquo; zu den Ideen und Aktionen deiner Mitspieler und baue darauf auf. Dadurch entwickelt sich die Geschichte im Abenteuer weiter; wenn du &bdquo;Nein&ldquo; sagst, gerät sie ins Stocken. Als Spielleiter kannst du auch &bdquo;Ja, aber …&ldquo; sagen, um die Szene spannender zu gestalten oder etwas Hintergrund des Abenteuers einzubauen.
 {% endcapture %}
 {% include hinweis.md title="Sag Ja" body=include_body %}
 
@@ -35,7 +35,7 @@ Kathy beschreibt, wie ihr Charakter Chen versucht, unauffällig einen Blick auf 
 
 ### Piratenwürfel verdienen
 
-Piratenwürfel verdient sich ein Spieler, wenn &hellip;
+Piratenwürfel verdient sich ein Spieler, wenn …
 
 - er mit seinem Charakter coole Szenen und Aktionen initiiert.
 - sein Charakterkonzept und die Macken des Charakters zum eigenen Nachteil ausspielt.
