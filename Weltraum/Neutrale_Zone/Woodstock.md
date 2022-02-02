@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Neutrale_Zone/Woodstock
 title: Woodstock
-aside: Woodstock_aside.md
 
 sitedata:
     Planeten:
