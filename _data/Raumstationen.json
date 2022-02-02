@@ -1,8 +1,20 @@
 {
+  "Halfway": {
+    "Name": "Halfway",
+    "Sektor": "Trullimperium",
+    "Bewohner": "Piraten",
+    "Politisches": "Piratentreffpunkt"
+  },
   "Saloniki": {
     "Name": "Saloniki",
     "Sektor": "Rand des Universums",
     "Bewohner": "Griechen",
     "Politisches": "Unabhängig"
+  },
+  "Two_Eyed_Jack": {
+    "Name": "Two Eyed Jack",
+    "Sektor": "Freihandelszone",
+    "Bewohner": "Piraten",
+    "Politisches": "Piratentreffpunkt"
   }
 }

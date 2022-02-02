@@ -62,6 +62,7 @@ td {
   border: 1px solid #ececec;
 }
 
+td > ul:last-child,
 td > p:last-child {
   margin-bottom: 0;
 }
