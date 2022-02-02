@@ -8,6 +8,6 @@ layout: default
   </main>
   <aside class="col col-xl-4 pe-0">
     {% assign aside = page.name | replace: ".md", "_aside.md" %}
-    {{ aside }}
+    {% include_relative aside %}
   </aside>
 </div>

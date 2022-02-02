@@ -7,7 +7,7 @@ layout: default
     {{ content }}
   </main>
   <aside class="col col-xl-4 pe-0">
-    {% assign name = page.name | remove: ".md" %}
+    {% assign name = page.title | replace: " ", "_" %}
     {% assign data = page.sitedata.Planeten[name] %}
     {% include planet.md data=data %}
   </aside>
