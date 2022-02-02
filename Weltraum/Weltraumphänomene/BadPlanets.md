@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: weltraumphaenomen
 permalink: /Weltraum/Weltraumphänomene/BadPlanets
 title: BadPlanets
 
