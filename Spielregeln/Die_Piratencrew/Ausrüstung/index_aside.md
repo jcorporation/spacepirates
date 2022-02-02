@@ -1,3 +1,6 @@
+---
+---
+
 {% capture include_body %}
 Die Boni werden direkt hinter dem Gegenstand notiert.
 

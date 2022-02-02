@@ -17,7 +17,8 @@
 
 {% assign normalized = normalized | remove_first: " " %}
 
-{% assign chars = "'`´,;.-?!():[]|&/" | split: "" %}
+{% assign chars = "'`´,;.-?!():[]|&/#" | split: "" %}
+{% assign normalized = normalized | remove: char '"' %}
 {% for char in chars %}
   {% assign normalized = normalized | remove: char %}
 {% endfor %}
