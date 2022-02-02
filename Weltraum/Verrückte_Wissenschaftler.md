@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Wissenschaftler
+permalink: /Weltraum/Verrückte_Wissenschaftler
 title: Verrückte Wissenschaftler
 ---
 
