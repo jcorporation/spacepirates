@@ -2,6 +2,7 @@
 layout: aside
 permalink: /Weltraum/Händler_und_Halunken
 title: Händler und Halunken
+aside: Haendler_und_Halunken_aside.md
 
 sitedata:
     Slc:
