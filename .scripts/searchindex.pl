@@ -224,7 +224,7 @@ sub add_uri {
     my $key = $_[0];
     my $inc = $_[1];
     my $filename = $_[2];
-    
+
     my $nkey = defined $stompkeys{$key} ? $stompkeys{$key} : $key;
     my $uri = get_uri($filename);
     if (defined $keywords{$nkey}{$uri}) {
@@ -282,7 +282,13 @@ for my $filename (@files) {
                 for my $keyword (keys %keywords) {
                     if ($keyword eq $value) {
                         #exact match
-                        $inc = 75;
+                        $inc = 10;
+                        if ($key eq "title") {
+                            $inc = 50;
+                        }
+                        elsif ($key eq "keywords") {
+                            $inc = 100;
+                        }
                         add_uri($keyword, $inc, $filename);
                     }
                     elsif ($value =~ /\b$keyword\b/) {
@@ -303,7 +309,7 @@ for my $filename (@files) {
         close $fh;
         open $fh, $filename or die "Error opening file $filename\n";
     }
-    
+
     # parse content
     while ($line = <$fh>) {
         chomp $line;

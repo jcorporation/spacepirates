@@ -122,7 +122,7 @@ Takahashi ist ein Versorgungsoffizier der neuasiatischen Flotte. Er ist mittlere
 
 Takahashi ist für alle möglichen Geschäfte offen. Da die Ausrüstung der neuchinesischen Armee veraltet ist und daher ständig etwas ausgemustert werden muss, bieten sich immer wieder Möglichkeiten, „funktionsunfähige“ Geräte ohne Einschaltung eines autorisierten Schrotthändlers zu entsorgen. Takahashi hat die dafür erforderlichen Beziehungen, die er gerne gewinnbringend einsetzt. Zwar ist die so erstandene Ausrüstung veraltet, aber dennoch brauchbar und noch in einem besseren Zustand, als wenn man sie auf einem Schrottplatz erstehen würde, was auch nicht legal ist.
 
-{% include slc.md data=page.sitedata.Slc.Takashi_Ning %}
+{% include slc.md data=page.sitedata.Slc.Takahashi_Ning %}
 
 ***
 
