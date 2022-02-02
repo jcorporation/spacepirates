@@ -127,4 +127,4 @@ Takahashi ist für alle möglichen Geschäfte offen. Da die Ausrüstung der neuc
 
 ## Übersicht der Händler
 
-{% include slc_tabelle filter_field="Kategorie" filter_value="Händler" %}
+{% include slc_tabelle.md filter_field="Kategorie" filter_value="Händler" %}
