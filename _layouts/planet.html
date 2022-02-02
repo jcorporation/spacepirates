@@ -7,6 +7,7 @@ layout: default
     {{ content }}
   </main>
   <aside class="col col-xl-4 pe-0">
-    {% include planet.md data=page.sitedata.Planeten[site.title] %}
+    {% assign data = page.sitedata.Planeten[site.title] %}
+    {% include planet.md data=data %}
   </aside>
 </div>
