@@ -6,9 +6,9 @@ title: Weltraumtiere
 
 # Weltraumtiere
 
-Entgegen aller Wahrscheinlichkeit &ndash; oder vielleicht sogar gerade deswegen &ndash; beherbergt der Weltraum Tiere. Sie leben von Anhaltern, dem Sonnenwind, irgendwelchen Supernovaüberresten oder sogar von ganzen Planeten. Viele dieser Tiere leben auf verlassenen Planeten, Meteoritengürteln oder in der Nähe von kollabierenden Sternensystemen.
+Entgegen aller Wahrscheinlichkeit – oder vielleicht sogar gerade deswegen – beherbergt der Weltraum Tiere. Sie leben von Anhaltern, dem Sonnenwind, irgendwelchen Supernovaüberresten oder sogar von ganzen Planeten. Viele dieser Tiere leben auf verlassenen Planeten, Meteoritengürteln oder in der Nähe von kollabierenden Sternensystemen.
 
-Natürlich gibt es noch wesentlich mehr Tiere im Weltraum, da aber der Weltraum &ndash; im Gegensatz zu diesen Seiten &ndash; unendlich ist und die meisten Tiere eher langweilig sind, werden hier nur die wunderlichsten Tiere vorgestellt.
+Natürlich gibt es noch wesentlich mehr Tiere im Weltraum, da aber der Weltraum – im Gegensatz zu diesen Seiten – unendlich ist und die meisten Tiere eher langweilig sind, werden hier nur die wunderlichsten Tiere vorgestellt.
 
 ## Meteorkraken
 

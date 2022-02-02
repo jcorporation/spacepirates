@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /Produkte/Spacepiratesv5
-title: SpacePirates Grundregelwerk &ndash; Ahoi Landratten!
+title: SpacePirates Grundregelwerk – Ahoi Landratten!
 ---
 
-# SpacePirates Grundregelwerk &ndash; Ahoi Landratten!
+# SpacePirates Grundregelwerk – Ahoi Landratten!
 
 <div class="col2">
 <img alt="Coverbild" height="561" src="{{ site.baseurl }}/assets/pics/spacepirates/titel/spacepiratesv5-big.png" width="400"/>

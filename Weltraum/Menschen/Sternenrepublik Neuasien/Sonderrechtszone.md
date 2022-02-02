@@ -8,7 +8,7 @@ title: Kapitalistische Sonderrechtszone Neuasien
 # Kapitalistische Sonderrechtszone Neuasien
 
 
-In der kapitalistischen Sonderrechtszone [Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/index) ist alles besser, freier, schneller, größer und kapitalistischer als in der Sternenrepublik Neuasien und den restlichen bekannten Sektoren. Hier wird nichts zensiert und reguliert, der Staat bezahlt einzig und allein die Nachtwächter &ndash; aber die braucht aufgrund der Leuchtreklame eigentlich niemand. Hier kann jeder Geschäftsmann seinen erzkapitalistischen Traum leben oder auch von jedem unbeachtet gnadenlos untergehen. Ausländische Firmen hatten es hier schon immer besonders schwer.
+In der kapitalistischen Sonderrechtszone [Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/index) ist alles besser, freier, schneller, größer und kapitalistischer als in der Sternenrepublik Neuasien und den restlichen bekannten Sektoren. Hier wird nichts zensiert und reguliert, der Staat bezahlt einzig und allein die Nachtwächter – aber die braucht aufgrund der Leuchtreklame eigentlich niemand. Hier kann jeder Geschäftsmann seinen erzkapitalistischen Traum leben oder auch von jedem unbeachtet gnadenlos untergehen. Ausländische Firmen hatten es hier schon immer besonders schwer.
 
 Die Sonderrechtszone wird vom Chief executive officer Leu Ming geleitet, der von einem Board of directors beraten und gewählt wird. Das Board of directors selber wird von Firmenvertretern demokratisch gewählt. Natürlich besitzt auch ein Vertreter der Sternenrepublik Neuasien mehrere Stimmen.
 

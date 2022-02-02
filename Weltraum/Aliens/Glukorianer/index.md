@@ -12,7 +12,7 @@ title: Glukorianer
 - **Reich:** Glukorianisches Imperium
 - [Glutulhu]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu)
 
-Die Glukorianer sind tintenfischähnliche Aliens, die über nur ein einziges Auge verfügen. Sie besitzen 10&ndash;15 Tentakel, die sie sowohl als Hände wie auch als Füße benutzen. Ihre grüne Haut ist schleimig und mit Drüsen übersät. Sie sind etwa zwei Meter groß und besitzen äußerlich keine Geschlechtsmerkmale. Auch Ohren und Nasen sind nicht zu identifizieren, einen Mund besitzen sie aber. Sie tragen keine Kleidung und benötigen auch keine Raumanzüge. Sie besitzen, warum auch immer, einen Faible für Sherry.
+Die Glukorianer sind tintenfischähnliche Aliens, die über nur ein einziges Auge verfügen. Sie besitzen 10–15 Tentakel, die sie sowohl als Hände wie auch als Füße benutzen. Ihre grüne Haut ist schleimig und mit Drüsen übersät. Sie sind etwa zwei Meter groß und besitzen äußerlich keine Geschlechtsmerkmale. Auch Ohren und Nasen sind nicht zu identifizieren, einen Mund besitzen sie aber. Sie tragen keine Kleidung und benötigen auch keine Raumanzüge. Sie besitzen, warum auch immer, einen Faible für Sherry.
 
 Die Glukorianer verehren Glutulhu als Gott. Die Mythen der Glukorianer berichten über eine Zeit, als Glutulhu das glukorianische Imperium gründete und das gesamte Universum beherrschte. Die Glukorianer selber sind Schöpfungen Glutulhus, erschaffen als die Diener, Verehrer und Verwalter. Die Glukorianer arbeiten auf das große Erwachen ihres Gottes hin. Die Priester Glutulhus besitzen die Macht im Glukorianischen Imperium.
 

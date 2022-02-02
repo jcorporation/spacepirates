@@ -40,9 +40,9 @@ Sende einfach eine Mail an [mail@jcgames.de](mailto:mail@jcgames.de).
 ### Inhalt
 
 <li>Audiotracks
-- 01. Theme &ndash; Salty Shore Release
+- 01. Theme – Salty Shore Release
 - 02. Piratenlied
-- 03. Theme &ndash; Space Lounge Release
+- 03. Theme – Space Lounge Release
 
 </li>
 <li>Daten

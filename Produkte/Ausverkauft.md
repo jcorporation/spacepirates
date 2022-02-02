@@ -8,7 +8,7 @@ title: Ausverkaufte Produkte
 
 <div class="floatboxes">
 <div class="box1 clickable" data-href="/spacepirates/produkte/spacepiratesv5">
-## SpacePirates &ndash; Ahoi Landratten!
+## SpacePirates – Ahoi Landratten!
 
 <div class="boxtext"><img alt="SpacePirates V2" class="floatleft" height="140" src="{{ site.baseurl }}/assets/pics/spacepirates/titel/spacepiratesv5-tn.png" width="100"/>
 Die fünfte Version (ok, eigentlich die dritte) des SpacePirates Grundregelwerks.

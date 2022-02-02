@@ -16,7 +16,7 @@ Sollten die Piraten versuchen, ihre Unschuld anhand ihrer StarNet-Aktivitäten n
 
 ### Ninjas
 
-Die Ninjas &ndash; denn um nichts anderes handelt es sich bei den getarnten &bdquo;Piraten&ldquo; &ndash; werden den Kampf mit ein paar Rauchgranaten einleiten und die Crew anschließend mit Laser-Nunchakus und Shurikenwerfern traktieren. Wenn ihre Niederlage abzusehen ist, werden sie fliehen. Sollten sie gewinnen, nehmen sie die Piraten gefangen und fliegen mit deren Schiff ins Hauptquartier ihres Clans, um sie ihrem Meister zu übergeben.
+Die Ninjas – denn um nichts anderes handelt es sich bei den getarnten &bdquo;Piraten&ldquo; – werden den Kampf mit ein paar Rauchgranaten einleiten und die Crew anschließend mit Laser-Nunchakus und Shurikenwerfern traktieren. Wenn ihre Niederlage abzusehen ist, werden sie fliehen. Sollten sie gewinnen, nehmen sie die Piraten gefangen und fliegen mit deren Schiff ins Hauptquartier ihres Clans, um sie ihrem Meister zu übergeben.
 
 <table>
 <thead>

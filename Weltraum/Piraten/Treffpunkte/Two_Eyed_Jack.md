@@ -26,7 +26,7 @@ Ihren heutigen Namen erhielt die Raumstation von der bekannten Kneipe Two Eyed J
 
 ### Al Banchigos Kuriositäten-Emporium
 
-Hinter diesem pompösen Namen verbirgt sich das Schlupfloch des örtlichen Hehlers und Schiebers. Wenn man heiße Waren loswerden will oder sich auf dem Schwarzmarkt mit Kuriositäten aus allen Ecken der Galaxis (wie z.B. illegalen Waffen) eindecken möchte, so hilft Al Banchigo einem stets weiter &ndash; für den richtigen Preis versteht sich. Kurz gesagt: Al Banchigo verdient sich eine goldene Nase, egal ob die Piraten bei ihm ein- oder verkaufen.
+Hinter diesem pompösen Namen verbirgt sich das Schlupfloch des örtlichen Hehlers und Schiebers. Wenn man heiße Waren loswerden will oder sich auf dem Schwarzmarkt mit Kuriositäten aus allen Ecken der Galaxis (wie z.B. illegalen Waffen) eindecken möchte, so hilft Al Banchigo einem stets weiter – für den richtigen Preis versteht sich. Kurz gesagt: Al Banchigo verdient sich eine goldene Nase, egal ob die Piraten bei ihm ein- oder verkaufen.
 
 <aside>
 <table data-type="slc">
@@ -150,7 +150,7 @@ Der kleine Laden für alle, die große Wummen brauchen. Der Besitzer ist ein sch
 
 Das Metzl-O-Drom wurde von Toga-Bernie, einem Außerirdischen unbekannter Herkunft, gebaut. Es handelt sich um ein gewaltiges Freiluft-Titanium-Amphitheater, in dem eigentlich erbauliche Theaterstücke vorgeführt werden sollten.
 
-Doch das hiesige Publikum verlangt nach anderer Unterhaltung, weshalb rund um die Uhr Gladiatorenkämpfe, Mechabattles, blutige Dinosauriershows, Deathball-Turniere, Ewok-Jagden und Horror-Metal-Konzerte stattfinden &ndash; und selbstverständlich von Ilegal-TV 2 live in alle Haushalte der Galaxis übertragen werden. Außer donnerstags, denn donnerstags ist Bingo-Abend.
+Doch das hiesige Publikum verlangt nach anderer Unterhaltung, weshalb rund um die Uhr Gladiatorenkämpfe, Mechabattles, blutige Dinosauriershows, Deathball-Turniere, Ewok-Jagden und Horror-Metal-Konzerte stattfinden – und selbstverständlich von Ilegal-TV 2 live in alle Haushalte der Galaxis übertragen werden. Außer donnerstags, denn donnerstags ist Bingo-Abend.
 
 Zudem dient das Metz&rsquo;l-O-Drom als Start- und Zielpunkt der allmonatlichen Regatta durch den Brabengürtel, vorbei an Asteroiden, gefährlichen Meteorkraken und Piraten. Selbstverständlich kann auch auf den Ausgang aller Spiele gewettet werden.
 
@@ -176,7 +176,7 @@ Two Eyed Jack ist die Kultkneipe, von der die Raumstation ihren Namen hat. Sie w
 
 #### Der Holo-Highscore
 
-Auf dem Holo-Highscore wird stets der derzeit beste Pirat der Galaxis angezeigt. In die Bewertung fließen unter anderem die Anzahl der Überfälle, die dabei gemachte Beute und die Intensität, mit der der Handelsrat nach dem Piraten sucht, ein. Piraten mit ausreichend Durchsetzungsvermögen können erreichen, dass anstelle ihres Namens lediglich Kapitän X an der Tafel erscheint &ndash; aber wer will das schon?
+Auf dem Holo-Highscore wird stets der derzeit beste Pirat der Galaxis angezeigt. In die Bewertung fließen unter anderem die Anzahl der Überfälle, die dabei gemachte Beute und die Intensität, mit der der Handelsrat nach dem Piraten sucht, ein. Piraten mit ausreichend Durchsetzungsvermögen können erreichen, dass anstelle ihres Namens lediglich Kapitän X an der Tafel erscheint – aber wer will das schon?
 
 #### Der Stammtisch
 

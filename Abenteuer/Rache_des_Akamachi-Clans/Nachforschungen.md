@@ -26,7 +26,7 @@ Egal wie, die SpacePirates sollten diverse Spuren erhalten, die darauf hinweisen
 
 In Neu-Neo-Tokio müssen die Piraten sich dann nicht nur vor der Polizei verstecken, sondern auch vor den Ninjas des Akamachi-Clans. Und diese werden den Piraten im überrannten Neu-Neo-Tokio überall auflauern&hellip;
 
-Trotzdem kann es den Piraten gelingen, zu überleben und das Hauptquartier der Ninjas zu finden &ndash; etwa, indem sie fliehende Ninjas verfolgen, ein Clan-Mitglied verführen, einen Peilsender dorthin schmuggeln lassen oder Ähnliches. Ein derartiger Plan wird erfolgreich ausgeführt, wenn in Neu-Neo-Tokio eine Probe mit 5 Erfolgen auf ein passendes Profil gelingt.
+Trotzdem kann es den Piraten gelingen, zu überleben und das Hauptquartier der Ninjas zu finden – etwa, indem sie fliehende Ninjas verfolgen, ein Clan-Mitglied verführen, einen Peilsender dorthin schmuggeln lassen oder Ähnliches. Ein derartiger Plan wird erfolgreich ausgeführt, wenn in Neu-Neo-Tokio eine Probe mit 5 Erfolgen auf ein passendes Profil gelingt.
 
 
 ***

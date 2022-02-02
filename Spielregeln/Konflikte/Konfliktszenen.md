@@ -109,11 +109,11 @@ Xenurs Spieler darf beginnen, da er die meisten Würfel geworfen hat.
 
 ##### Runde 1:
 
-- **Xenur &ndash; 2 Erfolge:** Er nimmt zwei Köpfe der Schläger und schlägt sie gegeneinander. Die Zähigkeit der Schläger sinkt jeweils um einen Punkt.
-- **Chen &ndash; 1 Misserfolg:** Sie nimmt ihre Rumflasche und wirft sie auf den dritten Schläger, trifft aber nur den Spiegel hinter ihm, der zerbricht.
-- **Spielleiter &ndash; 1 Erfolg:** Der erste Schläger schüttelt sich nur kurz den Kopf, greift den Barhocker und zieht ihn über Xenurs Kopf. Xenurs SÖLDNER-Zähigkeit sinkt um einen Punkt.
-- **Spielleiter &ndash; 1 Erfolg:** Der zweite Schläger packt Chen und schleudert sie über den Tresen. Chens SÖLDNER-Zähigkeit sinkt um einen Punkt.
-- **Spielleiter &ndash; 1 Misserfolg:** Der dritte Schläger macht vorsichtig einen Schritt zurück und rutscht dabei in den Spiegelscherben aus.
+- **Xenur – 2 Erfolge:** Er nimmt zwei Köpfe der Schläger und schlägt sie gegeneinander. Die Zähigkeit der Schläger sinkt jeweils um einen Punkt.
+- **Chen – 1 Misserfolg:** Sie nimmt ihre Rumflasche und wirft sie auf den dritten Schläger, trifft aber nur den Spiegel hinter ihm, der zerbricht.
+- **Spielleiter – 1 Erfolg:** Der erste Schläger schüttelt sich nur kurz den Kopf, greift den Barhocker und zieht ihn über Xenurs Kopf. Xenurs SÖLDNER-Zähigkeit sinkt um einen Punkt.
+- **Spielleiter – 1 Erfolg:** Der zweite Schläger packt Chen und schleudert sie über den Tresen. Chens SÖLDNER-Zähigkeit sinkt um einen Punkt.
+- **Spielleiter – 1 Misserfolg:** Der dritte Schläger macht vorsichtig einen Schritt zurück und rutscht dabei in den Spiegelscherben aus.
 
 Nun ist Xenurs Spieler wieder an der Reihe und so geht es weiter, bis alle geworfenen Würfel verbraucht sind.
 {% endcapture %}

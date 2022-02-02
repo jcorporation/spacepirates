@@ -14,17 +14,17 @@ Hier die Lyrics zu den beiden StarTunes-Liedern, falls ihr mitsingen wollt.
 
 Kappa Gamma. Oyster-Cluster. Xorlok. Siga Spaceport. Kahadria. Two Eyed Jack. Glukorianisches Imperium. Föderation. Kabukicho-Prime. Greeenhl. Xanar 1. Keas. Weihnachtswurmloch. Freeport. Plasmaregenbogen. Alastor. Schwarzes Loch. Spacewood-Forest. Raumzeitverschiebung. Xinnua.
 
-Ohohohohohoho &ndash; Sp-Sp-Sp-SpacePirates / Ohohohohohoho &ndash; Sp-Sp-Sp-SpacePirates
+Ohohohohohoho – Sp-Sp-Sp-SpacePirates / Ohohohohohoho – Sp-Sp-Sp-SpacePirates
 
 Bad Planets. Stratum Nova. Bharani 8. BigBong. Unwahrscheinlichkeitszone. Cygni Tek. Omar. Sampuk. Zeno. Neuchina. Pandar 5. Epsilon Canabis. Samara. Die Erde. Sigma 9. Kapitalistische Sonderrechtszone Neuasien. Plasmastürme.
 
-Ohohohohohoho &ndash; Sp-Sp-Sp-SpacePirates / Ohohohohohoho &ndash; Sp-Sp-Sp-SpacePirates
+Ohohohohohoho – Sp-Sp-Sp-SpacePirates / Ohohohohohoho – Sp-Sp-Sp-SpacePirates
 
 AbuXabi. Katpar. Brabengürtel. Streif. Javar 3. Reich der Wagonen. Halfway. Ghomin-Nebel. Windsor Planet. Kahadrisches Reich. Scrabnambu. Sisbert. Neusirius. Nuova Sicilia. Trullmania. System der Träume
 
-Ohohohohohoho &ndash; Sp-Sp-Sp-SpacePirates / Ohohohohohoho &ndash; Sp-Sp-Sp-SpacePirates
+Ohohohohohoho – Sp-Sp-Sp-SpacePirates / Ohohohohohoho – Sp-Sp-Sp-SpacePirates
 
-Ohohohohohoho &ndash; Sp-Sp-Sp-SpacePirates / Ohohohohohoho &ndash; Sp-Sp-Sp-SpacePirates
+Ohohohohohoho – Sp-Sp-Sp-SpacePirates / Ohohohohohoho – Sp-Sp-Sp-SpacePirates
 
 SpacePirates.
 
@@ -46,7 +46,7 @@ Mad Harry wegen illegaler Waffenlieferungen in Haft: Wie soll der Krieg jetzt we
 
 Wenn ein Sternensystem kollabiert und zerbricht, fliegen wir mittendurch denn wir fürchten uns nicht.
 
-Ärzteskandal in der Spacewood-Klinik: Schauspieler transplantiert Gewissen &ndash; sein eigenes.
+Ärzteskandal in der Spacewood-Klinik: Schauspieler transplantiert Gewissen – sein eigenes.
 
 Denn wir sind Piraten / wo immer wir sind / gehört uns die Welt / weil sie sich sonst keiner nimmt.
 

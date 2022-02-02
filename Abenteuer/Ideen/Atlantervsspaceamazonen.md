@@ -14,7 +14,7 @@ Die Piraten bekommen von den Atlantern den Auftrag, einen Amazonenkreuzer auf ei
 
 ## Expedition auf einem Stadtschiff
 
-Die Piraten finden im unbekannten Raum ein treibendes Stadtschiff der Atlanter. Es stellt sich heraus, dass es schon vor hunderten von Jahren in einer Schlacht gegen Spaceamazonen stark beschädigt wurde. Es scheint aber noch teilweise mit Energie versorgt zu sein. Wer weiß &ndash; vielleicht leben hier noch Atlanter oder gibt es vielleicht unbeschädigte atlantische Technik zu bergen? Einen genaueren Blick sollte es auf jeden Fall wert sein.
+Die Piraten finden im unbekannten Raum ein treibendes Stadtschiff der Atlanter. Es stellt sich heraus, dass es schon vor hunderten von Jahren in einer Schlacht gegen Spaceamazonen stark beschädigt wurde. Es scheint aber noch teilweise mit Energie versorgt zu sein. Wer weiß – vielleicht leben hier noch Atlanter oder gibt es vielleicht unbeschädigte atlantische Technik zu bergen? Einen genaueren Blick sollte es auf jeden Fall wert sein.
 
 ## Verschollen auf dem Stadtschiff
 

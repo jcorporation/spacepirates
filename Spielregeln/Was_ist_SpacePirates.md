@@ -17,7 +17,7 @@ Die Geschehnisse des Abenteuers werden dabei am Spieltisch durch Beschreibungen 
 {% endcapture %}
 {% include hinweis.md title="Nehmt SpacePirates nicht zu ernst &hellip;" body=include_body %}
 
-Bei SpacePirates übernehmen die Beteiligten eine von zwei Rollen: 1 Spielleiter und 3&ndash;6 Spieler.
+Bei SpacePirates übernehmen die Beteiligten eine von zwei Rollen: 1 Spielleiter und 3–6 Spieler.
 
 ## Die Spieler
 

@@ -28,9 +28,9 @@ Insgesamt müssen die Piraten mindestens 9 Erfolge ansammeln, ansonsten wird das
 </thead>
 <tbody>
 <tr><td>9+</td><td>Das Schiff hat den Sturm schadlos überstanden.</td></tr>
-<tr><td>7&ndash;8</td><td>Die Segel sind unbrauchbar und etwas Wasser dringt ein. Jeder Pirat verliert 1 Zähigkeit in jedem Profil.</td></tr>
-<tr><td>4&ndash;6</td><td>Die Segel sind unbrauchbar, der Mast angeknackst und Wasser dringt ein. Jeder Pirat verliert 2 Zähigkeit in jedem Profil.</td></tr>
-<tr><td>1&ndash;3</td><td>Die Segel sind unbrauchbar, der Mast gebrochen und das Schiff läuft voll. Jeder Pirat verliert 3 Zähigkeit in jedem Profil.</td></tr>
+<tr><td>7–8</td><td>Die Segel sind unbrauchbar und etwas Wasser dringt ein. Jeder Pirat verliert 1 Zähigkeit in jedem Profil.</td></tr>
+<tr><td>4–6</td><td>Die Segel sind unbrauchbar, der Mast angeknackst und Wasser dringt ein. Jeder Pirat verliert 2 Zähigkeit in jedem Profil.</td></tr>
+<tr><td>1–3</td><td>Die Segel sind unbrauchbar, der Mast gebrochen und das Schiff läuft voll. Jeder Pirat verliert 3 Zähigkeit in jedem Profil.</td></tr>
 <tr><td>0</td><td>Das Schiff wird komplett zerstört und sinkt. Jeder Pirat verliert 4 Zähigkeit in jedem Profil. Wenn kein Piratenwürfel zur Regeneration eingesetzt wird, ertrinkt der Pirat.</td></tr>
 </tbody>
 </table>

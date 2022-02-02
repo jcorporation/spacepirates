@@ -8,7 +8,7 @@ title: Beispielpiraten
 
 ## Oliver G. Stardust
 
-Oliver war in seinem vorigen Leben einmal ein langweiliger Regierungsbeamter und ein guter Hobbypilot. Sein Job auf Neusirius war so langweilig, dass er sich schon darum bestechen ließ, um mal etwas Gefährliches zu tun. Da sich jeder zweite Beamte in der Föderation bestechen lässt, hielt er das für ein kalkuliertes Risiko &ndash; bis ihn seine Kollegen der Anti-Korruptions-Einheit als Sündenbock präsentierten.
+Oliver war in seinem vorigen Leben einmal ein langweiliger Regierungsbeamter und ein guter Hobbypilot. Sein Job auf Neusirius war so langweilig, dass er sich schon darum bestechen ließ, um mal etwas Gefährliches zu tun. Da sich jeder zweite Beamte in der Föderation bestechen lässt, hielt er das für ein kalkuliertes Risiko – bis ihn seine Kollegen der Anti-Korruptions-Einheit als Sündenbock präsentierten.
 
 <table>
 <caption>Oliver G. Stardust</caption>
@@ -26,7 +26,7 @@ zu wagemutig</td></tr>
 <tr><th>Bewaffnung</th><td>Laserpistole: P+0 (800 UC)</td></tr>
 <tr><th>Ausrüstung</th><td>Antiphotonentaschenlampe (450 UC)<br/>
 Cyberaugenklappe (200 UC)<br/>
-MediKit &ndash; Expert (450 UC)<br/>
+MediKit – Expert (450 UC)<br/>
 Cash: 100 UC (1.000 UC für das Raumschiff)</td></tr>
 </tbody>
 </table>

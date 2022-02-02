@@ -54,10 +54,10 @@ Auch der Weg nach Ennos ist nicht ganz eskapadenfrei (2 Begegnungen mit je 1W10)
 <tr><td>4</td><td>Ein Patrouillenboot der Ennosianer explodiert direkt vor den Charakteren, nachdem es von einem Lichtstrahl getroffen wurde.</td></tr>
 <tr><td>5</td><td>Der Kapitän der Piraten ist brutal geblendet und steuert das Schiff direkt in das Maul eines SpaceWurms.</td></tr>
 <tr><td>6</td><td>Ein Lichtstrahl schießt quer durch das Piratenschiff und durchlöchert es auf seinem Weg. Jeder Pirat hat eine Chance von 2% ebenfalls durchlöchert zu werden und spontan zu sterben. Ergeben 5 Piratenwürfel keinen einzigen Erfolg, so explodiert das Piratenschiff augenblicklich.</td></tr>
-<tr><td>7</td><td>Eine Raumschiff mit 7 Bartwesen aus dem Negrewz-Nebel begleitet die Piraten auf ihrer Mission &ndash; ab jetzt erhält jeder Wurf 1 Bonuswürfel.</td></tr>
+<tr><td>7</td><td>Eine Raumschiff mit 7 Bartwesen aus dem Negrewz-Nebel begleitet die Piraten auf ihrer Mission – ab jetzt erhält jeder Wurf 1 Bonuswürfel.</td></tr>
 <tr><td>8</td><td>Ein kleines rotes Raumschiff aus dem Negrewz-Nebel explodiert direkt vor den Charakteren, nachdem es von einem Lichtstrahl getroffen wurde.</td></tr>
-<tr><td>9</td><td>Nichts passiert &ndash; laaaaangweilig!</td></tr>
-<tr><td>10</td><td>Nichts passiert &ndash; laaaaangweilig!</td></tr>
+<tr><td>9</td><td>Nichts passiert – laaaaangweilig!</td></tr>
+<tr><td>10</td><td>Nichts passiert – laaaaangweilig!</td></tr>
 </tbody>
 </table>
 Erst einmal auf Ennos angekommen wirft Fürst Los den Piraten alles entgegen, was er aufzubieten hat (2 Begegnungen mit je 1W10):

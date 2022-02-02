@@ -49,7 +49,7 @@ Im SpacePirates-Universum haben Gleiter und Raumschiffe alle anderen Verkehrsmit
 
 Raumschiffe sind für weite Reisen ausgelegt und verfügen über mehrfach redundante Lebenserhaltungs- und Antriebssysteme. Sie verfügen über Abschirmungsfelder, die sie vor kleinen Asteroiden, Laserkanonen und Ähnlichem schützen. Standardgemäß sind sie mit einem Überlichtantrieb ausgerüstet, der interstellare Reisen ermöglicht. Sie sind die Ozeanriesen der Zukunft. Große Raumschiffe landen normalerweise nicht, sondern werden über Weltraumfahrstühle und Gleiter be- und entladen. Da dementsprechend keine Rücksicht auf die Aerodynamik genommen werden braucht, gibt es Raumschiffe in allen denkbaren Formen und Farben.
 
-Der Überlichtantrieb, auch FTL-Antrieb genannt, erlaubt den Flug mit Überlichtgeschwindigkeit &ndash; halt *faster than light*. Er hüllt das Schiff in eine Hyperblase. Innerhalb dieser Blase bewegt sich jedes Objekt von außen gesehen mit einer maximalen Geschwindigkeit von zwei Lichtjahren pro Stunde, der Einsatz von Waffen und Sensoren ist daher unmöglich. Von außen können Sensoren zwar eine Hyperblase erkennen, aber nicht in diese hineingucken.
+Der Überlichtantrieb, auch FTL-Antrieb genannt, erlaubt den Flug mit Überlichtgeschwindigkeit – halt *faster than light*. Er hüllt das Schiff in eine Hyperblase. Innerhalb dieser Blase bewegt sich jedes Objekt von außen gesehen mit einer maximalen Geschwindigkeit von zwei Lichtjahren pro Stunde, der Einsatz von Waffen und Sensoren ist daher unmöglich. Von außen können Sensoren zwar eine Hyperblase erkennen, aber nicht in diese hineingucken.
 
 - mehr zu [Raumschiffen]({{ site.baseurl }}/Weltraum/Technologie/Raumschiffe)
 

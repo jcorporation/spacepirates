@@ -29,7 +29,7 @@ Die Raumstationen werden aber nicht nur von SpaceWorms bewohnt, vielmehr findet 
 
 ## AFKen
 
-Die AFKen sind eine nervige Tierart, die an schwarzfellige Affen erinnern und nur auf SpaceWorms-Raumstationen vorkommen. Der Rauch scheint sie anzuziehen und sie wirken in der Tat auch wie dauerberauscht. Sie sind hyperaktiv, wenn sie nicht gerade schlafen, und sie hassen Technik. Besonders verabscheuen sie Tastaturen &ndash; wann immer sie eine Tastatur sehen, werden sie alles daran setzen, um sie zu zerstören. Auch sonst sind die AFKen nervig, da sie sich beständig durch die Raumstation hangeln und gerne Leute nerven oder bestehlen, um mit ihnen Katz und Maus zu spielen.
+Die AFKen sind eine nervige Tierart, die an schwarzfellige Affen erinnern und nur auf SpaceWorms-Raumstationen vorkommen. Der Rauch scheint sie anzuziehen und sie wirken in der Tat auch wie dauerberauscht. Sie sind hyperaktiv, wenn sie nicht gerade schlafen, und sie hassen Technik. Besonders verabscheuen sie Tastaturen – wann immer sie eine Tastatur sehen, werden sie alles daran setzen, um sie zu zerstören. Auch sonst sind die AFKen nervig, da sie sich beständig durch die Raumstation hangeln und gerne Leute nerven oder bestehlen, um mit ihnen Katz und Maus zu spielen.
 
 ## Bekannte SpaceWorms Raumstationen
 

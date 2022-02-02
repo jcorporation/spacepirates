@@ -10,7 +10,7 @@ title: Mitglieder
 
 ## Don Calamari Corleone
 
-Einer der beiden Oberbosse der kahadrischen Mafia ist der Glukorianer Don Calamari Corleone. Er schafft es, selbst für einen Glukorianer besonders schmierig zu wirken und er spricht mit einer tiefen, rauchigen Stimme und einem merkwürdigen Akzent, der dem der Pizza-Syndikate ähnelt. Er hat immer mindestens 3 bis 5 Baseballschläger griffbereit und wenn man bei den haarlosen Glukorianern von einem Schnurrbart sprechen kann, so hat er ganz sicher einen &ndash; und zwar einen ganz dünnen.
+Einer der beiden Oberbosse der kahadrischen Mafia ist der Glukorianer Don Calamari Corleone. Er schafft es, selbst für einen Glukorianer besonders schmierig zu wirken und er spricht mit einer tiefen, rauchigen Stimme und einem merkwürdigen Akzent, der dem der Pizza-Syndikate ähnelt. Er hat immer mindestens 3 bis 5 Baseballschläger griffbereit und wenn man bei den haarlosen Glukorianern von einem Schnurrbart sprechen kann, so hat er ganz sicher einen – und zwar einen ganz dünnen.
 
 
 <aside>

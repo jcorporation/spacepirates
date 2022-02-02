@@ -40,7 +40,7 @@ Dark Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nic
 <tr><td>Standardsensoren</td><td>6.000</td><td>3.000</td></tr>
 <tr><td>Enterschleuse</td><td>4.000</td><td>2.000</td></tr>
 <tr><td>Stereoanlage mit EHB-System</td><td>2.000</td><td>1.000</td></tr>
-<tr><td>Cabriokit &ndash; für eine Macke eingetauscht</td><td>0</td><td>0</td></tr>
+<tr><td>Cabriokit – für eine Macke eingetauscht</td><td>0</td><td>0</td></tr>
 </tbody>
 <tfoot>
 <tr><th>Gesamt</th><th>72.000</th><th>36.000</th></tr>

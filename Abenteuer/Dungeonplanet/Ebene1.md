@@ -60,7 +60,7 @@ Hier führt eine steile Wendeltreppe tiefer in den Dungeon. An der Innenseite de
 
 ## Raum 9: Rißraum
 
-In der Mitte dieses Raumes befindet sich ein Riß. Er scheint nahezu unendlich tief hinabzugehen, unten sieht man ein Leuchten. Wenn man über den Riß springt, erschafft das Leuchte eine Hitzebarriere, die beim Durchspringen Schaden verursacht, als wenn sie mit SÖLDNER 6 angreift. Spiegel und ähnliches bieten (je nach Größe) Rüstung 2&ndash;5 gegen diesen Angriff.
+In der Mitte dieses Raumes befindet sich ein Riß. Er scheint nahezu unendlich tief hinabzugehen, unten sieht man ein Leuchten. Wenn man über den Riß springt, erschafft das Leuchte eine Hitzebarriere, die beim Durchspringen Schaden verursacht, als wenn sie mit SÖLDNER 6 angreift. Spiegel und ähnliches bieten (je nach Größe) Rüstung 2–5 gegen diesen Angriff.
 
 Der Rißraum hat drei Ausgänge: zum Brunnenraum, zum Heuraum und zum Lavaraum.
 

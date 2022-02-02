@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Historie
 title: Historie
 ---
 
-
 # Historie
-
 
 ### bis zum 21. Jahrhundert
 
@@ -18,7 +16,7 @@ Es gelingen mehrere technische Durchbrüche. FTL-Triebwerke und die Besiedelung 
 
 ### 25. Jahrhundert
 
-Der große Traum wird wahr, die Menschheit ist unterwegs zu den Sternen. Das Raumschiff Alpha verlässt als erstes bemanntes Schiff das irdische Sonnensystem und testet seinen FTL-Antrieb erfolgreich. Erster Kontakt mit den Wagonen, es herrscht große Euphorie &ndash; aber auch Angst, als klar wird, dass man nicht allein im Universum ist.
+Der große Traum wird wahr, die Menschheit ist unterwegs zu den Sternen. Das Raumschiff Alpha verlässt als erstes bemanntes Schiff das irdische Sonnensystem und testet seinen FTL-Antrieb erfolgreich. Erster Kontakt mit den Wagonen, es herrscht große Euphorie – aber auch Angst, als klar wird, dass man nicht allein im Universum ist.
 
 ### 26. Jahrhundert
 
@@ -76,15 +74,11 @@ Es wird ein Syoner enttarnt, der seit Jahrzehnten als Mensch getarnt im Handelsr
 
 Jetzt, in diesem Jahrhundert, spielt SpacePirates. Der Kalte Krieg zwischen Samara und dem Trullimperium droht jeden Moment zu entflammen. Es findet eine Hexenjagd auf angebliche Syoner statt. Die Arbeitsgruppe zur Bekämpfung der Spaceamazonen ist gescheitert, während jene gerüchteweise wieder in Neuasien einfallen. Die Raumzeitverschiebung breitet sich langsam, aber stetig aus. Die Glukorianer rasseln wieder mit ihren Säbeln, viele befürchten einen baldigen neuen Krieg. Die großen Mächte sind gelähmt und nahezu unfähig, auf neue Bedrohungen zu reagieren.
 
-- [Die aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Politik)
+- [Die aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Politische_Lage)
 
-
-<aside>
-<div class="hinweis">
+{% capture aside %}
 ## In der Zukunft
 
 Im 45. Jahrhundert erwacht [Glutulhu]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu) aus seinem Schlaf und die Glukorianer erobern die bekannten Sektoren.
-
-</div>
-</aside>
-
+{% endcapture %}
+{% assign site.aside_body = aside %}

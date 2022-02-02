@@ -13,10 +13,10 @@ Diese Zufallstabelle generiert zufällige Auswirkungen, falls die Piraten Neutri
 <tr><th>W10</th><th>Auswirkung</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>Es wächst ein zusätzliches Gliedmaß an einer praktischen Stelle: [1W4]({{ site.baseurl }}/Dice): 1&ndash;2 Arm, 3 Bein, 4 Schwanz</td></tr>
+<tr><td>1</td><td>Es wächst ein zusätzliches Gliedmaß an einer praktischen Stelle: [1W4]({{ site.baseurl }}/Dice): 1–2 Arm, 3 Bein, 4 Schwanz</td></tr>
 <tr><td>2</td><td>Das Haarwachstum nimmt exponentiell zu, auch an Stellen an denen bisher keine Haare gewachsen sind.</td></tr>
 <tr><td>3</td><td>Alte Narben verschwinden spurlos.</td></tr>
-<tr><td>4</td><td>Es wächst ein zusätzliches Gliedmaß an einer unpraktischen Stelle: [1W4]({{ site.baseurl }}/Dice): 1&ndash;2 Arm, 3 Bein, 4 Schwanz</td></tr>
+<tr><td>4</td><td>Es wächst ein zusätzliches Gliedmaß an einer unpraktischen Stelle: [1W4]({{ site.baseurl }}/Dice): 1–2 Arm, 3 Bein, 4 Schwanz</td></tr>
 <tr><td>5</td><td>Die Haut verfärbt sich: [1W6]({{ site.baseurl }}/Dice): 1 Rot, 2 Blau, 3 Grün, 4 Schwarz, 5 Lila, 6 Rosa</td></tr>
 <tr><td>6</td><td>Es bilden sich überall auf der Haut eitrige Pickel.</td></tr>
 <tr><td>7</td><td>Alle Haare fallen auf einmal aus und wachsen auch nicht mehr nach.</td></tr>

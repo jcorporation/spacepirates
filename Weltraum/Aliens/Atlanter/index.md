@@ -20,7 +20,7 @@ Ihre Staatsform, Städte, Kleidung und Kultur erinnern an das alte Griechenland.
 
 Die Atlanter sind religiös und glauben an Zeus den Göttervater und die anderen elf olympischen Götter Poseidon, Hera, Demeter, Apollon, Artemis, Athene, Ares, Aphrodite, Hermes, Hephaistos und Hestia. Der Glaube hat sich aber natürlich den veränderten Bedingungen angepasst.
 
-Die Atlanter sind größtenteils Pazifisten, da sich ihr ehemals stolzes Reich niemals vom großen Krieg gegen die Spaceamazonen erholt hat. Dennoch ist auch ihre Waffentechnologie weit fortgeschritten und der der meisten Alienrassen weit überlegen. Einstmals wetteiferten die Atlanter und die Spaceamazonen um die Vorherrschaft im Universum, heute streifen beide als heimatlose Nomaden durchs All &ndash; die Amazonen als Plünderer, die Atlanter als Lehrer.
+Die Atlanter sind größtenteils Pazifisten, da sich ihr ehemals stolzes Reich niemals vom großen Krieg gegen die Spaceamazonen erholt hat. Dennoch ist auch ihre Waffentechnologie weit fortgeschritten und der der meisten Alienrassen weit überlegen. Einstmals wetteiferten die Atlanter und die Spaceamazonen um die Vorherrschaft im Universum, heute streifen beide als heimatlose Nomaden durchs All – die Amazonen als Plünderer, die Atlanter als Lehrer.
 
 
 

@@ -19,7 +19,7 @@ Zum Start des Abenteuers regenerieren vollständig:
 - Die Piratenwürfel
 - Die Schilde und Schadenspunkte des Piratenschiffs
 
-Wenn das Abenteuer deutlich länger als 4&ndash;5 Stunden dauert, ist es ratsam, die Piratenwürfel und Zähigkeiten zwischendurch aufzufrischen. Entweder zu einem passenden Zeitpunkt nach 4&ndash;5 Stunden oder zum Beginn der Fortsetzung des Abenteuers. Auch der Spielleiter erhält dann frische Piratenwürfel.
+Wenn das Abenteuer deutlich länger als 4–5 Stunden dauert, ist es ratsam, die Piratenwürfel und Zähigkeiten zwischendurch aufzufrischen. Entweder zu einem passenden Zeitpunkt nach 4–5 Stunden oder zum Beginn der Fortsetzung des Abenteuers. Auch der Spielleiter erhält dann frische Piratenwürfel.
 
 ### Piratenwürfel für den Spielleiter
 

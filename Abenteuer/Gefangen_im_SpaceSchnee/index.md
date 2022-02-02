@@ -134,7 +134,7 @@ Es ist zum Glück nur ein kleiner Space-Eiswurm. Er schnappt alle 10 Minuten ein
 <tr><td>3</td><td>Kiffer</td><td>8</td></tr>
 <tr><td>4</td><td>Truck</td><td>20</td></tr>
 <tr><td>5</td><td>Manager</td><td>8</td></tr>
-<tr><td>6&ndash;9</td><td>keiner</td><td> </td></tr>
+<tr><td>6–9</td><td>keiner</td><td> </td></tr>
 </tbody>
 </table>
 </aside>

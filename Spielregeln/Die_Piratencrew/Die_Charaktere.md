@@ -19,16 +19,16 @@ Ihr spielt eine Piratencrew, also eine Gruppe, die zusammenarbeiten muss, wenn s
 
 Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich gibt es auch Alienpiraten. Zur Auswahl stehen die folgenden Rassen:
 
-- [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/) &ndash; kriegerische, zwergenähnliche Aliens
-- [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/) &ndash; echsenartige Aliens
-- [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/) &ndash; forschende, wissbegierige Cyborgs
-- [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/) &ndash; niedliche kleine Pelzwesen
-- [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/SpaceAmazonen/) &ndash; sexy, kriegerische Aliens
-- [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/SpacePears/) &ndash; schwebende, birnenförmige Aliens
-- [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/) &ndash; rauchende Würmer
-- [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/SpaceYetis/) &ndash; kuschelige Yetis
-- [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/) &ndash; käferähnliche Händler
-- [Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/) &ndash; bürokratische Marsmenschen
+- [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/) – kriegerische, zwergenähnliche Aliens
+- [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/) – echsenartige Aliens
+- [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/) – forschende, wissbegierige Cyborgs
+- [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/) – niedliche kleine Pelzwesen
+- [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/SpaceAmazonen/) – sexy, kriegerische Aliens
+- [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/SpacePears/) – schwebende, birnenförmige Aliens
+- [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/) – rauchende Würmer
+- [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/SpaceYetis/) – kuschelige Yetis
+- [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/) – käferähnliche Händler
+- [Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/) – bürokratische Marsmenschen
 
 Wenn der Spieler will, kann er natürlich auch eine neue Alienrasse erschaffen, das sollte er aber mit der Gruppe und insbesondere mit dem Spielleiter absprechen, der selbstverständlich ein Vetorecht hat.
 

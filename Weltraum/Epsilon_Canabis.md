@@ -1,5 +1,5 @@
 ---
-layout: planet
+layout: sternensystem
 permalink: /Weltraum/Epsilon_Canabis
 title: Epsilon Canabis
 

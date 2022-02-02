@@ -6,10 +6,6 @@ title: Weltraum
 
 # Weltraum
 
-<div class="float-start me-2 mb-2">
-<a href="/Weltraum/Sternenkarte/"><img width="140" height="100" alt="Sternenkarte" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkarte.jpg"/></a>
-</div>
-
 Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die [Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/). Hier kann man nichts von der Unendlichkeit des Weltraums erahnen, denn ihr Zentrum besteht aus zehn dicht gedrängten Sonnensystemen. Daher ist die Freihandelszone das Zentrum des Handels, der [Politik]({{ site.baseurl }}/Weltraum/Politische_Lage) und Kultur im bekannten Universum, auch wenn die [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Föderation/) das nicht wahrhaben will. Hier sind Händler noch Händler, Intrigen noch Intrigen und [Piraten]({{ site.baseurl }}/Weltraum/Piraten/) noch frei. Genau diese Freihandelszone ist der Mittelpunkt der [Abenteuer]({{ site.baseurl }}/Abenteuer/) von SpacePirates.
 
 {% capture include_col1 %}
@@ -67,6 +63,7 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 - [Verrückte Wissenschaftler]({{ site.baseurl }}/Weltraum/Wissenschaftler)
 - [Sekten]({{ site.baseurl }}/Weltraum/Sekten)
 - [Militär]({{ site.baseurl }}/Weltraum/Militaer)
+- [Übersicht der bekannten Personen]({{ site.baseurl }}/Weltraum/Übersicht_der_bekannten_Personen)
 {% endcapture %}
 
 {% include columns.md col1=include_col1 col2=include_col2 col3=include_col3%}

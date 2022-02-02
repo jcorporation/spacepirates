@@ -124,7 +124,7 @@ Hier gibt es vorgefertigte Abenteuer und Abenteuerideen für SpacePirates.
 <div class="box1 clickable">
 ## Spritprobleme
 
-<div class="boxtext">Die Piraten sind inmitten eines Sperrgebiets von SpaceShell gestrandet, weil ihr Neutritium-Tank leer ist &ndash; und nur Neutritiumreaktoren können ausreichend Energie für ein Raumschiff bereitstellen.</div>
+<div class="boxtext">Die Piraten sind inmitten eines Sperrgebiets von SpaceShell gestrandet, weil ihr Neutritium-Tank leer ist – und nur Neutritiumreaktoren können ausreichend Energie für ein Raumschiff bereitstellen.</div>
 <div class="boxbottom">[&raquo; zum Abenteuer]({{ site.baseurl }}/Abenteuer/Spritprobleme)</div>
 </div>
 <div class="box1 clickable">

@@ -6,7 +6,7 @@ title: Diverse Ausrüstungsgegenstände
 
 # Diverse Ausrüstungsgegenstände
 
-Hier sind nur wichtige und interessante Ausrüstungsgegenstände aufgeführt. Alltagsdinge, die keine Boni geben und nicht unbedingt Voraussetzung für eine Tätigkeit sind, müssen von den Charakteren nicht gekauft werden. Daher reicht es z.B. aus, wenn der Tech ein Universalwerkzeug &ndash; Tech kauft, ein normales Universalwerkzeug benötigt er nicht.
+Hier sind nur wichtige und interessante Ausrüstungsgegenstände aufgeführt. Alltagsdinge, die keine Boni geben und nicht unbedingt Voraussetzung für eine Tätigkeit sind, müssen von den Charakteren nicht gekauft werden. Daher reicht es z.B. aus, wenn der Tech ein Universalwerkzeug – Tech kauft, ein normales Universalwerkzeug benötigt er nicht.
 
 ## Diverses
 
@@ -27,13 +27,13 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 <tr><td>Intergalaxy S9000 Smartphone</td><td>P+1 auf Informationsbeschaffung</td><td>150</td></tr>
 <tr><td>Jetpack</td><td>je nach Anwendung</td><td>2.000</td></tr>
 <tr><td>Handscanner</td><td>je nach Anwendung</td><td>4.500</td></tr>
-<tr><td>MediKit &ndash; Standard</td><td>Voraussetzung für medizinische Versorgung</td><td>300</td></tr>
-<tr><td>MediKit &ndash; Expert</td><td>P+1 für medizinische Proben</td><td>450</td></tr>
+<tr><td>MediKit – Standard</td><td>Voraussetzung für medizinische Versorgung</td><td>300</td></tr>
+<tr><td>MediKit – Expert</td><td>P+1 für medizinische Proben</td><td>450</td></tr>
 <tr><td>Stimmverändernder Kaugummi (10er Pack)</td><td>je nach Anwendung</td><td>100</td></tr>
 <tr><td>Teleobjektivcam</td><td>je nach Anwendung</td><td>300</td></tr>
 <tr><td>Überwachungsset</td><td>je nach Anwendung</td><td>400</td></tr>
-<tr><td>Universalwerkzeug &ndash; Standard</td><td>Voraussetzung für Reparaturen</td><td>350</td></tr>
-<tr><td>Universalwerkzeug &ndash; Tech</td><td>P+1 auf Tech</td><td>550</td></tr>
+<tr><td>Universalwerkzeug – Standard</td><td>Voraussetzung für Reparaturen</td><td>350</td></tr>
+<tr><td>Universalwerkzeug – Tech</td><td>P+1 auf Tech</td><td>550</td></tr>
 <tr><td>xPhone 3Gx</td><td>P+1 auf Informationsbeschaffung</td><td>150</td></tr>
 </tbody>
 </table>

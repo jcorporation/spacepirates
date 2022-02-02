@@ -14,7 +14,7 @@ Die Hashimara gehören zu den größten und ältesten Clans. Zudem sind sie auch
 
 ## Hashimara Zentrale
 
-Zwar ist der Hashimara-Clan einer traditionsreichsten Ninjaclans, wäre aber nicht zum unangefochtenen Pizzamarktführer geworden, hätte er nicht die ein oder andere Tradition zurechtgebogen. Daher befindet sich die Zentrale nicht wie es die Tradition erfordert im Dschungel, sondern verkehrstechnisch extrem gut angebunden im Industriebezirk von Neu-Neo-Tokio, etwa in der Mitte zwischen dem Zentralbahnhof und dem Raumhafen. Dieser Standort erlaubt eine extrem schnelle Auslieferung der Pizzen. Zudem ist der Hashimara durch den Standort extrem beliebt unter den Ninja-Schülern geworden &ndash; wohl auch, weil das einzige Hindernis für die Aufnahme der Horror-Verkehr in Neu-Neo-Tokio ist.
+Zwar ist der Hashimara-Clan einer traditionsreichsten Ninjaclans, wäre aber nicht zum unangefochtenen Pizzamarktführer geworden, hätte er nicht die ein oder andere Tradition zurechtgebogen. Daher befindet sich die Zentrale nicht wie es die Tradition erfordert im Dschungel, sondern verkehrstechnisch extrem gut angebunden im Industriebezirk von Neu-Neo-Tokio, etwa in der Mitte zwischen dem Zentralbahnhof und dem Raumhafen. Dieser Standort erlaubt eine extrem schnelle Auslieferung der Pizzen. Zudem ist der Hashimara durch den Standort extrem beliebt unter den Ninja-Schülern geworden – wohl auch, weil das einzige Hindernis für die Aufnahme der Horror-Verkehr in Neu-Neo-Tokio ist.
 
 
 <aside>

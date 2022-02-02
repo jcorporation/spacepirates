@@ -27,7 +27,7 @@ Auf Streif wechseln Herrschaftsform und Herrscher öfter als auf anderen Planete
 <div class="anmerkung">
 ## Der Streifanier und die Kriegerprinzessin
 
-Streif. Hat es der reichste und berühmteste Bürger Streifs geschafft, sich in das Herz einer der legendärsten Amazonen-Kriegerprinzessinnen zu kuscheln? Es gibt verschwommene Holo-Aufnahmen, auf denen man sieht, wie Wicker, Holo-Star und Werbe-Ikone einer riesigen SpaceAmazone einige Creditstäbe in den Bikini gesteckt hat, die starke Ähnlichkeit mit der berühmten Xexa aufwies. Das verschwommene Bild wirft aber einige Fragen auf &ndash; ist es vielleicht ihre Mutter oder hat sie sich frische Falten operieren lassen?
+Streif. Hat es der reichste und berühmteste Bürger Streifs geschafft, sich in das Herz einer der legendärsten Amazonen-Kriegerprinzessinnen zu kuscheln? Es gibt verschwommene Holo-Aufnahmen, auf denen man sieht, wie Wicker, Holo-Star und Werbe-Ikone einer riesigen SpaceAmazone einige Creditstäbe in den Bikini gesteckt hat, die starke Ähnlichkeit mit der berühmten Xexa aufwies. Das verschwommene Bild wirft aber einige Fragen auf – ist es vielleicht ihre Mutter oder hat sie sich frische Falten operieren lassen?
 
 </div>
 </aside>

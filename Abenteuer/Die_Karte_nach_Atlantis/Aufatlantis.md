@@ -36,7 +36,7 @@ Fragen die Charaktere nach der Geschichte, erzählt ihnen Aristoteles, dass sie 
 
 ### Atlantisches Weinfest
 
-Es ist Spätsommer auf Atlantis, daher laufen gerade die Vorbereitungen für das große Weinfest, dem größten atlantischen Volksfest überhaupt. Die Piraten werden von Aristoteles herzlich eingeladen, ja, er schwärmt ihnen geradezu davon vor. Das Fest bietet neben der Verkostung von viel, extrem gutem, atlantischem Wein auch volkstümliche Schlagermusik, inklusive eines Liveauftritts des beliebtesten atlantischen Stars, Udos Jurgenios. Zum Weinfest herrscht Ausnahmezustand auf Atlantis, quasi jeder Bürger ist auf den Beinen und die komplette Innenstadt ist voller feiernder Atlanter &ndash; eine gute Gelegenheit für die Piraten, von Atlantis zu fliehen und ein paar atlantische Artefakte in Sicherheit zu bringen.
+Es ist Spätsommer auf Atlantis, daher laufen gerade die Vorbereitungen für das große Weinfest, dem größten atlantischen Volksfest überhaupt. Die Piraten werden von Aristoteles herzlich eingeladen, ja, er schwärmt ihnen geradezu davon vor. Das Fest bietet neben der Verkostung von viel, extrem gutem, atlantischem Wein auch volkstümliche Schlagermusik, inklusive eines Liveauftritts des beliebtesten atlantischen Stars, Udos Jurgenios. Zum Weinfest herrscht Ausnahmezustand auf Atlantis, quasi jeder Bürger ist auf den Beinen und die komplette Innenstadt ist voller feiernder Atlanter – eine gute Gelegenheit für die Piraten, von Atlantis zu fliehen und ein paar atlantische Artefakte in Sicherheit zu bringen.
 
 
 ***

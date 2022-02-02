@@ -23,7 +23,7 @@ Tief im gefahrvollen Nebel liegt das Ziel.</p>
 
 ## Was tun mit dem Pergament?
 
-Die Piraten könnten sich fragen, was sie mit dem Pergament denn nun tun sollen &ndash; ob sie wirklich den Weg nach Atlantis zeigt, wissen sie nicht, es könnte auch eine Falle sein. Sie könnten sie daher auch einfach verkaufen, sowohl Spaceamazonen, Atlanter als auch reiche Sammler wären daran interessiert und bieten bis zu 25.000 UC für die Karte.
+Die Piraten könnten sich fragen, was sie mit dem Pergament denn nun tun sollen – ob sie wirklich den Weg nach Atlantis zeigt, wissen sie nicht, es könnte auch eine Falle sein. Sie könnten sie daher auch einfach verkaufen, sowohl Spaceamazonen, Atlanter als auch reiche Sammler wären daran interessiert und bieten bis zu 25.000 UC für die Karte.
 
 Natürlich besteht immer auch die Möglichkeit, nach Atlantis zu fliegen, den Gerüchten zufolge ist der Planet zwar verlassen, aber auch voller atlantischer Technik, für die Sammler, Forscher, Spaceamazonen (und Atlanter) vermutlich viel Geld bezahlen würden.
 

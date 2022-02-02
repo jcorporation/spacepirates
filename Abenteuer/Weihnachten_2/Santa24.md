@@ -28,13 +28,13 @@ Wenn mit den Elfen geredet wird, grölen sie Parolen wie &bdquo;Nieder mit dem R
 
 Versuchen die Spieler mit Händler (4 Erfolge) Information aus den Elfen herauszulocken, erfahren sie Folgendes:
 
-Die Elfen lieben ihren alten Arbeitsrhythmus &ndash; 364 Tage schuften, Weihnachten frei. Jetzt sind ihre Fließbandjobs &bdquo;outgesourced&ldquo; und Santa will sie ins Callcenter stecken, um Abwicklung und Logistik zu koordinieren, mit Hotlinesupport am Heiligen Abend! Außerdem handelt es sich dabei um unelfische Arbeitsvorgänge ohne Hämmer, Sägen, und falsch gesungen darf auch nicht werden. Santa benimmt sich seit einiger Zeit (mal wieder) merkwürdig.
+Die Elfen lieben ihren alten Arbeitsrhythmus – 364 Tage schuften, Weihnachten frei. Jetzt sind ihre Fließbandjobs &bdquo;outgesourced&ldquo; und Santa will sie ins Callcenter stecken, um Abwicklung und Logistik zu koordinieren, mit Hotlinesupport am Heiligen Abend! Außerdem handelt es sich dabei um unelfische Arbeitsvorgänge ohne Hämmer, Sägen, und falsch gesungen darf auch nicht werden. Santa benimmt sich seit einiger Zeit (mal wieder) merkwürdig.
 
 ## In der Fabrik
 
 <p>Dringen die Spieler in die Fabrik ein (z.B. um Geschenke zu stehlen, Arrrr!), finden sie die Fließbänder leer vor und auch keine vorbereiteten Geschenke. Elfen stehen an brennenden Glührumfässern und wärmen sich die Hände.<br/>
 <br/>
-Im Bürogebäude sitzt im Vorzimmer eine streikbrechende Elfendame (ihr ging das Singen eh schon immer auf die Nerven) und feilt sich die Nägel. Auf Anfrage ist &bdquo;Mr Claus&ldquo; oder &bdquo;der CEO&ldquo; in einer Besprechung. Bedrohen die Piraten sie, ruft sie die Security &ndash; 3-4 Wagonen mit Laserpistolen stürmen in den Raum:</p>
+Im Bürogebäude sitzt im Vorzimmer eine streikbrechende Elfendame (ihr ging das Singen eh schon immer auf die Nerven) und feilt sich die Nägel. Auf Anfrage ist &bdquo;Mr Claus&ldquo; oder &bdquo;der CEO&ldquo; in einer Besprechung. Bedrohen die Piraten sie, ruft sie die Security – 3-4 Wagonen mit Laserpistolen stürmen in den Raum:</p>
 <table>
 <tbody>
 <tr><th colspan="2">Wagonenwache</th></tr>
@@ -43,20 +43,20 @@ Im Bürogebäude sitzt im Vorzimmer eine streikbrechende Elfendame (ihr ging das
 <tr><th>Bewaffnung</th><td>Laserpistole: WB 0</td></tr>
 </tbody>
 </table>
-Die Spieler können die Sekretärin belabern (Händler &ndash; 5 Würfel, Zähigkeit 4) oder sich an ihr auf alle möglichen Arten vorbeimogeln &ndash; z.B. sich als Lieferanten ausgeben usw.
+Die Spieler können die Sekretärin belabern (Händler – 5 Würfel, Zähigkeit 4) oder sich an ihr auf alle möglichen Arten vorbeimogeln – z.B. sich als Lieferanten ausgeben usw.
 
 ## Santa
 
-<p>Santa finden die Spieler im 3. Stock, 2. Trakt. Er befindet sich in einem Büro hinter einer Doppeltür aus Mahagoni. Im Büro befindet sich ein sehr langer, leerer Konferenztisch &ndash; immerhin mit einem Adventskranz in der Mitte. Santa befindet sich am anderen Ende und redet wild auf mehrere Bildschirme ein, mit dem Rücken zur Gruppe. Santa ignoriert die Gruppe und redet von &bdquo;Effizienzgewinnen&ldquo;, &bdquo;Kopfzahloptimierung&ldquo;, &bdquo;Auslagerung&ldquo;, &bdquo;Synergieeffekten&ldquo;, &bdquo;Auslastungsproblemen&ldquo;, &bdquo;neuen Geschäftsbereichen&ldquo; und &bdquo;diesen verdammten Zulieferern.&ldquo;<br/>
+<p>Santa finden die Spieler im 3. Stock, 2. Trakt. Er befindet sich in einem Büro hinter einer Doppeltür aus Mahagoni. Im Büro befindet sich ein sehr langer, leerer Konferenztisch – immerhin mit einem Adventskranz in der Mitte. Santa befindet sich am anderen Ende und redet wild auf mehrere Bildschirme ein, mit dem Rücken zur Gruppe. Santa ignoriert die Gruppe und redet von &bdquo;Effizienzgewinnen&ldquo;, &bdquo;Kopfzahloptimierung&ldquo;, &bdquo;Auslagerung&ldquo;, &bdquo;Synergieeffekten&ldquo;, &bdquo;Auslastungsproblemen&ldquo;, &bdquo;neuen Geschäftsbereichen&ldquo; und &bdquo;diesen verdammten Zulieferern.&ldquo;<br/>
 <br/>
-Santa wird die Spieler so lange ignorieren, bis sie seine Aufmerksamkeit erregen &ndash; Computer ausschalten per Stecker ziehen (Piratenwürfel für den Stecker), Santa überwältigen (Söldner 6, Zähigkeit 4) o.ä. Er wird aber weiter wirres Zeug reden. Santa hat außergewöhnlich rote Backen und einen glasigen Blick. (Symptome, s.u.)</p>
+Santa wird die Spieler so lange ignorieren, bis sie seine Aufmerksamkeit erregen – Computer ausschalten per Stecker ziehen (Piratenwürfel für den Stecker), Santa überwältigen (Söldner 6, Zähigkeit 4) o.ä. Er wird aber weiter wirres Zeug reden. Santa hat außergewöhnlich rote Backen und einen glasigen Blick. (Symptome, s.u.)</p>
 ### Folgende Information ist bei Santa zu bekommen:
 
-#### Wenn sich die Piraten bei Santa als Lieferanten oder Zulieferer ausgeben (Händler &ndash; 4 Erfolge):
+#### Wenn sich die Piraten bei Santa als Lieferanten oder Zulieferer ausgeben (Händler – 4 Erfolge):
 
 Santa treibt Geschäfte mit der Kapitalistischen Sonderrechtszone der Sternenrepublik Neuasien. Er wird die Spieler als unfähig, überbezahlt, vertragsbrüchig und unprofessionell beschimpfen.
 
-#### Wenn die Piraten Santas Computer hacken (Tech &ndash; 4 Erfolge):
+#### Wenn die Piraten Santas Computer hacken (Tech – 4 Erfolge):
 
 Santa hat einen Lieferanten in der Sonderrechtszone (in einem Slum namens Foxconn City), der ihm billigen Weihnachtstinnef massenfertigt.
 

@@ -14,7 +14,7 @@ Niemand hatte Interesse an diesem Planeten, bis der Überraschungserfolg &bdquo;
 
 Andere Produzenten wollten das Erfolgskonzept kopieren. Bei der Suche nach einem geeigneten Drehort entschieden sie sich für die lichte Seite Sandaliens. Herausgekommen ist die ganz eigene Sparte der Space-Barbarenfilme, deren Produktionen allerdings meistens eher ambitioniert denn professionell waren. Als der Hype um die Barbarenfilme vorbei war, wurde nach neuen Möglichkeiten gesucht, die Studios auf Sandalien mit Arbeit zu versorgen. Sandalien wurde ein beliebter Drehort für B- und C-Movies aller Art. Auf der dunklen Seite des Planeten begannen sich zudem Studios für Horror-, Grusel- und Zombiefilme anzusiedeln.
 
-- **Berühmte Filme:** Cone, der Spacebarbar; Cone, der Zerstreuer; Barbaren &ndash; schneller als Plasma und Licht; Green Sonja; Angriff der Killerpeaches; Tanz der Tentakel; The hills have ears; The Ring&hellip; Galaxy; Blue Scorpion; Masters of the Planet
+- **Berühmte Filme:** Cone, der Spacebarbar; Cone, der Zerstreuer; Barbaren – schneller als Plasma und Licht; Green Sonja; Angriff der Killerpeaches; Tanz der Tentakel; The hills have ears; The Ring&hellip; Galaxy; Blue Scorpion; Masters of the Planet
 - **Berühmte Darsteller:** Brigitte Niels; Olf Dundgren; Arnold Easteregger
 
 

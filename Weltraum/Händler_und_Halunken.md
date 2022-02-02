@@ -100,7 +100,7 @@ Auf Pandar 5 besitzt Melinda Gomez einen kleinen Palast, der immer gut bewacht w
 
 ### Randul Zac
 
-Der Samnese Randul Zac ist der größte Waffenhändler des Universums und besitzt sehr gute Beziehungen zum Kahadrischen Reich. Wie alle Samnesen ist er ein Cyborg, der unter anderem diverse Waffen in seinen Gliedmaßen verbaut hat. Er wird mehr und mehr zu einer Maschine und gleichzeitig immer paranoider &ndash; Letzteres ist für Waffenhändler aber nicht ungewöhnlich. Seine Handelszentrale auf Keas ist ein strikt abgeschirmtes, autarkes Gebiet. Weitere große Handelsniederlassungen hat er in jedem großen Sternenreich und auch auf Scrabnambu, wobei seine Beziehung zu Iyani Dizalo nicht die Beste ist.
+Der Samnese Randul Zac ist der größte Waffenhändler des Universums und besitzt sehr gute Beziehungen zum Kahadrischen Reich. Wie alle Samnesen ist er ein Cyborg, der unter anderem diverse Waffen in seinen Gliedmaßen verbaut hat. Er wird mehr und mehr zu einer Maschine und gleichzeitig immer paranoider – Letzteres ist für Waffenhändler aber nicht ungewöhnlich. Seine Handelszentrale auf Keas ist ein strikt abgeschirmtes, autarkes Gebiet. Weitere große Handelsniederlassungen hat er in jedem großen Sternenreich und auch auf Scrabnambu, wobei seine Beziehung zu Iyani Dizalo nicht die Beste ist.
 
 
 <aside>
@@ -119,7 +119,7 @@ Der Samnese Randul Zac ist der größte Waffenhändler des Universums und besitz
 
 Scharxu ist ein etwas älterer, relativ kleiner aber trotzdem sehr erfolgreicher trullischer Hehler. Er durchstreift mit seinem großen Frachtschiff beständig die Freihandelszone und verweilt nie länger als ein paar Tage an einem Ort. Er wird nur gefunden, wenn er auch gefunden werden will. Das Frachtschiff ist seine Heimat, so ist es auch in einem außergewöhnlich guten Zustand und sehr luxuriös, aber auch sehr wehrhaft. Neben ihm lebt auch eine kleine und loyale Söldnertruppe auf diesem Schiff.
 
-Scharxu handelt mit allem, war er gewinnbringend weiterverkaufen kann. Keine Ware ist ihm zu heiß. Dafür ist er aber auch ein recht unangenehmer Typ, der nie irgendwo ohne seine schwer bewaffneten Leibwächter auftaucht. &bdquo;Ein Deal ist ein Deal&ldquo;, lautet sein Motto, an das er sich meistens hält. Seine Handelspartner sollten es auf jeden Fall einhalten, sonst wird er noch unangenehmer &ndash; und er vergisst einen Betrug niemals.
+Scharxu handelt mit allem, war er gewinnbringend weiterverkaufen kann. Keine Ware ist ihm zu heiß. Dafür ist er aber auch ein recht unangenehmer Typ, der nie irgendwo ohne seine schwer bewaffneten Leibwächter auftaucht. &bdquo;Ein Deal ist ein Deal&ldquo;, lautet sein Motto, an das er sich meistens hält. Seine Handelspartner sollten es auf jeden Fall einhalten, sonst wird er noch unangenehmer – und er vergisst einen Betrug niemals.
 
 
 <aside>

@@ -12,7 +12,7 @@ Freeport ist ein freier Raumhafen am Rande der Unwahrscheinlichkeitszone, auf de
 
 ### Bobs Imbissbude
 
-Bob ist der vermutlich harmloseste Bewohner Freeports und verkauft in seinem Imbiss verkohlte Bratwürste, matschige Hamburger, pappige Pommes und die allseits beliebten &bdquo;Überraschungsmenüs&ldquo; (Reste vom Vortag, die mit altem Frittierfett vermischt wurden). Obwohl diese Speisekarte eigentlich ausreichen sollte, um schwere Magenkoliken zu verursachen, ist Bobs Imbiss, wie auch seine Kasse, immer gut gefüllt. Teilweise stehen die Leute sogar Schlange &ndash; zuerst bei Bob und nach dem Essen dann bei Doc Brown.
+Bob ist der vermutlich harmloseste Bewohner Freeports und verkauft in seinem Imbiss verkohlte Bratwürste, matschige Hamburger, pappige Pommes und die allseits beliebten &bdquo;Überraschungsmenüs&ldquo; (Reste vom Vortag, die mit altem Frittierfett vermischt wurden). Obwohl diese Speisekarte eigentlich ausreichen sollte, um schwere Magenkoliken zu verursachen, ist Bobs Imbiss, wie auch seine Kasse, immer gut gefüllt. Teilweise stehen die Leute sogar Schlange – zuerst bei Bob und nach dem Essen dann bei Doc Brown.
 
 <table data-type="slc">
 <caption>Bob</caption>
@@ -27,9 +27,9 @@ Gerüchten zufolge ist Bob ein mächtiger Telepath, der alle Leuten in weitem Um
 
 ### Doc Browns Fleischlager
 
-Einen Streifschuss abgekriegt? Beim Ausräumen eines verlassenen Frachters von einem intergalaktischen Pilz befallen worden? Organversagen nach Besuch in Bobs Imbissbude? Doc Brown hilft &ndash; schnell, unbürokratisch und ohne Fragen zu stellen. Die Güte der Behandlung hängt dabei einzig und alleine vom Kontostand des Patienten ab.
+Einen Streifschuss abgekriegt? Beim Ausräumen eines verlassenen Frachters von einem intergalaktischen Pilz befallen worden? Organversagen nach Besuch in Bobs Imbissbude? Doc Brown hilft – schnell, unbürokratisch und ohne Fragen zu stellen. Die Güte der Behandlung hängt dabei einzig und alleine vom Kontostand des Patienten ab.
 
-Selbstverständlich kauft Doc Brown auch jederzeit Spenderorgane an &ndash; ebenfalls schnell, unbürokratisch und ohne Fragen zu stellen. (Diese Organe benutzt er nicht nur für eigene Operationen, sondern auch für seinen schwunghaften Organhandel: Schnell, unbürokratisch und ohne Fragen zu stellen.)
+Selbstverständlich kauft Doc Brown auch jederzeit Spenderorgane an – ebenfalls schnell, unbürokratisch und ohne Fragen zu stellen. (Diese Organe benutzt er nicht nur für eigene Operationen, sondern auch für seinen schwunghaften Organhandel: Schnell, unbürokratisch und ohne Fragen zu stellen.)
 
 <table data-type="slc">
 <caption>Doc Brown</caption>
@@ -42,7 +42,7 @@ Selbstverständlich kauft Doc Brown auch jederzeit Spenderorgane an &ndash; eben
 </table>
 ### Goons Pub
 
-So mancher fragte sich schon des Öfteren, wo denn die ganzen hirnlosen Schläger herkommen, die ihm von seinen Konkurrenten, gehörnten Ehepartnern und Gläubigern auf den Hals gehetzt werden. Für Freeport lässt sich diese Frage leicht beantworten: Sie kommen aus dem Goons Pub. Jeder, der eine Schmach heimzahlen will oder gewisse Leute auf ausstehende Zahlungen hinweisen möchte, selbst aber nicht über die nötigen Muskeln verfügt, kann diese in diesem heimeligen Loch anheuern &ndash; auf Wunsch lassen sich (gegen geringen Aufpreis) auch Eisenstangen hinzufügen.
+So mancher fragte sich schon des Öfteren, wo denn die ganzen hirnlosen Schläger herkommen, die ihm von seinen Konkurrenten, gehörnten Ehepartnern und Gläubigern auf den Hals gehetzt werden. Für Freeport lässt sich diese Frage leicht beantworten: Sie kommen aus dem Goons Pub. Jeder, der eine Schmach heimzahlen will oder gewisse Leute auf ausstehende Zahlungen hinweisen möchte, selbst aber nicht über die nötigen Muskeln verfügt, kann diese in diesem heimeligen Loch anheuern – auf Wunsch lassen sich (gegen geringen Aufpreis) auch Eisenstangen hinzufügen.
 
 ### Oma Binkels Torteneckchen
 

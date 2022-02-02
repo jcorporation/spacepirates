@@ -8,7 +8,7 @@ title: "(Selbst-)Darsteller"
 
 ## Königin Elisabeth
 
-### &ndash; die Standfeste
+### – die Standfeste
 
 (Hinter ihrem Rücken nennen ihre Verwandten sie auch &bdquo;Mama Diktatora&ldquo;). Sie regiert seit 300 Jahren und denkt gar nicht ans Aufhören. Irgendwann war sie auch mal verheiratet, aber niemand weiß genau, wann und mit wem. Ihren Sohn Wagonion behandelt sie wie einen Untergebenen. Elisabeth liebt ihren Lord Chamberlain Alfred, was sie aber niemals zugeben würde. Er übrigens auch nicht.
 
@@ -22,7 +22,7 @@ title: "(Selbst-)Darsteller"
 </table>
 ## Kronprinz Wagonion
 
-### &ndash; der ewige Kronprinz
+### – der ewige Kronprinz
 
 Wartet seit 50 Jahren darauf, dass seine Mutter endlich in Rente geht. Oder abdankt. Oder den Planeten auf einer geheimen Mission verlässt. Hauptsache, er darf endlich mal ans Ruder und dafür sorgen, dass die Dinge laufen, wie er sie für richtig hält. Sein Alter Ego, Sir Hat, ist eine Mischung aus Superschurke, Superheld und Supermuttersöhnchen.
 
@@ -36,7 +36,7 @@ Wartet seit 50 Jahren darauf, dass seine Mutter endlich in Rente geht. Oder abda
 </table>
 ## Prinzessin Lea
 
-### &ndash; das &bdquo;Juwel von Xawang&ldquo;
+### – das &bdquo;Juwel von Xawang&ldquo;
 
 Hält ihren Vater Wagonion für eine Schnarchnase, hat dafür aber ein gutes Verhältnis zu ihrer Großmutter. Lea ist keine typische Prinzessin, sie wäre am liebsten Space Piratin oder, noch besser, Thronfolgerin anstelle des Thronfolgers.
 
@@ -119,7 +119,7 @@ Eine berühmte Sängerin, Bäämlers Muse. Exaltierte Person, die ständig Outfi
 </table>
 ## Willibert von Wagonien
 
-Leas Cousin, engagierter Umweltschützer &ndash; also engagierter als der Durchschnittswagone. Möchte gern König anstelle der Königin sein. Und Kronprinz anstelle des Kronprinzen.
+Leas Cousin, engagierter Umweltschützer – also engagierter als der Durchschnittswagone. Möchte gern König anstelle der Königin sein. Und Kronprinz anstelle des Kronprinzen.
 
 <table>
 <tbody>

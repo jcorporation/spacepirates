@@ -134,42 +134,42 @@ Stardust beginnt, da er näher beim Spielleiter sitzt als Xenur und beide die me
 
 ##### Runde 1:
 
-- **Stardust &ndash; 1 Erfolg:** Er manövriert das Piratenschiff auf einen Abfangkurs, so dass das Frachtschiff nur Richtung Asteroidengürtel zurückweichen kann.
-- **Xenur &ndash; 2 Erfolge:** Er feuert mit seiner Plasmakanone auf den Frachter und die Schilde brechen zusammen. Der Schadensmodifikator der Plasmakanone beträgt 2, daher sinkt der Schildwert um 4 Punkte.
-- **Spielleiter &ndash; 1 Misserfolg:** Der Pilot schafft es nicht den Frachter außer Schussreichweite zu bekommen.
-- **Spielleiter &ndash; 1 Erfolg:** Der Bordschütze feuert ein Torpedo ab und kann das Piratenschiff auf Abstand halten. Der Schildwert des Piratenschiffs sinkt um 1 Punkt.
-- **Spielleiter &ndash; 1 Erfolg:** Der Tech des Schiffs kann den überhitzten Feldgenerator überbrücken und so die Schilde wieder hochfahren.
-- **Chen &ndash; 1 Misserfolg:** Sie feuert mit der Laserkanone, aber genau in dem Moment schlägt das Torpedo ein und sie schießt daher daneben.
-- **Drake &ndash; 2 Misserfolge:** Er hetzt in den Maschinenraum und stolpert ganz blöd über einen seiner Rumkisten und deaktiviert dadurch die Schilde.
+- **Stardust – 1 Erfolg:** Er manövriert das Piratenschiff auf einen Abfangkurs, so dass das Frachtschiff nur Richtung Asteroidengürtel zurückweichen kann.
+- **Xenur – 2 Erfolge:** Er feuert mit seiner Plasmakanone auf den Frachter und die Schilde brechen zusammen. Der Schadensmodifikator der Plasmakanone beträgt 2, daher sinkt der Schildwert um 4 Punkte.
+- **Spielleiter – 1 Misserfolg:** Der Pilot schafft es nicht den Frachter außer Schussreichweite zu bekommen.
+- **Spielleiter – 1 Erfolg:** Der Bordschütze feuert ein Torpedo ab und kann das Piratenschiff auf Abstand halten. Der Schildwert des Piratenschiffs sinkt um 1 Punkt.
+- **Spielleiter – 1 Erfolg:** Der Tech des Schiffs kann den überhitzten Feldgenerator überbrücken und so die Schilde wieder hochfahren.
+- **Chen – 1 Misserfolg:** Sie feuert mit der Laserkanone, aber genau in dem Moment schlägt das Torpedo ein und sie schießt daher daneben.
+- **Drake – 2 Misserfolge:** Er hetzt in den Maschinenraum und stolpert ganz blöd über einen seiner Rumkisten und deaktiviert dadurch die Schilde.
 
 ##### Runde 2:
 
-- **Stardust &ndash; 1 Misserfolg:** Er verschaltet sich grandios und würgt den Neutritiumreaktor ab und kracht fast rückwärts in den Asteroidengürtel.
-- **Xenur &ndash; 1 Misserfolg:** Er feuert wieder mit der Plasmakanone auf den Frachter. Der Schuss geht wegen dem Ruckler von Stardust daneben und zertrümmert einen Asteroiden.
-- **Spielleiter &ndash; 1 Erfolg:** Der Pilot nutzt die Asteroidentrümmer um etwas Abstand zum Piratenschiff zu gewinnen und Zeit zu haben den FTL zu starten (dauert 2 Runden).
-- **Spielleiter &ndash; 1 Erfolg, 1 Misserfolg:** Der Bordschütze erkennt die deaktivieren Schilde und feuert gleich 2 Torpedos ab, leider trifft nur eines. Das Piratenschiff nimmt 1 Punkt Schaden.
-- **Spielleiter &ndash; 2 Erfolge:** Der Tech schaltet die beiden Aetiriumkristallbänke parallel und kann so den Start des FTL um eine Runde verkürzen.
-- **Chen &ndash; 2 Erfolge:** Der erste Schuss macht 1 Schadenspunkt auf die Schilde, deren Schildwert auf 0 sinkt und somit für den Kampf unbrauchbar sind, der zweite Schuss trifft den FTL-Antrieb und er explodiert eindrucksvoll. Der Frachter nimmt einen Schadenspunkt.
-- **Drake &ndash; 2 Erfolge:** Er schaltet gerade noch rechtzeitig die Schilde wieder an, damit die Explosion keinen Schaden am Piratenschiff anrichtet. Zudem kann er gerade noch den Neutritiumreaktor stabilisieren.
+- **Stardust – 1 Misserfolg:** Er verschaltet sich grandios und würgt den Neutritiumreaktor ab und kracht fast rückwärts in den Asteroidengürtel.
+- **Xenur – 1 Misserfolg:** Er feuert wieder mit der Plasmakanone auf den Frachter. Der Schuss geht wegen dem Ruckler von Stardust daneben und zertrümmert einen Asteroiden.
+- **Spielleiter – 1 Erfolg:** Der Pilot nutzt die Asteroidentrümmer um etwas Abstand zum Piratenschiff zu gewinnen und Zeit zu haben den FTL zu starten (dauert 2 Runden).
+- **Spielleiter – 1 Erfolg, 1 Misserfolg:** Der Bordschütze erkennt die deaktivieren Schilde und feuert gleich 2 Torpedos ab, leider trifft nur eines. Das Piratenschiff nimmt 1 Punkt Schaden.
+- **Spielleiter – 2 Erfolge:** Der Tech schaltet die beiden Aetiriumkristallbänke parallel und kann so den Start des FTL um eine Runde verkürzen.
+- **Chen – 2 Erfolge:** Der erste Schuss macht 1 Schadenspunkt auf die Schilde, deren Schildwert auf 0 sinkt und somit für den Kampf unbrauchbar sind, der zweite Schuss trifft den FTL-Antrieb und er explodiert eindrucksvoll. Der Frachter nimmt einen Schadenspunkt.
+- **Drake – 2 Erfolge:** Er schaltet gerade noch rechtzeitig die Schilde wieder an, damit die Explosion keinen Schaden am Piratenschiff anrichtet. Zudem kann er gerade noch den Neutritiumreaktor stabilisieren.
 
 ##### Runde 3:
 
-- **Stardust &ndash; 1 Erfolg, 1 Misserfolg:** Ihn irritieren die Asteroidentrümmer kann ihnen gerade noch so ausweichen und das Piratenschiff auf Kurs fürs Entern bringen.
-- **Xenur &ndash; 1 Erfolg, 1 Misserfolg:** Er feuert weiter auf den Frachter, kann die Bordwaffe ausschalten, aber auch der Frachtraum des Frachters brennt jetzt lichterloh. Der Frachter nimmt 2 Schadenspunkte.
-- **Spielleiter &ndash; 1 Erfolg:** Der Pilot weicht erfolgreich einem der Asteroidentrümmer aus.
-- **Spielleiter &ndash; 1 Misserfolg:** Der Bordschütze will einen weiteren Torpedo abfeuern, als gerade der Schuss Xenurs einschlägt und die Abschussrampe explodieren lässt.
-- **Spielleiter &ndash; 1 Erfolg, 1 Misserfolg:** Der Tech kann den Frachtraum abschotten damit das Feuer nicht übergreift, aber anscheinend sind auch die Feuerlöscher defekt.
-- **Chen &ndash; 1 Misserfolg:** Sie ist geblendet von der Explosion und daher geht ihr Schuss daneben.
+- **Stardust – 1 Erfolg, 1 Misserfolg:** Ihn irritieren die Asteroidentrümmer kann ihnen gerade noch so ausweichen und das Piratenschiff auf Kurs fürs Entern bringen.
+- **Xenur – 1 Erfolg, 1 Misserfolg:** Er feuert weiter auf den Frachter, kann die Bordwaffe ausschalten, aber auch der Frachtraum des Frachters brennt jetzt lichterloh. Der Frachter nimmt 2 Schadenspunkte.
+- **Spielleiter – 1 Erfolg:** Der Pilot weicht erfolgreich einem der Asteroidentrümmer aus.
+- **Spielleiter – 1 Misserfolg:** Der Bordschütze will einen weiteren Torpedo abfeuern, als gerade der Schuss Xenurs einschlägt und die Abschussrampe explodieren lässt.
+- **Spielleiter – 1 Erfolg, 1 Misserfolg:** Der Tech kann den Frachtraum abschotten damit das Feuer nicht übergreift, aber anscheinend sind auch die Feuerlöscher defekt.
+- **Chen – 1 Misserfolg:** Sie ist geblendet von der Explosion und daher geht ihr Schuss daneben.
 - **Drake setzt diese Runde aus**.
 
 ##### Runde 4:
 
-- **Stardust &ndash; 2 Erfolge:** Er dockt das Piratenschiff mittels der Enterschleuse an den Frachter an, entert ihn als erster und kann den Tech ausschalten.
-- **Xenur &ndash; 1 Erfolg, 1 Misserfolg:** Er entert als zweiter den Frachter, kann den Bordschützen ausschalten, aber steht vor einer versiegelten Brücke.
-- **Spielleiter &ndash; 1 Misserfolg:** Der Pilot versucht erfolglos, das Schiff von der Enterschleuse loszureißen.
-- **Spielleiter &ndash; 1 Misserfolg:** Der Bordschütze ist entwaffnet und ergibt sich.
-- **Spielleiter &ndash; 2 Misserfolge:** Der Tech steht verzweifelt vor seinen Konsolen, kann nichts mehr unternehmen und ergibt sich.
-- **Chen &ndash; 1 Erfolg:** Sie entert auch den Frachter, schießt die Tür der Brücke auf und setzt den Piloten fest.
-- **Drake &ndash; 2 Misserfolge:** Er nimmt noch einen Schluck aus seiner Rumflasche, eilt die Treppe hoch, aber der Kampf ist schon zu Ende, als er eintrifft. Er schlägt wütend gegen eine Konsole und löst dadurch die Selbstzerstörung des gekaperten Frachters aus.
+- **Stardust – 2 Erfolge:** Er dockt das Piratenschiff mittels der Enterschleuse an den Frachter an, entert ihn als erster und kann den Tech ausschalten.
+- **Xenur – 1 Erfolg, 1 Misserfolg:** Er entert als zweiter den Frachter, kann den Bordschützen ausschalten, aber steht vor einer versiegelten Brücke.
+- **Spielleiter – 1 Misserfolg:** Der Pilot versucht erfolglos, das Schiff von der Enterschleuse loszureißen.
+- **Spielleiter – 1 Misserfolg:** Der Bordschütze ist entwaffnet und ergibt sich.
+- **Spielleiter – 2 Misserfolge:** Der Tech steht verzweifelt vor seinen Konsolen, kann nichts mehr unternehmen und ergibt sich.
+- **Chen – 1 Erfolg:** Sie entert auch den Frachter, schießt die Tür der Brücke auf und setzt den Piloten fest.
+- **Drake – 2 Misserfolge:** Er nimmt noch einen Schluck aus seiner Rumflasche, eilt die Treppe hoch, aber der Kampf ist schon zu Ende, als er eintrifft. Er schlägt wütend gegen eine Konsole und löst dadurch die Selbstzerstörung des gekaperten Frachters aus.
 {% endcapture %}
 {% include beispiel.md title="Beispiel für einen Raumkampf" body=include_body %}

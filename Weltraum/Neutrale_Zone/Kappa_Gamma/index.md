@@ -22,7 +22,7 @@ Kappa Gamma liegt mitten in der neutralen Zone und zieht seine einsamen Kreise u
 
 Auf dem nuklear verseuchten Planeten Kappa Gamma wohnen nur Roboter. Es gibt zwei Parteien: Die Roboter, die die Kappa-KI als ihren Gott verehren, und die Roboter, die die Gamma-KI als ihren Gott verehren. Beide Parteien sind unversöhnlich und führen einen endlos scheinenden Krieg gegeneinander.
 
-Die Roboter sind Ungetüme auf Rädern, Ketten oder Stelzen. Sie verfügen über Greifarme, Laser oder Raketengeschosse und werden mit allen möglichen Energiequellen angetrieben &ndash; es gibt Roboter mit eingebauten Atomkraftwerken, mit Solarzellen und sogar welche mit Windrädern. Ihre Gehirne sind aber wesentlich weiterentwickelt, so dass jeder Roboter eigenständig denken und handeln kann und über eine begrenzte Anzahl von Gefühlen verfügt. Natürlich sind die beiden KIs noch wesentlich weiter entwickelt.
+Die Roboter sind Ungetüme auf Rädern, Ketten oder Stelzen. Sie verfügen über Greifarme, Laser oder Raketengeschosse und werden mit allen möglichen Energiequellen angetrieben – es gibt Roboter mit eingebauten Atomkraftwerken, mit Solarzellen und sogar welche mit Windrädern. Ihre Gehirne sind aber wesentlich weiterentwickelt, so dass jeder Roboter eigenständig denken und handeln kann und über eine begrenzte Anzahl von Gefühlen verfügt. Natürlich sind die beiden KIs noch wesentlich weiter entwickelt.
 
 - [Geschichte]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappa_Gamma/Geschichte)
 - [Kappa]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa)

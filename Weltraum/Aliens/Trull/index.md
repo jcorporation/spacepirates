@@ -16,7 +16,7 @@ Die Trull sehen aus wie aufrecht gehende Käfer und besitzen zwischen vier und s
 
 Ihr Heimatplanet ist Trullmania, der in der Nähe des Großen Spiralnebels von Trull liegt. Die Trull werden von einem gewählten zehnköpfigen Rat regiert, jedes Ratsmitglied repräsentiert ein großes Geschlecht der Trull.
 
-Der Handel ist die große Leidenschaft der Trull, weshalb sie ihren Gott des Handels auch als höchsten aller Götter verehren &ndash; ohne dabei allerdings ihre anderen Götter zu vernachlässigen. Ihre Schiffe, die wie große Käfer aussehen, sind innen wie außen stets mit religiösen Motiven und Reliquien geschmückt.
+Der Handel ist die große Leidenschaft der Trull, weshalb sie ihren Gott des Handels auch als höchsten aller Götter verehren – ohne dabei allerdings ihre anderen Götter zu vernachlässigen. Ihre Schiffe, die wie große Käfer aussehen, sind innen wie außen stets mit religiösen Motiven und Reliquien geschmückt.
 
 Diese tiefe Religiosität bringt sie in stetigen Konflikt mit den Samnesen, weil diese meinen, ihre Körper verbessern zu können und so, in den Augen der Trull, den Göttern freveln. Das ohnehin gespannte Verhältnis zu den Samnesen schlug in einen offenen Krieg um, nachdem ein Trullschiff durch samnesische Einwirkung zerstört worden war. Derzeit ruhen die Kampfhandlungen, könnten aber jederzeit wieder ausbrechen.
 

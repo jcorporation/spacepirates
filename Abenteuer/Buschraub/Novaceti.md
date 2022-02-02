@@ -56,9 +56,9 @@ Die Piraten besitzen nur eine Beschreibung und eine grobe Skizze von Vox Rubusch
 <tr><th>W10</th><th>Pflanze</th></tr>
 </thead>
 <tbody>
-<tr><td>1&ndash;3</td><td>1W10 Kobrablumen</td></tr>
-<tr><td>4&ndash;6</td><td>1W6 Schlingpflanzen</td></tr>
-<tr><td>7&ndash;9</td><td>Treibmoos</td></tr>
+<tr><td>1–3</td><td>1W10 Kobrablumen</td></tr>
+<tr><td>4–6</td><td>1W6 Schlingpflanzen</td></tr>
+<tr><td>7–9</td><td>Treibmoos</td></tr>
 <tr><td>0</td><td>1W4 Killerweiden</td></tr>
 </tbody>
 </table>

@@ -37,7 +37,7 @@ Auf dem ganzen Planeten verteilt gibt es Eingänge zum Dungeon, die praktischerw
 
 ## Der Eingang zum Dungeon
 
-Der Eingang liegt offen mit klarer Einsicht zu einem Raumschifflandeplatz. Der Übergang von der Planetenoberfläche zum Dungeoninneren ist abrupt. Einen Moment sind die Lichter des Raumschiffs noch zu sehen, im nächsten, schwupps, sind sie weg. Gleichzeitig fängt die Technik an, verrückt zu spielen &ndash; es ist so, als hätten plötzlich alle technischen Geräte leichte Macken. (Ein Wurf auf der Mackentabelle ist nur beim ersten Gebrauch erforderlich, außerdem nur bei futuristischen Gegenständen.)
+Der Eingang liegt offen mit klarer Einsicht zu einem Raumschifflandeplatz. Der Übergang von der Planetenoberfläche zum Dungeoninneren ist abrupt. Einen Moment sind die Lichter des Raumschiffs noch zu sehen, im nächsten, schwupps, sind sie weg. Gleichzeitig fängt die Technik an, verrückt zu spielen – es ist so, als hätten plötzlich alle technischen Geräte leichte Macken. (Ein Wurf auf der Mackentabelle ist nur beim ersten Gebrauch erforderlich, außerdem nur bei futuristischen Gegenständen.)
 
 <table>
 <thead>
