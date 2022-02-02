@@ -24,17 +24,17 @@ Die Barrikade kann mit 4 Erfolgen auf Söldner eingerissen werden.
 </table>
 Die Elfen beißen, treten gegen das Schienbein und hauen mit ihren Protestschildern um sich.
 
-Wenn mit den Elfen geredet wird, grölen sie Parolen wie &bdquo;Nieder mit dem Roten!&ldquo;, &bdquo;Keine Ausbeutung an Weihnachten!&ldquo;, &bdquo;Rie Rie! Rah Rah! Nieder mit San-ta!&ldquo; usw.
+Wenn mit den Elfen geredet wird, grölen sie Parolen wie „Nieder mit dem Roten!“, „Keine Ausbeutung an Weihnachten!“, „Rie Rie! Rah Rah! Nieder mit San-ta!“ usw.
 
 Versuchen die Spieler mit Händler (4 Erfolge) Information aus den Elfen herauszulocken, erfahren sie Folgendes:
 
-Die Elfen lieben ihren alten Arbeitsrhythmus – 364 Tage schuften, Weihnachten frei. Jetzt sind ihre Fließbandjobs &bdquo;outgesourced&ldquo; und Santa will sie ins Callcenter stecken, um Abwicklung und Logistik zu koordinieren, mit Hotlinesupport am Heiligen Abend! Außerdem handelt es sich dabei um unelfische Arbeitsvorgänge ohne Hämmer, Sägen, und falsch gesungen darf auch nicht werden. Santa benimmt sich seit einiger Zeit (mal wieder) merkwürdig.
+Die Elfen lieben ihren alten Arbeitsrhythmus – 364 Tage schuften, Weihnachten frei. Jetzt sind ihre Fließbandjobs „outgesourced“ und Santa will sie ins Callcenter stecken, um Abwicklung und Logistik zu koordinieren, mit Hotlinesupport am Heiligen Abend! Außerdem handelt es sich dabei um unelfische Arbeitsvorgänge ohne Hämmer, Sägen, und falsch gesungen darf auch nicht werden. Santa benimmt sich seit einiger Zeit (mal wieder) merkwürdig.
 
 ## In der Fabrik
 
 <p>Dringen die Spieler in die Fabrik ein (z.B. um Geschenke zu stehlen, Arrrr!), finden sie die Fließbänder leer vor und auch keine vorbereiteten Geschenke. Elfen stehen an brennenden Glührumfässern und wärmen sich die Hände.<br/>
 <br/>
-Im Bürogebäude sitzt im Vorzimmer eine streikbrechende Elfendame (ihr ging das Singen eh schon immer auf die Nerven) und feilt sich die Nägel. Auf Anfrage ist &bdquo;Mr Claus&ldquo; oder &bdquo;der CEO&ldquo; in einer Besprechung. Bedrohen die Piraten sie, ruft sie die Security – 3-4 Wagonen mit Laserpistolen stürmen in den Raum:</p>
+Im Bürogebäude sitzt im Vorzimmer eine streikbrechende Elfendame (ihr ging das Singen eh schon immer auf die Nerven) und feilt sich die Nägel. Auf Anfrage ist „Mr Claus“ oder „der CEO“ in einer Besprechung. Bedrohen die Piraten sie, ruft sie die Security – 3-4 Wagonen mit Laserpistolen stürmen in den Raum:</p>
 <table>
 <tbody>
 <tr><th colspan="2">Wagonenwache</th></tr>
@@ -47,7 +47,7 @@ Die Spieler können die Sekretärin belabern (Händler – 5 Würfel, Zähigkeit
 
 ## Santa
 
-<p>Santa finden die Spieler im 3. Stock, 2. Trakt. Er befindet sich in einem Büro hinter einer Doppeltür aus Mahagoni. Im Büro befindet sich ein sehr langer, leerer Konferenztisch – immerhin mit einem Adventskranz in der Mitte. Santa befindet sich am anderen Ende und redet wild auf mehrere Bildschirme ein, mit dem Rücken zur Gruppe. Santa ignoriert die Gruppe und redet von &bdquo;Effizienzgewinnen&ldquo;, &bdquo;Kopfzahloptimierung&ldquo;, &bdquo;Auslagerung&ldquo;, &bdquo;Synergieeffekten&ldquo;, &bdquo;Auslastungsproblemen&ldquo;, &bdquo;neuen Geschäftsbereichen&ldquo; und &bdquo;diesen verdammten Zulieferern.&ldquo;<br/>
+<p>Santa finden die Spieler im 3. Stock, 2. Trakt. Er befindet sich in einem Büro hinter einer Doppeltür aus Mahagoni. Im Büro befindet sich ein sehr langer, leerer Konferenztisch – immerhin mit einem Adventskranz in der Mitte. Santa befindet sich am anderen Ende und redet wild auf mehrere Bildschirme ein, mit dem Rücken zur Gruppe. Santa ignoriert die Gruppe und redet von „Effizienzgewinnen“, „Kopfzahloptimierung“, „Auslagerung“, „Synergieeffekten“, „Auslastungsproblemen“, „neuen Geschäftsbereichen“ und „diesen verdammten Zulieferern.“<br/>
 <br/>
 Santa wird die Spieler so lange ignorieren, bis sie seine Aufmerksamkeit erregen – Computer ausschalten per Stecker ziehen (Piratenwürfel für den Stecker), Santa überwältigen (Söldner 6, Zähigkeit 4) o.ä. Er wird aber weiter wirres Zeug reden. Santa hat außergewöhnlich rote Backen und einen glasigen Blick. (Symptome, s.u.)</p>
 ### Folgende Information ist bei Santa zu bekommen:

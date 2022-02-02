@@ -18,7 +18,7 @@ Der Großmeister eines Ninjaclans ist spurlos verschwunden. Natürlich sucht der
 
 ## Manipulation eines Ninja-Turniers
 
-Die Piraten erhalten von einem SpaceMafiosi den Auftrag, das große Ninja-Turnier &bdquo;Schattenkampf&ldquo; zu manipulieren. Sie sollen dafür sorgen, dass ein eher schwacher Kämpfer des Leiser-Wind-des-Schicksals-Dojos den 1. Platz erreicht. Dazu müssen sie den Kämpfer aufmuntern und seine Gegner schwächen – ein schwieriges Unterfangen, denn die Teilnehmer werden gut bewacht und stehen im Mittelpunkt des öffentlichen Interesses.
+Die Piraten erhalten von einem SpaceMafiosi den Auftrag, das große Ninja-Turnier „Schattenkampf“ zu manipulieren. Sie sollen dafür sorgen, dass ein eher schwacher Kämpfer des Leiser-Wind-des-Schicksals-Dojos den 1. Platz erreicht. Dazu müssen sie den Kämpfer aufmuntern und seine Gegner schwächen – ein schwieriges Unterfangen, denn die Teilnehmer werden gut bewacht und stehen im Mittelpunkt des öffentlichen Interesses.
 
 ## Wirtschaftsspionage
 

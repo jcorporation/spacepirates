@@ -68,9 +68,9 @@ Die Universalenergiezelle, kurz UEZ, speichert Energie äußerst effizient, port
 
 Ihre Erfindung ist ein Abfallprodukt der FTL-Forschung. Bei der Produktion von Aetiriumkristall entstehen auch Antinitiumkristalle. Diese haben die Eigenschaft, Energie aufzunehmen und dadurch in einen Ruhezustand zu gelangen. Wenn sie allerdings mit anderen Antinitiumkristallen in Kontakt kommen, versetzen sie sich gegenseitig in Schwingungen und geben so wieder Energie ab.
 
-Diese Abgabe lässt sich hervorragend dosieren, indem man die Anzahl der schwingenden Kristalle verändert. Aus diesem Grund lassen sich auch problemlos Geräte mit unterschiedlichstem Energiebedarf anschließen: Taschenlampen brennen nahezu unendlich lange, bei einer auf &bdquo;Asche zu Asche&ldquo; eingestellten Strahlenwaffe ist die Zelle nach einem Schuss entladen.
+Diese Abgabe lässt sich hervorragend dosieren, indem man die Anzahl der schwingenden Kristalle verändert. Aus diesem Grund lassen sich auch problemlos Geräte mit unterschiedlichstem Energiebedarf anschließen: Taschenlampen brennen nahezu unendlich lange, bei einer auf „Asche zu Asche“ eingestellten Strahlenwaffe ist die Zelle nach einem Schuss entladen.
 
-Zum Einschalten wird ein kurzer elektrischer Impuls benötigt. Bei modernen Apparaten reicht hierfür die Bioelektrizität des Anwenders aus, bei älteren Modellen ist zur Unterstützung ein Piezo-Mechanismus erforderlich, der bei Betätigung ein lautes &bdquo;Klick&ldquo; von sich gibt.
+Zum Einschalten wird ein kurzer elektrischer Impuls benötigt. Bei modernen Apparaten reicht hierfür die Bioelektrizität des Anwenders aus, bei älteren Modellen ist zur Unterstützung ein Piezo-Mechanismus erforderlich, der bei Betätigung ein lautes „Klick“ von sich gibt.
 
 
 

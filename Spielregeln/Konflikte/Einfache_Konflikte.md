@@ -16,7 +16,7 @@ Wenn die obige Vorgehensweise für einen Konflikt zu aufwendig erscheint und die
 {% endcapture %}
 {% include hinweis.md title="Typische einfache Konflikte" body=include_body %}
 
-Ein einfacher Konflikt wird wie eine Konfliktszene behandelt, nur der Punkt &bdquo;Was genau ist geschehen?&ldquo; wird übersprungen. Die siegreiche Partei fügt die Differenz der Erfolge der Gegenpartei zu.
+Ein einfacher Konflikt wird wie eine Konfliktszene behandelt, nur der Punkt „Was genau ist geschehen?“ wird übersprungen. Die siegreiche Partei fügt die Differenz der Erfolge der Gegenpartei zu.
 
 Bei einem einfachen Konflikt, der gegen ein passives Hindernis ausgeführt wird, kann der Spielleiter auch eine Mindestzahl an Erfolgen festlegen, die die Partei erreichen muss. Erreicht sie die nötigen Erfolge, gewinnt sie den Konflikt. Erreicht sie die nötigen Erfolge nicht, sinkt die Zähigkeit des verwendeten Profils um die Punkte, die zu einem Erfolg fehlen.
 

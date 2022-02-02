@@ -20,7 +20,7 @@ Die zweite Ebene beherbergt die Wärter, ihre Quartiere, Aufenthaltsräume, Küc
 
 ## Ebene 3
 
-Auf der &bdquo;Willkommensebene&ldquo; findet man den Ankunfts- und Säuberungsbereich für neue Insassen. Moderne Scanner sollen alle Schmuggelversuche aufdecken. Man gelangt direkt über einen Tunnel aus der ersten Ebene hierher, über den Insassen vom Schiff ins Gefängnis gelangen. Des Weiteren führen Tunnel in die 4. und 5. Ebene.
+Auf der „Willkommensebene“ findet man den Ankunfts- und Säuberungsbereich für neue Insassen. Moderne Scanner sollen alle Schmuggelversuche aufdecken. Man gelangt direkt über einen Tunnel aus der ersten Ebene hierher, über den Insassen vom Schiff ins Gefängnis gelangen. Des Weiteren führen Tunnel in die 4. und 5. Ebene.
 
 ## Ebenen 4 - 5
 

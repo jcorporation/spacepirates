@@ -12,7 +12,7 @@ In diesem Sektor gibt es eine zentrale Sonne, um der ein einsamer, kleiner Plane
 
 Die Nazis haben schon einmal jemand aus dem Wurmloch kommen sehen und daher eine Falle installiert: einen gigantischer Dauermagnet. Der Pilot muss eine PILOTEN-Probe mit 5 Erfolgen schaffen, sonst haftet das Raumschiff an dem Riesenmagneten und kommt mit seinem herkömmlichen Antrieb nicht mehr frei.
 
-Der momentan Führer des Reiches ist General Kräuter, weshalb die momentane Grußformel &bdquo;Heil Kräuter&ldquo; ist. Das Hakenkreuz ist das einzige Gebäude auf dem Planeten und ist in die Bereiche Wohneinheiten und Freizeit, Militär und Führungsstab, Forschung und Entwicklung unterteilt.
+Der momentan Führer des Reiches ist General Kräuter, weshalb die momentane Grußformel „Heil Kräuter“ ist. Das Hakenkreuz ist das einzige Gebäude auf dem Planeten und ist in die Bereiche Wohneinheiten und Freizeit, Militär und Führungsstab, Forschung und Entwicklung unterteilt.
 
 Es sind gerade die Feierlichkeiten zum 1000-jährigen Reichsbestehen im Gange. Mit prachtvollen militärischen Paraden, Volksfesten und Sonderausstellungen. Eine davon zeigt den Sender des Wurmlochdemodulators als Symbol des Siegs über die Eindringlinge aus dem Wurmloch. Selbstverständlich wird der Sender gut geschützt und bereits auf Pläne zum Diebstahl steht die Todesstrafe. Als Höhepunkt der Feierlichkeiten ist die zeremonielle Vollendung der Walküre geplant. Dafür wird das Wurmlochdemodulatorteil in einer Parade zur Walküre getragen und von Kräuter persönlich montiert, so dass die Walküre endlich fliegen wird!
 

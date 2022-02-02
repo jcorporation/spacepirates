@@ -10,7 +10,7 @@ title: SpaceWorms
 
 Wenn man einen SpaceWorm trifft, fühlt man sich sofort an 1 m große, aufrecht kriechende Würmer mit menschlichen Gesichtszügen und Armen erinnert. Sie tragen keine Kleidung außer einem Hut. Zudem wird man mit Sicherheit in Rauch gehüllt, denn SpaceWorms sind notorische Kettenraucher und paffen von Zigaretten über Zigarren, Pfeifen, Shishas zu Bongs einfach alles, worin man Tabak oder Rauschmittel verbrennen kann. Essen und Trinken sieht man sie nie, sie ernähren sich vom Tabakrauch, der auf andere Rassen stark berauschend wirkt.
 
-SpaceWorms gelten gemeinhin als äußerst schlau und gerissen, was sie zu außergewöhnlich guten Händlern macht. Im Volksmund heißt es daher auch: &bdquo;Handle nie mit einem SpaceWorm, denn du wirst eh betrogen.&ldquo; Angeblich kaufen oder entführen sie zudem hübsche menschliche Frauen, um sie in ihren Harem einzugliedern.
+SpaceWorms gelten gemeinhin als äußerst schlau und gerissen, was sie zu außergewöhnlich guten Händlern macht. Im Volksmund heißt es daher auch: „Handle nie mit einem SpaceWorm, denn du wirst eh betrogen.“ Angeblich kaufen oder entführen sie zudem hübsche menschliche Frauen, um sie in ihren Harem einzugliedern.
 
 Die Kultur der SpaceWorms erinnert an die mittelalterliche orientalische Welt der Erde. Sie lieben Shishas, Wandteppiche und fluffige Vorhänge. Auch Gold, Silber und Diamanten ziehen sie magisch an, die Schatzkammer jedes SpaceWorm-Kalifen ist voll davon. Natürlich sind auch alle möglichen und unmöglichen Gegenstände vergoldet und versilbert. Zudem lieben sie auch hübsche menschliche Frauen, die sie in ihrem Harem halten, und beschäftigen menschliche Eunuchen als Diener. Wenn man eine SpaceWorms-Raumstation betritt, fühlt man sich sofort wie in einem Märchen aus Tausendundeiner Nacht.
 
@@ -36,7 +36,7 @@ Es gibt alte Legenden und Märchen der SpaceWorms, in denen sie als ausgestoßen
 <div class="anmerkung">
 ## Forscher entdeckt neue Wunderdroge
 
-Ein SpaceWorm-Forscher extrahierte den Wirkstoff aus Vox Rubusch. Eris zu seinem Erfolg: &bdquo;Ich werde die Schulmedizin revolutionieren!&ldquo; Experten der Intergalaktischen Arzneimittelbehörde zweifeln daran: &bdquo;Zuerst muss sich der Wirkstoff in Anwendungsstudien bewähren.&ldquo;
+Ein SpaceWorm-Forscher extrahierte den Wirkstoff aus Vox Rubusch. Eris zu seinem Erfolg: „Ich werde die Schulmedizin revolutionieren!“ Experten der Intergalaktischen Arzneimittelbehörde zweifeln daran: „Zuerst muss sich der Wirkstoff in Anwendungsstudien bewähren.“
 
 </div>
 </aside>

@@ -8,7 +8,7 @@ title: Einstieg
 
 ## Der Planet
 
-Um den Planeten DU-3864366 patrouillieren in großem Abstand zwei Schiffe des Handelsrates. Sie funken anfliegende Schiffe an, dass der Planet ein Sperrgebiet ist und fordern sie auf, das Gebiet &bdquo;zu ihrer eigenen Sicherheit&ldquo; zu verlassen. Wenn es zu einem Kampf kommt, setzen die Schiffe einen Hilferuf ab und fliehen, sobald sie einen ernsten Treffer einstecken mussten. Es ist aber auch recht einfach möglich, sie zu umfliegen oder davon zu überzeugen, dass man da sein darf.
+Um den Planeten DU-3864366 patrouillieren in großem Abstand zwei Schiffe des Handelsrates. Sie funken anfliegende Schiffe an, dass der Planet ein Sperrgebiet ist und fordern sie auf, das Gebiet „zu ihrer eigenen Sicherheit“ zu verlassen. Wenn es zu einem Kampf kommt, setzen die Schiffe einen Hilferuf ab und fliehen, sobald sie einen ernsten Treffer einstecken mussten. Es ist aber auch recht einfach möglich, sie zu umfliegen oder davon zu überzeugen, dass man da sein darf.
 
 ### Patrouillenschiffe
 
@@ -56,7 +56,7 @@ Der Eingang liegt offen mit klarer Einsicht zu einem Raumschifflandeplatz. Der �
 <tr><td>0</td><td>keine Macke</td></tr>
 </tbody>
 </table>
-Jeder Raum im Dungeon hat einen Scanner eingebaut, der nach Eindringlingen scannt. Sobald die Piraten einen Raum betreten, fährt zunächst ein Sensor aus der Decke, löst eine rotes Lichtgitter aus, das den ganzen Raum durchleuchtet, und dann meldet: &bdquo;Eindringlinge entdeckt. Gegner senden.&ldquo; (gerade Zahlen auf 1W10) oder &bdquo;Keine Eindringlinge entdeckt&ldquo; (ungerade Zahlen auf 1W10). Wenn der Scanner Eindringlinge erkennt, materialisieren kurz darauf so viele Gegner im Raum, wie die Piratengruppe Mitglieder hat.
+Jeder Raum im Dungeon hat einen Scanner eingebaut, der nach Eindringlingen scannt. Sobald die Piraten einen Raum betreten, fährt zunächst ein Sensor aus der Decke, löst eine rotes Lichtgitter aus, das den ganzen Raum durchleuchtet, und dann meldet: „Eindringlinge entdeckt. Gegner senden.“ (gerade Zahlen auf 1W10) oder „Keine Eindringlinge entdeckt“ (ungerade Zahlen auf 1W10). Wenn der Scanner Eindringlinge erkennt, materialisieren kurz darauf so viele Gegner im Raum, wie die Piratengruppe Mitglieder hat.
 
 Es ist nicht nötig, die Gegner zu töten. Man kann sie auch hereinlegen, sie sind allesamt ziemlich leichtgläubig. In vielen Fällen ist es sinnvoll, mit anderen Profilen als SÖLDNER zu kämpfen.
 

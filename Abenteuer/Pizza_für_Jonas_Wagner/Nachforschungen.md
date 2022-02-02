@@ -8,7 +8,7 @@ title: Nachforschungen
 
 ## Informationen der angreifenden Ninjas
 
-Die Ninjas von der Goemon-Ishikawa-Highschool haben den Pizzatransport nur angegriffen, weil sie Wind bekommen haben, dass ihre Erzfeinde von der Hattori-Hanzo-Akademie es ebenfalls wollten. Warum, wieso und weshalb der Pizzatransport zum Ziel wurde, wissen sie aber nicht. Sie können aber sagen, dass es sich bei &bdquo;Shadow Bike Pizza&ldquo; um eine Fassade des Hashimara-Clans handelt.
+Die Ninjas von der Goemon-Ishikawa-Highschool haben den Pizzatransport nur angegriffen, weil sie Wind bekommen haben, dass ihre Erzfeinde von der Hattori-Hanzo-Akademie es ebenfalls wollten. Warum, wieso und weshalb der Pizzatransport zum Ziel wurde, wissen sie aber nicht. Sie können aber sagen, dass es sich bei „Shadow Bike Pizza“ um eine Fassade des Hashimara-Clans handelt.
 
 Die Ninjas von der Hattori-Hanzo-Akademie wissen, dass im Pizzatransporter ein getarnter Ebook-Reader versteckt ist, den sie zum Clanoberhaupt (Meister Hattori Hanzo) bringen sollen. Sie wissen nicht, was in dem Buch steht, bestehen aber darauf, dass es rechtmäßiges Eigentum der Hattori-Hanzo-Akademie sei, welches vom Hashimara-Clan entwendet wurde und mit diesem Pizzatransporter außer Landes geschmuggelt werden sollte.
 
@@ -28,7 +28,7 @@ Im StarNet, über Kontakte oder in Ninja-Dokus lassen sich weitere Informationen
 **2 Erfolge**
 
 - Angeblich wurde vor Kurzem während eines Angriffs der Goemon-Ishikawa-Highschool eine uralte Schriftrolle aus den Archiven der Hattori-Hanzo-Akademie gestohlen. Gerüchten zufolge soll aber der Hashimara-Clan für den Diebstahl verantwortlich sein.
-- Der Name &bdquo;Jonas Wagner&ldquo; taucht häufiger im Zusammenhang mit dem Kauf alter asiatischer Schriftrollen auf. Aus dem Namen lassen sich aber keinerlei Rückschlüsse auf eine reale Person ziehen, es handelt sich vermutlich um das Pseudonym eines exzentrischen reichen Sammlers.
+- Der Name „Jonas Wagner“ taucht häufiger im Zusammenhang mit dem Kauf alter asiatischer Schriftrollen auf. Aus dem Namen lassen sich aber keinerlei Rückschlüsse auf eine reale Person ziehen, es handelt sich vermutlich um das Pseudonym eines exzentrischen reichen Sammlers.
 - Hu Xing gilt als die Koryphäe für altasiatische Schriftrollen. Er wohnt als Einsiedler auf Kabukicho-Prime.
 
 **3 Erfolge**
@@ -41,11 +41,11 @@ Im StarNet, über Kontakte oder in Ninja-Dokus lassen sich weitere Informationen
 
 **5 Erfolge**
 
-- Im geschützten Bereich eines Ninja-Forums beschwert sich Pizzaboy99 darüber, dass er seine Kunden in letzter Zeit keine heißen Pizzen mehr liefern könne. Das läge nur daran, dass seine Vorgesetzten ständig einen gewissen &bdquo;JW&ldquo; vorziehen würden, obwohl der nie Sachen bestellt, die heiß ankommen müssen.
+- Im geschützten Bereich eines Ninja-Forums beschwert sich Pizzaboy99 darüber, dass er seine Kunden in letzter Zeit keine heißen Pizzen mehr liefern könne. Das läge nur daran, dass seine Vorgesetzten ständig einen gewissen „JW“ vorziehen würden, obwohl der nie Sachen bestellt, die heiß ankommen müssen.
 
 **6 Erfolge**
 
-- Bei der Kombination mehrerer gecrackter Überweisungs-Datenbanken in Kombination mit geschickten Suchbegriffen fällt auf, dass es deutlich überwahrscheinliche Übereinstimmungen zwischen Kontenbewegungen eines der leitenden Angestellten in der S.I.E. Robotermanufaktur und den Zahlungen von &bdquo;Jonas Wagner&ldquo; gibt.
+- Bei der Kombination mehrerer gecrackter Überweisungs-Datenbanken in Kombination mit geschickten Suchbegriffen fällt auf, dass es deutlich überwahrscheinliche Übereinstimmungen zwischen Kontenbewegungen eines der leitenden Angestellten in der S.I.E. Robotermanufaktur und den Zahlungen von „Jonas Wagner“ gibt.
 
 **7 Erfolge**
 

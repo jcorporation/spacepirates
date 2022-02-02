@@ -23,7 +23,7 @@ Ein riesiges Metallgebilde umschließt die Sonne des Systems der Träume, natür
 - [Serius 80]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_serius80)
 - [Avantgardia]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_avantgardia)
 - [Der Stummfilm-Planet]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_stummfilmplanet)
-- [Die SdT-Station oder: &bdquo;Die Mimen-Mission&ldquo;]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_mimen-mission)
+- [Die SdT-Station oder: „Die Mimen-Mission“]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_mimen-mission)
 
 
 <aside>

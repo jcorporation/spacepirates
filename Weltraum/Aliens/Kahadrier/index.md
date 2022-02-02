@@ -12,7 +12,7 @@ title: Kahadrier
 - **Botschaftsplanet:** [Keas]({{ site.baseurl }}/Weltraum/Freihandelszone/Keas)
 - **Reich:** Kahadrisches Reich
 
-Die Kahadrier werden auch als &bdquo;Zwerge des Universums&ldquo; oder &bdquo;Spacezwerge&ldquo; bezeichnet. Sie sehen in der Tat typischen Fantasy-Zwergen sehr ähnlich, sie sind klein und muskelbepackt, tragen ihr Bart mit Stolz und ihre Frauen sind genauso kriegerisch wie die Männer. Ihre Waffen sehen allesamt sehr martialisch und übertrieben groß aus, statt Kettenhemden tragen sie aber hochmoderne Kampfpanzer.
+Die Kahadrier werden auch als „Zwerge des Universums“ oder „Spacezwerge“ bezeichnet. Sie sehen in der Tat typischen Fantasy-Zwergen sehr ähnlich, sie sind klein und muskelbepackt, tragen ihr Bart mit Stolz und ihre Frauen sind genauso kriegerisch wie die Männer. Ihre Waffen sehen allesamt sehr martialisch und übertrieben groß aus, statt Kettenhemden tragen sie aber hochmoderne Kampfpanzer.
 
 Die Kahadrier sind eine kriegerische Rasse und haben schon unzählige Weltraumschlachten geschlagen. Derzeit sind sie aber in einer Friedensphase und seit kurzem auch Mitglied im galaktischen Handelsrat. Die Beziehungen zu den anderen Rassen, besonders zu den Wagonen, sind aber immer noch gespannt. Die Kahadrier werden, wie auch nicht anders zu erwarten, vom Militär regiert und auch ihre gesamte Gesellschaftsform hat militärische Strukturen. Es ist nahezu undenkbar, dass ein junger Kahadrier nicht in die Flotte eintritt.
 

@@ -38,13 +38,13 @@ Der einzige Ausgang dieses Raums führt zurück in den Vibrationsraum.
 
 ## Raum 5: Strohrumraum
 
-Der Boden dieses Raums ist vollständig mit Flaschen voller Strohrum bedeckt. Neben der Tür hat jemand mit Kohle &bdquo;Warum liegt da Strohrum?&ldquo; geschrieben. Wenn man die obersten 10 Lagen Flaschen abträgt, findet man eine in die Wand eingemeißelte Karte, die angeblich ein Teil der Karte ist, die den Weg nach Xoblosch zeigt.
+Der Boden dieses Raums ist vollständig mit Flaschen voller Strohrum bedeckt. Neben der Tür hat jemand mit Kohle „Warum liegt da Strohrum?“ geschrieben. Wenn man die obersten 10 Lagen Flaschen abträgt, findet man eine in die Wand eingemeißelte Karte, die angeblich ein Teil der Karte ist, die den Weg nach Xoblosch zeigt.
 
 Von hier gibt es drei Ausgänge: Zurück in den Vibrationsraum, nach Westen in den Heuraum und nach Norden zur Treppe 1 C.
 
 ## Raum 6: Treppe
 
-Hier führt eine steile Wendeltreppe tiefer in den Dungeon. An der Innenseite der Tür zur Treppe steht in großen, deutlichen Lettern die Zahl &bdquo;1 C&ldquo;.
+Hier führt eine steile Wendeltreppe tiefer in den Dungeon. An der Innenseite der Tür zur Treppe steht in großen, deutlichen Lettern die Zahl „1 C“.
 
 ## Raum 7: Heuraum
 
@@ -56,7 +56,7 @@ Es gibt hier ebenfalls drei Ausgänge: In den Strohrumraum, zur Treppe 1 D und i
 
 ## Raum 8: Treppe 1 D
 
-Hier führt eine steile Wendeltreppe tiefer in den Dungeon. An der Innenseite der Tür zur Treppe steht in großen, deutlichen Lettern die Zahl &bdquo;1 D&ldquo;.
+Hier führt eine steile Wendeltreppe tiefer in den Dungeon. An der Innenseite der Tür zur Treppe steht in großen, deutlichen Lettern die Zahl „1 D“.
 
 ## Raum 9: Rißraum
 
@@ -66,7 +66,7 @@ Der Rißraum hat drei Ausgänge: zum Brunnenraum, zum Heuraum und zum Lavaraum.
 
 ## Raum 10: Brunnenraum
 
-In diesem Raum steht ein Brunnen. Der Brunnen ist intelligent, gelangweilt und kann sprechen. Er kann den Piraten alles über diese Ebene des Dungeon erzählen, wenn sie ihn fragen. Zudem hat er davon gehört, dass in der Ebene tiefer Gnome mit viel Gold wohnen. Er weiß außerdem, dass man gegen das &bdquo;Feuer&ldquo; aus dem Rißraum immun ist, wenn man ihn ihm badet. Allerdings hat das Wasser einen Nebeneffekt: Man leuchtet anschließend rosa, das Feuer aus dem Rißraum verfärbte diese Tönung zu einem permanenten lila…
+In diesem Raum steht ein Brunnen. Der Brunnen ist intelligent, gelangweilt und kann sprechen. Er kann den Piraten alles über diese Ebene des Dungeon erzählen, wenn sie ihn fragen. Zudem hat er davon gehört, dass in der Ebene tiefer Gnome mit viel Gold wohnen. Er weiß außerdem, dass man gegen das „Feuer“ aus dem Rißraum immun ist, wenn man ihn ihm badet. Allerdings hat das Wasser einen Nebeneffekt: Man leuchtet anschließend rosa, das Feuer aus dem Rißraum verfärbte diese Tönung zu einem permanenten lila…
 
 Wenn man ihm etwas gegen die Langeweile da lässt (z.B. Hörbücher), kann er mit einer Flasche echtem Selters (für die dekadente Menschen bis zu 1000 UC bieten) bezahlen.
 

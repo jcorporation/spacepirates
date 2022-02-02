@@ -6,7 +6,7 @@ title: Endkampf
 
 # Endkampf
 
-Die Zentrale des Akamachi-Clans befindet sich in &bdquo;Parfum Town&ldquo;, einem großen, von der Kosmetikbranche dominierten Industriegebiet in Neu-Neo-Tokio. In der Fabrik gibt es allerlei lustige chemische Apparaturen, Behälter mit flüssigen, festen und gasförmigen Zutaten und was man sonst noch so braucht. Selbstverständlich liegt jederzeit explosiver Parfümrauch in der Luft, weshalb Laser- und Plasmawaffen hier unangenehme Nebenwirkungen zeigen. (Die Ninjas stört das nicht weiter, da sie eh nur mit parfümierten Rauchgranaten, Ninjaschwerter und Shurikenwerfern kämpfen).
+Die Zentrale des Akamachi-Clans befindet sich in „Parfum Town“, einem großen, von der Kosmetikbranche dominierten Industriegebiet in Neu-Neo-Tokio. In der Fabrik gibt es allerlei lustige chemische Apparaturen, Behälter mit flüssigen, festen und gasförmigen Zutaten und was man sonst noch so braucht. Selbstverständlich liegt jederzeit explosiver Parfümrauch in der Luft, weshalb Laser- und Plasmawaffen hier unangenehme Nebenwirkungen zeigen. (Die Ninjas stört das nicht weiter, da sie eh nur mit parfümierten Rauchgranaten, Ninjaschwerter und Shurikenwerfern kämpfen).
 
 Sollte jemand eine Laser- oder Plasmawaffe einsetzen, so gibt es mit einer 50%igen Wahrscheinlichkeit eine Explosion, welche den Schützen mit SÖLDNER 6 angreift. Es ist natürlich auch möglich, gezielt entferntere Gaswolken zur Explosion zu bringen, um z.B. verschanzte Ninjas zu treffen. In diesen Fall gelten die normalen Kampfregeln.
 

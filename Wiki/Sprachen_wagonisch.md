@@ -49,7 +49,7 @@ Wagonische Verben enden immer auf einen Vokal. An diesen wird einfach die entspr
 
 ### Satzbau
 
-Im Wagonischen ist ein Satz fast gleich aufgebaut wie in Basic, nur besteht ein signifikanter Unterschied: Anstatt Subjekt Verb Objekt wie in Basic und vielen Menschensprachen ist es im Wagonischen Subjekt Objekt Prädikat. Also lautet es nicht: &bdquo;Ich gehe in die Kneipe&ldquo;, sondern &bdquo;Ich in die Kneipe gehe&ldquo;.
+Im Wagonischen ist ein Satz fast gleich aufgebaut wie in Basic, nur besteht ein signifikanter Unterschied: Anstatt Subjekt Verb Objekt wie in Basic und vielen Menschensprachen ist es im Wagonischen Subjekt Objekt Prädikat. Also lautet es nicht: „Ich gehe in die Kneipe“, sondern „Ich in die Kneipe gehe“.
 
 **Beispielsatz:**
 
@@ -69,7 +69,7 @@ Im Wagonischen gibt es nur 3 Zeiten: Zukunft, Gegenwart und Vergangenheit. Wenn 
 
 Unter dem folgendem Link findet sich ein Wörterbuch mit über Hundert Wörtern.
 
-Dieser &bdquo;Übersetzer&ldquo; ist nur für Wörter und nicht für Sätze gedacht!!!
+Dieser „Übersetzer“ ist nur für Wörter und nicht für Sätze gedacht!!!
 
 Wörterbuch: [https://lingojam.com/Wagonisch](https://lingojam.com/Wagonisch)
 

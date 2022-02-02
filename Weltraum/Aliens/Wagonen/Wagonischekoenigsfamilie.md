@@ -32,7 +32,7 @@ Die wagonische Königsfamilie ist die vermutlich älteste Monarchie der Galaxis.
 
 ### Königin Elisabeth – die Standfeste
 
-(Hinter ihrem Rücken nennen ihre Verwandten sie auch &bdquo;Mama Diktatora&ldquo;). Sie regiert seit 300 Jahren und denkt gar nicht ans Aufhören. Irgendwann war sie auch mal verheiratet, aber niemand weiß genau, wann und mit wem. Ihren Sohn Wagonion behandelt sie wie einen Untergebenen. Elisabeth liebt ihren Lord Chamberlain Alfred, was sie aber niemals zugeben würde. Er übrigens auch nicht.
+(Hinter ihrem Rücken nennen ihre Verwandten sie auch „Mama Diktatora“). Sie regiert seit 300 Jahren und denkt gar nicht ans Aufhören. Irgendwann war sie auch mal verheiratet, aber niemand weiß genau, wann und mit wem. Ihren Sohn Wagonion behandelt sie wie einen Untergebenen. Elisabeth liebt ihren Lord Chamberlain Alfred, was sie aber niemals zugeben würde. Er übrigens auch nicht.
 
 ### Kronprinz Wagonion
 
@@ -42,7 +42,7 @@ Wartet seit 50 Jahren darauf, dass seine Mutter endlich in Rente geht. Oder abda
 
 ### Prinzessin Lea
 
-#### – das &bdquo;Juwel von Xawang&ldquo;
+#### – das „Juwel von Xawang“
 
 Hält ihren Vater Wagonion für eine Schnarchnase, hat dafür aber ein gutes Verhältnis zu ihrer Großmutter. Lea ist keine typische Prinzessin, sie wäre am liebsten Space Piratin oder, noch besser, Thronfolgerin anstelle des Thronfolgers.
 
@@ -77,7 +77,7 @@ Williberts Frau ist eine Charity-Lady (einen anderen Titel wird sie auch niemals
 </table>
 ### Prinz Bruno Morphium
 
-Leas Verlobter. Ein unbedeutender wagonischer Adliger, der nur deshalb mit Prinzessin Lea verlobt wurde, weil alle anderen schnell genug weggelaufen sind. Zu seinen Gunsten wurde die 3. Zusatzverordnung zum Königlichen Eheschließungsgesetzes geändert, damit auch der Laut &bdquo;Schnarch&ldquo; als Einwilligung in die Ehe gilt.
+Leas Verlobter. Ein unbedeutender wagonischer Adliger, der nur deshalb mit Prinzessin Lea verlobt wurde, weil alle anderen schnell genug weggelaufen sind. Zu seinen Gunsten wurde die 3. Zusatzverordnung zum Königlichen Eheschließungsgesetzes geändert, damit auch der Laut „Schnarch“ als Einwilligung in die Ehe gilt.
 
 ### Hein Mono
 
@@ -85,7 +85,7 @@ Leas heimlicher Verlobter. Ein menschlicher Space Pirat, Vorbild für die Typen 
 
 ### Giorgio Bäämmler
 
-Königlicher Modeschöpfer. Hat das Brautkleid der Prinzessin entworfen und hält sich für den größten Modemacher der Galaxis. Er ist zumindest der schillerndste und der mit der größten Publicity-Maschine. Würde den &bdquo;Stern von Urkalath&ldquo; gerne an sich bringen, um ihn in sein Meisterstück zu integrieren.
+Königlicher Modeschöpfer. Hat das Brautkleid der Prinzessin entworfen und hält sich für den größten Modemacher der Galaxis. Er ist zumindest der schillerndste und der mit der größten Publicity-Maschine. Würde den „Stern von Urkalath“ gerne an sich bringen, um ihn in sein Meisterstück zu integrieren.
 
 ### Rupert Sailman-Eggbird
 
@@ -93,11 +93,11 @@ Hofkorrespondent, Alfreds Intimfeind. Berichtet von allen gekrönten Häuptern d
 
 ### Daisy Klick
 
-Society-Girl und &bdquo;Reporterin&ldquo; von der Erde sowie Objekt von Sailman-Eggbirds Begierde. Sie gibt sich nach außen so dumm wie das Holz vor ihrer Hütte. In Wirklichkeit lauert sie nur auf ihre Chance, Sailman-Eggbird auszubooten und Hofkorrespondentin anstelle des Hofkorrespondenten zu werden.
+Society-Girl und „Reporterin“ von der Erde sowie Objekt von Sailman-Eggbirds Begierde. Sie gibt sich nach außen so dumm wie das Holz vor ihrer Hütte. In Wirklichkeit lauert sie nur auf ihre Chance, Sailman-Eggbird auszubooten und Hofkorrespondentin anstelle des Hofkorrespondenten zu werden.
 
 ### Dustin Bisam
 
-Ein berühmter streifanischer Sänger, der gar nicht singen kann. Er ist heimlich in Madame PlämPläm verliebt. Gast auf der Hochzeit. Wahrscheinlich der Einzige, der weder Ambitionen auf den wagonischen Thron noch auf den &bdquo;Stern von Urkalath&ldquo; hat.
+Ein berühmter streifanischer Sänger, der gar nicht singen kann. Er ist heimlich in Madame PlämPläm verliebt. Gast auf der Hochzeit. Wahrscheinlich der Einzige, der weder Ambitionen auf den wagonischen Thron noch auf den „Stern von Urkalath“ hat.
 
 ### Cecily Blazer-Polo
 

@@ -23,7 +23,7 @@ Direkt beim Betreten des Schiffs sehen die Piraten einige schemenhafte Gestalten
 
 Bei genauerer Untersuchung (die 20 Minuten dauert) stellt sich heraus, dass die Schiffe knapp 300 Jahre alt sind, entsprechend verströmen sie das Flair der 1960er. Die Beleuchtung ist ausgefallen, lediglich die Warnleuchten erhellen das Innere dürftig. Zusammengesackt hinter explodierten Konsolen liegen die Leichen von Spaceamazonen. Alle 5 Minuten ertönt eine Computerstimme, die warnt, dass eine Kernschmelze eingesetzt habe und die Besatzung das Schiff umgehend evakuieren solle:
 
-&bdquo;WARNUNG! Teilweise Kernschmelze. Reaktion des Reaktors in n Minuten. Verlassen Sie unverzüglich das Schiff.&ldquo;
+„WARNUNG! Teilweise Kernschmelze. Reaktion des Reaktors in n Minuten. Verlassen Sie unverzüglich das Schiff.“
 
 Aus diesem Grund ist auch der Maschinenraum versiegelt und lässt sich nicht öffnen.
 
@@ -37,7 +37,7 @@ Die Schiffe der Spaceamazonen sind die Überreste eines Verbandes, der das versu
 
 - **Ohne Probe:** Es handelt sich bei den Schemen definitiv nicht um Spaceamazonen, da mehrere bewaffnete Männer unter ihnen sind.
 - **PILOT oder SÖLDNER, 2 Erfolge:** Ausrüstung und Kleidung der Schemen ist modern, hat auf jeden Fall nichts mit Einrichtung und Technik des Schiffs zu tun.
-- **TECH 3 Erfolge:** Die Reaktionen auf den Beschuss und die Existenz der Schemen weisen auf eine Quantenverschränkung hin. Vermutlich hat sich das Schiff beim Flug durch die Raumzeitverschiebung verdoppelt, wobei aber beide Schiffe noch in Verbindung stehen. Die Schemen befinden sich entsprechend vermutlich auf der &bdquo;Kopie&ldquo; des Schiffs, wo auch immer die sein mag.
+- **TECH 3 Erfolge:** Die Reaktionen auf den Beschuss und die Existenz der Schemen weisen auf eine Quantenverschränkung hin. Vermutlich hat sich das Schiff beim Flug durch die Raumzeitverschiebung verdoppelt, wobei aber beide Schiffe noch in Verbindung stehen. Die Schemen befinden sich entsprechend vermutlich auf der „Kopie“ des Schiffs, wo auch immer die sein mag.
 
 ### Die Kapitänin
 
@@ -47,11 +47,11 @@ In dem Koffer befindet sich ein leicht angeschmortes Pergament. Die Schemen werd
 
 ### Atomhölle
 
-Was ist, wenn die Charaktere die Aufforderungen, das Raumschiff zu evakuieren, bis zuletzt ignorieren, also auch die Ansage &bdquo;Explosion des Reaktors in 5 Minuten&ldquo; nicht beachten?
+Was ist, wenn die Charaktere die Aufforderungen, das Raumschiff zu evakuieren, bis zuletzt ignorieren, also auch die Ansage „Explosion des Reaktors in 5 Minuten“ nicht beachten?
 
 In dem Fall ertönt eine letzte Ansage:
 
-&bdquo;WARNUNG! Vollständige Kernschmelze. Explosion des Reaktors.&ldquo;
+„WARNUNG! Vollständige Kernschmelze. Explosion des Reaktors.“
 
 Nun hat jeder Pirat noch die Chance, sich mit einer Probe auf SÖLDNER mit 5 Erfolgen zurück auf das Piratenschiff zu retten. Jeder, dem diese Probe misslingt, verglüht im explodierenden Spaceamazonenraumschiff.
 
@@ -65,8 +65,8 @@ Diejenigen, die zurück aufs Piratenraumschiff gelangen, haben zumindest für de
 </thead>
 <tbody>
 <tr><td>0</td><td>Piraten entdecken das Spaceamazonenschiff</td></tr>
-<tr><td>*/5</td><td>&bdquo;WARNUNG! Teilweise Kernschmelze. Reaktion des Reaktors in n Minuten. Verlassen Sie unverzüglich das Schiff.&ldquo;</td></tr>
-<tr><td>55</td><td>&bdquo;WARNUNG! Vollständige Kernschmelze. Explosion des Reaktors.&ldquo;</td></tr>
+<tr><td>*/5</td><td>„WARNUNG! Teilweise Kernschmelze. Reaktion des Reaktors in n Minuten. Verlassen Sie unverzüglich das Schiff.“</td></tr>
+<tr><td>55</td><td>„WARNUNG! Vollständige Kernschmelze. Explosion des Reaktors.“</td></tr>
 <tr><td>60</td><td>Spaceamazonenschiff explodiert</td></tr>
 </tbody>
 </table>

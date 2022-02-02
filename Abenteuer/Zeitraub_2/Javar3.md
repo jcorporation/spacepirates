@@ -75,7 +75,7 @@ Das gelandete Raumschiff ist ein Spaceflitzer, der mit 2 Laserkanonen ausgestatt
 
 Die Zeitmaschine befindet sich neben dem Labortrakt. Sie sieht sehr futuristisch aus und ist schon von außen als Zeitmaschine erkennbar. Im Inneren der Zeitmaschine befindet sich extrem viel elektronischer Krimskrams und in der Mitte, gehalten von einem Kraftfeld, schwebt das Zeitmaschinenteil aus dem ersten Teil dieses Abenteuers.
 
-- Wenn das Zeitmaschinenteil aus dem Kraftfeld genommen wird, treten die Auswirkungen auf, wie sie unter [&bdquo;Das Bauteil&ldquo;]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen.html) beschrieben sind.
+- Wenn das Zeitmaschinenteil aus dem Kraftfeld genommen wird, treten die Auswirkungen auf, wie sie unter [„Das Bauteil“]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen.html) beschrieben sind.
 - Wenn auf die Zeitmaschine geschossen wird (z.B. mit den Laserkanonen des Raumschiffs) bleibt die Zeit außerhalb des Raumschiffs stehen und auch das Raumschiff kann sich nur innerhalb seiner Schilde bewegen.
 
 

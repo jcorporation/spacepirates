@@ -53,7 +53,7 @@ Es kommt zur Verfolgungsjagd mit Knecht Ruprechts Raumschiff.
 <tr><th>Bewaffnung</th><td>2 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
-Eventuell kann Knecht Ruprecht seine Kanonen nicht abfeuern, weil er die Wa&shy;gon&shy;en nicht dabei hat. Wenn die Spieler entern, finden sie Knecht Ruprecht ent&shy;we&shy;der im Cockpit, auf dem Weg in eine Flucht&shy;&shy;kapsel (der alte Feigling) oder in einem Schrank in der Kombüse (auch keine neuen Idee). Er hat die gleichen Wer&shy;te wie &bdquo;damals,&ldquo; und ergibt sich nor&shy;maler&shy;weise. Er hat außerdem das Heilmittel bei sich.
+Eventuell kann Knecht Ruprecht seine Kanonen nicht abfeuern, weil er die Wa&shy;gon&shy;en nicht dabei hat. Wenn die Spieler entern, finden sie Knecht Ruprecht ent&shy;we&shy;der im Cockpit, auf dem Weg in eine Flucht&shy;&shy;kapsel (der alte Feigling) oder in einem Schrank in der Kombüse (auch keine neuen Idee). Er hat die gleichen Wer&shy;te wie „damals,“ und ergibt sich nor&shy;maler&shy;weise. Er hat außerdem das Heilmittel bei sich.
 
 <table>
 <tbody>

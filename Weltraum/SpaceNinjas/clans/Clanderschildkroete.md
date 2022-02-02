@@ -8,7 +8,7 @@ title: Clan der Schildkröte
 # Clan der Schildkröte
 
 
-Der Clan der Schildkröte gilt als einer der traditionsreichsten Clans. In der Gründungsgeschichte des Clans der Schildkröte heißt es, er sei noch auf der Erde vom legendären Meister Ratte und seinen vier ursprünglichen Schülern gegründet worden, um die Menschheit vor Dämonen zu schützen. Entsprechend sieht der Clan es bis heute als seine Pflicht an, gegen Dämonen zu kämpfen, weshalb man seine Mitglieder gelegentlich dabei beobachten kann, wie sie Luft, Regenbögen oder &bdquo;besessene&ldquo; Passanten verprügeln. Trotzdem sollte man sich nicht leichtfertig mit ihnen anlegen, denn ihr geheimer und einzigartiger Schildkröten-Stil macht sie zu gefährlichen Kämpfern. Der Clan wird bevorzugt von den Zaibatsu-Corporations angeheuert um geheime Aufträge auszuführen.
+Der Clan der Schildkröte gilt als einer der traditionsreichsten Clans. In der Gründungsgeschichte des Clans der Schildkröte heißt es, er sei noch auf der Erde vom legendären Meister Ratte und seinen vier ursprünglichen Schülern gegründet worden, um die Menschheit vor Dämonen zu schützen. Entsprechend sieht der Clan es bis heute als seine Pflicht an, gegen Dämonen zu kämpfen, weshalb man seine Mitglieder gelegentlich dabei beobachten kann, wie sie Luft, Regenbögen oder „besessene“ Passanten verprügeln. Trotzdem sollte man sich nicht leichtfertig mit ihnen anlegen, denn ihr geheimer und einzigartiger Schildkröten-Stil macht sie zu gefährlichen Kämpfern. Der Clan wird bevorzugt von den Zaibatsu-Corporations angeheuert um geheime Aufträge auszuführen.
 
 **Clanoberhaupt:** Yashimoto
 

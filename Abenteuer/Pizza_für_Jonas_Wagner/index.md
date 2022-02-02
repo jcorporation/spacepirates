@@ -6,7 +6,7 @@ title: Pizza für Jonas Wagner
 
 # Pizza für Jonas Wagner
 
-Bei einem ihrer Beutezüge gelangen die Piraten in den Besitz einer &bdquo;Spezial-Pizza&ldquo;, die an einen Jonas Wagner adressiert ist. Fortan geraten sie ins Kreuzfeuer einer Auseinandersetzung zwischen den Ninja-Clans der Hashimara und der Hattori-Hanzo-Akademie. Doch warum? Was hat es mit dieser &bdquo;Spezial-Pizza&ldquo; auf sich? Und wer zum Geier ist dieser &bdquo;Jonas Wagner&ldquo;?
+Bei einem ihrer Beutezüge gelangen die Piraten in den Besitz einer „Spezial-Pizza“, die an einen Jonas Wagner adressiert ist. Fortan geraten sie ins Kreuzfeuer einer Auseinandersetzung zwischen den Ninja-Clans der Hashimara und der Hattori-Hanzo-Akademie. Doch warum? Was hat es mit dieser „Spezial-Pizza“ auf sich? Und wer zum Geier ist dieser „Jonas Wagner“?
 
 ## Inhalt
 

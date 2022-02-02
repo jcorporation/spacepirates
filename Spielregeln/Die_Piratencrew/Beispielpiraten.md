@@ -34,7 +34,7 @@ Cash: 100 UC (1.000 UC für das Raumschiff)</td></tr>
 ***
 ## Sun Chen
 
-Sun Chen ist eine wunderschöne chinesische Händlerin, die ihre Reize einzusetzen weiß. Als sie noch eine &bdquo;ehrliche&ldquo; Händlerin war, hat sie einmal den damals noch unbedeutenden chinesischen Geschäftsmann Yang Li um die Ware eines ganzen Transportschiffes betrogen. Seitdem ist er ihr größter Feind. Diesen Deal zog sie damals mit Carlos Foster durch, einem Hauptmann der Föderation, mit dem sie immer noch befreundet ist. Wegen dieses Betrugs verlor sie nahezu alle ihre legalen Handelskontakte und hat sich daher einer Piratengruppe angeschlossen.
+Sun Chen ist eine wunderschöne chinesische Händlerin, die ihre Reize einzusetzen weiß. Als sie noch eine „ehrliche“ Händlerin war, hat sie einmal den damals noch unbedeutenden chinesischen Geschäftsmann Yang Li um die Ware eines ganzen Transportschiffes betrogen. Seitdem ist er ihr größter Feind. Diesen Deal zog sie damals mit Carlos Foster durch, einem Hauptmann der Föderation, mit dem sie immer noch befreundet ist. Wegen dieses Betrugs verlor sie nahezu alle ihre legalen Handelskontakte und hat sich daher einer Piratengruppe angeschlossen.
 
 <table>
 <caption>Sun Chen</caption>

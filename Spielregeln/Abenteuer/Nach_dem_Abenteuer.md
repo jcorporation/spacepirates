@@ -46,6 +46,6 @@ Sun Chen hat das erste Abenteuer bestanden und erhält 2 HHP, dadurch steigt sie
 
 Kathy vergibt jeweils einen Punkt auf SÖLDNER und HÄNDLER. Somit hat sie jetzt SÖLDNER auf 4 und HÄNDLER auf 6.
 
-Durch den Aufstieg darf sie auch eine Konsequenz streichen und streicht &bdquo;humpelt dauerhaft&ldquo;.
+Durch den Aufstieg darf sie auch eine Konsequenz streichen und streicht „humpelt dauerhaft“.
 {% endcapture %}
 {% include beispiel.md title="Beispiel zur Steigerung" body=include_body %}

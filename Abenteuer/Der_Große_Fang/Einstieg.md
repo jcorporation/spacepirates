@@ -10,7 +10,7 @@ Die Piraten befinden sich im freien Raumhafen Freeport. Vielleicht haben sie ein
 
 Wenn sich die Charaktere den toten Piraten näher anschauen entdecken sie Verletzungen die von Wurfsternen stammen könnten (SÖLDNER: 2 Erfolge). Während die Charaktere Ralle und den Müllhaufen springt aus den Schatten ein dreiköpfiger Cyberaffe herbei. Er ist friedlich, aber sehr aufgebracht.
 
-&bdquo;Streichelt&ldquo; (TECH: 2 Erfolge) man dem Affen über den mittleren Kopf, so wird durch die Augen jenes Kopfes eine dreidimensionale Karte in den Raum projiziert welche ein unbekanntes Sternensystem und ebenso unbekannte Schriftzeichen zeigt, aber das große rote X markiert wohl einen interessanten Ort.
+„Streichelt“ (TECH: 2 Erfolge) man dem Affen über den mittleren Kopf, so wird durch die Augen jenes Kopfes eine dreidimensionale Karte in den Raum projiziert welche ein unbekanntes Sternensystem und ebenso unbekannte Schriftzeichen zeigt, aber das große rote X markiert wohl einen interessanten Ort.
 
 Die 2 Ninjas, die Ralle überfallen haben, beobachten diese Szene aus einem sehr dunklen Eck heraus, werden aber die Piraten verfolgen und einen Peilsender an ihr Schiff anbringen (4 Erfolge auf TECH um den Sender zu entdecken).
 

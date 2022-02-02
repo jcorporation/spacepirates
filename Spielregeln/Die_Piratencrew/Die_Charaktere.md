@@ -100,7 +100,7 @@ Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben.
 <tr><td>19</td><td>kann nicht weiter als bis 20 rechnen</td></tr>
 <tr><td>20</td><td>schnell beleidigt</td></tr>
 <tr><td>21</td><td>bewegt sich in der Öffentlichkeit nur maskiert</td></tr>
-<tr><td>22</td><td>hasst eine Regierung und &bdquo;rebelliert&ldquo; gegen diese</td></tr>
+<tr><td>22</td><td>hasst eine Regierung und „rebelliert“ gegen diese</td></tr>
 <tr><td>23</td><td>Religiöser Fanatiker</td></tr>
 <tr><td>24</td><td>hat einen Lieblingsspruch, den er bei jeder Gelegenheit verwendet</td></tr>
 <tr><td>25</td><td>Ökoaktivist</td></tr>

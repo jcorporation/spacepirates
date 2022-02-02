@@ -6,7 +6,7 @@ title: Ereignisse
 
 # Ereignisse
 
-Das Abenteuer spielt nach dem Abenteuer &bdquo;Zeitraub&ldquo;. Die Charaktere haben das Zeitmaschinenteil gestohlen und bei Jangba abgeliefert. Da sie die Warnung der Marmonen nicht beachtet haben, sind diese verärgert.
+Das Abenteuer spielt nach dem Abenteuer „Zeitraub“. Die Charaktere haben das Zeitmaschinenteil gestohlen und bei Jangba abgeliefert. Da sie die Warnung der Marmonen nicht beachtet haben, sind diese verärgert.
 
 Auf Javar 3 gab es eine große Zeitanomalie, durch die unbemerkt aggressive und verrückte Affen auf den Planeten gelangten. Diese haben sich schnell vermehrt und die anderen Affen versklavt. Die Affen griffen die Forschungsstation an und töteten dort alle Forscher und Soldaten, die sie erwischen konnten. Javar 3 wurde evakuiert und ein Ausschuss des Handelsrats befasst sich mit der Thematik.
 

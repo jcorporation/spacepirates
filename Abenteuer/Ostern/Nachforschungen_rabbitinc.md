@@ -6,7 +6,7 @@ title: Rabbit Inc
 
 # Rabbit Inc
 
-Rabbit Inc gehört der Finanzinvestoren &bdquo;Yellow Stone Group&ldquo; und ist mit ihrer Zentrale auf Pessach 4 beheimatet. Der Konzernvorstand ist aber von Mitgliedern der Sekte VzFvO (Vereinigung zur Förderung von Ostern) durchdrungen. Rabbit Inc wird faktisch von ihnen kontrolliert.
+Rabbit Inc gehört der Finanzinvestoren „Yellow Stone Group“ und ist mit ihrer Zentrale auf Pessach 4 beheimatet. Der Konzernvorstand ist aber von Mitgliedern der Sekte VzFvO (Vereinigung zur Förderung von Ostern) durchdrungen. Rabbit Inc wird faktisch von ihnen kontrolliert.
 
 Dieser Konzern ist auf Ostermerchandise spezialisiert und produziert nur Produkte für Ostern.
 
@@ -14,7 +14,7 @@ Dieser Konzern ist auf Ostermerchandise spezialisiert und produziert nur Produkt
 
 Um [Sonde des Osterhasen]({{ site.baseurl }}/Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Pessach4) kreist eine )({{ site.baseurl }}/Abenteuer/Ostern/Sonden), diese fällt aber beim ersten Blick nicht auf, da um jeden Planeten irgendwelche Satelliten kreisen. Die Piraten dürfen aber eine Sensorenprobe (TECH) ablegen, wenn sie auf irgendwelche Besonderheiten achten. Bei 3 Erfolgen entdecken sie die ungewöhnliche Sonde.
 
-Schon bei der Ankunft auf Pessach 4 ist klar, dass die Leute hier osterverrückt sind. Die Piraten werden sogar bei offiziellen Funksprüchen mit &bdquo;Frohe Ostern&ldquo; begrüßt und mit &bdquo;Gesegnetes Osterfest&ldquo; verabschiedet.
+Schon bei der Ankunft auf Pessach 4 ist klar, dass die Leute hier osterverrückt sind. Die Piraten werden sogar bei offiziellen Funksprüchen mit „Frohe Ostern“ begrüßt und mit „Gesegnetes Osterfest“ verabschiedet.
 
 ### Rabbit City
 

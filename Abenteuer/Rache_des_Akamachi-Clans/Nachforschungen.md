@@ -8,13 +8,13 @@ title: Nachforschungen
 
 Die Ninjas wissen nichts über den Hintergrund des Angriffs. Sie haben von ihrem Clanoberhaupt lediglich erfahren, dass sie die Crew verächtlich machen und möglichst aufmischen sollen. Sie sind per Anhalter auf der Station angekommen. Zurück nach Neu-Neo-Tokio wollten sie mit dem Schiff der Piraten fliegen.
 
-Diverse Ninjas haben Streichholzschachteln der &bdquo;Smell Good Pizzeria&ldquo; in Neu-Neo-Tokio dabei (Probe auf SÖLDNER, Schwierigkeit 2).
+Diverse Ninjas haben Streichholzschachteln der „Smell Good Pizzeria“ in Neu-Neo-Tokio dabei (Probe auf SÖLDNER, Schwierigkeit 2).
 
-Eine Überprüfung der Parfüms führt deren Herkunft auf bekannte Neu-Neo-Tokioer Parfümfabriken wie &bdquo;Eau de fleur de cerisier&ldquo;, &bdquo;Duft des hoffnungsvollen Kranichs&ldquo; und &bdquo;NNT Parfums&ldquo; zurück (Probe auf PILOT, Schwierigkeit 5).
+Eine Überprüfung der Parfüms führt deren Herkunft auf bekannte Neu-Neo-Tokioer Parfümfabriken wie „Eau de fleur de cerisier“, „Duft des hoffnungsvollen Kranichs“ und „NNT Parfums“ zurück (Probe auf PILOT, Schwierigkeit 5).
 
 Es gibt einen Ninja-Clan, die Akamachi, die diverse Parfümerien betreiben, um ihre illegalen Aktivitäten zu verstecken (Probe auf HÄNDLER, 4 Erfolge).
 
-Die Manipulationen an den StarNet-Einträgen und Buccaneer&rsquo;s-Den-Profilen (das Social Network für Piraten) der Piraten lassen sich allesamt auf getarnte Rechner in der neukapitalistischen Sonderrechtszone Neuasiens (Probe auf TECH, 3 Erfolge), die Stadt Neu-Neo-Tokio (4 Erfolge) oder gar das Stadtviertel &bdquo;Parfum Town&ldquo; (5 Erfolge) zurückverfolgen. &bdquo;Parfum Town&ldquo; ist ein von der Kosmetikbranche beherrschtes Industriegebiet in Neu-Neo-Tokio (1 Erfolg).
+Die Manipulationen an den StarNet-Einträgen und Buccaneer&rsquo;s-Den-Profilen (das Social Network für Piraten) der Piraten lassen sich allesamt auf getarnte Rechner in der neukapitalistischen Sonderrechtszone Neuasiens (Probe auf TECH, 3 Erfolge), die Stadt Neu-Neo-Tokio (4 Erfolge) oder gar das Stadtviertel „Parfum Town“ (5 Erfolge) zurückverfolgen. „Parfum Town“ ist ein von der Kosmetikbranche beherrschtes Industriegebiet in Neu-Neo-Tokio (1 Erfolg).
 
 Parfum Town ist Standort des Ninja-Clans der Akimachi (Probe auf HÄNDLER, 4 Erfolge).
 

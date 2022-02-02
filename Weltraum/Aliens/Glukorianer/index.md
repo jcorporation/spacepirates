@@ -23,7 +23,7 @@ Die Glukorianer verfügen über eine sehr moderne und fremdartige Technologie, d
 <div class="anmerkung">
 ## Glukorianer rüsten auf
 
-Droht ein neuer Sternenkrieg? Geheimen Unterlagen des Militärs zufolge rüsten die Glukorianer derzeit massiv auf. Aus dem Verteidigungsministerium hieß es dazu nur, die Lage sei &bdquo;kritisch, aber stabil.&ldquo;
+Droht ein neuer Sternenkrieg? Geheimen Unterlagen des Militärs zufolge rüsten die Glukorianer derzeit massiv auf. Aus dem Verteidigungsministerium hieß es dazu nur, die Lage sei „kritisch, aber stabil.“
 
 </div>
 <div class="hinweis">

@@ -33,15 +33,15 @@ Sie haben kein größeres Interesse an den Piraten; wenn diese sich nicht von si
 </table>
 ## Das Pizzalieferraumschiff
 
-Das Pizzalieferraumschiff ist ein typischer SpaceKombi. Er wurde größtenteils schwarz lackiert, an verschiedenen Stellen ist in einem rot gefüllten Kreis ein Logo aufgebracht: Ein schwarz maskierter, rasender Radler, der eine Pizza auf der Hand trägt. Darunter steht &bdquo;Shadow Bike Pizza&ldquo;.
+Das Pizzalieferraumschiff ist ein typischer SpaceKombi. Er wurde größtenteils schwarz lackiert, an verschiedenen Stellen ist in einem rot gefüllten Kreis ein Logo aufgebracht: Ein schwarz maskierter, rasender Radler, der eine Pizza auf der Hand trägt. Darunter steht „Shadow Bike Pizza“.
 
-Nach dem Zusammenstoß mit dem Meteoriten ist das Raumschiff arg verbeult und qualmt. Die Vorderscheibe wurde zerstört, als der Pilot hindurch und auf den Meteoriten geschleudert wurde (er war nicht angeschnallt). Vom Schiff geht kaum noch energetische Strahlung aus, die verbliebene Strahlung wird kann bei einer Probe auf TECH (1 Erfolg) als &bdquo;Abwärme heißer Pizzen sowie eine unbekannte Signatur&ldquo; identifiziert werden.
+Nach dem Zusammenstoß mit dem Meteoriten ist das Raumschiff arg verbeult und qualmt. Die Vorderscheibe wurde zerstört, als der Pilot hindurch und auf den Meteoriten geschleudert wurde (er war nicht angeschnallt). Vom Schiff geht kaum noch energetische Strahlung aus, die verbliebene Strahlung wird kann bei einer Probe auf TECH (1 Erfolg) als „Abwärme heißer Pizzen sowie eine unbekannte Signatur“ identifiziert werden.
 
 ### Der Pizzakarton
 
 Bei der unbekannten Signatur handelt es sich um einen als Pizzaschachtel getarnten Ebook-Reader, der mit äußerst leistungsfähigen DRM-Techniken geschützt wird und (außer dem Bildschirm) keinerlei Zugriffsmöglichkeiten bietet. Hier beißt sich selbst der beste Tech die Zähne aus.
 
-Wie bei Lieferpizza üblich klebt auch hier ein Klebezettel auf dem Karton, anstatt der Adresse steht hier aber nur der Name &bdquo;Jonas Wagner&ldquo;.
+Wie bei Lieferpizza üblich klebt auch hier ein Klebezettel auf dem Karton, anstatt der Adresse steht hier aber nur der Name „Jonas Wagner“.
 
 
 ***

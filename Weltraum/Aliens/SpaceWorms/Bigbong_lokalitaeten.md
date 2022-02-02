@@ -70,9 +70,9 @@ Das Verschleierte Glück ist das Überbleibsel einer Missionsstation auf BigBong
 
 
 
-## Achmeds Gebrauchtwaren &bdquo;Quasi neu&ldquo;
+## Achmeds Gebrauchtwaren „Quasi neu“
 
-Achmed verkauft in der unteren Ebene BigBongs &bdquo;quasi neue&ldquo; Gebrauchtwaren. Direkt nach Eintritt wird man von Achmed persönlich (oder zumindest einem seiner vielen Hologramme) begrüßt und während des ganzen Besuchs beraten. Der Ladenbesitzer spricht mit starkem Dialekt und entspricht auch sonst dem Klischee des Gebrauchtwagenhändlers. Allerdings verkauft er nicht nur Autos, sondern alles (und jeden), das (und der) ihm in die Finger gerät. Klamme Piraten können hier Schnäppchen machen, man sollte aber aufpassen, dass man nicht versehentlich noch ein Messerset mitkauft.
+Achmed verkauft in der unteren Ebene BigBongs „quasi neue“ Gebrauchtwaren. Direkt nach Eintritt wird man von Achmed persönlich (oder zumindest einem seiner vielen Hologramme) begrüßt und während des ganzen Besuchs beraten. Der Ladenbesitzer spricht mit starkem Dialekt und entspricht auch sonst dem Klischee des Gebrauchtwagenhändlers. Allerdings verkauft er nicht nur Autos, sondern alles (und jeden), das (und der) ihm in die Finger gerät. Klamme Piraten können hier Schnäppchen machen, man sollte aber aufpassen, dass man nicht versehentlich noch ein Messerset mitkauft.
 
 
 <aside>

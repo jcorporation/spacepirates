@@ -6,19 +6,19 @@ title: Zweiter Anschlag
 
 # Zweiter Anschlag
 
-Sollten die Piraten bei ihren Nachforschungen irgendwo ihre Telefonnummer hinterlassen, so werden sie nach einiger Zeit von einer Frau mit erotischer Stimme angerufen, die behauptet, den Piraten helfen zu können. Wenn man sie nach ihren Namen fragt, wird sie behaupten, sie heiße &bdquo;Long Mei&ldquo;.
+Sollten die Piraten bei ihren Nachforschungen irgendwo ihre Telefonnummer hinterlassen, so werden sie nach einiger Zeit von einer Frau mit erotischer Stimme angerufen, die behauptet, den Piraten helfen zu können. Wenn man sie nach ihren Namen fragt, wird sie behaupten, sie heiße „Long Mei“.
 
-Wenn die Piraten nirgends ihre Telefonnummer hinterlassen, so erfahren sie bei ihren Nachforschungen am dritten Tag, dass eine gewisse &bdquo;Long Mei&ldquo; ebenfalls ein Problem mit dem Akamachi-Clan habe und den Piraten unter Umständen helfen würde. In diesem Fall erhalten die Piraten eine Telefonnummer, unter der sie die besagte Frau erreichen können. Auch in diesem Fall macht sie ein Treffen mit den Piraten aus.
+Wenn die Piraten nirgends ihre Telefonnummer hinterlassen, so erfahren sie bei ihren Nachforschungen am dritten Tag, dass eine gewisse „Long Mei“ ebenfalls ein Problem mit dem Akamachi-Clan habe und den Piraten unter Umständen helfen würde. In diesem Fall erhalten die Piraten eine Telefonnummer, unter der sie die besagte Frau erreichen können. Auch in diesem Fall macht sie ein Treffen mit den Piraten aus.
 
-Sollten die Piraten sich auf kein Treffen einlassen, so wird &bdquo;Long Mei&ldquo; die Piraten von sich aus aufsuchen.
+Sollten die Piraten sich auf kein Treffen einlassen, so wird „Long Mei“ die Piraten von sich aus aufsuchen.
 
 ## Tanaka Mei
 
-Bei &bdquo;Long Mei&ldquo; handelt es sich in Wirklichkeit um Tanaka Mei, die Witwe (bzw. Frau) von Tanaka Mao (aus dem Schatzjagd-Abenteuer), die sich an den Piraten rächen will. Sie gibt sich zunächst als Verbündete der Piraten gegen die Ninjas aus und erzählt ihnen sogar, warum der Akamachi-Clan sie jagt und wo deren Zentrale ist. Sie will die Piraten dadurch aber nur in Sicherheit wiegen, um sie in einem günstigen Augenblick mit ihrem Parfüm zu besprühen und sie so zu ihren willenlosen Sklaven zu machen.
+Bei „Long Mei“ handelt es sich in Wirklichkeit um Tanaka Mei, die Witwe (bzw. Frau) von Tanaka Mao (aus dem Schatzjagd-Abenteuer), die sich an den Piraten rächen will. Sie gibt sich zunächst als Verbündete der Piraten gegen die Ninjas aus und erzählt ihnen sogar, warum der Akamachi-Clan sie jagt und wo deren Zentrale ist. Sie will die Piraten dadurch aber nur in Sicherheit wiegen, um sie in einem günstigen Augenblick mit ihrem Parfüm zu besprühen und sie so zu ihren willenlosen Sklaven zu machen.
 
 Ihre Kleidung und ihr Benehmen entsprechen dem einer edlen Dame. Sie trägt einen körperbetonten, exzellent bestickten roten Kimono, eine dezente Juwelenkette, ein Dutzend Haarnadeln (ionisierte Wurfdolche) und eine Handtasche, in der sie ein Ninjaschwert, ihr Giftparfüm und diverse Rauchgranaten versteckt. Außerdem trägt sie einen Brief bei sich, in dem die genaue Adresse der neuen Zentrale der Ninjas steht, in dem sie nach ihrem Sieg Bericht erstatten soll.
 
-&bdquo;Long Mei&ldquo; wird die Piraten auch dann zu kontaktieren versuchen, wenn diese schon herausgefunden haben, wo die Zentrale der Akamachis liegt. Sollte es zu keinem Treffen kommen, so wird sie die Piraten als Sekretärin in der Fabrik willkommen heißen und herumführen. In diesem Fall setzt sie ihr Parfüm natürlich ein, wenn die Piraten von den anderen Ninjas angegriffen werden und enttarnt sich erst hinterher als gefährliche Ninja.
+„Long Mei“ wird die Piraten auch dann zu kontaktieren versuchen, wenn diese schon herausgefunden haben, wo die Zentrale der Akamachis liegt. Sollte es zu keinem Treffen kommen, so wird sie die Piraten als Sekretärin in der Fabrik willkommen heißen und herumführen. In diesem Fall setzt sie ihr Parfüm natürlich ein, wenn die Piraten von den anderen Ninjas angegriffen werden und enttarnt sich erst hinterher als gefährliche Ninja.
 
 <table data-type="slc">
 <caption>Tanaka Mei</caption>

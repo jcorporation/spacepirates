@@ -34,7 +34,7 @@ Hier gibt es vorgefertigte Abenteuer und Abenteuerideen für SpacePirates.
 <div class="box1 clickable">
 ## Der große Fang
 
-<div class="boxtext">Eine geheimnisvolle Schatzkarte zeigt einen unbekannten Bereich der Galaxis. Die Karte will entziffert werden und anschließend geht es daran den Schatz zu bergen. Bei dem Schatz handelt es sich um den mysteriösen &bdquo;großen Fang&ldquo;. Neben einem dreiköpfigen Affen bekommen auch SpaceNinjas ihren Auftritt.</div>
+<div class="boxtext">Eine geheimnisvolle Schatzkarte zeigt einen unbekannten Bereich der Galaxis. Die Karte will entziffert werden und anschließend geht es daran den Schatz zu bergen. Bei dem Schatz handelt es sich um den mysteriösen „großen Fang“. Neben einem dreiköpfigen Affen bekommen auch SpaceNinjas ihren Auftritt.</div>
 <div class="boxbottom">[&raquo; zum Abenteuer]({{ site.baseurl }}/Abenteuer/Dergrossefang)</div>
 </div>
 <div class="box1 clickable">

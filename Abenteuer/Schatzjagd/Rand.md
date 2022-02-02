@@ -65,7 +65,7 @@ Der Schatz befindet sich natürlich in einer großen Kiste, die in einer kleinen
 - Erste 3-D-Digitalkamera des Universums ohne Ladegerät
 - Weihnachtsdekoration für ein Frachtschiff
 - 200 Rabattmarken für ein Langhaarshampoo
-- Ionisierte Axt des Klassikers &bdquo;Space Hero&ldquo;
+- Ionisierte Axt des Klassikers „Space Hero“
 
 
 ***

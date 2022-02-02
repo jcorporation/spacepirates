@@ -14,8 +14,8 @@ title: Zwischenfälle
 </thead>
 <tbody>
 <tr><td>1</td><td>Ein marodes Piratenschiff greift an.</td></tr>
-<tr><td>2</td><td>Ein gut gerüstetes Patrouillenschiff will eine &bdquo;Routinekontrolle&ldquo; durchführen.</td></tr>
-<tr><td>3</td><td>Ein gut gerüstetes Patrouillenschiff will eine &bdquo;Routinekontrolle&ldquo; durchführen, es sind aber doch stark gerüstete Piraten!</td></tr>
+<tr><td>2</td><td>Ein gut gerüstetes Patrouillenschiff will eine „Routinekontrolle“ durchführen.</td></tr>
+<tr><td>3</td><td>Ein gut gerüstetes Patrouillenschiff will eine „Routinekontrolle“ durchführen, es sind aber doch stark gerüstete Piraten!</td></tr>
 <tr><td>4</td><td>Die Charaktere geraten in ein Raumschlacht zwischen Piraten und Kriegsschiffen.</td></tr>
 <tr><td>5</td><td>Ein Raumschiff intergalaktischer Sklavenjäger fängt das Raumschiff in seinem Traktorstrahl.</td></tr>
 <tr><td>6</td><td>Rings um das Raumschiff taucht plötzlich ein dichter Meteoritengürtel auf.</td></tr>

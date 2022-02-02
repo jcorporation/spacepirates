@@ -23,7 +23,7 @@ Wenn das Abenteuer deutlich länger als 4–5 Stunden dauert, ist es ratsam, die
 
 ### Piratenwürfel für den Spielleiter
 
-Der Spielleiter erhält ebenfalls Piratenwürfel, und zwar pro Abenteuer &bdquo;Anzahl Spieler&ldquo; + &bdquo;durchschnittliche Stufe der Charaktere&ldquo;.
+Der Spielleiter erhält ebenfalls Piratenwürfel, und zwar pro Abenteuer „Anzahl Spieler“ + „durchschnittliche Stufe der Charaktere“.
 
 {% capture include_body %}
 Die Spielleiter-Piratenwürfel dienen dazu, um in spannenden Momenten noch mehr Dramatik in das Geschehen zu bringen, etwa wichtigen Gegenspielern der Charaktere kurzzeitig höheres Können zu verleihen oder Hindernisse schwieriger zu gestalten. Aber Vorsicht, durch den Einsatz der Piratenwürfel sollten die Charakterleistungen nicht geschmälert werden!

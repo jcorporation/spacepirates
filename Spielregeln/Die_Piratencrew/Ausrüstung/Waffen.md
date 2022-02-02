@@ -77,7 +77,7 @@ Es gibt alle möglichen und unmöglichen Waffen. Die meisten geben keinen Bonusw
 <tr><th>Waffe</th><th>Bonus</th><th>Kosten</th><th>Kurzbeschreibung</th></tr>
 </thead>
 <tbody>
-<tr><td>Eis-Ionenblaster &bdquo;Onkel Frost&ldquo;</td><td>P+2</td><td>3.500</td><td> </td></tr>
+<tr><td>Eis-Ionenblaster „Onkel Frost“</td><td>P+2</td><td>3.500</td><td> </td></tr>
 <tr><td>Glukorianischer Minifizierer</td><td>P+2</td><td>10.000</td><td>Schrumpft das Opfer auf 10 % bis 50 %</td></tr>
 <tr><td>Kybernetischer Energie-Peitschenschwanz</td><td>P+1</td><td>2.000</td><td> </td></tr>
 <tr><td>Negatronenkarabiner</td><td>P+2</td><td>5.000</td><td>Explodiert beim Aufprall</td></tr>
@@ -91,7 +91,7 @@ Es gibt alle möglichen und unmöglichen Waffen. Die meisten geben keinen Bonusw
 
 ### Eis-Ionenblaster
 
-Der bei den raptorianischen Kriegern sehr beliebte Eis-Ionenblaster, trägt den Beinamen &bdquo;Onkel Frost&ldquo;. Der Name ist Programm, der Strahl dieser Waffe kühlt das Opfer binnen weniger Millisekunden auf minus 152 Grad herunter. Sehr hilfreich während der Proteinjagd und zudem eine nützliche Waffe um konkurrierende Artgenossen oder auch Gegner für einen gewissen Zeitraum kalt zu stellen. Je nach Umgebungstemperatur tauen die Betroffenen binnen einiger Stunden wieder auf ohne Zellstrukturschäden zu erleiden. Denn kein Raptorianer mit Stil würde sein Steak mit Gefrierbrand verzehren wollen.
+Der bei den raptorianischen Kriegern sehr beliebte Eis-Ionenblaster, trägt den Beinamen „Onkel Frost“. Der Name ist Programm, der Strahl dieser Waffe kühlt das Opfer binnen weniger Millisekunden auf minus 152 Grad herunter. Sehr hilfreich während der Proteinjagd und zudem eine nützliche Waffe um konkurrierende Artgenossen oder auch Gegner für einen gewissen Zeitraum kalt zu stellen. Je nach Umgebungstemperatur tauen die Betroffenen binnen einiger Stunden wieder auf ohne Zellstrukturschäden zu erleiden. Denn kein Raptorianer mit Stil würde sein Steak mit Gefrierbrand verzehren wollen.
 
 ### Glukorianischer Minifizierer
 

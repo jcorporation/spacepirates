@@ -12,7 +12,7 @@ Sind die Piraten zusammen mit den Rebellen bis hierher gekommen, fallen die Rebe
 
 Sobald das Schiff in eine Umlaufbahn von Atlantis einschwenkt, meldet sich eine automatische Ansage, die sich immerzu wiederholt:
 
-&bdquo;Lege deine Waffen ab und sei willkommen auf Atlantis, dem Planeten des Friedens und der Idylle.&ldquo;
+„Lege deine Waffen ab und sei willkommen auf Atlantis, dem Planeten des Friedens und der Idylle.“
 
 Wenn sich die Charaktere daran halten, geschieht nichts und das Raumschiff kann ohne Probleme auf Atlantis landen. Falls sich die Charaktere nicht daran halten (dies gilt auch für Waffen des Raumschiffs, eine Deaktivierung der Waffensysteme reicht aus), wird das Raumschiff vom automatischen Verteidigungssystem von Atlantis angegriffen.
 

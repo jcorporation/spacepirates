@@ -12,7 +12,7 @@ title: SpaceNinjas
 <div class="anmerkung">
 ## SpaceNinjas in der Freihandelszone
 
-Schon seit längeren halten die SpaceNinjas Neuasien in Atem, doch jetzt wagen sie sich bis in die Freihandelszone vor. Kapitän Explexes vermutet den Clan der Goemon-Ishikawa-Highschool hinter dem Überfall: &bdquo;Teenies mit hippen Frisuren, Ninjakostümen und grässlicher Rockmusik sind ein klares Zeichen ihrer Urheberschaft.&ldquo; Der Handelsrat berät in einer Sondersitzung geeignete Gegenmaßnahmen.
+Schon seit längeren halten die SpaceNinjas Neuasien in Atem, doch jetzt wagen sie sich bis in die Freihandelszone vor. Kapitän Explexes vermutet den Clan der Goemon-Ishikawa-Highschool hinter dem Überfall: „Teenies mit hippen Frisuren, Ninjakostümen und grässlicher Rockmusik sind ein klares Zeichen ihrer Urheberschaft.“ Der Handelsrat berät in einer Sondersitzung geeignete Gegenmaßnahmen.
 
 </div>
 </aside>

@@ -21,7 +21,7 @@ In den Gängen der Raumstationen sind CyberKürbisse auf Beinen und überdimensi
 </table>
 ## KI
 
-Die KI empfindet die Charaktere als Eindringlinge und will sie vernichten (&bdquo;Ihr kommt hier nicht mehr lebend heraus&ldquo;). Sie bedroht die Charaktere mit einem glukorianischen Akzent (HÄNDLER-Probe mit 3 Erfolge um dies festzustellen). Sie kontrolliert die Space- und Cyberkürbisse und hat die Kahadrier getötet. Die KI hat sich in alle Systeme der Station eingenistet und kann nur zerstört werden, wenn die komplette Energiezufuhr abgeschaltet oder alle Computer vernichtet werden.
+Die KI empfindet die Charaktere als Eindringlinge und will sie vernichten („Ihr kommt hier nicht mehr lebend heraus“). Sie bedroht die Charaktere mit einem glukorianischen Akzent (HÄNDLER-Probe mit 3 Erfolge um dies festzustellen). Sie kontrolliert die Space- und Cyberkürbisse und hat die Kahadrier getötet. Die KI hat sich in alle Systeme der Station eingenistet und kann nur zerstört werden, wenn die komplette Energiezufuhr abgeschaltet oder alle Computer vernichtet werden.
 
 ## Räume der Raumstation
 

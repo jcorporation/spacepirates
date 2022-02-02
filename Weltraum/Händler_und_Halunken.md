@@ -119,7 +119,7 @@ Der Samnese Randul Zac ist der größte Waffenhändler des Universums und besitz
 
 Scharxu ist ein etwas älterer, relativ kleiner aber trotzdem sehr erfolgreicher trullischer Hehler. Er durchstreift mit seinem großen Frachtschiff beständig die Freihandelszone und verweilt nie länger als ein paar Tage an einem Ort. Er wird nur gefunden, wenn er auch gefunden werden will. Das Frachtschiff ist seine Heimat, so ist es auch in einem außergewöhnlich guten Zustand und sehr luxuriös, aber auch sehr wehrhaft. Neben ihm lebt auch eine kleine und loyale Söldnertruppe auf diesem Schiff.
 
-Scharxu handelt mit allem, war er gewinnbringend weiterverkaufen kann. Keine Ware ist ihm zu heiß. Dafür ist er aber auch ein recht unangenehmer Typ, der nie irgendwo ohne seine schwer bewaffneten Leibwächter auftaucht. &bdquo;Ein Deal ist ein Deal&ldquo;, lautet sein Motto, an das er sich meistens hält. Seine Handelspartner sollten es auf jeden Fall einhalten, sonst wird er noch unangenehmer – und er vergisst einen Betrug niemals.
+Scharxu handelt mit allem, war er gewinnbringend weiterverkaufen kann. Keine Ware ist ihm zu heiß. Dafür ist er aber auch ein recht unangenehmer Typ, der nie irgendwo ohne seine schwer bewaffneten Leibwächter auftaucht. „Ein Deal ist ein Deal“, lautet sein Motto, an das er sich meistens hält. Seine Handelspartner sollten es auf jeden Fall einhalten, sonst wird er noch unangenehmer – und er vergisst einen Betrug niemals.
 
 
 <aside>
@@ -138,7 +138,7 @@ Scharxu handelt mit allem, war er gewinnbringend weiterverkaufen kann. Keine War
 
 Takahashi ist ein Versorgungsoffizier der neuasiatischen Flotte. Er ist mittleren Alters und ein recht strammer Soldat. Er hat kurze schwarze Haare, ein jugendliches, sportliches Erscheinungsbild und wirkt sehr weltoffen. Er ist in der Flotte angesehen und legt darauf auch großen Wert. In seiner Freizeit treibt er sich gerne in anrüchigen Bars herum, trinkt vorzugsweise Hochprozentiges und spielt gerne Karten- oder andere Glücksspiele.
 
-Takahashi ist für alle möglichen Geschäfte offen. Da die Ausrüstung der neuchinesischen Armee veraltet ist und daher ständig etwas ausgemustert werden muss, bieten sich immer wieder Möglichkeiten, &bdquo;funktionsunfähige&ldquo; Geräte ohne Einschaltung eines autorisierten Schrotthändlers zu entsorgen. Takahashi hat die dafür erforderlichen Beziehungen, die er gerne gewinnbringend einsetzt. Zwar ist die so erstandene Ausrüstung veraltet, aber dennoch brauchbar und noch in einem besseren Zustand, als wenn man sie auf einem Schrottplatz erstehen würde, was auch nicht legal ist.
+Takahashi ist für alle möglichen Geschäfte offen. Da die Ausrüstung der neuchinesischen Armee veraltet ist und daher ständig etwas ausgemustert werden muss, bieten sich immer wieder Möglichkeiten, „funktionsunfähige“ Geräte ohne Einschaltung eines autorisierten Schrotthändlers zu entsorgen. Takahashi hat die dafür erforderlichen Beziehungen, die er gerne gewinnbringend einsetzt. Zwar ist die so erstandene Ausrüstung veraltet, aber dennoch brauchbar und noch in einem besseren Zustand, als wenn man sie auf einem Schrottplatz erstehen würde, was auch nicht legal ist.
 
 
 <aside>

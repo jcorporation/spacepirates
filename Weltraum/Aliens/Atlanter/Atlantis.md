@@ -22,7 +22,7 @@ Atlantis heißt nicht nur die sagenumwobene, untergegangene Stadt auf der Erde, 
 <div class="anmerkung">
 ## Atlantis entdeckt
 
-Wird der atlantische Traum Wirklichkeit? Nach Meinung von Dr. Dr. H. Goras ja: &bdquo;Der neu entdeckte Planet kann nur Atlantis sein. Alle Daten bestätigen dies.&ldquo; Damit ginge die ewige Suche der Atlanter zu Ende. Doch gilt dies auch für ihren Konflikt mit den Spaceamazonen? Führende Wissenschaftler warnen: &bdquo;Der Konflikt dürfte sich noch verschärfen. Der Handelsrat sollte unbedingt Schutzmaßnahmen ergreifen.&ldquo;
+Wird der atlantische Traum Wirklichkeit? Nach Meinung von Dr. Dr. H. Goras ja: „Der neu entdeckte Planet kann nur Atlantis sein. Alle Daten bestätigen dies.“ Damit ginge die ewige Suche der Atlanter zu Ende. Doch gilt dies auch für ihren Konflikt mit den Spaceamazonen? Führende Wissenschaftler warnen: „Der Konflikt dürfte sich noch verschärfen. Der Handelsrat sollte unbedingt Schutzmaßnahmen ergreifen.“
 
 </div>
 

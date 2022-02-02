@@ -76,7 +76,7 @@ In Black Jacks Etablissement für einsame Piraten warten ständig nette, offenhe
 
 ### Brett als Bett
 
-Selbst die härtesten Piraten können nicht tagein, tagaus Schiffe überfallen, in der Kneipe saufen oder sich im Puff amüsieren. Wer also ein müdes Haupt zur Ruhe betten möchte, findet im Brett als Bett verschiedenste Schlafmöglichkeiten: Vom Winkel, in dem betrunkene Piraten zusammensacken, weil sie es nicht mehr bis in ihr Zimmer geschafft haben, bis zu fast sauberen Einzelzimmern. Daneben gibt es natürlich auch noch Zimmer für 4, 8, 16 und 32 Personen sowie den als &bdquo;Hangar&ldquo; bekannten Schlafsaal, in dem besonders heruntergekommene Piraten ihre Weltraumhängematte für geringes Entgelt aufhängen können.
+Selbst die härtesten Piraten können nicht tagein, tagaus Schiffe überfallen, in der Kneipe saufen oder sich im Puff amüsieren. Wer also ein müdes Haupt zur Ruhe betten möchte, findet im Brett als Bett verschiedenste Schlafmöglichkeiten: Vom Winkel, in dem betrunkene Piraten zusammensacken, weil sie es nicht mehr bis in ihr Zimmer geschafft haben, bis zu fast sauberen Einzelzimmern. Daneben gibt es natürlich auch noch Zimmer für 4, 8, 16 und 32 Personen sowie den als „Hangar“ bekannten Schlafsaal, in dem besonders heruntergekommene Piraten ihre Weltraumhängematte für geringes Entgelt aufhängen können.
 
 Wenn schon alle Einzelzimmer belegt sind und man das Pech hat, den Raum mit Fremden zu teilen, sollte man sich von anderen Gästen fernhalten. Selbstverständlich sind die meisten Schläfer hier paranoid und schlafen mit entsicherten und griffbereiten Waffen, mit denen sie schon mal auf ihre Albträume schießen.
 
@@ -132,7 +132,7 @@ In dieser Klinik praktiziert Holly Day. Die ehemalige Schönheitskönigin verste
 
 ### Mad Harrys Weapon Shop
 
-Der kleine Laden für alle, die große Wummen brauchen. Der Besitzer ist ein schielender Halbinvalide, der zu jeder Waffe eine nette Anekdote auf Lager hat und den Piraten nebenbei noch mit Geschichten von damals auf die Nerven geht. (&bdquo;Damals, im interstellaren Zeitkrieg, musste ich mir den Rücken selbst decken! Wenn mein Ich aus der Zukunft nicht den Angreifer abgeschossen hätte, hätte es mein Ich aus der Vergangenheit fast zerlegt. Mein Ich aus der Gegenwart konnte nichts tun, lag ja unter Deckungsfeuer. Ja, damals wusste man noch, was echte Kameradschaft ist!&ldquo;)
+Der kleine Laden für alle, die große Wummen brauchen. Der Besitzer ist ein schielender Halbinvalide, der zu jeder Waffe eine nette Anekdote auf Lager hat und den Piraten nebenbei noch mit Geschichten von damals auf die Nerven geht. („Damals, im interstellaren Zeitkrieg, musste ich mir den Rücken selbst decken! Wenn mein Ich aus der Zukunft nicht den Angreifer abgeschossen hätte, hätte es mein Ich aus der Vergangenheit fast zerlegt. Mein Ich aus der Gegenwart konnte nichts tun, lag ja unter Deckungsfeuer. Ja, damals wusste man noch, was echte Kameradschaft ist!“)
 
 <aside>
 <table data-type="slc">

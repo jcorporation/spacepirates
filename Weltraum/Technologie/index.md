@@ -87,7 +87,7 @@ Der größte Quantenfluxkompensator wird in Betrieb genommen. Eines der größte
 <div class="anmerkung">
 ## Universum fast zerstört!
 
-Das Universum entging nur knapp dem Untergang, Schuld war der exzentrische Zeitforscher Edward Bakutha. Bei seinem Prototyp überhitzte die Kühlung, der Super-GAU konnte nur knapp verhindert werden. Nun fordert der prominente Geologe Rawdins: &bdquo;Die Regierung muss die Zeitforschung endlich angemessen überwachen! Sie erfolgt in einem nahezu unregulierten Umfeld.&ldquo; Wie denken sie darüber?
+Das Universum entging nur knapp dem Untergang, Schuld war der exzentrische Zeitforscher Edward Bakutha. Bei seinem Prototyp überhitzte die Kühlung, der Super-GAU konnte nur knapp verhindert werden. Nun fordert der prominente Geologe Rawdins: „Die Regierung muss die Zeitforschung endlich angemessen überwachen! Sie erfolgt in einem nahezu unregulierten Umfeld.“ Wie denken sie darüber?
 
 </div>
 <div class="anmerkung">

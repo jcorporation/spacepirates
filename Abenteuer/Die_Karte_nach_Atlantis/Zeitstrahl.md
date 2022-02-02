@@ -11,7 +11,7 @@ title: Zeitstrahl
 <tr><th>Zeit</th><th>Ereignis</th></tr>
 </thead>
 <tbody>
-<tr><td>Tag 0</td><td>Rebellen und Charaktere finden jeweils eine &bdquo;Kopie&ldquo; der Karte.</td></tr>
+<tr><td>Tag 0</td><td>Rebellen und Charaktere finden jeweils eine „Kopie“ der Karte.</td></tr>
 <tr><td>Tag 1</td><td>Die Rebellen heuern andere Piraten als Söldner an, um das andere Exemplar der Karte zu zerstören.</td></tr>
 <tr><td>Tag 4</td><td>Die Rebellen schicken eine Kopie der Karten an mit ihnen sympathisierende Studenten, die das Übersetzungsprogramm auf ihren Universitätsrechnern laufen lassen.</td></tr>
 <tr><td>Tag 18</td><td>Die Rebellen erhalten die Übersetzung.</td></tr>

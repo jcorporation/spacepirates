@@ -26,7 +26,7 @@ Liu Ren ist ein abgebrannter chinesischer Piratenkapitän. Er trägt einen alten
 
 ## Die Karte
 
-Die Karte ist 30 &times; 20 cm hoch, besteht aus gebürstetem Aluminium und besitzt einen großen Touchscreen, auf dem in großen Lettern &bdquo;Locked&ldquo; steht. Neben dem Touchscreen befindet sich ein Fingerabdrucksensor. An der rechten oberen Seite der Karte befindet sich eine Öffnung für einen altmodischen Schlüssel mit Bart.
+Die Karte ist 30 &times; 20 cm hoch, besteht aus gebürstetem Aluminium und besitzt einen großen Touchscreen, auf dem in großen Lettern „Locked“ steht. Neben dem Touchscreen befindet sich ein Fingerabdrucksensor. An der rechten oberen Seite der Karte befindet sich eine Öffnung für einen altmodischen Schlüssel mit Bart.
 
 ### TECH Probe
 

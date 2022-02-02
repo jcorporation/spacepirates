@@ -8,7 +8,7 @@ title: Die Blumenkind
 # Die Blumenkind
 
 
-Die Form der Blumenkind erinnert an ein Hanf-Blatt: Sieben linsenförmige, viktorianische Palmenhäuser laufen an einem Punkt zusammen. Die feinmaschige Stahlkonstruktion verhindert ein Scannen der Station: Die Sensoren zeigen lediglich &bdquo;viel Leben&ldquo; an.
+Die Form der Blumenkind erinnert an ein Hanf-Blatt: Sieben linsenförmige, viktorianische Palmenhäuser laufen an einem Punkt zusammen. Die feinmaschige Stahlkonstruktion verhindert ein Scannen der Station: Die Sensoren zeigen lediglich „viel Leben“ an.
 
 Hier könnte die SpaceHippies, die SWIP und die Charaktergruppe aufeinandertreffen. Entweder es kommt zu einem Raumkampf oder die Gruppen bekämpfen sich auf der Blumenkind, je nachdem was dem Verlauf des bisherigen Abenteuers entspricht.
 
@@ -29,7 +29,7 @@ Hier könnte die SpaceHippies, die SWIP und die Charaktergruppe aufeinandertreff
 <div>Jeder Charakter verliert 1 Punkt Zähigkeit auf SÖLDNER durch Raumstrahlung, falls die Jalousien (siehe 2) nicht aktiviert wurden.</div>
 </td></tr>
 <tr><th scope="row">7</th><td>In diesem Gewächshaus haben sich Spaceameisen eingenistet und im Laufe der Jahre aus Pflanzenresten einen riesigen Bau errichtet. Die Wände des Baus sind organisch aber hart wie Stahl. Hier haben die Ameisen nützliche Teile von der ganzen Station im Wert von 2.000 UC gehortet.</td></tr>
-<tr><th scope="row">8</th><td>In diesem Gewächshaus wurde Gemüse angebaut. Durch die Raumstrahlung dürfte es mutiert sein: In einem Hochbeet in der Mitte des Raums kichern Kohlköpfe und Karotten mit Gesichtern. Dann stimmen sie ein Lied an und singen im Chor! Das chaotische Gemüse geht sofort zum Angriff über. Es will eigentlich &bdquo;nur spielen&ldquo;, doch dabei übertreibt es etwas und wird handgreiflich. Singendes Junggemüse gilt als Delikatesse. Die 3 Sprossen sind je 1.000 UC wert.<br/>
+<tr><th scope="row">8</th><td>In diesem Gewächshaus wurde Gemüse angebaut. Durch die Raumstrahlung dürfte es mutiert sein: In einem Hochbeet in der Mitte des Raums kichern Kohlköpfe und Karotten mit Gesichtern. Dann stimmen sie ein Lied an und singen im Chor! Das chaotische Gemüse geht sofort zum Angriff über. Es will eigentlich „nur spielen“, doch dabei übertreibt es etwas und wird handgreiflich. Singendes Junggemüse gilt als Delikatesse. Die 3 Sprossen sind je 1.000 UC wert.<br/>
 Jeder Charakter verliert 1 Punkt Zähigkeit auf SÖLDNER durch Raumstrahlung, falls die Jalousien (siehe 2) nicht aktiviert wurden.</td></tr>
 <tr><th scope="row">9</th><td>In diesem Glashaus sind zwei grüne, humanoide Gartenroboter am Werk. Sie dürften defekt sein, denn sie haben die Pflanzen zu Tode gepflegt und gießen deren verkümmerte Überreste. Als sie euch bemerken, gehen sie zum Angriff über, um ihre Schützlinge zu verteidigen. Jeder Gartenroboter enthält einen Minireaktor, der 888 UC wert ist.</td></tr>
 </tbody>

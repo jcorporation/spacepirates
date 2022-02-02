@@ -68,7 +68,7 @@ Erst einmal auf Ennos angekommen wirft Fürst Los den Piraten alles entgegen, wa
 </thead>
 <tbody>
 <tr><td>1</td><td>254 Patrouillenboote der Ennosianer atomisieren das Schiff der Piraten bei ihrer Ankunft.</td></tr>
-<tr><td>2</td><td>Fürst Los und die Tochter von Graf Frost wollen heiraten. &bdquo;Was tun?&ldquo;, sprach Zeus!</td></tr>
+<tr><td>2</td><td>Fürst Los und die Tochter von Graf Frost wollen heiraten. „Was tun?“, sprach Zeus!</td></tr>
 <tr><td>3</td><td>Die Hitze sorgt dafür, dass allen Streifaniern an Bord spontan das Fell ausfällt.</td></tr>
 <tr><td>4</td><td>Die Anzüge der Piraten schmelzen langsam und werden zu einer amorphen Masse. Jeder Schritt ist eine Qual.</td></tr>
 <tr><td>5</td><td>Ein Kommando vom Negrewz-Nebel hat die Lichtkanonen erobert und feuert den Planeten Ennos zu Klump. Mission erfüllt. Jetzt aber weg hier!</td></tr>

@@ -67,7 +67,7 @@ Eysgul Zankat, eine Wagonin, ist ein Filmsternchen und aus diversen Seifenopern 
 
 ## Kifferraumschiff
 
-Ein bunt angemaltes Raumschiff, das an einen VW Bully mit Raketendüsen erinnert. Die Kiffer (2 Trull, 1 Kahadrierin, 1 Streifanierin) haben alle ihre Drogen gemischt, mit SpaceSchnee angereichert und diese Lösung destilliert. Vom Ergebnis sind sie derzeit so high, dass sie alle glauben, Susi Sonnenschein zu sein. Wenn man sie auf die Idee bringt, ein Lied zu singen (etwa, indem man sie in Kontakt zu Sascha und Nicole bringt) werden sie anfangen, fürchterlich schief den Schlager &bdquo;Susi, du bist mein Sonnenschein&ldquo; zu singen. Und weil die Drogen ihnen leichte telepathische Fähigkeiten verleihen, schützen weder Vakuum noch Taubheit.
+Ein bunt angemaltes Raumschiff, das an einen VW Bully mit Raketendüsen erinnert. Die Kiffer (2 Trull, 1 Kahadrierin, 1 Streifanierin) haben alle ihre Drogen gemischt, mit SpaceSchnee angereichert und diese Lösung destilliert. Vom Ergebnis sind sie derzeit so high, dass sie alle glauben, Susi Sonnenschein zu sein. Wenn man sie auf die Idee bringt, ein Lied zu singen (etwa, indem man sie in Kontakt zu Sascha und Nicole bringt) werden sie anfangen, fürchterlich schief den Schlager „Susi, du bist mein Sonnenschein“ zu singen. Und weil die Drogen ihnen leichte telepathische Fähigkeiten verleihen, schützen weder Vakuum noch Taubheit.
 
 
 
@@ -96,7 +96,7 @@ Der SpaceTruck ist doppelt gesichert, zunächst die übliche Raumschiffpanzerung
 
 ## SpaceManagerkarre
 
-James Moneypenny, ein SpaceWorm, wartet ungeduldig auf die Räumung, weil er auf eine dringende Besprechung muss. Wegen des doofen Schnees kann er noch nicht einmal Bescheid sagen, wo er steckt. Er ist total verspannt und schreit wild herum. Wenn die Piraten ihm die Drogen der Kiffer einflößen, meditiert er kurz, verwandelt sich zum SpaceBuddha, sagt: &bdquo;Der wahrhaft Erleuchtete überwindet die Fesseln des Körpers&ldquo;, und löst sich auf. Gleichzeitig verschwindet auch der SpaceSchnee.
+James Moneypenny, ein SpaceWorm, wartet ungeduldig auf die Räumung, weil er auf eine dringende Besprechung muss. Wegen des doofen Schnees kann er noch nicht einmal Bescheid sagen, wo er steckt. Er ist total verspannt und schreit wild herum. Wenn die Piraten ihm die Drogen der Kiffer einflößen, meditiert er kurz, verwandelt sich zum SpaceBuddha, sagt: „Der wahrhaft Erleuchtete überwindet die Fesseln des Körpers“, und löst sich auf. Gleichzeitig verschwindet auch der SpaceSchnee.
 
 
 <aside>

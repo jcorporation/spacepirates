@@ -12,7 +12,7 @@ Freeport ist ein freier Raumhafen am Rande der Unwahrscheinlichkeitszone, auf de
 
 ### Bobs Imbissbude
 
-Bob ist der vermutlich harmloseste Bewohner Freeports und verkauft in seinem Imbiss verkohlte Bratwürste, matschige Hamburger, pappige Pommes und die allseits beliebten &bdquo;Überraschungsmenüs&ldquo; (Reste vom Vortag, die mit altem Frittierfett vermischt wurden). Obwohl diese Speisekarte eigentlich ausreichen sollte, um schwere Magenkoliken zu verursachen, ist Bobs Imbiss, wie auch seine Kasse, immer gut gefüllt. Teilweise stehen die Leute sogar Schlange – zuerst bei Bob und nach dem Essen dann bei Doc Brown.
+Bob ist der vermutlich harmloseste Bewohner Freeports und verkauft in seinem Imbiss verkohlte Bratwürste, matschige Hamburger, pappige Pommes und die allseits beliebten „Überraschungsmenüs“ (Reste vom Vortag, die mit altem Frittierfett vermischt wurden). Obwohl diese Speisekarte eigentlich ausreichen sollte, um schwere Magenkoliken zu verursachen, ist Bobs Imbiss, wie auch seine Kasse, immer gut gefüllt. Teilweise stehen die Leute sogar Schlange – zuerst bei Bob und nach dem Essen dann bei Doc Brown.
 
 <table data-type="slc">
 <caption>Bob</caption>
@@ -81,13 +81,13 @@ Das Space-Polizeirevier 23 ist mit obszönen Graffitis beschmiert, mit Brettern 
 <div class="anmerkung">
 ## Aal Jarreau auf der Flucht
 
-Freeport. Die berühmteste singende Birne ist seit gestern Abend von ihrem festen Gig im &bdquo;Eimer&ldquo;, der wohl legendärsten Kaschemme in ganz Freeport, verschwunden. Besitzer und Wirt P. Lankton hat angeblich schon professionelle Knochenbrecher beauftragt, die ihm seine Hauptattraktion zurückholen sollen. Er wird wie folgt zitiert: &bdquo;Singen kann der Kerl auch noch im Sitzen.&ldquo;
+Freeport. Die berühmteste singende Birne ist seit gestern Abend von ihrem festen Gig im „Eimer“, der wohl legendärsten Kaschemme in ganz Freeport, verschwunden. Besitzer und Wirt P. Lankton hat angeblich schon professionelle Knochenbrecher beauftragt, die ihm seine Hauptattraktion zurückholen sollen. Er wird wie folgt zitiert: „Singen kann der Kerl auch noch im Sitzen.“
 
 </div>
 <div class="anmerkung">
 ## Unbekannter verprügelt Unbekannten
 
-Freeport. Ein Unbekannter wurde in der vergangenen Nacht in den Gassen des Hafenviertels krankenhausreif geschlagen. Der prügelnde Unbekannte soll einen mächtigen Bart gehabt haben und &bdquo;eher klein gebaut&ldquo; gewesen sein.
+Freeport. Ein Unbekannter wurde in der vergangenen Nacht in den Gassen des Hafenviertels krankenhausreif geschlagen. Der prügelnde Unbekannte soll einen mächtigen Bart gehabt haben und „eher klein gebaut“ gewesen sein.
 
 </div>
 <div class="anmerkung">
@@ -105,7 +105,7 @@ Freeport. Immer häufiger geht der kultige Alt-Star bei dem planetenbekannten Kr
 <div class="anmerkung">
 ## Heuerte Birgit Niels Schlägertypen an?
 
-Freeport. Gestern Abend beobachteten äußerst vertrauenswürdige Zeugen wie Holo-Star Birgit Niels sich in den &bdquo;Eimer&ldquo; schlich, wo sie sich mit mehreren zwielichtigen Gestalten unterhielt. Ein der Redaktion bekannter Pirat behauptet felsenfest, dass sie ihn anheuern wollte, um ihrem Ex-Mann, dem berühmten Star Schlei Schdalone &bdquo;mal ordentlich die Fresse zu polieren&ldquo;.
+Freeport. Gestern Abend beobachteten äußerst vertrauenswürdige Zeugen wie Holo-Star Birgit Niels sich in den „Eimer“ schlich, wo sie sich mit mehreren zwielichtigen Gestalten unterhielt. Ein der Redaktion bekannter Pirat behauptet felsenfest, dass sie ihn anheuern wollte, um ihrem Ex-Mann, dem berühmten Star Schlei Schdalone „mal ordentlich die Fresse zu polieren“.
 
 </div>
 </aside>
