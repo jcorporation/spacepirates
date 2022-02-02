@@ -1,6 +1,6 @@
 ---
 layout: weltraumphaenomen
-permalink: /Weltraum/Phänomene/Großer_Spiralnebel_von_Trull
+permalink: /Weltraum/Weltraumphänomene/Großer_Spiralnebel_von_Trull
 title: Großer Spiralnebel von Trull
 
 sitedata:

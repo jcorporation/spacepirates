@@ -236,6 +236,36 @@ sub add_uri {
 }
 
 # index files
+sub parse_value {
+    my $key = $_[0];
+    my $value = $_[1];
+    my $filename = $_[2];
+    # default score for frontmatter
+    my $inc = 2;
+    for my $keyword (keys %keywords) {
+        if ($keyword eq $value) {
+            #exact match
+            $inc = 10;
+            if ($key eq "title") {
+                $inc = 200;
+            }
+            elsif ($key eq "keywords") {
+                $inc = 200;
+            }
+            add_uri($keyword, $inc, $filename);
+        }
+        elsif ($value =~ /\b$keyword\b/) {
+            if ($key eq "title") {
+                $inc = 100;
+            }
+            elsif ($key eq "keywords") {
+                $inc = 200;
+            }
+            add_uri($keyword, $inc, $filename);
+        }
+    }
+}
+
 for my $filename (@files) {
     open $fh, $filename or die "Error opening file $filename\n";
     print ".";
@@ -245,26 +275,25 @@ for my $filename (@files) {
     # check frontmatter
     if ($line eq "---") {
         # parse frontmatter
-        while ($line = <$fh>) {
-            chomp $line;
+        $line = <$fh>;
+        chomp $line;
+        while () {
             if ($line eq "---") {
                 last;
             }
             my $key = "";
             my $value = "";
-            # default score for frontmatter
-            my $inc = 2;
             if ($line =~ /\s*([^:]+):\s+(.+)$/) {
                 # simple key / value
                 $key = $1;
                 $value = normalize($2);
+                $line = "";
             }
-            elsif ($line =~ /^keywords:\s*/) {
-                # special keyword handling
-                $key = "keywords";
+            elsif ($line =~ /\s*(\w+):\s*$/) {
+                # array 
+                $key = $1;
                 my @values = ();
                 while ($line = <$fh>) {
-                    # read array, must end with blank line
                     chomp $line;
                     if ($line =~ /^\s+-\s+(.*)$/) {
                         push @values, normalize($1);
@@ -277,30 +306,14 @@ for my $filename (@files) {
             }
             else {
                 # ignore key only / blank lines
+                $line = "";
             }
             if ($key ne "" and $value ne "") {
-                for my $keyword (keys %keywords) {
-                    if ($keyword eq $value) {
-                        #exact match
-                        $inc = 10;
-                        if ($key eq "title") {
-                            $inc = 200;
-                        }
-                        elsif ($key eq "keywords") {
-                            $inc = 100;
-                        }
-                        add_uri($keyword, $inc, $filename);
-                    }
-                    elsif ($value =~ /\b$keyword\b/) {
-                        if ($key eq "title") {
-                            $inc = 100;
-                        }
-                        elsif ($key eq "keywords") {
-                            $inc = 50;
-                        }
-                        add_uri($keyword, $inc, $filename);
-                    }
-                }
+                parse_value($key, $value, $filename);
+            }
+            if ($line eq "") {
+                $line = <$fh>;
+                chomp($line);
             }
         }
     }

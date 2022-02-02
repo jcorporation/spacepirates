@@ -2,6 +2,8 @@
 layout: page
 permalink: /Weltraum/Aliens/Kahadrier/index
 title: Kahadrier
+keywords:
+    - kahadrisches reich
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: weltraumphaenomen
-permalink: /Weltraum/Phänomene/Ghomin-Nebel
+permalink: /Weltraum/Weltraumphänomene/Ghomin-Nebel
 title: Ghomin-Nebel
 
 sitedata:

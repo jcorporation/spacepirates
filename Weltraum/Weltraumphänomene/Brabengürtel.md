@@ -1,6 +1,6 @@
 ---
 layout: weltraumphaenomen
-permalink: /Weltraum/Phänomene/Brabengürtel
+permalink: /Weltraum/Weltraumphänomene/Brabengürtel
 title: Brabengürtel
 
 sitedata:

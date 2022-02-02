@@ -1,6 +1,6 @@
 ---
 layout: weltraumphaenomen
-permalink: /Weltraum/Phänomene/Halloween-Nebel
+permalink: /Weltraum/Weltraumphänomene/Halloween-Nebel
 title: Halloween-Nebel
 
 sitedata:

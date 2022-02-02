@@ -1,6 +1,6 @@
 ---
 layout: weltraumphaenomen
-permalink: /Weltraum/Phänomene/Dimensionsriss
+permalink: /Weltraum/Weltraumphänomene/Dimensionsriss
 title: Dimensionsriss
 
 sitedata:

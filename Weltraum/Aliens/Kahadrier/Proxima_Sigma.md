@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Kahadrier/Proximasigma
+permalink: /Weltraum/Aliens/Kahadrier/Proxima_Sigma
 title: Proxima Sigma
 ---
 

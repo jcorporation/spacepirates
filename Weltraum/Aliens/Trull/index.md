@@ -4,6 +4,8 @@ permalink: /Weltraum/Aliens/Trull/index
 title: Trull
 keywords:
     - trull
+    - trullimperium
+
 ---
 
 
