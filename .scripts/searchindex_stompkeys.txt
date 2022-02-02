@@ -1,14 +1,14 @@
-achmed:achmeds
+achmeds:achmed
 alten:alte
 asiaten:asiat
 banchigos:banchigo
 beliebte:bekannte
 berühmte:bekannte
 binkels:binkel
-birgit:birgit niels
 brarbragrozianer:brarbragroz
 britney s pears:britney
-charakters:charaktere
+charakters:charakter
+charaktere:charakter
 clans:clan
 clans der schildkröte:clan der schildkröte
 einfachen:einfache
@@ -26,7 +26,7 @@ kapitalistischen:kapitalistische
 karten:karte
 kauf:kaufen
 konflikte:konflikt
-mensch:menschen
+menschen:mensch
 militärs:militär
 neuasiatischen:neuasien
 neuasiens:neuasien
@@ -35,22 +35,23 @@ oysterclusters:oystercluster
 parteien:partei
 pergaments:pergament
 piratentreffpunkte:piratentreffpunkt
-pirat:piraten
+piraten:pirat
 planeten:planet
 politische lage:politik
 politische:politik
 proben:probe
 raumflüge:raumflug
 raumkämpfe:raumkampf
-raumschiffen:raumschiffe
+raumschiffen:raumschiff
+raumschiffe:raumschiff
 reichs der wagonen:reich der wagonen
 reichs:reich
 rigel: rigel 3
-samnese:samnesen
-samnesin:samnesen
+samnesen:samnese
+samnesin:samnese
 schlachtkreuzers:schlachtkreuzer
 sektoren:sektor
-sonde:sonden
+sonden:sonde
 spaceamazone:spaceamazonen
 spacepears:spacepear
 spaceworms:spaceworm
