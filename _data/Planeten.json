@@ -49,6 +49,16 @@
     "Besiedelung": "große Städte",
     "Politisches": "Heimatplanet der Samnesen"
   },
+  "Scrabnambu": {
+    "Name": "Scrabnambu",
+    "Typ": "Felsplanet",
+    "Sektor": "Neutrale Zone",
+    "Monde": "5",
+    "Einwohner": "Aliens",
+    "Hauptstadt": "keine",
+    "Besiedelung": "nur eine Siedlung",
+    "Politisches": "Müllplanet"
+  },
   "Terra_20CAD": {
     "Name": "Terra 20CAD",
     "Typ": "Erdähnlich",
@@ -58,6 +68,16 @@
     "Hauptstadt": "viele Hauptstädte",
     "Besiedelung": "dünn besiedelt",
     "Politisches": "Zurückgebliebener Planet in Sperrzone"
+  },
+  "Vampir-Planet": {
+    "Name": "Vampir-Planet",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Sektor D1",
+    "Monde": "2",
+    "Einwohner": "Bauern, Vampire",
+    "Hauptstadt": "keine",
+    "Besiedelung": "kleine Siedlungen",
+    "Politisches": "keine politischen Beziehungen"
   },
   "Woodstock": {
     "Typ": "Erdähnlich",

@@ -4,5 +4,35 @@
     "Sektor": "Neutrale Zone",
     "Beschreibung": "Aggressive, lebende Planeten",
     "Politisches": "Heimat der SpaceRocker Baneros Banditos"
+  },
+  "Brabenguertel": {
+    "Name": "Brabengürtel",
+    "Sektor": "Freihandelszone",
+    "Beschreibung": "Meteoritengürtel",
+    "Politisches": "Beliebtes Piratenversteck"
+  },
+  "Dimensionsriss": {
+    "Name": "Dimensionsriss",
+    "Sektor": "Samara",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Ghomin-Nebel": {
+    "Name": "Ghomin-Nebel",
+    "Sektor": "Freihandelszone",
+    "Beschreibung": "",
+    "Politisches": "Piratenversteck"
+  },
+  "Grosser_Spiralnebel_von_Trull": {
+    "Name": "Großer Spiralnebel von Trull",
+    "Sektor": "Trullimperium",
+    "Beschreibung": "",
+    "Politisches": "Hauptstützpunkt der Rebellen"
+  },
+  "Halloween-Nebel": {
+    "Name": "Halloween-Nebel",
+    "Sektor": "Sektor D1",
+    "Beschreibung": "",
+    "Politisches": "Piratenversteck"
   }
 }

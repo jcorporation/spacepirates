@@ -5,6 +5,12 @@
     "Bewohner": "Piraten",
     "Politisches": "Piratentreffpunkt"
   },
+  "Kuerbis-Station": {
+    "Name": "Kürbis-Station",
+    "Sektor": "Sektor D1",
+    "Bewohner": "Glukorianer",
+    "Politisches": "keine politischen Beziehungen"
+  },
   "Saloniki": {
     "Name": "Saloniki",
     "Sektor": "Rand des Universums",
