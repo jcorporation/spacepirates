@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Neutrale_Zone/index
+permalink: /Weltraum/Neutrale_Zone/
 title: Neutrale Zone
 ---
 

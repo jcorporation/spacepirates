@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Epsilon_Canabis
 title: Epsilon Canabis
-aside: Epsilon_Canabis_aside.md
 
 sitedata:
     Sternensysteme:

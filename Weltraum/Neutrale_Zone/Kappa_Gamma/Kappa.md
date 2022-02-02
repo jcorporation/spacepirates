@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa
 title: Kappa
-aside: Kappa_aside.md
 
 sitedata:
     Staedte:

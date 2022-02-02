@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: aside
 permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/
 title: Ausrüstung
-aside: index_aside.md
 ---
 
 # Ausrüstung

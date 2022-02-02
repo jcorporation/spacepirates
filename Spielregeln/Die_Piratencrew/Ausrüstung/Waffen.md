@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: aside
 permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Waffen
 title: Waffen
-aside: Waffen_aside.md
 ---
 
 # Waffen

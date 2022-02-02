@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Aliens/Samnesen/
 title: Samnesen
 keywords:
     - samara
     - samnesen
 
-aside: index_aside.md
 ---
 
 # Samnesen

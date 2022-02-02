@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Aliens/Samnesen/Sampuk
 title: Sampuk
-aside: Sampuk_aside.md
 
 sitedata:
     Planeten:

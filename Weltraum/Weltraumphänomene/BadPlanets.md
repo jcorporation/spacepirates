@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Weltraumphänomene/BadPlanets
 title: BadPlanets
-aside: BadPlanets_aside.md
 
 sitedata:
     Weltraumphaenomene:
