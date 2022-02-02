@@ -1,35 +1,66 @@
+achmed:achmeds
+alten:alte
+asiaten:asiat
 banchigos:banchigo
-berühmte:bekannte
 beliebte:bekannte
+berühmte:bekannte
 binkels:binkel
 birgit:birgit niels
 brarbragrozianer:brarbragroz
+britney s pears:britney
+charakters:charaktere
 clans:clan
+clans der schildkröte:clan der schildkröte
+einfachen:einfache
+glutulhus:glutulhu
+handelsrates:handelsrat
+handelsrats:handelsrat
 harrys:harry
+hyperschiffmodelle:hyperschiffe
+informationen:information
+interaktiven:interaktive
+italienischen mafia:italienische mafia
 kahadriern:kahadrier
+kahadrisches:kahadrisches reich
 kapitalistischen:kapitalistische
 karten:karte
+kauf:kaufen
+konflikte:konflikt
 mensch:menschen
 militärs:militär
-neuasiens:neuasien
 neuasiatischen:neuasien
+neuasiens:neuasien
+neylas:neyla
 oysterclusters:oystercluster
+parteien:partei
+pergaments:pergament
+piratentreffpunkte:piratentreffpunkt
 pirat:piraten
 planeten:planet
-politische:politik
 politische lage:politik
+politische:politik
+proben:probe
+raumflüge:raumflug
+raumkämpfe:raumkampf
 raumschiffen:raumschiffe
 reichs der wagonen:reich der wagonen
+reichs:reich
+rigel: rigel 3
 samnese:samnesen
 samnesin:samnesen
 schlachtkreuzers:schlachtkreuzer
 sektoren:sektor
+sonde:sonden
 spaceamazone:spaceamazonen
 spacepears:spacepear
 spaceworms:spaceworm
 spiralnebels:spiralnebel
+stans:stan
+sternwalen:sternenwale
+stratum novas:stratum nova
 streifianische:streifanier
 syonern:syoner
+szenenstarts:szenenstart
 trullisch:trull
 unbekannten:unbekannt
 unbekannter:unbekannt
@@ -37,41 +68,10 @@ universums:universum
 vereinigten:vereinigte
 wagone:wagonen
 wagonische:wagonen
-yinyangyongs:yinyangyong
 währungen:währung
-weltraumtieren:weltraumtiere
 weiße loch:weißes loch
-stratum novas:stratum nova
-sternwalen:sternenwale
-stans:stan
-piratentreffpunkte:piratentreffpunkt
-neylas:neyla
-kahadrisches:kahadrisches reich
-italienischen mafia:italienische mafia
-interaktiven:interaktive
-hyperschiffmodelle:hyperschiffe
-handelsrats:handelsrat
-handelsrates:handelsrat
-achmed:achmeds
-asiaten:asiat
-clans der schildkröte:clan der schildkröte
-charakters:charaktere
+weltraumtieren:weltraumtiere
 würfeln:würfel
 würfelt:würfel
-szenenstarts:szenenstart
-reichs:reich
-raumkämpfe:raumkampf
-raumflüge:raumflug
-konflikte:konflikt
-alten:alte
+yinyangyongs:yinyangyong
 zähigkeiten:zähigkeit
-sonde:sonden
-proben:probe
-pergaments:pergament
-parteien:partei
-kauf:kaufen
-informationen:information
-glutulhus:glutulhu
-einfachen:einfache
-britney s pears:britney
-rigel: rigel 3

@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/
 title: Kappa Gamma
-aside: index_aside.md
 
 sitedata:
     Planeten:

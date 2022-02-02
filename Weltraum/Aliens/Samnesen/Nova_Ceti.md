@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Aliens/Samnesen/Nova_Ceti
 title: Nova Ceti
-aside: Nova_Ceti_aside.md
 
 sitedata:
     Planeten:

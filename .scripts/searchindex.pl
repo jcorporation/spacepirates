@@ -27,13 +27,20 @@ sub get_files {
     closedir $dh;
 }
 
-open my $dh, ".scripts/searchindex_dirs.txt" or die "Error opening .scripts/searchindex_dirs.txt";
-while (my $dir = <$dh>) {
-    chomp($dir);
-    print "Adding $dir to index\n";
-    get_files($dir);
+my $dh;
+
+if (defined $ARGV[0]) {
+    push @files, $ARGV[0];
 }
+else {
+    open $dh, ".scripts/searchindex_dirs.txt" or die "Error opening .scripts/searchindex_dirs.txt";
+    while (my $dir = <$dh>) {
+        chomp($dir);
+        print "Adding $dir to index\n";
+        get_files($dir);
+    }
 close $dh;
+}
 
 my $files_count = scalar @files;
 print "Found $files_count files\n";
@@ -247,7 +254,7 @@ for my $filename (@files) {
             my $value = "";
             # default score for frontmatter
             my $inc = 2;
-            if ($line =~ /\s*([^:]+)\s+(.+)$/) {
+            if ($line =~ /\s*([^:]+):\s+(.+)$/) {
                 # simple key / value
                 $key = $1;
                 $value = normalize($2);
@@ -273,7 +280,12 @@ for my $filename (@files) {
             }
             if ($key ne "" and $value ne "") {
                 for my $keyword (keys %keywords) {
-                    if ($value =~ /\b$keyword\b/) {
+                    if ($keyword eq $value) {
+                        #exact match
+                        $inc = 75;
+                        add_uri($keyword, $inc, $filename);
+                    }
+                    elsif ($value =~ /\b$keyword\b/) {
                         if ($key eq "title") {
                             $inc = 50;
                         }
