@@ -6651,16 +6651,16 @@
 		"/Weltraum/Promis": 1
 	},
 	"samara": {
+		"/Weltraum/Aliens/Samnesen/": 102,
 		"/Weltraum/Aliens/Samnesen/Sperrzone": 28,
 		"/Weltraum/Historie": 3,
 		"/Weltraum/Aliens/Glukorianer/glutulhu/Rache": 2,
-		"/Weltraum/Aliens/Samnesen/": 2,
 		"/Weltraum/Aliens/Samnesen/Nova_Ceti": 2,
 		"/Weltraum/Aliens/Samnesen/Sampuk": 2,
 		"/Abenteuer/Buschraub/Sperrzone": 1
 	},
 	"samnesen": {
-		"/Weltraum/Aliens/Samnesen/": 27,
+		"/Weltraum/Aliens/Samnesen/": 127,
 		"/Weltraum/Aliens/Samnesen/Sampuk": 6,
 		"/Weltraum/Freihandelszone/Rigel3": 3,
 		"/Weltraum/Historie": 3,

@@ -253,21 +253,24 @@ for my $filename (@files) {
             }
             elsif ($line =~ /^keywords:\s*/) {
                 # special keyword handling
-                $key = $line;
+                $key = "keywords";
                 my @values = ();
                 while ($line = <$fh>) {
+                    # read array, must end with blank line
                     chomp $line;
-                    if ($line =~ /^\s*$/) {
+                    if ($line =~ /^\s+-\s+(.*)$/) {
+                        push @values, normalize($1);
+                    }
+                    else {
                         last;
                     }
-                    push @values, $line;
                 }
-                $value = join @values, " ";
+                $value = join " ", @values;
             }
             else {
                 # ignore key only / blank lines
             }
-            if ($key ne "") {
+            if ($key ne "" and $value ne "") {
                 for my $keyword (keys %keywords) {
                     if ($value =~ /\b$keyword\b/) {
                         if ($key eq "title") {
