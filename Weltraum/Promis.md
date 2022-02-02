@@ -206,6 +206,7 @@ Der einzige Schauspieler der wohl immer noch berühmtesten Holo-Steinzeit-Serie 
 ## Weitere Promis
 
 | Name | Rasse |
+| ---- | ----- |
 | Arnold Easteregger | Spacepear |
 | David Freedomhoff | Mensch |
 | Dolly Laster | Trull |

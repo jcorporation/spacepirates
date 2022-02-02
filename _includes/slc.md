@@ -1,8 +1,8 @@
-{% assign Name = inlcude.data.Name %}
-{% assign Rasse = inlcude.data.Rasse %}
-{% assign Wohnort = inlcude.data.Wohnort %}
-{% assign Kategorie = inlcude.data.Kategorie %}
-{% assign Position = inlcude.data.Position %}
+{% assign Name = include.data.Name %}
+{% assign Rasse = include.data.Rasse %}
+{% assign Wohnort = include.data.Wohnort %}
+{% assign Kategorie = include.data.Kategorie %}
+{% assign Position = include.data.Position %}
 <table>
     <caption>{% include printtext.md data=Name %}</caption>
     <tbody>
