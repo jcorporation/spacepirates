@@ -76,9 +76,8 @@ Jetzt, in diesem Jahrhundert, spielt SpacePirates. Der Kalte Krieg zwischen Sama
 
 - [Die aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Politische_Lage)
 
-{% capture aside %}
+{% capture aside_body %}
 ## In der Zukunft
 
 Im 45. Jahrhundert erwacht [Glutulhu]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu) aus seinem Schlaf und die Glukorianer erobern die bekannten Sektoren.
 {% endcapture %}
-{% assign site.aside_body = aside %}
