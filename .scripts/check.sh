@@ -1,11 +1,13 @@
 #!/bin/bash
 
+DIR=$1
+
 check_permalink() {
     F=$1
     P=${F%.*} # remove extension
-    PERMALINK="${P:1}" # remove first char
-
-    [ "$F" = "./index.md" ] && return
+    PERMALINK=${P:1} # remove first char
+    PERMALINK=${PERMALINK/%index}
+    #[ "$F" = "./index.md" ] && return
 
     if ! grep -q "^permalink: $PERMALINK" "$F"
     then
@@ -22,7 +24,7 @@ check_title() {
     fi
 }
 
-for F in $(find ./ -name \*.md)
+for F in $(find "./$DIR" -name \*.md)
 do
     [ "$F" = "./README.md" ] && continue
     [[ "$F" =~ ^./_includes.* ]] && continue

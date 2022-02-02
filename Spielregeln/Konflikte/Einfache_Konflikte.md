@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Konflikte/Einfachekonflikte
+permalink: /Spielregeln/Konflikte/Einfache_Konflikte
 title: Einfache Konflikte
 ---
 

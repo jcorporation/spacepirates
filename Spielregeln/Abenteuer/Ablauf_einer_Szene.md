@@ -11,7 +11,7 @@ title: Ablauf einer Szene
 Zum Start der Szene beschreibt der Spielleiter den Ort, die anwesenden Personen, hervorstechende Objekte und was sich gerade ereignet. Eben alles, was für die Szene von Bedeutung ist. Dabei sollte er darauf achten, dass es offensichtliche Einstiegsmöglichkeiten für die Spielercharaktere gibt.
 
 {% capture include_body %}
-Die Piratencrew stattet der Raumstation [Two-Eyed-Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Twoeyedjack) einen Besuch ab. Der Spielleiter beschreibt den Trubel am Dock der Raumstation, herumlungernde Gestalten und ein auffälliges Schiff, das gerade eilig und nicht besonders sauber umlackiert wird.
+Die Piratencrew stattet der Raumstation [Two-Eyed-Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack) einen Besuch ab. Der Spielleiter beschreibt den Trubel am Dock der Raumstation, herumlungernde Gestalten und ein auffälliges Schiff, das gerade eilig und nicht besonders sauber umlackiert wird.
 {% endcapture %}
 {% include beispiel.md title="Beispiel eines Szenenstarts" body=include_body %}
 
@@ -110,7 +110,7 @@ Passende Ausrüstungsgegenstände um das SÖLDNER-Profil zu regenerieren sind z.
 
 ### Raumflüge und -kämpfe
 
-Raumflüge liegen meist zwischen zwei Szenen, dauern lang und sind meist recht langweilig, der Weltraum ist eben zum größten Teil leer. Aber natürlich kann auch während des Flugs auf dem Schiff eine Szene spielen. Falls aber nichts Interessantes passiert, sollte einfach zur Ankunft gesprungen werden. Wie [Schäden und Macken von Raumschiffen]({{ site.baseurl }}/Raumflüge und -kämpfe]({{ site.baseurl }}/Spielregeln/Raumsflüge_und-kämpfe) und )({{ site.baseurl }}/Spielregeln/Wartung_von_Raumschiffen) abgehandelt werden, wird nach den [Konfliktregeln]({{ site.baseurl }}/Spielregeln/Konflikte/) erläutert.
+Raumflüge liegen meist zwischen zwei Szenen, dauern lang und sind meist recht langweilig, der Weltraum ist eben zum größten Teil leer. Aber natürlich kann auch während des Flugs auf dem Schiff eine Szene spielen. Falls aber nichts Interessantes passiert, sollte einfach zur Ankunft gesprungen werden. Wie [Raumflüge und -kämpfe]({{ site.baseurl }}/Spielregeln/Raumflüge_und_-kämpfe) und [Schäden und Macken von Raumschiffen])({{ site.baseurl }}/Spielregeln/Wartung_von_Raumschiffen) abgehandelt werden, wird nach den [Konfliktregeln]({{ site.baseurl }}/Spielregeln/Konflikte/) erläutert.
 
 ## Szenenende
 

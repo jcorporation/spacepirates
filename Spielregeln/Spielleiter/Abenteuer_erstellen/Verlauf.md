@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Erstellen_verlauf
+permalink: /Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf
 title: Verlauf
 ---
 

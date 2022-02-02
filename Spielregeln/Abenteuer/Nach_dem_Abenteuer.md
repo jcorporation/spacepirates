@@ -11,7 +11,7 @@ Durch das Erleben des Abenteuers sammeln die Charaktere in jedem Fall Erfahrung 
 {% capture include_body %}
 Holo-Highscore-Punkte dienen nicht dazu, Spieler zu erziehen oder zu belohnen. Daher erhalten alle beteiligten Charaktere am Ende des Abenteuers gleich viele HHP.
 
-Die Holo-Highscore-Punkte sind nach dem Holo-Highscore auf [Two-Eyed-Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Twoeyedjack) benannt. Dort wird stets der derzeit beste Pirat der Galaxis angezeigt.
+Die Holo-Highscore-Punkte sind nach dem Holo-Highscore auf [Two-Eyed-Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack) benannt. Dort wird stets der derzeit beste Pirat der Galaxis angezeigt.
 {% endcapture %}
 {% include hinweis.md title="Holo-Highscore-Punkte" body=include_body %}
 

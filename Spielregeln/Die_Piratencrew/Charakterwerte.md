@@ -72,7 +72,7 @@ Konsequenzen sind Nachteile des Charakters, die ausgespielt werden müssen, aber
 
 ## Holo-Highscore-Punkte
 
-Jeder Charakter beginnt als Möchtegernpirat mit 0 Holo-Highscore-Punkten (HHP). HHP sammelt man, indem man Abenteuer durchlebt. Sie dienen dazu, den Charakter mit der Zeit besser werden zu lassen. Mehr Informationen zu HHP findest du im Abschnitt &bdquo;[Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nachdemabenteuer)&ldquo;.
+Jeder Charakter beginnt als Möchtegernpirat mit 0 Holo-Highscore-Punkten (HHP). HHP sammelt man, indem man Abenteuer durchlebt. Sie dienen dazu, den Charakter mit der Zeit besser werden zu lassen. Mehr Informationen zu HHP findest du im Abschnitt &bdquo;[Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)&ldquo;.
 
 ## Piratenwürfel
 

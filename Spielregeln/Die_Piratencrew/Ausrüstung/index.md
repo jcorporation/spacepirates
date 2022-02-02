@@ -17,7 +17,7 @@ Jeder Charakter startet mit 3.000 UC, von denen er sich Ausrüstung und Waffen k
 - **Startgeld:** 3.000 UC
 
 - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen)
-- [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse)
+- [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände)
 - [Rauschmittel]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel)
 
 {% capture include_body %}
@@ -32,11 +32,11 @@ Die gesamte Gruppe bekommt ein Raumschiff im Wert von 13.000 + 5.000 &times; Gru
 Zu einem vernünftigen Piratenschiff gehören natürlich Bordkanonen, Sensoren, Schilde, ein spaciger Name und eine kurze Beschreibung.
 
 - **Raumschiffwert:** 13.000 + 5.000 &times; Gruppenmitglieder UC
-- [Raumschiffe]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe)
-  - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_waffen)
-  - [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_schilde)
-  - [Sensoren]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_sensoren)
-  - [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_diverses)
-  - [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_style)
+- [Raumschiffe]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/)
+  - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen)
+  - [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde)
+  - [Sensoren]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren)
+  - [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Diverses)
+  - [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör)
 - [Raumschiffmacken]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken)
 - [Beispielraumschiff]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Beispielraumschiff)

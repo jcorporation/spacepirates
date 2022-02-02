@@ -57,11 +57,11 @@ Das Raumschiff sollte zumindest mit folgenden Dingen ausgestattet sein:
 
 Jedes Raumschiff kann mit beliebig viel Zubehör ausgerüstet werden.
 
-- [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_waffen)
-- [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_schilde)
-- [Sensoren]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_sensoren)
-- [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_diverses)
-- [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe_style)
+- [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen)
+- [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde)
+- [Sensoren]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren)
+- [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Diverses)
+- [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör)
 
 ## Raumschiffmacken
 
