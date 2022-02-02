@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/index
+permalink: /Spielregeln/
 title: Spielregeln
 ---
 

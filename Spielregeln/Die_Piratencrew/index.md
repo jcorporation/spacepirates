@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/index
+permalink: /Spielregeln/Die_Piratencrew/
 title: Die Piratencrew
 ---
 

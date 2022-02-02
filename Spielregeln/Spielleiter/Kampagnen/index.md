@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Kampagnen/index
+permalink: /Spielregeln/Spielleiter/Kampagnen/
 title: Kampagnen mit SpacePirates
 ---
 
