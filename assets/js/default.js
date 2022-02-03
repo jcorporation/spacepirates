@@ -119,7 +119,7 @@ inputSearch.addEventListener('keyup', function(event) {
         a.classList.add('list-group-item', 'bg-yellow');
         searchResult.appendChild(a);
         i++;
-        if (i > 10) {
+        if (i > 9) {
             break;
         }
     }
