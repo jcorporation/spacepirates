@@ -104,9 +104,12 @@ inputSearch.addEventListener('keyup', function(event) {
     for (const match of matches) {
         const a = document.createElement('a');
         const path = match.split('/');
-        let name = path[path.length - 1];
+        path.shift();
+        let name = path.pop();
+        name = name.replace(/_/, ' ');
         const crumbs = document.createElement('small');
-        crumbs.innerText = path.join("›");
+        crumbs.classList.add('d-block');
+        crumbs.innerText = path.join(" › ");
         a.innerText = name;
         a.appendChild(crumbs);
         a.href = match; 
