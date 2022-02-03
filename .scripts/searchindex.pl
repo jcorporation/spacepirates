@@ -74,7 +74,7 @@ while (my $line = <$fh>) {
     }
     my ($key, $value) = split /\s*:\s*/,$line;
     $stompkeys{$key} = $value;
-    print $oh "\t\"$key\": \"$value\"";
+    print $oh "  \"$key\": \"$value\"";
 }
 print $oh "\n}\n";
 close $fh;
@@ -431,20 +431,20 @@ for my $keyword (sort keys %keywords) {
     if ($i++) {
         print $oh ",\n";
     }
-    print $oh "\t\"$keyword\": {\n";
+    print $oh "  \"$keyword\": {\n";
     $j = 0;
     # sort by value
     for my $site (sort { $keywords{$keyword}{$b} <=> $keywords{$keyword}{$a} or $a cmp $b } keys %{$keywords{$keyword}}) {
         if ($j++) {
             print $oh ",\n";
         }
-        print $oh "\t\t\"$site\": $keywords{$keyword}{$site}";
+        print $oh "    \"$site\": $keywords{$keyword}{$site}";
         if ($j ge 20 and $keywords{$keyword}{$site} eq 1) {
             # limit keyword results to 20 sites
             last;
         }
     }
-    print $oh "\n\t}";
+    print $oh "\n  }";
 }
 print $oh "\n}\n";
 close $oh;
