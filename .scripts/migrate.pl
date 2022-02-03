@@ -72,6 +72,7 @@ for (@permalinks) {
 }
 $permalink =~ s|//|/|g;
 $permalink =~ s|/./|/|g;
+$permalink =~ s|/index$|/|g;
 
 open my $out, ">".$outfile or die;
 print $out qq|---
@@ -85,8 +86,8 @@ title: $title
 while (<$in>) {
     chomp;
     s|src=\"/www/([^"]+)\"|&replace_src($1)|ge;
-    s|<a href=\"([^"]+)\">([^<]+)</a>|&replace_href($1, $2)|ge;
     s|\[([^\[]+)\[([^\]]+)\]|&replace_href($1, $2)|ge;
+    s|<a href=\"([^"]+)\">([^<]+)</a>|&replace_href($1, $2)|ge;
     s|\&auml;|ä|g;
     s|\&ouml;|ö|g;
     s|\&uuml;|ü|g;
@@ -108,7 +109,8 @@ while (<$in>) {
     s|<section>||g;
     s|</article>||g;
     s|</section>||g;
-    s|/Regelwerkv5/|/Spielregeln/|g;
+    s|<aside>||g;
+    s|</aside>||g;
     if (m/^<ul>/) {
         next;
     }

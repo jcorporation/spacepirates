@@ -1,0 +1,20 @@
+{
+  "Gamma-Stadt": {
+    "Name": "Gamma-Stadt",
+    "Planet": "Kappa Gamma",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt"
+  },
+  "Kappa-Stadt": {
+    "Name": "Kappa-Stadt",
+    "Planet": "Kappa Gamma",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt"
+  },
+  "Sila_City": {
+    "Name": "Sila City",
+    "Planet": "Sampuk",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt"
+  }
+}

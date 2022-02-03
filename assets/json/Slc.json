@@ -1,0 +1,371 @@
+{
+  "Aal_Jarreau": {
+    "Name": "Aal Jarreau",
+    "Rasse": "SpacePear",
+    "Kategorie": "Promi",
+    "Wohnort": "Freeport",
+    "Position": ""
+  },
+  "Al_Banchigo": {
+    "Name": "Al Banchigo",
+    "Rasse": "Trull",
+    "Kategorie": [
+      "Händler",
+      "Hehler"
+    ],
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Alexa_Reed": {
+    "Name": "Alexa Reed",
+    "Rasse": "Samnesin",
+    "Kategorie": "Promi",
+    "Wohnort": "Freeport",
+    "Position": ""
+  },
+  "Arnold_Easteregger": {
+    "Name": "Arnold Easteregger",
+    "Rasse": "Spacepear",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Barbara_Streifsand": {
+    "Name": "Barbara Streifsand",
+    "Rasse": "Streifanierin",
+    "Kategorie": "Promi",
+    "Wohnort": "Streif",
+    "Position": ""
+  },
+  "Birgit_Niels": {
+    "Name": "Birgit Niels",
+    "Rasse": "Spaceamazone",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Black_Jack": {
+    "Name": "Black Jack",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Unternehmer",
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Blue_Rai": {
+    "Name": "Blue Rai",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Hehler",
+      "Händler",
+      "Kneipenbesitzer"
+    ],
+    "Wohnort": "Two Eyed Jack",
+    "Position": "Kneipenbesitzer"
+  },
+  "Britney_S_Pears": {
+    "Name": "Britney S. Pears",
+    "Rasse": "SpacePear",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Chester_Gateland": {
+    "Name": "Chester Gateland",
+    "Rasse": "Trull",
+    "Kategorie": "Militär",
+    "Position": "Bekannter Kapitän des großen Trullschiffes Gateland.",
+    "Wohnort": "Trullmania"
+  },
+  "David_Freedomhoff": {
+    "Name": "David Freedomhoff",
+    "Rasse": "Mensch",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Dia_Mond": {
+    "Name": "Dia Mond",
+    "Rasse": "Samnesin",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Dimli": {
+    "Name": "Dimli",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Dolly_Laster": {
+    "Name": "Dolly Laster",
+    "Rasse": "Trull",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Edward_Bakutha": {
+    "Name": "Edward Bakutha",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler"
+    ],
+    "Position": "Leiter eines Forschungsteams des galaktischen Handelsrats.",
+    "Wohnort": "Javar 3"
+  },
+  "Fake_Henry": {
+    "Name": "Fake Henry",
+    "Rasse": "Mensch",
+    "Kategorie": "Fälscher",
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Halram_Baxu": {
+    "Name": "Halram Baxu",
+    "Rasse": "Trull",
+    "Kategorie": [
+      "Händler"
+    ],
+    "Wohnort": "Oyster-Cluster",
+    "Position": ""
+  },
+  "Hari_Jambal": {
+    "Name": "Hari Jambal",
+    "Rasse": "Asiat",
+    "Kategorie": "Militär",
+    "Position": "Admiral der Flotte Neuasiens.",
+    "Wohnort": "Neuchina"
+  },
+  "Holly_Day": {
+    "Name": "Holly Day",
+    "Rasse": "Mensch",
+    "Kategorie": "Doc",
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Iyani_Dizalo": {
+    "Name": "Iyani Dizalo",
+    "Rasse": "Trull",
+    "Kategorie": [
+      "Händler"
+    ],
+    "Wohnort": "Scrabnambu",
+    "Position": ""
+  },
+  "Jean_Damme_van_Raumcloud": {
+    "Name": "Jean Damme van Raumcloud",
+    "Rasse": "Streifanier",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "John_Marric": {
+    "Name": "John Marric",
+    "Rasse": "Samnese",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler"
+    ],
+    "Position": "",
+    "Wohnort": "Weißes Loch"
+  },
+  "Khan_Keyne": {
+    "Name": "Khan Keyne",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Kuster_Beaton": {
+    "Name": "Kuster Beaton",
+    "Rasse": "Mensch",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "LAK-418": {
+    "Name": "LAK-418",
+    "Rasse": "Samnese",
+    "Kategorie": "Händler",
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Long_Dong_Plasmatongue": {
+    "Name": "Long Dong Plasmatongue",
+    "Rasse": "Samnese",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Mad_Harry": {
+    "Name": "Mad Harry",
+    "Rasse": "Trull",
+    "Kategorie": "Händler",
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Madame_PlaemPlaem": {
+    "Name": "Madame PlämPläm",
+    "Rasse": "unbekannt",
+    "Kategorie": "Promi",
+    "Wohnort": "unbekannt",
+    "Position": ""
+  },
+  "Martinez_Hernandes": {
+    "Name": "Martinez Hernandes",
+    "Rasse": "Mensch",
+    "Kategorie": "Reporter",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Melinda_Gomez": {
+    "Name": "Melinda Gomez",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Händler"
+    ],
+    "Wohnort": "Pandar 5",
+    "Position": ""
+  },
+  "Melonen-Wagoner_Chaplin": {
+    "Name": "Melonen-Wagoner Chaplin",
+    "Rasse": "Wagone",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Olf_Dundgren": {
+    "Name": "Olf Dundgren",
+    "Rasse": "Samnese",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Professor_Robotto": {
+    "Name": "Professor Robotto",
+    "Rasse": "Kahadrier",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler"
+    ],
+    "Position": "",
+    "Wohnort": "Scrabnambu"
+  },
+  "Rachel_Springs": {
+    "Name": "Rachel Springs",
+    "Rasse": "Mensch",
+    "Kategorie": "Militär",
+    "Position": "Eine ranghohe Generalin der Föderationsflotte.",
+    "Wohnort": "Erde"
+  },
+  "Randul_Zac": {
+    "Name": "Randul Zac",
+    "Rasse": "Samnese",
+    "Kategorie": [
+      "Händler"
+    ],
+    "Wohnort": "Keas",
+    "Position": ""
+  },
+  "Raul_Reitner": {
+    "Name": "Raul Reitner",
+    "Rasse": "Streifanier",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Sabrwal": {
+    "Name": "Sabrwal",
+    "Rasse": "Trull",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler",
+      "Assistent"
+    ],
+    "Position": "Assistent von Professor Robotto",
+    "Wohnort": "Scrabnambu"
+  },
+  "Scharxu": {
+    "Name": "Scharxu",
+    "Rasse": "Trull",
+    "Kategorie": [
+      "Händler",
+      "Hehler"
+    ],
+    "Wohnort": "Freihandelszone",
+    "Position": ""
+  },
+  "Schroeder": {
+    "Name": "Schröder",
+    "Rasse": "Mensch",
+    "Kategorie": "Händler",
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Stan_Stanton": {
+    "Name": "Stan Stanton",
+    "Rasse": "Samnese",
+    "Kategorie": "Händler",
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Takahashi_Ning": {
+    "Name": "Takahashi Ning",
+    "Rasse": "Neuasiat",
+    "Kategorie": [
+      "Militär",
+      "Halunke"
+    ],
+    "Wohnort": "Neuchina",
+    "Position": ""
+  },
+  "Troedler_Abraham": {
+    "Name": "Trödler Abraham",
+    "Rasse": "Trull",
+    "Kategorie": "Händler",
+    "Wohnort": "Halfway",
+    "Position": ""
+  },
+  "Two_Eyed_Jack": {
+    "Name": "Two Eyed Jack",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Kneipenbesitzer",
+      "Pirat"
+    ],
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Ursel": {
+    "Name": "Ursel",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Kneipenbesitzer",
+    "Wohnort": "Two Eyed Jack",
+    "Position": ""
+  },
+  "Walter_Kirkham": {
+    "Name": "Walter Kirkham",
+    "Rasse": "Mensch",
+    "Kategorie": "Militär",
+    "Position": "Ein korrupter Hauptmann der Flotte des Galaktischen Handelsrats.",
+    "Wohnort": "Neusirius"
+  },
+  "Wicker": {
+    "Name": "Wicker",
+    "Rasse": "Streifanier",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "Position": ""
+  },
+  "Xergul": {
+    "Name": "Xergul",
+    "Rasse": "Kahadrier",
+    "Kategorie": [
+      "Forscher",
+      "Verrückter Wissenschaftler"
+    ],
+    "Position": "",
+    "Wohnort": "unbekannt"
+  }
+}

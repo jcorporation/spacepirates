@@ -6,11 +6,20 @@ $|++;
 # globales
 my @files = ();
 my %keywords;
+my ($fh, $dh, $oh); #filehandlers
+my ($i, $j); #inc variables
+
+# log
+my $debug = $ENV{'DEBUG'};
+
+sub _log {
+    print $_[0]."\n" if defined($debug);
+}
 
 # first get all files to index
 sub get_files {
     my $dirname = $_[0];
-    opendir my $dh, $dirname or die "Error in opening dir $dirname\n";
+    opendir $dh, $dirname or die "Error in opening dir $dirname\n";
     while (my $filename = readdir($dh)) {
         if ($filename =~ /^\./ or
             $filename =~ /.*~$/)
@@ -27,13 +36,12 @@ sub get_files {
     closedir $dh;
 }
 
-my $dh;
-
+# get files to index
 if (defined $ARGV[0]) {
     push @files, $ARGV[0];
 }
 else {
-    open $dh, ".scripts/searchindex_dirs.txt" or die "Error opening .scripts/searchindex_dirs.txt";
+    open my $dh, ".scripts/searchindex_dirs.txt" or die "Error opening .scripts/searchindex_dirs.txt";
     while (my $dir = <$dh>) {
         chomp($dir);
         print "Adding $dir to index\n";
@@ -47,7 +55,7 @@ print "Found $files_count files\n";
 
 # manage keywords to index
 my %ignorewords;
-open my $fh, ".scripts/searchindex_ignorewords.txt" or die "Error opening .scripts/searchindex_ignorewords.txt";
+open $fh, ".scripts/searchindex_ignorewords.txt" or die "Error opening .scripts/searchindex_ignorewords.txt";
 while (my $word = <$fh>) {
     chomp($word);
     $ignorewords{$word} = 1;
@@ -56,12 +64,21 @@ close $fh;
 
 my %stompkeys;
 open $fh, ".scripts/searchindex_stompkeys.txt" or die "Error opening .scripts/searchindex_stompkeys.txt";
+open $oh, ">_data/searchindex_stompkeys.json" or die "Error opening _data/searchindex_stompkeys.txt";
+print $oh "{\n";
+$i = 0;
 while (my $line = <$fh>) {
     chomp($line);
+    if ($i++) {
+        print $oh ",\n";
+    }
     my ($key, $value) = split /:/,$line;
     $stompkeys{$key} = $value;
+    print $oh "\t\"$key\": \"$value\"";
 }
+print $oh "\n}\n";
 close $fh;
+close $oh;
 
 sub get_uri {
     my $uri = $_[0];
@@ -124,7 +141,9 @@ sub add_keyphrase {
     my $kw = $_[0];
     my $full = $_[1];
 
-    if ($kw =~ /^\s*$/) {
+    if ($kw =~ /^\s*$/ or
+        $kw eq "-")
+    {
         return;
     }
 
@@ -146,7 +165,53 @@ sub add_keyphrase {
 # get keywords from files
 for my $filename (@files) {
     open my $fh, $filename or die "Error opening file $filename\n";
-    while (my $line = <$fh>) {
+    my $line = <$fh>;
+    chomp $line;
+    # check frontmatter
+    if ($line eq "---") {
+        # parse frontmatter
+        _log("Start of frontmatter");
+        my $key = "";
+        my $value = "";
+        while ($line = <$fh>) {
+            chomp($line);
+            if ($line eq "---") {
+                # frontmatter end
+                _log("End of frontmatter");
+                last;
+            }
+            if ($line =~ /\s*([^:]+):\s+(.+)$/) {
+                # simple key / value
+                $key = $1;
+                $value = normalize($2);
+            }
+            elsif ($line =~ /\s*([^:]+):\s*$/) {
+                # array key
+                $key = $1;
+                $value = "";
+            }
+            elsif ($line =~ /^\s+-\s+(.*)$/) {
+                # array value
+                $value = $1;
+            }
+            else {
+                # ignore blank lines
+                $value = "";
+            }
+            if ($key =~ /^(keywords|title)$/ and $value ne "") {
+                _log("Add keyphrase from $key: $value");
+                add_keyphrase($value, "true");
+            }
+        }
+    }
+    else {
+        # no frontmatter: reopen to parse first line as content
+        _log("No frontmatter found");
+        close $fh;
+        open $fh, $filename or die "Error opening file $filename\n";
+    }    
+    while ($line = <$fh>) {
+        #Todo: add keywords from frontmatter
         if ($line =~ /^#+\s*(.+)\s*$/) {
             # titles
             add_keyphrase($1, "true");
@@ -173,6 +238,7 @@ while (my $line = <$fh>) {
 }
 close $fh;
 
+# parses json files in the _data directory
 sub parse_data {
     my $filename = $_[0];
     open my $fh, $filename or die "Error opening file $filename\n";
@@ -218,7 +284,7 @@ closedir $dh;
 my $keywords_count = scalar keys %keywords;
 print "Discovered $keywords_count keywords\n";
 
-print "Indexing files";
+print "Indexing files\n";
 # add uri to index
 sub add_uri {
     my $key = $_[0];
@@ -235,94 +301,94 @@ sub add_uri {
     }
 }
 
-# index files
+# searches the frontmatter value for keywords
 sub parse_value {
     my $key = $_[0];
     my $value = $_[1];
     my $filename = $_[2];
     # default score for frontmatter
-    my $inc = 2;
+    my $inc = 1;
     for my $keyword (keys %keywords) {
         if ($keyword eq $value) {
             #exact match
             $inc = 10;
             if ($key eq "title") {
-                $inc = 200;
+                $inc = 100;
             }
             elsif ($key eq "keywords") {
-                $inc = 200;
+                $inc = 150;
             }
+            _log("$key eq $keyword: inc $inc");
             add_uri($keyword, $inc, $filename);
         }
         elsif ($value =~ /\b$keyword\b/) {
             if ($key eq "title") {
-                $inc = 100;
+                _log("$key eq $keyword: inc 200");
+                $inc = 50;
             }
             elsif ($key eq "keywords") {
-                $inc = 200;
+                $inc = 75;
             }
+            _log("$key matches $keyword: inc $inc");
             add_uri($keyword, $inc, $filename);
         }
     }
 }
 
+#index files
 for my $filename (@files) {
     open $fh, $filename or die "Error opening file $filename\n";
-    print ".";
-    my $content = "";
+    if (defined($debug)) {
+        _log("Parsing $filename");
+    }
+    else {
+        print ".";
+    }
     my $line = <$fh>;
     chomp $line;
     # check frontmatter
     if ($line eq "---") {
         # parse frontmatter
-        $line = <$fh>;
-        chomp $line;
-        while () {
+        _log("Start of frontmatter");
+        my $key = "";
+        my $value = "";
+        while ($line = <$fh>) {
+            chomp($line);
             if ($line eq "---") {
+                # frontmatter end
+                _log("End of frontmatter");
                 last;
             }
-            my $key = "";
-            my $value = "";
             if ($line =~ /\s*([^:]+):\s+(.+)$/) {
                 # simple key / value
                 $key = $1;
                 $value = normalize($2);
-                $line = "";
             }
-            elsif ($line =~ /\s*(\w+):\s*$/) {
-                # array 
+            elsif ($line =~ /\s*([^:]+):\s*$/) {
+                # array key
                 $key = $1;
-                my @values = ();
-                while ($line = <$fh>) {
-                    chomp $line;
-                    if ($line =~ /^\s+-\s+(.*)$/) {
-                        push @values, normalize($1);
-                    }
-                    else {
-                        last;
-                    }
-                }
-                $value = join " ", @values;
+                $value = "";
+            }
+            elsif ($line =~ /^\s+-\s+(.*)$/) {
+                # array value
+                $value = $1;
             }
             else {
-                # ignore key only / blank lines
-                $line = "";
+                # ignore blank lines
+                $value = "";
             }
             if ($key ne "" and $value ne "") {
                 parse_value($key, $value, $filename);
             }
-            if ($line eq "") {
-                $line = <$fh>;
-                chomp($line);
-            }
         }
     }
     else {
-        # reopen to parse first line as content
+        # no frontmatter: reopen to parse first line as content
+        _log("No frontmatter found");
         close $fh;
         open $fh, $filename or die "Error opening file $filename\n";
     }
-
+    _log("Parse content");
     # parse content
     while ($line = <$fh>) {
         chomp $line;
@@ -345,33 +411,33 @@ for my $filename (@files) {
 print "\n";
 
 #write json searchindex
-open my $out, ">_data/searchindex.json";
-print $out "{\n";
-my $i = 0;
+open $oh, ">_data/searchindex.json";
+print $oh "{\n";
+$i = 0;
 for my $keyword (sort keys %keywords) {
     if (scalar keys %{$keywords{$keyword}} eq 0) {
         # skip keywords with no sites
         next;
     }
     if ($i++) {
-        print $out ",\n";
+        print $oh ",\n";
     }
-    print $out "\t\"$keyword\": {\n";
-    my $j = 0;
+    print $oh "\t\"$keyword\": {\n";
+    $j = 0;
     # sort by value
     for my $site (sort { $keywords{$keyword}{$b} <=> $keywords{$keyword}{$a} or $a cmp $b } keys %{$keywords{$keyword}}) {
         if ($j++) {
-            print $out ",\n";
+            print $oh ",\n";
         }
-        print $out "\t\t\"$site\": $keywords{$keyword}{$site}";
+        print $oh "\t\t\"$site\": $keywords{$keyword}{$site}";
         if ($j ge 20 and $keywords{$keyword}{$site} eq 1) {
             # limit keyword results to 20 sites
             last;
         }
     }
-    print $out "\n\t}";
+    print $oh "\n\t}";
 }
-print $out "\n}\n";
-close $out;
+print $oh "\n}\n";
+close $oh;
 
 print "$i keywords in searchindex\n";

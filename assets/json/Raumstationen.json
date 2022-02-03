@@ -1,0 +1,26 @@
+{
+  "Halfway": {
+    "Name": "Halfway",
+    "Sektor": "Trullimperium",
+    "Bewohner": "Piraten",
+    "Politisches": "Piratentreffpunkt"
+  },
+  "Kuerbis-Station": {
+    "Name": "Kürbis-Station",
+    "Sektor": "Sektor D1",
+    "Bewohner": "Glukorianer",
+    "Politisches": "keine politischen Beziehungen"
+  },
+  "Saloniki": {
+    "Name": "Saloniki",
+    "Sektor": "Rand des Universums",
+    "Bewohner": "Griechen",
+    "Politisches": "Unabhängig"
+  },
+  "Two_Eyed_Jack": {
+    "Name": "Two Eyed Jack",
+    "Sektor": "Freihandelszone",
+    "Bewohner": "Piraten",
+    "Politisches": "Piratentreffpunkt"
+  }
+}

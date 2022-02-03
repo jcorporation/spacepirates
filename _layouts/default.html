@@ -31,9 +31,19 @@
       </nav>
     </header>
     <header class="navbar navbar-expand-md py-2 mb-2 bg-yellow">
-      <nav class="breadcrumb container-xxl flex-wrap px-3 mb-0 justify-content-start">
-        {% include breadcrumbs.md %}
-      </nav>
+      <div class="container-xxl">
+        <nav class="breadcrumb flex-wrap mb-0 justify-content-start">
+          {% include breadcrumbs.md %}
+        </nav>
+        <div class="btn-group dropstart">
+          <button id="btnSearch" data-bs-toggle="dropdown" class="btn btn-sm btn-yellow border-0 mi">search</button>
+          <div class="dropdown-menu">
+            <input type="text" class="form-control"/>
+            <div class="dropdown-divider"></div>
+            <div class="list-group" id="searchResult"></div>
+          </div>
+        </div>
+      </div>
     </header>
     <div class="container-xxl py-2 flex-grow-1">
         {{ content }}
