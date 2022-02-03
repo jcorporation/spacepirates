@@ -88,7 +88,7 @@ inputSearch.addEventListener('keyup', function(event) {
         value = stomp;
     }
     // search
-    const matches = ();
+    const matches = [];
     for (const key in searchIndex) {
         if (key.indexOf(value) === 0) {
             for (const uri of searchIndex[key]) {
@@ -104,5 +104,7 @@ inputSearch.addEventListener('keyup', function(event) {
         const a = document.createElement('a');
         a.innerText = match;
         a.href = match; 
+        a.classList.add('list-group-item', 'list-group-item-action');
+        searchResult.appendChild(a);
     }
 }, false);
