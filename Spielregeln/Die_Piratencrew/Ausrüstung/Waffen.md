@@ -65,7 +65,7 @@ Es gibt alle möglichen und unmöglichen Waffen. Die meisten geben keinen Bonusw
 </table>
 
 - Der **Cyberholzfuß** und die **Hakenhand** ersetzen die normalen Gliedmaßen.
-- **Vibrosäbel **sind elegante Piratensäbel, deren Klinge leicht vibriert, wodurch sie mehr Schaden verursachen.
+- **Vibrosäbel** sind elegante Piratensäbel, deren Klinge leicht vibriert, wodurch sie mehr Schaden verursachen.
 - **Ionisierte Äxte** sind zum einen besonders scharf, weshalb sie fast jedes Material durchdringen können, und stumpfen zum anderen nicht ab.
 - Der **Rauchwerfer** funktioniert im Prinzip wie ein Feuerwerfer, nur dass er dichte, benebelnde Rauchschwaden ausspuckt.
 - **Laser-Nunchakus** bestehen aus zwei stabförmigen Energiezellen, die mit einer Art Laserstrahl verbunden sind.
