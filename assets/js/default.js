@@ -105,7 +105,7 @@ inputSearch.addEventListener('keyup', function(event) {
         const a = document.createElement('a');
         a.innerText = match;
         a.href = match; 
-        a.classList.add('list-group-item', 'list-group-item-action');
+        a.classList.add('list-group-item', 'bg-yellow');
         searchResult.appendChild(a);
         i++;
         if (i > 10) {

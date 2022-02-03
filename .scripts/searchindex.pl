@@ -19,7 +19,7 @@ sub _log {
 # first get all files to index
 sub get_files {
     my $dirname = $_[0];
-    opendir $dh, $dirname or die "Error in opening dir $dirname\n";
+    opendir my $dh, $dirname or die "Error in opening dir $dirname\n";
     while (my $filename = readdir($dh)) {
         if ($filename =~ /^\./ or
             $filename =~ /.*~$/)
@@ -72,7 +72,7 @@ while (my $line = <$fh>) {
     if ($i++) {
         print $oh ",\n";
     }
-    my ($key, $value) = split /:/,$line;
+    my ($key, $value) = split /\s*:\s*/,$line;
     $stompkeys{$key} = $value;
     print $oh "\t\"$key\": \"$value\"";
 }
@@ -108,7 +108,7 @@ sub normalize {
     # markdown links
     $kw =~ s/\[([^\]]+)\]\([^\)]+\)/$1/g;
     # special chars
-    $kw =~ s/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#]//g;
+    $kw =~ s/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#–]//g;
     # whitspaces
     $kw =~ s/\&nbsp;/ /g;
     $kw =~ s/\s+/ /g;
@@ -199,7 +199,7 @@ for my $filename (@files) {
                 $value = "";
             }
             if ($key =~ /^(keywords|title)$/ and $value ne "") {
-                _log("Add keyphrase from $key: $value");
+                _log("Add keyphrase from \"$key\": \"$value\"");
                 add_keyphrase($value, "true");
             }
         }
@@ -214,15 +214,18 @@ for my $filename (@files) {
         #Todo: add keywords from frontmatter
         if ($line =~ /^#+\s*(.+)\s*$/) {
             # titles
+            _log("Add keyphrase from \"heading\": \"$1\"");
             add_keyphrase($1, "true");
             next;
         }
         while ($line =~ /\[([^\]]+)\]\([^\)]+\)/g) {
             # links
+            _log("Add keyphrase from \"link\": \"$1\"");
             add_keyphrase($1, "false");
         }
         while ($line =~ /<a href="[^"]+">([^<]+)<\/a>/g) {
             # links
+            _log("Add keyphrase from \"link\": \"$1\"");
             add_keyphrase($1, "false");
         }
     }
@@ -292,6 +295,11 @@ sub add_uri {
     my $filename = $_[2];
 
     my $nkey = defined $stompkeys{$key} ? $stompkeys{$key} : $key;
+    if (defined($debug)) {
+        if ($nkey ne $key) {
+            _log("Stomped keyword from \"$key\" to \"$nkey\"");
+        }
+    }
     my $uri = get_uri($filename);
     if (defined $keywords{$nkey}{$uri}) {
         $keywords{$nkey}{$uri}+= $inc;
@@ -318,18 +326,18 @@ sub parse_value {
             elsif ($key eq "keywords") {
                 $inc = 150;
             }
-            _log("$key eq $keyword: inc $inc");
+            _log("\"$key\" eq \"$keyword\": inc $inc");
             add_uri($keyword, $inc, $filename);
         }
         elsif ($value =~ /\b$keyword\b/) {
             if ($key eq "title") {
-                _log("$key eq $keyword: inc 200");
+                _log("\"$key\" eq \"$keyword\": inc 200");
                 $inc = 50;
             }
             elsif ($key eq "keywords") {
                 $inc = 75;
             }
-            _log("$key matches $keyword: inc $inc");
+            _log("\"$key\" matches \"$keyword\": inc $inc");
             add_uri($keyword, $inc, $filename);
         }
     }
@@ -339,7 +347,7 @@ sub parse_value {
 for my $filename (@files) {
     open $fh, $filename or die "Error opening file $filename\n";
     if (defined($debug)) {
-        _log("Parsing $filename");
+        _log("Parsing \"$filename\"");
     }
     else {
         print ".";
@@ -402,6 +410,7 @@ for my $filename (@files) {
         $line = normalize($line);
         for my $keyword (keys %keywords) {
             if ($line =~ /\b$keyword\b/) {
+                _log("Matched \"$keyword\": inc $inc");
                 add_uri($keyword, $inc, $filename);
             }
         }

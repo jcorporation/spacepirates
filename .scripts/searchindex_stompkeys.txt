@@ -46,7 +46,7 @@ raumschiffen:raumschiff
 raumschiffe:raumschiff
 reichs der wagonen:reich der wagonen
 reichs:reich
-rigel: rigel 3
+rigel:rigel 3
 samnesen:samnese
 samnesin:samnese
 schlachtkreuzers:schlachtkreuzer
