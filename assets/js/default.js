@@ -91,7 +91,7 @@ inputSearch.addEventListener('keyup', function(event) {
     const matches = [];
     for (const key in searchIndex) {
         if (key.indexOf(value) === 0) {
-            for (const uri of searchIndex[key]) {
+            for (const uri in searchIndex[key]) {
                 matches.push(uri);
             }
         }
@@ -100,11 +100,16 @@ inputSearch.addEventListener('keyup', function(event) {
     
     // print result
     searchResult.innerText = '';
+    let i = 0;
     for (const match of matches) {
         const a = document.createElement('a');
         a.innerText = match;
         a.href = match; 
         a.classList.add('list-group-item', 'list-group-item-action');
         searchResult.appendChild(a);
+        i++;
+        if (i > 10) {
+            break;
+        }
     }
 }, false);
