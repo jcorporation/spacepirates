@@ -131,3 +131,7 @@ input:focus,
 button:focus {
   box-shadow: none !important;
 }
+
+#dropdownSearch {
+  min-width: 20rem;
+}

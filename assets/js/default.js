@@ -106,10 +106,13 @@ inputSearch.addEventListener('keyup', function(event) {
         const path = match.split('/');
         path.shift();
         let name = path.pop();
-        name = name.replace(/_/, ' ');
+        if (name === '') {
+            name = path.pop();
+        }
+        name = name.replace(/_/g, ' ');
         const crumbs = document.createElement('small');
         crumbs.classList.add('d-block');
-        crumbs.innerText = path.join(" › ");
+        crumbs.innerText = path.join(" › ").replace(/_/g, ' ');
         a.innerText = name;
         a.appendChild(crumbs);
         a.href = match; 
