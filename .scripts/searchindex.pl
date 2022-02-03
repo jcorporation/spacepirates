@@ -108,7 +108,7 @@ sub normalize {
     # markdown links
     $kw =~ s/\[([^\]]+)\]\([^\)]+\)/$1/g;
     # special chars
-    $kw =~ s/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#–]//g;
+    $kw =~ s/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#–„“]//g;
     # whitspaces
     $kw =~ s/\&nbsp;/ /g;
     $kw =~ s/\s+/ /g;
