@@ -126,3 +126,8 @@ main ul {
 .text-shadow {
   text-shadow: 1px 1px black;
 }
+
+input:focus,
+button:focus {
+  box-shadow: none !important;
+}

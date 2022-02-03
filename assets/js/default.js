@@ -19,3 +19,90 @@ for (const table of tables) {
     table.parentNode.insertBefore(div, table);
     div.appendChild(table);
 }
+
+//search
+let searchIndex = null;
+let stompWords = null;
+
+function fetchJSON(dataFile, callback) {
+    const ajaxRequest = new XMLHttpRequest();
+    ajaxRequest.open('GET', '/assets/json/' + dataFile + '.json', true);
+    ajaxRequest.onreadystatechange = function() {
+        if (ajaxRequest.status === 200) {
+            const obj = JSON.parse(ajaxRequest.responseText);
+            cbFetchJSON(dataFile, obj, callback);
+        }
+    };
+    ajaxRequest.send();
+}
+
+function cbFetchJSON(dataFile, obj, callback) {
+    switch(dataFile) {
+        case 'searchindex':
+            searchIndex = obj;
+            break;
+        case 'searchindex_stompkeys':
+            stompWords = obj;
+            break;
+    }
+    if (callback !== null) {
+        callback();
+    }
+}
+
+function cbSearchInitialized() {
+    if (searchIndex !== null &&
+        stompWords !== null)
+    {
+        inputSearch.removeAttribute('disabled');
+        inputSearch.setAttribute('placeholder','Suchen');
+        inputSearch.focus();
+        return true;
+    }
+    return false;
+}
+
+const inputSearch = document.getElementById('inputSearch');
+const searchResult = document.getElementById('searchResult');
+document.getElementById('btnSearch').parentNode.addEventListener('shown.bs.dropdown', function() {
+    if (cbSearchInitialized() === false) {
+        inputSearch.setAttribute('disabled', 'disabled');
+        inputSearch.setAttribute('placeholder','Wird initializiert...');
+        fetchJSON('searchindex', cbSearchInitialized);
+        fetchJSON('searchindex_stompkeys', cbSearchInitialized);
+    }
+}, false);
+
+inputSearch.addEventListener('click', function(event) {
+    // do not close dropdown
+    event.stopPropagation();
+}, false);
+
+inputSearch.addEventListener('keyup', function(event) {
+    let value = event.target.value.toLowerCase();
+    // normalize searchstring
+    value = value.replace(/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#]/g, '');
+    // stomp searchstring
+    const stomp = stompWords[value];
+    if (stomp !== undefined) {
+        value = stomp;
+    }
+    // search
+    const matches = ();
+    for (const key in searchIndex) {
+        if (key.indexOf(value) === 0) {
+            for (const uri of searchIndex[key]) {
+                matches.push(uri);
+            }
+        }
+    }
+    // sort by weight
+    
+    // print result
+    searchResult.innerText = '';
+    for (const match of matches) {
+        const a = document.createElement('a');
+        a.innerText = match;
+        a.href = match; 
+    }
+}, false);
