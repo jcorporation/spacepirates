@@ -103,7 +103,12 @@ inputSearch.addEventListener('keyup', function(event) {
     let i = 0;
     for (const match of matches) {
         const a = document.createElement('a');
-        a.innerText = match;
+        const path = match.split('/');
+        let name = path[path.length - 1];
+        const crumbs = document.createElement('small');
+        crumbs.innerText = path.join("›");
+        a.innerText = name;
+        a.appendChild(crumbs);
         a.href = match; 
         a.classList.add('list-group-item', 'bg-yellow');
         searchResult.appendChild(a);
