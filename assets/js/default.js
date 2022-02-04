@@ -91,8 +91,8 @@ inputSearch.addEventListener('keyup', function(event) {
     const matches = [];
     for (const key in searchIndex) {
         if (key.indexOf(value) === 0) {
-            console.log(searchIndex[key]);
             for (const uri in searchIndex[key]) {
+                console.log('"'+uri+'":"'+searchIndex[key][uri]+'"');
                 matches.push({uri: searchIndex[key][uri]});
             }
         }
