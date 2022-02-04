@@ -34,5 +34,26 @@
     "Sektor": "Sektor D1",
     "Beschreibung": "",
     "Politisches": "Piratenversteck"
+  },
+  "Ionensturm": {
+    "Name": "Ionensturm",
+    "Sektor": "Reich der Wagonen",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Katpar-Wurmloch": {
+    "Name": "Katpar-Wurmloch",
+    "Sektor": "Föderation",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Lila_Loecher_und_Plasmaregenbogen": {
+    "Name": "Lila Löcher und Plasmaregenbogen",
+    "Sektor": [
+      "Kahadrisches Reich",
+      "Föderation"
+    ],
+    "Beschreibung": "",
+    "Politisches": ""
   }
 }
