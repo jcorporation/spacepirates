@@ -91,12 +91,12 @@ inputSearch.addEventListener('keyup', function(event) {
     const matches = [];
     for (const key in searchIndex) {
         if (key.indexOf(value) === 0) {
+            console.log(searchIndex[key]);
             for (const uri in searchIndex[key]) {
                 matches.push({uri: searchIndex[key][uri]});
             }
         }
     }
-
     // sort by weight
     matches.sort(function(a, b) {
         //primary sort by defined tag
