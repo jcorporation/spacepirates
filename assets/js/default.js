@@ -88,42 +88,45 @@ inputSearch.addEventListener('keyup', function(event) {
         value = stomp;
     }
     // search
-    const matches = [];
+    const matches = {};
     for (const key in searchIndex) {
         if (key.indexOf(value) === 0) {
             for (const uri in searchIndex[key]) {
-                matches.push({
-                    "uri": uri,
-                    "weight": searchIndex[key][uri]
-                });
+                if (matches[uri]) {
+                    if (matches[uri] < searchIndex[key][uri]) {
+                        matches[uri] = searchIndex[key][uri];
+                    }
+                }
+                else {
+                    matches[uri] = searchIndex[key][uri];
+                }
             }
         }
     }
-    // sort by weight
-    matches.sort(function(a, b) {
-        //primary sort by defined tag
-        if (a.weight < b.weight) {
+    // sort and print
+    searchResult.innerText = '';
+    let i = 0;
+    var keys = Object.keys(matches);
+    keys.sort(function(a, b) {
+        //primary sort by weight
+        if (matches[a] < matches[b]) {
             return 1;
         }
-        if (a.weight > b.weight) {
+        if (matches[a] > matches[b]) {
             return -1;
         }
-        //secondary sort by Name
-        if (a.uri < b.uri) {
+        //secondary sort by uri
+        if (a < b) {
             return 1;
         }
-        if (a.uri > b.uri) {
+        if (a > b) {
             return -1;
         }
         //equal
         return 0;
-    });
-    // print result
-    searchResult.innerText = '';
-    let i = 0;
-    for (const match of matches) {
+    }).forEach(function(match) {
         const a = document.createElement('a');
-        const path = match.uri.split('/');
+        const path = match.split('/');
         path.shift();
         let name = path.pop();
         if (name === '') {
@@ -142,5 +145,5 @@ inputSearch.addEventListener('keyup', function(event) {
         if (i > 9) {
             break;
         }
-    }
+    });
 }, false);
