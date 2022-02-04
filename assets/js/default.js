@@ -92,13 +92,13 @@ inputSearch.addEventListener('keyup', function(event) {
     for (const key in searchIndex) {
         if (key.indexOf(value) === 0) {
             for (const uri in searchIndex[key]) {
-                console.log('"'+uri+'":"'+searchIndex[key][uri]+'"');
                 matches.push({uri: searchIndex[key][uri]});
             }
         }
     }
+    console.log(matches);
     // sort by weight
-    matches.sort(function(a, b) {
+    /*matches.sort(function(a, b) {
         //primary sort by defined tag
         if (matches[a] < matches[b]) {
             return 1;
@@ -116,6 +116,7 @@ inputSearch.addEventListener('keyup', function(event) {
         //equal
         return 0;
     });
+    */
     // print result
     searchResult.innerText = '';
     let i = 0;
