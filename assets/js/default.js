@@ -125,7 +125,7 @@ inputSearch.addEventListener('keyup', function(event) {
     });
     searchResult.innerText = '';
     let i = 0;
-    for (match of sorted) {
+    for (const match of sorted) {
         const a = document.createElement('a');
         const path = match.split('/');
         path.shift();
