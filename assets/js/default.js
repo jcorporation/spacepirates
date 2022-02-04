@@ -103,11 +103,9 @@ inputSearch.addEventListener('keyup', function(event) {
             }
         }
     }
-    // sort and print
-    searchResult.innerText = '';
-    let i = 0;
+    // sort
     var keys = Object.keys(matches);
-    keys.sort(function(a, b) {
+    const sorted = keys.sort(function(a, b) {
         //primary sort by weight
         if (matches[a] < matches[b]) {
             return 1;
@@ -124,7 +122,10 @@ inputSearch.addEventListener('keyup', function(event) {
         }
         //equal
         return 0;
-    }).forEach(function(match) {
+    });
+    searchResult.innerText = '';
+    let i = 0;
+    for (match of sorted) {
         const a = document.createElement('a');
         const path = match.split('/');
         path.shift();
@@ -145,5 +146,5 @@ inputSearch.addEventListener('keyup', function(event) {
         if (i > 9) {
             break;
         }
-    });
+    }
 }, false);
