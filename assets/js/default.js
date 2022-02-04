@@ -88,7 +88,7 @@ inputSearch.addEventListener('keyup', function(event) {
         value = stomp;
     }
     // search
-    const matches = {};
+    const matches = [];
     for (const key in searchIndex) {
         if (key.indexOf(value) === 0) {
             for (const uri in searchIndex[key]) {
