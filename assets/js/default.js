@@ -97,7 +97,24 @@ inputSearch.addEventListener('keyup', function(event) {
         }
     }
     // sort by weight
-    
+    matches.sort(function(a, b) {
+        //primary sort by defined tag
+        if (matches[a] < matches[b]) {
+            return -1;
+        }
+        if (matches[a] > matches[b]) {
+            return 1;
+        }
+        //secondary sort by Name
+        if (a < b) {
+            return -1;
+        }
+        if (a > b) {
+            return 1;
+        }
+        //equal
+        return 0;
+    });
     // print result
     searchResult.innerText = '';
     let i = 0;
