@@ -5,7 +5,7 @@ tag: spacepirates
 permalink: /Aktuelles/2012-08-09-Piratenverwaltung
 ---
 
-<img alt="SPApp Neuer Pirat" class="floatleft" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/diverses/tn2/spapp-neuerpirat.png" />Die neueste Version der SpacePirates HTML5 App bietet nun auch eine Piratenverwaltung. Momentan können Piraten erstellt, verwaltet und offline gespeichert werden. Natürlich berücksichtigt das Tool die aktuellen Piratenerschaffungsregeln.
+Die neueste Version der SpacePirates HTML5 App bietet nun auch eine Piratenverwaltung. Momentan können Piraten erstellt, verwaltet und offline gespeichert werden. Natürlich berücksichtigt das Tool die aktuellen Piratenerschaffungsregeln.
 
 Die Piratenverwaltung ist aber nur der erste Schritt. Als nächstes soll eine Raumschiffverwaltung folgen, die auf den bekannten [Raumschiffkonfigurator]({{ site.baseurl }}/Spacepirates/Piratenverwaltung/Raumschiff/All) basieren wird.
 

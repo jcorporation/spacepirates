@@ -5,7 +5,7 @@ tag: spacepirates
 permalink: /Aktuelles/2013-09-25-SpaceNinjasV2mit20ProzentmehrNinjas
 ---
 
-<img alt="SpaceNinjas v2" class="floatleft" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/diverses/tn2/spaceninjasv2.png"/>
+
 
 ### präsentiert von der Neu-Asiatischen-Küchen-Geräte-Fabrik
 

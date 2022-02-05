@@ -5,7 +5,7 @@ tag: spacepirates
 permalink: /Aktuelles/2014-02-03-ZufallstabellenfuerAuswirkungenvonWeltraumphaenomenen
 ---
 
-<img alt="" class="floatleft" src="{{ site.baseurl }}/assets/pics/jcgames/gallery/diverse/tn2/rspkarneval.png" />
+
 
 Dies ist ein Beitrag zum Karneval der Rollenspielblogs zum Thema Zufallstabellen: [Forumsthread](http://forum.rsp-blogs.de/rsp-karneval/zufallstabellen-%28februar-2014%29/), [Auftakt und Einladung](http://greifenklaue.wordpress.com/2014/02/02/rsp-blog-karneval-auftakt-und-einladung-zufallstabellen/).
 

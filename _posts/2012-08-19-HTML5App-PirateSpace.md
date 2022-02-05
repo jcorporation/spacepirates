@@ -6,7 +6,7 @@ permalink: /Aktuelles/2012-08-19-HTML5App-PirateSpace
 ---
 
 
-<div><img alt="" src="{{ site.baseurl }}/assets/pics/spacepirates/piratespace.png" />
+<div>
 Die aktuellste Version der SpacePirates App bringt neben vielen Bugfixes auch einiges an neuen Funktionen mit.
 
 Innerhalb der App sind jetzt endlich auch die Bilder der Aliens integriert und die Bilder skalieren jetzt automatisch im Verhältnis zur Seitenbreite.

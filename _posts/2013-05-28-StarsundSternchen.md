@@ -6,7 +6,7 @@ permalink: /Aktuelles/2013-05-28-StarsundSternchen
 ---
 
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/diverses/tn2/starsundsternchen.jpg" />Das Stars und Sternchen Themenheft ist rechtzeitig zur RPC bei mir eingetroffen.
+Das Stars und Sternchen Themenheft ist rechtzeitig zur RPC bei mir eingetroffen.
 
 Stars und Sternchen ist das vierte Themenheft zum SpacePirates-Rollenspiel, diesmal in ungewöhnlichem Layout. Es soll den typischen Zeitungs- und Klatschblatt-Flair nachahmen, da es genau die Inhalte solcher Publikationen enthält. Taucht in die Welt der SpacePirates-Promis ab und lernt die glitzernde Populärkultur von SpacePirates kennen. Aber keine Angst: Neben Klatsch, Tratsch und Schlagzeilen zu Medienkonzernen, Promis und angesagten Locations gibt es in diesem Themenheft natürlich auch nützliche Hintergrundinformationen, Abenteuerideen und ein sofort spielbares Abenteuer.
 

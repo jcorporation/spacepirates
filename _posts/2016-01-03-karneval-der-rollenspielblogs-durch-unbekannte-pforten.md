@@ -5,7 +5,7 @@ tag: spacepirates
 permalink: /Aktuelles/2016-01-03-karneval-der-rollenspielblogs-durch-unbekannte-pforten
 ---
 
-<img alt="" height="202" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/diverses/nrm/rspblogskarneval-pforten.png" width="500" />
+
 
 Im Januar 2016 geht es im Karneval der Rollenspielblogs um das Thema &bdquo;Durch unbekannte Pforten: Wege in andere Welten&ldquo;. Den Startbeitrag findet ihr [hier](http://www.weltenbau-wissen.de/2016/01/karneval-der-rollenspielblogs-unbekannte-pforten/) und [hier](http://forum.rsp-blogs.de/rsp-karneval/durch-unbekannte-pforten-wege-in-andere-welten-%28januar-2016%29/) gibt es den passenden Thread im Forum. Das Thema passt definitiv zu SpacePirates, da es im SpacePirates Universum schon jetzt ein paar Portale gibt, die ich hier vorstellen will.
 
@@ -25,7 +25,7 @@ Neben den Wurmlöchern gibt es bei SpacePirates auch [Schwarze Löcher]({{ site.
 
 ### Dimensionsübergänge
 
-<img alt="" class="floatleft" height="250" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/tn2/syoner.jpg" width="193" />Wurmlöcher sind natürlich nicht alles, in SpacePirates gibt es auch Dimensionsrisse, aber über diese ist nur sehr wenig bekannt. Die spielbaren Alienrassen kennen auch nur einen einzigen Dimensionsriss den sie erforschen können, das wird aber durch das ein oder andere Problem und der Bürokratie erschwert. Mehr dazu gibt es im Abenteuer [Buschraub]({{ site.baseurl }}/Abenteuer/Buschraub).
+Wurmlöcher sind natürlich nicht alles, in SpacePirates gibt es auch Dimensionsrisse, aber über diese ist nur sehr wenig bekannt. Die spielbaren Alienrassen kennen auch nur einen einzigen Dimensionsriss den sie erforschen können, das wird aber durch das ein oder andere Problem und der Bürokratie erschwert. Mehr dazu gibt es im Abenteuer [Buschraub]({{ site.baseurl }}/Abenteuer/Buschraub).
 
 Die [Syoner]({{ site.baseurl }}/Weltraum/Aliens/Syoner) sind eine Alienrasse aus einer anderen Dimension und können anscheinend auch problemlos zwischen Dimensionen wechseln. Die Technik dafür passt in ein Gerät in Smartphonegröße. Kann also dann wohl doch nicht so schwierig sein, aber die Funktionsweise der Technik der Syoner erschließt sich den anderen Alienrassen einfach nicht und die Syoner wollen ihr Wissen auch garnicht teilen.
 
