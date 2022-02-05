@@ -3,7 +3,7 @@ use strict;
 
 sub replace_src() {
     my $src = $_[0];
-    if ($src =~ /^lite\/design\/(.+)$/) {
+    if ($src =~ /^spacepirates\/design\/(.+)$/) {
         return "src=\"\{\{ site.baseurl \}\}/assets/pics/$1\"";
     }
     return "src=\"\{\{ site.baseurl \}\}/assets/pics/$src\"";
@@ -75,13 +75,13 @@ $permalink =~ s|/./|/|g;
 $permalink =~ s|/index$|/|g;
 
 open my $out, ">".$outfile or die;
-print $out qq|---
-layout: page
-permalink: $permalink
-title: $title
----
-
-|;
+#print $out qq|---
+#layout: page
+#permalink: $permalink
+#title: $title
+#---
+#
+#|;
 
 while (<$in>) {
     chomp;
