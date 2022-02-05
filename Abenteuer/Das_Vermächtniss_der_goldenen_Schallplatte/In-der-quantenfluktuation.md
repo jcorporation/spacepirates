@@ -24,7 +24,7 @@ Die Beschreibung der Geister reicht aus, um innerhalb der Quantenfluktuation zum
 </table>
 ## Quantenfischende Wissenschaftler in Not
 
-Als die Charaktere gerade an einem kleinen Raumflitzer mit Cabriokit vorbeifliegen, entsteht durch das unvorsichtige Quantenfischen spontan ein schwarzes Loch. Aus eigener Kraft kann sich der Spaceflitzer der Wissenschaftler nicht mehr befreien. Die Raumschiffbesatzung ist in Panik und schickt einen Notruf nach dem anderen. Auch das Raumschiff der Charaktere wird vom schwarzen Loch erfasst. Es sind [1W10]({{ site.baseurl }}/Dice) Erfolge notwendig, um dem Sog des schwarzen Loches zu entkommen. Wenn die Charaktere noch die Wissenschaftler retten wollen, sind 2 Erfolge mehr notwendig.
+Als die Charaktere gerade an einem kleinen Raumflitzer mit Cabriokit vorbeifliegen, entsteht durch das unvorsichtige Quantenfischen spontan ein schwarzes Loch. Aus eigener Kraft kann sich der Spaceflitzer der Wissenschaftler nicht mehr befreien. Die Raumschiffbesatzung ist in Panik und schickt einen Notruf nach dem anderen. Auch das Raumschiff der Charaktere wird vom schwarzen Loch erfasst. Es sind <span class="dice">1W10</span>) Erfolge notwendig, um dem Sog des schwarzen Loches zu entkommen. Wenn die Charaktere noch die Wissenschaftler retten wollen, sind 2 Erfolge mehr notwendig.
 
 ## Neuasiatisches Kriegsschiff
 

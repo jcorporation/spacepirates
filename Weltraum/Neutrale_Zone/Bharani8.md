@@ -19,7 +19,7 @@ Kritias scheint mittleren Alters zu sein, ist aber in Wirklichkeit mehrere Hunde
 <tbody>
 <tr><th>Rasse</th><td>[Atlanter]({{ site.baseurl }}/Weltraum/Aliens/Atlanter)</td></tr>
 <tr><th>Kategorie</th><td>Einsiedler</td></tr>
-<tr><th>Wohnort</th><td>[Bharani 8]({{ site.baseurl }}/Weltraum/Neutralezone/Bharani8)</td></tr>
+<tr><th>Wohnort</th><td>[Bharani 8]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Bharani8)</td></tr>
 <tr><th>Erwähnungen</th><td>[Kritias]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

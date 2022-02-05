@@ -20,13 +20,56 @@ for (const table of tables) {
     div.appendChild(table);
 }
 
+// dice
+const dices = document.getElementsByClassName('dice');
+for (const dice of dices) {
+    dice.addEventListener('click', function(event) {
+        rollDice(event.target);
+    }, false);
+}
+
+function rollDice(el) {
+    const tmp = el.textContent.match(/(\d+)W(\d+)(\+(\d+))?/);
+    const a = Number(tmp[1]);
+    const w = Number(tmp[2]);
+    const p = tmp[4] ? Number(tmp[4]) : 0;
+    let result = 0;
+    let resultstr='(';
+    for (let i = 1; i <= a; i++) {
+        const r = Math.floor(Math.random() * w) + 1;
+        resultstr = resultstr + r;
+        if (i < a) {
+            resultstr=resultstr+' ';
+        }
+        result = result + r;
+    }
+    result = result + p;
+    if ( p > 0) {
+        resultstr = resultstr + ') + ' + p + ' = ' +result;
+    }
+    else {
+        resultstr = resultstr + ') = ' + result;
+    }
+    const e = document.createElement('span');
+    e.classList.add('diceresult');
+    e.textContent = resultstr;
+    if (el.nextElementSibling &&
+        el.nextSibling.classList.contains('diceresult'))
+    {
+        el.nextSibling.textContent = resultstr;
+    }
+    else {
+        el.parentNode.insertBefore(e, el.nextElementSibling);
+    }
+}
+
 //search
 let searchIndex = null;
 let stompWords = null;
 
 async function fetchJSON(dataFile, callback) {
     try {
-      let response = await fetch('/assets/json/' + dataFile + '.json');
+      const response = await fetch('/assets/json/' + dataFile + '.json');
       const data = await response.json();
       cbFetchJSON(dataFile, data, callback);
     } catch (err) {

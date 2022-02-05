@@ -58,7 +58,7 @@ Knecht Ruprecht befindet sich in seinem Arbeitszimmer, in dem er an weiteren bö
 <tbody>
 <tr><th>Rasse</th><td>[Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer)</td></tr>
 <tr><th>Kategorie</th><td> </td></tr>
-<tr><th>Wohnort</th><td>[Santa 24]({{ site.baseurl }}/Weltraum/Neutralezone/Santa24)</td></tr>
+<tr><th>Wohnort</th><td>[Santa 24]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Santa24)</td></tr>
 <tr><th>SÖLDNER</th><td>7</td></tr>
 <tr><th>TECH</th><td>3</td></tr>
 <tr><th>PILOT</th><td>5</td></tr>

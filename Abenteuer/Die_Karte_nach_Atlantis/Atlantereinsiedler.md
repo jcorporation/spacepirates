@@ -12,7 +12,7 @@ Ein uralter verwirrter atlantischer Einsiedler namens Kritias soll auf dem klein
 
 Erst einmal muss man diesen Planet in den BadPlanets aber finden, dazu ist eine Probe auf Pilot erforderlich. Je nach Erfolg dieser Probe wird das Raumschiff der Piraten von unterschiedlich vielen Planeten beschossen. Viele der Planeten bestehen noch aus glutflüssigem Gestein und beschießen ankommende Raumschiffe mit Lavafontänen. Bereits verfestigte Planeten bewerfen Besucher mit Meteoriten oder ändern spontan ihre Umlaufbahn.
 
-Jeder Planet kann 3 &times; auf das vorbeifliegende Raumschiff schießen.
+Jeder Planet kann 3 × auf das vorbeifliegende Raumschiff schießen.
 
 <table>
 <thead>

@@ -1,6 +1,6 @@
 ---
 layout: weltraumphaenomen
-permalink: /Weltraum/Phänomene/Lila_Löcher_und_Plasmaregenbogen
+permalink: /Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen
 title: Lila Löcher und Plasmaregenbogen
 
 sitedata:

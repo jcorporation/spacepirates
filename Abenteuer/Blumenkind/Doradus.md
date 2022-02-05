@@ -8,7 +8,7 @@ title: Auf Doradus
 # Auf Doradus
 
 
-- Details zu [Doradus]({{ site.baseurl }}/Weltraum/Neutralezone/Doradus)
+- Details zu [Doradus]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Doradus)
 
 ## Hippie-Kommune
 

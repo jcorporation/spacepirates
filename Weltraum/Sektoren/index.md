@@ -15,7 +15,7 @@ Der bekannte Weltraum ist in zehn Sektoren aufgeteilt, jeder Sektor entspricht e
 <div class="hinweis">
 ## Entfernungen
 
-Die Entfernungen im Weltraum sind groß, um nicht zu sagen galaktisch. Dank modernen Überlichtgeschwindigkeits- und Gravitationsantriebe spielt das bei der Erforschung des Weltraums aber mittlerweile keine so große Rolle mehr. Entfernungen werden bei SpacePirates in Lichtjahren angegeben. Ein modernes Raumschiff fliegt mit bis zu 2 Lichtjahren in der Stunde. Ein Lichtjahr entspricht etwa 9,5 Billionen Kilometer (9,5 &times; 10<sup>12</sup> km).
+Die Entfernungen im Weltraum sind groß, um nicht zu sagen galaktisch. Dank modernen Überlichtgeschwindigkeits- und Gravitationsantriebe spielt das bei der Erforschung des Weltraums aber mittlerweile keine so große Rolle mehr. Entfernungen werden bei SpacePirates in Lichtjahren angegeben. Ein modernes Raumschiff fliegt mit bis zu 2 Lichtjahren in der Stunde. Ein Lichtjahr entspricht etwa 9,5 Billionen Kilometer (9,5 × 10<sup>12</sup> km).
 
 </div>
 </aside>
@@ -31,7 +31,7 @@ Die Entfernungen im Weltraum sind groß, um nicht zu sagen galaktisch. Dank mode
 <tr><td>[Kahadrier / Kahadrisches Reich]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/index)</td><td>Die kriegerischen Kahadrier, auch SpaceZwerge genannt.</td></tr>
 <tr><td>[Menschen / Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/index)</td><td>Der Heimatsektor der klassischen Menschen. Die Erde ist immer noch ihr Mittelpunkt.</td></tr>
 <tr><td>[Menschen / Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/index)</td><td>Eine kommunistische Republik, die aus den Weltraumambitionen Chinas entstand.</td></tr>
-<tr><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutralezone/index)</td><td>Die Pufferzone vor dem Glukorianischen Imperium, sie umfasst zwei Sektoren.</td></tr>
+<tr><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/index)</td><td>Die Pufferzone vor dem Glukorianischen Imperium, sie umfasst zwei Sektoren.</td></tr>
 <tr><td>[Samnesen / Samara]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/index)</td><td>Die Samnesen sind menschenähnliche Cyborgs und mit den Trull verfeindet.</td></tr>
 <tr><td>[Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer)</td><td>Die reptilienartigen, gewaltbereiten Aliens.</td></tr>
 <tr><td>[Romaha]({{ site.baseurl }}/Weltraum/Aliens/Romaha)</td><td>Die großartige, untergegangene Alienkultur.</td></tr>

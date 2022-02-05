@@ -81,7 +81,7 @@ Die Piraten können entweder das Schiff entern oder den Kapitän zwingen, das Ba
 </table>
 ### Die Kiste
 
-- Die 1&times;2&times;&frac12; m große, metallene Kiste steht nicht auf der Ladeliste des Raumschiffs und der Kapitän leugnet auch, etwas Spezielles an Bord zu haben.
+- Die 1×2×&frac12; m große, metallene Kiste steht nicht auf der Ladeliste des Raumschiffs und der Kapitän leugnet auch, etwas Spezielles an Bord zu haben.
 - Auch der Kapitän weiß nicht, was sich in der Kiste befindet.
 - Sie befindet sich in einem separaten Laderaum, der speziell abgeschirmt ist. Nur der Kapitän besitzt den Zahlencode, um den Raum zu betreten.
 - Sie ist verschlossen und mit einem Zahlenschloss gesichert, auf ihr prangt das Logo der Föderation.

@@ -10,7 +10,7 @@ title: Santa 24
 
 Aus dem Wurmloch herausgekommen erblicken die Piraten direkt vor sich Santa 24. Es ist ein Eisplanet der schon vom Weltraum aus weihnachtlich aussieht, da er von einem großen Asteroidengürtel umgeben ist, der sehr stark an Lametta erinnert.
 
-- [mehr Informationen zu Santa 24]({{ site.baseurl }}/Weltraum/Neutralezone/Santa24)
+- [mehr Informationen zu Santa 24]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Santa24)
 
 Wenn die Piraten ihre Waffen kontrollieren, stellen sie fest, dass diese nur noch Lametta verschießen und auch ihre Schilde durch eine Lichterkette ersetzt wurden (sobald die Piraten wieder auf der anderen Seite des Wurmlochs sind, ist der Effekt wieder verschwunden).
 

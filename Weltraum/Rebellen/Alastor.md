@@ -29,7 +29,7 @@ Krandor ist die einzige Stadt auf Alastor. Sie liegt versteckt zwischen der Küs
 <caption>Alastor</caption>
 <tbody>
 <tr><th>Typ</th><td>Dschungelplanet</td></tr>
-<tr><th>Sektor</th><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutralezone/index)</td></tr>
+<tr><th>Sektor</th><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/index)</td></tr>
 <tr><th>Monde</th><td>0</td></tr>
 <tr><th>Einwohner</th><td>[Rebellen]({{ site.baseurl }}/Weltraum/Rebellen/index)</td></tr>
 <tr><th>Hauptstadt</th><td>Krandor</td></tr>

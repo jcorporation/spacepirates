@@ -15,7 +15,7 @@ Die Karte führt die Piratencrew zu Koordinaten, die sich inmitten der Raumzeitv
 <tbody>
 <tr><td>1</td><td>Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Zukunft kommt.</td></tr>
 <tr><td>2</td><td>Die Zeit läuft rückwärts.</td></tr>
-<tr><td>3</td><td>Die Schwerkraft dreht sich um 1W4 &times; 90 Grad.</td></tr>
+<tr><td>3</td><td>Die Schwerkraft dreht sich um 1W4 × 90 Grad.</td></tr>
 <tr><td>4</td><td>Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Vergangenheit kommt.</td></tr>
 <tr><td>5</td><td>Die Schwerkraft fluktuiert von doppelt so stark bis nicht vorhanden.</td></tr>
 <tr><td>6</td><td>Die Zeit springt alle 1W10 Minuten 1W6 Stunden vorwärts.</td></tr>

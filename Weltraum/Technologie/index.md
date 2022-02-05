@@ -60,7 +60,7 @@ Roboter erleichtern das Leben in allen Bereichen. Sie übernehmen vor allem gef�
 Aufgrund der vorrangigen Einsatzgebiete sind humanoide Roboter nach wie vor die Ausnahme. Es wäre zwar möglich, sie zu bauen, sie wären aber im industriellen Einsatz nicht gerade praktisch. Aber es einen großen Markt an mehr oder minder intelligenten Cyberhaustieren, wie fliegende Cyberpapagaie, -hunde oder -katzen, die ihren tierischen Vorbildern nachempfunden sind.
 
 - [Roboter auf Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime_roboter)
-- [Roboter von Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutralezone/Kappagamma)
+- [Roboter von Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappagamma)
 
 ## Waffen
 

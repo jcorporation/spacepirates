@@ -12,7 +12,7 @@ Auf dem Planeten befindet sich ein ganzer Trupp Söldner um Jangbas Forscher zu 
 
 Die Affen sind im ganzen Dschungel anzutreffen, meist in kleinen Sippen. Um das Labor hat sich aber eine größere Gruppe aus 30 Affen versammelt, um es anzugreifen. Die Affen greifen jeden Menschen an, den sie finden. Die Affen werden auch die Piratengruppe angreifen, wenn sie durch den Dschungel marschiert.
 
-- **Anzahl Affen:** 2 &times; Gruppenstärke
+- **Anzahl Affen:** 2 × Gruppenstärke
 
 <table>
 <thead>

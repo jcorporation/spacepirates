@@ -31,7 +31,7 @@ Im Süßwassermeer wird die einzigartige Tintenfischart gezüchtet, aus der die 
 <caption>Xorlok</caption>
 <tbody>
 <tr><th>Typ</th><td>tropischer Planet</td></tr>
-<tr><th>Sektor</th><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutralezone/index)</td></tr>
+<tr><th>Sektor</th><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/index)</td></tr>
 <tr><th>Monde</th><td>12</td></tr>
 <tr><th>Einwohner</th><td>[Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/index)</td></tr>
 <tr><th>Hauptstadt</th><td>Xorlok</td></tr>

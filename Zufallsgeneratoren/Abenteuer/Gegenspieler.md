@@ -26,7 +26,7 @@ title: Gegenspieler
 <tr><td>11</td><td>[SpaceRocker]({{ site.baseurl }}/Weltraum/Spacerocker)</td></tr>
 <tr><td>12</td><td>Korrupter Geschäftsmann</td></tr>
 <tr><td>13</td><td>[SpaceNinjas]({{ site.baseurl }}/Weltraum/Spaceninjas)</td></tr>
-<tr><td>14</td><td>[Händler / Halunke]({{ site.baseurl }}/Weltraum/Haendlerundhalunken)</td></tr>
+<tr><td>14</td><td>[Händler / Halunke]({{ site.baseurl }}/Weltraum/Händler_und_Halunken)</td></tr>
 <tr><td>15</td><td>[Promi]({{ site.baseurl }}/Weltraum/Promis)</td></tr>
 <tr><td>16</td><td>[Bank]({{ site.baseurl }}/Weltraum/Freihandelszone/Banken)</td></tr>
 <tr><td>17</td><td>[Verrückter Wissenschaftler]({{ site.baseurl }}/Weltraum/Wissenschaftler)</td></tr>

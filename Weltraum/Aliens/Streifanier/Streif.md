@@ -29,7 +29,7 @@ Savar ist die größte Stadt der Streifanier. Sie liegt am gleichnamigen Strom. 
 <caption>Streif</caption>
 <tbody>
 <tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutralezone/index)</td></tr>
+<tr><th>Sektor</th><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/index)</td></tr>
 <tr><th>Monde</th><td>keine, Asteroidengürtel</td></tr>
 <tr><th>Einwohner</th><td>[Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/index)</td></tr>
 <tr><th>Hauptstadt</th><td>Savar</td></tr>

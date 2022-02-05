@@ -20,5 +20,5 @@ In den BadPlanets treiben sich vor allem die SpaceRocker-Bande [Baneros Banditos
 
 ## Planeten
 
-- [Bharani 8]({{ site.baseurl }}/Weltraum/Neutralezone/Bharani_8)
+- [Bharani 8]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Bharani_8)
 - [Los Mochis]({{ site.baseurl }}/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis)

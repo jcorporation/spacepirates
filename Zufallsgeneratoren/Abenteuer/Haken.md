@@ -13,7 +13,7 @@ title: Haken an der Sache
 <tbody>
 <tr><td>1</td><td>Die Charaktere erfahren, dass der Auftraggeber mit Hilfe der Zielperson / Gegenstand einen Planeten/Raumstation vernichten will.</td></tr>
 <tr><td>2</td><td>Der Auftraggeber wird ermordet und die Mörder jagen jetzt die Charaktere (Organisation ermitteln).</td></tr>
-<tr><td>3</td><td>Der Zielort wird Belagert (Alienrasse bestimmen und [1W10]({{ site.baseurl }}/Dice) für die Anzahl an Kriegsschiffen würfeln).</td></tr>
+<tr><td>3</td><td>Der Zielort wird Belagert (Alienrasse bestimmen und <span class="dice">1W10</span>) für die Anzahl an Kriegsschiffen würfeln).</td></tr>
 <tr><td>4</td><td>Zielobjekt/Zielperson befindet sich woanders (Ort mit Orte Tabelle ermitteln).</td></tr>
 <tr><td>5</td><td>Auftraggeber benötigt Gegenstand für einen teuflischen Plan (Schurkenplan ermitteln).</td></tr>
 <tr><td>6</td><td>Das Ganze ist eine Falle (Schurkenplan ermitteln).</td></tr>

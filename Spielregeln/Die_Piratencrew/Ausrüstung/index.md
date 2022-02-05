@@ -27,11 +27,11 @@ Kathy schaut sich die Ausrüstungsliste an und sucht sich einen Laserdegen (1.50
 
 ## Raumschiff
 
-Die gesamte Gruppe bekommt ein Raumschiff im Wert von 13.000 + 5.000 &times; Gruppenmitglieder UC, das sie gemeinsam gestalten können und sollen. Zusätzlich kann je 4 Spieler (aufgerundet) ein Style-Zubehörteil für eine weitere Macke ertauscht werden. Überschüssige UC, die nicht für das Schiff benötigt werden, verfallen.
+Die gesamte Gruppe bekommt ein Raumschiff im Wert von 13.000 + 5.000 × Gruppenmitglieder UC, das sie gemeinsam gestalten können und sollen. Zusätzlich kann je 4 Spieler (aufgerundet) ein Style-Zubehörteil für eine weitere Macke ertauscht werden. Überschüssige UC, die nicht für das Schiff benötigt werden, verfallen.
 
 Zu einem vernünftigen Piratenschiff gehören natürlich Bordkanonen, Sensoren, Schilde, ein spaciger Name und eine kurze Beschreibung.
 
-- **Raumschiffwert:** 13.000 + 5.000 &times; Gruppenmitglieder UC
+- **Raumschiffwert:** 13.000 + 5.000 × Gruppenmitglieder UC
 - [Raumschiffe]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/)
   - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen)
   - [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde)

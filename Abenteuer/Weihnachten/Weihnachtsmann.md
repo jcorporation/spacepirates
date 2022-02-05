@@ -21,7 +21,7 @@ Durch den Weltraum reist er auf seinem Weihnachtsschlitten, der von 9 Cyber-Rent
 <tbody>
 <tr><th>Rasse</th><td>Mensch</td></tr>
 <tr><th>Kategorie</th><td> </td></tr>
-<tr><th>Wohnort</th><td>[Santa 24]({{ site.baseurl }}/Weltraum/Neutralezone/Santa24)</td></tr>
+<tr><th>Wohnort</th><td>[Santa 24]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Santa24)</td></tr>
 <tr><th>SÖLDNER</th><td>4</td></tr>
 <tr><th>TECH</th><td>2</td></tr>
 <tr><th>PILOT</th><td>6</td></tr>
