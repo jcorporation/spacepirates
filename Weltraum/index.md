@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/index
+permalink: /Weltraum/
 title: Weltraum
 ---
 
@@ -13,48 +13,48 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 
 - [Interaktive Sternenkarte]({{ site.baseurl }}/Sternenkarte/)
 - [Sektoren]({{ site.baseurl }}/Weltraum/Sektoren)
-- [Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/index)
-- [Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/index)
-- [Technologie]({{ site.baseurl }}/Weltraum/Technologie/index)
+- [Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/)
+- [Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/)
+- [Technologie]({{ site.baseurl }}/Weltraum/Technologie/)
 - [Historie]({{ site.baseurl }}/Weltraum/Historie)
-- [Aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Polische_Lage/index)
+- [Aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Polische_Lage/)
 - [Weltraumtiere]({{ site.baseurl }}/Weltraum/Weltraumtiere)
-- [Weltraumphänomene]({{ site.baseurl }}/Weltraum/Weltraumphänomene/index)
+- [Weltraumphänomene]({{ site.baseurl }}/Weltraum/Weltraumphänomene/)
 - [Planeten und Sternensysteme]({{ site.baseurl }}/Weltraum/Planeten_und_Sternensysteme)
 - [Zurückgebliebene Planeten]({{ site.baseurl }}/Weltraum/Zurückgebliebene_Planeten)
-- [Raumstationen]({{ site.baseurl }}/Weltraum/Raumstationen/index)
+- [Raumstationen]({{ site.baseurl }}/Weltraum/Raumstationen/)
 - [Städte]({{ site.baseurl }}/Weltraum/Städte)
 {% endcapture %}
 
 {% capture include_col2 %}
 ## Menschen
 
-- [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/index)
-- [Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/index)
+- [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)
+- [Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/)
 
 ## Aliens
 
-- [Atlanter]({{ site.baseurl }}/Weltraum/Aliens/Atlanter/index)
-- [Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/index)
-- [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/index)
-- [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/index)
+- [Atlanter]({{ site.baseurl }}/Weltraum/Aliens/Atlanter/)
+- [Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/)
+- [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/)
+- [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/)
 - [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer)
-- [Romaha]({{ site.baseurl }}/Weltraum/Aliens/Romaha/index)
-- [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/index)
-- [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/index)
-- [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/index)
-- [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/index)
-- [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/index)
-- [Syoner]({{ site.baseurl }}/Weltraum/Aliens/Syoner/index)
-- [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/index)
-- [Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/index)
+- [Romaha]({{ site.baseurl }}/Weltraum/Aliens/Romaha/)
+- [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/)
+- [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/)
+- [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/)
+- [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/)
+- [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/)
+- [Syoner]({{ site.baseurl }}/Weltraum/Aliens/Syoner/)
+- [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/)
+- [Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/)
 {% endcapture %}
 
 {% capture include_col3 %}
 ## Organisationen und Gruppen
 
 - [Piraten]({{ site.baseurl }}/Weltraum/Piraten)
-- [Rebellen]({{ site.baseurl }}/Weltraum/Rebellen/index)
+- [Rebellen]({{ site.baseurl }}/Weltraum/Rebellen/)
 - [SpaceMafia]({{ site.baseurl }}/Weltraum/Spacemafia)
 - [SpaceNinjas]({{ site.baseurl }}/Weltraum/Spaceninjas)
 - [SpaceRocker]({{ site.baseurl }}/Weltraum/Spacerocker)
