@@ -33,9 +33,9 @@ function randomTable(table) {
         return;
     }
     firstRow.classList.add('clickable');
-    firstRow.addEventListener('click', function(event) {
-        const rows = event.target.getElementsByTagName('tbody')[0].rows;
-        const sel = tbl.querySelector('.selected');
+    firstRow.addEventListener('click', function() {
+        const rows = table.getElementsByTagName('tbody')[0].rows;
+        const sel = table.querySelector('.selected');
         if (sel) {
             sel.classList.remove('selected');
         }
