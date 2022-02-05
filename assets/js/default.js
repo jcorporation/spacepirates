@@ -24,16 +24,14 @@ for (const table of tables) {
 let searchIndex = null;
 let stompWords = null;
 
-function fetchJSON(dataFile, callback) {
-    const ajaxRequest = new XMLHttpRequest();
-    ajaxRequest.open('GET', '/assets/json/' + dataFile + '.json', true);
-    ajaxRequest.onreadystatechange = function() {
-        if (ajaxRequest.status === 200) {
-            const obj = JSON.parse(ajaxRequest.responseText);
-            cbFetchJSON(dataFile, obj, callback);
-        }
-    };
-    ajaxRequest.send();
+async function fetchJSON(dataFile, callback) {
+    try {
+      let response = await fetch('/assets/json/' + dataFile + '.json');
+      const data = await response.json();
+      cbFetchJSON(dataFile, data, callback);
+    } catch (err) {
+      console.log(err);
+    }
 }
 
 function cbFetchJSON(dataFile, obj, callback) {
