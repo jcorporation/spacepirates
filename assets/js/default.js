@@ -23,19 +23,21 @@ for (const table of tables) {
 
 // dice
 function randomTable(table) {
-    const td = table.getElementsByTagName('tr')[0].getElementsByTagName('td')[0]
-    const tmp = el.textContent.match(/^W(\d+)$/);
+    const firstRow = table.getElementsByTagName('tr')[0];
+    const tmp = firstRow.getElementsByTagName('td')[0].textContent.match(/^W(\d+)$/);
     if (tmp === null) {
         return;
     }
-
-    var rows = tbl.getElementsByTagName('tbody')[0].rows;
-    var r = Math.floor(Math.random() * rows.length);
-    var sel = tbl.querySelector('.selected')
-    if (sel) {
-        sel.classList.remove('selected');
-    }
-    rows[r].classList.add('selected');
+    firstRow.classList.add('clickable');
+    firstRow.addEventListener('click', function(event) {
+        const rows = event.target.getElementsByTagName('tbody')[0].rows;
+        const sel = tbl.querySelector('.selected');
+        if (sel) {
+            sel.classList.remove('selected');
+        }
+        const r = Math.floor(Math.random() * rows.length);
+        rows[r].classList.add('selected');
+    }, false);
 }
 
 const dices = document.getElementsByClassName('dice');
