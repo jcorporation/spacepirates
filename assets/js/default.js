@@ -55,7 +55,7 @@ function rollDice(el) {
     e.classList.add('diceresult');
     e.textContent = resultstr;
 
-    if (el.lastChild == el.firstChild &&
+    if (el.lastChild !== el.firstChild &&
         el.lastChild.classList.contains('diceresult'))
     {
         el.lastChild.textContent = resultstr;
