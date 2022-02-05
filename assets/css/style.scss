@@ -67,6 +67,10 @@ td > p:last-child {
   margin-bottom: 0;
 }
 
+tr.selected td {
+  background-color: #fc0 !important;
+}
+
 .card-body p:last-child {
   margin-bottom: 0;
 }
@@ -141,6 +145,8 @@ button:focus {
 }
 
 .diceresult {
-  background-color: #dfb300;
-  padding: 0.1rem;
+  background-color: #f8f9fa;
+  padding: 0.2rem;
+  margin-left: 0.5rem;
+  border-radius: 0.2rem;
 }

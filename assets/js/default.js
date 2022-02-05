@@ -18,14 +18,36 @@ for (const table of tables) {
     div.classList.add('table-responsive', 'mb-3');
     table.parentNode.insertBefore(div, table);
     div.appendChild(table);
+    randomTable(table);
 }
 
 // dice
+function randomTable(table) {
+    const td = table.getElementsByTagName('tr')[0].getElementsByTagName('td')[0]
+    const tmp = el.textContent.match(/^W(\d+)$/);
+    if (tmp === null) {
+        return;
+    }
+
+    var rows = tbl.getElementsByTagName('tbody')[0].rows;
+    var r = Math.floor(Math.random() * rows.length);
+    var sel = tbl.querySelector('.selected')
+    if (sel) {
+        sel.classList.remove('selected');
+    }
+    rows[r].classList.add('selected');
+}
+
 const dices = document.getElementsByClassName('dice');
 for (const dice of dices) {
     dice.classList.add('btn', 'btn-sm', 'btn-yellow');
     dice.addEventListener('click', function(event) {
-        rollDice(event.target);
+        if (event.target.classList.contains('dice')) {
+            rollDice(event.target);
+        }
+        else {
+            rollDice(event.target.parentNode);
+        }
     }, false);
 }
 
@@ -35,30 +57,30 @@ function rollDice(el) {
     const w = Number(tmp[2]);
     const p = tmp[4] ? Number(tmp[4]) : 0;
     let result = 0;
-    let resultstr='(';
+    let resultStr = '(';
     for (let i = 1; i <= a; i++) {
         const r = Math.floor(Math.random() * w) + 1;
-        resultstr = resultstr + r;
+        resultStr = resultStr + r;
         if (i < a) {
-            resultstr=resultstr+' ';
+            resultStr = resultStr+' ';
         }
         result = result + r;
     }
     result = result + p;
     if ( p > 0) {
-        resultstr = resultstr + ') + ' + p + ' = ' +result;
+        resultStr = resultStr + ') + ' + p + ' = ' +result;
     }
     else {
-        resultstr = resultstr + ') = ' + result;
+        resultStr = resultStr + ') = ' + result;
     }
     const e = document.createElement('span');
     e.classList.add('diceresult');
-    e.textContent = resultstr;
+    e.textContent = resultStr;
 
     if (el.lastChild !== el.firstChild &&
         el.lastChild.classList.contains('diceresult'))
     {
-        el.lastChild.textContent = resultstr;
+        el.lastChild.textContent = resultStr;
     }
     else {
         el.appendChild(e);
