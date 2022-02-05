@@ -24,7 +24,11 @@ for (const table of tables) {
 // dice
 function randomTable(table) {
     const firstRow = table.getElementsByTagName('tr')[0];
-    const tmp = firstRow.getElementsByTagName('td')[0].textContent.match(/^W(\d+)$/);
+    const th = firstRow.getElementsByTagName('th')[0];
+    if (th === undefined) {
+        return;
+    }
+    const tmp = th.textContent.match(/^W(\d+)$/);
     if (tmp === null) {
         return;
     }
