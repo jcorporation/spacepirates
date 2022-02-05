@@ -23,6 +23,7 @@ for (const table of tables) {
 // dice
 const dices = document.getElementsByClassName('dice');
 for (const dice of dices) {
+    dice.classList.add('btn', 'btn-sm', 'btn-yellow');
     dice.addEventListener('click', function(event) {
         rollDice(event.target);
     }, false);
@@ -53,13 +54,14 @@ function rollDice(el) {
     const e = document.createElement('span');
     e.classList.add('diceresult');
     e.textContent = resultstr;
-    if (el.nextElementSibling &&
-        el.nextSibling.classList.contains('diceresult'))
+
+    if (el.lastChild &&
+        el.lastChild.classList.contains('diceresult'))
     {
-        el.nextSibling.textContent = resultstr;
+        el.lastChild.textContent = resultstr;
     }
     else {
-        el.parentNode.insertBefore(e, el.nextElementSibling);
+        el.appendChild(e);
     }
 }
 
