@@ -25,7 +25,7 @@ Ihre Kleidung und ihr Benehmen entsprechen dem einer edlen Dame. Sie trägt eine
 <tbody>
 <tr><th>Rasse</th><td>[Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</td></tr>
 <tr><th>Kategorie</th><td>[Ninja]({{ site.baseurl }}/Weltraum/Spaceninjas)</td></tr>
-<tr><th>Wohnort</th><td>[Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime_neuneotokio)</td></tr>
+<tr><th>Wohnort</th><td>[Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime_neuneotokio)</td></tr>
 <tr><th>SÖLDNER</th><td>6</td></tr>
 <tr><th>TECH</th><td>2</td></tr>
 <tr><th>PILOT</th><td>2</td></tr>

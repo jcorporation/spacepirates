@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Technologie/Starnet_sendungen
+permalink: /Weltraum/Technologie/Starnet-Sendungen
 title: Beliebte Starnet-Sendungen
 ---
 
@@ -29,4 +29,3 @@ Der SpaceDoktor ist die beliebteste Arztserie des Starnets. Der Hauptdarsteller 
 ## UC-Rausch
 
 Bei UC-Rausch kann Otto Normalraumfahrer Millionen gewinnen. Vorausgesetzt, er lässt sich auf die Verrücktheiten dieser Quiz-Show ein. Wer ein gutes Allgemeinwissen besitzt und sich regelmäßig über den Klatsch und Tratsch des Starnets informiert, hat gute Chancen, ein paar UC zu gewinnen. Es darf einen nicht stören, dass man die Fragen unter schwierigen und fast schon lebensbedrohenden Bedingungen beantworten muss.
-

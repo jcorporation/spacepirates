@@ -20,7 +20,7 @@ Offiziell verfügt die Vereinige Nahrungsmittel eG weder über Streitkräfte noc
 <tr><th>Besitzer</th><td>Genossenschaft</td></tr>
 <tr><th>Geschäftsführer</th><td> </td></tr>
 <tr><th>Kategorie</th><td>Handelskonzern</td></tr>
-<tr><th>Konzernzentrale</th><td>[Zeno]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Zeno)</td></tr>
+<tr><th>Konzernzentrale</th><td>[Zeno]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Zeno)</td></tr>
 <tr><th>Niederlassungen</th><td> </td></tr>
 <tr><th>Erwähnungen</th><td>[Vereinigten Nahrungsmittel eG]({{ site.baseurl }}/Search)</td></tr>
 </tbody>

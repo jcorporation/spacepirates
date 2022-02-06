@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Menschen/Sternenrepublik Neuasien/index
+permalink: /Weltraum/Menschen/Sternenrepublik_Neuasien/index
 title: Sternenrepublik Neuasien
 ---
 
@@ -8,8 +8,8 @@ title: Sternenrepublik Neuasien
 # Sternenrepublik Neuasien
 
 
-- **Heimatplanet:** [Xinnua]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Xinnua)
-- [Kapitalistische Sonderrechtszone Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Sonderrechtszone)
+- **Heimatplanet:** [Xinnua]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepbulik_Neuasien/Xinnua)
+- [Kapitalistische Sonderrechtszone Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/)
 
 Die Sternenrepublik Neuasien entstand ursprünglich aufgrund der Weltraumambitionen Chinas. Nach und nach schlossen sich ihr aber weitere asiatische Länder und ein großer Teil Russlands an. Inzwischen haben sich ihr sogar Länder außerhalb Asiens angeschlossen.
 

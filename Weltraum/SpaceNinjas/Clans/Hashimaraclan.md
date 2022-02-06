@@ -23,7 +23,7 @@ Zwar ist der Hashimara-Clan einer traditionsreichsten Ninjaclans, wäre aber nic
 <tbody>
 <tr><th>Rasse</th><td>[Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</td></tr>
 <tr><th>Kategorie</th><td>Ninja</td></tr>
-<tr><th>Wohnort</th><td>[Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime)</td></tr>
+<tr><th>Wohnort</th><td>[Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime)</td></tr>
 <tr><th>Erwähnungen</th><td>[Hashimoto]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

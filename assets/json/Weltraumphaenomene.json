@@ -55,5 +55,77 @@
     ],
     "Beschreibung": "",
     "Politisches": ""
+  },
+  "Negrewz-Nebel": {
+    "Name": "Negrewz-Nebel",
+    "Sektor": "Sektor D1",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Oyster-Cluster": {
+    "Name": "Oyster-Cluster",
+    "Sektor": "",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Plasmasturm": {
+    "Name": "Plasmasturm",
+    "Sektor": "Sternenrepublik Neuasien",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Quantenfluktuation": {
+    "Name": "Quantenfluktuation",
+    "Sektor": "Sternenrepublik Neuasien",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Raumzeitverschiebung": {
+    "Name": "Raumzeitverschiebung",
+    "Sektor": "Neutrale Zone",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Schwarzes_Loch": {
+    "Name": "Schwarzes Loch",
+    "Sektor": "Samara",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Sombreronebel": {
+    "Name": "Sombreronebel",
+    "Sektor": "Trullimperium",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "SpaceSchnee": {
+    "Name": "SpaceSchnee",
+    "Sektor": "",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Spacewood-Forest": {
+    "Name": "Spacewood-Forest",
+    "Sektor": "Kahadrisches Reich",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Unwahrscheinlichkeitszone": {
+    "Name": "Unwahrscheinlichkeitszone",
+    "Sektor": "Sektor D1",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Weihnachts-Wurmloch": {
+    "Name": "Weihnachts-Wurmloch",
+    "Sektor": "Neutrale Zone",
+    "Beschreibung": "",
+    "Politisches": ""
+  },
+  "Weißes_Loch": {
+    "Name": "Weißes Loch",
+    "Sektor": "Reich der Wagonen",
+    "Beschreibung": "",
+    "Politisches": ""
   }
 }

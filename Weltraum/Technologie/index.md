@@ -1,12 +1,10 @@
 ---
-layout: page
-permalink: /Weltraum/Technologie/index
+layout: aside
+permalink: /Weltraum/Technologie/
 title: Technologie
 ---
 
-
 # Technologie
-
 
 Die Technik bei SpacePirates bietet alles, um Raumflüge angenehm zu gestalten. Im Weltraum zu reisen und mit Überlichtgeschwindigkeit von Planet zu Planet zu fliegen, ist für jeden SpacePiraten Alltag. Computer und fliegende Autos sind alltäglich und die Medizin kann quasi alle Krankheiten heilen.
 
@@ -21,7 +19,7 @@ Aufgrund der interstellaren Entfernungen haben sich auch die Datennetze weiteren
 Jedes Raumschiff, Raumstation und besiedelte Planeten besitzen Funknetze, damit sich Smartphones und Computer in das Starnet einklinken können. FTL-Funkmodule sind für tragbare Geräte noch viel zu klobig und schwer.
 
 - [Starnet]({{ site.baseurl }}/Weltraum/Technologie/Starnet)
-- [Beliebte Starnetsendungen]({{ site.baseurl }}/Weltraum/Technologie/Starnet_sendungen)
+- [Beliebte Starnetsendungen]({{ site.baseurl }}/Weltraum/Technologie/Starnet-Sendungen)
 
 ## Energieerzeugung
 
@@ -59,42 +57,11 @@ Roboter erleichtern das Leben in allen Bereichen. Sie übernehmen vor allem gef�
 
 Aufgrund der vorrangigen Einsatzgebiete sind humanoide Roboter nach wie vor die Ausnahme. Es wäre zwar möglich, sie zu bauen, sie wären aber im industriellen Einsatz nicht gerade praktisch. Aber es einen großen Markt an mehr oder minder intelligenten Cyberhaustieren, wie fliegende Cyberpapagaie, -hunde oder -katzen, die ihren tierischen Vorbildern nachempfunden sind.
 
-- [Roboter auf Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime_roboter)
-- [Roboter von Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappagamma)
+- [Roboter auf Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukicho-Prime/Roboter)
+- [Roboter von Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappa_Gamma/)
 
 ## Waffen
 
 Die gebräuchlichsten Waffen sind Laserpistolen, -gewehre und -kanonen. Es gibt sie als kompakte Handfeuerwaffen, Scharfschützengewehre oder auch als mächtige Bordkanonen für große Raumschiffe. Neben Lasern gibt es auch Plasmagewehre und mächtige Negatronenwerfer, die Panzerfäusten ähneln. Tachyonenpistolen sind der neueste Schrei, aber noch nicht ganz ausgereift.
 
 Projektilwaffen sind mittlerweile veraltet und wurden bei Armeen, Sicherheitsdiensten und sonstigen Ordnungskräften durch moderne Waffen ersetzt. Da sie sehr zuverlässig funktionieren und äußerst robust sind, werden sie aber in bestimmten Gebieten weiterhin verwendet, obwohl sie nicht in der Lage sind, moderne Panzerungen und Abschirmfelder zu durchdringen.
-
-
-<aside>
-<div class="hinweis">
-## Weitere Links
-
-- [Techtalk]({{ site.baseurl }}/Weltraum/Technologie/Techtalk)
-- [Techsprech Tabelle]({{ site.baseurl }}/Weltraum/Technologie/Techsprechtabelle)
-- [Negatritium-Strahlung]({{ site.baseurl }}/Weltraum/Technologie/Neutritiumstrahlung)
-
-</div>
-<div class="anmerkung">
-## Quantenfluxkompensator in Betrieb
-
-Der größte Quantenfluxkompensator wird in Betrieb genommen. Eines der größten Forschungsprojekte der Menschheit steht vor der Vollendung. Ist es aber zugleich der Untergang unserer Zivilisation? Führende Quantenforscher warnen!
-
-</div>
-<div class="anmerkung">
-## Universum fast zerstört!
-
-Das Universum entging nur knapp dem Untergang, Schuld war der exzentrische Zeitforscher Edward Bakutha. Bei seinem Prototyp überhitzte die Kühlung, der Super-GAU konnte nur knapp verhindert werden. Nun fordert der prominente Geologe Rawdins: „Die Regierung muss die Zeitforschung endlich angemessen überwachen! Sie erfolgt in einem nahezu unregulierten Umfeld.“ Wie denken sie darüber?
-
-</div>
-<div class="anmerkung">
-## xPhoneOS 10
-
-Über 200 Verbesserungen und grundlegende Neuerungen bringt das 10. Update der mobilen Plattform.
-
-</div>
-</aside>
-

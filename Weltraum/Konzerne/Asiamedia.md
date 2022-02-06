@@ -20,7 +20,7 @@ Beherrscht wird dieses Medienimperium vom höchsten Hochhaus Neu-Neo-Tokios aus,
 <tr><th>Besitzer</th><td>[Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</td></tr>
 <tr><th>Geschäftsführer</th><td> </td></tr>
 <tr><th>Kategorie</th><td>Medienkonzern</td></tr>
-<tr><th>Konzernzentrale</th><td>[Kabukicho Prime]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime)</td></tr>
+<tr><th>Konzernzentrale</th><td>[Kabukicho Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime)</td></tr>
 <tr><th>Niederlassungen</th><td> </td></tr>
 <tr><th>Erwähnungen</th><td>[Asia Media]({{ site.baseurl }}/Search)</td></tr>
 </tbody>

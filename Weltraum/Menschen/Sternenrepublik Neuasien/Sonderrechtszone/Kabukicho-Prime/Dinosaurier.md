@@ -1,15 +1,14 @@
 ---
 layout: page
-permalink: /Weltraum/Menschen/Sternenrepublik Neuasien/Kabukichoprime_dinosaurier
+permalink: /Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Dinosaurier
 title: Dinosaurier
 ---
 
 # Dinosaurier
 
+Dinosaurier sind auf [Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukicho-Prime/) ein alltäglicher Anblick und vermutlich auch die einzige Tierart, die es mit der gigantischen Flora des Planeten aufnehmen kann. Es gibt sie in allen möglichen Arten, von Flugsauriern über fleischfressende Coelurosaurier bis hin zu pflanzenfressenden Sauropoden. Ganz wie die restliche Flora und Fauna sind aber auch die Dinosaurier wesentlich gefährlicher als anderswo, denn sie sind nicht nur größer als normale Dinosaurier, sondern können auch noch Plasma speien.
 
-Dinosaurier sind auf [Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime) ein alltäglicher Anblick und vermutlich auch die einzige Tierart, die es mit der gigantischen Flora des Planeten aufnehmen kann. Es gibt sie in allen möglichen Arten, von Flugsauriern über fleischfressende Coelurosaurier bis hin zu pflanzenfressenden Sauropoden. Ganz wie die restliche Flora und Fauna sind aber auch die Dinosaurier wesentlich gefährlicher als anderswo, denn sie sind nicht nur größer als normale Dinosaurier, sondern können auch noch Plasma speien.
-
-Normalerweise sind die Dinosaurier allerdings ungefährlich, da sie im dichten Dschungel und den weiten Tal- und Flusslandschaften leben. Gelegentlich verirren sie sich aber in die menschlichen Siedlungen des Planeten, zumeist, weil sie die Leuchtreklame für Lock- oder Warnsignale halten. Kleinere Städte werden meist nur ein einziges Mal von Dinosauriern heimgesucht, aber in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime_neuneotokio) demolieren sie (sehr zur Freude der Baubranche) gelegentlich ganze Straßenzüge und bringen Hochhäuser zum Einsturz. Besonders gefährlich sind allerdings Flugsaurier, welche an den Raumhäfen auf ankommende Kleinraumschiffe lauern.
+Normalerweise sind die Dinosaurier allerdings ungefährlich, da sie im dichten Dschungel und den weiten Tal- und Flusslandschaften leben. Gelegentlich verirren sie sich aber in die menschlichen Siedlungen des Planeten, zumeist, weil sie die Leuchtreklame für Lock- oder Warnsignale halten. Kleinere Städte werden meist nur ein einziges Mal von Dinosauriern heimgesucht, aber in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukicho-Prime/Neu-Neo-Tokio) demolieren sie (sehr zur Freude der Baubranche) gelegentlich ganze Straßenzüge und bringen Hochhäuser zum Einsturz. Besonders gefährlich sind allerdings Flugsaurier, welche an den Raumhäfen auf ankommende Kleinraumschiffe lauern.
 
 ## Die gefährlichsten Dinosaurier
 
@@ -28,4 +27,3 @@ Normalerweise sind die Dinosaurier allerdings ungefährlich, da sie im dichten D
 <tr><td>Tyrannosaurus Rex</td><td>8</td><td>4</td><td>5</td><td>50</td></tr>
 </tbody>
 </table>
-

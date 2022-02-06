@@ -21,7 +21,7 @@ Ein wagonischer Spacekurier liefert einem der Charaktere (dessen Onkel Nic Jäge
 <tr><td>3</td><td>Im Wellnessbereich auf [Freeport]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport)</td></tr>
 <tr><td>4</td><td>Im Jagdurlaub auf einem Waldplaneten im [Spacewood Forest]({{ site.baseurl }}/Weltraum/Phaenomene/Spacewood-forest)</td></tr>
 <tr><td>5</td><td>Berauscht auf der SpaceWorms Raumstation [BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)</td></tr>
-<tr><td>6</td><td>Beim Sushiessen in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime_neuneotokio)</td></tr>
+<tr><td>6</td><td>Beim Sushiessen in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime_neuneotokio)</td></tr>
 </tbody>
 </table>
 Der Spacekurier sieht abgekämpft aus und auch sein Raumflitzer scheint beschädigt zu sein. Er wird von den SpaceAngels verfolgt, die direkt nach ihm eintreffen und sofort aus allen Rohren feuern. Sie sind hinter der goldenen Schallplatte her. Die SpaceAngels sind mit einem Raumschiff unterwegs, da der Fahrtwind bei SpaceBikes mit FTL doch zu krass ist.

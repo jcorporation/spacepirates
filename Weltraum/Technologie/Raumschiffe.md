@@ -34,4 +34,3 @@ Das Hyperschiff ist die häufigste Raumschiffklasse. Sie sind sehr flexibel, da 
 ## Spaceflitzer
 
 Spaceflitzer werden meist als Shuttles oder für sehr kurze Reisen innerhalb des Sonnensystems eingesetzt. Sie sind für kurze Flüge von einem Planeten zu dessen Monden ausgelegt, bei längeren Strecken wird es entsprechend ungemütlich. Spaceflitzer verfügen über keinen FTL-Antrieb und können sich nur sehr begrenzt selber versorgen. In der militärischen Variante sind sie zu Hunderten auf Raumkreuzern und in einer geringeren Zahl auch auf Kriegsschiffen stationiert.
-

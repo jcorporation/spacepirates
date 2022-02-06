@@ -2,7 +2,7 @@
 
 YQ=".scripts/yq"
 
-LISTS="Planeten Staedte Sternensysteme Slc Raumstationen Weltraumphaenomene"
+LISTS="Planeten Staedte Sternensysteme Slc Raumstationen Weltraumphaenomene Organisationen"
 
 #create empty tmp file
 for L in $LISTS
@@ -14,7 +14,7 @@ printf "Parsing frontmatters"
 while read -r F
 do
     [ "$F" = "./README.md" ] && continue
-    [[ "$F" =~ ^./_includes.* ]] && continue
+    [[ "$F" =~ ^./_.* ]] && continue
     [[ "$F" =~ .*_aside.md$ ]] && continue
     SITEDATA=$($YQ --front-matter=extract '.sitedata' "$F")
 

@@ -4,9 +4,7 @@ permalink: /Weltraum/Technologie/Techtalk
 title: Techtalk
 ---
 
-
 # Techtalk
-
 
 Der Techtalk bietet aufschlußreiche Einblicke in die Physik und Technik von SpacePirates und ist nicht nur für Techs interessant.
 
@@ -71,6 +69,3 @@ Ihre Erfindung ist ein Abfallprodukt der FTL-Forschung. Bei der Produktion von A
 Diese Abgabe lässt sich hervorragend dosieren, indem man die Anzahl der schwingenden Kristalle verändert. Aus diesem Grund lassen sich auch problemlos Geräte mit unterschiedlichstem Energiebedarf anschließen: Taschenlampen brennen nahezu unendlich lange, bei einer auf „Asche zu Asche“ eingestellten Strahlenwaffe ist die Zelle nach einem Schuss entladen.
 
 Zum Einschalten wird ein kurzer elektrischer Impuls benötigt. Bei modernen Apparaten reicht hierfür die Bioelektrizität des Anwenders aus, bei älteren Modellen ist zur Unterstützung ein Piezo-Mechanismus erforderlich, der bei Betätigung ein lautes „Klick“ von sich gibt.
-
-
-

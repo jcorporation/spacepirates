@@ -17,7 +17,7 @@ Yinuang ist die reichste Stadt auf Zeno und auch der Sitz der planetaren Regieru
 <table data-type="stadt">
 <caption>Yinuang</caption>
 <tbody>
-<tr><th>Planet</th><td>[Zeno]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Zeno)</td></tr>
+<tr><th>Planet</th><td>[Zeno]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Zeno)</td></tr>
 <tr><th>Größe</th><td>Millionenstadt</td></tr>
 <tr><th>Kategorie</th><td>Hauptstadt</td></tr>
 <tr><th>Erwähnungen</th><td>[Yinuang]({{ site.baseurl }}/Search)</td></tr>
@@ -29,12 +29,12 @@ Yinuang ist die reichste Stadt auf Zeno und auch der Sitz der planetaren Regieru
 <caption>Zeno</caption>
 <tbody>
 <tr><th>Typ</th><td>Erdähnlicher Planet</td></tr>
-<tr><th>Sektor</th><td>[Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/index)</td></tr>
+<tr><th>Sektor</th><td>[Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/index)</td></tr>
 <tr><th>Monde</th><td>3</td></tr>
 <tr><th>Einwohner</th><td>[Asiaten]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</td></tr>
 <tr><th>Hauptstadt</th><td>Yinuang</td></tr>
 <tr><th>Besiedelung</th><td>sehr viele zusammengewachsene Städte</td></tr>
-<tr><th>Politisches</th><td>Bevölkerungsreichster Planet [Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/index)</td></tr>
+<tr><th>Politisches</th><td>Bevölkerungsreichster Planet [Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/index)</td></tr>
 <tr><th>Erwähnungen</th><td>[Zeno]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

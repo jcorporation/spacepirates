@@ -19,6 +19,16 @@
     "Besiedelung": "Dungeon",
     "Politisches": "Keine politischen Beziehungen"
   },
+  "Kabukicho-Prime": {
+    "Name": "Kabukicho-Prime",
+    "Typ": "Dschungelplanet",
+    "Sektor": "Sternenrepublik Neuasien",
+    "Monde": "4",
+    "Einwohner": "Menschen, vornehmlich Asiaten",
+    "Hauptstadt": "Neu-Neo-Tokio",
+    "Besiedelung": "eine große Stadt",
+    "Politisches": "Kapitalistische Sonderrechtszone Neuasiens"
+  },
   "Kappa_Gamma": {
     "Typ": "Erdähnlich",
     "Name": "Kappa Gamma",

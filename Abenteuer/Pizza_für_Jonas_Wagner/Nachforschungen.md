@@ -70,7 +70,7 @@ Er kennt sich tatsächlich gut mit alten Schriftrollen aus, ist aber eher mürri
 <tbody>
 <tr><th>Rasse</th><td>[Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</td></tr>
 <tr><th>Kategorie</th><td>[Ninja]({{ site.baseurl }}/Weltraum/Spaceninjas)</td></tr>
-<tr><th>Wohnort</th><td>[Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime_neuneotokio)</td></tr>
+<tr><th>Wohnort</th><td>[Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime_neuneotokio)</td></tr>
 <tr><th>SÖLDNER</th><td>8</td></tr>
 <tr><th>TECH</th><td>3</td></tr>
 <tr><th>PILOT</th><td>5</td></tr>

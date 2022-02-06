@@ -2,15 +2,19 @@
 
 {% assign normalized = "" %}
 {% assign words = "aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|an|auf|der|die|das|ein|eine" | split: "|" %}
+{% assign start = 1 %}
 {% for phrase in phrases %}
     {% assign match = 0 %}
-    {% for word in words %}
-        {% if phrase == word %}
-            {% assign match = 1 %}
-            {% break %}
-        {% endif %} 
-    {% endfor %}
+    {% if start == 1 %}
+        {% for word in words %}
+            {% if phrase == word %}
+                {% assign match = 1 %}
+                {% break %}
+            {% endif %} 
+        {% endfor %}
+    {% endif %}
     {% if match == 0 %}
+        {% assign start = 0 %}
         {% assign normalized =  normalized | append: " " | append: phrase %}
     {%endif %}
 {% endfor %}

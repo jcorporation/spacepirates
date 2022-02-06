@@ -16,8 +16,8 @@ Die S.I.E. Robotermanufaktur stellt nicht nur Roboter her, sondern hat auch eine
 <tr><th>Name</th><th>Rasse</th><th>Kategorie</th><th>Wohnort</th><th>Erwähnungen</th></tr>
 </thead>
 <tbody>
-<tr><td>Sun Shan</td><td>[Kabukicho-Prime]({{ site.baseurl }}/Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</Td><td>Konzernchef</Td><td>)({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime)</td><td>[Sun Shan]({{ site.baseurl }}/Search)</td></tr>
-<tr><td>Jonas Wagner</td><td>[Kabukicho-Prime]({{ site.baseurl }}/Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</Td><td>Konzernchef</Td><td>)({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime)</td><td>[Jonas Wagner]({{ site.baseurl }}/Search)</td></tr>
+<tr><td>Sun Shan</td><td>[Kabukicho-Prime]({{ site.baseurl }}/Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</Td><td>Konzernchef</Td><td>)({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime)</td><td>[Sun Shan]({{ site.baseurl }}/Search)</td></tr>
+<tr><td>Jonas Wagner</td><td>[Kabukicho-Prime]({{ site.baseurl }}/Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</Td><td>Konzernchef</Td><td>)({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime)</td><td>[Jonas Wagner]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>
 
@@ -28,7 +28,7 @@ Die S.I.E. Robotermanufaktur stellt nicht nur Roboter her, sondern hat auch eine
 <tr><th>Besitzer</th><td>Jonas Wagner</td></tr>
 <tr><th>Geschäftsführer</th><td>Sun Shan</td></tr>
 <tr><th>Kategorie</th><td>Technologiekonzern</td></tr>
-<tr><th>Konzernzentrale</th><td>[Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime)</td></tr>
+<tr><th>Konzernzentrale</th><td>[Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime)</td></tr>
 <tr><th>Niederlassungen</th><td> </td></tr>
 <tr><th>Erwähnungen</th><td>[S.I.E. Robotermanufaktur]({{ site.baseurl }}/Search)</td></tr>
 </tbody>

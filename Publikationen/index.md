@@ -116,6 +116,8 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
 
 ## Abenteuer
 
+Hier findest du weitere Abenteuer, die nicht im obigen Sammelband enthalten sind.
+
 | Titel | Version | Format |
 | ----- | ------- | ------ |
 | [Blumenkind](/Publikationen/Abenteuer/Blumenkind_2016-09-20.pdf)| 2016.09.20 | PDFA5 |

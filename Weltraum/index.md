@@ -29,8 +29,8 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 {% capture include_col2 %}
 ## Menschen
 
-- [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)
-- [Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/)
+- [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)
+- [Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/)
 
 ## Aliens
 
@@ -55,9 +55,9 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 
 - [Piraten]({{ site.baseurl }}/Weltraum/Piraten)
 - [Rebellen]({{ site.baseurl }}/Weltraum/Rebellen/)
-- [SpaceMafia]({{ site.baseurl }}/Weltraum/Spacemafia)
-- [SpaceNinjas]({{ site.baseurl }}/Weltraum/Spaceninjas)
-- [SpaceRocker]({{ site.baseurl }}/Weltraum/Spacerocker)
+- [SpaceMafia]({{ site.baseurl }}/Weltraum/SpaceMafia)
+- [SpaceNinjas]({{ site.baseurl }}/Weltraum/SpaceNinjas)
+- [SpaceRocker]({{ site.baseurl }}/Weltraum/SpaceRocker)
 - [Promis]({{ site.baseurl }}/Weltraum/Promis)
 - [Konzerne]({{ site.baseurl }}/Weltraum/Konzerne)
 - [Händler und Halunken]({{ site.baseurl }}/Weltraum/Händler_und_Halunken)
@@ -65,6 +65,7 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 - [Sekten]({{ site.baseurl }}/Weltraum/Sekten)
 - [Militär]({{ site.baseurl }}/Weltraum/Militaer)
 - [Übersicht der bekannten Personen]({{ site.baseurl }}/Weltraum/Übersicht_der_bekannten_Personen)
+- [Übersicht der Organisationen]({{ site.baseurl }}/Weltraum/Übersicht_der_Organisationen)
 {% endcapture %}
 
 {% include columns.md col1=include_col1 col2=include_col2 col3=include_col3%}

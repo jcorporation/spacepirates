@@ -2,6 +2,27 @@
 layout: page
 permalink: /Weltraum/Sekten
 title: Sekten
+
+sitedata:
+    Organisationen:
+        Heavensgate:
+            Name: Heavensgate
+            Typ: Sekte
+        Kinder_der_Sternenleere:
+            Name: Kinder der Sternenleere
+            Typ: Sekte
+        Marmonen:
+            Name: Marmonen
+            Typ: Sekte
+        Vereinigung_zur_Foerderun_ von_Ostern:
+            Name: Vereinigung zur Förderung von Ostern
+            Typ: Sekte
+        Verfechter_der_Nacktheit:
+            Name: Verfechter der Nackheit
+            Typ: Sekte
+        Weltraumpfleger:
+            Name: Weltraumpfleger
+            Typ: Sekte
 ---
 
 # Sekten

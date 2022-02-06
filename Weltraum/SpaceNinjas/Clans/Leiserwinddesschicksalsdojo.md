@@ -23,7 +23,7 @@ Das Dojo dieses Clans liegt am Rand von Neu-Neo-Tokio, wo der Dschungel noch gez
 <tbody>
 <tr><th>Rasse</th><td>[Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</td></tr>
 <tr><th>Kategorie</th><td>Ninja</td></tr>
-<tr><th>Wohnort</th><td>[Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime)</td></tr>
+<tr><th>Wohnort</th><td>[Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime)</td></tr>
 <tr><th>Erwähnungen</th><td>[Zhao Xue]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

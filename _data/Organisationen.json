@@ -1,0 +1,34 @@
+{
+  "DinoFanatics": {
+    "Name": "Dinofanatics",
+    "Typ": "Verein"
+  },
+  "Heavensgate": {
+    "Name": "Heavensgate",
+    "Typ": "Sekte"
+  },
+  "Kinder_der_Sternenleere": {
+    "Name": "Kinder der Sternenleere",
+    "Typ": "Sekte"
+  },
+  "Marmonen": {
+    "Name": "Marmonen",
+    "Typ": "Sekte"
+  },
+  "ProBeast": {
+    "Name": "ProBeast",
+    "Typ": "Tierschutzorganisation"
+  },
+  "Vereinigung_zur_Foerderun_ von_Ostern": {
+    "Name": "Vereinigung zur Förderung von Ostern",
+    "Typ": "Sekte"
+  },
+  "Verfechter_der_Nacktheit": {
+    "Name": "Verfechter der Nackheit",
+    "Typ": "Sekte"
+  },
+  "Weltraumpfleger": {
+    "Name": "Weltraumpfleger",
+    "Typ": "Sekte"
+  }
+}

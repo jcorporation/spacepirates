@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Technologie/Starnet
 title: Starnet
 ---
@@ -8,14 +8,6 @@ title: Starnet
 
 - [Beliebte Starnetsendungen]({{ site.baseurl }}/Weltraum/Technologie/Starnet_sendungen)
 
-<aside>
-<div class="anmerkung">
-## Harter Starnet-Entzug
-
-Kann man ohne das Starnet noch leben? Die Marmonen beweisen es! Eine abenteuerliches Experiment beginnt: 1 Jahr ohne Starnet. Der jeweils aktuelle Stand des Experiments nur hier im Liveticker.
-
-</div>
-</aside>
 Das Starnet ist das beliebteste und größte frei zugängliche Datennetz im SpacePirates-Universum. Jeder, der wichtig ist oder sich für wichtig hält, hat eine eigene Starnetpräsenz. Daher ist das Starnet der erste Anlaufpunkt, wenn man etwas herausfinden will.
 
 Die 3D-Chatrooms sind die modernen Marktplätze und Gartenzäune, in denen sich Nutzer über alles Mögliche austauschen. Gewaltige digitale Bibliotheken enthalten das bekannte Wissen des Universums. Tausende interaktiver Spiele und Portale bieten Zerstreuung und Unterhaltung. Und das alles ist bloß einen Knopfdruck entfernt - kein Wunder, dass die Starnetsucht mittlerweile eine verbreitete Krankheit darstellt.

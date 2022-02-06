@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Technologie/Techsprechtabelle
+permalink: /Weltraum/Technologie/Techsprech_Tabelle
 title: Techsprech Tabelle
 ---
 
@@ -29,6 +29,7 @@ Bei jedem Wort gilt es, mit einem W10 eine der drei entsprechenden Spalte zu erm
 <tr><td>10</td><td>Natürlicher-</td><td>Neutraler-</td><td>Funkelnder-</td></tr>
 </tbody>
 </table>
+
 ### 2. Wort
 
 <table>
@@ -48,6 +49,7 @@ Bei jedem Wort gilt es, mit einem W10 eine der drei entsprechenden Spalte zu erm
 <tr><td>10</td><td>-Protonen-</td><td>-Tritanium-</td><td>-kielholender-</td></tr>
 </tbody>
 </table>
+
 ### 3. Wort
 
 <table>
@@ -70,4 +72,3 @@ Bei jedem Wort gilt es, mit einem W10 eine der drei entsprechenden Spalte zu erm
 
 ***
 **Autor:** [Peter alias Joni](http://www.herzliches-rollenspiel.de/)
-

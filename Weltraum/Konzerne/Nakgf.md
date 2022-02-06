@@ -18,7 +18,7 @@ Die Neu-Asiatische-Küchen-Geräte-Fabrik produziert bereits seit Hunderten von 
 <tr><th>Besitzer</th><td> </td></tr>
 <tr><th>Geschäftsführer</th><td> </td></tr>
 <tr><th>Kategorie</th><td>Technologiekonzern</td></tr>
-<tr><th>Konzernzentrale</th><td>[Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Neuasien/Kabukichoprime)</td></tr>
+<tr><th>Konzernzentrale</th><td>[Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime)</td></tr>
 <tr><th>Niederlassungen</th><td> </td></tr>
 <tr><th>Erwähnungen</th><td>[NAKGF]({{ site.baseurl }}/Search)</td></tr>
 </tbody>

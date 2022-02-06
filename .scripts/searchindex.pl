@@ -323,8 +323,11 @@ sub parse_value {
             if ($key eq "title") {
                 $inc = 100;
             }
-            elsif ($key eq "keywords") {
+            elsif ($key eq "Name") {
                 $inc = 150;
+            }
+            elsif ($key eq "keywords") {
+                $inc = 175;
             }
             _log("\"$key\" eq \"$keyword\": inc $inc");
             add_uri($keyword, $inc, $filename);
