@@ -1,16 +1,15 @@
 #!/bin/bash
 
-DIR=$1
-
 check_permalink() {
     F=$1
     P=${F%.*} # remove extension
     PERMALINK=${P:1} # remove first char
-    PERMALINK=${PERMALINK/%index}
+    PERMALINK=${PERMALINK/%index} # remove index
+	PERMALINK=${PERMALINK//_posts/Aktuelles}
 
     if ! grep -q "^permalink: $PERMALINK\$" "$F"
     then
-        echo "Invalid permalink: $F"
+        echo "Invalid permalink: $F / $PERMALINK"
     fi
 }
 
@@ -27,6 +26,7 @@ while read -r F
 do
     [ "$F" = "./README.md" ] && continue
     [[ "$F" =~ ^./_includes.* ]] && continue
+    [[ "$F" =~ ^./_site.* ]] && continue
     [[ "$F" =~ .*_aside.md$ ]] && continue
 
     # check links
@@ -35,4 +35,4 @@ do
     check_permalink "$F"
     # check title
     check_title "$F"
-done < <(find "./$DIR" -name \*.md)
+done < <(find ./ -name \*.md)

@@ -1,4 +1,4 @@
-<a class="breadcrumb-item link-dark text-decoration-none" href='{{ site.baseurl }}/'>SpacePirates</a>
+<a class="breadcrumb-item link-dark text-decoration-none" href='{{ site.baseurl }}/'>{{ site.title }}</a>
 {% assign crumbs = page.url | split: '/' %}
 {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
