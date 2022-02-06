@@ -2,11 +2,20 @@
 layout: page
 permalink: /Weltraum/Menschen/Sternenrepublik_Neuasien/index
 title: Sternenrepublik Neuasien
+
+sitedata:
+    Sektoren:
+        Sternenrepublik_Neuasien:
+            Name: Sternenrepublik Neuasien
+            Hauptplanet: Xinnua
+    Rassen:
+        Neuasiat:
+            Name: Neuasiat
+            Sektor: Sternenrepublik Neuasien
+            Heimatplanet: Xinnua
 ---
 
-
 # Sternenrepublik Neuasien
-
 
 - **Heimatplanet:** [Xinnua]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepbulik_Neuasien/Xinnua)
 - [Kapitalistische Sonderrechtszone Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/)
@@ -19,15 +28,4 @@ Neuasien wird von der KPNA, der kommunistischen Partei Neuasiens regiert. An der
 
 Die Sternenrepublik Neuasien unterstützt die Rebellen und ab und an auch die Piraten, die sich in der Freihandelszone herumtreiben, um den Handelsrat zu schwächen und schließlich zu zerschlagen.
 
-<div class="hinweis">
-## Planeten, Raumstationen und Weltraumphänomene in diesem Sektor
-
-[list]({{ site.baseurl }}/Objectlist:planet|sternensystem:Sektor=Sternenrepublik Neuasien)
-
-[list]({{ site.baseurl }}/Objectlist:raumstation:Sektor=Sternenrepublik Neuasien)
-
-[list]({{ site.baseurl }}/Objectlist:phaenomen:Sektor=Sternenrepublik Neuasien)
-
-</div>
-
-
+{% include sektorinfo.md data=page.title %}

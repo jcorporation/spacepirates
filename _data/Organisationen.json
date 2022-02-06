@@ -1,11 +1,17 @@
 {
   "DinoFanatics": {
     "Name": "Dinofanatics",
-    "Typ": "Verein"
+    "Typ": "Verein",
+    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/"
   },
   "Heavensgate": {
     "Name": "Heavensgate",
     "Typ": "Sekte"
+  },
+  "Humanozentrische_Befreiungsfront": {
+    "Name": "Humanozentrische Befreiungsfront",
+    "Typ": "Gewerkschaft",
+    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/Roboter"
   },
   "Kinder_der_Sternenleere": {
     "Name": "Kinder der Sternenleere",
@@ -29,6 +35,7 @@
   },
   "Weltraumpfleger": {
     "Name": "Weltraumpfleger",
-    "Typ": "Sekte"
+    "Typ": "Sekte",
+    "Link": "/Weltraum/Sekten"
   }
 }

@@ -41,7 +41,7 @@ if (defined $ARGV[0]) {
     push @files, $ARGV[0];
 }
 else {
-    open my $dh, ".scripts/searchindex_dirs.txt" or die "Error opening .scripts/searchindex_dirs.txt";
+    open my $dh, ".scripts/conf/index_dirs.txt" or die "Error opening .scripts/conf/index_dirs.txt";
     while (my $dir = <$dh>) {
         chomp($dir);
         print "Adding $dir to index\n";
@@ -55,7 +55,7 @@ print "Found $files_count files\n";
 
 # manage keywords to index
 my %ignorewords;
-open $fh, ".scripts/searchindex_ignorewords.txt" or die "Error opening .scripts/searchindex_ignorewords.txt";
+open $fh, ".scripts/conf/index_ignorewords.txt" or die "Error opening .scripts/conf/index_ignorewords.txt";
 while (my $word = <$fh>) {
     chomp($word);
     $ignorewords{$word} = 1;
@@ -63,8 +63,8 @@ while (my $word = <$fh>) {
 close $fh;
 
 my %stompkeys;
-open $fh, ".scripts/searchindex_stompkeys.txt" or die "Error opening .scripts/searchindex_stompkeys.txt";
-open $oh, ">_data/searchindex_stompkeys.json" or die "Error opening _data/searchindex_stompkeys.txt";
+open $fh, ".scripts/conf/index_stompkeys.txt" or die "Error opening .scripts/conf/index_stompkeys.txt";
+open $oh, ">_tmp/index_stompkeys.json" or die "Error opening _tmp/index_stompkeys.txt";
 print $oh "{\n";
 $i = 0;
 while (my $line = <$fh>) {
@@ -234,7 +234,7 @@ for my $filename (@files) {
 
 # read json keys from which we grab keywords from _data files
 my %datakeywords;
-open $fh, ".scripts/searchindex_datakeywords.txt";
+open $fh, ".scripts/conf/index_datakeywords.txt" or die "Error opening file .scripts/conf/index_datakeywords.txt";
 while (my $line = <$fh>) {
     chomp($line);
     $datakeywords{$line} = 1;
@@ -423,7 +423,7 @@ for my $filename (@files) {
 print "\n";
 
 #write json searchindex
-open $oh, ">_data/searchindex.json";
+open $oh, ">_tmp/index.json" or die "Error opening file _tmp/index.json";
 print $oh "{\n";
 $i = 0;
 for my $keyword (sort keys %keywords) {

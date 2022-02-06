@@ -109,10 +109,10 @@ async function fetchJSON(dataFile, callback) {
 
 function cbFetchJSON(dataFile, obj, callback) {
     switch(dataFile) {
-        case 'searchindex':
+        case 'index':
             searchIndex = obj;
             break;
-        case 'searchindex_stompkeys':
+        case 'index_stompkeys':
             stompWords = obj;
             break;
     }
@@ -139,8 +139,8 @@ document.getElementById('btnSearch').parentNode.addEventListener('shown.bs.dropd
     if (cbSearchInitialized() === false) {
         inputSearch.setAttribute('disabled', 'disabled');
         inputSearch.setAttribute('placeholder','Wird initializiert...');
-        fetchJSON('searchindex', cbSearchInitialized);
-        fetchJSON('searchindex_stompkeys', cbSearchInitialized);
+        fetchJSON('index', cbSearchInitialized);
+        fetchJSON('index_stompkeys', cbSearchInitialized);
     }
 }, false);
 

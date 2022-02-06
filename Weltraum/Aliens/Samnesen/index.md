@@ -6,6 +6,12 @@ keywords:
     - samara
     - samnesen
 
+sitedata:
+    Sektoren:
+        Samara:
+            Name: Samara
+            Hauptplanet: "Sampuk"
+
 ---
 
 # Samnesen

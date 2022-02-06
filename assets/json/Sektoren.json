@@ -1,0 +1,17 @@
+{
+  "Neutrale_Zone": {
+    "Name": "Neutrale Zone",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Neutrale_Zone/"
+  },
+  "Samara": {
+    "Name": "Samara",
+    "Hauptplanet": "Sampuk",
+    "Link": "/Weltraum/Aliens/Samnesen/"
+  },
+  "Sternenrepublik_Neuasien": {
+    "Name": "Sternenrepublik Neuasien",
+    "Hauptplanet": "Xinnua",
+    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/"
+  }
+}

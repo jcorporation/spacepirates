@@ -3,24 +3,28 @@
     "Name": "Halfway",
     "Sektor": "Trullimperium",
     "Bewohner": "Piraten",
-    "Politisches": "Piratentreffpunkt"
+    "Politisches": "Piratentreffpunkt",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Halfway"
   },
   "Kuerbis-Station": {
     "Name": "Kürbis-Station",
     "Sektor": "Sektor D1",
     "Bewohner": "Glukorianer",
-    "Politisches": "keine politischen Beziehungen"
+    "Politisches": "keine politischen Beziehungen",
+    "Link": "/Weltraum/Weltraumphänomene/Halloween-Nebel"
   },
   "Saloniki": {
     "Name": "Saloniki",
     "Sektor": "Rand des Universums",
     "Bewohner": "Griechen",
-    "Politisches": "Unabhängig"
+    "Politisches": "Unabhängig",
+    "Link": "/Weltraum/Raumstationen/Saloniki"
   },
   "Two_Eyed_Jack": {
     "Name": "Two Eyed Jack",
     "Sektor": "Freihandelszone",
     "Bewohner": "Piraten",
-    "Politisches": "Piratentreffpunkt"
+    "Politisches": "Piratentreffpunkt",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   }
 }

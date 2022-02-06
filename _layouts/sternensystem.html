@@ -8,7 +8,7 @@ layout: default
   </main>
   <aside class="col col-xl-4 pe-0">
     {% assign name = page.title | replace: " ", "_" %}
-    {% assign data = page.sitedata.Planeten[name] %}
+    {% assign data = page.sitedata.Sternensysteme[name] %}
     {% include sternensystem.md data=data %}
   </aside>
 </div>

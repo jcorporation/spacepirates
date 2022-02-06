@@ -135,7 +135,8 @@
     "Rasse": "Asiat",
     "Kategorie": "Militär",
     "Position": "Admiral der Flotte Neuasiens.",
-    "Wohnort": "Neuchina"
+    "Wohnort": "Neuchina",
+    "Link": "/Weltraum/Militär"
   },
   "Holly_Day": {
     "Name": "Holly Day",
@@ -191,6 +192,14 @@
     "Wohnort": "Two Eyed Jack",
     "Position": ""
   },
+  "Leu_Ming": {
+    "Name": "Leu Ming",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Politiker",
+    "Wohnort": "Neu-Neo-Tokio",
+    "Position": "",
+    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/"
+  },
   "Long_Dong_Plasmatongue": {
     "Name": "Long Dong Plasmatongue",
     "Rasse": "Samnese",
@@ -233,7 +242,8 @@
     "Rasse": "Wagone",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Olf_Dundgren": {
     "Name": "Olf Dundgren",
@@ -318,14 +328,16 @@
       "Halunke"
     ],
     "Wohnort": "Neuchina",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Händler_und_Halunken"
   },
   "Troedler_Abraham": {
     "Name": "Trödler Abraham",
     "Rasse": "Trull",
     "Kategorie": "Händler",
     "Wohnort": "Halfway",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Halfway"
   },
   "Two_Eyed_Jack": {
     "Name": "Two Eyed Jack",
@@ -342,7 +354,8 @@
     "Rasse": "Kahadrier",
     "Kategorie": "Kneipenbesitzer",
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Walter_Kirkham": {
     "Name": "Walter Kirkham",
@@ -366,6 +379,15 @@
       "Verrückter Wissenschaftler"
     ],
     "Position": "",
-    "Wohnort": "unbekannt"
+    "Wohnort": "unbekannt",
+    "Link": "/Weltraum/Verrückte_Wissenschaftler"
+  },
+  "Yin-Yang-Yong": {
+    "Name": "Yin-Yang-Yong",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Händler",
+    "Wohnort": "Neu-Neo-Tokio",
+    "Position": "",
+    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio"
   }
 }

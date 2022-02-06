@@ -7,7 +7,8 @@
     "Einwohner": "Brarbragrozianer",
     "Hauptstadt": "viele",
     "Besiedelung": "kleine Städte",
-    "Politisches": "Zurückgebliebener Planet"
+    "Politisches": "Zurückgebliebener Planet",
+    "Link": "/Weltraum/Brarbragroz"
   },
   "DU-3864366": {
     "Name": "DU-3864366",
@@ -17,7 +18,8 @@
     "Einwohner": "unbekannt",
     "Hauptstadt": "unbekannt",
     "Besiedelung": "Dungeon",
-    "Politisches": "Keine politischen Beziehungen"
+    "Politisches": "Keine politischen Beziehungen",
+    "Link": "/Weltraum/DU-3864366"
   },
   "Kabukicho-Prime": {
     "Name": "Kabukicho-Prime",
@@ -27,7 +29,8 @@
     "Einwohner": "Menschen, vornehmlich Asiaten",
     "Hauptstadt": "Neu-Neo-Tokio",
     "Besiedelung": "eine große Stadt",
-    "Politisches": "Kapitalistische Sonderrechtszone Neuasiens"
+    "Politisches": "Kapitalistische Sonderrechtszone Neuasiens",
+    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/"
   },
   "Kappa_Gamma": {
     "Typ": "Erdähnlich",
@@ -37,7 +40,8 @@
     "Einwohner": "KIs und Roboter",
     "Hauptstadt": "Kappa und Gamma",
     "Besiedelung": "Roboterstädte",
-    "Politisches": "keine politischen Beziehungen"
+    "Politisches": "keine politischen Beziehungen",
+    "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/"
   },
   "Nova_Ceti": {
     "Typ": "Waldplanet",
@@ -47,7 +51,8 @@
     "Einwohner": "intelligente Pflanzen",
     "Hauptstadt": "keine",
     "Besiedelung": "Forschungsstation",
-    "Politisches": "In einer Sperrzone"
+    "Politisches": "In einer Sperrzone",
+    "Link": "/Weltraum/Aliens/Samnesen/Nova_Ceti"
   },
   "Sampuk": {
     "Typ": "Felsplanet",
@@ -57,7 +62,8 @@
     "Einwohner": "Samnesen",
     "Hauptstadt": "Sila City",
     "Besiedelung": "große Städte",
-    "Politisches": "Heimatplanet der Samnesen"
+    "Politisches": "Heimatplanet der Samnesen",
+    "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
   },
   "Scrabnambu": {
     "Name": "Scrabnambu",
@@ -67,7 +73,8 @@
     "Einwohner": "Aliens",
     "Hauptstadt": "keine",
     "Besiedelung": "nur eine Siedlung",
-    "Politisches": "Müllplanet"
+    "Politisches": "Müllplanet",
+    "Link": "/Weltraum/Neutrale_Zone/Scrabnambu"
   },
   "Terra_20CAD": {
     "Name": "Terra 20CAD",
@@ -77,7 +84,8 @@
     "Einwohner": "Menschen",
     "Hauptstadt": "viele Hauptstädte",
     "Besiedelung": "dünn besiedelt",
-    "Politisches": "Zurückgebliebener Planet in Sperrzone"
+    "Politisches": "Zurückgebliebener Planet in Sperrzone",
+    "Link": "/Weltraum/Aliens/Wagonen/Terra_20CAD"
   },
   "Vampir-Planet": {
     "Name": "Vampir-Planet",
@@ -87,7 +95,8 @@
     "Einwohner": "Bauern, Vampire",
     "Hauptstadt": "keine",
     "Besiedelung": "kleine Siedlungen",
-    "Politisches": "keine politischen Beziehungen"
+    "Politisches": "keine politischen Beziehungen",
+    "Link": "/Weltraum/Weltraumphänomene/Halloween-Nebel"
   },
   "Woodstock": {
     "Typ": "Erdähnlich",
@@ -97,6 +106,7 @@
     "Einwohner": "Hippies",
     "Hauptstadt": "Das große Festival",
     "Besiedelung": "Das großes Festival",
-    "Politisches": "keine politischen Beziehungen"
+    "Politisches": "keine politischen Beziehungen",
+    "Link": "/Weltraum/Neutrale_Zone/Woodstock"
   }
 }

@@ -24,12 +24,12 @@
 {% assign chars = "'`´,;.-?!():[]|&/#" | split: "" %}
 {% assign normalized = normalized | remove: char '"' %}
 {% for char in chars %}
-  {% assign normalized = normalized | remove: char %}
+    {% assign normalized = normalized | remove: char %}
 {% endfor %}
 
 {% if include.mode == "first" %}
-    {%if site.data.searchindex[normalized] %}
-        {% for uri in site.data.searchindex[normalized] %}
+    {%if site.data.index[normalized] %}
+        {% for uri in site.data.index[normalized] %}
             {% assign crumbs = uri[0] | split: '/' %}
             {% assign title = crumbs | join: " › " | remove_first: " › " %}
             <a title="{{ title }}" href="{{ uri[0] }}">{{ include.data }}</a>
@@ -40,8 +40,8 @@
     {% endif %}
 {% else %}
     <ul data-lookup="{{ normalized }}">
-    {%if site.data.searchindex[normalized] %}
-        {% for uri in site.data.searchindex[normalized] %}
+    {%if site.data.index[normalized] %}
+        {% for uri in site.data.index[normalized] %}
             {% if page.permalink != uri[0] %}
                 {% assign crumbs = uri[0] | split: '/' %}
                 {% assign title = crumbs | join: " › " | remove_first: " › " %}

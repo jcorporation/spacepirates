@@ -3,18 +3,28 @@
     "Name": "Gamma-Stadt",
     "Planet": "Kappa Gamma",
     "Groesse": "Millionenstadt",
-    "Kategorie": "Hauptstadt"
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma"
   },
   "Kappa-Stadt": {
     "Name": "Kappa-Stadt",
     "Planet": "Kappa Gamma",
     "Groesse": "Millionenstadt",
-    "Kategorie": "Hauptstadt"
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa"
+  },
+  "Neu-Neo-Tokio": {
+    "Name": "Neu-Neo-Tokio",
+    "Planet": "Kabukicho-Prime",
+    "Größe": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio"
   },
   "Sila_City": {
     "Name": "Sila City",
     "Planet": "Sampuk",
     "Groesse": "Millionenstadt",
-    "Kategorie": "Hauptstadt"
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
   }
 }
