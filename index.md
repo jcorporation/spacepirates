@@ -80,7 +80,7 @@ SpacePirates ist ein [freies](/spacepirates/Freies_Rollenspiel) und abgedrehtes 
         <div class="card bg-sterne text-light clickable">
             <div class="card-header">StarTunes</div>
             <div class="card-body bg-startunes text-shadow">
-                <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/StarTunes/">StarTunes</a></p>
+                <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/StarTunes/">SpacePirates Soundtrack</a></p>
             </div>
         </div>
     </div>

@@ -8,10 +8,7 @@ title: StarTunes Lyrics
 
 Hier die Lyrics zu den beiden StarTunes-Liedern, falls ihr mitsingen wollt.
 
-
-***
-## SpacePirates Theme
-
+{% capture include_body %}
 Kappa Gamma. Oyster-Cluster. Xorlok. Siga Spaceport. Kahadria. Two Eyed Jack. Glukorianisches Imperium. Föderation. Kabukicho-Prime. Greeenhl. Xanar 1. Keas. Weihnachtswurmloch. Freeport. Plasmaregenbogen. Alastor. Schwarzes Loch. Spacewood-Forest. Raumzeitverschiebung. Xinnua.
 
 Ohohohohohoho – Sp-Sp-Sp-SpacePirates / Ohohohohohoho – Sp-Sp-Sp-SpacePirates
@@ -27,11 +24,10 @@ Ohohohohohoho – Sp-Sp-Sp-SpacePirates / Ohohohohohoho – Sp-Sp-Sp-SpacePirate
 Ohohohohohoho – Sp-Sp-Sp-SpacePirates / Ohohohohohoho – Sp-Sp-Sp-SpacePirates
 
 SpacePirates.
+{% endcapture %}
+{% include anmerkung.md title="SpacePirates Theme" body=include_body %}
 
-
-***
-## Piratenlied
-
+{% capture include_body %}
 Wir streifen im Weltraum umher / im Universum, das ist unser Meer.
 
 Das Raumschiff ist unser Zuhaus&lsquo; / und die Schwerkraft, die schalten wir aus.
@@ -71,4 +67,5 @@ Denn wir sind Piraten / wo immer wir sind / gehört uns die Welt / weil sie sich
 Wir entern Planeten / und gewinnen bestimmt / weil wir Piraten sind.
 
 Wir streifen im Weltraum umher / im Universum, das ist unser Meer.
-
+{% endcapture %}
+{% include anmerkung.md title="Piratenlied" body=include_body %}

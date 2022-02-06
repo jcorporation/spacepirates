@@ -9,6 +9,6 @@ Nachdem es mit dem Atlanter vs. Spaceamazonen-Themenheft etwas schleppend voran 
 
 Neues gibt es aber auch von der Bilderfront zu vermelden, Ionflux hat einen Syoner gezeichnet. Das Bild ist in der [Galerie]({{ site.baseurl }}/Galerie) zu finden.
 
-Die [SpacePirates Würfel]({{ site.baseurl }}/Produkte/Ausverkauft) sind seit einiger Zeit bestellt und ich rechne Mitte September mit der Fertigstellung. Die exklusiven SpacePirates Würfel sind auf 300 Stück limitiert, ich nehme noch Vorbestellungen an.
+Die [SpacePirates Würfel]({{ site.baseurl }}/Publikationen/Ausverkauft) sind seit einiger Zeit bestellt und ich rechne Mitte September mit der Fertigstellung. Die exklusiven SpacePirates Würfel sind auf 300 Stück limitiert, ich nehme noch Vorbestellungen an.
 
 

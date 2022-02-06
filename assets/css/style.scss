@@ -123,6 +123,12 @@ main ul {
   background-size: cover;
 }
 
+.bg-startunes {
+  background-image: url("/assets/images/bg-startunes.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .mt-6 {
   margin-top: 6rem !important;
 }
@@ -149,4 +155,17 @@ button:focus {
   padding: 0.2rem;
   margin-left: 0.5rem;
   border-radius: 0.2rem;
+}
+
+#startunessong {
+  margin-top: 15rem;
+}
+
+.col-thumbnail {
+  flex-grow: 0;
+  flex-shrink: 1;
+}
+
+.border-black {
+  border-color: black !important;
 }
