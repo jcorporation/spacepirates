@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Kahadrier/index
+permalink: /Weltraum/Aliens/Kahadrier/
 title: Kahadrier
 keywords:
     - kahadrisches reich

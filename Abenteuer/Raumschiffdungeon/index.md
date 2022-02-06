@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Raumschiffdungeon/index
+permalink: /Abenteuer/Raumschiffdungeon/
 title: Raumschiffdungeon
 ---
 

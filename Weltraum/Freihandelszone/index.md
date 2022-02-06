@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Freihandelszone/index
+permalink: /Weltraum/Freihandelszone/
 title: Freihandelszone
 ---
 
@@ -12,7 +12,7 @@ Die Freihandelszone ist der Dreh- und Angelpunkt aller Abenteuer bei SpacePirate
 
 Innerhalb der Freihandelszone wird lediglich eine 10%ige Umsatzsteuer erhoben, welche automatisch von den Banken bei der Überweisung eingezogen wird. Ansonsten gibt es weder Steuern, die den Handel betreffen, noch Zölle. Wer seine Steuern bezahlt, wird vom Handelsrat in Ruhe gelassen, egal, was er verkauft oder kauft.
 
-Wie der Name Freihandelszone bereits andeutet, ist der Handel ihr Lebenselixier. Die [Menschen]({{ site.baseurl }}/Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/index) dominieren den Handel, aber auch )({{ site.baseurl }}/Weltraum/Menschen) und andere [Stratum Nova]({{ site.baseurl }}/Außerirdische]({{ site.baseurl }}/Weltraum/Aliens) bringen fähige Händler hervor. Die größten Marktplätze der Freihandelszone sind )({{ site.baseurl }}/Weltraum/Freihandelszone/Stratumnova) und [Scrabnambu]({{ site.baseurl }}/Kozel 5]({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel5), aber )({{ site.baseurl }}/Weltraum/Neutrale_Zone/Scrabnambu) holt dank des Schrottplatzes mehr und mehr auf. Der Handel wird von großen [Politik]({{ site.baseurl }}/Konzernen]({{ site.baseurl }}/Weltraum/Konzerne) und mächtigen Handelsgesellschaften beherrscht, aber daneben üben auch )({{ site.baseurl }}/Weltraum/Politik) und spezialisierte kleinere Händler einigen Einfluss aus.
+Wie der Name Freihandelszone bereits andeutet, ist der Handel ihr Lebenselixier. Die [Menschen]({{ site.baseurl }}/Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/) dominieren den Handel, aber auch )({{ site.baseurl }}/Weltraum/Menschen) und andere [Stratum Nova]({{ site.baseurl }}/Außerirdische]({{ site.baseurl }}/Weltraum/Aliens) bringen fähige Händler hervor. Die größten Marktplätze der Freihandelszone sind )({{ site.baseurl }}/Weltraum/Freihandelszone/Stratumnova) und [Scrabnambu]({{ site.baseurl }}/Kozel 5]({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel5), aber )({{ site.baseurl }}/Weltraum/Neutrale_Zone/Scrabnambu) holt dank des Schrottplatzes mehr und mehr auf. Der Handel wird von großen [Politik]({{ site.baseurl }}/Konzernen]({{ site.baseurl }}/Weltraum/Konzerne) und mächtigen Handelsgesellschaften beherrscht, aber daneben üben auch )({{ site.baseurl }}/Weltraum/Politik) und spezialisierte kleinere Händler einigen Einfluss aus.
 
 - [Banken und Währung]({{ site.baseurl }}/Weltraum/Freihandelszone/Banken)
 - [Galaktischer Handelsrat]({{ site.baseurl }}/Weltraum/Freihandelszone/Handelsrat)

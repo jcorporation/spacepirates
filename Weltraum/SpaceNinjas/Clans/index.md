@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/SpaceNinjas/Clans/index
+permalink: /Weltraum/SpaceNinjas/Clans/
 title: Ninja-Clans
 ---
 

@@ -17,10 +17,10 @@ Der Handelsrat ist die oberste Direktive in der Freihandelszone. Die Regierungen
 <div class="hinweis">
 ## Mitgliedsreiche
 
-- [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/index)
-- [Kahadrisches Reich]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/index)
-- [Trullimperium]({{ site.baseurl }}/Weltraum/Aliens/Trull/index)
-- [Reich der Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/index)
+- [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)
+- [Kahadrisches Reich]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/)
+- [Trullimperium]({{ site.baseurl }}/Weltraum/Aliens/Trull/)
+- [Reich der Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/)
 
 </div>
 </aside>

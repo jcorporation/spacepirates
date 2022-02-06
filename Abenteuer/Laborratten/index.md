@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Laborratten/index
+permalink: /Abenteuer/Laborratten/
 title: Laborratten
 ---
 

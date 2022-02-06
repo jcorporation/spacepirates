@@ -107,18 +107,18 @@ Für Menschen werden Vorname und Nachname einzeln ausgewürfelt. Für Aliennamen
 ***
 Die Namenslisten basieren teilweise auf folgenden Namenslisten aus der freien Enzyklopädie [GNU-Lizenz]({{ site.baseurl }}/Wikipedia](http:/De.wikipedia.org) und steht unter der )(https://www.gnu.org/licenses/fdl.txt) für freie Dokumentation.
 
-- [Autoren]({{ site.baseurl }}/Chinesische Namen](http:/De.wikipedia.org/Wiki/Chinesischer_Name) - )(http://de.wikipedia.org/w/index.php?title=Chinesischer_Name&amp;action=history)
-- [Autoren]({{ site.baseurl }}/Weibliche Vornamen](http:/De.wikipedia.org/Wiki/Kategorie:Weiblicher_Vorname) - )(http://de.wikipedia.org/w/index.php?title=Kategorie:Weiblicher_Vorname&amp;action=history)
-- [Autoren]({{ site.baseurl }}/Männliche Vornamen](http:/De.wikipedia.org/Wiki/Kategorie:M%C3%A4nnlicher_Vorname) - )(http://de.wikipedia.org/w/index.php?title=Kategorie:M%C3%A4nnlicher_Vorname&amp;action=history)
-- [Autoren]({{ site.baseurl }}/Familiennamen](http:/De.wikipedia.org/Wiki/Kategorie:Familienname) - )(http://de.wikipedia.org/w/index.php?title=Kategorie:Familienname&amp;action=history)
+- [Autoren]({{ site.baseurl }}/Chinesische Namen](http:/De.wikipedia.org/Wiki/Chinesischer_Name) - )(http://de.wikipedia.org/w/.php?title=Chinesischer_Name&amp;action=history)
+- [Autoren]({{ site.baseurl }}/Weibliche Vornamen](http:/De.wikipedia.org/Wiki/Kategorie:Weiblicher_Vorname) - )(http://de.wikipedia.org/w/.php?title=Kategorie:Weiblicher_Vorname&amp;action=history)
+- [Autoren]({{ site.baseurl }}/Männliche Vornamen](http:/De.wikipedia.org/Wiki/Kategorie:M%C3%A4nnlicher_Vorname) - )(http://de.wikipedia.org/w/.php?title=Kategorie:M%C3%A4nnlicher_Vorname&amp;action=history)
+- [Autoren]({{ site.baseurl }}/Familiennamen](http:/De.wikipedia.org/Wiki/Kategorie:Familienname) - )(http://de.wikipedia.org/w/.php?title=Kategorie:Familienname&amp;action=history)
 
 
 
 ***
 Die Namenslisten basieren teilweise auf folgenden Namenslisten aus der freien Enzyklopädie [GNU-Lizenz]({{ site.baseurl }}/Wikipedia](http:/De.wikipedia.org) und steht unter der )(https://www.gnu.org/licenses/fdl.txt) für freie Dokumentation.
 
-- [Autoren]({{ site.baseurl }}/Chinesische Namen](http:/De.wikipedia.org/Wiki/Chinesischer_Name) - )(http://de.wikipedia.org/w/index.php?title=Chinesischer_Name&amp;action=history)
-- [Autoren]({{ site.baseurl }}/Weibliche Vornamen](http:/De.wikipedia.org/Wiki/Kategorie:Weiblicher_Vorname) - )(http://de.wikipedia.org/w/index.php?title=Kategorie:Weiblicher_Vorname&amp;action=history)
-- [Autoren]({{ site.baseurl }}/Männliche Vornamen](http:/De.wikipedia.org/Wiki/Kategorie:M%C3%A4nnlicher_Vorname) - )(http://de.wikipedia.org/w/index.php?title=Kategorie:M%C3%A4nnlicher_Vorname&amp;action=history)
-- [Autoren]({{ site.baseurl }}/Familiennamen](http:/De.wikipedia.org/Wiki/Kategorie:Familienname) - )(http://de.wikipedia.org/w/index.php?title=Kategorie:Familienname&amp;action=history)
+- [Autoren]({{ site.baseurl }}/Chinesische Namen](http:/De.wikipedia.org/Wiki/Chinesischer_Name) - )(http://de.wikipedia.org/w/.php?title=Chinesischer_Name&amp;action=history)
+- [Autoren]({{ site.baseurl }}/Weibliche Vornamen](http:/De.wikipedia.org/Wiki/Kategorie:Weiblicher_Vorname) - )(http://de.wikipedia.org/w/.php?title=Kategorie:Weiblicher_Vorname&amp;action=history)
+- [Autoren]({{ site.baseurl }}/Männliche Vornamen](http:/De.wikipedia.org/Wiki/Kategorie:M%C3%A4nnlicher_Vorname) - )(http://de.wikipedia.org/w/.php?title=Kategorie:M%C3%A4nnlicher_Vorname&amp;action=history)
+- [Autoren]({{ site.baseurl }}/Familiennamen](http:/De.wikipedia.org/Wiki/Kategorie:Familienname) - )(http://de.wikipedia.org/w/.php?title=Kategorie:Familienname&amp;action=history)
 

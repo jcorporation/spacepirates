@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Wagonian_Wedding/index
+permalink: /Abenteuer/Wagonian_Wedding/
 title: Wagonian Wedding – Die royale Hochzeit der Wagonen
 ---
 

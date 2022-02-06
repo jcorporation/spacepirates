@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/index
+permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/
 title: Das Vermächtnis der goldenen Schallplatte
 ---
 

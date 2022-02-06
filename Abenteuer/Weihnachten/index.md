@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Weihnachten/index
+permalink: /Abenteuer/Weihnachten/
 title: Weihnachten
 ---
 

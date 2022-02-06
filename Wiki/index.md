@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/index
+permalink: /Wiki/
 title: Das SpacePirates Wiki
 ---
 

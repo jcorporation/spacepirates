@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Gefangen_im_SpaceSchnee/index
+permalink: /Abenteuer/Gefangen_im_SpaceSchnee/
 title: Gefangen im SpaceSchnee
 ---
 

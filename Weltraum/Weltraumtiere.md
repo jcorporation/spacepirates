@@ -2,6 +2,25 @@
 layout: page
 permalink: /Weltraum/Weltraumtiere
 title: Weltraumtiere
+
+sitedata:
+    Weltraumtiere:
+        Meteorkraken:
+            Name: Meteorkraken
+        Mykoniden:
+            Name: Mykoniden
+        Riesen-Weltraumhamster:
+            Name: Riesen-Weltraumhamster
+        Spaceameisen:
+            Name: Spaceameisen
+        Sternenwale:
+            Name: Sternenwale
+        Space-Eiswuermer:
+            Name: Space-Eiswürmer
+        Weltraumkaefer:
+            Name: Weltraumkäfer
+        Weltraumspinnen:
+            Name: Weltraumspinnen
 ---
 
 # Weltraumtiere

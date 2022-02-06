@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Sektoren/index
+permalink: /Weltraum/Sektoren/
 title: Sektoren
 ---
 
@@ -26,23 +26,23 @@ Die Entfernungen im Weltraum sind groß, um nicht zu sagen galaktisch. Dank mode
 </thead>
 <tbody>
 <tr><td>[Atlanter]({{ site.baseurl }}/Weltraum/Aliens/Atlanter)</td><td>Pazifistische, aber sehr fortgeschrittene Aliens.</td></tr>
-<tr><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/index)</td><td>Mitglieder der Freihandelszone sind die Föderation, das Kahadrisches Reich, das Trullimperium und das Reich der Wagonen.</td></tr>
-<tr><td>[Glukorianer / Glukorianisches Imperium]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/index)</td><td>Die bösen Tentakelaliens. Über ihren Sektor ist nur extrem wenig bekannt.</td></tr>
-<tr><td>[Kahadrier / Kahadrisches Reich]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/index)</td><td>Die kriegerischen Kahadrier, auch SpaceZwerge genannt.</td></tr>
-<tr><td>[Menschen / Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/index)</td><td>Der Heimatsektor der klassischen Menschen. Die Erde ist immer noch ihr Mittelpunkt.</td></tr>
-<tr><td>[Menschen / Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/index)</td><td>Eine kommunistische Republik, die aus den Weltraumambitionen Chinas entstand.</td></tr>
-<tr><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/index)</td><td>Die Pufferzone vor dem Glukorianischen Imperium, sie umfasst zwei Sektoren.</td></tr>
-<tr><td>[Samnesen / Samara]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/index)</td><td>Die Samnesen sind menschenähnliche Cyborgs und mit den Trull verfeindet.</td></tr>
+<tr><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/)</td><td>Mitglieder der Freihandelszone sind die Föderation, das Kahadrisches Reich, das Trullimperium und das Reich der Wagonen.</td></tr>
+<tr><td>[Glukorianer / Glukorianisches Imperium]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/)</td><td>Die bösen Tentakelaliens. Über ihren Sektor ist nur extrem wenig bekannt.</td></tr>
+<tr><td>[Kahadrier / Kahadrisches Reich]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/)</td><td>Die kriegerischen Kahadrier, auch SpaceZwerge genannt.</td></tr>
+<tr><td>[Menschen / Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)</td><td>Der Heimatsektor der klassischen Menschen. Die Erde ist immer noch ihr Mittelpunkt.</td></tr>
+<tr><td>[Menschen / Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/)</td><td>Eine kommunistische Republik, die aus den Weltraumambitionen Chinas entstand.</td></tr>
+<tr><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/)</td><td>Die Pufferzone vor dem Glukorianischen Imperium, sie umfasst zwei Sektoren.</td></tr>
+<tr><td>[Samnesen / Samara]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/)</td><td>Die Samnesen sind menschenähnliche Cyborgs und mit den Trull verfeindet.</td></tr>
 <tr><td>[Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer)</td><td>Die reptilienartigen, gewaltbereiten Aliens.</td></tr>
 <tr><td>[Romaha]({{ site.baseurl }}/Weltraum/Aliens/Romaha)</td><td>Die großartige, untergegangene Alienkultur.</td></tr>
-<tr><td>[Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/index)</td><td>Die sexy heimatlosen und kriegerischen Spaceamazonen sind mit den Atlantern verfeindet.</td></tr>
-<tr><td>[SpacePears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/index)</td><td>Die schwebende, birnenförmige Aliens mit denen nicht gut Kirschen essen ist.</td></tr>
-<tr><td>[SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/index)</td><td>Die rauchenden Würmer mit ihren bongförmigen Raumstationen.</td></tr>
-<tr><td>[SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/index)</td><td>Die coolsten Händler des Universums mit weißem Fell und Sonnenbrille.</td></tr>
-<tr><td>[Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/index)</td><td>Die kleinen, kuscheligen Plüschteddies aus der Neutralen Zone.</td></tr>
-<tr><td>[Trull / Trullimperium]({{ site.baseurl }}/Weltraum/Aliens/Trull/index)</td><td>Die käferähnlichen Trull gelten als die besten Händler des Universums.</td></tr>
-<tr><td>[Wagonen / Reich der Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/index)</td><td>Die bürokratischen Wagonen. Sie erinnern an die typischen Marsmenschen.</td></tr>
-<tr><td>[Sektor D3]({{ site.baseurl }}/Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/index), )({{ site.baseurl }}/Weltraum/Sektoren/D3/index)</td><td>Zwei nahezu unbewohnte Sektoren.</td></tr>
+<tr><td>[Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/)</td><td>Die sexy heimatlosen und kriegerischen Spaceamazonen sind mit den Atlantern verfeindet.</td></tr>
+<tr><td>[SpacePears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/)</td><td>Die schwebende, birnenförmige Aliens mit denen nicht gut Kirschen essen ist.</td></tr>
+<tr><td>[SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/)</td><td>Die rauchenden Würmer mit ihren bongförmigen Raumstationen.</td></tr>
+<tr><td>[SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/)</td><td>Die coolsten Händler des Universums mit weißem Fell und Sonnenbrille.</td></tr>
+<tr><td>[Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/)</td><td>Die kleinen, kuscheligen Plüschteddies aus der Neutralen Zone.</td></tr>
+<tr><td>[Trull / Trullimperium]({{ site.baseurl }}/Weltraum/Aliens/Trull/)</td><td>Die käferähnlichen Trull gelten als die besten Händler des Universums.</td></tr>
+<tr><td>[Wagonen / Reich der Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/)</td><td>Die bürokratischen Wagonen. Sie erinnern an die typischen Marsmenschen.</td></tr>
+<tr><td>[Sektor D3]({{ site.baseurl }}/Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/), )({{ site.baseurl }}/Weltraum/Sektoren/D3/)</td><td>Zwei nahezu unbewohnte Sektoren.</td></tr>
 </tbody>
 </table>
 

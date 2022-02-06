@@ -20,7 +20,7 @@ Der Planet untersteht vollständig der Kontrolle von SpaceShell. Solange er die 
 <caption>Katpar</caption>
 <tbody>
 <tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/index)</td></tr>
+<tr><th>Sektor</th><td>[Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)</td></tr>
 <tr><th>Monde</th><td>1</td></tr>
 <tr><th>Einwohner</th><td>Bergarbeiter</td></tr>
 <tr><th>Hauptstadt</th><td>-</td></tr>

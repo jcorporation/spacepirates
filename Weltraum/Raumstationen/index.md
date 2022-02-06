@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Raumstationen/index
+permalink: /Weltraum/Raumstationen/
 title: Raumstationen
 ---
 

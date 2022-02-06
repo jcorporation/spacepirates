@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/SpaceMafia/index
+permalink: /Weltraum/SpaceMafia/
 title: SpaceMafia
 ---
 

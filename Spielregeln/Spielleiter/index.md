@@ -12,7 +12,7 @@ title: Spielleiter
   - [Schauplätze]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze)
   - [Parteien]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien)
   - [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere)
-- [Kampagnen mit SpacePirates]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/index)
+- [Kampagnen mit SpacePirates]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/)
   - [Gegenspieler der Charaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Gegenspieler)
   - [Freunde der Charaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Freunde)
   - [Beute]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Beute)

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Ostern/index
+permalink: /Abenteuer/Ostern/
 title: Ostern
 ---
 

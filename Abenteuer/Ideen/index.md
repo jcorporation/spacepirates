@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Ideen/index
+permalink: /Abenteuer/Ideen/
 title: Abenteuerideen
 ---
 

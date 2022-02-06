@@ -23,7 +23,7 @@ Obwohl auf BigBong Angehörige aller außerirdischen Rassen leben, tragen fast a
 <table data-type="raumstation">
 <caption>BigBong</caption>
 <tbody>
-<tr><th>Sektor</th><td>[Sektor D3]({{ site.baseurl }}/Weltraum/Sektoren/D3/index)</td></tr>
+<tr><th>Sektor</th><td>[Sektor D3]({{ site.baseurl }}/Weltraum/Sektoren/D3/)</td></tr>
 <tr><th>Bewohner</th><td>[SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms)</td></tr>
 <tr><th>Politisches</th><td> </td></tr>
 <tr><th>Erwähnungen</th><td>[BigBong]({{ site.baseurl }}/Search)</td></tr>

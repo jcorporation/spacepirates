@@ -29,12 +29,12 @@ Bridurlan ist die größte Stadt auf Kahadria. Etwa ein Drittel der Stadt liegt 
 <caption>Kahadria</caption>
 <tbody>
 <tr><th>Typ</th><td>Eisplanet</td></tr>
-<tr><th>Sektor</th><td>[Kahadrisches Reich]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/index)</td></tr>
+<tr><th>Sektor</th><td>[Kahadrisches Reich]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/)</td></tr>
 <tr><th>Monde</th><td>5</td></tr>
-<tr><th>Einwohner</th><td>[Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/index)</td></tr>
+<tr><th>Einwohner</th><td>[Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/)</td></tr>
 <tr><th>Hauptstadt</th><td>Bridurlan</td></tr>
 <tr><th>Besiedelung</th><td>unterirdische Städte</td></tr>
-<tr><th>Politisches</th><td>Heimatplanet der [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/index)</td></tr>
+<tr><th>Politisches</th><td>Heimatplanet der [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/)</td></tr>
 <tr><th>Erwähnungen</th><td>[Kahadria]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

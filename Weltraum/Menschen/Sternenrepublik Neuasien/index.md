@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Menschen/Sternenrepublik_Neuasien/index
+permalink: /Weltraum/Menschen/Sternenrepublik_Neuasien/
 title: Sternenrepublik Neuasien
 
 sitedata:

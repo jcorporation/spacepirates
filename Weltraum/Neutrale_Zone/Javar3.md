@@ -16,7 +16,7 @@ Javar 3 ist ein kleiner Planet am Rande der großen Raumzeitverschiebung in der 
 <caption>Javar 3</caption>
 <tbody>
 <tr><th>Typ</th><td>Dschungelplanet</td></tr>
-<tr><th>Sektor</th><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/index)</td></tr>
+<tr><th>Sektor</th><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/)</td></tr>
 <tr><th>Monde</th><td>2</td></tr>
 <tr><th>Einwohner</th><td>Forscher</td></tr>
 <tr><th>Hauptstadt</th><td>-</td></tr>

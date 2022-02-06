@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Streifanier/index
+permalink: /Weltraum/Aliens/Streifanier/
 title: Streifanier
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Orte/index
+permalink: /Wiki/Orte/
 title: Interessante Orte
 ---
 

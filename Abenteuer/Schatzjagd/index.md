@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Schatzjagd/index
+permalink: /Abenteuer/Schatzjagd/
 title: Schatzjagd
 ---
 

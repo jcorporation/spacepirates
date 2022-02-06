@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Wagonen/index
+permalink: /Weltraum/Aliens/Wagonen/
 title: Wagonen
 ---
 

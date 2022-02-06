@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/SpaceRocker/index
+permalink: /Weltraum/SpaceRocker/
 title: SpaceRocker
 ---
 
@@ -16,9 +16,8 @@ Rocker fahren natürlich nicht auf 0815 SpaceBikes, sondern auf SpaceChoppern mi
 
 ## Banden
 
-- [Baneros Banditos]({{ site.baseurl }}/Weltraum/Spacerocker/Banerosbanditos)
-  - [Los Mochis]({{ site.baseurl }}/Weltraum/Spacerocker/Banerosbanditos_losmochis)
-- [SpaceAngels]({{ site.baseurl }}/Weltraum/Spacerocker/Spaceangels)
-  - [Hells Place]({{ site.baseurl }}/Weltraum/Spacerocker/Spaceangels_hellsplace)
-- [Rockbands]({{ site.baseurl }}/Weltraum/Spacerocker/Rockbands)
-
+- [Baneros Banditos]({{ site.baseurl }}/Weltraum/SpaceRocker/Baneros_Banditos/)
+  - [Los Mochis]({{ site.baseurl }}/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis)
+- [SpaceAngels]({{ site.baseurl }}/Weltraum/SpaceRocker/SpaceAngels/)
+  - [Hells Place]({{ site.baseurl }}/Weltraum/SpaceRocker/SpaceAngels/Hells_Place)
+- [Rockbands]({{ site.baseurl }}/Weltraum/SpaceRocker/Rockbands)

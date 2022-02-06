@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Menschen/Föderation/index
+permalink: /Weltraum/Menschen/Föderation/
 title: Die Föderation
 ---
 

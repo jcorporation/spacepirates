@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/SpaceRocker/Spaceangels
+permalink: /Weltraum/SpaceRocker/SpaceAngels
 title: SpaceAngels
 ---
 
@@ -10,5 +10,4 @@ Die SpaceAngels sind die größte Rockerbande im SpacePirates-Universum und unte
 
 Natürlich versuchen die Wagonen die illegalen Aktivitäten der SpaceAngels einzudämmen, aber da diese sich oft im Grenzgebiet zur Sternenrepublik Neuasien herumtreiben, wechselt die Zuständigkeit ständig zwischen dem Ministerium für Inneres und der Zollbehörde. Die Akte der SpaceAngels wird daher von Übergabeprotokollen und -formularen dominiert.
 
-- [Hells Place]({{ site.baseurl }}/Weltraum/Spacerocker/Spaceangels_hellsplace)
-
+- [Hells Place]({{ site.baseurl }}/Weltraum/SpaceRocker/SpaceAngels/Hells_Place)

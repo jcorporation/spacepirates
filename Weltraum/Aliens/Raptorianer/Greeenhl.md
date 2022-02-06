@@ -33,10 +33,10 @@ Besucher sollten sich einen ortsansässigen Führer beschaffen, denn es wäre se
 <tr><th>Typ</th><td>Dschungelplanet</td></tr>
 <tr><th>Sektor</th><td>unbekannt</td></tr>
 <tr><th>Monde</th><td>3</td></tr>
-<tr><th>Einwohner</th><td>[Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/index)</td></tr>
+<tr><th>Einwohner</th><td>[Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/)</td></tr>
 <tr><th>Hauptstadt</th><td>Foodtopia</td></tr>
 <tr><th>Besiedelung</th><td>Wenige, große Städte</td></tr>
-<tr><th>Politisches</th><td>Heimatplanet der [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/index)</td></tr>
+<tr><th>Politisches</th><td>Heimatplanet der [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/)</td></tr>
 <tr><th>Erwähnungen</th><td>[Greeenhl]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

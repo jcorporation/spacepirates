@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Atlanter/index
+permalink: /Weltraum/Aliens/Atlanter/
 title: Atlanter
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/index
+permalink: /Zufallsgeneratoren/Abenteuer/
 title: Abenteuertabellen
 ---
 

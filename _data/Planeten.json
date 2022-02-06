@@ -43,6 +43,17 @@
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/"
   },
+  "Los_Mochis": {
+    "Name": "Los Mochis",
+    "Typ": "Steppenplanet",
+    "Sektor": "Neutrale Zone",
+    "Monde": "3",
+    "Einwohner": "SpaceRocker",
+    "Hauptstadt": " ",
+    "Besiedelung": "SpaceRocker-Kneipe",
+    "Politisches": "SpaceRocker",
+    "Link": "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis"
+  },
   "Nova_Ceti": {
     "Typ": "Waldplanet",
     "Name": "Nova Ceti",

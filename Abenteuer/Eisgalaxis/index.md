@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Eisgalaxis/index
+permalink: /Abenteuer/Eisgalaxis/
 title: Die Eisgalaxis
 ---
 
@@ -12,7 +12,7 @@ Ein unfassbarer Notfall! Es herrschen sommerliche 41&deg; C im Schatten, die Bew
 
 … und das in der Eisgalaxis Eisgalaxis Eisgalaxis Eisgalaxis! So kann es nicht weitergehen. Graf Frost, ein [Eisgalaxis]({{ site.baseurl }}/SpaceYeti]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis) und alter Zechkumpan der Piraten und Herrscher über die )({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/Eisgalaxis) pfeift auf dem letzten Loch und sieht in den Piraten die letzte Hoffnung für sich und seine Untertanen.
 
-Dieses Abenteuer findet im [Freeport]({{ site.baseurl }}/Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/index) statt, in dem sich auch )({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport) befindet.
+Dieses Abenteuer findet im [Freeport]({{ site.baseurl }}/Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/) statt, in dem sich auch )({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport) befindet.
 
 Schon als die Piraten (nach etlichen klassischen SpacePirates - Kapriolen*) an Freeport vorbeikommen, bemerken sie eine unnatürliche Hitze und auf etwa 10 Uhr scheint sich eine größere Wärmequelle zu befinden, die die Instrumente leider wegen ihrer gewaltigen Hitze nicht genau darstellen können.
 

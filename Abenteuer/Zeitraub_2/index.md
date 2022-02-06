@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub_2/index
+permalink: /Abenteuer/Zeitraub_2/
 title: Zeitraub II
 ---
 

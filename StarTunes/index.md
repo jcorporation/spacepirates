@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /StarTunes/index
+permalink: /StarTunes/
 title: 
 ---
 

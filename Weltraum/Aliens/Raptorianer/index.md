@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Raptorianer/index
+permalink: /Weltraum/Aliens/Raptorianer/
 title: Raptorianer
 ---
 

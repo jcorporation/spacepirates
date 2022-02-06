@@ -9,6 +9,6 @@ Getreu diesem Motto geht, nachdem SpaceNinjas im Druck ist, die Arbeit am nächs
 
 Aber meine Gedanken drehen sich gerade auch um die SpaceCowboys-Idee. Dazu gibt es eine Umfrage im Forum.
 
-- [zur Umfrage](http://tanelorn.net/index.php/topic,67050.0.html)
+- [zur Umfrage](http://tanelorn.net/.php/topic,67050.0.html)
 
 

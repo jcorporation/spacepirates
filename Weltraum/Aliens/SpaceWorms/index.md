@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpaceWorms/index
+permalink: /Weltraum/Aliens/SpaceWorms/
 title: SpaceWorms
 ---
 

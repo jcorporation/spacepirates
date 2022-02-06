@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/index
+permalink: /Zufallsgeneratoren/
 title: Zufallsgeneratoren
 ---
 

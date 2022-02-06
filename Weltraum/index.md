@@ -38,7 +38,7 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 - [Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/)
 - [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/)
 - [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/)
-- [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer)
+- [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/)
 - [Romaha]({{ site.baseurl }}/Weltraum/Aliens/Romaha/)
 - [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/)
 - [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/)
@@ -53,17 +53,17 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 {% capture include_col3 %}
 ## Organisationen und Gruppen
 
-- [Piraten]({{ site.baseurl }}/Weltraum/Piraten)
+- [Piraten]({{ site.baseurl }}/Weltraum/Piraten/)
 - [Rebellen]({{ site.baseurl }}/Weltraum/Rebellen/)
-- [SpaceMafia]({{ site.baseurl }}/Weltraum/SpaceMafia)
-- [SpaceNinjas]({{ site.baseurl }}/Weltraum/SpaceNinjas)
-- [SpaceRocker]({{ site.baseurl }}/Weltraum/SpaceRocker)
+- [SpaceMafia]({{ site.baseurl }}/Weltraum/SpaceMafia/)
+- [SpaceNinjas]({{ site.baseurl }}/Weltraum/SpaceNinjas/)
+- [SpaceRocker]({{ site.baseurl }}/Weltraum/SpaceRocker/)
 - [Promis]({{ site.baseurl }}/Weltraum/Promis)
-- [Konzerne]({{ site.baseurl }}/Weltraum/Konzerne)
+- [Konzerne]({{ site.baseurl }}/Weltraum/Konzerne/)
 - [Händler und Halunken]({{ site.baseurl }}/Weltraum/Händler_und_Halunken)
-- [Verrückte Wissenschaftler]({{ site.baseurl }}/Weltraum/Wissenschaftler)
+- [Verrückte Wissenschaftler]({{ site.baseurl }}/Weltraum/Verrückte_Wissenschaftler)
 - [Sekten]({{ site.baseurl }}/Weltraum/Sekten)
-- [Militär]({{ site.baseurl }}/Weltraum/Militaer)
+- [Militär]({{ site.baseurl }}/Weltraum/Militär)
 - [Übersicht der bekannten Personen]({{ site.baseurl }}/Weltraum/Übersicht_der_bekannten_Personen)
 - [Übersicht der Organisationen]({{ site.baseurl }}/Weltraum/Übersicht_der_Organisationen)
 {% endcapture %}

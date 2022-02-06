@@ -6,6 +6,13 @@
     "Politisches": "Piratentreffpunkt",
     "Link": "/Weltraum/Piraten/Treffpunkte/Halfway"
   },
+  "Hells_Place": {
+    "Name": "Hells Place",
+    "Sektor": "Reich der Wagonen",
+    "Bewohner": "SpaceRocker",
+    "Politisches": "SpaceAngels",
+    "Link": "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place"
+  },
   "Kuerbis-Station": {
     "Name": "Kürbis-Station",
     "Sektor": "Sektor D1",

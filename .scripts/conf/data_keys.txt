@@ -1,9 +1,10 @@
+Organisationen
 Planeten
+Rassen
+Raumstationen
+Sektoren
+Slc
 Staedte
 Sternensysteme
-Slc
-Raumstationen
 Weltraumphaenomene
-Organisationen
-Rassen
-Sektoren
+Weltraumtiere

@@ -17,7 +17,7 @@ UBC hat eine durchaus bodenständige Berichterstattung und auch seine Reportagen
 <table data-type="konzern">
 <caption>Universe Broadcast</caption>
 <tbody>
-<tr><th>Besitzer</th><td>Aktiengesellschaft, Hauptaktionär ist die [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/index)</td></tr>
+<tr><th>Besitzer</th><td>Aktiengesellschaft, Hauptaktionär ist die [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)</td></tr>
 <tr><th>Geschäftsführer</th><td> </td></tr>
 <tr><th>Kategorie</th><td>Medienkonzern</td></tr>
 <tr><th>Konzernzentrale</th><td>[Stratum Nova]({{ site.baseurl }}/Weltraum/Freihandelszone/Stratumnova)</td></tr>

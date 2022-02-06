@@ -33,7 +33,7 @@ Direkt vor Taron City befindet sich das [Hauptquartier der Space-Steuerfahnder](
 <caption>Stratum Nova</caption>
 <tbody>
 <tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/index)</td></tr>
+<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/)</td></tr>
 <tr><th>Monde</th><td>3</td></tr>
 <tr><th>Einwohner</th><td>[Galaktischer Handelsrat]({{ site.baseurl }}/Weltraum/Freihandelszone/Handelsrat)</td></tr>
 <tr><th>Hauptstadt</th><td>Taron City</td></tr>

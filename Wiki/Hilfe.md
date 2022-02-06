@@ -12,5 +12,5 @@ Um eine neue Seite zu erstellen, editiert man am Besten eine bereits vorhandene 
 
 ## Seiten löschen und Wiederherstellen einer alten Version
 
-Von normalen Benutzern können keine Seiten gelöscht werden oder alte Versionen wiederhergestellt werden. Wendet euch dazu einfach an „jcorporation“ im [IRC]({{ site.baseurl }}/Forum](http:/Tanelorn.net/index.php/Board,225.0.html) oder im )({{ site.baseurl }}/Kontakt).
+Von normalen Benutzern können keine Seiten gelöscht werden oder alte Versionen wiederhergestellt werden. Wendet euch dazu einfach an „jcorporation“ im [IRC]({{ site.baseurl }}/Forum](http:/Tanelorn.net/.php/Board,225.0.html) oder im )({{ site.baseurl }}/Kontakt).
 

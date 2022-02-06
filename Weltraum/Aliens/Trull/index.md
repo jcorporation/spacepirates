@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Trull/index
+permalink: /Weltraum/Aliens/Trull/
 title: Trull
 keywords:
     - trull

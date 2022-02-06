@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Freihandelszone/Space-Steuerfahnder/index
+permalink: /Weltraum/Freihandelszone/Space-Steuerfahnder/
 title: Space-Steuerfahnder
 ---
 

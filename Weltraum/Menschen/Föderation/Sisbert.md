@@ -16,7 +16,7 @@ Sisbert ist im Besitz von [Raumschiff &amp; Co ]({{ site.baseurl }}/Weltraum/Kon
 <caption>Sisbert</caption>
 <tbody>
 <tr><th>Typ</th><td>erdähnlicher Planet</td></tr>
-<tr><th>Sektor</th><td>[Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/index)</td></tr>
+<tr><th>Sektor</th><td>[Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)</td></tr>
 <tr><th>Monde</th><td>keine</td></tr>
 <tr><th>Einwohner</th><td>[Menschen]({{ site.baseurl }}/Weltraum/Menschen)</td></tr>
 <tr><th>Hauptstadt</th><td> </td></tr>

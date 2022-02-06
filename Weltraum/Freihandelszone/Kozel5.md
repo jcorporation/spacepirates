@@ -29,12 +29,12 @@ Kilru ist die größte Stadt von Kozel 5 und auch die einzige, in deren Raumhafe
 <caption>Kozel 5</caption>
 <tbody>
 <tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/index)</td></tr>
+<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/)</td></tr>
 <tr><th>Monde</th><td>1</td></tr>
-<tr><th>Einwohner</th><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/index)</td></tr>
+<tr><th>Einwohner</th><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/)</td></tr>
 <tr><th>Hauptstadt</th><td>Kilru</td></tr>
 <tr><th>Besiedelung</th><td>kleine Siedlungen</td></tr>
-<tr><th>Politisches</th><td>Botschaftsplanet der [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/index)</td></tr>
+<tr><th>Politisches</th><td>Botschaftsplanet der [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/)</td></tr>
 <tr><th>Erwähnungen</th><td>[Kozel 5]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

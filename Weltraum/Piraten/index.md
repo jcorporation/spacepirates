@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Piraten/index
+permalink: /Weltraum/Piraten/
 title: Piraten
 ---
 
@@ -8,7 +8,7 @@ title: Piraten
 # Piraten
 
 
-- [Piratentreffpunkte]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/index)
+- [Piratentreffpunkte]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/)
 - [Berühmte Piratenkapitäne]({{ site.baseurl }}/Weltraum/Piraten/Kapitaene)
 
 In SpacePirates gibt es natürlich auch Piraten, sonst wäre der Titel ein klein wenig irreführend. Die Piraten von SpacePirates sind meist in der Nähe der Freihandelszone und der Neutralen Zone unterwegs. Sie führen ein abenteuerliches Leben, besitzen keinen festen Wohnsitz und verbringen den Großteil ihrer Zeit auf ihrem Piratenschiff oder auf zwielichtigen Planeten. Sie haben ihren eigenen Ehrenkodex und versuchen vor allem, Piratenruhm und Geld anzuhäufen. Viele Piraten sind auch schon auf die Suche nach außerirdischen Artefakten gegangen und haben sich unter die Kolonisten neuer Planeten gemischt.

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub/index
+permalink: /Abenteuer/Zeitraub/
 title: Zeitraub
 ---
 

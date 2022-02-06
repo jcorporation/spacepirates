@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Konzerne/index
+permalink: /Weltraum/Konzerne/
 title: Intergalaktische Konzerne
 ---
 

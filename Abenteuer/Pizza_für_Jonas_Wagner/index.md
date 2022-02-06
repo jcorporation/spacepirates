@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Pizza_für_Jonas_Wagner/index
+permalink: /Abenteuer/Pizza_für_Jonas_Wagner/
 title: Pizza für Jonas Wagner
 ---
 

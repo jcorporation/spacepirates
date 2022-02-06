@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Der_Große_Fang/index
+permalink: /Abenteuer/Der_Große_Fang/
 title: Der große Fang
 ---
 

@@ -25,7 +25,7 @@ Der Planet Ennos ist ein Kolonialplanet der Glukorianer und erst vor kurzem plö
 <caption>Ennos</caption>
 <tbody>
 <tr><th>Typ</th><td>Dschungelplanet</td></tr>
-<tr><th>Sektor</th><td>[Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/index)</td></tr>
+<tr><th>Sektor</th><td>[Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/)</td></tr>
 <tr><th>Monde</th><td>5</td></tr>
 <tr><th>Einwohner</th><td>[Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer)</td></tr>
 <tr><th>Hauptstadt</th><td> </td></tr>

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/SpaceDrache/index
+permalink: /Abenteuer/SpaceDrache/
 title: SpaceDrache
 ---
 

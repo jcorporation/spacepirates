@@ -16,9 +16,9 @@ Mittlerweile befindet sich nur eine große, schwimmende Tempelstadt auf Ghultar.
 <caption>Ghultar</caption>
 <tbody>
 <tr><th>Typ</th><td>Wasserplanet</td></tr>
-<tr><th>Sektor</th><td>[Glukorianisches Imperium]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/index)</td></tr>
+<tr><th>Sektor</th><td>[Glukorianisches Imperium]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/)</td></tr>
 <tr><th>Monde</th><td>13</td></tr>
-<tr><th>Einwohner</th><td>[Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/index)</td></tr>
+<tr><th>Einwohner</th><td>[Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/)</td></tr>
 <tr><th>Hauptstadt</th><td> </td></tr>
 <tr><th>Besiedelung</th><td>Schwimmender Tempel</td></tr>
 <tr><th>Politisches</th><td>Mittelpunkt der Glutulhuverehrung</td></tr>

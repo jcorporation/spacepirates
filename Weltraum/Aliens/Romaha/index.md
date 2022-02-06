@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Romaha/index
+permalink: /Weltraum/Aliens/Romaha/
 title: Romaha
 ---
 

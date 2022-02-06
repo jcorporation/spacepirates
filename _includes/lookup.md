@@ -27,6 +27,10 @@
     {% assign normalized = normalized | remove: char %}
 {% endfor %}
 
+{% if site.data.index_stompkeys[normalized] %}
+    {% assign normalized = site.data.index_stompkeys[normalized] %}
+{% endif %}
+
 {% if include.mode == "first" %}
     {%if site.data.index[normalized] %}
         {% for uri in site.data.index[normalized] %}

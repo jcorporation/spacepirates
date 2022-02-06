@@ -72,7 +72,7 @@ Das Space-Polizeirevier 23 ist mit obszönen Graffitis beschmiert, mit Brettern 
 <table data-type="raumstation">
 <caption>Freeport</caption>
 <tbody>
-<tr><th>Sektor</th><td>[Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/index)</td></tr>
+<tr><th>Sektor</th><td>[Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/)</td></tr>
 <tr><th>Bewohner</th><td>[Piraten]({{ site.baseurl }}/Weltraum/Piraten)</td></tr>
 <tr><th>Politisches</th><td>[Piratentreffpunkt]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte)</td></tr>
 <tr><th>Erwähnungen</th><td>[Freeport]({{ site.baseurl }}/Search)</td></tr>

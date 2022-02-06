@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Syoner/index
+permalink: /Weltraum/Aliens/Syoner/
 title: Syoner
 ---
 

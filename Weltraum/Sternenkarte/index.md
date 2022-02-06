@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Karte/index
+permalink: /Weltraum/Karte/
 title: 
 ---
 

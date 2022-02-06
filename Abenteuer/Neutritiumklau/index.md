@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Neutritiumklau/index
+permalink: /Abenteuer/Neutritiumklau/
 title: Neutritiumklau
 ---
 

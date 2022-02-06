@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Spritprobleme/index
+permalink: /Abenteuer/Spritprobleme/
 title: Spritprobleme
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Sektoren/D1/index
+permalink: /Weltraum/Sektoren/D1/
 title: Sektor D1
 ---
 

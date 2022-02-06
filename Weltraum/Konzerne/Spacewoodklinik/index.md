@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Konzerne/Spacewoodklinik/index
+permalink: /Weltraum/Konzerne/Spacewoodklinik/
 title: Spacewood-Klinik
 ---
 

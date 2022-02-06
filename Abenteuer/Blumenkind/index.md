@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Blumenkind/index
+permalink: /Abenteuer/Blumenkind/
 title: Blumenkind
 ---
 

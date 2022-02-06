@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/SpaceNinjas/index
+permalink: /Weltraum/SpaceNinjas/
 title: SpaceNinjas
 ---
 

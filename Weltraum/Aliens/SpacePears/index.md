@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpacePears/index
+permalink: /Weltraum/Aliens/SpacePears/
 title: Spacepears
 ---
 

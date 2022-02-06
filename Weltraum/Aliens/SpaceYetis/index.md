@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpaceYetis/index
+permalink: /Weltraum/Aliens/SpaceYetis/
 title: SpaceYetis
 ---
 

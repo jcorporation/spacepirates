@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Freihandelszone/Beta_Prison/index
+permalink: /Weltraum/Freihandelszone/Beta_Prison/
 title: Beta Prison
 ---
 
@@ -33,7 +33,7 @@ Der gesamte Planet ist radioaktiv verstrahlt, was bei der ohnehin kargen einheim
 <caption>Beta Prison</caption>
 <tbody>
 <tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/index)</td></tr>
+<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/)</td></tr>
 <tr><th>Monde</th><td>5</td></tr>
 <tr><th>Einwohner</th><td>Wärter und Gefangene</td></tr>
 <tr><th>Hauptstadt</th><td>keine</td></tr>

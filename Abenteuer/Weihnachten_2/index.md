@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Weihnachten_2/index
+permalink: /Abenteuer/Weihnachten_2/
 title: Weihnachten II
 ---
 

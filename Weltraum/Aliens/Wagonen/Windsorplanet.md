@@ -16,9 +16,9 @@ Auf dem Planeten Windsor ist das prächtigste Schloss der Wagonis erbaut. Hier w
 <caption>Windsor Planet</caption>
 <tbody>
 <tr><th>Typ</th><td>Erdähnlicher Planet</td></tr>
-<tr><th>Sektor</th><td>[Reich der Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/index)</td></tr>
+<tr><th>Sektor</th><td>[Reich der Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/)</td></tr>
 <tr><th>Monde</th><td>2</td></tr>
-<tr><th>Einwohner</th><td>[Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/index)</td></tr>
+<tr><th>Einwohner</th><td>[Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/)</td></tr>
 <tr><th>Hauptstadt</th><td>keine</td></tr>
 <tr><th>Besiedelung</th><td>großes Schloss</td></tr>
 <tr><th>Politisches</th><td>Königsplanet</td></tr>

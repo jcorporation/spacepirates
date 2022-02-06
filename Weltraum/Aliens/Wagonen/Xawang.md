@@ -29,12 +29,12 @@ Urkalath ist die größte schwebende Stadt im bekannten Universum. Die Wagonen l
 <caption>Xawang</caption>
 <tbody>
 <tr><th>Typ</th><td>Dschungelplanet</td></tr>
-<tr><th>Sektor</th><td>[Reich der Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/index)</td></tr>
+<tr><th>Sektor</th><td>[Reich der Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/)</td></tr>
 <tr><th>Monde</th><td>3</td></tr>
 <tr><th>Einwohner</th><td>[Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen)</td></tr>
 <tr><th>Hauptstadt</th><td>Urkalath</td></tr>
 <tr><th>Besiedelung</th><td>Wenige hochmoderne Städte</td></tr>
-<tr><th>Politisches</th><td>Heimatplanet der [Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/index)</td></tr>
+<tr><th>Politisches</th><td>Heimatplanet der [Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/)</td></tr>
 <tr><th>Erwähnungen</th><td>[Xawang]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

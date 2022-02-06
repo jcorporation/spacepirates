@@ -10,7 +10,7 @@ title: Auftragserteilung
 
 ## Der Bote
 
-Bing Peng, der Leibwächter Jangbas, sucht die Charaktere in ihrer Stammkneipe auf [Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/index) auf.
+Bing Peng, der Leibwächter Jangbas, sucht die Charaktere in ihrer Stammkneipe auf [Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/) auf.
 
 <div class="hinweis">
 ## Bing Peng

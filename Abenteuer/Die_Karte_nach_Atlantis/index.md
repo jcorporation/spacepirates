@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Die_Karte_nach_Atlantis/index
+permalink: /Abenteuer/Die_Karte_nach_Atlantis/
 title: Die Karte nach Atlantis
 ---
 

@@ -29,12 +29,12 @@ Xiuta liegt auf einer schicken Anhöhe in einer nicht ganz so tropischen Gegend 
 <caption>Xinnua</caption>
 <tbody>
 <tr><th>Typ</th><td>Dschungelplanet</td></tr>
-<tr><th>Sektor</th><td>[Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/index)</td></tr>
+<tr><th>Sektor</th><td>[Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/)</td></tr>
 <tr><th>Monde</th><td>3</td></tr>
 <tr><th>Einwohner</th><td>[Asiaten]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</td></tr>
 <tr><th>Hauptstadt</th><td>Xiuta</td></tr>
 <tr><th>Besiedelung</th><td>eine große Stadt</td></tr>
-<tr><th>Politisches</th><td>Propagandaplanet von [Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/index)</td></tr>
+<tr><th>Politisches</th><td>Propagandaplanet von [Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/)</td></tr>
 <tr><th>Erwähnungen</th><td>[Xinnua]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

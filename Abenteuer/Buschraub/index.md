@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Buschraub/index
+permalink: /Abenteuer/Buschraub/
 title: Buschraub
 ---
 

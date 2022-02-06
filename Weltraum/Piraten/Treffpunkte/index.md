@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Piraten/Treffpunkte/index
+permalink: /Weltraum/Piraten/Treffpunkte/
 title: Piratentreffpunkte
 ---
 

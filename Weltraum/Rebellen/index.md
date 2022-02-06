@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Rebellen/index
+permalink: /Weltraum/Rebellen/
 title: Rebellen
 ---
 

@@ -8,7 +8,7 @@ title: Bharani 8
 # Bharani 8
 
 
-Bharani 8 ist winzig kleiner Planet mitten in den [BadPlanets]({{ site.baseurl }}/Weltraum/Phaenomene/index), kaum groß genug für ein Raumschiff, um darauf zu landen. Neben dem leicht verrückten Einsiedler Kritias, lebt niemand auf dem Planeten. Dieser Planet ist über eine Hängebrücke mit einem größeren Dschungelmond verbunden, auf dem wilde Kannibalen leben.
+Bharani 8 ist winzig kleiner Planet mitten in den [BadPlanets]({{ site.baseurl }}/Weltraum/Phaenomene/), kaum groß genug für ein Raumschiff, um darauf zu landen. Neben dem leicht verrückten Einsiedler Kritias, lebt niemand auf dem Planeten. Dieser Planet ist über eine Hängebrücke mit einem größeren Dschungelmond verbunden, auf dem wilde Kannibalen leben.
 
 ## Kritias
 

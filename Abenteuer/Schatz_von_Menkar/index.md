@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Schatz_von_Menkar/index
+permalink: /Abenteuer/Schatz_von_Menkar/
 title: Schatz von Menkar
 ---
 

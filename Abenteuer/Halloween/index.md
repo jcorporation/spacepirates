@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Halloween/index
+permalink: /Abenteuer/Halloween/
 title: Halloween
 ---
 

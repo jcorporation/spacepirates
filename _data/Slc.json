@@ -145,6 +145,12 @@
     "Wohnort": "Two Eyed Jack",
     "Position": ""
   },
+  "Ivy": {
+    "Name": "Tsagul",
+    "Rasse": "Mensch",
+    "Kategorie": "SpaceRocker",
+    "Wohnort": "Los Mochis"
+  },
   "Iyani_Dizalo": {
     "Name": "Iyani Dizalo",
     "Rasse": "Trull",
@@ -285,6 +291,13 @@
     "Wohnort": "",
     "Position": ""
   },
+  "Ricardo": {
+    "Name": "Samnese",
+    "Rasse": "Mensch",
+    "Kategorie": "SpaceRocker",
+    "Wohnort": "Los Mochis",
+    "Link": "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis"
+  },
   "Sabrwal": {
     "Name": "Sabrwal",
     "Rasse": "Trull",
@@ -338,6 +351,16 @@
     "Wohnort": "Halfway",
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Halfway"
+  },
+  "Tsagul": {
+    "Name": "Tsagul",
+    "Rasse": "Trull",
+    "Kategorie": [
+      "SpaceRocker",
+      "Kneipenbesitzer"
+    ],
+    "Wohnort": "Hells Place",
+    "Link": "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place"
   },
   "Two_Eyed_Jack": {
     "Name": "Two Eyed Jack",

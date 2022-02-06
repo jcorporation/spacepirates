@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Bewohner/index
+permalink: /Wiki/Bewohner/
 title: Bewohner
 ---
 

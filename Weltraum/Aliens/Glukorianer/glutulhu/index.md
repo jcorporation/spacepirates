@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Glukorianer/Glutulhu/index
+permalink: /Weltraum/Aliens/Glukorianer/Glutulhu/
 title: Glutulhu
 ---
 

@@ -8,7 +8,7 @@ title: China Space
 # China Space
 
 
-China Space ist einer der größten Waffen- und Raumfahrtkonzerne [Hightech]({{ site.baseurl }}/Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/index), aber auch in anderen Bereichen der )({{ site.baseurl }}/Weltraum/Technologie/index) aktiv. Da er mehrere Patente auf wichtige Raumfahrttechniken besitzt, etwa im Bereich FTL-Funk, gilt China Space als „staatswichtiges Unternehmen“ und wird daher vom neuasiatischen Militär „mit besonderer Sorgfalt beschützt.“ Trotzdem (oder vielmehr deswegen) werden die Forschungs- und Testgebiete aber auch vom konzerneigenen Sicherheitsdienst hermetisch abgeschirmt.
+China Space ist einer der größten Waffen- und Raumfahrtkonzerne [Hightech]({{ site.baseurl }}/Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/), aber auch in anderen Bereichen der )({{ site.baseurl }}/Weltraum/Technologie/) aktiv. Da er mehrere Patente auf wichtige Raumfahrttechniken besitzt, etwa im Bereich FTL-Funk, gilt China Space als „staatswichtiges Unternehmen“ und wird daher vom neuasiatischen Militär „mit besonderer Sorgfalt beschützt.“ Trotzdem (oder vielmehr deswegen) werden die Forschungs- und Testgebiete aber auch vom konzerneigenen Sicherheitsdienst hermetisch abgeschirmt.
 
 
 <aside>

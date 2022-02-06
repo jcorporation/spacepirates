@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Dungeonplanet/index
+permalink: /Abenteuer/Dungeonplanet/
 title: Dungeonplanet
 ---
 

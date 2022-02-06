@@ -29,12 +29,12 @@ Trullart ist die mit Abstand größte Stadt auf Trullmania. Sie ist das größte
 <caption>Trullmania</caption>
 <tbody>
 <tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Trullimperium]({{ site.baseurl }}/Weltraum/Aliens/Trull/index)</td></tr>
+<tr><th>Sektor</th><td>[Trullimperium]({{ site.baseurl }}/Weltraum/Aliens/Trull/)</td></tr>
 <tr><th>Monde</th><td>3</td></tr>
 <tr><th>Einwohner</th><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull)</td></tr>
 <tr><th>Hauptstadt</th><td>Trullart</td></tr>
 <tr><th>Besiedelung</th><td>kleine Siedlungen</td></tr>
-<tr><th>Politisches</th><td>Heimatplanet der [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/index)</td></tr>
+<tr><th>Politisches</th><td>Heimatplanet der [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/)</td></tr>
 <tr><th>Erwähnungen</th><td>[Trullmania]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

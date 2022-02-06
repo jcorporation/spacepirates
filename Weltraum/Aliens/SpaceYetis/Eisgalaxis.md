@@ -24,7 +24,7 @@ Die Eisgalaxis besteht aus 12 Eisplaneten, die um eine helle, aber kalte Sonne k
 <table data-type="sternensystem">
 <caption>Eisgalaxis</caption>
 <tbody>
-<tr><th>Sektor</th><td>[Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/index)</td></tr>
+<tr><th>Sektor</th><td>[Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/)</td></tr>
 <tr><th>Zentralgestirn</th><td>Kalte Sonne</td></tr>
 <tr><th>Planeten</th><td>12</td></tr>
 <tr><th>Bewohner</th><td>[SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis)</td></tr>
@@ -36,7 +36,7 @@ Die Eisgalaxis besteht aus 12 Eisplaneten, die um eine helle, aber kalte Sonne k
 <caption>Glacor</caption>
 <tbody>
 <tr><th>Typ</th><td>Eisplanet</td></tr>
-<tr><th>Sektor</th><td>[Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/index)</td></tr>
+<tr><th>Sektor</th><td>[Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/)</td></tr>
 <tr><th>Monde</th><td>5</td></tr>
 <tr><th>Einwohner</th><td>[SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis)</td></tr>
 <tr><th>Hauptstadt</th><td> </td></tr>

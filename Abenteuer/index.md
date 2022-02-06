@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/index
+permalink: /Abenteuer/
 title: Abenteuer
 ---
 
@@ -59,7 +59,7 @@ Hier gibt es vorgefertigte Abenteuer und Abenteuerideen für SpacePirates.
 ## Gefangen im SpaceSchnee
 
 <div class="boxtext">Der Beitrag von Belchion zum Winter-OPC 2012 von Greifenklaue.</div>
-<div class="boxbottom">[&raquo; zum Abenteuer]({{ site.baseurl }}/Abenteuer/Gefangenimspaceschnee/index)</div>
+<div class="boxbottom">[&raquo; zum Abenteuer]({{ site.baseurl }}/Abenteuer/Gefangenimspaceschnee/)</div>
 </div>
 <div class="box1 clickable">
 ## Halloween

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Glukorianer/index
+permalink: /Weltraum/Aliens/Glukorianer/
 title: Glukorianer
 ---
 
