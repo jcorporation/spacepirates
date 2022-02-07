@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /StarTunes/
-title: 
+title: StarTunes
 ---
 
 <div class="card mb-3 bg-sterne">

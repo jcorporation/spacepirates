@@ -7,22 +7,22 @@ sitedata:
     Organisationen:
         Heavensgate:
             Name: Heavensgate
-            Typ: Sekte
+            Kategorie: Sekte
         Kinder_der_Sternenleere:
             Name: Kinder der Sternenleere
-            Typ: Sekte
+            Kategorie: Sekte
         Marmonen:
             Name: Marmonen
-            Typ: Sekte
+            Kategorie: Sekte
         Vereinigung_zur_Foerderung_von_Ostern:
             Name: Vereinigung zur Förderung von Ostern
-            Typ: Sekte
+            Kategorie: Sekte
         Verfechter_der_Nacktheit:
             Name: Verfechter der Nackheit
-            Typ: Sekte
+            Kategorie: Sekte
         Weltraumpfleger:
             Name: Weltraumpfleger
-            Typ: Sekte
+            Kategorie: Sekte
 ---
 
 # Sekten

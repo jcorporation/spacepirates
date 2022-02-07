@@ -7,10 +7,10 @@ sitedata:
     Organisationen:
         Destroying_Planets:
             Name: Destroying Planets
-            Typ: Rockband
+            Kategorie: Rockband
         Solar_Eclipse:
             Name: Solar Eclipse
-            Typ: Rockband
+            Kategorie: Rockband
 ---
 
 # Rockbands

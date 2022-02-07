@@ -17,10 +17,10 @@ sitedata:
     Organisationen:
         ProBeast:
             Name: ProBeast
-            Typ: Tierschutzorganisation
+            Kategorie: Tierschutzorganisation
         DinoFanatics:
             Name: Dinofanatics
-            Typ: Verein
+            Kategorie: Verein
 ---
 
 # Kabukicho-Prime

@@ -7,7 +7,7 @@ sitedata:
     Organisationen:
         Humanozentrische_Befreiungsfront:
             Name: Humanozentrische Befreiungsfront
-            Typ: Gewerkschaft
+            Kategorie: Gewerkschaft
 
 ---
 

@@ -1,57 +1,57 @@
 {
   "Destroying_Planets": {
     "Name": "Destroying Planets",
-    "Typ": "Rockband",
+    "Kategorie": "Rockband",
     "Link": "/Weltraum/SpaceRocker/Rockbands"
   },
   "DinoFanatics": {
     "Name": "Dinofanatics",
-    "Typ": "Verein",
+    "Kategorie": "Verein",
     "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/"
   },
   "Heavensgate": {
     "Name": "Heavensgate",
-    "Typ": "Sekte",
+    "Kategorie": "Sekte",
     "Link": "/Weltraum/Sekten"
   },
   "Humanozentrische_Befreiungsfront": {
     "Name": "Humanozentrische Befreiungsfront",
-    "Typ": "Gewerkschaft",
+    "Kategorie": "Gewerkschaft",
     "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/Roboter"
   },
   "Kinder_der_Sternenleere": {
     "Name": "Kinder der Sternenleere",
-    "Typ": "Sekte",
+    "Kategorie": "Sekte",
     "Link": "/Weltraum/Sekten"
   },
   "Marmonen": {
     "Name": "Marmonen",
-    "Typ": "Sekte",
+    "Kategorie": "Sekte",
     "Link": "/Weltraum/Sekten"
   },
   "ProBeast": {
     "Name": "ProBeast",
-    "Typ": "Tierschutzorganisation",
+    "Kategorie": "Tierschutzorganisation",
     "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/"
   },
   "Solar_Eclipse": {
     "Name": "Solar Eclipse",
-    "Typ": "Rockband",
+    "Kategorie": "Rockband",
     "Link": "/Weltraum/SpaceRocker/Rockbands"
   },
   "Vereinigung_zur_Foerderung_von_Ostern": {
     "Name": "Vereinigung zur Förderung von Ostern",
-    "Typ": "Sekte",
+    "Kategorie": "Sekte",
     "Link": "/Weltraum/Sekten"
   },
   "Verfechter_der_Nacktheit": {
     "Name": "Verfechter der Nackheit",
-    "Typ": "Sekte",
+    "Kategorie": "Sekte",
     "Link": "/Weltraum/Sekten"
   },
   "Weltraumpfleger": {
     "Name": "Weltraumpfleger",
-    "Typ": "Sekte",
+    "Kategorie": "Sekte",
     "Link": "/Weltraum/Sekten"
   }
 }

@@ -14,7 +14,7 @@ Wie jedes freies Rollenspiel, so wäre auch dieses so nicht ohne Hilfe und Feedb
 
 ### Insbesondere bei:
 
-- [Belchion](http://belchion.rsp-blogs.de/) - Onno Tasler
+- [Belchion](http://belchion.rsp-blogs.de/) &ndash; Onno Tasler
 
 ## Freies Rollenspiel mit freier Software
 
