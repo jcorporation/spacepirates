@@ -9,6 +9,6 @@ permalink: /Aktuelles/2017-06-24-startunes-cd-box-vorbestellbar
 
 Auf der CD befindet sich neben den 3 Audiotracks auch noch ein Datenteil mit allen SpacePirates-Publikationen als PDF und den Liedern in einem hochwertigen MP3 und FLAC Format.
 
-Hier auch nochmal einen großen Dank an den Künstler [Yan Hurd](http://yanhurd.com/) und allen Beteiligten.
+Hier auch nochmal einen großen Dank an den Künstler [Yan Hurd](http:/yanhurd.com/) und allen Beteiligten.
 
 

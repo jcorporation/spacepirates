@@ -9,5 +9,5 @@ Ich bin gerade dabei das Quickstart-Heft auf SpacePirates V2 zu portieren. In de
 
 <p>[Altes Quickstart PDF]({{ site.baseurl }}/Spacepirates/Downloaddir/V1/Sp-quickstart_1-0-1.pdf)<br/>
 <br/>
-Das neue Heft wird [hier]({{ site.baseurl }}/Regelwerkv2/Schnellstart) entwickelt.</p>
+Das neue Heft wird [hier]({{ site.baseurl }}/Spielregeln/Schnellstart) entwickelt.</p>
 

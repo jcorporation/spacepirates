@@ -2,6 +2,7 @@
 use strict;
 
 my $checkfile = $ARGV[0];
+my $rc = 0;
 
 sub checklink {
     my ($href, $line) = @_;
@@ -19,14 +20,16 @@ sub checklink {
         }
         if (not -f $file) {
             print "$checkfile:$line - Invalid link: \"$file\" (file not found)\n";
+            $rc = 1;
         }
     }
     else {
         print "$checkfile:$line - Invalid link: \"$href\" (missing {{ site.baseurl }}/)\n";
+        $rc = 1;
     }
 }
 
-open my $fh, $checkfile or die;
+open my $fh, $checkfile or die "Error opening file $checkfile";
 my $line = 0;
 while (<$fh>) {
     $line++;
@@ -47,3 +50,5 @@ while (<$fh>) {
     }
 }
 close $fh;
+
+exit $rc;

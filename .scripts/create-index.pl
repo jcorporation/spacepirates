@@ -164,7 +164,7 @@ sub add_keyphrase {
 
 # get keywords from files
 for my $filename (@files) {
-    open my $fh, $filename or die "Error opening file $filename\n";
+    open my $fh, $filename or die "Error opening $filename";
     my $line = <$fh>;
     chomp $line;
     # check frontmatter
@@ -208,7 +208,7 @@ for my $filename (@files) {
         # no frontmatter: reopen to parse first line as content
         _log("No frontmatter found");
         close $fh;
-        open $fh, $filename or die "Error opening file $filename\n";
+        open $fh, $filename or die "Error opening $filename";
     }    
     while ($line = <$fh>) {
         #Todo: add keywords from frontmatter
@@ -234,7 +234,7 @@ for my $filename (@files) {
 
 # read json keys from which we grab keywords from _data files
 my %datakeywords;
-open $fh, ".scripts/conf/index_datakeywords.txt" or die "Error opening file .scripts/conf/index_datakeywords.txt";
+open $fh, ".scripts/conf/index_datakeywords.txt" or die "Error opening .scripts/conf/index_datakeywords.txt";
 while (my $line = <$fh>) {
     chomp($line);
     $datakeywords{$line} = 1;
@@ -244,7 +244,7 @@ close $fh;
 # parses json files in the _data directory
 sub parse_data {
     my $filename = $_[0];
-    open my $fh, $filename or die "Error opening file $filename\n";
+    open my $fh, $filename or die "Error opening $filename";
     while (my $line = <$fh>) {
         chomp($line);
         if ($line =~ /"([^"]+)":\s+"(.*)",?$/) {
@@ -274,7 +274,7 @@ sub parse_data {
 }
 
 # get keywords from _data
-opendir $dh, "_data" or die "Error in opening dir _data\n";
+opendir $dh, "_data" or die "Error in opening dir _data";
 while (my $filename = readdir($dh)) {
     if ($filename =~ /^\./) {
         next;
@@ -348,7 +348,7 @@ sub parse_value {
 
 #index files
 for my $filename (@files) {
-    open $fh, $filename or die "Error opening file $filename\n";
+    open $fh, $filename or die "Error opening $filename";
     if (defined($debug)) {
         _log("Parsing \"$filename\"");
     }
@@ -397,7 +397,7 @@ for my $filename (@files) {
         # no frontmatter: reopen to parse first line as content
         _log("No frontmatter found");
         close $fh;
-        open $fh, $filename or die "Error opening file $filename\n";
+        open $fh, $filename or die "Error opening $filename";
     }
     _log("Parse content");
     # parse content
@@ -423,7 +423,7 @@ for my $filename (@files) {
 print "\n";
 
 #write json searchindex
-open $oh, ">_tmp/index.json" or die "Error opening file _tmp/index.json";
+open $oh, ">_tmp/index.json" or die "Error opening _tmp/index.json";
 print $oh "{\n";
 $i = 0;
 for my $keyword (sort keys %keywords) {

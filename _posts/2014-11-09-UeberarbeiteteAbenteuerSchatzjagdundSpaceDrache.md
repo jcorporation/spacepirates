@@ -12,7 +12,7 @@ Zudem enthÃ¤lt jetzt die Sternenkarte auch alle Planeten und Raumstationen der Ã
 Heute kam mir auch noch die Idee ein paar weitere Hilfestellungen zum Leiten von SpacePirates Abenteuerserien in den Sammelband zu integrieren.
 
 <li>
-**[Abenteuerband herunterladen]({{ site.baseurl }}/Downloads)**
+**[Abenteuerband herunterladen]({{ site.baseurl }}/Publikationen/)**
 
 </li>
 

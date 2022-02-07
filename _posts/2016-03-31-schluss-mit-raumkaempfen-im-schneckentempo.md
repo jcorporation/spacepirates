@@ -9,8 +9,8 @@ In SpacePirates v5 gibts es jetzt für Raumschiffe auch FTL-Sensoren. Kombiniert
 
 Feedback nehme ich natürlich über alle bekannten [Kanäle]({{ site.baseurl }}/Kontakt) gerne entgegen.
 
-**[&raquo; zu SpacePirates &ndash; Ahoi Landratten!]({{ site.baseurl }}/Regelwerkv5)**
+**[&raquo; zu SpacePirates &ndash; Ahoi Landratten!]({{ site.baseurl }}/Spielregeln/)**
 
-**[&raquo; Vorschau herunterladen]({{ site.baseurl }}/Downloads)**
+**[&raquo; Vorschau herunterladen]({{ site.baseurl }}/Publikationen/)**
 
 

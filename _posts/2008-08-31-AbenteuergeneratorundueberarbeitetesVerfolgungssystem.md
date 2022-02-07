@@ -9,6 +9,6 @@ Das komplette Spielleiterkapitel von SpacePirates wurde überarbeitet. Aus den l
 
 Desweiteren wurde das Verfolgungssystem nochmals überarbeitet und konkretisiert. Jetzt kann der Spielleiter einen Wurf machen und sehen ob die Charaktergruppe auf dem momentanen Planeten verfolgt wird oder auch nicht.
 
-Wie immer sind die aktuellen PDFs in der [Downloadsektion]({{ site.baseurl }}/Downloads) und über den [PDFCast]({{ site.baseurl }}/Pdfcast.rss) erhältlich.
+Wie immer sind die aktuellen PDFs in der [Downloadsektion]({{ site.baseurl }}/Publikationen/) und über den [PDFCast]({{ site.baseurl }}/Pdfcast.rss) erhältlich.
 
 

@@ -1,0 +1,34 @@
+{
+  "Meteorkraken": {
+    "Name": "Meteorkraken",
+    "Link": "/Weltraum/Weltraumtiere"
+  },
+  "Mykoniden": {
+    "Name": "Mykoniden",
+    "Link": "/Weltraum/Weltraumtiere"
+  },
+  "Riesen-Weltraumhamster": {
+    "Name": "Riesen-Weltraumhamster",
+    "Link": "/Weltraum/Weltraumtiere"
+  },
+  "Space-Eiswuermer": {
+    "Name": "Space-Eiswürmer",
+    "Link": "/Weltraum/Weltraumtiere"
+  },
+  "Spaceameisen": {
+    "Name": "Spaceameisen",
+    "Link": "/Weltraum/Weltraumtiere"
+  },
+  "Sternenwale": {
+    "Name": "Sternenwale",
+    "Link": "/Weltraum/Weltraumtiere"
+  },
+  "Weltraumkaefer": {
+    "Name": "Weltraumkäfer",
+    "Link": "/Weltraum/Weltraumtiere"
+  },
+  "Weltraumspinnen": {
+    "Name": "Weltraumspinnen",
+    "Link": "/Weltraum/Weltraumtiere"
+  }
+}

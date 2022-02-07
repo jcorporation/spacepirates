@@ -1,6 +1,6 @@
 <table>
 <thead>
-<tr><th>Name</th><th>Sektor</th><th>Einwohner</th><th>Politisches</th></tr>
+<tr><th>Name</th><th>Sektor</th><th>Einwohner</th><th>Hauptstadt</th><th>Politisches</th></tr>
 </thead>
 <tbody>
 {% for planet in site.data.Planeten %}
@@ -15,7 +15,7 @@
         <tr>
             <td>{% include printlink.md data=Name link=Link %}</td>
             <td>{% include printlink.md data=Sektor type='Sektoren' %}</td>
-            <td>{% include printtext.md data=Einwohner %}</td>
+            <td>{% include printlink.md data=Einwohner %}</td>
             <td>{% include printlink.md data=Hauptstadt type='Staedte' %}</td>
             <td>{% include printtext.md data=Politisches %}</td>
         </tr>

@@ -5,7 +5,7 @@ tag: spacepirates
 permalink: /Aktuelles/2016-02-20-karneval-der-rollenspielblogs-gesinnungen
 ---
 
-Im Februar 2016 geht es im Karneval der Rollenspielblogs um das Thema Gesinnungen. Den Startbeitrag findet ihr [hier](http://neueabenteuer.com/gesinnungen/) und [hier](http://forum.rsp-blogs.de/rsp-karneval/gesinnungen-%28febuary-2016%29/) gibt es den passenden Thread im Forum.
+Im Februar 2016 geht es im Karneval der Rollenspielblogs um das Thema Gesinnungen. Den Startbeitrag findet ihr [hier](http:/neueabenteuer.com/gesinnungen/) und [hier](http:/forum.rsp-blogs.de/rsp-karneval/gesinnungen-%28febuary-2016%29/) gibt es den passenden Thread im Forum.
 
 Bei SpacePirates wählt man bei der Charaktererschaffung keine bestimmte Gesinnung, die Charaktere sind Piraten, was die Gruppe daraus macht, bleibt ihnen selber überlassen. Als Spieleschöpfer hatte ich natürlich eine bestimmte Art von Piraten im Kopf als ich das Spiel geschrieben habe und dazu will ich ein paar Worte verlieren.
 

@@ -9,6 +9,6 @@ Seit dem letzten PDF-Release, was genau einen Monat her ist, wurde die Settingbe
 
 Momentan entstehen im [Spielleiterteil]({{ site.baseurl }}/Spielleiter) Zufallstabellen um Gerüchte zu erwürfeln, sobald diese in einem ausgereiften Zustand sind, wird es auch einen Piratenklatschgenerator geben, der die Gerüchte mit einem Klick auswürfelt.
 
-Wie immer sind die aktuellen PDFs in der [Downloadsektion]({{ site.baseurl }}/Downloads) und über den [PDFCast]({{ site.baseurl }}/Pdfcast.rss) erhältlich.
+Wie immer sind die aktuellen PDFs in der [Downloadsektion]({{ site.baseurl }}/Publikationen/) und über den [PDFCast]({{ site.baseurl }}/Pdfcast.rss) erhältlich.
 
 

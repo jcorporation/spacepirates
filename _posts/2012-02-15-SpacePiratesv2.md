@@ -10,6 +10,6 @@ Nach der Fertigstellung von BigBong arbeite ich derzeit fleißig an SpacePirates
 
 Das neue Cover nähert sich gerade auch der Fertigstellung, so dass ich es bald veröffentlichen kann. Wenn du nicht willst, dass SpacePirates v2 so langweilig heißt, schick mir doch noch deine Idee für einen coolen Untertitel!
 
-	- [zum Regelwerk]({{ site.baseurl }}/Regelwerkv2/Index.html)
+	- [zum Regelwerk]({{ site.baseurl }}/Spielregeln/Index.html)
 
 

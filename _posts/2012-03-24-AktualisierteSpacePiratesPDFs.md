@@ -9,6 +9,6 @@ Die NSC- und Raumschifftabellen der Abenteuer im Grundregelwerk und in den Theme
 
 Das Fortsetzungsabenteuer von Zeitraub wurde auf Oma Binkels SpacePirates portiert und erscheint nun im überarbeiteten Layout und im DIN-A4 Format.
 
-Die PDFs gibt es wieder einzeln auf der [Downloadseite]({{ site.baseurl }}/Downloads) oder als ZIP-Datei mit allen PDFs zum kostenlosen [Download]({{ site.baseurl }}/Spacepirates/Downloaddir/V2/Spbundle_last.zip).
+Die PDFs gibt es wieder einzeln auf der [Downloadseite]({{ site.baseurl }}/Publikationen/) oder als ZIP-Datei mit allen PDFs zum kostenlosen [Download]({{ site.baseurl }}/Spacepirates/Downloaddir/V2/Spbundle_last.zip).
 
 

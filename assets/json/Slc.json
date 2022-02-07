@@ -4,7 +4,8 @@
     "Rasse": "SpacePear",
     "Kategorie": "Promi",
     "Wohnort": "Freeport",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Al_Banchigo": {
     "Name": "Al Banchigo",
@@ -14,42 +15,48 @@
       "Hehler"
     ],
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Alexa_Reed": {
     "Name": "Alexa Reed",
     "Rasse": "Samnesin",
     "Kategorie": "Promi",
     "Wohnort": "Freeport",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Arnold_Easteregger": {
     "Name": "Arnold Easteregger",
     "Rasse": "Spacepear",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Barbara_Streifsand": {
     "Name": "Barbara Streifsand",
     "Rasse": "Streifanierin",
     "Kategorie": "Promi",
     "Wohnort": "Streif",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Birgit_Niels": {
     "Name": "Birgit Niels",
     "Rasse": "Spaceamazone",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Black_Jack": {
     "Name": "Black Jack",
     "Rasse": "Neuasiat",
     "Kategorie": "Unternehmer",
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Blue_Rai": {
     "Name": "Blue Rai",
@@ -60,49 +67,56 @@
       "Kneipenbesitzer"
     ],
     "Wohnort": "Two Eyed Jack",
-    "Position": "Kneipenbesitzer"
+    "Position": "Kneipenbesitzer",
+    "Link": "/Weltraum/Händler_und_Halunken"
   },
   "Britney_S_Pears": {
     "Name": "Britney S. Pears",
     "Rasse": "SpacePear",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Chester_Gateland": {
     "Name": "Chester Gateland",
     "Rasse": "Trull",
     "Kategorie": "Militär",
     "Position": "Bekannter Kapitän des großen Trullschiffes Gateland.",
-    "Wohnort": "Trullmania"
+    "Wohnort": "Trullmania",
+    "Link": "/Weltraum/Militär"
   },
   "David_Freedomhoff": {
     "Name": "David Freedomhoff",
     "Rasse": "Mensch",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Dia_Mond": {
     "Name": "Dia Mond",
     "Rasse": "Samnesin",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Dimli": {
     "Name": "Dimli",
     "Rasse": "Kahadrier",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Dolly_Laster": {
     "Name": "Dolly Laster",
     "Rasse": "Trull",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Edward_Bakutha": {
     "Name": "Edward Bakutha",
@@ -112,14 +126,16 @@
       "Verrückter Wissenschaftler"
     ],
     "Position": "Leiter eines Forschungsteams des galaktischen Handelsrats.",
-    "Wohnort": "Javar 3"
+    "Wohnort": "Javar 3",
+    "Link": "/Weltraum/Verrückte_Wissenschaftler"
   },
   "Fake_Henry": {
     "Name": "Fake Henry",
     "Rasse": "Mensch",
     "Kategorie": "Fälscher",
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Halram_Baxu": {
     "Name": "Halram Baxu",
@@ -128,7 +144,8 @@
       "Händler"
     ],
     "Wohnort": "Oyster-Cluster",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Händler_und_Halunken"
   },
   "Hari_Jambal": {
     "Name": "Hari Jambal",
@@ -143,13 +160,15 @@
     "Rasse": "Mensch",
     "Kategorie": "Doc",
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Ivy": {
     "Name": "Tsagul",
     "Rasse": "Mensch",
     "Kategorie": "SpaceRocker",
-    "Wohnort": "Los Mochis"
+    "Wohnort": "Los Mochis",
+    "Link": "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis"
   },
   "Iyani_Dizalo": {
     "Name": "Iyani Dizalo",
@@ -158,14 +177,16 @@
       "Händler"
     ],
     "Wohnort": "Scrabnambu",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Händler_und_Halunken"
   },
   "Jean_Damme_van_Raumcloud": {
     "Name": "Jean Damme van Raumcloud",
     "Rasse": "Streifanier",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "John_Marric": {
     "Name": "John Marric",
@@ -175,28 +196,32 @@
       "Verrückter Wissenschaftler"
     ],
     "Position": "",
-    "Wohnort": "Weißes Loch"
+    "Wohnort": "Weißes Loch",
+    "Link": "/Weltraum/Verrückte_Wissenschaftler"
   },
   "Khan_Keyne": {
     "Name": "Khan Keyne",
     "Rasse": "Kahadrier",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Kuster_Beaton": {
     "Name": "Kuster Beaton",
     "Rasse": "Mensch",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "LAK-418": {
     "Name": "LAK-418",
     "Rasse": "Samnese",
     "Kategorie": "Händler",
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Leu_Ming": {
     "Name": "Leu Ming",
@@ -211,28 +236,32 @@
     "Rasse": "Samnese",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Mad_Harry": {
     "Name": "Mad Harry",
     "Rasse": "Trull",
     "Kategorie": "Händler",
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Madame_PlaemPlaem": {
     "Name": "Madame PlämPläm",
     "Rasse": "unbekannt",
     "Kategorie": "Promi",
     "Wohnort": "unbekannt",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Martinez_Hernandes": {
     "Name": "Martinez Hernandes",
     "Rasse": "Mensch",
     "Kategorie": "Reporter",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Melinda_Gomez": {
     "Name": "Melinda Gomez",
@@ -241,7 +270,8 @@
       "Händler"
     ],
     "Wohnort": "Pandar 5",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Händler_und_Halunken"
   },
   "Melonen-Wagoner_Chaplin": {
     "Name": "Melonen-Wagoner Chaplin",
@@ -256,7 +286,8 @@
     "Rasse": "Samnese",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Professor_Robotto": {
     "Name": "Professor Robotto",
@@ -266,14 +297,16 @@
       "Verrückter Wissenschaftler"
     ],
     "Position": "",
-    "Wohnort": "Scrabnambu"
+    "Wohnort": "Scrabnambu",
+    "Link": "/Weltraum/Verrückte_Wissenschaftler"
   },
   "Rachel_Springs": {
     "Name": "Rachel Springs",
     "Rasse": "Mensch",
     "Kategorie": "Militär",
     "Position": "Eine ranghohe Generalin der Föderationsflotte.",
-    "Wohnort": "Erde"
+    "Wohnort": "Erde",
+    "Link": "/Weltraum/Militär"
   },
   "Randul_Zac": {
     "Name": "Randul Zac",
@@ -282,14 +315,16 @@
       "Händler"
     ],
     "Wohnort": "Keas",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Händler_und_Halunken"
   },
   "Raul_Reitner": {
     "Name": "Raul Reitner",
     "Rasse": "Streifanier",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Ricardo": {
     "Name": "Samnese",
@@ -307,7 +342,8 @@
       "Assistent"
     ],
     "Position": "Assistent von Professor Robotto",
-    "Wohnort": "Scrabnambu"
+    "Wohnort": "Scrabnambu",
+    "Link": "/Weltraum/Verrückte_Wissenschaftler"
   },
   "Scharxu": {
     "Name": "Scharxu",
@@ -317,21 +353,24 @@
       "Hehler"
     ],
     "Wohnort": "Freihandelszone",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Händler_und_Halunken"
   },
   "Schroeder": {
     "Name": "Schröder",
     "Rasse": "Mensch",
     "Kategorie": "Händler",
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Stan_Stanton": {
     "Name": "Stan Stanton",
     "Rasse": "Samnese",
     "Kategorie": "Händler",
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Takahashi_Ning": {
     "Name": "Takahashi Ning",
@@ -370,7 +409,8 @@
       "Pirat"
     ],
     "Wohnort": "Two Eyed Jack",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
   "Ursel": {
     "Name": "Ursel",
@@ -385,14 +425,16 @@
     "Rasse": "Mensch",
     "Kategorie": "Militär",
     "Position": "Ein korrupter Hauptmann der Flotte des Galaktischen Handelsrats.",
-    "Wohnort": "Neusirius"
+    "Wohnort": "Neusirius",
+    "Link": "/Weltraum/Militär"
   },
   "Wicker": {
     "Name": "Wicker",
     "Rasse": "Streifanier",
     "Kategorie": "Promi",
     "Wohnort": "",
-    "Position": ""
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Xergul": {
     "Name": "Xergul",

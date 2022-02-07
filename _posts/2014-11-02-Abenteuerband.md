@@ -10,7 +10,7 @@ Ich arbeite gerade an einer neuen SpacePirates Publikation: Ein Abenteuersammelb
 Die Abenteuer gibt es natürlich auch weiterhin als einzelne PDFs zum Download und werden auch aktuell gehalten.
 
 <li>
-**[Abenteuerband herunterladen]({{ site.baseurl }}/Downloads)**
+**[Abenteuerband herunterladen]({{ site.baseurl }}/Publikationen/)**
 
 </li>
 

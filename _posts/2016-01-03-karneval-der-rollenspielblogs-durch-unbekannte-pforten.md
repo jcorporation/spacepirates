@@ -7,11 +7,11 @@ permalink: /Aktuelles/2016-01-03-karneval-der-rollenspielblogs-durch-unbekannte-
 
 
 
-Im Januar 2016 geht es im Karneval der Rollenspielblogs um das Thema &bdquo;Durch unbekannte Pforten: Wege in andere Welten&ldquo;. Den Startbeitrag findet ihr [hier](http://www.weltenbau-wissen.de/2016/01/karneval-der-rollenspielblogs-unbekannte-pforten/) und [hier](http://forum.rsp-blogs.de/rsp-karneval/durch-unbekannte-pforten-wege-in-andere-welten-%28januar-2016%29/) gibt es den passenden Thread im Forum. Das Thema passt definitiv zu SpacePirates, da es im SpacePirates Universum schon jetzt ein paar Portale gibt, die ich hier vorstellen will.
+Im Januar 2016 geht es im Karneval der Rollenspielblogs um das Thema &bdquo;Durch unbekannte Pforten: Wege in andere Welten&ldquo;. Den Startbeitrag findet ihr [hier](http:/www.weltenbau-wissen.de/2016/01/karneval-der-rollenspielblogs-unbekannte-pforten/) und [hier](http:/forum.rsp-blogs.de/rsp-karneval/durch-unbekannte-pforten-wege-in-andere-welten-%28januar-2016%29/) gibt es den passenden Thread im Forum. Das Thema passt definitiv zu SpacePirates, da es im SpacePirates Universum schon jetzt ein paar Portale gibt, die ich hier vorstellen will.
 
 ### Wurm- und andere Löcher
 
-Um hier auch mal [Wikipedia](https://de.wikipedia.org/wiki/Wurmloch) zu zitieren:
+Um hier auch mal [Wikipedia](https:/de.wikipedia.org/wiki/Wurmloch) zu zitieren:
 
 *Wurmlöcher sind theoretische Gebilde, die sich aus speziellen Lösungen (Kruskal-Lösungen) der Feldgleichungen der allgemeinen Relativitätstheorie ergeben. Erstmals wurden sie im Jahre 1935 von Albert Einstein und Nathan Rosen beschrieben und deshalb ursprünglich Einstein-Rosen-Brücke genannt.*
 

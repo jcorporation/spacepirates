@@ -14,7 +14,7 @@ sitedata:
         Marmonen:
             Name: Marmonen
             Typ: Sekte
-        Vereinigung_zur_Foerderun_ von_Ostern:
+        Vereinigung_zur_Foerderung_von_Ostern:
             Name: Vereinigung zur Förderung von Ostern
             Typ: Sekte
         Verfechter_der_Nacktheit:

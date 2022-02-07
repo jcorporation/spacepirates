@@ -1,16 +1,27 @@
 #!/bin/bash
 
-YQ=".scripts/yq"
+rc=0
 
+# select yq executable
+case "$(uname -m)" in
+    armv7l)
+    	YQ=".scripts/bin/yq_linux_arm" ;;
+    x86_64)
+    	YQ=".scripts/bin/yq_linux_amd64" ;;
+    *)
+    	exit 1 ;;
+esac
+
+TMPDIR="_tmp"
 LISTS=$(cat .scripts/conf/data_keys.txt)
 
-#create empty tmp file
+#create empty tmp files
 for L in $LISTS
 do
-    printf "" > "_tmp/$L.yml.tmp"
+    printf "" > "$TMPDIR/$L.yml.tmp"
 done
 
-printf "Parsing frontmatters"
+echo "Parsing frontmatters"
 while read -r F
 do
     [ "$F" = "./README.md" ] && continue
@@ -20,16 +31,21 @@ do
     SITEDATA=$($YQ --front-matter=extract '.sitedata' "$F")
     PERMALINK=${F%.*} # remove extension
     PERMALINK=${PERMALINK:1} # remove first char
-    PERMALINK=${PERMALINK/%index} # remove index
+    PERMALINK=${PERMALINK/%index} # remove index suffix
 
     for L in $LISTS
     do
-        V=$($YQ ".${L}" - <<< "$SITEDATA")
-        if [ "$V" != "null" ] && [ "$V" != "" ]
-        then 
-            echo "$V" >> "_tmp/$L.yml.tmp"
-            echo "  Link: $PERMALINK" >> "_tmp/$L.yml.tmp"
-        fi
+	# get content of list
+    	LIST=$($YQ ".$L" <<< "$SITEDATA")
+    	[ "$LIST" = "null" ] && continue
+    	TMPFILE="$TMPDIR/$L.yml.tmp"
+    	# iterate through keys of list and append permalink
+        while read -r KEY
+        do
+            echo "$KEY:" >> "$TMPFILE"
+            $YQ ".$KEY" <<< "$LIST" | sed -E 's/(^)/  \1/g' >> "$TMPFILE"
+            echo "  Link: $PERMALINK" >> "$TMPFILE"
+        done < <($YQ "keys()" <<< "$LIST" | sed 's/^- //g')
     done
     printf "."
 done < <(find ./ -name \*.md)
@@ -39,12 +55,17 @@ echo "Sorting"
 # sort, convert, cleanup
 for L in $LISTS
 do
-    $YQ -o=json 'sort_keys(.)' "_tmp/$L.yml.tmp" > "_tmp/$L.json.tmp"
-    if [ -s "_tmp/$L.json.tmp" ]
+    TMPFILE="$TMPDIR/$L.json.tmp"
+    YMLTMP="$TMPDIR/$L.yml.tmp"
+    $YQ -o=json 'sort_keys(.)' "$YMLTMP" > "$TMPFILE"
+    if [ -s "$TMPFILE" ]
     then
-        mv "_tmp/$L.json.tmp" "_data/$L.json"
+        mv "$TMPFILE" "_data/$L.json"
     else
-        rm -f "_tmp/$L.json.tmp"
+        rm -f "$TMPFILE"
+        rc=1
     fi
-    rm "_tmp/$L.yml.tmp"
+    rm "$YMLTMP"
 done
+
+exit $rc

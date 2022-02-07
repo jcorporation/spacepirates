@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rc=0
+
 check_permalink() {
     F=$1
     P=${F%.*} # remove extension
@@ -10,6 +12,7 @@ check_permalink() {
     if ! grep -q "^permalink: $PERMALINK\$" "$F"
     then
         echo "Invalid permalink: $F / $PERMALINK"
+        rc=1
     fi
 }
 
@@ -19,6 +22,7 @@ check_title() {
     if ! grep -P -q '^title: \S+' "$F"
     then
         echo "Empty title: $F"
+        rc=1
     fi
 }
 
@@ -30,9 +34,14 @@ do
     [[ "$F" =~ .*_aside.md$ ]] && continue
 
     # check links
-    .scripts/check-links.pl "$F"
+    if ! .scripts/check-links.pl "$F"
+    then
+    	rc=1
+    fi
     # check permalink
     check_permalink "$F"
     # check title
     check_title "$F"
 done < <(find ./ -name \*.md)
+
+exit $rc

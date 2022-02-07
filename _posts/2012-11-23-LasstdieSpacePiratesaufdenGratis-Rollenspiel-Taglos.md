@@ -5,7 +5,7 @@ tag: spacepirates
 permalink: /Aktuelles/2012-11-23-LasstdieSpacePiratesaufdenGratis-Rollenspiel-Taglos
 ---
 
-Wie auf der [Produktseite](http://gratisrollenspieltag.de/produkte/) des GRT schon vermerkt werde ich diese großartige Initiative mit dem SpacePirates [Schnellstart-Heft]({{ site.baseurl }}/Regelwerkv2/Schnellstart) unterstützen. Geplant ist eine 150er Auflage mit farbigen Umschlag, um in jedem Paket vertreten zu sein.
+Wie auf der [Produktseite](http:/gratisrollenspieltag.de/produkte/) des GRT schon vermerkt werde ich diese großartige Initiative mit dem SpacePirates [Schnellstart-Heft]({{ site.baseurl }}/Spielregeln/Schnellstart) unterstützen. Geplant ist eine 150er Auflage mit farbigen Umschlag, um in jedem Paket vertreten zu sein.
 
 Wenn ihr den GRT und auch SpacePirates unterstützen wollt gebe ich euch jetzt auch Gelegenheit dazu. Ihr könnt die Auflage des Schnellstart-Hefts mit einer kleinen Spende erhöhen. Ich selber werde neben den Kosten für die ersten 150 Hefte auch noch die Kosten für die Aufrundung auf die nächsthöhere Auflage tragen.
 

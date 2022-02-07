@@ -5,7 +5,7 @@ tag: spacepirates
 permalink: /Aktuelles/2016-09-20-neues-abenteuer-blumenkind
 ---
 
-Blumenkind basiert auf der gleichnamigen Mission für [Battlemap Heroes ](http://ludus-leonis.com/battlemap-heroes/)von [Ludus Leonis](http://ludus-leonis.com/).
+Blumenkind basiert auf der gleichnamigen Mission für [Battlemap Heroes ](http:/ludus-leonis.com/battlemap-heroes/)von [Ludus Leonis](http:/ludus-leonis.com/).
 
 Auf dem Planeten Doradus war der Anbau von Hanf verboten. Findige Hippies konstruierten deshalb die &bdquo;Blumenkind&ldquo;, ein automatisiertes Glashausraumschiff, um die Pflanze legal im All anzubauen. Leider kam es nach der Jungfernfahrt zu einem Atomkrieg, der die Bewohner Doradus auslöschte.
 

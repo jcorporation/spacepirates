@@ -151,6 +151,10 @@ inputSearch.addEventListener('click', function(event) {
 
 inputSearch.addEventListener('keyup', function(event) {
     let value = event.target.value.toLowerCase();
+    doSearch(value, searchResult);
+}, false);
+
+function doSearch(value, resultEl) {
     // normalize searchstring
     value = value.replace(/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#]/g, '');
     // stomp searchstring
@@ -194,7 +198,7 @@ inputSearch.addEventListener('keyup', function(event) {
         //equal
         return 0;
     });
-    searchResult.innerText = '';
+    resultEl.innerText = '';
     let i = 0;
     for (const match of sorted) {
         const a = document.createElement('a');
@@ -212,10 +216,10 @@ inputSearch.addEventListener('keyup', function(event) {
         a.appendChild(crumbs);
         a.href = match; 
         a.classList.add('list-group-item', 'bg-yellow');
-        searchResult.appendChild(a);
+        resultEl.appendChild(a);
         i++;
         if (i > 9) {
             break;
         }
     }
-}, false);
+}

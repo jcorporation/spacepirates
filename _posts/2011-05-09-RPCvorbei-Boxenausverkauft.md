@@ -9,6 +9,6 @@ Die zwei Tage der RPC sind schon wieder vorbei und es waren wieder zwei schöne,
 
 
 
-Natürlich sind auch schon die ersten Bilder [online]({{ site.baseurl }}//Jcgames/Veranstaltungen/Bilder_2011-rpc) und denkt daran: Auch Munchkins lesen SpacePirates!
+Natürlich sind auch schon die ersten Bilder [online]({{ site.baseurl }}/Jcgames/Veranstaltungen/Bilder_2011-rpc) und denkt daran: Auch Munchkins lesen SpacePirates!
 
 

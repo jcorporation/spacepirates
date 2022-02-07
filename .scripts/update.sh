@@ -1,15 +1,32 @@
 #!/bin/bash
 
-[ -d _tmp ] || exit 1
+TMPDIR="_tmp"
+DATADIR="_data"
+ASSETSDIR="assets/json"
 
-rm -f _tmp/*
+[ -d "$ASSETSDIR" ] || exit 1
+[ -d "$DATADIR" ] || exit 1
 
-.scripts/create-data.sh
-
-if .scripts/create-index.pl
+# create or cleanup tmp dir
+if [ -d "$TMPDIR" ]
 then
-    mv _tmp/index.json _data/
-    mv _tmp/index_stompkeys.json _data/
+    rm -f "$TMPDIR/"*
+else
+    install -d "$TMPDIR"
 fi
 
-cp -v _data/*.json assets/json/
+# create data files from frontmatter
+if .scripts/create-data.sh
+then
+    cp "$DATADIR/"*.json "$ASSETSDIR/"
+fi
+
+#create index
+if .scripts/create-index.pl
+then
+    for F in index.json index_stompkeys.json
+    do
+        mv "$TMPDIR/$F" "$DATADIR/"
+        cp "$DATADIR/$F" "$ASSETSDIR/"
+    done
+fi

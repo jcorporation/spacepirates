@@ -9,6 +9,6 @@ Es ist soweit! Nach monatelanger, harter und schweißtreibender Arbeit ist die e
 
 Die SpacePirates Downloadseite wurde auch schon aktualisiert, aber auch alle Downloads der alten Version bleiben online.
 
-**[Jetzt Oma Binkels SpacePirates herunterladen!]({{ site.baseurl }}/Downloads)**
+**[Jetzt Oma Binkels SpacePirates herunterladen!]({{ site.baseurl }}/Publikationen/)**
 
 
