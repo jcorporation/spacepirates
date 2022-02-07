@@ -1,4 +1,18 @@
 {
+  "Freeport": {
+    "Name": "Freeport",
+    "Sektor": "Sektor D1",
+    "Bewohner": "Piraten",
+    "Politisches": "Piratentreffpunkt",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Freeport"
+  },
+  "Gimis_Bar": {
+    "Name": "Gimis Bar",
+    "Sektor": "in vielen",
+    "Bewohner": "Piraten",
+    "Politisches": "Piratentreffpunkt",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Gimis_Bar"
+  },
   "Halfway": {
     "Name": "Halfway",
     "Sektor": "Trullimperium",
@@ -19,6 +33,13 @@
     "Bewohner": "Glukorianer",
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Weltraumphänomene/Halloween-Nebel"
+  },
+  "Piratenbucht": {
+    "Name": "Piratenbucht",
+    "Sektor": "immer woanders",
+    "Bewohner": "Piraten",
+    "Politisches": "Piratentreffpunkt",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Piratenbucht"
   },
   "Saloniki": {
     "Name": "Saloniki",

@@ -13,6 +13,13 @@
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa"
   },
+  "Krandor": {
+    "Name": "Krandor",
+    "Planet": "Alastor",
+    "Größe": "Kleinstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Rebellen/Alastor"
+  },
   "Neu-Neo-Tokio": {
     "Name": "Neu-Neo-Tokio",
     "Planet": "Kabukicho-Prime",

@@ -1,4 +1,15 @@
 {
+  "Alastor": {
+    "Name": "Alastor",
+    "Typ": "Dschungelplanet",
+    "Sektor": "Neutrale Zone",
+    "Monde": "0",
+    "Einwohner": "Rebellen",
+    "Hauptstadt": "Krandor",
+    "Besiedelung": "eine mittelgroße Rebellenstadt",
+    "Politisches": "Rebellen",
+    "Link": "/Weltraum/Rebellen/Alastor"
+  },
   "Brarbragroz": {
     "Name": "Brarbragroz",
     "Typ": "Erdähnlich",

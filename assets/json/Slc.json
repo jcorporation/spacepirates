@@ -34,6 +34,14 @@
     "Position": "Mafiaboss",
     "Link": "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder"
   },
+  "Anna_Moretti": {
+    "Name": "Anna Moretti",
+    "Rasse": "Mensch",
+    "Kategorie": "Rebell",
+    "Wohnort": "Alastor",
+    "Position": "Rebellenanführer",
+    "Link": "/Weltraum/Rebellen/"
+  },
   "Arnold_Easteregger": {
     "Name": "Arnold Easteregger",
     "Rasse": "Spacepear",
@@ -78,6 +86,13 @@
     "Position": "Kneipenbesitzer",
     "Link": "/Weltraum/Händler_und_Halunken"
   },
+  "Bob": {
+    "Name": "Bob",
+    "Rasse": "Atlanter",
+    "Kategorie": "Kneipenbesitzer",
+    "Wohnort": "Freeport",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Freeport"
+  },
   "Britney_S_Pears": {
     "Name": "Britney S. Pears",
     "Rasse": "SpacePear",
@@ -93,6 +108,14 @@
     "Position": "Bekannter Kapitän des großen Trullschiffes Gateland.",
     "Wohnort": "Trullmania",
     "Link": "/Weltraum/Militär"
+  },
+  "Cyril_Karpow": {
+    "Name": "Cyril Karpow",
+    "Rasse": "Mensch",
+    "Kategorie": "Pirat",
+    "Wohnort": "Raumschiff Sternenwolf",
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Kapitäne"
   },
   "Dar_Balga": {
     "Name": "Dar Balga",
@@ -125,6 +148,13 @@
     "Wohnort": "",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Doc_Brown": {
+    "Name": "Doc Brown",
+    "Rasse": "Samnese",
+    "Kategorie": "Arzt",
+    "Wohnort": "Freeport",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Freeport"
   },
   "Dolly_Laster": {
     "Name": "Dolly Laster",
@@ -169,6 +199,14 @@
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
+  "Faruk_der_Sternenfahrer": {
+    "Name": "Faruk der Sternenfahrer",
+    "Rasse": "Mensch",
+    "Kategorie": "Pirat",
+    "Wohnort": "Raumschiff Goldene Rukh",
+    "Position": "Piratenkapitän",
+    "Link": "/Weltraum/Piraten/Kapitäne"
+  },
   "Fiat_el_Parro": {
     "Name": "Fiat el Parro",
     "Rasse": "Mensch",
@@ -183,6 +221,13 @@
     "Kategorie": "Herrscher",
     "Wohnort": "Ennos",
     "Link": "/Weltraum/Sektoren/D1/Ennos"
+  },
+  "Gimi": {
+    "Name": "Gimi",
+    "Rasse": "Trull",
+    "Kategorie": "Kneipenbesitzer",
+    "Wohnort": "Gimis Bar",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Gimis_Bar"
   },
   "Halram_Baxu": {
     "Name": "Halram Baxu",
@@ -250,6 +295,14 @@
     "Wohnort": "Scrabnambu",
     "Position": "",
     "Link": "/Weltraum/Händler_und_Halunken"
+  },
+  "Javier_Moretti": {
+    "Name": "Javier Moretti",
+    "Rasse": "Mensch",
+    "Kategorie": "Rebell",
+    "Wohnort": "Alastor",
+    "Position": "Rebellenanführer",
+    "Link": "/Weltraum/Rebellen/"
   },
   "Jean_Damme_van_Raumcloud": {
     "Name": "Jean Damme van Raumcloud",
@@ -360,6 +413,20 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Naztur": {
+    "Name": "Naztur",
+    "Rasse": "Trull",
+    "Kategorie": "Pirat",
+    "Wohnort": "Piratenbucht",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Piratenbucht"
+  },
+  "Old_Williams": {
+    "Name": "Old Williams",
+    "Rasse": "Mensch",
+    "Kategorie": "Händler",
+    "Wohnort": "Piratenbucht",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Piratenbucht"
+  },
   "Olf_Dundgren": {
     "Name": "Olf Dundgren",
     "Rasse": "Samnese",
@@ -367,6 +434,13 @@
     "Wohnort": "",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Oma_Binkel": {
+    "Name": "Oma Binkel",
+    "Rasse": "Mensch",
+    "Kategorie": "Kneipenbesitzer",
+    "Wohnort": "Freeport",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Freeport"
   },
   "Professor_Robotto": {
     "Name": "Professor Robotto",
@@ -451,6 +525,14 @@
     "Position": "Ninja Großmeister",
     "Link": "/Weltraum/SpaceNinjas/Clans/Akamachi-Clan"
   },
+  "Simone_de_Montfort": {
+    "Name": "Simone de Montfort",
+    "Rasse": "Mensch",
+    "Kategorie": "Pirat",
+    "Wohnort": "Raumschiff Sternenwolf",
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Kapitäne"
+  },
   "Stan_Stanton": {
     "Name": "Stan Stanton",
     "Rasse": "Samnese",
@@ -469,6 +551,14 @@
     "Wohnort": "Neuchina",
     "Position": "",
     "Link": "/Weltraum/Händler_und_Halunken"
+  },
+  "Tatjana_Molotowa": {
+    "Name": "Tatjana Molotowa",
+    "Rasse": "Mensch",
+    "Kategorie": "Pirat",
+    "Wohnort": "Raumschiff Sternenwolf",
+    "Position": "Piratenkapitän",
+    "Link": "/Weltraum/Piraten/Kapitäne"
   },
   "Troedler_Abraham": {
     "Name": "Trödler Abraham",
@@ -557,5 +647,13 @@
     "Wohnort": "Kabukicho-Prime",
     "Position": "Ninja Großmeister",
     "Link": "/Weltraum/SpaceNinjas/Clans/Leiser-Wind-des-Schicksals-Dojo"
+  },
+  "Zorka": {
+    "Name": "Zorka",
+    "Rasse": "Mensch",
+    "Kategorie": "Priester",
+    "Wohnort": "Piratenbucht",
+    "Position": "",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Piratenbucht"
   }
 }
