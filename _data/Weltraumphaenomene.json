@@ -88,7 +88,10 @@
   },
   "Quantenfluktuation": {
     "Name": "Quantenfluktuation",
-    "Sektor": "Sternenrepublik Neuasien",
+    "Sektor": [
+      "Sternenrepublik Neuasien",
+      "Sektor D3"
+    ],
     "Beschreibung": "",
     "Politisches": "",
     "Link": "/Weltraum/Weltraumphänomene/Quantenfluktuation"

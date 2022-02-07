@@ -7,7 +7,9 @@ sitedata:
     Weltraumphaenomene:
         Quantenfluktuation:
             Name: "Quantenfluktuation"
-            Sektor: "Sternenrepublik Neuasien"
+            Sektor:
+                - "Sternenrepublik Neuasien"
+                - "Sektor D3"
             Beschreibung: ""
             Politisches: ""
 ---

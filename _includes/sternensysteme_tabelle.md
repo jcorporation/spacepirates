@@ -8,7 +8,8 @@
     {% assign Sektor = system[1].Sektor %}
     {% assign Politisches = system[1].Politisches %}
     {% assign Link = system[1].Link %}
-    {% if include.filter_field == '' or system[1][include.filter_field] == include.filter_value or system[1][include.filter_field].Text == include.filter_value %}
+
+    {% if include.filter_field == '' or system[1][include.filter_field] contains include.filter_value %}
         <tr>
             <td>{% include printlink.md data=Name link=Link %}</td>
             <td>{% include printlink.md data=Sektor type='Sektoren' %}</td>

@@ -9,7 +9,7 @@
     {% assign Bewohner = station[1].Bewohner %}
     {% assign Politisches = station[1].Politisches %}
     {% assign Link = station[1].Link %}
-    {% if include.filter_field == '' or station[1][include.filter_field] == include.filter_value or station[1][include.filter_field].Text == include.filter_value %}
+    {% if include.filter_field == '' or station[1][include.filter_field] contains include.filter_value %}
         <tr>
             <td>{% include printlink.md data=Name link=Link %}</td>
             <td>{% include printlink.md data=Sektor type='Sektoren' %}</td>

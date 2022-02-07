@@ -20,11 +20,25 @@
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio"
   },
+  "Neu_Palermo": {
+    "Name": "Neu Palermo",
+    "Planet": "Nuova Sicilia",
+    "Größe": "Kleinstadt",
+    "Kategorie": "Mafiastadt",
+    "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia"
+  },
   "Sila_City": {
     "Name": "Sila City",
     "Planet": "Sampuk",
     "Groesse": "Millionenstadt",
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
+  },
+  "Xorlok": {
+    "Name": "Xorlok",
+    "Planet": "Xorlok",
+    "Größe": "Kleinstadt",
+    "Kategorie": "Mafiastadt",
+    "Link": "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok"
   }
 }

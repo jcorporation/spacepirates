@@ -21,6 +21,17 @@
     "Politisches": "Keine politischen Beziehungen",
     "Link": "/Weltraum/DU-3864366"
   },
+  "Ennos": {
+    "Name": "Ennos",
+    "Typ": "Dschungelplanet",
+    "Sektor": "Sektor D1",
+    "Monde": "5",
+    "Einwohner": "Glukorianer",
+    "Hauptstadt": "",
+    "Besiedelung": "",
+    "Politisches": "Glukorianer",
+    "Link": "/Weltraum/Sektoren/D1/Ennos"
+  },
   "Kabukicho-Prime": {
     "Name": "Kabukicho-Prime",
     "Typ": "Dschungelplanet",
@@ -64,6 +75,17 @@
     "Besiedelung": "Forschungsstation",
     "Politisches": "In einer Sperrzone",
     "Link": "/Weltraum/Aliens/Samnesen/Nova_Ceti"
+  },
+  "Nuova_Sicilia": {
+    "Name": "Nuova Sicilia",
+    "Typ": "Mediterraner Planet",
+    "Sektor": "Freihandelszone",
+    "Monde": "5",
+    "Einwohner": "Menschen",
+    "Hauptstadt": "keine",
+    "Besiedelung": "viele Kleinstädte",
+    "Politisches": "italienischen Mafia",
+    "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia"
   },
   "Sampuk": {
     "Typ": "Felsplanet",
@@ -119,5 +141,16 @@
     "Besiedelung": "Das großes Festival",
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Neutrale_Zone/Woodstock"
+  },
+  "Xorlok": {
+    "Name": "Xorlok",
+    "Typ": "tropischer Planet",
+    "Sektor": "Neutrale Zone",
+    "Monde": "12",
+    "Einwohner": "Kahadrier",
+    "Hauptstadt": "Xorlok",
+    "Besiedelung": "eine große Stadt",
+    "Politisches": "neutraler Planet",
+    "Link": "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok"
   }
 }

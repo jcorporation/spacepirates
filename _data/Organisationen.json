@@ -1,4 +1,19 @@
 {
+  "Akamachi-Clan": {
+    "Name": "Akamachi-Clan",
+    "Kategorie": "Ninja-Clan",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Akamachi-Clan"
+  },
+  "Baneros_Banditos": {
+    "Name": "Baneros Banditos",
+    "Kategorie": "SpaceRocker-Bande",
+    "Link": "/Weltraum/SpaceRocker/Baneros_Banditos/"
+  },
+  "Clan_der_Schildkroete": {
+    "Name": "Clan der Schildkröte",
+    "Kategorie": "Ninja-Clan",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkröte"
+  },
   "Destroying_Planets": {
     "Name": "Destroying Planets",
     "Kategorie": "Rockband",
@@ -8,6 +23,21 @@
     "Name": "Dinofanatics",
     "Kategorie": "Verein",
     "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/"
+  },
+  "Goemon-Ishikawa-Highschool": {
+    "Name": "Goemon-Ishikawa-Highschool",
+    "Kategorie": "Ninja-Clan",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Goemon-Ishikawa-Highschool"
+  },
+  "Hashimara-Clan": {
+    "Name": "Hashimara-Clan",
+    "Kategorie": "Ninja-Clan",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Hashimara-Clan"
+  },
+  "Hattori-Hanzo-Akademie": {
+    "Name": "Hattori-Hanzo-Akademie",
+    "Kategorie": "Ninja-Clan",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Hattori-Hanzo-Akademie"
   },
   "Heavensgate": {
     "Name": "Heavensgate",
@@ -19,10 +49,25 @@
     "Kategorie": "Gewerkschaft",
     "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/Roboter"
   },
+  "Italienische_Mafia": {
+    "Name": "Italienische Mafia",
+    "Kategorie": "Mafia",
+    "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/"
+  },
+  "Kahadrische_Mafia": {
+    "Name": "Kahadrische Mafia",
+    "Kategorie": "Mafia",
+    "Link": "/Weltraum/SpaceMafia/Kahadrische_Mafia/"
+  },
   "Kinder_der_Sternenleere": {
     "Name": "Kinder der Sternenleere",
     "Kategorie": "Sekte",
     "Link": "/Weltraum/Sekten"
+  },
+  "Leiser-Wind-des-Schicksals-Dojo": {
+    "Name": "Leiser-Wind-des-Schicksals-Dojo",
+    "Kategorie": "Ninja-Clan",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Leiser-Wind-des-Schicksals-Dojo"
   },
   "Marmonen": {
     "Name": "Marmonen",
@@ -38,6 +83,11 @@
     "Name": "Solar Eclipse",
     "Kategorie": "Rockband",
     "Link": "/Weltraum/SpaceRocker/Rockbands"
+  },
+  "SpaceAngels": {
+    "Name": "SpaceAngels",
+    "Kategorie": "SpaceRocker-Bande",
+    "Link": "/Weltraum/SpaceRocker/SpaceAngels/"
   },
   "Vereinigung_zur_Foerderung_von_Ostern": {
     "Name": "Vereinigung zur Förderung von Ostern",

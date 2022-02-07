@@ -11,7 +11,7 @@
     {% assign Politisches = planet[1].Politisches %}
     {% assign Link = planet[1].Link %}
 
-    {% if include.filter_field == '' or planet[1][include.filter_field] == include.filter_value or planet[1][include.filter_field].Text == include.filter_value %}
+    {% if include.filter_field == '' or planet[1][include.filter_field] contains include.filter_value %}
         <tr>
             <td>{% include printlink.md data=Name link=Link %}</td>
             <td>{% include printlink.md data=Sektor type='Sektoren' %}</td>

@@ -2,6 +2,11 @@
 layout: page
 permalink: /Weltraum/SpaceRocker/SpaceAngels
 title: SpaceAngels
+sitedata:
+    Organisationen:
+        SpaceAngels:
+            Name: SpaceAngels
+            Kategorie: SpaceRocker-Bande
 ---
 
 # SpaceAngels

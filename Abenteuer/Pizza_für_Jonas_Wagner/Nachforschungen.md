@@ -12,7 +12,7 @@ Die Ninjas von der Goemon-Ishikawa-Highschool haben den Pizzatransport nur angeg
 
 Die Ninjas von der Hattori-Hanzo-Akademie wissen, dass im Pizzatransporter ein getarnter Ebook-Reader versteckt ist, den sie zum Clanoberhaupt (Meister Hattori Hanzo) bringen sollen. Sie wissen nicht, was in dem Buch steht, bestehen aber darauf, dass es rechtmäßiges Eigentum der Hattori-Hanzo-Akademie sei, welches vom Hashimara-Clan entwendet wurde und mit diesem Pizzatransporter außer Landes geschmuggelt werden sollte.
 
-- zur Beschreibung der [Ninja-Clans]({{ site.baseurl }}/Weltraum/Spaceninjas/Clans)
+- zur Beschreibung der [Ninja-Clans]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans)
 
 ## Informationen aus sonstigen Quellen
 

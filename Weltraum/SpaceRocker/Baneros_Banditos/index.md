@@ -2,6 +2,11 @@
 layout: page
 permalink: /Weltraum/SpaceRocker/Baneros_Banditos/
 title: Baneros Banditos
+sitedata:
+    Organisationen:
+        Baneros_Banditos:
+            Name: Baneros Banditos
+            Kategorie: SpaceRocker-Bande
 ---
 
 # Baneros Banditos

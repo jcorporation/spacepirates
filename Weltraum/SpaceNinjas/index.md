@@ -1,21 +1,13 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/SpaceNinjas/
 title: SpaceNinjas
 ---
 
 # SpaceNinjas
 
-- [Ninja-Clans]({{ site.baseurl }}/Weltraum/Spaceninjas/Clans)
+- [Ninja-Clans]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/)
 
-<aside>
-<div class="anmerkung">
-## SpaceNinjas in der Freihandelszone
-
-Schon seit längeren halten die SpaceNinjas Neuasien in Atem, doch jetzt wagen sie sich bis in die Freihandelszone vor. Kapitän Explexes vermutet den Clan der Goemon-Ishikawa-Highschool hinter dem Überfall: „Teenies mit hippen Frisuren, Ninjakostümen und grässlicher Rockmusik sind ein klares Zeichen ihrer Urheberschaft.“ Der Handelsrat berät in einer Sondersitzung geeignete Gegenmaßnahmen.
-
-</div>
-</aside>
 Die SpaceNinjas sehen sich als direkte Nachkommen der Ninjas des vorindustriellen Japan und verweisen stolz auf ihre jahrtausendealten Traditionen. Heute leben die meisten SpaceNinjas auf Kabukicho-Prime, größtenteils in Neu-Neo-Tokio, teilweise aber auch in geheimen Ninja-Klöstern im Dschungel. Die Ninjas sind aber natürlich nicht nur auf Kabukicho-Prime zu finden, längst gibt es kleinere und größere Ninja-Klöster in allen bekannten Sektoren.
 
 Ninjas tragen unauffällige und sehr bequeme schwarze Ninjaanzüge mit Maske und natürlich immer ihr Clanabzeichen. Sie sind aber auch Meister der Verkleidung, wobei sie traditionelle Verkleidungen bevorzugen. Wenn man also inmitten Kabukicho-Primes auf mittelalterliche Wandermönche, Reispflücker in Jutelumpen oder hölzerne Bauchläden trifft, so hat man höchstwahrscheinlich einen Ninja vor sich.
@@ -31,4 +23,3 @@ Im Gegensatz zu Pirat ist Ninja ein anerkannter Ausbildungsberuf. Es kann sich a
 Natürlich gibt es in Neu-Neo-Tokio auch Ninjaturniere, in denen die verschiedenen Dojos gegeneinander antreten. Ein Turniersieg bringt nicht nur viel Geld ein, sondern auch Ruhm und Ehre, denn diese Turniere sind sowohl bei Einheimischen als auch bei Touristen äußerst beliebt. Bei gut besetzten Turnieren ist selbst die gigantische Asia Media Arena (teilweise mehrfach) ausverkauft.
 
 Teilnehmer vom Leisen Wind des Schicksals haben gigantische Quoten, allerdings würden nur sehr unbedarfte Leute (oder Wettbetrüger) auf sie tippen, da dieser Clan bisher bei keinem einzigen Turnier auch nur über die Vorrunde hinausgekommen ist. Den Sieg machen meist der Clan der Schildkröte und der Hashimara-Clan unter sich aus. Dementsprechend schlecht sind deren Quoten.
-

@@ -9,6 +9,16 @@
     "Hauptplanet": "Sampuk",
     "Link": "/Weltraum/Aliens/Samnesen/"
   },
+  "Sektor_D1": {
+    "Name": "Sektor D1",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/D1/"
+  },
+  "Sektor_D3": {
+    "Name": "Sektor D3",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/D3/"
+  },
   "Sternenrepublik_Neuasien": {
     "Name": "Sternenrepublik Neuasien",
     "Hauptplanet": "Xinnua",

@@ -9,7 +9,8 @@
     {% assign Groesse = stadt[1].Groesse %}
     {% assign Kategorie = stadt[1].Kategorie %}
     {% assign Link = stadt[1].Link %}
-    {% if include.filter_field == '' or stadt[1][include.filter_field] == include.filter_value or stadt[1][include.filter_field].Text == include.filter_value %}
+
+    {% if include.filter_field == '' or stadt[1][include.filter_field] contains include.filter_value %}
         <tr>
             <td>{% include printlink.md data=Name link=Link %}</td>
             <td>{% include printlink.md data=Planet type='Planeten' %}</td>

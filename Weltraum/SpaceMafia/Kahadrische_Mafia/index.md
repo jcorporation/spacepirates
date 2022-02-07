@@ -1,7 +1,12 @@
 ---
 layout: page
-permalink: /Weltraum/SpaceMafia/Kahadrische
+permalink: /Weltraum/SpaceMafia/Kahadrische_Mafia/
 title: Kahadrische Mafia
+sitedata:
+    Organisationen:
+        Kahadrische_Mafia:
+            Name: Kahadrische Mafia
+            Kategorie: Mafia
 ---
 
 # Kahadrische Mafia
@@ -12,6 +17,5 @@ Ihr Feinkostgroßhandel läuft gut, aber nicht so gut wie ihr Tintenfischkringel
 
 Die kahadrische Mafia besitzt eine streng militärisch-hierarchische Struktur. Die Doppelspitze besteht aus dem Glukorianer Don Calamari Corleone und dem Kahadrier Angrosch. Angrosch ist für den handfesten Bereich der Mafia verantwortlich, während Don Calamari sich um die Geschäfte kümmert. Sie treten meist zu zweit auf und sind ein seltsames Paar, was sich aber ausnehmend gut versteht. Daher besteht die kahadrische Mafia nicht nur aus Kahadriern, sondern auch aus Glukorianer. Die Glukorianer halten sich aber etwas im Hintergrund, da sie auch ohne Mafiahintergrund in allen Sektoren verfolgt werden.
 
-- [Xorlok]({{ site.baseurl }}/Weltraum/Spacemafia/Kahadrische_xorlok)
-- [Mitglieder]({{ site.baseurl }}/Weltraum/Spacemafia/Kahadrische_mitglieder)
-
+- [Xorlok]({{ site.baseurl }}/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok)
+- [Mitglieder]({{ site.baseurl }}/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder)

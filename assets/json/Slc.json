@@ -26,6 +26,14 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Angrosch": {
+    "Name": "Angrosch",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Mafiamitglied",
+    "Wohnort": "Xorlok",
+    "Position": "Mafiaboss",
+    "Link": "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder"
+  },
   "Arnold_Easteregger": {
     "Name": "Arnold Easteregger",
     "Rasse": "Spacepear",
@@ -86,6 +94,14 @@
     "Wohnort": "Trullmania",
     "Link": "/Weltraum/Militär"
   },
+  "Dar_Balga": {
+    "Name": "Dar Balga",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Mafiamitglied",
+    "Wohnort": "Xorlok",
+    "Position": "",
+    "Link": "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder"
+  },
   "David_Freedomhoff": {
     "Name": "David Freedomhoff",
     "Rasse": "Mensch",
@@ -118,6 +134,22 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Don_Calamari_Corleone": {
+    "Name": "Don Calamari Corleone",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Mafiamitglied",
+    "Wohnort": "Xorlok",
+    "Position": "Mafiaboss",
+    "Link": "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder"
+  },
+  "Don_Padre_Camillo": {
+    "Name": "Don Padre Camillo",
+    "Rasse": "Mensch",
+    "Kategorie": "Mafiamitglied",
+    "Wohnort": "Nuova Sicilia",
+    "Position": "Mafiaboss",
+    "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder"
+  },
   "Edward_Bakutha": {
     "Name": "Edward Bakutha",
     "Rasse": "Mensch",
@@ -137,6 +169,21 @@
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
+  "Fiat_el_Parro": {
+    "Name": "Fiat el Parro",
+    "Rasse": "Mensch",
+    "Kategorie": "Mafiamitglied",
+    "Wohnort": "Nuova Sicilia",
+    "Position": "",
+    "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder"
+  },
+  "Fuerst_Los": {
+    "Name": "Fürst Los",
+    "Rasse": "Glukorianer",
+    "Kategorie": "Herrscher",
+    "Wohnort": "Ennos",
+    "Link": "/Weltraum/Sektoren/D1/Ennos"
+  },
   "Halram_Baxu": {
     "Name": "Halram Baxu",
     "Rasse": "Trull",
@@ -155,6 +202,22 @@
     "Wohnort": "Neuchina",
     "Link": "/Weltraum/Militär"
   },
+  "Hashimoto": {
+    "Name": "Hashimoto",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Ninja",
+    "Wohnort": "Kabukicho-Prime",
+    "Position": "Ninja Großmeister",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Hashimara-Clan"
+  },
+  "Hattori_Hanzo": {
+    "Name": "Hattori Hanzo",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Ninja",
+    "Wohnort": "Kabukicho-Prime",
+    "Position": "Ninja Großmeister",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Hattori-Hanzo-Akademie"
+  },
   "Holly_Day": {
     "Name": "Holly Day",
     "Rasse": "Mensch",
@@ -162,6 +225,14 @@
     "Wohnort": "Two Eyed Jack",
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
+  },
+  "Hong_Gong": {
+    "Name": "Hong Gong",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Ninja",
+    "Wohnort": "Kabukicho-Prime",
+    "Position": "Ninja Großmeister",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Goemon-Ishikawa-Highschool"
   },
   "Ivy": {
     "Name": "Tsagul",
@@ -238,6 +309,14 @@
     "Wohnort": "",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Luka_Calibre": {
+    "Name": "Luka Calibre",
+    "Rasse": "Mensch",
+    "Kategorie": "Mafiamitglied",
+    "Wohnort": "Nuova Sicilia",
+    "Position": "",
+    "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder"
   },
   "Mad_Harry": {
     "Name": "Mad Harry",
@@ -364,6 +443,14 @@
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
+  "Sha_Dong": {
+    "Name": "Sha Dong",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Ninja",
+    "Wohnort": "Kabukicho-Prime",
+    "Position": "Ninja Großmeister",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Akamachi-Clan"
+  },
   "Stan_Stanton": {
     "Name": "Stan Stanton",
     "Rasse": "Samnese",
@@ -447,6 +534,14 @@
     "Wohnort": "unbekannt",
     "Link": "/Weltraum/Verrückte_Wissenschaftler"
   },
+  "Yashimoto": {
+    "Name": "Yashimoto",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Ninja",
+    "Wohnort": "Kabukicho-Prime",
+    "Position": "Ninja Großmeister",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkröte"
+  },
   "Yin-Yang-Yong": {
     "Name": "Yin-Yang-Yong",
     "Rasse": "Neuasiat",
@@ -454,5 +549,13 @@
     "Wohnort": "Neu-Neo-Tokio",
     "Position": "",
     "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio"
+  },
+  "Zhao_Xue": {
+    "Name": "Zhao Xue",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Ninja",
+    "Wohnort": "Kabukicho-Prime",
+    "Position": "Ninja Großmeister",
+    "Link": "/Weltraum/SpaceNinjas/Clans/Leiser-Wind-des-Schicksals-Dojo"
   }
 }

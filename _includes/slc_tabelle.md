@@ -10,6 +10,7 @@
     {% assign Kategorie = slc[1].Kategorie %}
     {% assign Position = slc[1].Position %}
     {% assign Link = slc[1].Link %}
+
     {% if include.filter_field == '' or slc[1][include.filter_field] contains include.filter_value %}
         <tr>
             <td>{% include printlink.md data=Name link=Link %}</td>
