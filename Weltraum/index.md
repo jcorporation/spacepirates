@@ -17,7 +17,7 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 - [Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/)
 - [Technologie]({{ site.baseurl }}/Weltraum/Technologie/)
 - [Historie]({{ site.baseurl }}/Weltraum/Historie)
-- [Aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Polische_Lage/)
+- [Aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Politische_Lage/)
 - [Weltraumtiere]({{ site.baseurl }}/Weltraum/Weltraumtiere)
 - [Weltraumphänomene]({{ site.baseurl }}/Weltraum/Weltraumphänomene/)
 - [Planeten und Sternensysteme]({{ site.baseurl }}/Weltraum/Planeten_und_Sternensysteme)

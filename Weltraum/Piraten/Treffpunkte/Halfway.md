@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: raumstation
 permalink: /Weltraum/Piraten/Treffpunkte/Halfway
 title: Halfway
 
@@ -17,7 +17,6 @@ sitedata:
             Kategorie: "Händler"
             Wohnort: "Halfway"
             Position: ""
-
 ---
 
 # Halfway
@@ -29,8 +28,6 @@ Ursprünglich sollte auf Halfway eine Forschungsstation gebaut werden. Dieses Vo
 ## Jacksons Bar
 
 Jacksons Bar ist in jeder Hinsicht das Zentrum Halfways. Örtlich, weil Energie und Antivakuum hier produziert werden, sozial, weil es der einzige Treffpunkt auf diesem öden Asteroiden ist. Musik, Tanz, sexy Personal (dessen Aufgabe teilweise daraus besteht, sich zu entkleiden) und harte alkoholische Getränke heben die Stimmung selbst des miesepetrigsten Piraten schnell. Wer trotzdem noch zu viel Geld hat, kann es problemlos beim Glücksspiel oder mit Freudenmädchen loswerden.
-
-{% include raumstation.md data=page.sitedata.Raumstationen.Halfway %}
 
 ## Trödler Abraham
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen
+permalink: /Weltraum/Politische_Lage/Atlanter_vs_SpaceAmazonen
 title: Atlanter vs Spaceamazonen
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: raumstation
 permalink: /Weltraum/Raumstationen/Saloniki
 title: Saloniki
 
@@ -33,17 +33,3 @@ Die Spezialität des Restaurants sind Kraken in allen möglichen Variationen. Ne
 ## Golfabschlagplatz
 
 Gleich neben dem Restaurant befindet sich ein Golfabschlagplatz, von dem man aus Golfbälle in das Nichts schlagen kann. Die Golfbälle verschwinden einfach mit einem kurzen Glimmen, wenn sie in das Nichts geschlagen werden.
-
-
-<aside>
-<table data-type="raumstation">
-<caption>Saloniki</caption>
-<tbody>
-<tr><th>Sektor</th><td>Rand des Universums</td></tr>
-<tr><th>Bewohner</th><td>Griechen</td></tr>
-<tr><th>Politisches</th><td>Unabhängig</td></tr>
-<tr><th>Erwähnungen</th><td>[Saloniki]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
-

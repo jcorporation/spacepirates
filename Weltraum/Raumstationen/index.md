@@ -14,4 +14,4 @@ Militärische Raumstationen sichern oft ein strategisch wertvolles Gebiet ab und
 
 Alle anderen Raumstationen sind öffentlich zugänglich, sie gehören meist dem Staat oder irgendwelchen Handelsgremien. Auf diesen Raumstationen ist meist Tag und Nacht etwas los und die Bars sind immer gut besucht. Sie sind die Häfen des 40. Jahrhunderts. Neuerdings ist es auch in Mode gekommen, dass Schwerreiche ihre eigenen kleinen Raumstationen betreiben.
 
-[Sektor,Bewohner,Politisches]({{ site.baseurl }}/Objectlist:raumstation)
+{% include raumstationen_tabelle.md filter_field="" filter_value="" %}

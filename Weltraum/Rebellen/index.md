@@ -2,6 +2,24 @@
 layout: page
 permalink: /Weltraum/Rebellen/
 title: Rebellen
+sitedata:
+    Organisationen:
+        Rebellen:
+            Name: Rebellen
+            Kategorie: ""
+    Slc:
+        Anna_Moretti:
+            Name: "Anna Moretti"
+            Rasse: "Mensch"
+            Kategorie: "Rebell"
+            Wohnort: "Alastor"
+            Position: "Rebellenanführer"
+        Javier_Moretti:
+            Name: "Javier Moretti"
+            Rasse: "Mensch"
+            Kategorie: "Rebell"
+            Wohnort: "Alastor"
+            Position: "Rebellenanführer"
 ---
 
 # Rebellen
@@ -20,13 +38,5 @@ Javier war ein ranghohes Mitglied des Militärs des Handelsrats und kennt daher 
 
 Anna ist die Tochter eines [italienischen Mafiabosses]({{ site.baseurl }}/Weltraum/SpaceMafia/Italienische) und hat ein dementsprechendes südländisches Temperament. Sie kam schon früh mit Korruption in Kontakt und hat sich mit ihrer Familie verstritten.
 
-<table data-order="cols" data-type="slc">
-<caption>Rebellenmitglieder</caption>
-<thead>
-<tr><th>Name</th><th>Rasse</th><th>Kategorie</th><th>Wohnort</th><th>Erwähnungen</th></tr>
-</thead>
-<tbody>
-<tr><td>Anna Moretti</td><td>[Rebellen]({{ site.baseurl }}/Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</Td><td>)({{ site.baseurl }}/Weltraum/Rebellen)</td><td>[search[Anna Moretti]({{ site.baseurl }}/Alastor]({{ site.baseurl }}/Weltraum/Rebellen/Alastor)</Td><td>)</td></tr>
-<tr><td>Javier Moretti</td><td>[Rebellen]({{ site.baseurl }}/Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</Td><td>)({{ site.baseurl }}/Weltraum/Rebellen)</td><td>[search[Javier Moretti]({{ site.baseurl }}/Alastor]({{ site.baseurl }}/Weltraum/Rebellen/Alastor)</Td><td>)</td></tr>
-</tbody>
-</table>
+{% include slc.md data=page.sitedata.Slc.Anna_Moretti %}
+{% include slc.md data=page.sitedata.Slc.Javier_Moretti %}

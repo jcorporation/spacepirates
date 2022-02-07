@@ -1,12 +1,34 @@
 ---
-layout: page
+layout: raumstation
 permalink: /Weltraum/Piraten/Treffpunkte/Piratenbucht
 title: Piratenbucht
+sitedata:
+    Raumstationen:
+        Piratenbucht:
+            Name: "Piratenbucht"
+            Sektor: "immer woanders"
+            Bewohner: "Piraten"
+            Politisches: "Piratentreffpunkt"
+    Slc:
+        Naztur:
+            Name: "Naztur"
+            Rasse: "Trull"
+            Kategorie: "Pirat"
+            Wohnort: "Piratenbucht"
+        Old_Williams:
+            Name: "Old Williams"
+            Rasse: "Mensch"
+            Kategorie: "Händler"
+            Wohnort: "Piratenbucht"
+        Zorka:
+            Name: "Zorka"
+            Rasse: "Mensch"
+            Kategorie: "Priester"
+            Wohnort: "Piratenbucht"
+            Position: ""
 ---
 
-
 # Piratenbucht
-
 
 Die Piratenbucht ist ein bekannter Weltraumhafen und Piratentreffpunkt. Diese Raumstation hat eine Macke, so dass sie von Zeit zu Zeit einen unberechenbaren Raumzeitsprung ausführt. Zum Glück springt sie meist weiter im Raum als in der Zeit, aber es kann durchaus passieren, dass temporär zwei Piratenbuchten existieren.
 
@@ -20,59 +42,16 @@ Der Eimer ist die abgewirtschaftetste Piratenspelunke des Universums. Hier finde
 
 In der Piratenbucht gibt es den großen Piratenmarkt, der an jedem Tag der Woche geöffnet hat. Hier kann jeder, gegen eine geringe Gebühr, Sachen verkaufen. Den Großteil der Anbieter machen aber professionelle Händler aus. Auf dem Piratenmarkt lassen sich ab und an auch seltene Teile zu einem unschlagbaren Preis finden, eine Gebrauchtwarengarantie sucht man hier allerdings vergeblich. Dafür kann man hier auch gute Kontakte zu erfahrenen Piraten und gewitzten Händlern knüpfen.
 
-
-<aside>
-<table data-type="raumstation">
-<caption>Piratenbucht</caption>
-<tbody>
-<tr><th>Sektor</th><td>immer woanders</td></tr>
-<tr><th>Bewohner</th><td>[Piraten]({{ site.baseurl }}/Weltraum/Piraten)</td></tr>
-<tr><th>Politisches</th><td>[Piratentreffpunkt]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte)</td></tr>
-<tr><th>Erwähnungen</th><td>[Piratenbucht]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-<table data-type="slc">
-<caption>Naztur</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull)</td></tr>
-<tr><th>Kategorie</th><td>Pirat</td></tr>
-<tr><th>Wohnort</th><td>[Piratenbucht]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Piratenbucht)</td></tr>
-<tr><th>Erwähnungen</th><td>[Naztur]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
+{% include slc.md data=page.sitedata.Slc.Naztur %}
 
 ## Old Williams Spirituosen-Brennerei
 
 Old Williams ist der bekannteste Schnapsbrenner des Universums. Sein mit Falten durchgezogenes Gesicht und vor allem sein guter Schnaps hinterlassen einen bleibenden Eindruck. Er brennt ausschließlich harte Schnäpse, denen nur harte Piraten gewachsen sind. Das erste Glas ist gesund, das zweite macht blind, aber niemand ist so verrückt zwei Gläser von Old Williams Schnaps kurz hintereinander zu trinken und die meisten sind dazu auch nicht in der Lage.
 
-
-<aside>
-<table data-type="slc">
-<caption>Old Williams</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td></tr>
-<tr><th>Kategorie</th><td>Händler</td></tr>
-<tr><th>Wohnort</th><td>[Piratenbucht]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Piratenbucht)</td></tr>
-<tr><th>Erwähnungen</th><td>[Old Williams]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
+{% include slc.md data=page.sitedata.Slc.Old_Williams %}
 
 ## Zorkas Wohnküche
 
 Zorka ist die bekannteste Vodoo-Priesterin und Hellseherin des Universums. Sie empfängt ihre Gäste immer in ihrer Wohnküche, auf deren Gasherd ständig ein Topf vor sich hin köchelt, dessen undefinierbarer blubbernder und brodelnder Inhalt einen unheimlichen Geruch verbreitet. Zorka bietet ihren Gästen diverse Dienstleistungen an, die von Flüchen, über Vodoo-Puppen bis hin zu Wahrsagungen reichen. Zorka will natürlich auch bezahlt werden, neben harten Credits fordert sie ab und an auch eine Gegenleistung.
 
-
-<aside>
-<table data-type="slc">
-<caption>Zorka</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td></tr>
-<tr><th>Kategorie</th><td>Priester</td></tr>
-<tr><th>Wohnort</th><td>[Piratenbucht]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Piratenbucht)</td></tr>
-<tr><th>Erwähnungen</th><td>[Zorka]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
-
+{% include slc.md data=page.sitedata.Slc.Zorka %}
