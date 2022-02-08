@@ -18,7 +18,7 @@ Freeport ist nicht nur ein Piratentreffpunkt, er ist auch ein freier Raumhafen, 
 
 Gimis Bar ist eine Restaurantkette mit Niederlassungen in allen bekannten Sektoren des Universums.
 
-- mehr zu [Gimis Bar]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Gimisbar)
+- mehr zu [Gimis Bar]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Gimis_Bar)
 
 ## Halfway
 
@@ -36,5 +36,4 @@ Die Piratenbucht ist ein bekannter Weltraumhafen und Piratentreffpunkt. Diese Ra
 
 Two Eyed Jack ist die größte Piratenraumstation des bekannten Universums, sie befindet sich inmitten des Braben-Gürtels.
 
-- mehr zu [Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Twoeyedjack)
-
+- mehr zu [Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack)

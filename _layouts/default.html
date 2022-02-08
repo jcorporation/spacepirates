@@ -10,7 +10,7 @@
   </head>
   <body>
     <header class="navbar navbar-expand-sm navbar-dark bg-sterne">
-      <nav class="container-xxl flex-column flex-wrap flex-md-nowrap pt-3 ptb-1">
+      <nav class="container-xxl flex-column flex-wrap flex-md-nowrap pt-3">
         <a class="navbar-brand p-0 mb-4" href="{{ site.baseurl }}/">
           <img src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates" width="398" height="93">
         </a>
@@ -47,10 +47,16 @@
         {{ content }}
     </div>
     <footer class="footer-bottom bg-light">
-      <nav class="container-xxl text-center">
-        <a class="p-2" href="https://www.jcgames.de/">
-          <img src="{{ site.baseurl }}/assets/images/jcgames-logo.png"/>
-        </a>
+      <nav class="container-xxl d-flex align-items-center justify-content-between">
+        <div></div>
+        <div>
+          <a class="p-2" href="https://www.jcgames.de/">
+            <img width="103" height="47" src="{{ site.baseurl }}/assets/images/jcgames-logo.png"/>
+          </a>
+        </div>
+        <div>
+          <a title="Nach oben" id="totop" href="#top"></a>
+        </div>
       </nav>
     </footer>
     <script src="{{ site.baseurl }}/assets/js/bootstrap-native.min.js"></script>

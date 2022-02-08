@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: raumstation
 permalink: /Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack
 title: Two Eyed Jack
 
@@ -86,13 +86,11 @@ Die Raumstation ist auf einem der größeren Asteroiden des Brabengürtels erbau
 
 Ihren heutigen Namen erhielt die Raumstation von der bekannten Kneipe Two Eyed Jack, die vor ein paar Jahrzehnten vom gleichnamigen, berühmt-berüchtigten Piraten gegründet wurde. Inzwischen bietet die Raumstation aber auch alles andere, was Piraten so brauchen.
 
-{% include slc.md data=page.sitedata.Raumstationen.Two_Eyed_Jack %}
-
 ### Al Banchigos Kuriositäten-Emporium
 
 Hinter diesem pompösen Namen verbirgt sich das Schlupfloch des örtlichen Hehlers und Schiebers. Wenn man heiße Waren loswerden will oder sich auf dem Schwarzmarkt mit Kuriositäten aus allen Ecken der Galaxis (wie z.B. illegalen Waffen) eindecken möchte, so hilft Al Banchigo einem stets weiter – für den richtigen Preis versteht sich. Kurz gesagt: Al Banchigo verdient sich eine goldene Nase, egal ob die Piraten bei ihm ein- oder verkaufen.
 
-Al Banchigo kauft alles an, was ungewöhnlich und selten ist, auch wenn die Ware noch sehr heiß ist. Standardware interessiert ihn dagegen nicht sonderlich. Daher findet man in seinem Kuriositäten-Emporium auf [Two Eyed Jack ]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack)alles was ungewöhnlich ist.
+Al Banchigo kauft alles an, was ungewöhnlich und selten ist, auch wenn die Ware noch sehr heiß ist. Standardware interessiert ihn dagegen nicht sonderlich. Daher findet man in seinem Kuriositäten-Emporium auf Two Eyed Jack alles was ungewöhnlich ist.
 
 {% include slc.md data=page.sitedata.Slc.Al_Banchigo %}
 

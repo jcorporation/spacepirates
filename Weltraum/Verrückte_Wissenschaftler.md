@@ -77,7 +77,7 @@ Professor Robotto ist ein Kahadrier mittleren Alters und auf den Bau intelligent
 
 Professor Robotto ist ein guter Freund des Schrottplatzbetreibers Iyani Dizalo. Der Professor benötigt die Teile vom Schrottplatz für seine einzigartigen Roboter, Dzialo hingegen braucht dank der genialen Roboter seines Freundes keine Arbeiter zu entlohnen.
 
-{% include slc.md data=page.sitedata.Slc.Professor_robotto %}
+{% include slc.md data=page.sitedata.Slc.Professor_Robotto %}
 {% include slc.md data=page.sitedata.Slc.Sabrwal %}
 
 ## Xergul
