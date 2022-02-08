@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer
+permalink: /Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer
 title: Amazonenkreuzer
 ---
 

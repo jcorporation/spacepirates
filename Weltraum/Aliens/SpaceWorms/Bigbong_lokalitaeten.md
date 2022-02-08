@@ -39,9 +39,9 @@ Geführt wird es vom Besitzer Abdul, der stets hinter der großen Theke im Erdge
 <table data-type="slc">
 <caption>Abdul</caption>
 <tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms)</td></tr>
+<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
 <tr><th>Kategorie</th><td>Kneipenbesitzer</td></tr>
-<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)</td></tr>
+<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
 <tr><th>Erwähnungen</th><td>[Abdul]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@ Neylas ist der größte Gemischtwarenladen auf BigBong, man findet Dekorationsge
 <tbody>
 <tr><th>Rasse</th><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td></tr>
 <tr><th>Kategorie</th><td>Händler</td></tr>
-<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)</td></tr>
+<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
 <tr><th>Erwähnungen</th><td>[Neyla]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>
@@ -79,9 +79,9 @@ Achmed verkauft in der unteren Ebene BigBongs „quasi neue“ Gebrauchtwaren. D
 <table data-type="slc">
 <caption>Achmed</caption>
 <tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms)</td></tr>
+<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
 <tr><th>Kategorie</th><td>Händler</td></tr>
-<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)</td></tr>
+<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
 <tr><th>Erwähnungen</th><td>[Achmed]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

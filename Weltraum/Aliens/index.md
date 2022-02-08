@@ -18,8 +18,8 @@ In SpacePirates gibt es jede Menge unterschiedlicher Alienrassen. Viele sind gru
 - [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/) – die Wissenschaftler und Forscher
 - [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/) – Amazonen im Weltraum
 - [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/) – Birnenähnlich, exotische Aliens
-- [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/) – Rauchende Würmer
-- [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/) – Kuschelige Yetis
+- [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/) – Rauchende Würmer
+- [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/SpaceYetis/) – Kuschelige Yetis
 - [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/) – die niedlichen Pelzwesen
 - [Syoner]({{ site.baseurl }}/Weltraum/Aliens/Syoner/) – transdimensionale Wesen
 - [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/) – die Händler

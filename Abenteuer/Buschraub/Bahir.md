@@ -56,7 +56,7 @@ Wenn Bahir beruhigt ist, hilft er den Piraten gerne weiter. Er kommt aber nie wi
 <table data-type="slc">
 <caption>Bahir</caption>
 <tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms)</td></tr>
+<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
 <tr><th>Kategorie</th><td>Forscher</td></tr>
 <tr><th>Wohnort</th><td>[Epsilon Canabis]({{ site.baseurl }}/Weltraum/Epsiloncanabis)</td></tr>
 <tr><th>SÖLDNER</th><td>2</td></tr>

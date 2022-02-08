@@ -21,9 +21,9 @@ Jene, die empfangen werden, treffen Kulwa in seinem Audienzsaal, wo er sich auf 
 <table data-type="slc">
 <caption>Kalif Kulwa</caption>
 <tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms)</td></tr>
+<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
 <tr><th>Kategorie</th><td>Kalif</td></tr>
-<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)</td></tr>
+<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
 <tr><th>Erwähnungen</th><td>[Kalif Kulwa]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>
@@ -58,9 +58,9 @@ Insgeheim versucht er, diesen Einfluss auszunutzen, um die Station unter seine K
 <table data-type="slc">
 <caption>Kifslan</caption>
 <tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms)</td></tr>
+<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
 <tr><th>Kategorie</th><td>Händler</td></tr>
-<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)</td></tr>
+<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
 <tr><th>Erwähnungen</th><td>[Kifslan]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

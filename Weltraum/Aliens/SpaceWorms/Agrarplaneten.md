@@ -6,7 +6,7 @@ title: Agrarplaneten
 
 # Agrarplaneten
 
-- [Al Hadir]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Agrarplaneten_alhadir)
+- [Al Hadir]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Agrarplaneten_alhadir)
 
 Zwar verabscheuen die SpaceWorms dreckige Planeten, aber sie kommen trotzdem nicht an ihnen vorbei. Die SpaceWorms betreten ihre Agrarplaneten nur in luftdichten, durchsichtigen Schutzanzügen, die einen Anschluss für die Lieblingsshisha besitzen, und halten sich dort nur so lange wie unbedingt nötig auf. Daher gibt es auch immer eine Orbitalstation, von der aus der verantwortliche SpaceWorm-Wesir den Anbau verwaltet.
 

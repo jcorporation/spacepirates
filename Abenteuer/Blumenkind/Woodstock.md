@@ -37,7 +37,7 @@ Sunflower ist auf Woodstock sehr bekannt, da er auch einer der Gründer dieses F
 
 Jeder kennt Ocean Sunflower, aber niemand hat ihn letzter Zeit gesehen, es ist aber für jeden Befragten undenkbar, dass er das Festival verlassen hat.
 
-Sunflower hat Woodstock nicht freiwillig verlassen, er wurde von der [SWIP]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Swip) entführt.
+Sunflower hat Woodstock nicht freiwillig verlassen, er wurde von der [SWIP]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Swip) entführt.
 
 #### Hinweise auf die Entführung:
 

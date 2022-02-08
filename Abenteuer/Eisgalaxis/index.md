@@ -10,7 +10,7 @@ Die Piraten sitzen gerade wie so oft bei (selbstverständlich je) einem Eimer Ru
 
 Ein unfassbarer Notfall! Es herrschen sommerliche 41&deg; C im Schatten, die Bewohner sitzen in Badehosen am Strand, die Drogerien haben keine Sonnencreme mehr vorrätig, Sonnenbrand ist die Todesursache Nummer 1…
 
-… und das in der Eisgalaxis Eisgalaxis Eisgalaxis Eisgalaxis! So kann es nicht weitergehen. Graf Frost, ein [Eisgalaxis]({{ site.baseurl }}/SpaceYeti]({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis) und alter Zechkumpan der Piraten und Herrscher über die )({{ site.baseurl }}/Weltraum/Aliens/Spaceyetis/Eisgalaxis) pfeift auf dem letzten Loch und sieht in den Piraten die letzte Hoffnung für sich und seine Untertanen.
+… und das in der Eisgalaxis Eisgalaxis Eisgalaxis Eisgalaxis! So kann es nicht weitergehen. Graf Frost, ein [Eisgalaxis]({{ site.baseurl }}/SpaceYeti]({{ site.baseurl }}/Weltraum/Aliens/SpaceYetis) und alter Zechkumpan der Piraten und Herrscher über die )({{ site.baseurl }}/Weltraum/Aliens/SpaceYetis/Eisgalaxis) pfeift auf dem letzten Loch und sieht in den Piraten die letzte Hoffnung für sich und seine Untertanen.
 
 Dieses Abenteuer findet im [Freeport]({{ site.baseurl }}/Sektor D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/) statt, in dem sich auch )({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport) befindet.
 
@@ -92,7 +92,7 @@ Erst einmal auf Ennos angekommen wirft Fürst Los den Piraten alles entgegen, wa
 </tbody>
 </table>
 </td></tr>
-<tr><td>8</td><td>Durch die Hitze schrumpfen alle SpacePears unter den Piraten auf Birnengröße zusammen.</td></tr>
+<tr><td>8</td><td>Durch die Hitze schrumpfen alle Spacepears unter den Piraten auf Birnengröße zusammen.</td></tr>
 <tr><td>9</td><td>Fürst Los wartet schon in seinem Palast, wo die Sprengladung angebracht werden muss und attackiert bei der Landung mit einem Lichtschwert.</td></tr>
 <tr><td>10</td><td>254 Schüsse aus Lichtkanonen atomisieren das Schiff der Piraten bei ihrer Ankunft.</td></tr>
 </tbody>

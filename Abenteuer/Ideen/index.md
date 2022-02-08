@@ -17,6 +17,6 @@ Hier sind Ideen gesammelt, die zu Abenteuer weiterentwickelt werden können.
 - [Rosa Loch]({{ site.baseurl }}/Abenteuer/Ideen/Rosaloch)
 - [Spacewood-Klinik]({{ site.baseurl }}/Abenteuer/Ideen/Spacewoodklinik)
 - [SpaceNinjas]({{ site.baseurl }}/Abenteuer/Ideen/Spaceninjas)
-- [SpaceWorms]({{ site.baseurl }}/Abenteuer/Ideen/Spaceworms)
+- [SpaceWorms]({{ site.baseurl }}/Abenteuer/Ideen/SpaceWorms)
 - [Stars und Sternchen]({{ site.baseurl }}/Abenteuer/Ideen/Starsundsternchen)
 

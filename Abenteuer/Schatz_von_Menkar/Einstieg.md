@@ -12,12 +12,12 @@ Noh Frut verheimlicht aber, dass er große Spielschulden bei [Big Bang Bucks]({{
 
 ## Noh Frut
 
-Noh Frut ist ein alter SpacePear, seine Haut ist schon runtzelig und er kann nur noch wenige Zentimeter über den Boden schweben. Er hat auch, bei einem Kampf, ein Auge verloren und trägt daher eine Augenklappe. Er hängt die meiste Zeit in Two Eyed Jack herum, wo er Karten spielt und Rum vernichtet.
+Noh Frut ist ein alter Spacepear, seine Haut ist schon runtzelig und er kann nur noch wenige Zentimeter über den Boden schweben. Er hat auch, bei einem Kampf, ein Auge verloren und trägt daher eine Augenklappe. Er hängt die meiste Zeit in Two Eyed Jack herum, wo er Karten spielt und Rum vernichtet.
 
 <table data-type="slc">
 <caption>Noh Frut</caption>
 <tbody>
-<tr><th>Rasse</th><td>[SpacePear]({{ site.baseurl }}/Weltraum/Aliens/Spacepears)</td></tr>
+<tr><th>Rasse</th><td>[Spacepear]({{ site.baseurl }}/Weltraum/Aliens/Spacepears)</td></tr>
 <tr><th>Kategorie</th><td>Pirat</td></tr>
 <tr><th>Wohnort</th><td>[Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Twoeyedjack)</td></tr>
 <tr><th>SÖLDNER</th><td>6</td></tr>

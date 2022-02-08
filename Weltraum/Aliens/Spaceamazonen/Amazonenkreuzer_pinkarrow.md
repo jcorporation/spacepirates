@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer_pinkarrow
+permalink: /Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer_pinkarrow
 title: Pink Arrow
 ---
 

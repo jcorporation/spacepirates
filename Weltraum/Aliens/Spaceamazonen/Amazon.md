@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpaceAmazonen/Amazon
+permalink: /Weltraum/Aliens/Spaceamazonen/Amazon
 title: Amazon
 ---
 

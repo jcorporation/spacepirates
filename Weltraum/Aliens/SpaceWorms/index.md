@@ -20,16 +20,16 @@ Es gibt alte Legenden und Märchen der SpaceWorms, in denen sie als ausgestoßen
 
 ## Mehr zu den SpaceWorms
 
-<li>[Raumstationen]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Raumstationen)
-<li>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)
-- [SpaceWorm-Improvement-Project]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Swip)
+<li>[Raumstationen]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Raumstationen)
+<li>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)
+- [SpaceWorm-Improvement-Project]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Swip)
 
 </li>
-- [AbuXabi]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Abuxabi)
-- [AlXambra]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Alxambra)
+- [AbuXabi]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Abuxabi)
+- [AlXambra]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Alxambra)
 
 </li>
-- [Agrarplaneten]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Agrarplaneten)
+- [Agrarplaneten]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Agrarplaneten)
 
 
 <aside>

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Ideen/Spaceworms
+permalink: /Abenteuer/Ideen/SpaceWorms
 title: SpaceWorms
 ---
 

@@ -73,7 +73,7 @@ Ein bunt angemaltes Raumschiff, das an einen VW Bully mit Raketendüsen erinnert
 
 ## SpaceTruck
 
-Detlev, der SpaceTrucker, ist ein SpacePear, aber nicht nur deswegen schlecht gelaunt. Mit jeder Minute Verspätung verwandelt sich sein Lieferbonus in einen Malus. Zu allem Unglück hat er auch noch Gefahrgut geladen. Am liebsten würde er sich richtig die Kante geben, aber sein Gewissen und der Alkoholmangel halten ihn zurück. Wenn es den Piraten gelingt, ihn betrunken zu machen, wird er ihnen alles über Fracht und Sicherheitsvorkehrungen erzählen.
+Detlev, der SpaceTrucker, ist ein Spacepear, aber nicht nur deswegen schlecht gelaunt. Mit jeder Minute Verspätung verwandelt sich sein Lieferbonus in einen Malus. Zu allem Unglück hat er auch noch Gefahrgut geladen. Am liebsten würde er sich richtig die Kante geben, aber sein Gewissen und der Alkoholmangel halten ihn zurück. Wenn es den Piraten gelingt, ihn betrunken zu machen, wird er ihnen alles über Fracht und Sicherheitsvorkehrungen erzählen.
 
 Der SpaceTruck ist doppelt gesichert, zunächst die übliche Raumschiffpanzerung, darunter eine Gefahrgutschutzwand. Wenn die Sicherung durchbrochen wird, reagiert der transportierte Negatritiumabfall mit dem SpaceSchnee und wird zu einer gigantischen Negatronenbombe, die alles im Umkreis zerstört. Ein geschickter Tech kann es allerdings so manipulieren, dass das Ding als Negatronenkanone agiert und so bloß ein großes Loch in die Schneewehe schießt.
 
@@ -82,7 +82,7 @@ Der SpaceTruck ist doppelt gesichert, zunächst die übliche Raumschiffpanzerung
 <table data-type="slc">
 <caption>Detlev</caption>
 <tbody>
-<tr><th>Rasse</th><td>[SpacePear]({{ site.baseurl }}/Weltraum/Aliens/Spacepears)</td></tr>
+<tr><th>Rasse</th><td>[Spacepear]({{ site.baseurl }}/Weltraum/Aliens/Spacepears)</td></tr>
 <tr><th>Kategorie</th><td>SpaceTrucker</td></tr>
 <tr><th>Wohnort</th><td> </td></tr>
 <tr><th>SÖLDNER</th><td>4</td></tr>
@@ -103,7 +103,7 @@ James Moneypenny, ein SpaceWorm, wartet ungeduldig auf die Räumung, weil er auf
 <table data-type="slc">
 <caption>James Moneypenny</caption>
 <tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms)</td></tr>
+<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
 <tr><th>Kategorie</th><td>Konzernchef</td></tr>
 <tr><th>Wohnort</th><td> </td></tr>
 <tr><th>SÖLDNER</th><td>2</td></tr>

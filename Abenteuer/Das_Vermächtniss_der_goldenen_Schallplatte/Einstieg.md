@@ -20,7 +20,7 @@ Ein wagonischer Spacekurier liefert einem der Charaktere (dessen Onkel Nic Jäge
 <tr><td>2</td><td>Auf ihrem Raumschiff mitten in der [Neutralen Zone]({{ site.baseurl }}/Weltraum/Neutralezone)</td></tr>
 <tr><td>3</td><td>Im Wellnessbereich auf [Freeport]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport)</td></tr>
 <tr><td>4</td><td>Im Jagdurlaub auf einem Waldplaneten im [Spacewood Forest]({{ site.baseurl }}/Weltraum/Phaenomene/Spacewood-forest)</td></tr>
-<tr><td>5</td><td>Berauscht auf der SpaceWorms Raumstation [BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)</td></tr>
+<tr><td>5</td><td>Berauscht auf der SpaceWorms Raumstation [BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
 <tr><td>6</td><td>Beim Sushiessen in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime_neuneotokio)</td></tr>
 </tbody>
 </table>

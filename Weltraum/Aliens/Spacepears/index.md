@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpacePears/
+permalink: /Weltraum/Aliens/Spacepears/
 title: Spacepears
 ---
 
@@ -8,7 +8,7 @@ title: Spacepears
 # Spacepears
 
 
-- **Heimatplanet: **unbekannt
+- **Heimatplanet:** unbekannt
 
 Spacepears sind, wie ihr Namen andeutet, birnenförmige Aliens. Sie besitzen neben dem birnenförmigen Körper zwei Arme und ein menschenähnliches Gesicht, samt Ohren. Spacepears besitzen keine Füße, sie gleiten zehn Zentimeter hoch über den Boden. Sie tragen keine Kleidung und es sind auch keine Geschlechtsmerkmale sichtbar.
 

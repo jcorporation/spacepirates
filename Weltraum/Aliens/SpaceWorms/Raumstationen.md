@@ -35,9 +35,9 @@ Die AFKen sind eine nervige Tierart, die an schwarzfellige Affen erinnern und nu
 
 Hier ein paar der bekanntesten Raumstationen oder SpaceShishas der SpaceWorms.
 
-- [AbuXabi]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Abuxabi)
-- [AlXambra]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Alxambra)
-- [BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)
+- [AbuXabi]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Abuxabi)
+- [AlXambra]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Alxambra)
+- [BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)
 
 
 

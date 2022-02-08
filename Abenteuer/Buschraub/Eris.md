@@ -71,9 +71,9 @@ Eris ist schon seit langer Zeit auf der Suche nach Vox Rubusch und glaubt, einen
 <table data-type="slc">
 <caption>Eris</caption>
 <tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms)</td></tr>
+<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
 <tr><th>Kategorie</th><td>Forscher</td></tr>
-<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong)</td></tr>
+<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
 <tr><th>Erwähnungen</th><td>[Eris]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

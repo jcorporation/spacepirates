@@ -23,8 +23,8 @@ Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich
 - [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/) – echsenartige Aliens
 - [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/) – forschende, wissbegierige Cyborgs
 - [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/) – niedliche kleine Pelzwesen
-- [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/SpaceAmazonen/) – sexy, kriegerische Aliens
-- [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/SpacePears/) – schwebende, birnenförmige Aliens
+- [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/) – sexy, kriegerische Aliens
+- [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/) – schwebende, birnenförmige Aliens
 - [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/) – rauchende Würmer
 - [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/SpaceYetis/) – kuschelige Yetis
 - [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/) – käferähnliche Händler

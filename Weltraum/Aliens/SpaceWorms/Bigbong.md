@@ -14,9 +14,9 @@ BigBong wirkt im leeren Weltraum zwar winzig, ist aber gigantisch groß. Da die 
 
 Obwohl auf BigBong Angehörige aller außerirdischen Rassen leben, tragen fast alle orientalisch anmutende Kleider. Dazwischen wuseln Eunuchen in Pluderhosen und wunderschöne, leicht bekleidete Frauen umher. Die Kombination von wunderschönen Frauen, deren Kleidung mehr zeigt als sie verbirgt, und berauschendem Rauch sorgt dafür, dass man nach BigBong süchtig wird. Wer einmal hier war, mag nicht mehr dauerhaft die sterile Luft seines Raumschiffs atmen. Zudem scheinen alle auf der Station ungewöhnlich gut gelaunt, man fühlt sich wie in einem Märchen aus Tausendundeiner Nacht.
 
-- [Interessante Persönlichkeiten]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong_persoenlichkeiten)
-- [Interessante Lokalitäten]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Bigbong_lokalitaeten)
-- [SpaceWorm-Improvement-Project]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms/Swip)
+- [Interessante Persönlichkeiten]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong_persoenlichkeiten)
+- [Interessante Lokalitäten]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong_lokalitaeten)
+- [SpaceWorm-Improvement-Project]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Swip)
 
 
 <aside>
@@ -24,7 +24,7 @@ Obwohl auf BigBong Angehörige aller außerirdischen Rassen leben, tragen fast a
 <caption>BigBong</caption>
 <tbody>
 <tr><th>Sektor</th><td>[Sektor D3]({{ site.baseurl }}/Weltraum/Sektoren/D3/)</td></tr>
-<tr><th>Bewohner</th><td>[SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/Spaceworms)</td></tr>
+<tr><th>Bewohner</th><td>[SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
 <tr><th>Politisches</th><td> </td></tr>
 <tr><th>Erwähnungen</th><td>[BigBong]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
