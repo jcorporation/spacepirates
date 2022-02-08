@@ -12,12 +12,4 @@ jobs:
     - uses: actions/checkout@v1
 
     - name: check
-      run: .scripts/check.sh > out 2>&1
-    
-    - name: result
-      run: |
-        if [ -s out ]
-        then
-          cat out
-          #exit 1
-        fi
+      run: .scripts/check.sh
