@@ -222,6 +222,13 @@
     "Wohnort": "Ennos",
     "Link": "/Weltraum/Sektoren/D1/Ennos"
   },
+  "Gilbert_Rogers": {
+    "Name": "Gilbert Rogers",
+    "Rasse": "Mensch",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Stratum Nova",
+    "Link": "/Weltraum/Konzerne/SpaceResearch"
+  },
   "Gimi": {
     "Name": "Gimi",
     "Rasse": "Trull",
@@ -246,6 +253,20 @@
     "Position": "Admiral der Flotte Neuasiens.",
     "Wohnort": "Neuchina",
     "Link": "/Weltraum/Militär"
+  },
+  "Harrison_Welch": {
+    "Name": "Harrison Welch",
+    "Rasse": "Mensch",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Pessach 4",
+    "Positioen": "Konzernchef",
+    "SOELDNER": "2",
+    "TECH": "4",
+    "PILOT": "6",
+    "HAENDLER": "8",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "keine",
+    "Link": "/Weltraum/Konzerne/Yellow_Stone_Group"
   },
   "Hashimoto": {
     "Name": "Hashimoto",
@@ -323,6 +344,13 @@
     "Wohnort": "Weißes Loch",
     "Link": "/Weltraum/Verrückte_Wissenschaftler"
   },
+  "Jonas_Wagner": {
+    "Name": "Jonas Wagner",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Kabukicho-Prime",
+    "Link": "/Weltraum/Konzerne/S.I.E._Robotermanufaktur"
+  },
   "Khan_Keyne": {
     "Name": "Khan Keyne",
     "Rasse": "Kahadrier",
@@ -370,6 +398,13 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Lucy_Anderson": {
+    "Name": "Lucy Anderson",
+    "Rasse": "Mensch",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Erde",
+    "Link": "/Weltraum/Konzerne/SpaceShell"
+  },
   "Luka_Calibre": {
     "Name": "Luka Calibre",
     "Rasse": "Mensch",
@@ -393,6 +428,13 @@
     "Wohnort": "unbekannt",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Marko_Saltvalley": {
+    "Name": "Marko Saltvalley",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Kabukicho-Prime",
+    "Link": "/Weltraum/Konzerne/SeeYou"
   },
   "Martinez_Hernandes": {
     "Name": "Martinez Hernandes",
@@ -547,6 +589,13 @@
     "Wohnort": "Two Eyed Jack",
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
+  },
+  "Sun_Shan": {
+    "Name": "Sun Shan",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Kabukicho-Prime",
+    "Link": "/Weltraum/Konzerne/S.I.E._Robotermanufaktur"
   },
   "Takahashi_Ning": {
     "Name": "Takahashi Ning",

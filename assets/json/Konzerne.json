@@ -1,0 +1,104 @@
+{
+  "S_I_E__Robotermanufaktur": {
+    "Name": "S.I.E. Robotermanufaktur",
+    "Besitzer": "Jonas Wagner",
+    "Geschaeftsfuehrer": "Sun Shan",
+    "Kategorie": "Technologiekonzern",
+    "Konzernzentrale": "Kabukicho-Prime",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/S.I.E._Robotermanufaktur"
+  },
+  "SeeYou": {
+    "Name": "SeeYou",
+    "Besitzer": "Marko Vale",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Medienkonzern",
+    "Konzernzentrale": "Kabukicho-Prime",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/SeeYou"
+  },
+  "SpaceResearch": {
+    "Name": "SpaceResearch",
+    "Besitzer": "Gilbert Rogers",
+    "Geschaeftsfuehrer": "Gilbert Rogers",
+    "Kategorie": "Raumfahrtkonzern",
+    "Konzernzentrale": "Erde",
+    "Niederlassungen": [
+      "Kozel 5",
+      "Stratum Nova"
+    ],
+    "Link": "/Weltraum/Konzerne/SpaceResearch"
+  },
+  "SpaceShell": {
+    "Name": "SpaceShell",
+    "Besitzer": "Aktiengesellschaft",
+    "Geschaeftsfuehrer": "Lucy Anderson",
+    "Kategorie": "Treibstofffkonzern",
+    "Konzernzentrale": "Erde",
+    "Niederlassungen": "Stratum Nova",
+    "Link": "/Weltraum/Konzerne/SpaceShell"
+  },
+  "StarIllu": {
+    "Name": "StarIllu",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Medienkonzern",
+    "Konzernzentrale": "",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/StarIllu"
+  },
+  "Strat_1": {
+    "Name": "Strat 1",
+    "Besitzer": "Handelsrat",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Medienkonzern",
+    "Konzernzentrale": "Stratum Nova",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Strat_1"
+  },
+  "Trullisch_Ost-Galaktische_Compagnie": {
+    "Name": "Trullisch Ost-Galaktische Compagnie",
+    "Besitzer": "Konsortium",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Handelskonzern",
+    "Konzernzentrale": "Trullmania",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Trullisch_Ost-Galaktische_Compagnie"
+  },
+  "Universe_Broadcast": {
+    "Name": "Universe Broadcast",
+    "Besitzer": "Aktiengesellschaft, Hauptaktionär ist die Föderation",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Medienkonzern",
+    "Konzernzentrale": "Stratum Nova",
+    "Niederlassungen": "quasi überall",
+    "Link": "/Weltraum/Konzerne/Universe_Broadcast"
+  },
+  "Vereinigten_Nahrungsmittel_eG": {
+    "Name": "Vereinigten Nahrungsmittel eG",
+    "Besitzer": "Genossenschaft",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Handelskonzern",
+    "Konzernzentrale": "Zeno",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Vereinigte_Nahrungsmittel_eG"
+  },
+  "Yabadoo": {
+    "Name": "Yabadoo",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Medienkonzern",
+    "Konzernzentrale": "Kozel 5",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Yabadoo"
+  },
+  "Yellow_Stone_Group": {
+    "Name": "Yellow Stone Group",
+    "Besitzer": "Diverseste Banken",
+    "Geschaeftsfuehrer": "Harrison Welch",
+    "Kategorie": "Finanzinvestor",
+    "Konzernzentrale": "Pessach 4",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Yellow_Stone_Group"
+  }
+}

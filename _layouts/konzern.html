@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">
+  <main class="col col-xl-8">
+    {{ content }}
+  </main>
+  <aside class="col col-xl-4 pe-0">
+    {% assign name = page.title | replace: " ", "_" %}
+    {% assign data = page.sitedata.Konzerne[name] %}
+    {% include konzern.md data=data %}
+  </aside>
+</div>
