@@ -31,10 +31,10 @@ Neubrüssel ist die Hauptstadt von Neusirius (ja, Menschen sind nicht wirklich e
 <tr><th>Typ</th><td>Erdähnlicher Planet</td></tr>
 <tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/)</td></tr>
 <tr><th>Monde</th><td>2</td></tr>
-<tr><th>Einwohner</th><td>[Menschen]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)</td></tr>
+<tr><th>Einwohner</th><td>[Menschen]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td></tr>
 <tr><th>Hauptstadt</th><td>Neubrüssel</td></tr>
 <tr><th>Besiedelung</th><td>große Städte</td></tr>
-<tr><th>Politisches</th><td>Botschaftsplanet der [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)</td></tr>
+<tr><th>Politisches</th><td>Botschaftsplanet der [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td></tr>
 <tr><th>Erwähnungen</th><td>[Neusirius]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

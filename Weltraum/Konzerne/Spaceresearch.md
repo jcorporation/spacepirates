@@ -29,7 +29,7 @@ Die Kerngebiete von SpaceResearch liegen in der Erforschung neuer Technologien u
 <tr><th>Besitzer</th><td>Gilbert Rogers</td></tr>
 <tr><th>Geschäftsführer</th><td>Gilbert Rogers</td></tr>
 <tr><th>Kategorie</th><td>Raumfahrtkonzern</td></tr>
-<tr><th>Konzernzentrale</th><td>[Erde]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Erde)</td></tr>
+<tr><th>Konzernzentrale</th><td>[Erde]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Erde)</td></tr>
 <tr><th>Niederlassungen</th><td>[Kozel 5]({{ site.baseurl }}/Stratum Nova]({{ site.baseurl }}/Weltraum/Freihandelszone/Stratumnova), )({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel5)</td></tr>
 <tr><th>Erwähnungen</th><td>[SpaceResearch]({{ site.baseurl }}/Search)</td></tr>
 </tbody>

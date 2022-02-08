@@ -19,7 +19,7 @@ Harrison Welch ist ein Mensch und auf der Erde aufgewachsen. Er ist in mittlerem
 <tbody>
 <tr><th>Rasse</th><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td></tr>
 <tr><th>Kategorie</th><td>Konzernchef</td></tr>
-<tr><th>Wohnort</th><td>[Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Pessach4)</td></tr>
+<tr><th>Wohnort</th><td>[Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Pessach4)</td></tr>
 <tr><th>SÖLDNER</th><td>2</td></tr>
 <tr><th>TECH</th><td>4</td></tr>
 <tr><th>PILOT</th><td>6</td></tr>
@@ -36,7 +36,7 @@ Harrison Welch ist ein Mensch und auf der Erde aufgewachsen. Er ist in mittlerem
 <tr><th>Besitzer</th><td>Diverseste Banken</td></tr>
 <tr><th>Geschäftsführer</th><td>Harrison Welch</td></tr>
 <tr><th>Kategorie</th><td>Finanzinvestor</td></tr>
-<tr><th>Konzernzentrale</th><td>[Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Pessach4)</td></tr>
+<tr><th>Konzernzentrale</th><td>[Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Pessach4)</td></tr>
 <tr><th>Niederlassungen</th><td> </td></tr>
 <tr><th>Erwähnungen</th><td>[Yellow Stone Group]({{ site.baseurl }}/Search)</td></tr>
 </tbody>

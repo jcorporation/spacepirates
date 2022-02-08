@@ -1,8 +1,14 @@
 {
+  "Mensch": {
+    "Name": "Mensch",
+    "Sektor": "Föderation",
+    "Heimatplanet": "Erde",
+    "Link": "/Weltraum/Menschen/Föderation/"
+  },
   "Neuasiat": {
     "Name": "Neuasiat",
     "Sektor": "Sternenrepublik Neuasien",
     "Heimatplanet": "Xinnua",
-    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/"
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/"
   }
 }

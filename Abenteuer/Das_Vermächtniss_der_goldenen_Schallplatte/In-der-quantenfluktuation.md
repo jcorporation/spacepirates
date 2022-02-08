@@ -71,7 +71,7 @@ Ein glukorianisches Forschungsschiff hält sich illegal in der Quantenfluktuatio
 <div class="hinweis">
 ## Quantenfluktuation
 
-Mehr zur [Quantenfluktuation]({{ site.baseurl }}/Weltraum/Phaenomene/Quantenfluktuation)
+Mehr zur [Quantenfluktuation]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Quantenfluktuation)
 
 </div>
 </aside>

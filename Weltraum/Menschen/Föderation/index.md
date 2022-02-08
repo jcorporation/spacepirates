@@ -1,14 +1,22 @@
 ---
 layout: page
 permalink: /Weltraum/Menschen/Föderation/
-title: Die Föderation
+title: Föderation
+sitedata:
+    Sektoren:
+        Foederation:
+            Name: Föderation
+            Hauptplanet: Erde
+    Rassen:
+        Mensch:
+            Name: Mensch
+            Sektor: Föderation
+            Heimatplanet: Erde
 ---
-
 
 # Die Föderation
 
-
-- **Heimatplanet:** [Erde]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Erde)
+- **Heimatplanet:** [Erde]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Erde)
 - **Botschaftsplanet:** [Neusirius]({{ site.baseurl }}/Weltraum/Freihandelszone/Neusirius)
 
 Die Föderation ist die gemeinsame Regierung der Menschen, die vor Jahrhunderten vom Planeten Erde aufbrachen, um das Weltall zu bevölkern. Mittlerweile sind die Menschen ein gleichberechtigter Handelspartner der Aliens.
@@ -19,15 +27,4 @@ Die Föderation war zusammen mit den Trull die treibende Kraft hinter der Bildun
 
 Die Menschen sind immer noch nicht ganz auf der Höhe der Entwicklung. Die meisten Alienrassen sind weiter entwickelt, aber die Föderation holt stetig auf.
 
-<div class="hinweis">
-## Planeten, Raumstationen und Weltraumphänomene in diesem Sektor
-
-[list]({{ site.baseurl }}/Objectlist:planet|sternensystem:Sektor=Föderation)
-
-[list]({{ site.baseurl }}/Objectlist:raumstation:Sektor=Föderation)
-
-[list]({{ site.baseurl }}/Objectlist:phaenomen:Sektor=Föderation)
-
-</div>
-
-
+{% include sektorinfo.md data=page.title %}

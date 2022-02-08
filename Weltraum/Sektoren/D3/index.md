@@ -11,6 +11,6 @@ sitedata:
 
 # Sektor D3
 
-Der Sektor D3 ist wie Sektor [D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/) nahezu unbewohnt. Im Zentrum dieses Sektor existiert eine gewaltige [Quantenfluktuation]({{ site.baseurl }}/Weltraum/Phaenomene/Quantenfluktuation), die mit der [Quantenfluktuation]({{ site.baseurl }}/Weltraum/Phaenomene/Quantenfluktuation) in der Sternenrepublik Neuasien verschränkt ist.
+Der Sektor D3 ist wie Sektor [D1]({{ site.baseurl }}/Weltraum/Sektoren/D1/) nahezu unbewohnt. Im Zentrum dieses Sektor existiert eine gewaltige [Quantenfluktuation]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Quantenfluktuation), die mit der [Quantenfluktuation]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Quantenfluktuation) in der Sternenrepublik Neuasien verschränkt ist.
 
 {% include sektorinfo.md data=page.title %}

@@ -93,7 +93,7 @@ Ein Spion von der Erde. Tritt klassisch mit schwarzem Trenchcoat und Schlapphut 
 <tbody>
 <tr><th>Rasse</th><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td></tr>
 <tr><th>Kategorie</th><td>Spion</td></tr>
-<tr><th>Wohnort</th><td>[Erde]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Erde)</td></tr>
+<tr><th>Wohnort</th><td>[Erde]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Erde)</td></tr>
 <tr><th>Erwähnungen</th><td>[Dr. von Nofeld]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

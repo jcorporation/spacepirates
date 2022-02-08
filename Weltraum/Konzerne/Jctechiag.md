@@ -19,7 +19,7 @@ In der JCTech IAG gibt es regelmäßig Skandale, die von Bestechungen, Veruntreu
 <tbody>
 <tr><th>Rasse</th><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td></tr>
 <tr><th>Kategorie</th><td>Konzernchef</td></tr>
-<tr><th>Wohnort</th><td>[Omar]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Omar)</td></tr>
+<tr><th>Wohnort</th><td>[Omar]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Omar)</td></tr>
 <tr><th>Erwähnungen</th><td>[Sharif Omar]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>
@@ -31,7 +31,7 @@ In der JCTech IAG gibt es regelmäßig Skandale, die von Bestechungen, Veruntreu
 <tr><th>Besitzer</th><td>Aktiengesellschaft</td></tr>
 <tr><th>Geschäftsführer</th><td>Sharif Omar</td></tr>
 <tr><th>Kategorie</th><td>Technologiekonzern</td></tr>
-<tr><th>Konzernzentrale</th><td>[Omar]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Omar)</td></tr>
+<tr><th>Konzernzentrale</th><td>[Omar]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Omar)</td></tr>
 <tr><th>Niederlassungen</th><td>[Kozel 5]({{ site.baseurl }}/Stratum Nova]({{ site.baseurl }}/Weltraum/Freihandelszone/Stratumnova), )({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel5)</td></tr>
 <tr><th>Erwähnungen</th><td>[JCTech IAG]({{ site.baseurl }}/Search)</td></tr>
 </tbody>

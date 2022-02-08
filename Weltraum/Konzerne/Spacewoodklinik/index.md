@@ -27,7 +27,7 @@ In der echten Klinik lassen sich natürlich auch die Stars und Sternchen, reiche
 <tr><th>Besitzer</th><td> </td></tr>
 <tr><th>Geschäftsführer</th><td> </td></tr>
 <tr><th>Kategorie</th><td>Krankenhaus</td></tr>
-<tr><th>Konzernzentrale</th><td>[Spacewood-Forest]({{ site.baseurl }}/Weltraum/Phaenomene/Spacewood-forest)</td></tr>
+<tr><th>Konzernzentrale</th><td>[Spacewood-Forest]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Spacewood-forest)</td></tr>
 <tr><th>Niederlassungen</th><td> </td></tr>
 <tr><th>Erwähnungen</th><td>[Spacewood-Klinik]({{ site.baseurl }}/Search)</td></tr>
 </tbody>

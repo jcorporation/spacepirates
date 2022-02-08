@@ -18,7 +18,7 @@ Raumschiff &amp; Co. ist der größte Raumschiffhersteller der Föderation. Nebe
 <tr><th>Besitzer</th><td>Interstellarer Finanzinvestor [Mind Group]({{ site.baseurl }}/Weltraum/Konzerne/Mindgroup)</td></tr>
 <tr><th>Geschäftsführer</th><td> </td></tr>
 <tr><th>Kategorie</th><td>Raumfahrtkonzern</td></tr>
-<tr><th>Konzernzentrale</th><td>[Sisbert]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Sisbert)</td></tr>
+<tr><th>Konzernzentrale</th><td>[Sisbert]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Sisbert)</td></tr>
 <tr><th>Niederlassungen</th><td>[Kozel 5]({{ site.baseurl }}/Stratum Nova]({{ site.baseurl }}/Weltraum/Freihandelszone/Stratumnova), )({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel5)</td></tr>
 <tr><th>Erwähnungen</th><td>[Raumschiff &amp; Co.]({{ site.baseurl }}/Search)</td></tr>
 </tbody>

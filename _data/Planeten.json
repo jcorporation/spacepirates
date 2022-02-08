@@ -10,6 +10,17 @@
     "Politisches": "Rebellen",
     "Link": "/Weltraum/Rebellen/Alastor"
   },
+  "Bharani_8": {
+    "Name": "Bharani 8",
+    "Typ": "Felsplanet",
+    "Sektor": "Neutrale Zone",
+    "Monde": "1 Dschungelmond",
+    "Einwohner": "Einsiedler Kritias",
+    "Hauptstadt": "keine",
+    "Besiedelung": "Einsiedlerhütte",
+    "Politisches": "keine politischen Beziehungen",
+    "Link": "/Weltraum/Neutrale_Zone/Bharani_8"
+  },
   "Brarbragroz": {
     "Name": "Brarbragroz",
     "Typ": "Erdähnlich",
@@ -32,6 +43,17 @@
     "Politisches": "Keine politischen Beziehungen",
     "Link": "/Weltraum/DU-3864366"
   },
+  "Doradus": {
+    "Name": "Doradus",
+    "Typ": "Wasserplanet",
+    "Sektor": "Neutrale Zone",
+    "Monde": "2",
+    "Einwohner": "Mutanten",
+    "Hauptstadt": "keine",
+    "Besiedelung": "zerstörte Städte",
+    "Politisches": "keine politischen Beziehungen",
+    "Link": "/Weltraum/Neutrale_Zone/Doradus"
+  },
   "Ennos": {
     "Name": "Ennos",
     "Typ": "Dschungelplanet",
@@ -43,6 +65,28 @@
     "Politisches": "Glukorianer",
     "Link": "/Weltraum/Sektoren/D1/Ennos"
   },
+  "Erde": {
+    "Name": "Erde",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Föderation",
+    "Monde": "1",
+    "Einwohner": "Menschen",
+    "Hauptstadt": "Brüssel",
+    "Besiedelung": "durchschnittlich, mit vielen Städten",
+    "Politisches": "Heimatplanet der Menschen",
+    "Link": "/Weltraum/Menschen/Föderation/Erde"
+  },
+  "Javar_3": {
+    "Name": "Javar 3",
+    "Typ": "Dschungelplanet",
+    "Sektor": "Neutrale Zone",
+    "Monde": "2",
+    "Einwohner": "Forscher",
+    "Hauptstadt": "-",
+    "Besiedelung": "Forschungsstation",
+    "Politisches": "Galaktischen Handelsrats",
+    "Link": "/Weltraum/Neutrale_Zone/Javar_3"
+  },
   "Kabukicho-Prime": {
     "Name": "Kabukicho-Prime",
     "Typ": "Dschungelplanet",
@@ -52,7 +96,7 @@
     "Hauptstadt": "Neu-Neo-Tokio",
     "Besiedelung": "eine große Stadt",
     "Politisches": "Kapitalistische Sonderrechtszone Neuasiens",
-    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/"
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/"
   },
   "Kappa_Gamma": {
     "Typ": "Erdähnlich",
@@ -65,6 +109,17 @@
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/"
   },
+  "Katpar": {
+    "Name": "Katpar",
+    "Typ": "Wüstenplanet",
+    "Sektor": "Föderation",
+    "Monde": "1",
+    "Einwohner": "Bergarbeiter",
+    "Hauptstadt": "",
+    "Besiedelung": "Bergarbeitersiedlungen",
+    "Politisches": "Eigentum von SpaceShell",
+    "Link": "/Weltraum/Menschen/Föderation/Katpar"
+  },
   "Los_Mochis": {
     "Name": "Los Mochis",
     "Typ": "Steppenplanet",
@@ -75,6 +130,17 @@
     "Besiedelung": "SpaceRocker-Kneipe",
     "Politisches": "SpaceRocker",
     "Link": "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis"
+  },
+  "Neuchina": {
+    "Name": "Neuchina",
+    "Typ": "Dschungelplanet",
+    "Sektor": "Sternenrepublik Neuasien",
+    "Monde": "keine",
+    "Einwohner": "Neuasiaten",
+    "Hauptstadt": "keine",
+    "Besiedelung": "Militärstützpunkte",
+    "Politisches": "Hauptstandort des Militärs von Neuasien",
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Neuchina"
   },
   "Nova_Ceti": {
     "Typ": "Waldplanet",
@@ -98,6 +164,61 @@
     "Politisches": "italienischen Mafia",
     "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia"
   },
+  "Omar": {
+    "Name": "Omar",
+    "Typ": "Wüstenplanet",
+    "Sektor": "Föderation",
+    "Monde": "5",
+    "Einwohner": "Menschen",
+    "Hauptstadt": "-",
+    "Besiedelung": "Konzernplanet",
+    "Politisches": "Hauptstandort der JCTech IAG",
+    "Link": "/Weltraum/Menschen/Föderation/Omar"
+  },
+  "Omatic": {
+    "Name": "Omatic",
+    "Typ": "erdähnlicher Planet",
+    "Sektor": "Föderation",
+    "Monde": "3",
+    "Einwohner": "Menschen",
+    "Hauptstadt": "Konzernzentrale",
+    "Besiedelung": "Konzernplanet",
+    "Politisches": "Omatic Enterprise",
+    "Link": "/Weltraum/Menschen/Föderation/Omatic"
+  },
+  "Ozeanus_5": {
+    "Name": "Ozeanus 5",
+    "Typ": "Wasserplanet",
+    "Sektor": "Sternenrepublik Neuasien",
+    "Monde": "7",
+    "Einwohner": "Neuasiaten",
+    "Hauptstadt": "keine",
+    "Besiedelung": "keine",
+    "Politisches": "Fischfangplanet",
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Ozeanus_5"
+  },
+  "Pandar_5": {
+    "Name": "Pandar 5",
+    "Typ": "erdähnlicher Planet",
+    "Sektor": "Föderation",
+    "Monde": "8",
+    "Einwohner": "Menschen",
+    "Hauptstadt": "Pandar City",
+    "Besiedelung": "wenige Städte",
+    "Politisches": "",
+    "Link": "/Weltraum/Menschen/Föderation/Pandar_5"
+  },
+  "Pessach_4": {
+    "Name": "Pessach 4",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Föderation",
+    "Monde": "3",
+    "Einwohner": "Menschen",
+    "Hauptstadt": "Rabbit City",
+    "Besiedelung": "große Fabriken",
+    "Politisches": "Yellow Stone Group",
+    "Link": "/Weltraum/Menschen/Föderation/Pessach_4"
+  },
   "Sampuk": {
     "Typ": "Felsplanet",
     "Name": "Sampuk",
@@ -109,6 +230,17 @@
     "Politisches": "Heimatplanet der Samnesen",
     "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
   },
+  "Santa_24": {
+    "Name": "Santa 24",
+    "Typ": "Eisplanet",
+    "Sektor": "Neutrale Zone",
+    "Monde": "Lamettakometenring",
+    "Einwohner": "Weihnachtsmann und Elfen",
+    "Hauptstadt": "",
+    "Besiedelung": "",
+    "Politisches": "Weihnachtsplanet",
+    "Link": "/Weltraum/Neutrale_Zone/Santa_24"
+  },
   "Scrabnambu": {
     "Name": "Scrabnambu",
     "Typ": "Felsplanet",
@@ -119,6 +251,17 @@
     "Besiedelung": "nur eine Siedlung",
     "Politisches": "Müllplanet",
     "Link": "/Weltraum/Neutrale_Zone/Scrabnambu"
+  },
+  "Sisbert": {
+    "Name": "Sisbert",
+    "Typ": "erdähnlicher Planet",
+    "Sektor": "Föderation",
+    "Monde": "keine",
+    "Einwohner": "Menschen",
+    "Hauptstadt": "",
+    "Besiedelung": "Konzernplanet",
+    "Politisches": "Eigentum Raumschiff & Co",
+    "Link": "/Weltraum/Menschen/Föderation/Sisbert"
   },
   "Terra_20CAD": {
     "Name": "Terra 20CAD",
@@ -153,6 +296,17 @@
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Neutrale_Zone/Woodstock"
   },
+  "Xinnua": {
+    "Name": "Xinnua",
+    "Typ": "Dschungelplanet",
+    "Sektor": "Sternenrepublik Neuasien",
+    "Monde": "3",
+    "Einwohner": "Neuasiaten",
+    "Hauptstadt": "Xiuta",
+    "Besiedelung": "eine große Stadt",
+    "Politisches": "Neuasien",
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Xinnua"
+  },
   "Xorlok": {
     "Name": "Xorlok",
     "Typ": "tropischer Planet",
@@ -163,5 +317,16 @@
     "Besiedelung": "eine große Stadt",
     "Politisches": "neutraler Planet",
     "Link": "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok"
+  },
+  "Zeno": {
+    "Name": "Zeno",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Sternenrepublik Neuasien",
+    "Monde": "3",
+    "Einwohner": "Neuasiaten",
+    "Hauptstadt": "Yinuang",
+    "Besiedelung": "sehr viele zusammengewachsene Städte",
+    "Politisches": "Bevölkerungsreichster Planet Neuasiens",
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Zeno"
   }
 }

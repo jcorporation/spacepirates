@@ -1,7 +1,7 @@
 {
   "Aal_Jarreau": {
     "Name": "Aal Jarreau",
-    "Rasse": "SpacePear",
+    "Rasse": "Spacepear",
     "Kategorie": "Promi",
     "Wohnort": "Freeport",
     "Position": "",
@@ -95,7 +95,7 @@
   },
   "Britney_S_Pears": {
     "Name": "Britney S. Pears",
-    "Rasse": "SpacePear",
+    "Rasse": "Spacepear",
     "Kategorie": "Promi",
     "Wohnort": "",
     "Position": "",
@@ -331,6 +331,13 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Kritias": {
+    "Name": "Kritias",
+    "Rasse": "Atlanter",
+    "Kategorie": "Einsiedler",
+    "Wohnort": "Bharani 8",
+    "Link": "/Weltraum/Neutrale_Zone/Bharani_8"
+  },
   "Kuster_Beaton": {
     "Name": "Kuster Beaton",
     "Rasse": "Mensch",
@@ -353,7 +360,7 @@
     "Kategorie": "Politiker",
     "Wohnort": "Neu-Neo-Tokio",
     "Position": "",
-    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/"
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/"
   },
   "Long_Dong_Plasmatongue": {
     "Name": "Long Dong Plasmatongue",
@@ -638,7 +645,7 @@
     "Kategorie": "Händler",
     "Wohnort": "Neu-Neo-Tokio",
     "Position": "",
-    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio"
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio"
   },
   "Zhao_Xue": {
     "Name": "Zhao Xue",

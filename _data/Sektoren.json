@@ -1,4 +1,9 @@
 {
+  "Foederation": {
+    "Name": "Föderation",
+    "Hauptplanet": "Erde",
+    "Link": "/Weltraum/Menschen/Föderation/"
+  },
   "Neutrale_Zone": {
     "Name": "Neutrale Zone",
     "Hauptplanet": "",
@@ -22,6 +27,6 @@
   "Sternenrepublik_Neuasien": {
     "Name": "Sternenrepublik Neuasien",
     "Hauptplanet": "Xinnua",
-    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/"
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/"
   }
 }

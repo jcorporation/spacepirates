@@ -19,9 +19,7 @@ while (<STDIN>) {
         my $key = $1;
         my $value = $2;
         if ($key eq "Erwähnungen") { next; }
-        if ($value =~ /\[([^\]]+)\]/) {
-            $value = $1;
-        }
+        $value =~ s/\[([^\]]+)\]\([^\)]+\)/$1/g;
         $out.= "            ".$key.": \"$value\"\n";
     }
 }

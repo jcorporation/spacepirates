@@ -1,4 +1,11 @@
 {
+  "Bruessel": {
+    "Name": "Brüssel",
+    "Planet": "Erde",
+    "Größe": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Menschen/Föderation/Erde"
+  },
   "Gamma-Stadt": {
     "Name": "Gamma-Stadt",
     "Planet": "Kappa Gamma",
@@ -25,7 +32,7 @@
     "Planet": "Kabukicho-Prime",
     "Größe": "Millionenstadt",
     "Kategorie": "Hauptstadt",
-    "Link": "/Weltraum/Menschen/Sternenrepublik Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio"
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio"
   },
   "Neu_Palermo": {
     "Name": "Neu Palermo",
@@ -34,6 +41,20 @@
     "Kategorie": "Mafiastadt",
     "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia"
   },
+  "Pandar_City": {
+    "Name": "Pandar City",
+    "Planet": "Pandar 5",
+    "Größe": "Großstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Menschen/Föderation/Pandar_5"
+  },
+  "Rabbit_City": {
+    "Name": "Rabbit City",
+    "Planet": "Pessach 4",
+    "Größe": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Menschen/Föderation/Pessach_4"
+  },
   "Sila_City": {
     "Name": "Sila City",
     "Planet": "Sampuk",
@@ -41,11 +62,25 @@
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
   },
+  "Xiuta": {
+    "Name": "Xiuta",
+    "Planet": "Xinnua",
+    "Größe": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Xinnua"
+  },
   "Xorlok": {
     "Name": "Xorlok",
     "Planet": "Xorlok",
     "Größe": "Kleinstadt",
     "Kategorie": "Mafiastadt",
     "Link": "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok"
+  },
+  "Yinuang": {
+    "Name": "Yinuang",
+    "Planet": "Zeno",
+    "Größe": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Zeno"
   }
 }

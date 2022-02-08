@@ -30,6 +30,7 @@ menschen:mensch
 militärs:militär
 neuasiatischen:neuasien
 neuasiens:neuasien
+neuasiaten:neuasiat
 neylas:neyla
 oysterclusters:oystercluster
 parteien:partei

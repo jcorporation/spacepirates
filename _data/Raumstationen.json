@@ -48,6 +48,13 @@
     "Politisches": "Unabhängig",
     "Link": "/Weltraum/Raumstationen/Saloniki"
   },
+  "Siga_Spaceport": {
+    "Name": "Siga Spaceport",
+    "Sektor": "Neutrale Zone",
+    "Bewohner": "Forscher",
+    "Politisches": "Forschungsstation",
+    "Link": "/Weltraum/Neutrale_Zone/Siga_Spaceport"
+  },
   "Two_Eyed_Jack": {
     "Name": "Two Eyed Jack",
     "Sektor": "Freihandelszone",

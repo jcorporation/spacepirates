@@ -19,7 +19,7 @@ LTR hat eine jahrtausendealte Geschichte und ursprünglich noch als TV-Sender an
 <tr><th>Geschäftsführer</th><td> </td></tr>
 <tr><th>Kategorie</th><td>Medienkonzern</td></tr>
 <tr><th>Konzernzentrale</th><td> </td></tr>
-<tr><th>Niederlassungen</th><td>[Erde]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Erde)</td></tr>
+<tr><th>Niederlassungen</th><td>[Erde]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Erde)</td></tr>
 <tr><th>Erwähnungen</th><td>[LTR]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>

@@ -1,30 +1,20 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Menschen/Föderation/Omatic
 title: Omatic
+sitedata:
+    Planeten:
+        Omatic:
+            Name: "Omatic"
+            Typ: "erdähnlicher Planet"
+            Sektor: "Föderation"
+            Monde: "3"
+            Einwohner: "Menschen"
+            Hauptstadt: "Konzernzentrale"
+            Besiedelung: "Konzernplanet"
+            Politisches: "Omatic Enterprise"
 ---
-
 
 # Omatic
 
-
-Der Planet Omatic ist im Besitz von [Omatic Enterprise]({{ site.baseurl }}/Weltraum/Konzerne/Omaticenterprise).
-
-
-<aside>
-<table data-type="planet">
-<caption>Omatic</caption>
-<tbody>
-<tr><th>Typ</th><td>erdähnlicher Planet</td></tr>
-<tr><th>Sektor</th><td>[Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)</td></tr>
-<tr><th>Monde</th><td>3</td></tr>
-<tr><th>Einwohner</th><td>[Menschen]({{ site.baseurl }}/Weltraum/Menschen)</td></tr>
-<tr><th>Hauptstadt</th><td>Konzernzentrale</td></tr>
-<tr><th>Besiedelung</th><td>Konzernplanet</td></tr>
-<tr><th>Politisches</th><td>Eigentum von [Omatic Enterprise]({{ site.baseurl }}/Weltraum/Konzerne/Omaticenterprise).</td></tr>
-<tr><th>Erwähnungen</th><td>[Omatic]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
-</aside>
-
+Der Planet Omatic ist im Besitz von [Omatic Enterprise]({{ site.baseurl }}/Weltraum/Konzerne/Omatic_Enterprise).

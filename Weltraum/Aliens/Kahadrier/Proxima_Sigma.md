@@ -19,7 +19,7 @@ Das System besteht aus zehn Gasriesen, nur der zweitinnerste Planet des Systems 
 <tr><th>Einwohner</th><td>keine</td></tr>
 <tr><th>Hauptstadt</th><td>keine</td></tr>
 <tr><th>Besiedelung</th><td>keine</td></tr>
-<tr><th>Politisches</th><td>Nur über das [Lila Loch]({{ site.baseurl }}/Weltraum/Phaenomene/Lilaloecher-plasmaregenbogen) erreichbar</td></tr>
+<tr><th>Politisches</th><td>Nur über das [Lila Loch]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Lilaloecher-plasmaregenbogen) erreichbar</td></tr>
 <tr><th>Erwähnungen</th><td>[Proxima Sigma II]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>
@@ -32,7 +32,7 @@ Das System besteht aus zehn Gasriesen, nur der zweitinnerste Planet des Systems 
 <tr><th>Zentralgestirn</th><td>Sonne</td></tr>
 <tr><th>Planeten</th><td>11</td></tr>
 <tr><th>Bewohner</th><td>Weltraumkäfer</td></tr>
-<tr><th>Politisches</th><td>Nur über das [Lila Loch]({{ site.baseurl }}/Weltraum/Phaenomene/Lilaloecher-plasmaregenbogen) erreichbar</td></tr>
+<tr><th>Politisches</th><td>Nur über das [Lila Loch]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Lilaloecher-plasmaregenbogen) erreichbar</td></tr>
 <tr><th>Erwähnungen</th><td>[Proxima Sigma]({{ site.baseurl }}/Search)</td></tr>
 </tbody>
 </table>
