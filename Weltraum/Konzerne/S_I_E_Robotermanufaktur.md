@@ -1,6 +1,6 @@
 ---
 layout: konzern
-permalink: /Weltraum/Konzerne/S_I_E_Robotermanufaktur
+permalink: /Weltraum/Konzerne/S_I_E__Robotermanufaktur
 title: S.I.E. Robotermanufaktur
 sitedata:
     Konzerne:
