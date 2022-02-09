@@ -94,6 +94,10 @@ main ul {
   border-color: #dfb300;
 }
 
+.btn-yellow.active {
+  background-color: #dfb300;
+}
+
 @font-face {
   font-family: 'Material Icons';
   font-style: normal;
@@ -181,4 +185,8 @@ a#totop {
 
 a#totop:hover {
   opacity: 0.6;
+}
+
+#kartenpanel text {
+  cursor: pointer;
 }
