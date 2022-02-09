@@ -102,7 +102,8 @@ async function fetchJSON(dataFile, callback) {
       const response = await fetch('/assets/json/' + dataFile + '.json');
       const data = await response.json();
       cbFetchJSON(dataFile, data, callback);
-    } catch (err) {
+    }
+    catch (err) {
       console.log(err);
     }
 }
@@ -135,28 +136,30 @@ function cbSearchInitialized() {
 
 const inputSearch = document.getElementById('inputSearch');
 const searchResult = document.getElementById('searchResult');
-document.getElementById('btnSearch').parentNode.addEventListener('shown.bs.dropdown', function() {
-    if (cbSearchInitialized() === false) {
-        inputSearch.setAttribute('disabled', 'disabled');
-        inputSearch.setAttribute('placeholder','Wird initializiert...');
-        fetchJSON('index', cbSearchInitialized);
-        fetchJSON('index_stompkeys', cbSearchInitialized);
-    }
-}, false);
+const btnSearch = document.getElementById('btnSearch');
+if (btnSearch !== null) {
+    btnSearch.parentNode.addEventListener('shown.bs.dropdown', function() {
+        if (cbSearchInitialized() === false) {
+            inputSearch.setAttribute('disabled', 'disabled');
+            inputSearch.setAttribute('placeholder','Wird initializiert...');
+            fetchJSON('index', cbSearchInitialized);
+            fetchJSON('index_stompkeys', cbSearchInitialized);
+        }
+    }, false);
 
-inputSearch.addEventListener('click', function(event) {
-    // do not close dropdown
-    event.stopPropagation();
-}, false);
+    inputSearch.addEventListener('click', function(event) {
+        // do not close dropdown
+        event.stopPropagation();
+    }, false);
 
-inputSearch.addEventListener('keyup', function(event) {
-    let value = event.target.value.toLowerCase();
-    doSearch(value, searchResult);
-}, false);
+    inputSearch.addEventListener('keyup', function(event) {
+        doSearch(event.target.value, searchResult);
+    }, false);
+}
 
 function doSearch(value, resultEl) {
     // normalize searchstring
-    value = value.replace(/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#]/g, '');
+    value = value.toLowerCase().replace(/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#]/g, '');
     // stomp searchstring
     const stomp = stompWords[value];
     if (stomp !== undefined) {
@@ -166,14 +169,15 @@ function doSearch(value, resultEl) {
     const matches = {};
     for (const key in searchIndex) {
         if (key.indexOf(value) === 0) {
+            const bump = key === value ? 50 : 0;
             for (const uri in searchIndex[key]) {
                 if (matches[uri]) {
                     if (matches[uri] < searchIndex[key][uri]) {
-                        matches[uri] = searchIndex[key][uri];
+                        matches[uri] = searchIndex[key][uri] + bump;
                     }
                 }
                 else {
-                    matches[uri] = searchIndex[key][uri];
+                    matches[uri] = searchIndex[key][uri] + bump;
                 }
             }
         }
@@ -215,11 +219,18 @@ function doSearch(value, resultEl) {
         a.innerText = name;
         a.appendChild(crumbs);
         a.href = match; 
-        a.classList.add('list-group-item', 'bg-yellow');
+        a.classList.add('list-group-item');
         resultEl.appendChild(a);
         i++;
         if (i > 9) {
             break;
         }
     }
+    if (i === 0) {
+        const div = document.createElement('div');
+        div.classList.add('list-group-item');
+        div.textContent = 'Kein Ergebnis';
+        resultEl.appendChild(div);
+    }
+    return sorted;
 }

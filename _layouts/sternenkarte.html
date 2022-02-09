@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/Weltraum/Sternenkarte/karte.css" />
+    <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
+    <link rel="alternate" type="application/rss+xml"  href="{{ site.baseurl }}/feed.xml" title="{{ site.title }}">
+  </head>
+  <body class="p-3">
+    <main class="container-fluid">
+      {{ content }}
+    </main>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap-native.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/default.js"></script>
+  </body>
+</html>

@@ -9,11 +9,15 @@ karte.prevent = function(ev) {
 }
 
 karte.init = function() {
-    // resize kartenpanel to fit screen height
-    const kartenpanel = document.getElementById('kartenpanel');
-    const footer = document.getElementsByTagName('footer');
-    const height = window.innerHeight - kartenpanel.offsetTop - footer[0].offsetHeight - 8;
-    kartenpanel.style.height = height + 'px';
+    // fetch search data
+    if (searchIndex === null) {
+        fetchJSON('index', karte.cbInitialized);
+        document.getElementById('kartenpanel').style.opacity = '0.2';
+    }
+    if (stompWords === null) {
+        fetchJSON('index_stompkeys', karte.cbInitialized);
+        document.getElementById('kartenpanel').style.opacity = '0.2';
+    }
     // set defaults
     karte.screenWidth = 0;
     karte.screenHeight = 0;
@@ -50,12 +54,20 @@ karte.init = function() {
             pw = 400;
         }
         karte.zoomlevel = pw / karte.width;
-        karte.umrechnung = karte.umrechnung * karte.zoomlevel;
+        karte.factor = karte.factor * karte.zoomlevel;
         karte.height = karte.zoomlevel * karte.height;
         karte.width = pw;
     }
     document.getElementById('svg2').setAttribute('width', karte.width);
     document.getElementById('svg2').setAttribute('height', karte.height);
+}
+
+karte.cbInitialized = function() {
+    if (searchIndex !== null &&
+        stompWords !== null)
+    {
+        document.getElementById('kartenpanel').style.opacity = '1';
+    }
 }
 
 karte.clickHandler = function(event) {
@@ -82,30 +94,56 @@ karte.clickHandler = function(event) {
     }
 }
 
-karte.getInfo = function(text, link) {
-    console.log(text + ':' + link);
+karte.getInfo = async function(text, link) {
+    const result = doSearch(text, document.getElementById('searchTabResult'));
+    if (link === null) {
+        link = result[0];
+    }
+    try {
+        const response = await fetch(link);
+        const data = await response.text();
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(data, 'text/html');
+        document.getElementById('infoTab').textContent = '';
+        const main = doc.getElementsByTagName('main')[0];
+        const aside = doc.getElementsByTagName('aside')[0];
+        if (main !== undefined) {
+            main.setAttribute('class', '');
+            document.getElementById('infoTab').appendChild(main);
+            if (aside !== undefined) {
+                aside.classList.add('mt-2');
+                document.getElementById('infoTab').appendChild(aside);
+            }
+        }
+        else {
+            document.getElementById('infoTab').textContent = 'Seite nicht gefunden';
+        }
+    }
+    catch (err) {
+        console.log(err);
+    }
 }
 
-karte.zoom = function(x,r) {
+karte.zoom = function(x, r) {
     if (x === 'in') { 
         karte.width = karte.width * r;
         karte.height = karte.height * r;
         karte.zoomlevel = karte.zoomlevel * r;
-        karte.umrechnung = karte.umrechnung * r;
+        karte.factor = karte.factor * r;
     }
     else if (x === 'out') { 
         karte.width = karte.width / r;
         karte.height = karte.height / r;
         karte.zoomlevel = karte.zoomlevel / r;
-        karte.umrechnung = karte.umrechnung / r;
+        karte.factor = karte.factor / r;
     }
     document.getElementById('svg2').setAttribute('width', karte.width);
     document.getElementById('svg2').setAttribute('height', karte.height);
     karte.measureHide();
 }
 
-karte.measure=function() {
-    if (karte.funclevel=='info') {
+karte.measure = function() {
+    if (karte.funclevel === 'info') {
         document.getElementById('measureBtn').classList.add('active');
         karte.funclevel = 'measureEnabled';
         document.getElementById('kartenpanel').style.cursor = 'crosshair';
@@ -118,10 +156,10 @@ karte.measure=function() {
     }
 }
 
-karte.getMousePoint=function(event) {
+karte.getMousePoint = function(event) {
     const svgEl = document.getElementById('svg2');
     const matrix = svgEl.getScreenCTM();
-    const point = svgEl.createSVGPoint();
+    let point = svgEl.createSVGPoint();
     point.x = event.clientX;
     point.y = event.clientY;
     point = point.matrixTransform(matrix.inverse());
@@ -165,7 +203,7 @@ karte.measureStop = function(event) {
     karte.funclevel = 'measureEnabled';
 }
 
-karte.measureHide=function() {
+karte.measureHide = function() {
     document.getElementById('Start').setAttribute('cx',-10);
     document.getElementById('Start').setAttribute('cy',-10);
     document.getElementById('Stop').setAttribute('cx',-10);

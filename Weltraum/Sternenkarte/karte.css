@@ -1,0 +1,39 @@
+#kartenpanel text {
+    cursor: pointer;
+}
+
+#infopanel,
+#kartenpanel {
+    height: calc(100vH - 2rem);
+}
+
+#kartentoolbar {
+    position: absolute;
+    z-index: 100;
+    bottom: 1.5rem;
+    left: 2.5rem;
+}
+
+#infoTab {
+    font-size: 0.9rem;
+}
+
+#infoTab h1 {
+    font-size: 2rem;
+}
+
+#infoTab h2 {
+    font-size: 1.8rem;
+}
+
+#infoTab h3 {
+    font-size: 1.6rem;
+}
+
+#infoTab h4 {
+    font-size: 1.4rem;
+}
+
+#infoTab h5 {
+    font-size: 1rem;
+}
