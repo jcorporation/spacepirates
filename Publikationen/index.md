@@ -110,6 +110,25 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
             </div>
         </div>
     </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">StarTunes CD-Box</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img src="{{ site.baseurl }}/assets/images/thumbnails/startunes-cdbox.png" width="100" height="100">
+                    </div>
+                    <div class="col">
+                        <p>StarTunes in einer schicken CD-Box.</p>
+                        <p>Preis: 7,- EUR</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/StarTunes/">StarTunes anhören</a>
+            </div>
+        </div>
+    </div>
 </div>
 
 ***
