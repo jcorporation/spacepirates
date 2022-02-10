@@ -21,8 +21,15 @@
 
 {% assign normalized = normalized | remove_first: " " %}
 
-{% assign chars = "'`´,;.-?!():[]|&/#" | split: "" %}
+{% assign chars = "'`´,;.-?!():[]|&/#{}" | split: "" %}
 {% assign normalized = normalized | remove: char '"' %}
+{% assign normalized = normalized | replace: 'ö', 'oe' %}
+{% assign normalized = normalized | replace: 'ü', 'ue' %}
+{% assign normalized = normalized | replace: 'ä', 'ae' %}
+{% assign normalized = normalized | replace: 'Ö', 'oe' %}
+{% assign normalized = normalized | replace: 'Ü', 'ue' %}
+{% assign normalized = normalized | replace: 'Ä', 'ae' %}
+{% assign normalized = normalized | replace: 'ß', 'ss' %}
 {% for char in chars %}
     {% assign normalized = normalized | remove: char %}
 {% endfor %}
