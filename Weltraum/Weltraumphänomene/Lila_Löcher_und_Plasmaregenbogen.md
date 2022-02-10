@@ -2,7 +2,9 @@
 layout: weltraumphaenomen
 permalink: /Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen
 title: Lila Löcher und Plasmaregenbogen
-
+keywords:
+    - Lila Loch
+    - Plasmaregenbogen
 sitedata:
     Weltraumphaenomene:
         Lila_Loecher_und_Plasmaregenbogen:
