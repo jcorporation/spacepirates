@@ -159,7 +159,18 @@ if (btnSearch !== null) {
 
 function doSearch(value, resultEl) {
     // normalize searchstring
-    value = value.toLowerCase().replace(/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#]/g, '');
+    value = value.toLowerCase().replace(/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#\{\}]/g, '');
+    value = value.replace(/[üöäßÜÖÄ]/, function(m) {
+        switch(m) {
+            case 'ü': return 'ue';
+            case 'ö': return 'oe';
+            case 'ä': return 'ae';
+            case 'ß': return 'ss';
+            case 'Ü': return 'ue';
+            case 'Ö': return 'oe';
+            case 'Ä': return 'ae';
+        }
+    });
     // stomp searchstring
     const stomp = stompWords[value];
     if (stomp !== undefined) {

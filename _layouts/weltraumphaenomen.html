@@ -8,6 +8,13 @@ layout: default
   </main>
   <aside class="col col-xl-4 pe-0">
     {% assign name = page.title | replace: " ", "_" %}
+    {% assign name = name | replace: "ß", "ss" %}
+    {% assign name = name | replace: "ä", "ae" %}
+    {% assign name = name | replace: "ö", "oe" %}
+    {% assign name = name | replace: "ü", "ae" %}
+    {% assign name = name | replace: "Ä", "ae" %}
+    {% assign name = name | replace: "Ö", "ae" %}
+    {% assign name = name | replace: "Ü", "ae" %}
     {% assign data = page.sitedata.Weltraumphaenomene[name] %}
     {% include weltraumphaenomen.md data=data %}
   </aside>

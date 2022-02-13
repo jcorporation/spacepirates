@@ -25,7 +25,7 @@ sitedata:
             Wohnort: Neusirius
         Hari_Jambal:
             Name: Hari Jambal
-            Rasse: Asiat
+            Rasse: Neuasiat
             Kategorie: Militär
             Position: "Admiral der Flotte Neuasiens."
             Wohnort: Neuchina

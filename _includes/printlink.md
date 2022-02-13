@@ -10,6 +10,15 @@
 {% elsif include.type %}
     {% for text in include.data %}
         {% assign key = text | replace: ' ', '_' %}
+	{% assign key = key | remove: char '"' %}
+	{% assign key = key | replace: 'ö', 'oe' %}
+	{% assign key = key | replace: 'ü', 'ue' %}
+	{% assign key = key | replace: 'ä', 'ae' %}
+	{% assign key = key | replace: 'Ö', 'oe' %}
+	{% assign key = key | replace: 'Ü', 'ue' %}
+	{% assign key = key | replace: 'Ä', 'ae' %}
+	{% assign key = key | replace: 'ß', 'ss' %}
+
         {% assign link = site.data[include.type][key].Link %}
         {% if link %}
             {% assign crumbs = link | remove_first: "/" | split: '/' %}

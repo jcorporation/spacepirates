@@ -21,15 +21,13 @@ sub get_files {
     my $dirname = $_[0];
     opendir my $dh, $dirname or die "Error in opening dir $dirname\n";
     while (my $filename = readdir($dh)) {
-        if ($filename =~ /^\./ or
-            $filename =~ /.*~$/)
-        {
+        if ($filename =~ /^(\.|_)/) {
             next;
         }
         if (-d $dirname."/".$filename) {
             get_files($dirname."/".$filename);
         }
-        else {
+        elsif ($filename =~ /\.md$/) {
             push @files, $dirname."/".$filename;
         }
     }
@@ -91,9 +89,13 @@ sub get_uri {
 sub normalize {
     my $kw = lc($_[0]);
     # german umlauts
-    $kw =~ s/Ü/ü/g;
-    $kw =~ s/Ö/ö/g;
-    $kw =~ s/Ä/ä/g;
+    $kw =~ s/Ü/ue/g;
+    $kw =~ s/Ö/oe/g;
+    $kw =~ s/Ä/ae/g;
+    $kw =~ s/ü/ue/g;
+    $kw =~ s/ö/oe/g;
+    $kw =~ s/ä/ae/g;
+    $kw =~ s/ß/ss/g;
     # html escapes
     $kw =~ s/&ndash;//g;
     $kw =~ s/&dash;//g;
@@ -108,7 +110,7 @@ sub normalize {
     # markdown links
     $kw =~ s/\[([^\]]+)\]\([^\)]+\)/$1/g;
     # special chars
-    $kw =~ s/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#–„“]//g;
+    $kw =~ s/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#–„“\{\}]//g;
     # whitspaces
     $kw =~ s/\&nbsp;/ /g;
     $kw =~ s/\s+/ /g;
