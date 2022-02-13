@@ -42,6 +42,13 @@
     "Position": "Rebellenanführer",
     "Link": "/Weltraum/Rebellen/"
   },
+  "Arnek_Padern": {
+    "Name": "Arnek Padern",
+    "Rasse": "Trull",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Omatic",
+    "Link": "/Weltraum/Konzerne/Omatic_Enterprise"
+  },
   "Arnold_Easteregger": {
     "Name": "Arnold Easteregger",
     "Rasse": "Spacepear",
@@ -57,6 +64,13 @@
     "Wohnort": "Streif",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Barry_Site": {
+    "Name": "Barry Site",
+    "Rasse": "Trull",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Trullmania",
+    "Link": "/Weltraum/Konzerne/Puugle_Incorporated"
   },
   "Birgit_Niels": {
     "Name": "Birgit Niels",
@@ -180,6 +194,17 @@
     "Position": "Mafiaboss",
     "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder"
   },
+  "Dr__Engel": {
+    "Name": "Dr. Engel",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Klinikpersonal",
+      "Arzt"
+    ],
+    "Wohnort": "Spacewood-Klinik",
+    "Position": "Arzt",
+    "Link": "/Weltraum/Konzerne/Spacewood-Klinik/Personal"
+  },
   "Edward_Bakutha": {
     "Name": "Edward Bakutha",
     "Rasse": "Mensch",
@@ -284,6 +309,13 @@
     "Position": "Ninja Großmeister",
     "Link": "/Weltraum/SpaceNinjas/Clans/Hattori-Hanzo-Akademie"
   },
+  "Hendrik_Marslan": {
+    "Name": "Hendrik Marslan",
+    "Rasse": "Wagone",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Xawang",
+    "Link": "/Weltraum/Konzerne/ImmoTrade"
+  },
   "Holly_Day": {
     "Name": "Holly Day",
     "Rasse": "Mensch",
@@ -382,6 +414,13 @@
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
+  "Larry_Stanton": {
+    "Name": "Larry Stanton",
+    "Rasse": "Mensch",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Stratum Nova",
+    "Link": "/Weltraum/Konzerne/Hired_Guns"
+  },
   "Leu_Ming": {
     "Name": "Leu Ming",
     "Rasse": "Neuasiat",
@@ -443,6 +482,13 @@
     "Wohnort": "",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Marxes": {
+    "Name": "Marxes",
+    "Rasse": "Trull",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Xanar 1",
+    "Link": "/Weltraum/Konzerne/Better_Than_Broadcast"
   },
   "Melinda_Gomez": {
     "Name": "Melinda Gomez",
@@ -573,6 +619,13 @@
     "Wohnort": "Kabukicho-Prime",
     "Position": "Ninja Großmeister",
     "Link": "/Weltraum/SpaceNinjas/Clans/Akamachi-Clan"
+  },
+  "Sharif_Omar": {
+    "Name": "Sharif Omar",
+    "Rasse": "Mensch",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Omar",
+    "Link": "/Weltraum/Konzerne/JCTech_IAG"
   },
   "Simone_de_Montfort": {
     "Name": "Simone de Montfort",

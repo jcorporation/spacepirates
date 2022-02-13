@@ -7,6 +7,7 @@
     {% assign Name = konzern[1].Name %}
     {% assign Kategorie = konzern[1].Kategorie %}
     {% assign Konzernzentrale = konzern[1].Konzernzentrale %}
+    {% assign Link = konzern[1].Link %}
 
     {% if include.filter_field == '' or konzern[1][include.filter_field] contains include.filter_value %}
         <tr>

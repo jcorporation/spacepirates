@@ -97,14 +97,8 @@ sub normalize {
     $kw =~ s/ä/ae/g;
     $kw =~ s/ß/ss/g;
     # html escapes
-    $kw =~ s/&ndash;//g;
-    $kw =~ s/&dash;//g;
-    $kw =~ s/&amp;//g;
-    $kw =~ s/&bdquo;//g;
-    $kw =~ s/&ldquo;//g;
-    $kw =~ s/&raquo;//g;
-    $kw =~ s/&acute;//g;
-    $kw =~ s/&rsquo;//g;
+    $kw =~ s/\&nbsp;/ /g;
+    $kw =~ s/\&\w+;//g;
     # html tags
     $kw =~ s/<[^>]+>//g;
     # markdown links
@@ -112,10 +106,11 @@ sub normalize {
     # special chars
     $kw =~ s/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#–„“\{\}]//g;
     # whitspaces
-    $kw =~ s/\&nbsp;/ /g;
     $kw =~ s/\s+/ /g;
     $kw =~ s/^\s+//g;
     $kw =~ s/\s+$//g;
+    # misc
+    $kw =~ s/\s+\&\s+/ \& /g;
     return $kw;
 }
 

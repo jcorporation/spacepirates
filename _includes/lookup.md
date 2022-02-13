@@ -30,6 +30,7 @@
 {% assign normalized = normalized | replace: 'Ü', 'ue' %}
 {% assign normalized = normalized | replace: 'Ä', 'ae' %}
 {% assign normalized = normalized | replace: 'ß', 'ss' %}
+{% assign normalized = normalized | replace: '&', 'und' %}
 {% for char in chars %}
     {% assign normalized = normalized | remove: char %}
 {% endfor %}

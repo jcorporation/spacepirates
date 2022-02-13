@@ -1,4 +1,175 @@
 {
+  "Asia_Media": {
+    "Name": "Asia Media",
+    "Besitzer": "Sternenrepublik Neuasien",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Medienkonzern",
+    "Konzernzentrale": "Kabukicho Prime",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Asia_Media"
+  },
+  "Better_Than_Broadcast": {
+    "Name": "Better Than Broadcast",
+    "Besitzer": "Marxes",
+    "Geschaeftsfuehrer": "Marxes",
+    "Kategorie": "Medienkonzern",
+    "Konzernzentrale": "Xanar 1",
+    "Niederlassungen": "quasi überall",
+    "Link": "/Weltraum/Konzerne/Better_Than_Broadcast"
+  },
+  "Captain_Rogers": {
+    "Name": "Captain Rogers",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Produktion",
+    "Konzernzentrale": "Cygni Tek",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Captain_Rogers"
+  },
+  "China_Space": {
+    "Name": "China Space",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Hightech",
+    "Konzernzentrale": "Kabukicho-Prime",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/China_Space"
+  },
+  "Drojar_und_Partner": {
+    "Name": "Drojar und Partner",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Anwaltskanzlei",
+    "Konzernzentrale": "Xawang",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Drojar_und_Partner"
+  },
+  "Federal_Space_Exploration_Company": {
+    "Name": "Federal Space Exploration Company",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Handelskonzern",
+    "Konzernzentrale": "Neusirius",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Fedspex"
+  },
+  "Fish_And_More": {
+    "Name": "Fish And More",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Lebensmittelkonzern",
+    "Konzernzentrale": "Kabukicho-Prime",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Fish_And_More"
+  },
+  "Hired_Guns": {
+    "Name": "Hired Guns",
+    "Besitzer": "Larry Stanton",
+    "Geschaeftsfuehrer": "Larry Stanton",
+    "Kategorie": "Security-Konzern",
+    "Konzernzentrale": "Stratum Nova",
+    "Niederlassungen": "quasi überall",
+    "Link": "/Weltraum/Konzerne/Hired_Guns"
+  },
+  "ImmoTrade": {
+    "Name": "ImmoTrade",
+    "Besitzer": "Hendrik Marslan",
+    "Geschaeftsfuehrer": "Hendrik Marslan",
+    "Kategorie": "Immobilienkonzern",
+    "Konzernzentrale": "Xawang",
+    "Handelsniederlassungen": "keine",
+    "Link": "/Weltraum/Konzerne/ImmoTrade"
+  },
+  "JCTech_IAG": {
+    "Name": "JCTech IAG",
+    "Besitzer": "Aktiengesellschaft",
+    "Geschaeftsfuehrer": "Sharif Omar",
+    "Kategorie": "Technologiekonzern",
+    "Konzernzentrale": "Omar",
+    "Niederlassungen": [
+      "Kozel 5",
+      "Stratum Nova"
+    ],
+    "Link": "/Weltraum/Konzerne/JCTech_IAG"
+  },
+  "Keith__Brown_and_Stanton": {
+    "Name": "Keith, Brown and Stanton",
+    "Besitzer": "Keith, Brown and Stanton",
+    "Geschaeftsfuehrer": "Keith, Brown and Stanton",
+    "Kategorie": "PR-Agentur",
+    "Konzernzentrale": "Stratum Nova",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Keith__Brown_and_Stanton"
+  },
+  "LTR": {
+    "Name": "LTR",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Medienkonzern",
+    "Konzernzentrale": "",
+    "Niederlassungen": "Erde",
+    "Link": "/Weltraum/Konzerne/LTR"
+  },
+  "Mind_Group": {
+    "Name": "Mind Group",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Finanzinvestor",
+    "Konzernzentrale": "Erde",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Mind_Group"
+  },
+  "NAKGF": {
+    "Name": "NAKGF",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Technologiekonzern",
+    "Konzernzentrale": "Kabukicho-Prime",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/NAKGF"
+  },
+  "Omatic_Enterprise": {
+    "Name": "Omatic Enterprise",
+    "Besitzer": "Arnek Padern",
+    "Geschaeftsfuehrer": "Arnek Padern",
+    "Kategorie": "Technologiekonzern",
+    "Konzernzentrale": "Omatic",
+    "Niederlassungen": [
+      "Kozel 5",
+      "Stratum Nova"
+    ],
+    "Link": "/Weltraum/Konzerne/Omatic_Enterprise"
+  },
+  "Puugle_Incorporated": {
+    "Name": "Puugle Incorporated",
+    "Besitzer": "Barry Site",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Medienkonzern",
+    "Konzernzentrale": "Omega 10",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Puugle_Incorporated"
+  },
+  "Rabbit_Inc": {
+    "Name": "Rabbit Inc",
+    "Besitzer": "Yellow Stone Group",
+    "Geschaeftsfuehrer": "Harrison Welch",
+    "Kategorie": "Produktion",
+    "Konzernzentrale": "Pessach 4",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Rabbit_Inc"
+  },
+  "Raumschiff_und_Co_": {
+    "Name": "Raumschiff & Co.",
+    "Besitzer": "Interstellarer Finanzinvestor Mind Group",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Raumfahrtkonzern",
+    "Konzernzentrale": "Sisbert",
+    "Niederlassungen": [
+      "Kozel 5",
+      "Stratum Nova"
+    ],
+    "Link": "/Weltraum/Konzerne/Raumschiff_und_Co_"
+  },
   "S_I_E__Robotermanufaktur": {
     "Name": "S.I.E. Robotermanufaktur",
     "Besitzer": "Jonas Wagner",
@@ -37,6 +208,15 @@
     "Konzernzentrale": "Erde",
     "Niederlassungen": "Stratum Nova",
     "Link": "/Weltraum/Konzerne/SpaceShell"
+  },
+  "Spacewood-Klinik": {
+    "Name": "Spacewood-Klinik",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Krankenhaus",
+    "Konzernzentrale": "Spacewood-Forest",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Spacewood-Klinik/"
   },
   "StarIllu": {
     "Name": "StarIllu",

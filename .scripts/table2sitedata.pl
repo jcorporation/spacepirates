@@ -21,7 +21,7 @@ while (<STDIN>) {
     elsif (/<caption>([^<]+)<\/caption>/) {
         my $name = $1;
         my $key = $1;
-        $key =~ s/[\s\.]/_/g;
+        $key =~ s/[\s\.\,]/_/g;
         $out.= "        ".$key.":\n";
         $out.= "            Name: \"$name\"\n";
     }

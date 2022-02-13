@@ -11,7 +11,8 @@
         <tr><th>Besitzer</th><td>{% include printtext.md data=Besitzer %}</td></tr>
         <tr><th>Geschäftsführer</th><td>{% include printlink.md data=Geschaeftsfuehrer type='Slc' %}</td></tr>
         <tr><th>Kategorie</th><td>{% include printtext.md data=Kategorie %}</td></tr>
-        <tr><th>Konzernzentrale</th><td>{% include printtext.md data=Konzernzentrale %}</td></tr>
-        <tr><th>Niederlassungen</th><td>{% include printtext.md data=Niederlassungen %}</td></tr>
+        <tr><th>Konzernzentrale</th><td>{% include printlink.md data=Konzernzentrale %}</td></tr>
+        <tr><th>Niederlassungen</th><td>{% include printlink.md data=Niederlassungen %}</td></tr>
+        <tr><th>Erwähnungen</th><td>{% include lookup.md data=Name %}</td></tr>
     </tbody>
 </table>

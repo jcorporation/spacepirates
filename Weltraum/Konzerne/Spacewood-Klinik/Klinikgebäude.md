@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Konzerne/Spacewoodklinik/Klinikgebaeude
+permalink: /Weltraum/Konzerne/Spacewood-Klinik/Klinikgebäude
 title: Klinikgebäude
 ---
 
@@ -11,4 +11,3 @@ Das Klinikareal schottet sich streng ab, man kommt nur nach einer Personenkontro
 Die Keller der Klinik reichen tief nach unten und längst nicht alle Räume und Gänge sind im Gebäudeplan eingezeichnet. Die meisten sind auch verlassen, nur der Hausmeister kennt ein paar Teile des Kellers, den sonst niemand mehr kennt.
 
 Natürlich verfügt die Klinik auch über einen eigenen Raumhafen und schnelle Einsatzraumschiffe für Notfälle.
-

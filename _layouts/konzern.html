@@ -11,6 +11,7 @@ layout: default
 {% assign name = name | replace: "Ä", "ae" %}
 {% assign name = name | replace: "Ö", "ae" %}
 {% assign name = name | replace: "Ü", "ae" %}
+{% assign name = name | replace: "&", "und" %}
 {% assign data = page.sitedata.Konzerne[name] %}
 
 <div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">

@@ -2,6 +2,8 @@
 layout: konzern
 permalink: /Weltraum/Konzerne/Universe_Broadcast
 title: Universe Broadcast
+keywords:
+    - UBC
 sitedata:
     Konzerne:
         Universe_Broadcast:
