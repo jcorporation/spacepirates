@@ -1,12 +1,21 @@
 ---
-layout: page
-permalink: /Weltraum/Freihandelszone/Systemdertraeume_hollywood
+layout: planet
+permalink: /Weltraum/Freihandelszone/System_der_Träume/Hollywood
 title: Hollywood
+sitedata:
+    Planeten:
+        Hollywood:
+            Name: "Hollywood"
+            Typ: "Erdähnlicher Planet"
+            Sektor: "Freihandelszone"
+            Monde: "Staubring"
+            Einwohner: "Schauspieler"
+            Hauptstadt: ""
+            Besiedelung: "Filmstudios"
+            Politisches: "Filmplanet"
 ---
 
-
 # Hollywood
-
 
 Ein saturnmäßiger Ring aus Raumstaubpartikeln umkreist diesen Himmelskörper. Auf dem Ring sind riesige blinkende und weit ins All hinein sichtbare Buchstaben befestigt, die seinen Namen bilden: „Planet Hollywood“. Auf dem Planet Hollywood haben sich die modernsten Filmstudios des gesamten Systems der Träume angesiedelt. Hier wird beliebtes Popcorn-, Action- und Mainstream-Kino geschaffen für die 5D-Kinosäle in den gewaltigen Gigaplexraumschiffen. Weil Gigaplexkinos schneller als das Licht reisen, kommt es zu Raumzeitkrümmungen und relativistischen Effekten, die gewitzte Regisseure als Spezialeffekte in ihre Filme einbauen. Das allein wäre nur „4 D“, als „5 D“ gelten dann Filme, bei denen zusätzlich vibrierende Kinosessel und Windmaschinen zum Einsatz kommen.
 
@@ -14,22 +23,3 @@ Auf Planet Hollywood ist alles anders, als es zunächst scheint – und oft auch
 
 - **Berühmte Filme:** Der Herr der Ringgalaxien 1 bis 3; Das Kreuzfahrraumschiff Titanic und der Asteroid; Blanker Käse; Y-Women
 - **Berühmte Darsteller:** Barbara Streifsand; Arnold Easteregger (Die „Cone“-Filme waren für ihn ein Sprungbrett); Jean Damme van Raumcloud; Dimli
-
-
-<aside>
-<table data-type="planet">
-<caption>Hollywood</caption>
-<tbody>
-<tr><th>Typ</th><td>Erdähnlicher Planet</td></tr>
-<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone)</td></tr>
-<tr><th>Monde</th><td>Staubring</td></tr>
-<tr><th>Einwohner</th><td>Schauspieler</td></tr>
-<tr><th>Hauptstadt</th><td> </td></tr>
-<tr><th>Besiedelung</th><td>Filmstudios</td></tr>
-<tr><th>Politisches</th><td>[Filmplanet]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume)</td></tr>
-<tr><th>Erwähnungen</th><td>[Hollywood]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
-</aside>
-

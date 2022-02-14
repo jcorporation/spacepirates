@@ -7,6 +7,13 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Adaxes_Karu": {
+    "Name": "Adaxes Karu",
+    "Rasse": "Trull",
+    "Kategorie": "Politiker",
+    "Wohnort": "Stratum Nova",
+    "Link": "/Weltraum/Freihandelszone/Handelsrat"
+  },
   "Al_Banchigo": {
     "Name": "Al Banchigo",
     "Rasse": "Trull",
@@ -421,6 +428,19 @@
     "Wohnort": "Stratum Nova",
     "Link": "/Weltraum/Konzerne/Hired_Guns"
   },
+  "Leila_Scharjar": {
+    "Name": "Leila Scharjar",
+    "Rasse": "Wagone",
+    "Kategorie": "Politiker",
+    "Wohnort": "Stratum Nova",
+    "Position": "",
+    "SOELDNER": 8,
+    "TECH": 5,
+    "PILOT": 7,
+    "HAENDLER": 9,
+    "Zaehigkeit": 4,
+    "Link": "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar"
+  },
   "Leu_Ming": {
     "Name": "Leu Ming",
     "Rasse": "Neuasiat",
@@ -490,6 +510,14 @@
     "Wohnort": "Xanar 1",
     "Link": "/Weltraum/Konzerne/Better_Than_Broadcast"
   },
+  "Marzak_Janxes": {
+    "Name": "Marzak Janxes",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Militär",
+    "Wohnort": "Beta Prison",
+    "Position": "",
+    "Link": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal"
+  },
   "Melinda_Gomez": {
     "Name": "Melinda Gomez",
     "Rasse": "Mensch",
@@ -507,6 +535,13 @@
     "Wohnort": "",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Moh_Oll": {
+    "Name": "Moh Oll",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Einsiedler",
+    "Wohnort": "Stummfilm-Planet",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet"
   },
   "Naztur": {
     "Name": "Naztur",
@@ -536,6 +571,14 @@
     "Kategorie": "Kneipenbesitzer",
     "Wohnort": "Freeport",
     "Link": "/Weltraum/Piraten/Treffpunkte/Freeport"
+  },
+  "Pinky_der_Schlitzer": {
+    "Name": "Pinky der Schlitzer",
+    "Rasse": "Streifanier",
+    "Kategorie": "Verbrecher",
+    "Wohnort": "Beta Prison",
+    "Position": "",
+    "Link": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen"
   },
   "Professor_Robotto": {
     "Name": "Professor Robotto",

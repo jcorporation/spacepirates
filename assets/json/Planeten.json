@@ -10,6 +10,28 @@
     "Politisches": "Rebellen",
     "Link": "/Weltraum/Rebellen/Alastor"
   },
+  "Avantgardia": {
+    "Name": "Avantgardia",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Freihandelszone",
+    "Monde": "5",
+    "Einwohner": "Schauspieler",
+    "Hauptstadt": "",
+    "Besiedelung": "Filmsets",
+    "Politisches": "Filmplanet",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Avantgardia"
+  },
+  "Beta_Prison": {
+    "Name": "Beta Prison",
+    "Typ": "Wüstenplanet",
+    "Sektor": "Freihandelszone",
+    "Monde": "5",
+    "Einwohner": "Wärter und Gefangene",
+    "Hauptstadt": "keine",
+    "Besiedelung": "Ein großes Gefängnis",
+    "Politisches": "Gefängnisplanet",
+    "Link": "/Weltraum/Freihandelszone/Beta_Prison/"
+  },
   "Bharani_8": {
     "Name": "Bharani 8",
     "Typ": "Felsplanet",
@@ -20,6 +42,17 @@
     "Besiedelung": "Einsiedlerhütte",
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Neutrale_Zone/Bharani_8"
+  },
+  "Bollywood": {
+    "Name": "Bollywood",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Freihandelszone",
+    "Monde": "0",
+    "Einwohner": "Schauspieler",
+    "Hauptstadt": "",
+    "Besiedelung": "weiße Paläste",
+    "Politisches": "Filmplanet",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Bollywood"
   },
   "Brarbragroz": {
     "Name": "Brarbragroz",
@@ -32,6 +65,17 @@
     "Politisches": "Zurückgebliebener Planet",
     "Link": "/Weltraum/Brarbragroz"
   },
+  "D4E20": {
+    "Name": "D4E20",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Freihandelszone",
+    "Monde": "2",
+    "Einwohner": "Wagonen",
+    "Hauptstadt": "Kalath",
+    "Besiedelung": "Eine hochmoderne Stadt",
+    "Politisches": "Botschaftsplanet der Wagonen",
+    "Link": "/Weltraum/Freihandelszone/D4E20"
+  },
   "DU-3864366": {
     "Name": "DU-3864366",
     "Typ": "Erdähnlich",
@@ -42,6 +86,17 @@
     "Besiedelung": "Dungeon",
     "Politisches": "Keine politischen Beziehungen",
     "Link": "/Weltraum/DU-3864366"
+  },
+  "Der_Rote_Planet": {
+    "Name": "Der Rote Planet",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Freihandelszone",
+    "Monde": "2",
+    "Einwohner": "Schauspieler",
+    "Hauptstadt": "",
+    "Besiedelung": "Filmsets",
+    "Politisches": "Filmplanet",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Der_Rote_Planet"
   },
   "Doradus": {
     "Name": "Doradus",
@@ -75,6 +130,17 @@
     "Besiedelung": "durchschnittlich, mit vielen Städten",
     "Politisches": "Heimatplanet der Menschen",
     "Link": "/Weltraum/Menschen/Föderation/Erde"
+  },
+  "Hollywood": {
+    "Name": "Hollywood",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Freihandelszone",
+    "Monde": "Staubring",
+    "Einwohner": "Schauspieler",
+    "Hauptstadt": "",
+    "Besiedelung": "Filmstudios",
+    "Politisches": "Filmplanet",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Hollywood"
   },
   "Javar_3": {
     "Name": "Javar 3",
@@ -120,6 +186,28 @@
     "Politisches": "Eigentum von SpaceShell",
     "Link": "/Weltraum/Menschen/Föderation/Katpar"
   },
+  "Keas": {
+    "Name": "Keas",
+    "Typ": "Eisplanet",
+    "Sektor": "Freihandelszone",
+    "Monde": "3",
+    "Einwohner": "Kahadrier",
+    "Hauptstadt": "Hadoshan",
+    "Besiedelung": "unterirdische Städte",
+    "Politisches": "Botschaftsplanet der Kahadrier",
+    "Link": "/Weltraum/Freihandelszone/Keas"
+  },
+  "Kozel_5": {
+    "Name": "Kozel 5",
+    "Typ": "Wüstenplanet",
+    "Sektor": "Freihandelszone",
+    "Monde": "1",
+    "Einwohner": "Trull",
+    "Hauptstadt": "Kilru",
+    "Besiedelung": "kleine Siedlungen",
+    "Politisches": "Botschaftsplanet der Trull",
+    "Link": "/Weltraum/Freihandelszone/Kozel_5"
+  },
   "Los_Mochis": {
     "Name": "Los Mochis",
     "Typ": "Steppenplanet",
@@ -141,6 +229,17 @@
     "Besiedelung": "Militärstützpunkte",
     "Politisches": "Hauptstandort des Militärs von Neuasien",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Neuchina"
+  },
+  "Neusirius": {
+    "Name": "Neusirius",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Freihandelszone",
+    "Monde": "2",
+    "Einwohner": "Menschen",
+    "Hauptstadt": "Neubrüssel",
+    "Besiedelung": "große Städte",
+    "Politisches": "Botschaftsplanet der Föderation",
+    "Link": "/Weltraum/Freihandelszone/Neusirius"
   },
   "Nova_Ceti": {
     "Typ": "Waldplanet",
@@ -219,6 +318,17 @@
     "Politisches": "Yellow Stone Group",
     "Link": "/Weltraum/Menschen/Föderation/Pessach_4"
   },
+  "Rigel_3": {
+    "Name": "Rigel 3",
+    "Typ": "Felsplanet",
+    "Sektor": "Freihandelszone",
+    "Monde": "3",
+    "Einwohner": "Samnesen",
+    "Hauptstadt": "Kira City",
+    "Besiedelung": "große Städte",
+    "Politisches": "Eigentum der Samnesen",
+    "Link": "/Weltraum/Freihandelszone/Rigel_3"
+  },
   "Sampuk": {
     "Typ": "Felsplanet",
     "Name": "Sampuk",
@@ -229,6 +339,17 @@
     "Besiedelung": "große Städte",
     "Politisches": "Heimatplanet der Samnesen",
     "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
+  },
+  "Sandalien": {
+    "Name": "Sandalien",
+    "Typ": "Wüstenplanet",
+    "Sektor": "Freihandelszone",
+    "Monde": "8",
+    "Einwohner": "Schauspieler",
+    "Hauptstadt": "",
+    "Besiedelung": "Filmsets",
+    "Politisches": "Filmplanet",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Sandalien"
   },
   "Santa_24": {
     "Name": "Santa 24",
@@ -252,6 +373,17 @@
     "Politisches": "Müllplanet",
     "Link": "/Weltraum/Neutrale_Zone/Scrabnambu"
   },
+  "Serius_80": {
+    "Name": "Serius 80",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Freihandelszone",
+    "Monde": "3",
+    "Einwohner": "Schauspieler",
+    "Hauptstadt": "",
+    "Besiedelung": "Filmsets",
+    "Politisches": "Filmplanet",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Serius_80"
+  },
   "Sisbert": {
     "Name": "Sisbert",
     "Typ": "erdähnlicher Planet",
@@ -262,6 +394,28 @@
     "Besiedelung": "Konzernplanet",
     "Politisches": "Eigentum Raumschiff & Co",
     "Link": "/Weltraum/Menschen/Föderation/Sisbert"
+  },
+  "Stratum_Nova": {
+    "Name": "Stratum Nova",
+    "Typ": "Wüstenplanet",
+    "Sektor": "Freihandelszone",
+    "Monde": "3",
+    "Einwohner": "Galaktischer Handelsrat",
+    "Hauptstadt": "Taron City",
+    "Besiedelung": "einige sehr große Städte, dazwischen Wüste",
+    "Politisches": "Sitz des galaktischen Handelsrates",
+    "Link": "/Weltraum/Freihandelszone/Stratum_Nova"
+  },
+  "Stummfilm-Planet": {
+    "Name": "Stummfilm-Planet",
+    "Typ": "Erdähnliches Planet",
+    "Sektor": "Freihandelszone",
+    "Monde": "4",
+    "Einwohner": "Schauspieler",
+    "Hauptstadt": "",
+    "Besiedelung": "Filmsets",
+    "Politisches": "Filmplanet",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet"
   },
   "Terra_20CAD": {
     "Name": "Terra 20CAD",

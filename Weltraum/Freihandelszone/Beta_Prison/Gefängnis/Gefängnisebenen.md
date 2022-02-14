@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /Weltraum/Freihandelszone/Beta_Prison/Gefaengnis_ebenen
+permalink: /Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Gefängnisebenen
 title: Gefängnisebenen
 ---
 
-
 # Gefängnisebenen
-
 
 Das Gefängnis ist vertikal aufgebaut und unterteilt sich in verschiedene Ebenen. Diese verbinden kurze Verbindungstunnel miteinander, die starke Panzertüren und Selbstschussanlagen sichern.
 
@@ -27,6 +25,3 @@ Auf der „Willkommensebene“ findet man den Ankunfts- und Säuberungsbereich f
 Die Gefangenen leben auf den beiden untersten Ebenen. Sie bestehen größtenteils aus offenen Bereichen, in denen sich die Gefangenen frei bewegen können. Jeweils vier Gefangene teilen sich eine Zelle, die Schlafstätten und sanitäre Anlagen enthält. Die Wärter halten sich von hier fern und überwachen das Ganze von gesicherten Kabinen an der Decke. Essen und Dinge wie Kleidung werden durch enge Schächte herabgelassen. Für Wartungsarbeiten können einzelne Abschnitte durch Stahlwände abgetrennt werden.
 
 Die 4. Ebene beherbergt vor allem politische Gefangene und Wirtschaftsverbrecher, während die 5. Ebene Gewaltverbrechern ein Zuhause bietet. Beide Ebenen sind streng voneinander getrennt.
-
-
-

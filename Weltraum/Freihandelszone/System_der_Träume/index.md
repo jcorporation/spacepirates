@@ -1,12 +1,19 @@
 ---
-layout: page
-permalink: /Weltraum/Freihandelszone/Systemdertraeume
-title: Das System der Träume
+layout: sternensystem
+permalink: /Weltraum/Freihandelszone/System_der_Träume
+title: System der Träume
+sitedata:
+    Sternensysteme:
+        System_der_Traeume:
+            Name: "System der Träume"
+            Sektor: "Freihandelszone"
+            Zentralgestirn: "Sonne"
+            Planeten: "8"
+            Bewohner: "Schauspieler"
+            Politisches: "Zentrum der galaktischen Filmindustrie"
 ---
 
-
-# Das System der Träume
-
+# System der Träume
 
 Dieses opulente Sternensystem am Rande der Freihandelszone ist das Zentrum der galaktischen Filmindustrie. Im System der Träume arbeiten ehrgeizige Regisseure an neuen Holoblockbustern, um die Massen zu unterhalten. Drehbuch-Computer errechnen nach geheimen Algorithmen Folge um Folge beliebter Erfolgssitcoms. Nach der Arbeit treffen sich Produzenten und Schauspieler zu legendären Feten. Erfolg und Misserfolg liegen allerdings nirgendwo so nahe beieinander wie im System der Träume. Unzählige Möchtegern-Schauspieler sind froher Hoffnung hierher gestartet, nur um als Kamerahalter zu enden oder noch schlimmer – als Bettler auf der Mimen-Mission, der größten Raumstation des Systems der Träume.
 
@@ -16,27 +23,11 @@ Ein riesiges Metallgebilde umschließt die Sonne des Systems der Träume, natür
 
 ## Planeten
 
-- [Sandalien]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_sandalien)
-- [Der Rote Planet]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_roterplanet)
-- [Bollywood]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_bollywood)
-- [Hollywood]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_hollywood)
-- [Serius 80]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_serius80)
-- [Avantgardia]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_avantgardia)
-- [Der Stummfilm-Planet]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_stummfilmplanet)
-- [Die SdT-Station oder: „Die Mimen-Mission“]({{ site.baseurl }}/Weltraum/Freihandelszone/Systemdertraeume_mimen-mission)
-
-
-<aside>
-<table data-type="sternensystem">
-<caption>Das System der Träume</caption>
-<tbody>
-<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone)</td></tr>
-<tr><th>Zentralgestirn</th><td>Sonne</td></tr>
-<tr><th>Planeten</th><td>8</td></tr>
-<tr><th>Bewohner</th><td>Schauspieler</td></tr>
-<tr><th>Politisches</th><td>Zentrum der galaktischen Filmindustrie</td></tr>
-<tr><th>Erwähnungen</th><td>[System der Träume]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
-
+- [Sandalien]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Sandalien)
+- [Der Rote Planet]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Der_rote_Planet)
+- [Bollywood]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Bollywood)
+- [Hollywood]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Hollywood)
+- [Serius 80]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Serius_80)
+- [Avantgardia]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Avantgardia)
+- [Der Stummfilm-Planet]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet)
+- [Die SdT-Station oder: „Die Mimen-Mission“]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission)

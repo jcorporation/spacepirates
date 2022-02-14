@@ -29,6 +29,11 @@ do
     [[ "$F" =~ .*_aside.md$ ]] && continue
 
     SITEDATA=$($YQ --front-matter=extract '.sitedata' "$F")
+    if [ $? -ne 0 ]
+    then
+        echo $F
+        exit 1
+    fi
     PERMALINK=${F%.*} # remove extension
     PERMALINK=${PERMALINK:1} # remove first char
     PERMALINK=${PERMALINK/%index} # remove index suffix

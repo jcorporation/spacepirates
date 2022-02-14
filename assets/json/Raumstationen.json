@@ -34,6 +34,13 @@
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Weltraumphänomene/Halloween-Nebel"
   },
+  "Mimen-Mission": {
+    "Name": "Mimen-Mission",
+    "Sektor": "Freihandelszone",
+    "Bewohner": "Möchtegernschauspieler",
+    "Politisches": "Unabhängig",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission"
+  },
   "Piratenbucht": {
     "Name": "Piratenbucht",
     "Sektor": "immer woanders",

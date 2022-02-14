@@ -13,12 +13,40 @@
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma"
   },
+  "Hadoshan": {
+    "Name": "Hadoshan",
+    "Planet": "Keas",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Freihandelszone/Keas"
+  },
+  "Kalath": {
+    "Name": "Kalath",
+    "Planet": "D4E20",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Freihandelszone/D4E20"
+  },
   "Kappa-Stadt": {
     "Name": "Kappa-Stadt",
     "Planet": "Kappa Gamma",
     "Groesse": "Millionenstadt",
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa"
+  },
+  "Kilru": {
+    "Name": "Kilru",
+    "Planet": "Kozel 5",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Freihandelszone/Kozel_5"
+  },
+  "Kira_City": {
+    "Name": "Kira City",
+    "Planet": "Rigel 3",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Freihandelszone/Rigel_3"
   },
   "Krandor": {
     "Name": "Krandor",
@@ -41,6 +69,13 @@
     "Kategorie": "Mafiastadt",
     "Link": "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia"
   },
+  "Neubruessel": {
+    "Name": "Neubrüssel",
+    "Planet": "Neusirius",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Freihandelszone/Neusirius"
+  },
   "Pandar_City": {
     "Name": "Pandar City",
     "Planet": "Pandar 5",
@@ -61,6 +96,13 @@
     "Groesse": "Millionenstadt",
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Aliens/Samnesen/Sampuk"
+  },
+  "Taron_City": {
+    "Name": "Taron City",
+    "Planet": "Stratum Nova",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Freihandelszone/Stratum_Nova"
   },
   "Xiuta": {
     "Name": "Xiuta",

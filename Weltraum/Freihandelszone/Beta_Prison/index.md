@@ -1,12 +1,21 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Freihandelszone/Beta_Prison/
 title: Beta Prison
+sitedata:
+    Planeten:
+        Beta_Prison:
+            Name: "Beta Prison"
+            Typ: "Wüstenplanet"
+            Sektor: "Freihandelszone"
+            Monde: "5"
+            Einwohner: "Wärter und Gefangene"
+            Hauptstadt: "keine"
+            Besiedelung: "Ein großes Gefängnis"
+            Politisches: "Gefängnisplanet"
 ---
 
-
 # Beta Prison
-
 
 Beta Prison ist das größte und sicherste Hochsicherheitsgefängnis im bekannten Universum. Es befindet sich auf dem gleichnamigen Planeten, der am Rande der Freihandelszone, an der Grenze zum kahadrischen Reich zu finden ist. Um das Sternensystem dieses Planeten ist eine Sperrzone eingerichtet, die auch regelmäßig patrouilliert wird.
 
@@ -16,32 +25,11 @@ Früher wurde auf dem Planeten unterirdisch Negatritium abgebaut. An den Eingän
 
 Der gesamte Planet ist radioaktiv verstrahlt, was bei der ohnehin kargen einheimischen Fauna und Flora grausame Mutationen verursacht.
 
-- [Tierwelt]({{ site.baseurl }}/Weltraum/Freihandelszone/Betaprison/Tierwelt)
+- [Tierwelt]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Tierwelt)
 
 ## Das Gefängnis
 
-<li>[Das Gefängnis]({{ site.baseurl }}/Weltraum/Freihandelszone/Betaprison/Gefaengnis)
-- [Gefängnisebenen]({{ site.baseurl }}/Weltraum/Freihandelszone/Betaprison/Gefaengnis_ebenen)
-- [Personal]({{ site.baseurl }}/Weltraum/Freihandelszone/Betaprison/Gefaengnis_personal)
-- [Insassen]({{ site.baseurl }}/Weltraum/Freihandelszone/Betaprison/Gefaengnis_insassen)
-
-</li>
-
-
-<aside>
-<table data-type="planet">
-<caption>Beta Prison</caption>
-<tbody>
-<tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/)</td></tr>
-<tr><th>Monde</th><td>5</td></tr>
-<tr><th>Einwohner</th><td>Wärter und Gefangene</td></tr>
-<tr><th>Hauptstadt</th><td>keine</td></tr>
-<tr><th>Besiedelung</th><td>Ein großes Gefängnis</td></tr>
-<tr><th>Politisches</th><td>Gefängnisplanet</td></tr>
-<tr><th>Erwähnungen</th><td>[Beta Prison]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
-</aside>
-
+- [Das Gefängnis]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/)
+  - [Gefängnisebenen]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Gefängnisebenen)
+  - [Personal]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal)
+  - [Insassen]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen)

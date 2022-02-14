@@ -1,18 +1,44 @@
 ---
 layout: page
-permalink: /Weltraum/Freihandelszone/Banken
+permalink: /Weltraum/Freihandelszone/Währungen_und_Banken
 title: Währungen und Banken
+sitedata:
+    Konzerne:
+        Handelsbank:
+            Name: "Handelsbank"
+            Besitzer: ""
+            Geschaeftsfuehrer: ""
+            Kategorie: "Bank"
+            Konzernzentrale: "Stratum Nova"
+            Niederlassungen: ""
+        Trullbank:
+            Name: "Trullbank"
+            Besitzer: ""
+            Geschaeftsfuehrer: ""
+            Kategorie: "Bank"
+            Konzernzentrale: "Trullmania"
+            Niederlassungen: ""
+        Universalbank:
+            Name: "Universalbank"
+            Besitzer: ""
+            Geschaeftsfuehrer: ""
+            Kategorie: "Bank"
+            Konzernzentrale: "Mond"
+            Niederlassungen: ""
+        Bank_von_Neuasien:
+            Name: "Bank von Neuasien"
+            Besitzer: ""
+            Geschaeftsfuehrer: ""
+            Kategorie: "Bank"
+            Konzernzentrale: "Xinnua"
+            Niederlassungen: ""
 ---
 
-
 # Währungen und Banken
-
 
 ## Währung
 
 In der Freihandelszone ist nur der Universal Credit, kurz UC, als offizielle Währung anerkannt. Jedes lokale Zahlungsmittel hat einen, vom galaktischen Handelsrat festgelegten, Wechselkurs. Bargeld und Kreditkarten gibt es nicht mehr. Zur Zahlung werden nur noch kleine farbige Chips (ähnlich Pokerchips) verwendet, die von den Banken ausgestellt werden. Auf diesen Chips können an speziellen Automaten beliebige Beträge gebucht werden, man kann mit einem Chip einen Kaugummi oder auch ein Raumschiff erwerben. Die Chips gelten derzeit als fälschungssicher und können von jeder Bank ausgestellt und eingelöst werden. Natürlich gibt es auch anonyme Nummernkonten, Bausparverträge und Ähnliches.
-
-
 
 ## Banken
 
@@ -33,6 +59,3 @@ Die Universalbank ist die staatliche Bank der Föderation. Einst war sie die gr�
 ### Bank von Neuasien
 
 Die Bank von Neuasien gehört zu 100 % der Regierung von Neuasien und hat ihren Hauptsitz auf Xinnua. Neuasien ist auch der einzige Sektor, in dem hauptsächlich mit dem Yuan bezahlt wird. Der amtierende Wirtschaftsminister Wu Meng ist zugleich der Bankdirektor.
-
-
-

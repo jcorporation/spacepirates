@@ -1,12 +1,27 @@
 ---
-layout: page
-permalink: /Weltraum/Freihandelszone/Stratumnova
+layout: planet
+permalink: /Weltraum/Freihandelszone/Stratum_Nova
 title: Stratum Nova
+sitedata:
+    Staedte:
+        Taron_City:
+            Name: "Taron City"
+            Planet: "Stratum Nova"
+            Groesse: "Millionenstadt"
+            Kategorie: "Hauptstadt"
+    Planeten:
+        Stratum_Nova:
+            Name: "Stratum Nova"
+            Typ: "Wüstenplanet"
+            Sektor: "Freihandelszone"
+            Monde: "3"
+            Einwohner: "Galaktischer Handelsrat"
+            Hauptstadt: "Taron City"
+            Besiedelung: "einige sehr große Städte, dazwischen Wüste"
+            Politisches: "Sitz des galaktischen Handelsrates"
 ---
 
-
 # Stratum Nova
-
 
 Auf Stratum Nova ist der galaktische Handelsrat ansässig, der früher unscheinbare Wüstenplanet ist somit das Machtzentrum der Freihandelszone geworden. Auf Stratum Nova laufen alle Fäden zusammen, er gilt als einer der betriebsamsten Planeten des Universums. Vor der Einrichtung des galaktischen Handelsrates war der Planet kaum bewohnt, mittlerweile befinden sich auf diesem Wüstenplaneten einige sehr große Städte mit gigantischen Raumhäfen. Jeder Politiker, der etwas auf sich hält, will nach Stratum Nova, um mehr Macht zu bekommen, um die Interessen seiner Wähler durchzusetzen.
 
@@ -18,30 +33,4 @@ Diese Stadt ist die Heimat vieler Politiker, Repräsentanten, Lobbyisten und Ver
 
 Direkt vor Taron City befindet sich das [Hauptquartier der Space-Steuerfahnder]({{ site.baseurl }}/Weltraum/Freihandelszone/Spacesteuerfahnder/Hauptquartier).
 
-<table data-type="stadt">
-<caption>Taron City</caption>
-<tbody>
-<tr><th>Planet</th><td>[Stratum Nova]({{ site.baseurl }}/Weltraum/Freihandelszone/Stratumnova)</td></tr>
-<tr><th>Größe</th><td>Millionenstadt</td></tr>
-<tr><th>Kategorie</th><td>Hauptstadt</td></tr>
-<tr><th>Erwähnungen</th><td>[Taron City]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
-<aside>
-<table data-type="planet">
-<caption>Stratum Nova</caption>
-<tbody>
-<tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/)</td></tr>
-<tr><th>Monde</th><td>3</td></tr>
-<tr><th>Einwohner</th><td>[Galaktischer Handelsrat]({{ site.baseurl }}/Weltraum/Freihandelszone/Handelsrat)</td></tr>
-<tr><th>Hauptstadt</th><td>Taron City</td></tr>
-<tr><th>Besiedelung</th><td>einige sehr große Städte, dazwischen Wüste</td></tr>
-<tr><th>Politisches</th><td>Sitz des [galaktischen Handelsrates]({{ site.baseurl }}/Weltraum/Freihandelszone/Handelsrat)</td></tr>
-<tr><th>Erwähnungen</th><td>[Stratum Nova]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
-</aside>
-
+{% include stadt.md data=page.sitedata.Staedte.Taron_City %}

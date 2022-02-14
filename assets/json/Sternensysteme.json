@@ -7,5 +7,14 @@
     "Bewohner": "fast unbewohnt",
     "Politisches": "",
     "Link": "/Weltraum/Epsilon_Canabis"
+  },
+  "System_der_Träume": {
+    "Name": "System der Träume",
+    "Sektor": "Freihandelszone",
+    "Zentralgestirn": "Sonne",
+    "Planeten": "8",
+    "Bewohner": "Schauspieler",
+    "Politisches": "Zentrum der galaktischen Filmindustrie",
+    "Link": "/Weltraum/Freihandelszone/System_der_Träume/"
   }
 }

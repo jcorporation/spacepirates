@@ -1,12 +1,17 @@
 ---
-layout: page
-permalink: /Weltraum/Freihandelszone/Systemdertraeume_mimen-mission
-title: "Die SdT-Station oder: „Die Mimen-Mission“"
+layout: raumstation
+permalink: /Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission
+title: "Mimen-Mission"
+sitedata:
+    Raumstationen:
+        Mimen-Mission:
+            Name: "Mimen-Mission"
+            Sektor: "Freihandelszone"
+            Bewohner: "Möchtegernschauspieler"
+            Politisches: "Unabhängig"
 ---
 
-
 # Die SdT-Station oder: „Die Mimen-Mission“
-
 
 Die Mimen-Mission ist eine Raumstation, die den Gasplaneten „Requisite 001“ umkreist, den äußersten Planeten des Systems der Träume. Der Name Requisite 001 rührt daher, dass er als einziger Planet seines Typs im System oft für Hintergrundaufnahmen herhalten muss. Gasplaneten in Filmproduktionen neigen deswegen überproportional oft dazu, blassgrün zu sein und einen Äquatordurchmesser von genau 131.455 Kilometern zu haben.
 
@@ -18,18 +23,6 @@ Eine weitere Besonderheit der Mimen-Mission ist die große Anzahl von Casting-B�
 
 Wenn die Charaktere auf der Mimen-Mission unterwegs sind, können ihnen die unterschiedlichsten Gestalten begegnen. Beispiele für solche Begegnungen finden sich in folgender Zufallstabelle.
 
-
-<aside>
-<table data-type="raumstation">
-<caption>Mimen-Mission</caption>
-<tbody>
-<tr><th>Sektor</th><td>[Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone)</td></tr>
-<tr><th>Bewohner</th><td>Möchtegernschauspieler</td></tr>
-<tr><th>Politisches</th><td>Unabhängig</td></tr>
-<tr><th>Erwähnungen</th><td>[Mimen-Mission]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
 <table>
 <caption>Mögliche Begegnungen auf der Mimen-Mission</caption>
 <thead>
@@ -44,4 +37,3 @@ Wenn die Charaktere auf der Mimen-Mission unterwegs sind, können ihnen die unte
 <tr><td>6</td><td>Ein Trull-Schauspieler, der die Charaktere um Geld anfleht, damit er weiter zum Planet Hollywood fliegen kann, um ein großer Actionstar zu werden. Er will 2000 Credits haben und bietet an, die zehnfache Summer zurückzuzahlen, wenn er erst eine Berühmtheit ist. Falls die Charaktere sich darauf einlassen, kann der Spielleiter zwei Monate später auf die Fertigkeit Händler (Wert: 4) des Trulls würfeln. Erreicht er mindestens drei Erfolge, hat der Trull den Durchbruch geschafft – er zahlt den Piraten das versprochene Geld zurück, außerdem haben sie nun einen bekannten Freund und Gönner.</td></tr>
 </tbody>
 </table>
-

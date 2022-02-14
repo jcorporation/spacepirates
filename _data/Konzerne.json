@@ -8,6 +8,15 @@
     "Niederlassungen": "",
     "Link": "/Weltraum/Konzerne/Asia_Media"
   },
+  "Bank_von_Neuasien": {
+    "Name": "Bank von Neuasien",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Bank",
+    "Konzernzentrale": "Xinnua",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Freihandelszone/Währungen_und_Banken"
+  },
   "Better_Than_Broadcast": {
     "Name": "Better Than Broadcast",
     "Besitzer": "Marxes",
@@ -61,6 +70,15 @@
     "Konzernzentrale": "Kabukicho-Prime",
     "Niederlassungen": "",
     "Link": "/Weltraum/Konzerne/Fish_And_More"
+  },
+  "Handelsbank": {
+    "Name": "Handelsbank",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Bank",
+    "Konzernzentrale": "Stratum Nova",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Freihandelszone/Währungen_und_Banken"
   },
   "Hired_Guns": {
     "Name": "Hired Guns",
@@ -236,6 +254,15 @@
     "Niederlassungen": "",
     "Link": "/Weltraum/Konzerne/Strat_1"
   },
+  "Trullbank": {
+    "Name": "Trullbank",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Bank",
+    "Konzernzentrale": "Trullmania",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Freihandelszone/Währungen_und_Banken"
+  },
   "Trullisch_Ost-Galaktische_Compagnie": {
     "Name": "Trullisch Ost-Galaktische Compagnie",
     "Besitzer": "Konsortium",
@@ -244,6 +271,15 @@
     "Konzernzentrale": "Trullmania",
     "Niederlassungen": "",
     "Link": "/Weltraum/Konzerne/Trullisch_Ost-Galaktische_Compagnie"
+  },
+  "Universalbank": {
+    "Name": "Universalbank",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Bank",
+    "Konzernzentrale": "Mond",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Freihandelszone/Währungen_und_Banken"
   },
   "Universe_Broadcast": {
     "Name": "Universe Broadcast",
