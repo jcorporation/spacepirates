@@ -142,6 +142,17 @@
     "Politisches": "Heimatplanet der Menschen",
     "Link": "/Weltraum/Menschen/Föderation/Erde"
   },
+  "Glacor": {
+    "Name": "Glacor",
+    "Typ": "Eisplanet",
+    "Sektor": "Sektor D1",
+    "Monde": "5",
+    "Einwohner": "SpaceYetis",
+    "Hauptstadt": "",
+    "Besiedelung": "Eisstädte",
+    "Politisches": "Hauptplanet der Eisgalaxis",
+    "Link": "/Weltraum/Aliens/SpaceYetis/Eisgalaxis"
+  },
   "Hollywood": {
     "Name": "Hollywood",
     "Typ": "Erdähnlicher Planet",

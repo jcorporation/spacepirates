@@ -8,6 +8,15 @@
     "Politisches": "Golfplatz",
     "Link": "/Weltraum/Aliens/Trull/Golfplatz"
   },
+  "Eisgalaxis": {
+    "Name": "Eisgalaxis",
+    "Sektor": "Sektor D1",
+    "Zentralgestirn": "Kalte Sonne",
+    "Planeten": "12",
+    "Bewohner": "SpaceYetis",
+    "Politisches": "",
+    "Link": "/Weltraum/Aliens/SpaceYetis/Eisgalaxis"
+  },
   "Epsilon_Canabis": {
     "Name": "Epsilon Canabis",
     "Sektor": "weit außerhalb",
