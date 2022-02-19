@@ -11,6 +11,12 @@
     "Heimatplanet": "Xinnua",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/"
   },
+  "Trull": {
+    "Name": "Trull",
+    "Sektor": "Trullimperium",
+    "Heimatplanet": "Trullmania",
+    "Link": "/Weltraum/Aliens/Trull/"
+  },
   "Wagone": {
     "Name": "Wagone",
     "Sektor": "Reich der Wagonen",

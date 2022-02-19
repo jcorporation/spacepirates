@@ -104,6 +104,13 @@
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Freihandelszone/Stratum_Nova"
   },
+  "Trullart": {
+    "Name": "Trullart",
+    "Planet": "Trullmania",
+    "Groesse": "Kleinstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Aliens/Trull/Trullmania"
+  },
   "Urkalath": {
     "Name": "Urkalath",
     "Planet": "Xawang",

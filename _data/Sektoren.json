@@ -33,5 +33,10 @@
     "Name": "Sternenrepublik Neuasien",
     "Hauptplanet": "Xinnua",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/"
+  },
+  "Trullimperium": {
+    "Name": "Trullimperium",
+    "Hauptplanet": "Trullmania",
+    "Link": "/Weltraum/Aliens/Trull/"
   }
 }

@@ -545,6 +545,14 @@
     "Position": "",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/"
   },
+  "Lion_Plant": {
+    "Name": "Lion Plant",
+    "Rasse": "Trull",
+    "Kategorie": "Promi",
+    "Wohnort": "Trullimperium",
+    "Position": "",
+    "Link": "/Weltraum/Aliens/Trull/Golfplatz"
+  },
   "Long_Dong_Plasmatongue": {
     "Name": "Long Dong Plasmatongue",
     "Rasse": "Samnese",

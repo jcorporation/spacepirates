@@ -1,4 +1,13 @@
 {
+  "1__Interplanetarer_Golfplatz": {
+    "Name": "1. Interplanetarer Golfplatz",
+    "Sektor": "Trullimperium",
+    "Zentralgestirn": "",
+    "Planeten": "20",
+    "Bewohner": "Trull",
+    "Politisches": "Golfplatz",
+    "Link": "/Weltraum/Aliens/Trull/Golfplatz"
+  },
   "Epsilon_Canabis": {
     "Name": "Epsilon Canabis",
     "Sektor": "weit außerhalb",
@@ -7,6 +16,15 @@
     "Bewohner": "fast unbewohnt",
     "Politisches": "",
     "Link": "/Weltraum/Epsilon_Canabis"
+  },
+  "Sigma_9": {
+    "Name": "Sigma 9",
+    "Sektor": "Trullimperium",
+    "Zentralgestirn": "Doppelsternensystem",
+    "Planeten": "9",
+    "Bewohner": "Unbewohnt",
+    "Politisches": "Heimatsternensystem eines SpaceDrachen",
+    "Link": "/Weltraum/Aliens/Trull/Sigma_9"
   },
   "System_der_Traeume": {
     "Name": "System der Träume",

@@ -439,6 +439,17 @@
     "Politisches": "Zurückgebliebener Planet in Sperrzone",
     "Link": "/Weltraum/Aliens/Wagonen/Terra_20CAD"
   },
+  "Trullmania": {
+    "Name": "Trullmania",
+    "Typ": "Wüstenplanet",
+    "Sektor": "Trullimperium",
+    "Monde": "3",
+    "Einwohner": "Trull",
+    "Hauptstadt": "Trullart",
+    "Besiedelung": "kleine Siedlungen",
+    "Politisches": "Heimatplanet der Trull",
+    "Link": "/Weltraum/Aliens/Trull/Trullmania"
+  },
   "Vampir-Planet": {
     "Name": "Vampir-Planet",
     "Typ": "Erdähnlicher Planet",
@@ -471,6 +482,17 @@
     "Besiedelung": "Das großes Festival",
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Neutrale_Zone/Woodstock"
+  },
+  "Xanar_1": {
+    "Name": "Xanar 1",
+    "Typ": "Felsplanet",
+    "Sektor": "Trullimperium",
+    "Monde": "10",
+    "Einwohner": "Trull",
+    "Hauptstadt": "",
+    "Besiedelung": "Konzernplanet",
+    "Politisches": "Zentrale von Better Than Broadcast",
+    "Link": "/Weltraum/Aliens/Trull/Xanar_1"
   },
   "Xawang": {
     "Name": "Xawang",
