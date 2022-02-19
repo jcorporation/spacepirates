@@ -417,6 +417,17 @@
     "Politisches": "Sitz des galaktischen Handelsrates",
     "Link": "/Weltraum/Freihandelszone/Stratum_Nova"
   },
+  "Streif": {
+    "Name": "Streif",
+    "Typ": "Wüstenplanet",
+    "Sektor": "Neutrale Zone",
+    "Monde": "keine, Asteroidengürtel",
+    "Einwohner": "Streifanier",
+    "Hauptstadt": "Savar",
+    "Besiedelung": "einige mittelgroße Städte, dazwischen Wüste",
+    "Politisches": "Heimatplanet der Streifanier",
+    "Link": "/Weltraum/Aliens/Streifanier/Streif"
+  },
   "Stummfilm-Planet": {
     "Name": "Stummfilm-Planet",
     "Typ": "Erdähnliches Planet",

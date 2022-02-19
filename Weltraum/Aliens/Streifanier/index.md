@@ -2,6 +2,12 @@
 layout: aside
 permalink: /Weltraum/Aliens/Streifanier/
 title: Streifanier
+sitedata:
+    Rassen:
+        Streifanier:
+            Name: Streifanier
+            Sektor: Neutrale Zone
+            Heimatplanet: Streif
 ---
 
 # Streifanier
