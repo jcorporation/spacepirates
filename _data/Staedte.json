@@ -90,6 +90,13 @@
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Menschen/Föderation/Pessach_4"
   },
+  "Savar": {
+    "Name": "Savar",
+    "Planet": "Streif",
+    "Groesse": "Großstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Aliens/Streifanier/Streif"
+  },
   "Sila_City": {
     "Name": "Sila City",
     "Planet": "Sampuk",
