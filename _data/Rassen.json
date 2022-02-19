@@ -11,6 +11,12 @@
     "Heimatplanet": "Xinnua",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/"
   },
+  "SpacePear": {
+    "Name": "SpacePear",
+    "Sektor": "",
+    "Heimatplanet": "",
+    "Link": "/Weltraum/Aliens/Spacepears/"
+  },
   "SpaceWorm": {
     "Name": "SpaceWorm",
     "Sektor": [
