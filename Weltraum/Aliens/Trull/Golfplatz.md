@@ -1,12 +1,26 @@
 ---
-layout: page
+layout: sternensystem
 permalink: /Weltraum/Aliens/Trull/Golfplatz
 title: 1. Interplanetarer Golfplatz
+sitedata:
+    Sternensysteme:
+        1__Interplanetarer_Golfplatz:
+            Name: "1. Interplanetarer Golfplatz"
+            Sektor: "Trullimperium"
+            Zentralgestirn: ""
+            Planeten: "20"
+            Bewohner: "Trull"
+            Politisches: "Golfplatz"
+    Slc:
+        Lion_Plant:
+            Name: "Lion Plant"
+            Rasse: "Trull"
+            Kategorie: "Promi"
+            Wohnort: "Trullimperium"
+            Position: ""
 ---
 
-
 # 1. Interplanetarer Golfplatz
-
 
 Der erste interplanetare Golfplatz wurde von niemand Geringerem als Lion Plant gegründet, dem erfolgreichsten Golfer des Universums. Lion Plant stammt aus einer unbedeutenden Trullfamilie und hat mit dem größten Golfplatz auch gleich den teuersten Golfverein des Universums gegründet, so dass sich hier nur die Reichsten der Reichen tummeln. Neben den normalen Golf- und Minigolfplätzen gibt es auf diesem Golfplatz auch die einzige Megagolf-Anlage des Universums.
 
@@ -16,33 +30,9 @@ Megagolf wird mit den gleichen Regeln wie Golf gespielt, nur sind die Dimensione
 
 Gespielt wird Megagolf daher auch mit speziellen Schlägern und Bällen. Der Ball wird von einer mobilen Abschussrampe abgeschlagen und verfügt über einen eigenen Antrieb, der durch den Abschlag in Gang gesetzt wird.
 
+{% include slc.md data=page.sitedata.Slc.Lion_Plant %}
 
-<aside>
-<div class="anmerkung">
-## Megagolf
-
+{% capture include_body %}
 Lion Plant eröffnet den ersten Megagolfplatz des Universums. Die Sportlegende ist sicher: Megagolf wird die neue Trendsportart!
-
-</div>
-<table data-type="sternensystem">
-<caption>1. Interplanetarer Golfplatz</caption>
-<tbody>
-<tr><th>Sektor</th><td>[Trullimperium]({{ site.baseurl }}/Weltraum/Aliens/Trull)</td></tr>
-<tr><th>Zentralgestirn</th><td> </td></tr>
-<tr><th>Planeten</th><td>20</td></tr>
-<tr><th>Bewohner</th><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull)</td></tr>
-<tr><th>Politisches</th><td>Golfplatz</td></tr>
-<tr><th>Erwähnungen</th><td>[1. Interplanetarer Golfplatz]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-<table data-type="slc">
-<caption>Lion Plant</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull)</td></tr>
-<tr><th>Kategorie</th><td>Promi</td></tr>
-<tr><th>Wohnort</th><td>[Trullimperium]({{ site.baseurl }}/Weltraum/Aliens/Trull)</td></tr>
-<tr><th>Erwähnungen</th><td>[Lion Plant]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
-
+{% endcapture %}
+{% include anmerkung.md title="Megagolf" body=include_body %}

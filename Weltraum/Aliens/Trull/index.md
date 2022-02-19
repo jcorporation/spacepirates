@@ -1,19 +1,26 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Aliens/Trull/
 title: Trull
 keywords:
     - trull
     - trullimperium
-
+sitedata:
+    Sektoren:
+        Trullimperium:
+            Name: Trullimperium
+            Hauptplanet: Trullmania
+    Rassen:
+        Trull:
+            Name: Trull
+            Sektor: Trullimperium
+            Heimatplanet: Trullmania
 ---
-
 
 # Trull
 
-
 - **Heimatplanet:** [Trullmania]({{ site.baseurl }}/Weltraum/Aliens/Trull/Trullmania)
-- **Botschaftsplanet:** [Kozel 5]({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel5)
+- **Botschaftsplanet:** [Kozel 5]({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel_5)
 - **Reich:** Trullimperium
 
 Die Trull sehen aus wie aufrecht gehende Käfer und besitzen zwischen vier und sechs Arme und zwei Beine. Manche Trull besitzen auch Fühler oder Facettenaugen. Ihr Körper sitzt in einem braunen, insektenartigen Panzer, der extrem hart werden kann. Kleidung tragen sie, wenn überhaupt, lediglich am Körper; Arme und Beine sind stets unbekleidet. Sie lieben glänzende Farben, vor allem Silber, was man an ihrer Ausrüstung deutlich erkennen kann.
@@ -26,22 +33,9 @@ Diese tiefe Religiosität bringt sie in stetigen Konflikt mit den Samnesen, weil
 
 Mit den Menschen kommen die Trull hingegen sehr gut klar und haben diese bei ihrer Ankunft im Weltraum freundlich begrüßt. Sie beteiligen sich rege am Handelsrat und in der Freihandelszone.
 
-<div class="hinweis">
-## Planeten, Raumstationen und Weltraumphänomene in diesem Sektor
+{% include sektorinfo.md data="Trullimperium" %}
 
-[list]({{ site.baseurl }}/Objectlist:planet|sternensystem:Sektor=Trullimperium)
-
-[list]({{ site.baseurl }}/Objectlist:raumstation:Sektor=Trullimperium)
-
-[list]({{ site.baseurl }}/Objectlist:phaenomen:Sektor=Trullimperium)
-
-</div>
-<div class="anmerkung">
-## Deathball-Finale
-
+{% capture include_body %}
 Unglaublich - die Trull Warriors gewinnen in einem spektakulären Spiel ihren ersten Deathball-Titel. Ihr 98.00 zu 97.95 gegen die Wild Sputniks: Eines der spannendsten Deathball-Finale der Geschichte!
-
-</div>
-
-<aside><img alt="Trull" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/trull.jpg" /></aside>
-
+{% endcapture %}
+{% include anmerkung.md title="Deathball-Finale" body=include_body %}
