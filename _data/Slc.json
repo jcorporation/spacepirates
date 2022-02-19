@@ -7,6 +7,21 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Abdul": {
+    "Name": "Abdul",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Kneipenbesitzer",
+    "Wohnort": "BigBong",
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten"
+  },
+  "Achmed": {
+    "Name": "Achmed",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Händler",
+    "Wohnort": "BigBong",
+    "Position": "",
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten"
+  },
   "Adaxes_Karu": {
     "Name": "Adaxes Karu",
     "Rasse": "Trull",
@@ -254,6 +269,15 @@
     "Wohnort": "Javar 3",
     "Link": "/Weltraum/Verrückte_Wissenschaftler"
   },
+  "Eunuchen": {
+    "Name": "Eunuchen",
+    "SOELDNER": "7",
+    "TECH": "3",
+    "HAENDLER": "4",
+    "PILOT": "2",
+    "Zaehigkeit": "2",
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten"
+  },
   "Fake_Henry": {
     "Name": "Fake Henry",
     "Rasse": "Mensch",
@@ -461,6 +485,20 @@
     "Position": "Prinzengemahlin",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
+  "Kalif_Kulwa": {
+    "Name": "Kalif Kulwa",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Kalif",
+    "Wohnort": "BigBong",
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten"
+  },
+  "Kalif_Rashad": {
+    "Name": "Kalif Rashad",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Kalif",
+    "Wohnort": "AlXambra",
+    "Link": "/Weltraum/Aliens/SpaceWorms/AlXambra/"
+  },
   "Khan_Keyne": {
     "Name": "Khan Keyne",
     "Rasse": "Kahadrier",
@@ -468,6 +506,14 @@
     "Wohnort": "",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Kifslan": {
+    "Name": "Kifslan",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Händler",
+    "Wohnort": "BigBong",
+    "Position": "",
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten"
   },
   "Koenigin_Elisabeth": {
     "Name": "Königin Elisabeth",
@@ -671,6 +717,13 @@
     "Wohnort": "Piratenbucht",
     "Link": "/Weltraum/Piraten/Treffpunkte/Piratenbucht"
   },
+  "Neyla": {
+    "Name": "Neyla",
+    "Rasse": "Mensch",
+    "Kategorie": "Händler",
+    "Wohnort": "BigBong",
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten"
+  },
   "Old_Williams": {
     "Name": "Old Williams",
     "Rasse": "Mensch",
@@ -838,6 +891,13 @@
     "Wohnort": "Two Eyed Jack",
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
+  },
+  "Sultan_Oman": {
+    "Name": "Sultan Oman",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Sultan",
+    "Wohnort": "AbuXabi",
+    "Link": "/Weltraum/Aliens/SpaceWorms/AbuXabi/"
   },
   "Sun_Shan": {
     "Name": "Sun Shan",

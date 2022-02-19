@@ -1,4 +1,18 @@
 {
+  "Al_Hadir": {
+    "Name": "Al Hadir",
+    "Typ": "Mediteraner Planet",
+    "Sektor": "Sektor D3",
+    "Monde": "2",
+    "Einwohner": "hauptsächlich Menschen",
+    "Hauptstadt": "Verwaltung im Orbit",
+    "Raumhaefen": "für große Transportschiffe",
+    "Besiedelung": "kleinere Arbeitersiedlungen",
+    "Verfolgungsstatus": "3",
+    "Technologielevel": "FTL",
+    "Politisches": "unter SpaceWorms-Verwaltung",
+    "Link": "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir"
+  },
   "Alastor": {
     "Name": "Alastor",
     "Typ": "Dschungelplanet",

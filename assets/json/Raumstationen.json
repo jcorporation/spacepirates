@@ -1,4 +1,25 @@
 {
+  "AbuXabi": {
+    "Name": "AbuXabi",
+    "Sektor": "Föderation",
+    "Bewohner": "SpaceWorms",
+    "Politisches": "",
+    "Link": "/Weltraum/Aliens/SpaceWorms/AbuXabi/"
+  },
+  "AlXambra": {
+    "Name": "AlXambra",
+    "Sektor": "Trullimperium",
+    "Bewohner": "SpaceWorms",
+    "Politisches": "",
+    "Link": "/Weltraum/Aliens/SpaceWorms/AlXambra/"
+  },
+  "BigBong": {
+    "Name": "BigBong",
+    "Sektor": "Sektor D3",
+    "Bewohner": "SpaceWorms",
+    "Politisches": "",
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/"
+  },
   "Freeport": {
     "Name": "Freeport",
     "Sektor": "Sektor D1",

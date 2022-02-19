@@ -11,6 +11,16 @@
     "Heimatplanet": "Xinnua",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/"
   },
+  "SpaceWorm": {
+    "Name": "SpaceWorm",
+    "Sektor": [
+      "Sektor D3",
+      "Föderation",
+      "Trullimperium"
+    ],
+    "Heimatplanet": "",
+    "Link": "/Weltraum/Aliens/SpaceWorms/"
+  },
   "SpaceYeti": {
     "Name": "SpaceYeti",
     "Sektor": "Sektor D1",
