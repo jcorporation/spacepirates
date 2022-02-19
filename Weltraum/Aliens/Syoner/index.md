@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Aliens/Syoner/
 title: Syoner
 ---
 
-
 # Syoner
-
 
 - **Heimatuniversum:** unbekannt
 
@@ -17,7 +15,3 @@ Die Syoner sind etwa halb so groß wie Menschen und besitzen auch einen humanoid
 Die Syoner halten sich augenscheinlich aus der Politik und den Konflikten dieses Universums heraus. Sie haben aber schon seit längerer Zeit Geheimagenten und Doppelgänger in die Machtzentren des Handelsrats und der unterschiedlichen Regierungen eingeschleust. Was ihr Ziel ist und wann oder warum sie eingreifen, ist völlig unklar und scheint keinen Gesetzmäßigkeiten zu folgen. Ihre innenpolitische Struktur ist völlig unbekannt.
 
 Auch über die Technik der Syoner ist kaum was bekannt. Man weiß nur, dass sie technisch wesentlich weiter fortgeschritten sind als jede andere bekannte Alienrasse, wahrscheinlich sogar weiter als die ausgestorbenen Romaha. Die Technik der Syoner scheint in keiner Weise in dieses Universum zu passen und lässt sich nicht mit der bekannten Technik verbinden. Sicher ist nur, dass sie ohne große Probleme von einer Dimension in die andere springen können.
-
-
-<aside><img alt="Syoner" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/syoner.jpg" /></aside>
-

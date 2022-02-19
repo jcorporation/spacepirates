@@ -1,12 +1,27 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Aliens/Streifanier/Streif
 title: Streif
+sitedata:
+    Staedte:
+        Savar:
+            Name: "Savar"
+            Planet: "Streif"
+            Groesse: "Großstadt"
+            Kategorie: "Hauptstadt"
+    Planeten:
+        Streif:
+            Name: "Streif"
+            Typ: "Wüstenplanet"
+            Sektor: "Neutrale Zone"
+            Monde: "keine, Asteroidengürtel"
+            Einwohner: "Streifanier"
+            Hauptstadt: "Savar"
+            Besiedelung: "einige mittelgroße Städte, dazwischen Wüste"
+            Politisches: "Heimatplanet der Streifanier"
 ---
 
-
 # Streif
-
 
 Streif ist eine einzige, große Felswüste. Zwischen den riesigen Gebirgszügen liegt eine karge Landschaft, die nur von wenigen Flüssen durchzogen ist, aber an deren Ufern die Natur aufblüht.
 
@@ -14,30 +29,4 @@ Streif ist eine einzige, große Felswüste. Zwischen den riesigen Gebirgszügen 
 
 Savar ist die größte Stadt der Streifanier. Sie liegt am gleichnamigen Strom. Die meisten oberirdischen Häuser sind recht flach, weiß und besitzen verspiegelte Fenster. Unterirdisch ist die Stadt traditionsgemäß wesentlich größer und belebter als oberirdisch. Es gibt riesige Hallen und unzählige Verbindungsgänge, in denen moderne Gleitzüge fahren. Die Hallen wirken keineswegs dunkel und düster, sondern eher modern und hell.
 
-<table data-type="stadt">
-<caption>Savar</caption>
-<tbody>
-<tr><th>Planet</th><td>[Streif]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/Streif)</td></tr>
-<tr><th>Größe</th><td>Großstadt</td></tr>
-<tr><th>Kategorie</th><td>Hauptstadt</td></tr>
-<tr><th>Erwähnungen</th><td>[Savar]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
-<aside>
-<table data-type="planet">
-<caption>Streif</caption>
-<tbody>
-<tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Neutrale Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/)</td></tr>
-<tr><th>Monde</th><td>keine, Asteroidengürtel</td></tr>
-<tr><th>Einwohner</th><td>[Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/)</td></tr>
-<tr><th>Hauptstadt</th><td>Savar</td></tr>
-<tr><th>Besiedelung</th><td>einige mittelgroße Städte, dazwischen Wüste</td></tr>
-<tr><th>Politisches</th><td>Heimatplanet der [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/)</td></tr>
-<tr><th>Erwähnungen</th><td>[Streif]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
-</aside>
-
+{% include stadt.md data=page.sitedata.Staedte.Savar %}
