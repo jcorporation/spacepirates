@@ -310,6 +310,13 @@
     "Position": "Modeschöpfer",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
+  "Graf_Frost": {
+    "Name": "Graf Frost",
+    "Rasse": "SpaceYeti",
+    "Kategorie": "Herrscher",
+    "Wohnort": "Glacor",
+    "Link": "/Weltraum/Aliens/SpaceYetis/Eisgalaxis"
+  },
   "Halram_Baxu": {
     "Name": "Halram Baxu",
     "Rasse": "Trull",

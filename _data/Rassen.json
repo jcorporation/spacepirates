@@ -11,6 +11,18 @@
     "Heimatplanet": "Xinnua",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/"
   },
+  "SpaceYeti": {
+    "Name": "SpaceYeti",
+    "Sektor": "Sektor D1",
+    "Heimatplanet": "Trullmania",
+    "Link": "/Weltraum/Aliens/SpaceYetis/"
+  },
+  "Streifanier": {
+    "Name": "Streifanier",
+    "Sektor": "Neutrale Zone",
+    "Heimatplanet": "Streif",
+    "Link": "/Weltraum/Aliens/Streifanier/"
+  },
   "Trull": {
     "Name": "Trull",
     "Sektor": "Trullimperium",
