@@ -2,11 +2,15 @@
 layout: page
 permalink: /Weltraum/Aliens/Spacepears/
 title: Spacepears
+sitedata:
+    Rassen:
+        SpacePear:
+            Name: SpacePear
+            Sektor: ""
+            Heimatplanet: ""
 ---
 
-
 # Spacepears
-
 
 - **Heimatplanet:** unbekannt
 
@@ -17,7 +21,3 @@ Die Spacepears sind eine ungemütliche Alienrasse. Nicht direkt aggressiv wie di
 Spacepears sind ausschließliche Fleischfresser, sozusagen Antivegetarier. Sie empfinden es als barbarisch, Obst und Gemüse zu essen. Sie leben in familienähnlichen Strukturen auf ihren Raumschiffen, d.h., es sind Frauen und Kinder auf den Schiffen der Spacepears anzutreffen.
 
 Spacepears besitzen eine bodenständige Technologie. Ihre Raumschiffe erinnern in Form und Farbe meist an Obst: Wenn einem eine große Tomate im Weltall entgegenkommt, ist es meist ein Raumschiff der Spacepears. Sie verfügen über eine neuartige Antriebstechnologie, die sie schneller als 2 Lichtjahre pro Stunde reisen lässt.
-
-
-<aside><img alt="Spacepear" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/spacepear.jpg" /></aside>
-
