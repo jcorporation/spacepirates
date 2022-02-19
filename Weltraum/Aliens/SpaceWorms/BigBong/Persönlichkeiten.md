@@ -1,12 +1,30 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpaceWorms/Bigbong_persoenlichkeiten
+permalink: /Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten
 title: Interessante Persönlichkeiten
+sitedata:
+    Slc:
+        Kalif_Kulwa:
+            Name: "Kalif Kulwa"
+            Rasse: "SpaceWorm"
+            Kategorie: "Kalif"
+            Wohnort: "BigBong"
+        Eunuchen:
+            Name: "Eunuchen"
+            SOELDNER: "7"
+            TECH: "3"
+            HAENDLER: "4"
+            PILOT: "2"
+            Zaehigkeit: "2"
+        Kifslan:
+            Name: "Kifslan"
+            Rasse: "SpaceWorm"
+            Kategorie: "Händler"
+            Wohnort: "BigBong"
+            Position: ""
 ---
 
-
 # Interessante Persönlichkeiten
-
 
 ## Kalif Kulwa
 
@@ -16,36 +34,13 @@ Trotzdem sind diese Audienzen begehrt, denn Kulwa ist für seine weisen Ratschl�
 
 Jene, die empfangen werden, treffen Kulwa in seinem Audienzsaal, wo er sich auf reich verzierte Kissen lagert und genussvoll an seiner Shisha zieht. Dabei ist er ständig von wunderschönen, leicht bekleideten Frauen umgeben, die ihm jeden Wunsch von den Augen ablesen.
 
-
-<aside>
-<table data-type="slc">
-<caption>Kalif Kulwa</caption>
-<tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
-<tr><th>Kategorie</th><td>Kalif</td></tr>
-<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
-<tr><th>Erwähnungen</th><td>[Kalif Kulwa]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
+{% include slc.md data=page.sitedata.Slc.Kalif_Kulwa %}
 
 ## Eunuchen
 
 Die Eunuchen sind Kulwas Diener und Wächter, die überall auf der Station für Recht und Ordnung sorgen. Dank ihrer roten Pluderhosen und Krummsäbel sind sie schnell zu erkennen. Sie sind Kulwa gegenüber absolut loyal, weshalb sie nur von ihm persönlich Befehle entgegennehmen und sich auch nicht bestechen lassen. Das hat schon so manchen Gast zur Verzweiflung getrieben.
 
-
-<aside>
-<table>
-<caption>Eunuchen</caption>
-<tbody>
-<tr><th>SÖLDNER</th><td>7</td></tr>
-<tr><th>TECH</th><td>3</td></tr>
-<tr><th>HÄNDLER</th><td>4</td></tr>
-<tr><th>PILOT</th><td>2</td></tr>
-<tr><th>Zähigkeit</th><td>2</td></tr>
-</tbody>
-</table>
-</aside>
+{% include slc.md data=page.sitedata.Slc.Eunuchen %}
 
 ## Kifslan
 
@@ -53,16 +48,4 @@ Kifslan ist der Eigentümer von Kifslan Tobacco und damit größter Händler von
 
 Insgeheim versucht er, diesen Einfluss auszunutzen, um die Station unter seine Kontrolle zu bringen und Kalif anstelle des Kalifen Kulwa zu werden. Allerdings scheitert er immer wieder an Kleinigkeiten und seiner eigenen Unfähigkeit. Er schreibt seine Fehler aber immer der Inkompetenz seiner Untergebenen und Auftragnehmer zu. Daher konnten ihn seine vielfachen Fehlschläge bisher auch nicht entmutigen und er ist weiter fest davon überzeugt, einmal über BigBong zu herrschen.
 
-
-<aside>
-<table data-type="slc">
-<caption>Kifslan</caption>
-<tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
-<tr><th>Kategorie</th><td>Händler</td></tr>
-<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
-<tr><th>Erwähnungen</th><td>[Kifslan]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
-
+{% include slc.md data=page.sitedata.Slc.Kifslan %}

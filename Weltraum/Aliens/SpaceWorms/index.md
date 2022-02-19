@@ -2,11 +2,18 @@
 layout: page
 permalink: /Weltraum/Aliens/SpaceWorms/
 title: SpaceWorms
+sitedata:
+    Rassen:
+        SpaceWorm:
+            Name: SpaceWorm
+            Sektor:
+                - Sektor D3
+                - Föderation
+                - Trullimperium
+            Heimatplanet: ""
 ---
 
-
 # SpaceWorms
-
 
 Wenn man einen SpaceWorm trifft, fühlt man sich sofort an 1 m große, aufrecht kriechende Würmer mit menschlichen Gesichtszügen und Armen erinnert. Sie tragen keine Kleidung außer einem Hut. Zudem wird man mit Sicherheit in Rauch gehüllt, denn SpaceWorms sind notorische Kettenraucher und paffen von Zigaretten über Zigarren, Pfeifen, Shishas zu Bongs einfach alles, worin man Tabak oder Rauschmittel verbrennen kann. Essen und Trinken sieht man sie nie, sie ernähren sich vom Tabakrauch, der auf andere Rassen stark berauschend wirkt.
 
@@ -20,24 +27,14 @@ Es gibt alte Legenden und Märchen der SpaceWorms, in denen sie als ausgestoßen
 
 ## Mehr zu den SpaceWorms
 
-<li>[Raumstationen]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Raumstationen)
-<li>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)
-- [SpaceWorm-Improvement-Project]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Swip)
+- [Raumstationen]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Raumstationen)
+  - [BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/BigBong/)
+    - [SpaceWorm-Improvement-Project]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/BigBong/SWIP)
+  - [AbuXabi]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/AbuXabi/)
+  - [AlXambra]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/AlXambra/)
+- [Agrarplaneten]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Agrarplaneten/)
 
-</li>
-- [AbuXabi]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Abuxabi)
-- [AlXambra]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Alxambra)
-
-</li>
-- [Agrarplaneten]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Agrarplaneten)
-
-
-<aside>
-<div class="anmerkung">
-## Forscher entdeckt neue Wunderdroge
-
+{% capture include_body %}
 Ein SpaceWorm-Forscher extrahierte den Wirkstoff aus Vox Rubusch. Eris zu seinem Erfolg: „Ich werde die Schulmedizin revolutionieren!“ Experten der Intergalaktischen Arzneimittelbehörde zweifeln daran: „Zuerst muss sich der Wirkstoff in Anwendungsstudien bewähren.“
-
-</div>
-</aside>
-
+{% endcapture %}
+{% include anmerkung.md title="Forscher entdeckt neue Wunderdroge" body=include_body %}

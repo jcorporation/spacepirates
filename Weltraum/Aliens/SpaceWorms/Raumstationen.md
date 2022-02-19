@@ -4,9 +4,7 @@ permalink: /Weltraum/Aliens/SpaceWorms/Raumstationen
 title: Raumstationen
 ---
 
-
 # Raumstationen
-
 
 Die Raumstationen der SpaceWorms besitzen alle die Form einer übergroßen Shisha und sind daher ein merkwürdiger Anblick im sonst so öden Weltraum. Sie befinden sich bevorzugt außerhalb von Sternensystemen, sind aber immer in der Nähe von Handelsrouten oder Handelsplaneten anzutreffen. Aus den Raumstationen quillt am oberen Ende ein dichter Rauch, der sich wie eine Wolke um die Raumstation legt und so An- und Abdockmanöver extrem schwierig macht, da der Rauch sogar die Sensoren behindert. Regeltechnisch bedeutet dies, dass das Andocken um 1 erschwert wird.
 
@@ -14,17 +12,13 @@ Jede Raumstation wird von einem Kalifen und seinen Wesiren geleitet. Der Palast 
 
 Jeder, der den allgegenwärtigen Drogenrauch von SpaceWorm-Raumstationen nicht gewohnt ist, muss täglich eine Söldnerprobe ablegen, um zu sehen, wie sein Körper auf den Rauch reagiert.
 
-<table>
-<thead>
-<tr><th>Erfolge</th><th>Auswirkung</th></tr>
-</thead>
-<tbody>
-<tr><td>0-1</td><td>Man wird süchtig und fängt selber an zu rauchen oder man erhält einen Malus von 2 auf alle Proben.</td></tr>
-<tr><td>2</td><td>Man ist dauerberauscht und erhält einen Malus von 1 auf alle Proben.</td></tr>
-<tr><td>3</td><td>Der Rauch behindert einen und man erhält deswegen einen Malus von 1 auf alle Proben. 1W6 Tage Husten.</td></tr>
-<tr><td>4+</td><td>keine</td></tr>
-</tbody>
-</table>
+| Erfolge | Auswirkung |
+| ------- | ---------- |
+| 0-1 | Man wird süchtig und fängt selber an zu rauchen oder man erhält einen Malus von 2 auf alle Proben. |
+| 2 | Man ist dauerberauscht und erhält einen Malus von 1 auf alle Proben. |
+| 3 | Der Rauch behindert einen und man erhält deswegen einen Malus von 1 auf alle Proben. 1W6 Tage Husten. |
+| 4+ | keine |
+
 Die Raumstationen werden aber nicht nur von SpaceWorms bewohnt, vielmehr findet man Angehörige jeder erdenklichen Rasse. Besonders menschliche Bedienstete schätzen die SpaceWorms sehr.
 
 ## AFKen
@@ -35,9 +29,6 @@ Die AFKen sind eine nervige Tierart, die an schwarzfellige Affen erinnern und nu
 
 Hier ein paar der bekanntesten Raumstationen oder SpaceShishas der SpaceWorms.
 
-- [AbuXabi]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Abuxabi)
-- [AlXambra]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Alxambra)
-- [BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)
-
-
-
+- [AbuXabi]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/AbuXabi/)
+- [AlXambra]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/AlXambra/)
+- [BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/BigBong/)

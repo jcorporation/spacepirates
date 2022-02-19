@@ -1,6 +1,9 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpaceWorms/Swip
+permalink: /Weltraum/Aliens/SpaceWorms/BigBong/SWIP
+keyords:
+    - SpaceWorm-Improvement-Project
+    - SWIP
 title: SpaceWorm-Improvement-Project
 ---
 
@@ -11,4 +14,3 @@ Das SpaceWorm-Improvement-Project, oder kurz SWIP, ist ein langjähriges und ext
 Das Problem bei diesem Projekt besteht darin, dass normale Rauschmittel wie LSD keinerlei Wirkung auf die SpaceWorms haben. Deshalb arbeiten die besten SpaceWorms-Forscher an neuen interdimensionalen Drogen. Diese Drogen werden nicht nur den Beteiligten des SpaceWorm-Improvement-Projects verabreicht, sondern ab und an auch in homöopatischen Dosen in die Lebenserhaltungssysteme eingespeist, um die Breitenwirkung zu testen. Die Drogen sollen es den Probanden ermöglichen, durch Wände zu gehen, durch Stahl hindurchzusehen und ganz allgemein übernatürliche Fähigkeiten, egal welcher Form, zu entwickeln.
 
 Bis jetzt hat dieses Projekt keine allzu großen Früchte getragen, aber alle Beteiligten sind der festen Überzeugung, dass dieses Projekt die Zukunft aller SpaceWorms darstelle. Das könnte aber auch daran liegen, dass alle Projektbeteiligten regelmäßig die neu entwickelten Drogen konsumieren.
-
