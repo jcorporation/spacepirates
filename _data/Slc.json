@@ -122,6 +122,16 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Cecily_Blazer-Polo": {
+    "Name": "Cecily Blazer-Polo",
+    "Rasse": "Wagonin",
+    "Kategorie": [
+      "Promi"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+  },
   "Chester_Gateland": {
     "Name": "Chester Gateland",
     "Rasse": "Trull",
@@ -137,6 +147,16 @@
     "Wohnort": "Raumschiff Sternenwolf",
     "Position": "",
     "Link": "/Weltraum/Piraten/Kapitäne"
+  },
+  "Daisy_Klick": {
+    "Name": "Daisy Klick",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Reporter"
+    ],
+    "Wohnort": "",
+    "Position": "Society-Girl",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Dar_Balga": {
     "Name": "Dar Balga",
@@ -212,6 +232,17 @@
     "Position": "Arzt",
     "Link": "/Weltraum/Konzerne/Spacewood-Klinik/Personal"
   },
+  "Dustin_Bisam": {
+    "Name": "Dustin Bisam",
+    "Rasse": "Streifanier",
+    "Kategorie": [
+      "Promi",
+      "Sänger"
+    ],
+    "Wohnort": "",
+    "Position": "",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+  },
   "Edward_Bakutha": {
     "Name": "Edward Bakutha",
     "Rasse": "Mensch",
@@ -268,6 +299,17 @@
     "Wohnort": "Gimis Bar",
     "Link": "/Weltraum/Piraten/Treffpunkte/Gimis_Bar"
   },
+  "Giorgio_Baeaemmler": {
+    "Name": "Giorgio Bäämmler",
+    "Rasse": "Wagone",
+    "Kategorie": [
+      "Promi",
+      "Modeschöpfer"
+    ],
+    "Wohnort": "",
+    "Position": "Modeschöpfer",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+  },
   "Halram_Baxu": {
     "Name": "Halram Baxu",
     "Rasse": "Trull",
@@ -315,6 +357,17 @@
     "Wohnort": "Kabukicho-Prime",
     "Position": "Ninja Großmeister",
     "Link": "/Weltraum/SpaceNinjas/Clans/Hattori-Hanzo-Akademie"
+  },
+  "Hein_Mono": {
+    "Name": "Hein Mono",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Promi",
+      "Pirat"
+    ],
+    "Wohnort": "",
+    "Position": "Leas heimlicher Verlobter",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Hendrik_Marslan": {
     "Name": "Hendrik Marslan",
@@ -398,7 +451,7 @@
       "Wagonische Königsfamilie"
     ],
     "Wohnort": "Windsor Planet",
-    "Position": "Prinzgemahlin",
+    "Position": "Prinzengemahlin",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Khan_Keyne": {
@@ -454,6 +507,16 @@
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
   },
+  "Lady_Stiffenstrigt": {
+    "Name": "Lady Stiffenstrigt",
+    "Rasse": "Wagonin",
+    "Kategorie": [
+      "Promi"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "Leas Kammerzofe",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+  },
   "Larry_Stanton": {
     "Name": "Larry Stanton",
     "Rasse": "Mensch",
@@ -489,6 +552,16 @@
     "Wohnort": "",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Lord_Alfred_Chamberlain": {
+    "Name": "Lord Alfred Chamberlain",
+    "Rasse": "Wagone",
+    "Kategorie": [
+      "Promi"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "Elisabeths rechte Hand",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Lucy_Anderson": {
     "Name": "Lucy Anderson",
@@ -613,6 +686,17 @@
     "Position": "",
     "Link": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen"
   },
+  "Prinz_Bruno_Morphium": {
+    "Name": "Prinz Bruno Morphium",
+    "Rasse": "Wagone",
+    "Kategorie": [
+      "Promi",
+      "Wagonischer Adliger"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "Leas Verlobter",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+  },
   "Prinzessin_Lea": {
     "Name": "Prinzessin Lea",
     "Rasse": "Wagonin",
@@ -667,6 +751,16 @@
     "Kategorie": "SpaceRocker",
     "Wohnort": "Los Mochis",
     "Link": "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis"
+  },
+  "Rupert_Sailman-Eggbird": {
+    "Name": "Rupert Sailman-Eggbird",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Reporter"
+    ],
+    "Wohnort": "",
+    "Position": "Hofkorrespondent",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Sabrwal": {
     "Name": "Sabrwal",
