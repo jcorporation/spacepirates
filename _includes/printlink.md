@@ -20,6 +20,10 @@
         {% assign key = key | replace: 'ß', 'ss' %}
         {% assign key = key | replace: '&', 'und' %}
 
+        {% if site.data.data_synonyms[key] %}
+            {% assign key = site.data.data_synonyms[key] %}
+        {% endif %}
+
         {% assign link = site.data[include.type][key].Link %}
         {% if link %}
             {% assign crumbs = link | remove_first: "/" | split: '/' %}

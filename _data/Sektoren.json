@@ -9,6 +9,11 @@
     "Hauptplanet": "",
     "Link": "/Weltraum/Neutrale_Zone/"
   },
+  "Reich_der_Wagonen": {
+    "Name": "Reich der Wagonen",
+    "Hauptplanet": "Xawang",
+    "Link": "/Weltraum/Aliens/Wagonen/"
+  },
   "Samara": {
     "Name": "Samara",
     "Hauptplanet": "Sampuk",

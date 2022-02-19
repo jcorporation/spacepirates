@@ -10,5 +10,11 @@
     "Sektor": "Sternenrepublik Neuasien",
     "Heimatplanet": "Xinnua",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/"
+  },
+  "Wagone": {
+    "Name": "Wagone",
+    "Sektor": "Reich der Wagonen",
+    "Heimatplanet": "Xawang",
+    "Link": "/Weltraum/Aliens/Wagonen/"
   }
 }

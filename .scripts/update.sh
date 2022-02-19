@@ -24,7 +24,7 @@ fi
 #create index
 if .scripts/create-index.pl
 then
-    for F in index.json index_stompkeys.json
+    for F in index.json index_stompkeys.json data_synonyms.json
     do
         mv "$TMPDIR/$F" "$DATADIR/"
         cp "$DATADIR/$F" "$ASSETSDIR/"

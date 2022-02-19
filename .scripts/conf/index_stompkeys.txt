@@ -68,7 +68,7 @@ unbekannten:unbekannt
 unbekannter:unbekannt
 universums:universum
 vereinigten:vereinigte
-wagone:wagonen
+wagonen:wagone
 wagonische:wagonen
 währungen:währung
 weiße loch:weißes loch

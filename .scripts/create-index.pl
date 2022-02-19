@@ -6,7 +6,7 @@ $|++;
 # globales
 my @files = ();
 my %keywords;
-my ($fh, $dh, $oh); #filehandlers
+my ($fh, $dh, $oh, $ooh); #filehandlers
 my ($i, $j); #inc variables
 
 # log
@@ -74,9 +74,29 @@ while (my $line = <$fh>) {
     $stompkeys{$key} = $value;
     print $oh "  \"$key\": \"$value\"";
 }
-print $oh "\n}\n";
 close $fh;
+open $fh, ".scripts/conf/data_synonyms.txt" or die "Error opening .scripts/conf/data_synonyms.txt";
+open $ooh, ">_tmp/data_synonyms.json" or die "Error opening _tmp/data_synonyms.txt";
+print $ooh "{\n";
+$i = 0;
+while (my $line = <$fh>) {
+    chomp($line);
+    print $oh ",\n";
+    if ($i++) {
+        print $ooh ",\n";
+    }
+    my ($key, $value) = split /\s*:\s*/,$line;
+    my $lkey = lc($key);
+    my $lvalue = lc($value);
+    $stompkeys{$lkey} = lc($lvalue);
+    print $oh "  \"$lkey\": \"$lvalue\"";
+    print $ooh "  \"$key\": \"$value\"";
+}
+close $fh;
+print $oh "\n}\n";
 close $oh;
+print $ooh "\n}\n";
+close $ooh;
 
 sub get_uri {
     my $uri = $_[0];

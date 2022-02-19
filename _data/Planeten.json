@@ -65,6 +65,17 @@
     "Politisches": "Zurückgebliebener Planet",
     "Link": "/Weltraum/Brarbragroz"
   },
+  "Burial_Planet": {
+    "Name": "Burial Planet",
+    "Typ": "Felsplanet",
+    "Sektor": "Reich der Wagonen",
+    "Monde": "0",
+    "Einwohner": "keine",
+    "Hauptstadt": "keine",
+    "Besiedelung": "Friedhofsplanet",
+    "Politisches": "Friedhofsplanet",
+    "Link": "/Weltraum/Aliens/Wagonen/Burial_Planet"
+  },
   "D4E20": {
     "Name": "D4E20",
     "Typ": "Erdähnlicher Planet",
@@ -439,6 +450,17 @@
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Weltraumphänomene/Halloween-Nebel"
   },
+  "Windsor_Planet": {
+    "Name": "Windsor Planet",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Reich der Wagonen",
+    "Monde": "2",
+    "Einwohner": "Wagonen",
+    "Hauptstadt": "keine",
+    "Besiedelung": "großes Schloss",
+    "Politisches": "Königsplanet",
+    "Link": "/Weltraum/Aliens/Wagonen/Windsor_Planet"
+  },
   "Woodstock": {
     "Typ": "Erdähnlich",
     "Name": "Woodstock",
@@ -449,6 +471,17 @@
     "Besiedelung": "Das großes Festival",
     "Politisches": "keine politischen Beziehungen",
     "Link": "/Weltraum/Neutrale_Zone/Woodstock"
+  },
+  "Xawang": {
+    "Name": "Xawang",
+    "Typ": "Dschungelplanet",
+    "Sektor": "Reich der Wagonen",
+    "Monde": "3",
+    "Einwohner": "Wagonen",
+    "Hauptstadt": "Urkalath",
+    "Besiedelung": "Wenige hochmoderne Städte",
+    "Politisches": "Heimatplanet der Wagonen",
+    "Link": "/Weltraum/Aliens/Wagonen/Xawang"
   },
   "Xinnua": {
     "Name": "Xinnua",

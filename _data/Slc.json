@@ -390,6 +390,17 @@
     "Wohnort": "Kabukicho-Prime",
     "Link": "/Weltraum/Konzerne/S_I_E__Robotermanufaktur"
   },
+  "Kaethe_von_Wagonien": {
+    "Name": "Käthe von Wagonien",
+    "Rasse": "Wagonin",
+    "Kategorie": [
+      "Promi",
+      "Wagonische Königsfamilie"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "Prinzgemahlin",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+  },
   "Khan_Keyne": {
     "Name": "Khan Keyne",
     "Rasse": "Kahadrier",
@@ -398,12 +409,34 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Koenigin_Elisabeth": {
+    "Name": "Königin Elisabeth",
+    "Rasse": "Wagonin",
+    "Kategorie": [
+      "Promi",
+      "Wagonische Königsfamilie"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "Königin",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+  },
   "Kritias": {
     "Name": "Kritias",
     "Rasse": "Atlanter",
     "Kategorie": "Einsiedler",
     "Wohnort": "Bharani 8",
     "Link": "/Weltraum/Neutrale_Zone/Bharani_8"
+  },
+  "Kronprinz_Wagonion": {
+    "Name": "Kronprinz Wagonion",
+    "Rasse": "Wagone",
+    "Kategorie": [
+      "Promi",
+      "Wagonische Königsfamilie"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "Kronprinz",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Kuster_Beaton": {
     "Name": "Kuster Beaton",
@@ -579,6 +612,17 @@
     "Wohnort": "Beta Prison",
     "Position": "",
     "Link": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen"
+  },
+  "Prinzessin_Lea": {
+    "Name": "Prinzessin Lea",
+    "Rasse": "Wagonin",
+    "Kategorie": [
+      "Promi",
+      "Wagonische Königsfamilie"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "Prinzessin",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Professor_Robotto": {
     "Name": "Professor Robotto",
@@ -764,6 +808,17 @@
     "Wohnort": "",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Willibert_von_Wagonien": {
+    "Name": "Willibert von Wagonion",
+    "Rasse": "Wagone",
+    "Kategorie": [
+      "Promi",
+      "Wagonische Königsfamilie"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "Prinz",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Xergul": {
     "Name": "Xergul",

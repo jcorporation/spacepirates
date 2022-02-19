@@ -104,6 +104,13 @@
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Freihandelszone/Stratum_Nova"
   },
+  "Urkalath": {
+    "Name": "Urkalath",
+    "Planet": "Xawang",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Aliens/Wagonen/Xawang"
+  },
   "Xiuta": {
     "Name": "Xiuta",
     "Planet": "Xinnua",

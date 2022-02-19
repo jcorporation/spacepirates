@@ -4,11 +4,6 @@ permalink: /Weltraum/Aliens/Wagonen/Sperrzone
 title: Sperrzone im Reich der Wagonen
 ---
 
-
 # Sperrzone im Reich der Wagonen
 
-
 Die Sperrzone im Reich der Wagonen wird vom Handelsrat aufrecht erhalten um die zurückgebliebene Zivilisation auf [Terra 20CAD]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Terra20cad) zu schützen. Nur sehr wenige, sorgfältig ausgewählte, Wissenschaftlerteams dürfen die Sperrzone betreten.
-
-
-
