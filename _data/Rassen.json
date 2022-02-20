@@ -1,4 +1,10 @@
 {
+  "Kahadrier": {
+    "Name": "Kahadrier",
+    "Sektor": "Kahadrisches Reich",
+    "Heimatplanet": "Kahadria",
+    "Link": "/Weltraum/Aliens/Kahadrier/"
+  },
   "Mensch": {
     "Name": "Mensch",
     "Sektor": "Föderation",
@@ -10,6 +16,24 @@
     "Sektor": "Sternenrepublik Neuasien",
     "Heimatplanet": "Xinnua",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/"
+  },
+  "Raptorianer": {
+    "Name": "Raptorianer",
+    "Sektor": "",
+    "Heimatplanet": "Greeenhl",
+    "Link": "/Weltraum/Aliens/Raptorianer/"
+  },
+  "Romaha": {
+    "Name": "Romaha",
+    "Sektor": "",
+    "Heimatplanet": "",
+    "Link": "/Weltraum/Aliens/Romaha/"
+  },
+  "Samnese": {
+    "Name": "Samnese",
+    "Sektor": "Samara",
+    "Heimatplanet": "Sampuk",
+    "Link": "/Weltraum/Aliens/Samnesen/"
   },
   "SpacePear": {
     "Name": "SpacePear",
@@ -32,6 +56,12 @@
     "Sektor": "Sektor D1",
     "Heimatplanet": "Trullmania",
     "Link": "/Weltraum/Aliens/SpaceYetis/"
+  },
+  "Spaceamazonen": {
+    "Name": "Spaceamazonen",
+    "Sektor": "",
+    "Heimatplanet": "Amazon",
+    "Link": "/Weltraum/Aliens/Spaceamazonen/"
   },
   "Streifanier": {
     "Name": "Streifanier",

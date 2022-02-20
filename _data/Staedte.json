@@ -1,10 +1,24 @@
 {
+  "Bridurlan": {
+    "Name": "Bridurlan",
+    "Planet": "Kahadria",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Aliens/Kahadrier/Kahadria"
+  },
   "Bruessel": {
     "Name": "Brüssel",
     "Planet": "Erde",
     "Groesse": "Millionenstadt",
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Menschen/Föderation/Erde"
+  },
+  "Foodtopia": {
+    "Name": "Foodtopia",
+    "Planet": "Greeenhl",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Aliens/Raptorianer/Greeenhl"
   },
   "Gamma-Stadt": {
     "Name": "Gamma-Stadt",
@@ -89,6 +103,13 @@
     "Größe": "Millionenstadt",
     "Kategorie": "Hauptstadt",
     "Link": "/Weltraum/Menschen/Föderation/Pessach_4"
+  },
+  "Roger_City": {
+    "Name": "Roger City",
+    "Planet": "Cygni Tek",
+    "Groesse": "Millionenstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Aliens/Kahadrier/Cygni_Tek"
   },
   "Savar": {
     "Name": "Savar",

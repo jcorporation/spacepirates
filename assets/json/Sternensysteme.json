@@ -26,6 +26,15 @@
     "Politisches": "",
     "Link": "/Weltraum/Epsilon_Canabis"
   },
+  "Proxima_Sigma": {
+    "Name": "Proxima Sigma",
+    "Sektor": "Kahadrisches Reich",
+    "Zentralgestirn": "Sonne",
+    "Planeten": "11",
+    "Bewohner": "Weltraumkäfer",
+    "Politisches": "Nur über das Lila Loch erreichbar",
+    "Link": "/Weltraum/Aliens/Kahadrier/Proxima_Sigma"
+  },
   "Sigma_9": {
     "Name": "Sigma 9",
     "Sektor": "Trullimperium",

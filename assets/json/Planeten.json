@@ -104,6 +104,17 @@
     "Politisches": "Friedhofsplanet",
     "Link": "/Weltraum/Aliens/Wagonen/Burial_Planet"
   },
+  "Cygni_Tek": {
+    "Name": "Cygni Tek",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "Kahadrisches Reich",
+    "Monde": "1",
+    "Einwohner": "Kahadrier",
+    "Hauptstadt": "Roger City",
+    "Besiedelung": "große Fabriken",
+    "Politisches": "Konzernplanet von Cygni Tek",
+    "Link": "/Weltraum/Aliens/Kahadrier/Cygni_Tek"
+  },
   "D4E20": {
     "Name": "D4E20",
     "Typ": "Erdähnlicher Planet",
@@ -181,6 +192,17 @@
     "Politisches": "Hauptplanet der Eisgalaxis",
     "Link": "/Weltraum/Aliens/SpaceYetis/Eisgalaxis"
   },
+  "Greeenhl": {
+    "Name": "Greeenhl",
+    "Typ": "Dschungelplanet",
+    "Sektor": "unbekannt",
+    "Monde": "3",
+    "Einwohner": "Raptorianer",
+    "Hauptstadt": "Foodtopia",
+    "Besiedelung": "Wenige, große Städte",
+    "Politisches": "Heimatplanet der Raptorianer",
+    "Link": "/Weltraum/Aliens/Raptorianer/Greeenhl"
+  },
   "Hollywood": {
     "Name": "Hollywood",
     "Typ": "Erdähnlicher Planet",
@@ -213,6 +235,17 @@
     "Besiedelung": "eine große Stadt",
     "Politisches": "Kapitalistische Sonderrechtszone Neuasiens",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/"
+  },
+  "Kahadria": {
+    "Name": "Kahadria",
+    "Typ": "Eisplanet",
+    "Sektor": "Kahadrisches Reich",
+    "Monde": "5",
+    "Einwohner": "Kahadrier",
+    "Hauptstadt": "Bridurlan",
+    "Besiedelung": "unterirdische Städte",
+    "Politisches": "Heimatplanet der Kahadrier",
+    "Link": "/Weltraum/Aliens/Kahadrier/Kahadria"
   },
   "Kappa_Gamma": {
     "Typ": "Erdähnlich",
@@ -335,6 +368,17 @@
     "Politisches": "Omatic Enterprise",
     "Link": "/Weltraum/Menschen/Föderation/Omatic"
   },
+  "Omega_10": {
+    "Name": "Omega 10",
+    "Typ": "Eisplanet",
+    "Sektor": "Kahadrisches Reich",
+    "Monde": "0",
+    "Einwohner": "Kahadrier",
+    "Hauptstadt": "keine",
+    "Besiedelung": "Rechenzentren",
+    "Politisches": "Konzernplanet von Puugle Inc.",
+    "Link": "/Weltraum/Aliens/Kahadrier/Omega_10"
+  },
   "Ozeanus_5": {
     "Name": "Ozeanus 5",
     "Typ": "Wasserplanet",
@@ -367,6 +411,17 @@
     "Besiedelung": "große Fabriken",
     "Politisches": "Yellow Stone Group",
     "Link": "/Weltraum/Menschen/Föderation/Pessach_4"
+  },
+  "Proxima_Sigma_II": {
+    "Name": "Proxima Sigma II",
+    "Typ": "Wüstenplanet",
+    "Sektor": "Kahadrisches Reich",
+    "Monde": "3",
+    "Einwohner": "keine",
+    "Hauptstadt": "keine",
+    "Besiedelung": "keine",
+    "Politisches": "Nur über das Lila Loch erreichbar",
+    "Link": "/Weltraum/Aliens/Kahadrier/Proxima_Sigma"
   },
   "Rigel_3": {
     "Name": "Rigel 3",

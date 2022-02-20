@@ -4,6 +4,11 @@
     "Hauptplanet": "Erde",
     "Link": "/Weltraum/Menschen/Föderation/"
   },
+  "Kahadrisches_Reich": {
+    "Name": "Kahadrisches Reich",
+    "Hauptplanet": "Kahadria",
+    "Link": "/Weltraum/Aliens/Kahadrier/"
+  },
   "Neutrale_Zone": {
     "Name": "Neutrale Zone",
     "Hauptplanet": "",

@@ -813,6 +813,13 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Razzngool": {
+    "Name": "Razzngool",
+    "Rasse": "Raptorianer",
+    "Kategorie": "Raumschiffkapitän",
+    "Wohnort": "Burger Prince",
+    "Link": "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer"
+  },
   "Ricardo": {
     "Name": "Samnese",
     "Rasse": "Mensch",
