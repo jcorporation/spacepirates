@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Galaxygen
-title: Sternensystemgenerator
+permalink: /Zufallstabellen/Sternensysteme
+title: Sternensysteme
 ---
 
 # Sternensystemgenerator

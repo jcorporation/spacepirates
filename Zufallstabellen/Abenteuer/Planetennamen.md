@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Planetennamen
+permalink: /Zufallstabellen/Abenteuer/Planetennamen
 title: Planetennamen
 ---
 

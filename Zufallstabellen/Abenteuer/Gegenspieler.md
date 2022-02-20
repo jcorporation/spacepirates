@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Gegenspieler
+permalink: /Zufallstabellen/Abenteuer/Gegenspieler
 title: Gegenspieler
 ---
 

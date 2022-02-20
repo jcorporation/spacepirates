@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Huerden
+permalink: /Zufallstabellen/Abenteuer/Huerden
 title: Hürden
 ---
 

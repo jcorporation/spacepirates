@@ -1,15 +1,14 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Kieigenschaften
-title: Eigenschaft einer KI
+permalink: /Zufallstabellen/Ki-Eigenschaften
+title: KI-Eigenschaften
 ---
 
 # Eigenschaft einer KI
 
 Hier kann ausgewürfelt werden, wie sich eine KI gegenüber den Spielercharakteren verhält.
 
-<table data-type="zufallstabelle">
-<caption>Eigenschaft einer KI</caption>
+<table>
 <thead>
 <tr><th>W10</th><th>Eigenschaft</th></tr>
 </thead>

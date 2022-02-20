@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Orte
+permalink: /Zufallstabellen/Abenteuer/Orte
 title: Orte
 ---
 

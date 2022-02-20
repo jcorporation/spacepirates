@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Zwischenfaelle
+permalink: /Zufallstabellen/Abenteuer/Zwischenfaelle
 title: Zwischenfälle
 ---
 

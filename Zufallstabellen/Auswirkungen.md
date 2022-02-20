@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Auswirkungen
+permalink: /Zufallstabellen/Auswirkungen
 title: Auswirkungen von Weltraumphänomenen
 ---
 

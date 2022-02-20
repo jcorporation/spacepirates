@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Sternensysteme
+permalink: /Zufallstabellen/Abenteuer/Sternensysteme
 title: Sternensysteme
 ---
 

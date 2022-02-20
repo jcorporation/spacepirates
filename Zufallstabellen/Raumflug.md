@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Raumflug
+permalink: /Zufallstabellen/Raumflug
 title: Raumflug
 ---
 

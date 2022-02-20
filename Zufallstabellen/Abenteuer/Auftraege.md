@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Auftraege
+permalink: /Zufallstabellen/Abenteuer/Auftraege
 title: Aufträge
 ---
 

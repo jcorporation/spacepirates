@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Abenteuergen
+permalink: /Zufallstabellen/Abenteuer/Abenteuergen
 title: 1-Klick-Abenteuer
 ---
 

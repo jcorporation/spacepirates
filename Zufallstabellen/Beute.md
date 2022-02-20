@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Beute
+permalink: /Zufallstabellen/Beute
 title: Beutegenerator
 ---
 

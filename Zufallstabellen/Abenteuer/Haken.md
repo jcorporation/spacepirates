@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Haken
+permalink: /Zufallstabellen/Abenteuer/Haken
 title: Haken an der Sache
 ---
 

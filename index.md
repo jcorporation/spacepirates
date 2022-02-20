@@ -63,7 +63,7 @@ SpacePirates ist ein [freies](/Freies_Rollenspiel) und abgedrehtes Space-Opera-R
         <a href="{{ site.baseurl }}/Abenteuer/" class="link-dark">Abenteuer</a>
     </div>
     <div class="col clickable p-2">
-        <a href="{{ site.baseurl }}/Zufallsgeneratoren/" class="link-dark">Zufallsgeneratoren</a>
+        <a href="{{ site.baseurl }}/Zufallstabellen/" class="link-dark">Zufallstabellen</a>
     </div>
 </div>
 

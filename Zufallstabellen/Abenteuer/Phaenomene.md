@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Phaenomene
+permalink: /Zufallstabellen/Abenteuer/Phaenomene
 title: Weltraumphänomene
 ---
 

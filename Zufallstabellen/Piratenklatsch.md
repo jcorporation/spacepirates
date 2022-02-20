@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Piratenklatsch
+permalink: /Zufallstabellen/Piratenklatsch
 title: Piratenklatsch
 ---
 

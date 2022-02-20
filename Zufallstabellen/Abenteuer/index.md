@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/
+permalink: /Zufallstabellen/Abenteuer/
 title: Abenteuertabellen
 ---
 
 # Abenteuertabellen
 
-Mit den Abenteuertabellen können die Eckpunkte eines Abenteuers ausgewürfelt werden, die danach nur noch miteinander verbunden werden müssen. Natürlich ist trotzdem noch Kreativität gefragt und unpassende Würfelwürfe dürfen natürlich wiederholt werden. Wer das Abenteuer nicht von and auswürfeln will kann den [1-Klick-Abenteuergenerator]({{ site.baseurl }}/Zufallsgeneratoren/Abenteuergen) verwenden.
+Mit den Abenteuertabellen können die Eckpunkte eines Abenteuers ausgewürfelt werden, die danach nur noch miteinander verbunden werden müssen. Natürlich ist trotzdem noch Kreativität gefragt und unpassende Würfelwürfe dürfen natürlich wiederholt werden. Wer das Abenteuer nicht von and auswürfeln will kann den [1-Klick-Abenteuergenerator]({{ site.baseurl }}/Zufallstabellen/Abenteuergen) verwenden.
 
 ## Auftrag
 

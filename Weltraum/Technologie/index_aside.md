@@ -1,7 +1,7 @@
 {% capture include_body %}
 - [Techtalk]({{ site.baseurl }}/Weltraum/Technologie/Techtalk)
-- [Techsprech Tabelle]({{ site.baseurl }}/Weltraum/Technologie/Techsprech_Tabelle)
-- [Neutritium-, Negatritium-Strahlung]({{ site.baseurl }}/Weltraum/Technologie/Neutritium-_Negatritium-Strahlung)
+- [Techsprech Tabelle]({{ site.baseurl }}/Zufallstabellen/Techsprech)
+- [Neutritium-, Negatritium-Strahlung]({{ site.baseurl }}/Zufallstabellen/Neutritium-_Negatritium-Strahlung)
 {% endcapture %}
 {% include hinweis.md title="Weitere Links" body=include_body %}
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Raumschiffe
+permalink: /Zufallstabellen/Raumschiffe
 title: Raumschiffe
 ---
 

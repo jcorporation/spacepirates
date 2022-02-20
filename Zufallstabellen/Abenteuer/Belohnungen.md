@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Abenteuer/Belohnungen
+permalink: /Zufallstabellen/Abenteuer/Belohnungen
 title: Belohnungen
 ---
 

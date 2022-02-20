@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallsgeneratoren/Fehlfunktionen
+permalink: /Zufallstabellen/Fehlfunktionen_von_Geräten
 title: Fehlfunktionen von Geräten
 ---
 
@@ -8,8 +8,7 @@ title: Fehlfunktionen von Geräten
 
 Hier kann ausgewürfelt werden, was geschieht, wenn ein technisches Gerät kaputt geht.
 
-<table data-type="zufallstabelle">
-<caption>Fehlfunktionen von Geräten</caption>
+<table>
 <thead>
 <tr><th>W10</th><th>Fehlfunktion</th></tr>
 </thead>
