@@ -24,6 +24,20 @@
     "Politisches": "Rebellen",
     "Link": "/Weltraum/Rebellen/Alastor"
   },
+  "Amazon": {
+    "Name": "Amazon",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "unbekannt",
+    "Monde": "2",
+    "Einwohner": "Spaceamazonen",
+    "Hauptstadt": "unbekannt",
+    "Raumhaefen": "auch für große Frachtschiffe",
+    "Besiedelung": "Wenige, große Städte",
+    "Verfolgungsstatus": "0",
+    "Technologielevel": "FTL",
+    "Politisches": "Heimatplanet der Spaceamazonen",
+    "Link": "/Weltraum/Aliens/Spaceamazonen/Amazon"
+  },
   "Avantgardia": {
     "Name": "Avantgardia",
     "Typ": "Erdähnlicher Planet",
