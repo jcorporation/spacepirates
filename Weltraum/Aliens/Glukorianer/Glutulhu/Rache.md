@@ -20,33 +20,32 @@ Die letzte große Schlacht, die über den Untergang des Guten entscheiden sollte
 
 Die noch manövrierfähigen Schlachtschiffe wurden in alle Richtung zerstreut, gejagt von den Glukorianern und das Schicksal war besiegelt. Glutulhu hatte grausame Rache genommen und das bekannte Universum unterjocht.
 
-<blockquote>
-*Erneute Krisensitzung im Handelsrat, sogar die Samnesen und die asiatische Union wurde dazu eingeladen.*
+{% capture include_body %}
+Erneute Krisensitzung im Handelsrat, sogar die Samnesen und die asiatische Union wurde dazu eingeladen.
+{% endcapture %}
+{% include anmerkung.md title="BTBC, 02. Januar 4501" body=include_body %}
 
-<footer>&mdash; BTBC, 02. Januar 4501</footer>
-</blockquote>
-<blockquote>
-*Neutrale Zone von den Glukorianern besetzt. Millionen von Toten. Das ganze Universum wird von den Glukorianern bedroht!*
+{% capture include_body %}
+Neutrale Zone von den Glukorianern besetzt. Millionen von Toten. Das ganze Universum wird von den Glukorianern bedroht!
+{% endcapture %}
+{% include anmerkung.md title="Strat 1, 05. Januar 4501" body=include_body %}
 
-<footer>&mdash; Strat 1, 05. Januar 4501</footer>
-</blockquote>
-<blockquote>
-*Hatten die Weltuntergangsfanatiker doch recht? Handelsrat bestätigt das Auftauchen eines gigantischen Tentakelmonsters.*
+{% capture include_body %}
+Hatten die Weltuntergangsfanatiker doch recht? Handelsrat bestätigt das Auftauchen eines gigantischen Tentakelmonsters.
+{% endcapture %}
+{% include anmerkung.md title="LTR, 05. Januar 4501" body=include_body %}
 
-<footer>&mdash; LTR, 05. Januar 4501</footer>
-</blockquote>
-<blockquote>
-*Samara und das Trullimperium sind gefallen. Die Glukorianer walzen erbarmungslos alles nieder, was sich ihnen in den Weg stellt.*
+{% capture include_body %}
+Samara und das Trullimperium sind gefallen. Die Glukorianer walzen erbarmungslos alles nieder, was sich ihnen in den Weg stellt.
+{% endcapture %}
+{% include anmerkung.md title="Daily Stargraph, 08. Januar 4501" body=include_body %}
 
-<footer>&mdash; Daily Stargraph, 08. Januar 4501</footer>
-</blockquote>
-<blockquote>
-*Wagonen in ihrer eigenen Bürokratie gefangen! Wann mobilisieren sie endlich ihre Streitkräfte?*
+{% capture include_body %}
+Wagonen in ihrer eigenen Bürokratie gefangen! Wann mobilisieren sie endlich ihre Streitkräfte?
+{% endcapture %}
+{% include anmerkung.md title="StarIllu, 08. Januar 4501" body=include_body %}
 
-<footer>&mdash; StarIllu, 08. Januar 4501</footer>
-</blockquote>
-<blockquote>
-*Kahadria erringt einen Sieg gegen die Glukorianer. Ist dies der Wendepunkt in diesem Krieg? Die verbündeten Armeen schöpfen neuen Mut!*
-
-<footer>&mdash; BTBC, 12. Januar 4501</footer>
-</blockquote>
+{% capture include_body %}
+Kahadria erringt einen Sieg gegen die Glukorianer. Ist dies der Wendepunkt in diesem Krieg? Die verbündeten Armeen schöpfen neuen Mut!
+{% endcapture %}
+{% include anmerkung.md title="BTBC, 12. Januar 4501" body=include_body %}

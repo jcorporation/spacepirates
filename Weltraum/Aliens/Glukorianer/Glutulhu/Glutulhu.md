@@ -14,13 +14,12 @@ All dies geschah vor über achttausend Jahren. Damals besiegten die mächtigen R
 
 Nun erwacht Glutulhu aus seinem Schlaf und es gibt niemanden mehr, der es verhindern könnte. Die Romaha haben dieses Universum verlassen, die restlichen Bewohner wissen nichts von den Geschehnissen dieser Zeit. Nur das glukorianische Imperium ist auf Glutulhus Erwachen vorbereitet und die Glukorianer sind die einzigen, die davon profitieren werden.
 
-<blockquote>
-*An den Grenzen zum glukorianischen Imperium ist es seltsam ruhig geworden. Ziehen sich die Glukorianer zurück oder ist es der Vorbote auf einen neuen Krieg?*
+{% capture include_body %}
+An den Grenzen zum glukorianischen Imperium ist es seltsam ruhig geworden. Ziehen sich die Glukorianer zurück oder ist es der Vorbote auf einen neuen Krieg?
+{% endcapture %}
+{% include anmerkung.md title="Daily Stargraph, 1. Oktober 4500" body=include_body %}
 
-<footer>&mdash; Daily Stargraph, 1. Oktober 4500</footer>
-</blockquote>
-<blockquote>
-*Insider berichten von einem Durchbruch bei den diplomatischen Verhandlungen mit den Glukorianern. Kommt jetzt die Zeit des wahren Friedens?*
-
-<footer>&mdash; StarIllu, 3. Oktober 4500</footer>
-</blockquote>
+{% capture include_body %}
+Insider berichten von einem Durchbruch bei den diplomatischen Verhandlungen mit den Glukorianern. Kommt jetzt die Zeit des wahren Friedens?
+{% endcapture %}
+{% include anmerkung.md title="StarIllu, 3. Oktober 4500" body=include_body %}

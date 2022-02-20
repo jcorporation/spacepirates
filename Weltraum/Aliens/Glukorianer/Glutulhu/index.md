@@ -12,4 +12,3 @@ Glutulhu ist einer der großen Alten: Mythische, gottgleiche Wesen mit enormer M
 - [Glutulhus Erwachen]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen)
 - [Glutulhus Rache]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu/Rache)
 - [Danach]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu/Danach)
-

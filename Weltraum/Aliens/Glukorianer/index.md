@@ -1,14 +1,22 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Aliens/Glukorianer/
 title: Glukorianer
+sitedata:
+    Sektoren:
+        Glukorianisches_Imperium:
+            Name: Glukorianisches Imperium
+            Hauptplanet: Ghultar
+    Rassen:
+        Glukorianer:
+            Name: Glukorianer
+            Sektor: Glukorianisches Imperium
+            Heimatplanet: Ghultar
 ---
-
 
 # Glukorianer
 
-
-- **Heimatplanet:** [Gulthar]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Ghultar)
+- **Heimatplanet:** [Ghultar]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Ghultar)
 - **Reich:** Glukorianisches Imperium
 - [Glutulhu]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu)
 
@@ -20,22 +28,9 @@ Mit den Glukorianern gibt es keine politischen Beziehungen, nur kriegerische Aus
 
 Die Glukorianer verfügen über eine sehr moderne und fremdartige Technologie, die nur von jener der Syoner übertroffen wird. Alle anderen Rassen sind ihnen hingegen deutlich unterlegen. Die Glukorianer forschen speziell an transdimensionalen Waffen, um die Syoner besser bekämpfen zu können.
 
-<div class="anmerkung">
-## Glukorianer rüsten auf
+{% include sektorinfo.md data="Glukorianisches Imperium" %}
 
+{% capture include_body %}
 Droht ein neuer Sternenkrieg? Geheimen Unterlagen des Militärs zufolge rüsten die Glukorianer derzeit massiv auf. Aus dem Verteidigungsministerium hieß es dazu nur, die Lage sei „kritisch, aber stabil.“
-
-</div>
-<div class="hinweis">
-## Planeten, Raumstationen und Weltraumphänomene in diesem Sektor
-
-[list]({{ site.baseurl }}/Objectlist:planet|sternensystem:Sektor=Glukorianisches Imperium)
-
-[list]({{ site.baseurl }}/Objectlist:raumstation:Sektor=Glukorianisches Imperium)
-
-[list]({{ site.baseurl }}/Objectlist:phaenomen:Sektor=Glukorianisches Imperium)
-
-</div>
-
-<aside><img alt="Glukorianer" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/glukorianer.jpg" /></aside>
-
+{% endcapture %}
+{% include anmerkung.md title="Glukorianer rüsten auf" body=include_body %}
