@@ -5,13 +5,16 @@ title: Samnesen
 keywords:
     - samara
     - samnesen
-
 sitedata:
     Sektoren:
         Samara:
             Name: Samara
             Hauptplanet: "Sampuk"
-
+    Rassen:
+        Samnese:
+            Name: Samnese
+            Sektor: "Samara"
+            Heimatplanet: "Sampuk"
 ---
 
 # Samnesen
