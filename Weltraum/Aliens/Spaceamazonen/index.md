@@ -2,6 +2,12 @@
 layout: aside
 permalink: /Weltraum/Aliens/Spaceamazonen/
 title: Spaceamazonen
+sitedata:
+    Rassen:
+        Spaceamazonen:
+            Name: Spaceamazonen
+            Sektor: ""
+            Heimatplanet: "Amazon"
 ---
 
 # Spaceamazonen
