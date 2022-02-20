@@ -1,15 +1,19 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Aliens/Raptorianer/
 title: Raptorianer
+sitedata:
+    Rassen:
+        Raptorianer:
+            Name: Raptorianer
+            Sektor: ""
+            Heimatplanet: "Greeenhl"
 ---
-
 
 # Raptorianer
 
-
 - Heimatplanet: [Greeenhl]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Greeenhl)
-- [Dino Burger]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Dinoburger)
+- [Dino Burger]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Dino_Burger)
 - [Schlachtkreuzer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Schlachtkreuzer)
 
 Die Raptorianer sind eine echsenartige Alienrasse, die auf Greeenhl beheimatet ist. Charakteristisch ist die grün-braune schuppige Reptilienhaut, manchmal mit gelblichen oder orangefarbenen Farbeinschlag und einem großen weißen Fleck im Kehlbereich. Die meisten ihrer Spezies sind um einiges größer als die meisten humanoiden Rassen. Messerscharfe Klauen und Reißzähne machen sie zu hervorragenden und gefürchteten Nahkämpfern. Ihre typischen Reptilienaugen, die durch die schlitzförmige Pupille geprägt ist, ermöglicht es ihnen auch in absoluter Dunkelheit die Wärmesignatur von Lebewesen wahrzunehmen.
@@ -34,12 +38,6 @@ Kurz nach dem ersten Auftreten der Raptorianer in den bekannten Sektoren der Gal
 
 Die Vermutung liegt nahe, dass die verschwundenen Besatzungen einem der örtlichen Proteinhändlern zum Opfer gefallen sein könnten. Aufgrund dieser Tatsache werden mittlerweile weder Diplomaten, noch wissenschaftliche Teams auf Greeenhl entsandt. Stattdessen beschränkt man sich auf den regen Handel mit Waren. Da sich Greeenhl außerhalb des Einflussbereichs einer der vorherrschenden Rassen der uns bekannten Sektoren befindet, könnte es sich naher Zukunft zu einem Tummelplatz für Piraten und andere Gesetzlose entwickeln. Zumal die Raptoiden sehr gastfreundlich sind und jeden gern „zu Tisch“ bitten.
 
-
-<aside><img alt="Raptorianer" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/raptorianer.png" /></aside>
-
 ***
 
 **Autoren:** Alf &amp; Max
-
-
-
