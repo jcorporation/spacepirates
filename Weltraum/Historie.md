@@ -1,5 +1,5 @@
 ---
-layout: aside
+layout: page
 permalink: /Weltraum/Historie
 title: Historie
 ---
@@ -74,4 +74,12 @@ Es wird ein Syoner enttarnt, der seit Jahrzehnten als Mensch getarnt im Handelsr
 
 Jetzt, in diesem Jahrhundert, spielt SpacePirates. Der Kalte Krieg zwischen Samara und dem Trullimperium droht jeden Moment zu entflammen. Es findet eine Hexenjagd auf angebliche Syoner statt. Die Arbeitsgruppe zur Bekämpfung der Spaceamazonen ist gescheitert, während jene gerüchteweise wieder in Neuasien einfallen. Die Raumzeitverschiebung breitet sich langsam, aber stetig aus. Die Glukorianer rasseln wieder mit ihren Säbeln, viele befürchten einen baldigen neuen Krieg. Die großen Mächte sind gelähmt und nahezu unfähig, auf neue Bedrohungen zu reagieren.
 
+***
+
 - [Die aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Politische_Lage)
+
+***
+
+## In der Zukunft
+
+Im 45. Jahrhundert erwacht [Glutulhu]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu) aus seinem Schlaf und die Glukorianer erobern die bekannten Sektoren.
