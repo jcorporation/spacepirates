@@ -99,6 +99,10 @@ karte.getInfo = async function(text, link) {
     if (link === null) {
         link = result[0];
     }
+    if (link === undefined) {
+        document.getElementById('infoTab').textContent = 'Seite nicht gefunden';
+        return;
+    }
     try {
         const response = await fetch(link);
         const data = await response.text();
