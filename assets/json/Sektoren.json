@@ -4,6 +4,11 @@
     "Hauptplanet": "Erde",
     "Link": "/Weltraum/Menschen/Föderation/"
   },
+  "Glukorianisches_Imperium": {
+    "Name": "Glukorianisches Imperium",
+    "Hauptplanet": "Ghultar",
+    "Link": "/Weltraum/Aliens/Glukorianer/"
+  },
   "Kahadrisches_Reich": {
     "Name": "Kahadrisches Reich",
     "Hauptplanet": "Kahadria",

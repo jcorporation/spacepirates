@@ -38,6 +38,17 @@
     "Politisches": "Heimatplanet der Spaceamazonen",
     "Link": "/Weltraum/Aliens/Spaceamazonen/Amazon"
   },
+  "Atlantis": {
+    "Name": "Atlantis",
+    "Typ": "Erdähnlicher Planet",
+    "Sektor": "unbekannt",
+    "Monde": "2",
+    "Einwohner": "Atlanter",
+    "Hauptstadt": "Atlantis",
+    "Besiedelung": "Wenige, große Städte",
+    "Politisches": "Heimatplanet der Atlanter",
+    "Link": "/Weltraum/Aliens/Atlanter/Atlantis"
+  },
   "Avantgardia": {
     "Name": "Avantgardia",
     "Typ": "Erdähnlicher Planet",
@@ -180,6 +191,17 @@
     "Besiedelung": "durchschnittlich, mit vielen Städten",
     "Politisches": "Heimatplanet der Menschen",
     "Link": "/Weltraum/Menschen/Föderation/Erde"
+  },
+  "Ghultar": {
+    "Name": "Ghultar",
+    "Typ": "Wasserplanet",
+    "Sektor": "Glukorianisches Imperium",
+    "Monde": "13",
+    "Einwohner": "Glukorianer",
+    "Hauptstadt": "",
+    "Besiedelung": "Schwimmender Tempel",
+    "Politisches": "Mittelpunkt der Glutulhuverehrung",
+    "Link": "/Weltraum/Aliens/Glukorianer/Ghultar"
   },
   "Glacor": {
     "Name": "Glacor",

@@ -1,4 +1,11 @@
 {
+  "Atlantis": {
+    "Name": "Atlantis",
+    "Planet": "Atlantis",
+    "Groesse": "Großstadt",
+    "Kategorie": "Hauptstadt",
+    "Link": "/Weltraum/Aliens/Atlanter/Atlantis"
+  },
   "Bridurlan": {
     "Name": "Bridurlan",
     "Planet": "Kahadria",

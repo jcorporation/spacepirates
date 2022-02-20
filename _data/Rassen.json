@@ -1,4 +1,16 @@
 {
+  "Atlanter": {
+    "Name": "Atlanter",
+    "Sektor": "",
+    "Heimatplanet": "Atlantis",
+    "Link": "/Weltraum/Aliens/Atlanter/"
+  },
+  "Glukorianer": {
+    "Name": "Glukorianer",
+    "Sektor": "Glukorianisches Imperium",
+    "Heimatplanet": "Ghultar",
+    "Link": "/Weltraum/Aliens/Glukorianer/"
+  },
   "Kahadrier": {
     "Name": "Kahadrier",
     "Sektor": "Kahadrisches Reich",
