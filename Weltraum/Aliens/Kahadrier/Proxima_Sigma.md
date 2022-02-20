@@ -1,40 +1,30 @@
 ---
-layout: page
+layout: sternensystem
 permalink: /Weltraum/Aliens/Kahadrier/Proxima_Sigma
 title: Proxima Sigma
+sitedata:
+    Planeten:
+        Proxima_Sigma_II:
+            Name: "Proxima Sigma II"
+            Typ: "Wüstenplanet"
+            Sektor: "Kahadrisches Reich"
+            Monde: "3"
+            Einwohner: "keine"
+            Hauptstadt: "keine"
+            Besiedelung: "keine"
+            Politisches: "Nur über das Lila Loch erreichbar"
+    Sternensysteme:
+        Proxima_Sigma:
+            Name: "Proxima Sigma"
+            Sektor: "Kahadrisches Reich"
+            Zentralgestirn: "Sonne"
+            Planeten: "11"
+            Bewohner: "Weltraumkäfer"
+            Politisches: "Nur über das Lila Loch erreichbar"
 ---
-
 
 # Proxima Sigma
 
-
 Das System besteht aus zehn Gasriesen, nur der zweitinnerste Planet des Systems Proxima Sigma ist ein schroffer Wüstenplanet.
 
-<table data-type="planet">
-<caption>Proxima Sigma II</caption>
-<tbody>
-<tr><th>Typ</th><td>Wüstenplanet</td></tr>
-<tr><th>Sektor</th><td>[Kahadrisches Reich]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier)</td></tr>
-<tr><th>Monde</th><td>3</td></tr>
-<tr><th>Einwohner</th><td>keine</td></tr>
-<tr><th>Hauptstadt</th><td>keine</td></tr>
-<tr><th>Besiedelung</th><td>keine</td></tr>
-<tr><th>Politisches</th><td>Nur über das [Lila Loch]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Lilaloecher-plasmaregenbogen) erreichbar</td></tr>
-<tr><th>Erwähnungen</th><td>[Proxima Sigma II]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-
-<aside>
-<table data-type="sternensystem">
-<caption>Proxima Sigma</caption>
-<tbody>
-<tr><th>Sektor</th><td>[Kahadrisches Reich]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier)</td></tr>
-<tr><th>Zentralgestirn</th><td>Sonne</td></tr>
-<tr><th>Planeten</th><td>11</td></tr>
-<tr><th>Bewohner</th><td>Weltraumkäfer</td></tr>
-<tr><th>Politisches</th><td>Nur über das [Lila Loch]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Lilaloecher-plasmaregenbogen) erreichbar</td></tr>
-<tr><th>Erwähnungen</th><td>[Proxima Sigma]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
-
+{% include planet.md data=page.sitedata.Planeten.Proxima_Sigma_II %}

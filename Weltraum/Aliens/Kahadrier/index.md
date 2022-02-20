@@ -1,14 +1,20 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Aliens/Kahadrier/
 title: Kahadrier
-keywords:
-    - kahadrisches reich
+sitedata:
+    Sektoren:
+        Kahadrisches_Reich:
+            Name: Kahadrisches Reich
+            Hauptplanet: Kahadria
+    Rassen:
+        Kahadrier:
+            Name: Kahadrier
+            Sektor: "Kahadrisches Reich"
+            Heimatplanet: "Kahadria"
 ---
 
-
 # Kahadrier
-
 
 - **Heimatplanet:** [Kahadria]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/Kahadria)
 - **Botschaftsplanet:** [Keas]({{ site.baseurl }}/Weltraum/Freihandelszone/Keas)
@@ -20,22 +26,9 @@ Die Kahadrier sind eine kriegerische Rasse und haben schon unzählige Weltraumsc
 
 Die Kahadrier sind auf einem durchschnittlichen technischen Niveau, in der Vergangenheit forschten sie vor allem in der Waffentechnik. Jedes ihrer Raumschiffe ist zugleich auch ein Kriegsschiff, Forschungsschiffe haben die Kahadrier noch nie gebaut, sie erobern lieber Welten, als sie zu erforschen.
 
-<div class="hinweis">
-## Planeten, Raumstationen und Weltraumphänomene in diesem Sektor
+{% include sektorinfo.md data="Kahadrisches Reich" %}
 
-[list]({{ site.baseurl }}/Objectlist:planet|sternensystem:Sektor=Kahadrisches Reich)
-
-[list]({{ site.baseurl }}/Objectlist:raumstation:Sektor=Kahadrisches Reich)
-
-[list]({{ site.baseurl }}/Objectlist:phaenomen:Sektor=Kahadrisches Reich)
-
-</div>
-<div class="anmerkung">
-## Traumhochzeit
-
+{% capture include_body %}
 Kahadrische Traumhochzeit steht an! General Kazhdum ehelicht seine langjährige Geliebte. Erleben Sie die Trauung live und in 3D exklusiv auf Stars und Sternchen-TV.
-
-</div>
-
-<aside><img alt="Kahadrier" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/kahadrier.jpg" /></aside>
-
+{% endcapture %}
+{% include anmerkung.md title="Traumhochzeit" body=include_body %}
