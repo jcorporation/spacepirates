@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /Zufallstabellen/Abenteuer/Phaenomene
+permalink: /Zufallstabellen/Abenteuer/Weltraumphänomene
 title: Weltraumphänomene
 ---
 
-
 # Weltraumphänomene
-
 
 Weltraumphänomene stören den FTL-Antrieb und können daher nur im Normalraum durchquert werden. Gleichzeitig sind sie eine Gefahr für jedes Schiff – wenn ein Phänomen bzw. sein Einflussbereich durchflogen wird, muss die Besatzung einen Konflikt gegen das Phänomen gewinnen, sonst wird das Schiff beschädigt. Die Anzahl der Würfel für das Phänomen wird mit <span class="dice">1W20</span>bestimmt.
 
@@ -37,7 +35,5 @@ Weltraumphänomene stören den FTL-Antrieb und können daher nur im Normalraum d
 <tr><td>20</td><td>Raumfluktuation</td></tr>
 </tbody>
 </table>
-- Mehr zu den [Weltraumphänomenen]({{ site.baseurl }}/Weltraum/Phaenomene)
 
-
-
+- Mehr zu den [Weltraumphänomenen]({{ site.baseurl }}/Weltraum/Weltraumphänomene)

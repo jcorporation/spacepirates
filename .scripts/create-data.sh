@@ -58,6 +58,8 @@ done < <(find ./ -name \*.md)
 echo ""
 echo "Sorting"
 # sort, convert, cleanup
+echo "//do not modify" > "$TMPDIR/data_names.js"
+echo "const tabellen = {};" >> "$TMPDIR/data_names.js"
 for L in $LISTS
 do
     TMPFILE="$TMPDIR/$L.json.tmp"
@@ -71,6 +73,11 @@ do
         rc=1
     fi
     rm "$YMLTMP"
+    #print all names to javascript arrays for random generators
+    printf "tabellen[\"existing%s\"] = " "$L" >> "$TMPDIR/data_names.js"
+    jq ".[] | .Name" "_data/$L.json" | jq --slurp "." >> "$TMPDIR/data_names.js"
 done
+
+mv "$TMPDIR/data_names.js" "assets/js/data_names.js"
 
 exit $rc

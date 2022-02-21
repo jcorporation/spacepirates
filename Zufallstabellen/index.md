@@ -24,9 +24,9 @@ Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum vo
 
 ## Raumflug
 
-- Auswirkungen von Weltraumphänomenen
-- Ereignisse bei einem Raumflug
-- Sternensysteme
+- [Auswirkungen von Weltraumphänomenen]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen)
+- [Ereignisse bei einem Raumflug]({{ site.baseurl }}/Zufallstabellen/Ereignisse_bei_einem_Raumflug)
+- [Sternensysteme]({{ site.baseurl }}/Zufallstabellen/Sternensysteme)
 
 ## Technik
 

@@ -14,6 +14,13 @@ for (const box of clickBoxes) {
 // horizontal scrollable tables
 const tables = document.getElementsByTagName('table');
 for (const table of tables) {
+    if (table.parentNode.classList.contains('tbl-collapsed')) {
+        table.addEventListener('click', function() {
+            table.parentNode.classList.remove('tbl-collapsed');
+            randomTable(table);
+        }, false);
+        continue;
+    }
     const div = document.createElement('div');
     div.classList.add('table-responsive', 'mb-3');
     table.parentNode.insertBefore(div, table);
@@ -58,8 +65,8 @@ for (const dice of dices) {
 }
 
 function rollDice(el) {
-    const tmp = el.textContent.match(/(\d+)W(\d+)(\+(\d+))?/);
-    const a = Number(tmp[1]);
+    const tmp = el.textContent.match(/(\d+)?W(\d+)(\+(\d+))?/);
+    const a = tmp[1] === undefined ? 1: Number(tmp[1]);
     const w = Number(tmp[2]);
     const p = tmp[4] ? Number(tmp[4]) : 0;
     let result = 0;

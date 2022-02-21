@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallstabellen/Ki-Eigenschaften
+permalink: /Zufallstabellen/KI-Eigenschaften
 title: KI-Eigenschaften
 ---
 

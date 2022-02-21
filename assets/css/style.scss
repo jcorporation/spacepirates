@@ -192,3 +192,11 @@ a#totop:hover {
 #searchResult > a {
   background-color: #fc0;
 }
+
+.tbl-collapsed {
+  display: inline-block;
+}
+
+.tbl-collapsed tbody {
+  display: none;
+}
