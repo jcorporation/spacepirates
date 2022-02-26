@@ -15,10 +15,7 @@ for (const box of clickBoxes) {
 const tables = document.getElementsByTagName('table');
 for (const table of tables) {
     if (table.parentNode.classList.contains('tbl-collapsed')) {
-        table.addEventListener('click', function() {
-            table.parentNode.classList.remove('tbl-collapsed');
-            randomTable(table);
-        }, false);
+        randomTable(table);
         continue;
     }
     const div = document.createElement('div');

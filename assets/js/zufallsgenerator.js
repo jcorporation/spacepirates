@@ -26,6 +26,13 @@ randgen.array2html = function(table, dst) {
 				const div = document.createElement('div');
 				div.classList.add('tbl-collapsed', 'clickable');
 				div.title = 'Klicken um die Tabelle auszuklappen';
+				const span = document.createElement('span');
+				span.classList.add('btn', 'btn-yellow', 'btn-sm', 'mi');
+				span.innerText = 'shuffle_on';
+				span.addEventListener('click', function(event) {
+					event.target.parentNode.classList.toggle('tbl-collapsed');
+				}, false);
+				div.appendChild(span);
 				randgen.array2html(tabellen[z[k]], div);
 				td.appendChild(div);
 			}
