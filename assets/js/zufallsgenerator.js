@@ -36,6 +36,11 @@ randgen.array2html = function(table, dst) {
 				randgen.array2html(tabellen[z[k]], div);
 				td.appendChild(div);
 			}
+			else if (z[k].charAt(0) === '?') {
+				if (randgen.randNr(2) === 0) {
+					td.appendChild(document.createTextNode(z[k].substring(1)));
+				}
+			}
 			else {
 				td.appendChild(document.createTextNode(z[k]));
 			}
@@ -82,9 +87,9 @@ randgen.parser = function(x) {
 		else if (tabellen[z[i]]) {
 			u += randgen.parser(randgen.randTable(tabellen[z[i]]));
 		}
-		else if (z[i].indexOf("?") === "0") {
+		else if (z[i].charAt(0) === '?') {
 			if (randgen.randNr(2) === 0) {
-				u += (z[i].split("?"))[1];
+				u += z[i].substring(1);
 			}
 		}
 		else {

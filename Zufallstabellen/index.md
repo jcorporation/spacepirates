@@ -6,15 +6,16 @@ title: Zufallstabellen
 
 # Zufallstabellen
 
-Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum von SpacePirates mit Leben zu füllen.
+Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum von SpacePirates spontan mit Leben zu füllen.
 
 ## Abenteuer
 
-- Abenteuergenerator
-- Beutegenerator
-- Piratenklatsch
-- Raumschiffe
-- Spielleiter-Charaktere
+- [1-Klick-Abenteuer]({{ site.baseurl }}/Zufallstabellen/Abenteuer/1-Klick-Abenteuer)
+  - [Abenteuertabellen]({{ site.baseurl }}/Zufallstabellen/Abenteuer/)
+- [Beutegenerator]({{ site.baseurl }}/Zufallstabellen/Beute)
+- [Piratenklatsch]({{ site.baseurl }}/Zufallstabellen/Piratenklatsch)
+- [Raumschiffe]({{ site.baseurl }}/Zufallstabellen/Raumschiffe)
+- [Spielleiter-Charaktere]({{ site.baseurl }}/Zufallstabellen/SLC-Generator)
 
 ## Namen
 
@@ -32,7 +33,7 @@ Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum vo
 
 ## Technik
 
-- [Fehlfunktionen]({{ site.baseurl }}/Zufallstabellen/Fehlfunktionen_von_Geräten)
+- [Fehlfunktionen von Geräten]({{ site.baseurl }}/Zufallstabellen/Fehlfunktionen_von_Geräten)
 - [Folgen von Neutritium-, Negatritium-Strahlung]({{ site.baseurl }}/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung)
 - [KI-Eigenschaften]({{ site.baseurl }}/Zufallstabellen/KI-Eigenschaften)
 - [Techsprech]({{ site.baseurl }}/Zufallstabellen/Techsprech)

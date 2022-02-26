@@ -8,7 +8,6 @@ title: Sternensysteme
 
 Dieser Zufallsgenerator generiert komplette Sternensysteme, entweder total zufällig oder auch mit ein paar Rahmenparameter.
 
-<form>
 <table>
 <tr><th>Bewohnbar</th><td>
 <select name="optbewohnt" id="optbewohnt" class="form-select">
@@ -28,7 +27,7 @@ Dieser Zufallsgenerator generiert komplette Sternensysteme, entweder total zufä
 <button type="button" class="btn btn-yellow" name="generate">Generieren</button>
 </td></tr>
 </table>
-</form>
+
 <h2>Sternensystem</h2>
 <table>
 <tr><th>Name</th><td id="galaxyname">n/a</td></tr>
