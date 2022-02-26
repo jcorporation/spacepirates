@@ -724,6 +724,14 @@
     "Wohnort": "BigBong",
     "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten"
   },
+  "Ocean_Sunflower": {
+    "Name": "Ocean Sunflower",
+    "Rasse": "Doradianer",
+    "Kategorie": "Hippie",
+    "Wohnort": "Woodstock",
+    "Position": "",
+    "Link": "/Abenteuer/Blumenkind/Woodstock"
+  },
   "Old_Williams": {
     "Name": "Old Williams",
     "Rasse": "Mensch",
@@ -976,6 +984,14 @@
     "Position": "Ein korrupter Hauptmann der Flotte des Galaktischen Handelsrats.",
     "Wohnort": "Neusirius",
     "Link": "/Weltraum/Militär"
+  },
+  "Wesir_Jaaved": {
+    "Name": "Wesir Jaaved",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Wesir",
+    "Wohnort": "BigBong",
+    "Position": "Wesir",
+    "Link": "/Abenteuer/Blumenkind/SWIP"
   },
   "Wicker": {
     "Name": "Wicker",
