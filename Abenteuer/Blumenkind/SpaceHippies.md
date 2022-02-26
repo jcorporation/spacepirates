@@ -4,9 +4,7 @@ permalink: /Abenteuer/Blumenkind/Spacehippies
 title: SpaceHippies
 ---
 
-
 # SpaceHippies
-
 
 Die SpaceHippies sind schon länger an der Blumenkind interessiert, konnten sie aber bisher noch nicht finden. Sie haben auch keine Ahnung, das Sunflower von Doradus kommt und den Schlüssel zur Blumenkind hat. Die Karte der Piraten ist ihre heißeste Spur.
 
@@ -26,6 +24,7 @@ Jeder SpaceHippie ist mit einer Flower-Power-Pistole ausgestattet, eine normale 
 <tr><td>Oliver</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td><td>Hippie</td><td>VW-Bus</td></tr>
 </tbody>
 </table>
+
 <table>
 <caption>SpaceHippies</caption>
 <thead>
@@ -40,6 +39,7 @@ Jeder SpaceHippie ist mit einer Flower-Power-Pistole ausgestattet, eine normale 
 <tr><th>Bewaffnung</th><td colspan="4" rowspan="1">Flower-Power-Pistole: P+0</td></tr>
 </tbody>
 </table>
+
 ### Alice
 
 Alice trägt immer eine bunte Latzhose und ein viel zu weites Shirt, das um ihren wohlproportionierten Trullkörper flattert. Sie hat meist irgendwo ein paar Ölflecken, da sie ständig am Space-VW-Bus herumschraubt um ihn in Gang zu halten.
@@ -74,11 +74,7 @@ Der Space-VW-Bus ist ein bunt angemaltes Raumschiff, das an einen VW Bully mit R
 </tbody>
 </table>
 
-
 ***
 
 - **Zurück:** [Konfliktnetz]({{ site.baseurl }}/Abenteuer/Blumenkind/Konfliktnetz)
-- **Weiter:** [SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/Swip)
-
-
-
+- **Weiter:** [SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/SWIP)

@@ -5,7 +5,7 @@
             <div class="card-body">
                 <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images{{ include.image }}" width="100" height="140">
                 <p>{{ include.body | markdownify }}</p>
-                <p>&raquo; <a class="text-light" href="{{ site.baseurl }}{{ include.link }}">Herunterladen</a></p>
+                <p>&raquo; <a class="link-dark" href="{{ site.baseurl }}{{ include.link }}">Herunterladen</a></p>
             </div>
         </div>
     </div>

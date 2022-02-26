@@ -2,15 +2,19 @@
 layout: page
 permalink: /Abenteuer/Blumenkind/Woodstock
 title: Auf Woodstock
+sitedata:
+    Slc:
+        Ocean_Sunflower:
+            Name: "Ocean Sunflower"
+            Rasse: "Doradianer"
+            Kategorie: "Hippie"
+            Wohnort: "Woodstock"
+            Position: ""
 ---
-
 
 # Auf Woodstock
 
-
 - Details zu [Woodstock]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Woodstock)
-
-
 
 ## Ocean Sunflower
 
@@ -20,18 +24,7 @@ Durch seine ständigen Drogenräusche hat er die Blumenkind vergessen, wird sich
 
 Sunflower ist auf Woodstock sehr bekannt, da er auch einer der Gründer dieses Festivals ist.
 
-
-<aside>
-<table data-type="slc">
-<caption>Ocean Sunflower</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Doradianer]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Doradus)</td></tr>
-<tr><th>Kategorie</th><td>Hippie</td></tr>
-<tr><th>Wohnort</th><td>[Woodstock]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Woodstock)</td></tr>
-<tr><th>Erwähnungen</th><td>[Ocean Sunflower]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
+ {% include slc.md data=page.sitedata.Slc.Ocean_Sunflower %}
 
 ### Falls die Charaktere später als die SWIP eintreffen:
 
@@ -62,14 +55,10 @@ Jeder kennt Ocean Sunflower und man kann den Charakteren auch den Weg zu seinem 
 <tr><td>6</td><td>Vor einer Nebenbühne</td></tr>
 </tbody>
 </table>
+
 Die SWIP kommt auf jeden Fall am 2. Tag an und wird versuchen Sunflower zu entführen, auch wenn die Charaktere in der Nähe von Sunflower sind. Haben die Charaktere Sunflower auf ihr Raumschiff mitgenommen, wird die SWIP nach einer kurzen Aufforderung Sunflower zu übergeben das Raumschiff angreifen oder es verfolgen.
-
-
-
 
 ***
 
-- **Zurück: **[SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/Swip)
+- **Zurück:** [SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/Swip)
 - **Weiter:** [Auf Doradus]({{ site.baseurl }}/Abenteuer/Blumenkind/Doradus)
-
-

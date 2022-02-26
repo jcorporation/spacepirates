@@ -15,15 +15,15 @@ Auf dem Planeten Doradus war der Anbau von Hanf verboten. Findige Hippies konstr
 - [Einstieg]({{ site.baseurl }}/Abenteuer/Blumenkind/Einstieg)
 - [Zeitleiste]({{ site.baseurl }}/Abenteuer/Blumenkind/Zeitleiste)
 - [Konfliktnetz]({{ site.baseurl }}/Abenteuer/Blumenkind/Konfliktnetz)
-- [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/Spacehippies)
-- [SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/Swip)
+- [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/SpaceHippies)
+- [SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/SWIP)
 - [Auf Woodstock]({{ site.baseurl }}/Abenteuer/Blumenkind/Woodstock)
 - [Auf Doradus]({{ site.baseurl }}/Abenteuer/Blumenkind/Doradus)
 - [Die Blumenkind]({{ site.baseurl }}/Abenteuer/Blumenkind/Blumenkind)
 
 ## Download
 
-[v5/abenteuer/blumenkind_]({{ site.baseurl }}/Downbox)
+{% include downboxrow.md title="Blumenkind" image="/thumbnails/blumenkind.png" body="PDF A5<br/>Version: 2016.09.20" link="/Publikationen/Abenteuer/Blumenkind_2016-09-20.pdf" %}
 
 ***
 Dieses Abenteuer basiert auf der SpacePirates-Mission für [Battlemap Heroes](http://ludus-leonis.com/battlemap-heroes/).

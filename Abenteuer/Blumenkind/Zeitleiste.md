@@ -4,9 +4,7 @@ permalink: /Abenteuer/Blumenkind/Zeitleiste
 title: Zeitleiste
 ---
 
-
 # Zeitleiste
-
 
 <table>
 <thead>
@@ -19,6 +17,7 @@ title: Zeitleiste
 <tr><td>4</td><td>Die SWIP entert die Blumenkind.</td></tr>
 </tbody>
 </table>
+
 ## Entfernungen
 
 <table>
@@ -33,11 +32,7 @@ title: Zeitleiste
 </thead>
 </table>
 
-
 ***
 
 - **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Blumenkind/Einstieg)
 - **Weiter:** [Konfliktnetz]({{ site.baseurl }}/Abenteuer/Blumenkind/Konfliktnetz)
-
-
-

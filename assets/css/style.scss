@@ -30,6 +30,18 @@ p {
   max-width: 50rem;
 }
 
+.card-svg {
+  max-width: none !important;
+}
+
+.card-svg .card-body {
+  max-height: 75vH;
+}
+
+.card-svg img {
+  width: 100%;
+}
+
 .bg-sterne {
   background-color: black;
   background-image: url("{{ site.baseurl }}/assets/images/sterne.jpg");

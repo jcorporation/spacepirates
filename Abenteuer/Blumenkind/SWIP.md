@@ -1,14 +1,20 @@
 ---
 layout: page
-permalink: /Abenteuer/Blumenkind/Swip
+permalink: /Abenteuer/Blumenkind/SWIP
 title: SWIP
+sitedata:
+    Slc:
+        Wesir_Jaaved:
+            Name: "Wesir Jaaved"
+            Rasse: "SpaceWorm"
+            Kategorie: "Wesir"
+            Wohnort: "BigBong"
+            Position: "Wesir"
 ---
-
 
 # SWIP
 
-
-Die SWIP ([SpaceWorm-Improvement-Project]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Swip)) ist ein extrem geheimes Projekt der SpaceWorms und wird von Kalif Kulwa von BigBong geleitet. Ziel des Projekts ist es, durch den Einsatz von bewusstseinserweiternden Drogen die nächste Existenzstufe zu erreichen.
+Die SWIP ([SpaceWorm-Improvement-Project]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/SWIP)) ist ein extrem geheimes Projekt der SpaceWorms und wird von Kalif Kulwa von BigBong geleitet. Ziel des Projekts ist es, durch den Einsatz von bewusstseinserweiternden Drogen die nächste Existenzstufe zu erreichen.
 
 Daher ist die SWIP natürlich auch an der Blumenkind interessiert. Sie hat Wesir Jaaved mit einem Schiff losgeschickt, um Ocean Sunflower zu entführen, da die SWIP mitbekommen hat, dass er den Schlüssel zur Blumenkind besitzt. Mit jemand gemeinsame Sache zu machen kommt für die SWIP nicht in Frage.
 
@@ -29,6 +35,7 @@ Wenn die Entführung nicht gelingt, wird die SWIP entweder die Charaktere angrei
 <tr><th>Bewaffnung</th><td colspan="4" rowspan="1">Laserpistole: P+0</td></tr>
 </tbody>
 </table>
+
 <table>
 <caption>Zigarrenförmiges Schiff</caption>
 <tbody>
@@ -43,11 +50,7 @@ Wenn die Entführung nicht gelingt, wird die SWIP entweder die Charaktere angrei
 </tbody>
 </table>
 
-
 ***
 
-- **Zurück:** [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/Spacehippies)
+- **Zurück:** [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/SpaceHippies)
 - **Weiter:** [Auf Woodstock]({{ site.baseurl }}/Abenteuer/Blumenkind/Woodstock)
-
-
-
