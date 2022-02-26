@@ -18,9 +18,11 @@ Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum vo
 
 ## Namen
 
-- [Charaktere]({{ site.baseurl }}/Zufallstabellen/Charakternamen)
-- [Konzerne]({{ site.baseurl }}/Zufallstabellen/Konzernnamen)
-- [Städte]({{ site.baseurl }}/Zufallstabellen/Städtenamen)
+- [Namensgenerator]({{ site.baseurl }}/Zufallstabellen/Namensgenerator)
+- Zum händisch Auswürfeln
+  - [Charaktere]({{ site.baseurl }}/Zufallstabellen/Charakternamen)
+  - [Konzerne]({{ site.baseurl }}/Zufallstabellen/Konzernnamen)
+  - [Städte]({{ site.baseurl }}/Zufallstabellen/Städtenamen)
 
 ## Raumflug
 
