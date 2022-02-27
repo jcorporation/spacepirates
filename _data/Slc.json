@@ -79,6 +79,20 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Bahir": {
+    "Name": "Bahir",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Forscher",
+    "Wohnort": "Epsilon Canabis",
+    "SOELDNER": "2",
+    "TECH": "5",
+    "PILOT": "3",
+    "HAENDLER": "7",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "Laserpistole",
+    "Position": "",
+    "Link": "/Abenteuer/Buschraub/Bahir"
+  },
   "Barbara_Streifsand": {
     "Name": "Barbara Streifsand",
     "Rasse": "Streifanierin",
@@ -268,6 +282,14 @@
     "Position": "Leiter eines Forschungsteams des galaktischen Handelsrats.",
     "Wohnort": "Javar 3",
     "Link": "/Weltraum/Verrückte_Wissenschaftler"
+  },
+  "Eris": {
+    "Name": "Eris",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Forscher",
+    "Wohnort": "BigBong",
+    "Position": "",
+    "Link": "/Abenteuer/Buschraub/Eris"
   },
   "Eunuchen": {
     "Name": "Eunuchen",
@@ -867,6 +889,17 @@
     "Wohnort": "Freihandelszone",
     "Position": "",
     "Link": "/Weltraum/Händler_und_Halunken"
+  },
+  "Schmidtz": {
+    "Name": "Schmidtz",
+    "Rasse": "Mensch",
+    "Kategorie": "Manager",
+    "Wohnort": "unbekannt",
+    "HAENDLER": "7",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "Laserpistole: P+0",
+    "Position": "",
+    "Link": "/Abenteuer/Buschraub/Einstieg"
   },
   "Schroeder": {
     "Name": "Schröder",
