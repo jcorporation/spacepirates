@@ -38,7 +38,7 @@ Eine geheimnisvolle Schatzkarte zeigt einen unbekannten Bereich der Galaxis. Die
 
 Ein Abenteuer von Moritz Mehlem entstanden für den Greifenklaue-Würfelheld-Winter-Wettbewerb 2013/2014.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Eisgalaxis/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Die_Eisgalaxis/)
 
 ## Die Karte nach Atlantis
 
@@ -56,7 +56,7 @@ Vor kurzem wurde ein neuer Planet gefunden, im Volksmund ist er nur als der Dung
 
 Der Beitrag von Belchion zum Winter-OPC 2012 von Greifenklaue.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Gefangenimspaceschnee//)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Gefangen_im_SpaceSchnee/)
 
 ## Halloween
 
