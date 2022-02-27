@@ -16,7 +16,7 @@ Das SWIP wird auch die Agenten der JCTech IAG angehen, falls diese den Piraten z
 
 <table>
 <thead>
-<tr><th> </th><th>Kapitän</th><th>Pilot</th><th>Tech</th><th>2 Söldner</th></tr>
+<tr><th></th><th>Kapitän</th><th>Pilot</th><th>Tech</th><th>2 Söldner</th></tr>
 </thead>
 <tbody>
 <tr><th>SÖLDNER</th><td>3</td><td>2</td><td>3</td><td>6</td></tr>
@@ -26,6 +26,7 @@ Das SWIP wird auch die Agenten der JCTech IAG angehen, falls diese den Piraten z
 <tr><th>Zähigkeit</th><td>4</td><td>2</td><td>2</td><td>2</td></tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
 <tr><td colspan="2">**Zigarrenförmiges Schiff**</td></tr>
@@ -42,7 +43,7 @@ Das SWIP wird auch die Agenten der JCTech IAG angehen, falls diese den Piraten z
 </table>
 
 ***
+
 - **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
 - **Weiter:** [Eris]({{ site.baseurl }}/Abenteuer/Buschraub/Eris)
 - **Weiter:** [Bahir]({{ site.baseurl }}/Abenteuer/Buschraub/Bahir)
-

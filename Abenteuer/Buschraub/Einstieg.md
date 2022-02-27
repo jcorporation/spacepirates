@@ -2,11 +2,21 @@
 layout: page
 permalink: /Abenteuer/Buschraub/Einstieg
 title: Einstieg
+sitedata:
+    Slc:
+        Schmidtz:
+            Name: "Schmidtz"
+            Rasse: "Mensch"
+            Kategorie: "Manager"
+            Wohnort: "unbekannt"
+            HAENDLER: "7"
+            Zaehigkeit: "4"
+            Bewaffnung: "Laserpistole: P+0"
+            Position: ""
+
 ---
 
-
 # Einstieg
-
 
 Die Charaktere wachen nach einer durchzechten Nacht, die in Gimis Bar begonnen hat, mit einem höllischen Kater auf. Niemand von ihnen weiß, wo sie gerade sind und wie zur Hölle sie überhaupt hierher gekommen sind. Sie liegen in einem orientalisch angehauchten Zimmer. Überall um sie herum liegen leere Rumflaschen und auf dem niedrigen Tisch in der Raummitte steht eine Bong. Sie müssen wohl eine höllische Party gefeiert und die Bong nicht ganz so gut vertragen haben.
 
@@ -24,6 +34,7 @@ Durch eine Söldner-Probe können die Piraten folgende Erinnerungsfetzen ausgrab
 <tr><td>4</td><td>Als Gegenleistung für die Bong sollten die Piraten morgen zum vereinbarten Treffpunkt kommen (die Koordinaten)</td></tr>
 </tbody>
 </table>
+
 Wenn die Piraten das Zimmer des Hotels verlassen, wird ihnen relativ schnell klar, dass sie sich auf BigBong befinden müssen. Nirgends sonst im Weltraum gibt es eine so orientalisch anmutende Raumstation.
 
 ## Bei den Koordinaten
@@ -34,28 +45,16 @@ Punkt 14 Uhr erreicht ein kleiner Spaceflitzer die Koordinaten und funkt die Pir
 
 Herr Schmidtz ist ein gut gekleideter Mensch mit schwarzem Haar und schwarzem Anzug. An seiner Seite trägt er eine Laserpistole, wirkt aber auf die Piraten freundlich und korrekt. Er erkundigt sich, ob die Bong gestern Nacht gut war, weiß aber auch nicht, was die Piraten letzte Nacht sonst noch so getrieben haben. Er kommt dann ohne größere Umschweife auf den Auftrag zu sprechen (HÄNDLER: 7).
 
-<table data-type="slc">
-<caption>Schmidtz</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td></tr>
-<tr><th>Kategorie</th><td>Manager</td></tr>
-<tr><th>Wohnort</th><td>unbekannt</td></tr>
-<tr><th>HÄNDLER</th><td>7</td></tr>
-<tr><th>Zähigkeit</th><td>4</td></tr>
-<tr><th>Bewaffnung</th><td>Laserpistole: P+0</td></tr>
-</tbody>
-</table>
+{% include slc.md data=page.sitedata.Slc.Schmidtz %}
+
 ### Der Auftrag
 
 Herr Schmidtz würde den Piraten bis zu 15.000 UC bezahlen, wenn sie einen Busch der Pflanzengattung *Vox Rubusch* besorgen. Allerdings sei der Busch extrem selten und stehe unter Naturschutz. Wo der Busch genau wächst, weiß auch er nicht. Was er genau mit dem Busch vorhat, wird er den Piraten nicht auf die Nase binden. Falls die Charaktere weiter nachbohren, wird er zugeben, dass er auch nur im Auftrag handelt und sein Auftraggeber anonym bleiben will. Er will sich in 10 Tagen mit den Piraten wieder am gleichen Ort treffen, um den Busch in Empfang zu nehmen.
 
-<p>**Vox Rubusch**<br/>
-Vox Rubusch sieht einem Kastanienbaum ähnlicher als einem Busch, er besitzt die gleiche Blätterform und an ihm wachsen kastanienähnliche Früchte, die eine extrem starke berauschende Wirkung haben, gegen die LSD harmlos wirkt.</p>
+#### Vox Rubusch
 
+Vox Rubusch sieht einem Kastanienbaum ähnlicher als einem Busch, er besitzt die gleiche Blätterform und an ihm wachsen kastanienähnliche Früchte, die eine extrem starke berauschende Wirkung haben, gegen die LSD harmlos wirkt.
 
 ***
 
 - **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
-
-
-

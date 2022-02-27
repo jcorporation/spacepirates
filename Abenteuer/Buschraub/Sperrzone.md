@@ -25,6 +25,7 @@ Die Raumbojen sind miteinander verbunden und bilden zusammen eine Schwarmintelli
 <tr><th>Schadenspunkte</th><td>6</td></tr>
 </tbody>
 </table>
+
 ## In der Sperrzone
 
 Die Sperrzone wird von einem gewaltigen Dimensionsriss dominiert, der wie ein eingefrorener Blitz aussieht und leicht in grellem Weiß pulsiert. In der Nähe des Dimensionsrisses versagen alle Sensoren, so dass das Schiff blind ist.
@@ -43,10 +44,10 @@ Wenn die Piraten den Peilsender der JCTech IAG nicht entdeckt haben, werden die 
 <tr><th>Raumhäfen</th><td>keine</td></tr>
 </tbody>
 </table>
+
 Nova Ceti befindet sich dicht am Dimensionsriss, weshalb eine ordentliche Landung eine PILOTEN-Probe mit 5 Erfolgen erfordert.
 
-
 ***
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
-- **Weiter:** [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Novaceti)
 
+- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
+- **Weiter:** [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Nova_Ceti)

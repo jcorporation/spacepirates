@@ -19,6 +19,7 @@ Der Busch scheint wirklich selten zu sein, jedenfalls gibt es sogar im Starnet k
 <tr><td>4</td><td>Einmal soll jemand so einen Busch neben einem kleinen Dimensionsriss gefunden haben.</td></tr>
 </tbody>
 </table>
+
 Aber natürlich können die Piraten mehrere botanische Experten finden, die vielleicht etwas über Vox Rubusch wissen. Die meisten sogenannten Experten kennen Vox Rubusch aber nicht einmal und halten die Charaktere für Spinner. Ein ausgewiesener Experte für extrem seltene Pflanzen ist Eris, der auf BigBong für Kifslan arbeitet, aber auch Bahir soll sich extrem gut in diesem Gebiet auskennen.
 
 ## Eris
@@ -33,9 +34,8 @@ Der SpaceWorm Bahir ist leider nicht nur ein Pflanzenexperte, sondern auch ein p
 
 - **Weiter:** [Bahir]({{ site.baseurl }}/Abenteuer/Buschraub/Bahir)
 
-
 ***
+
 - **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Buschraub/Einstieg)
 - **Weiter:** [JCTech IAG]({{ site.baseurl }}/Abenteuer/Buschraub/Jctechiag)
 - **Weiter:** [SWIP]({{ site.baseurl }}/Abenteuer/Buschraub/Swip)
-

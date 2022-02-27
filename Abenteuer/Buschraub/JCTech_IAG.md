@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Buschraub/Jctechiag
+permalink: /Abenteuer/Buschraub/JCTech_IAG
 title: JCTech IAG
 ---
 
@@ -34,6 +34,7 @@ Wenn die Piraten aufmerksam sind und aus irgendeinem Grund Verfolger oder Bescha
 <tr><th>Zähigkeit</th><td>4</td><td>2</td><td>2</td><td>2</td></tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
 <tr><th colspan="2">Spaceflitzer</th></tr>
@@ -50,7 +51,7 @@ Wenn die Piraten aufmerksam sind und aus irgendeinem Grund Verfolger oder Bescha
 </table>
 
 ***
+
 - **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
 - **Weiter:** [Eris]({{ site.baseurl }}/Abenteuer/Buschraub/Eris)
 - **Weiter:** [Bahir]({{ site.baseurl }}/Abenteuer/Buschraub/Bahir)
-

@@ -20,7 +20,6 @@ Natürlich können die Piraten Herr Schmidtz auch Herr Schmidtz sein lassen und 
 
 Das SWIP bietet den Piraten auf Nachfrage ebenfalls 20.000 UC für den Busch und Informationen zu seinem Wachstumsort. Falls die Piraten Eris befreit haben, winkt dafür noch eine zusätzliche Belohnung (bis zu 10.000 UC), wenn sich die Piraten intelligent anstellen.
 
-
 ***
-- **Zurück:** [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Novaceti)
 
+- **Zurück:** [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Novaceti)

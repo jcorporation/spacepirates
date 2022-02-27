@@ -11,19 +11,17 @@ Die Piraten bekommen von einem Strohmann des SWIP den Auftrag, einen extrem selt
 ## Inhalt
 
 - [Einstieg]({{ site.baseurl }}/Abenteuer/Buschraub/Einstieg)
-<li>[Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
-- [JCTech IAG]({{ site.baseurl }}/Abenteuer/Buschraub/Jctechiag)
-- [SWIP]({{ site.baseurl }}/Abenteuer/Buschraub/Swip)
-- [Syoner]({{ site.baseurl }}/Abenteuer/Buschraub/Syoner)
-- [Eris]({{ site.baseurl }}/Abenteuer/Buschraub/Eris)
-- [Bahir]({{ site.baseurl }}/Abenteuer/Buschraub/Bahir)
-- [Dimensionsriss]({{ site.baseurl }}/Abenteuer/Buschraub/Dimensionsriss)
-
-</li>
+  - [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
+  - [JCTech IAG]({{ site.baseurl }}/Abenteuer/Buschraub/JCTech_IAG)
+  - [SWIP]({{ site.baseurl }}/Abenteuer/Buschraub/SWIP)
+  - [Syoner]({{ site.baseurl }}/Abenteuer/Buschraub/Syoner)
+  - [Eris]({{ site.baseurl }}/Abenteuer/Buschraub/Eris)
+  - [Bahir]({{ site.baseurl }}/Abenteuer/Buschraub/Bahir)
+  - [Dimensionsriss]({{ site.baseurl }}/Abenteuer/Buschraub/Dimensionsriss)
 - [Sperrzone]({{ site.baseurl }}/Abenteuer/Buschraub/Sperrzone)
-- [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Novaceti)
+- [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Nova_Ceti)
 - [Ende]({{ site.baseurl }}/Abenteuer/Buschraub/Ende)
 
 ## Download
 
-[v2/abenteuer/Buschraub_]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer war Teil des BigBong-Theorie Themenhefts und ist im [Themenhefte Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.

@@ -2,13 +2,21 @@
 layout: page
 permalink: /Abenteuer/Buschraub/Eris
 title: Eris
+sitedata:
+    Slc:
+        Eris:
+            Name: "Eris"
+            Rasse: "SpaceWorm"
+            Kategorie: "Forscher"
+            Wohnort: "BigBong"
+            Position: ""
 ---
-
 
 # Eris
 
-
 Eris wurde schon seit zwei Tagen nicht mehr gesehen. Er erschien weder auf der Arbeit noch in seinem Stammlokal Abodabi, das können die Charaktere durch etwas Herumfragen herausfinden. In der Tat wurde Eris vor zwei Tagen von Agenten der JCtech IAG aus seinem privaten Labor entführt.
+
+{% include slc.md data=page.sitedata.Slc.Eris %}
 
 ## Hinweise
 
@@ -46,6 +54,7 @@ Die JCTech IAG hat ihre interne Sicherheitsabteilung losgeschickt, um Eris zu en
 <tr><th>Zähigkeit</th><td>4</td><td>2</td><td>2</td><td>2</td></tr>
 </tbody>
 </table>
+
 <table>
 <caption>Spaceflitzer</caption>
 <tbody>
@@ -60,30 +69,14 @@ Die JCTech IAG hat ihre interne Sicherheitsabteilung losgeschickt, um Eris zu en
 <tr><th>Bewaffnung</th><td>Duallaserkanone: WB 2, SM 2</td></tr>
 </tbody>
 </table>
+
 Die Entführer haben den Lagerraum natürlich unter einem Pseudonym angemietet und alles dafür getan, um ihren Arbeitgeber zu verschleiern. Sie werden den Lagerraum eisern verteidigen und zur Not auch mit Eris im Gepäck fliehen. Sie sind mit einem kleinen, unauffälligen Spaceflitzer an BigBong angedockt, auf dem Schiff befinden sich der Pilot und der Bordtechniker.
 
 ## Eris&#39; Informationen
 
 Eris ist schon seit langer Zeit auf der Suche nach Vox Rubusch und glaubt, einen Durchbruch gelandet zu haben. Er ist sich sehr sicher, dass Vox Rubusch nur in der Nähe eines Dimensionsrisses wachsen kann. Er glaubt auch, so einen Dimensionsriss gefunden zu haben, der sich aber in einer Sperrzone befindet. Er würde die Piraten gerne begleiten.
 
-
-<aside>
-<table data-type="slc">
-<caption>Eris</caption>
-<tbody>
-<tr><th>Rasse</th><td>[SpaceWorm]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms)</td></tr>
-<tr><th>Kategorie</th><td>Forscher</td></tr>
-<tr><th>Wohnort</th><td>[BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Bigbong)</td></tr>
-<tr><th>Erwähnungen</th><td>[Eris]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
-
 ***
 
 - **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
 - **Weiter:** [Dimensionsriss]({{ site.baseurl }}/Abenteuer/Buschraub/Dimensionsriss)
-
-
-<aside> </aside>
-

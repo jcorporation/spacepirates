@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Buschraub/Novaceti
+permalink: /Abenteuer/Buschraub/Nova_Ceti
 title: Auf Nova Ceti
 ---
 
@@ -27,6 +27,7 @@ Die Bäume und Pflanzen sind nicht so gewöhnlich, wie sie aussehen. Auf Nova Ce
 <tr><td>Treibmoos</td><td>3</td><td>1</td></tr>
 </tbody>
 </table>
+
 ### Killerweiden
 
 Killerweiden sind nicht von Hängeweiden zu unterscheiden, aber wesentlich gefährlicher. Sie sind die gefährlichsten Bäume auf Nova Ceti, denn sie sind auf ihren Wurzeln flott unterwegs und gehen meist in kleinen Gruppen auf die Jagd nach Frischfleisch.
@@ -62,6 +63,7 @@ Die Piraten besitzen nur eine Beschreibung und eine grobe Skizze von Vox Rubusch
 <tr><td>0</td><td>1W4 Killerweiden</td></tr>
 </tbody>
 </table>
+
 Dort wächst natürlich nicht nur ein Busch, sondern eine ganze Gruppe von ihnen. Rund um die Buschgruppe wächst nur Gras, das wiederum von Trauerweiden flankiert ist. Jede zweite Trauerweide ist eine Killerweide und wird die Piraten angreifen.
 
 ## Rückweg
@@ -70,8 +72,7 @@ Der Rückweg ist genauso gefährlich wie der Hinweg. Haben die Piraten ihr Raums
 
 Wenn die Piraten zurückkommen, werden sich die Killerweiden aber auf die Piraten fokussieren und das Raumschiff in Ruhe lassen.
 
-
 ***
+
 - **Zurück:** [Sperrzone]({{ site.baseurl }}/Abenteuer/Buschraub/Sperrzone)
 - **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Buschraub/Ende)
-
