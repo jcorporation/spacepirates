@@ -1,8 +1,7 @@
 ---
-layout: aside
-permalink: /Weltraum/Piraten/Kapitäne
-title: Berühmte Piratenkapitäne
-aside: Kapitaene_aside.md
+layout: page
+permalink: /Weltraum/Piraten/Piratencrews/Tatjana_Molotowa
+title: Tatjana Molotowa
 sitedata:
     Slc:
         Tatjana_Molotowa:
@@ -23,17 +22,9 @@ sitedata:
             Kategorie: "Pirat"
             Wohnort: "Raumschiff Sternenwolf"
             Position: ""
-        Faruk_der_Sternenfahrer:
-            Name: "Faruk der Sternenfahrer"
-            Rasse: "Mensch"
-            Kategorie: "Pirat"
-            Wohnort: "Raumschiff Goldene Rukh"
-            Position: "Piratenkapitän"
 ---
 
-# Berühmte Piratenkapitäne
-
-## Tatjana Molotowa – Die Gräfin
+# Tatjana Molotowa – Die Gräfin
 
 Schon mancher hat sich über den hochmütigen Gesichtsausdruck und die gewählte Sprache der „Gräfin“ lustig gemacht, allerdings hat sie die meisten dieser Lästermäuler überlebt (die ersten grauen Strähnen in ihren dunklen Haaren bezeugen dies). Dazu beigetragen haben auch die in ihren teuren, dunklen Gewändern versteckten Laserpistolen. Allerdings folgt sie einem strikten Ehrenkodex (zumindest die meiste Zeit) und bevorzugt den offenen Zweikampf, am liebsten mit altertümlichen Stichwaffen. Wenn sie mit der Mannschaft ihres „Sternenwolfs“ ein anderes Raumschiff kapert, kann die Mannschaft sicher sein, zumindest mit dem Leben davon zu kommen – sofern sie nicht auf die Idee kommt, Hinterhalte zu legen oder ähnliche „unehrenhafte“ Taten zu begehen.
 
@@ -46,10 +37,8 @@ Nur in Stars und Sternchen: Die Wunderdiät der Gräfin Molotowa, mit 10 einfach
 {% endcapture %}
 {% include anmerkung.md title="Die geheime Piraten-Diät: Wie Tatjana „Die Gräfin“ Molotowa ihre Figur pflegt." body=include_body %}
 
-## Faruk der Sternenfahrer
+{% include slc.md data=page.sitedata.Slc.Tatjana_Molotowa %}
 
-Faruk stammt aus einer alten Kaufmannsdynastie. Sein Vater fiel einer Intrige zum Opfer, verlor das gesamte Familienvermögen und wurde unschuldig ins Gefängnis geworfen, wo er starb. Ohne Geld und als Komplize seines Vaters gesucht, tauchte Faruk bei Piraten unter und sucht seitdem seine verschollene Familie.
+{% include slc.md data=page.sitedata.Slc.Simone_de_Montfort %}
 
-Zehn Jahre später kommandierte er sein eigenes Schiff, die „Goldener Rukh“, und ist für seine Raubzüge gegen „Betrüger“ und andere „Schandflecke für den Kaufmannsstand“ berüchtigt. Bei Hehlern und Lieferanten ist er als geschickter Verhandlungspartner und Meister des Feilschens bekannt. Gleichzeitig ist er sehr großzügig gegenüber Hilfsbedürftigen und Freunden. Zu einem einmal geschlossenen Vertrag oder einem Versprechen wird er unverbrüchlich stehen, egal wie hoch das Risiko ist oder wie viele Nachteile er dadurch erleidet.
-
-Entsprechend seinem Namen ist der Goldene Rukh auf beiden Rumpfseiten mit einem großen, mystischen weiß-goldenen Vogel, der gekreuzte Säbel in den Klauen hält, bemalt. Die Mannschaft besteht aus besonders exzentrischen Individuen verschiedener Völker und ist ihrem Kapitän mit unerschütterlicher Loyalität verbunden. Wer Faruk Informationen über seine verschollene Familie bringen kann oder ihm gegen die Feinde seines Vaters beisteht, findet in ihm einen guten Verbündeten. Wer sich seine Feindschaft zuzieht, findet hingegen einen höchst schmerzhaften Tod.
+{% include slc.md data=page.sitedata.Slc.Cyril_Karpow %}

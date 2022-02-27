@@ -12,9 +12,7 @@ sitedata:
             Position: "Piratenkapitän"
 ---
 
-
 # Erste Piratengruppe
-
 
 ## Erster Schlüssel: Alexa Reed
 
@@ -34,6 +32,7 @@ Zamtor ist ein kleiner, stämmiger und immer übel gelaunter Kahadrier, der stä
 <tr><th>Wohnort</th><td> </td></tr>
 </tbody>
 </table>
+
 <table>
 <thead>
 <tr><th> </th><th>Zamtor</th><th>Pilot</th><th>Tech</th><th>4 Söldner</th></tr>
@@ -46,6 +45,7 @@ Zamtor ist ein kleiner, stämmiger und immer übel gelaunter Kahadrier, der stä
 <tr><th>Zähigkeit</th><td>4</td><td>2</td><td>2</td><td>2</td></tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
 <tr><th colspan="2">Alter Frachter</th></tr>
@@ -60,6 +60,7 @@ Zamtor ist ein kleiner, stämmiger und immer übel gelaunter Kahadrier, der stä
 <tr><th>Bewaffnung</th><td>4 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
+
 ## Aktionen der Piratengruppe
 
 <ol>

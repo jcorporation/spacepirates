@@ -4,8 +4,8 @@ permalink: /Weltraum/Aliens/Spacepears/
 title: Spacepears
 sitedata:
     Rassen:
-        SpacePear:
-            Name: SpacePear
+        Spacepear:
+            Name: Spacepear
             Sektor: ""
             Heimatplanet: ""
 ---

@@ -4,8 +4,8 @@ permalink: /Weltraum/Aliens/Spaceamazonen/
 title: Spaceamazonen
 sitedata:
     Rassen:
-        Spaceamazonen:
-            Name: Spaceamazonen
+        Spaceamazone:
+            Name: Spaceamazone
             Sektor: ""
             Heimatplanet: "Amazon"
 ---
