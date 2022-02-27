@@ -34,9 +34,8 @@ do
         echo $F
         exit 1
     fi
-    PERMALINK=${F%.*} # remove extension
-    PERMALINK=${PERMALINK:1} # remove first char
-    PERMALINK=${PERMALINK/%index} # remove index suffix
+
+    PERMALINK=$($YQ --front-matter=extract '.permalink' "$F")
 
     for L in $LISTS
     do

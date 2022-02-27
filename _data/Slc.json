@@ -1096,14 +1096,6 @@
     "Position": "Piratenkapitän",
     "Link": "/Weltraum/Piraten/Piratencrews/Zamtor"
   },
-  "Zamtor": {
-    "Name": "Zamtor",
-    "Rasse": "Kahadrier",
-    "Kategorie": "Pirat",
-    "Wohnort": "",
-    "Position": "Piratenkapitän",
-    "Link": "/Weltraum/Piraten/Piratencrews/Zamtor"
-  },
   "Zhao_Xue": {
     "Name": "Zhao Xue",
     "Rasse": "Neuasiat",

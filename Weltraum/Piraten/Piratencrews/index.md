@@ -6,6 +6,10 @@ title: Bekannte Piratencrews
 
 # Bekannte Piratencrews
 
-- [Faruk der Sternenfahrer]({{ site.baseurl }}/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer)
-- [Tatjana Molotowa]({{ site.baseurl }}/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa)
-- [Zamtor]({{ site.baseurl }}/Weltraum/Piraten/Piratencrews/Zamtor)
+Neben den Spielern gibt es natürlich auch viele andere Piratencrews im Weltraum. Hier eine Liste von mehr oder weniger bekannten Piratencrews.
+
+<ul>
+{% for piratencrew in site.Piratencrews %}
+    <li><a href="{{ site.baseurl }}{{ piratencrew.permalink }}">{{ piratencrew.name }}</a></li>
+{% endfor %}
+</ul>
