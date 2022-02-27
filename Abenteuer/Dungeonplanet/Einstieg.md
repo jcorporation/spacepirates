@@ -8,15 +8,15 @@ title: Einstieg
 
 ## Der Planet
 
-Um den Planeten DU-3864366 patrouillieren in großem Abstand zwei Schiffe des Handelsrates. Sie funken anfliegende Schiffe an, dass der Planet ein Sperrgebiet ist und fordern sie auf, das Gebiet „zu ihrer eigenen Sicherheit“ zu verlassen. Wenn es zu einem Kampf kommt, setzen die Schiffe einen Hilferuf ab und fliehen, sobald sie einen ernsten Treffer einstecken mussten. Es ist aber auch recht einfach möglich, sie zu umfliegen oder davon zu überzeugen, dass man da sein darf.
+Um den Planeten [DU-3864366]({{ site.baseurl }}/Weltraum/DU-3864366) patrouillieren in großem Abstand zwei Schiffe des Handelsrates. Sie funken anfliegende Schiffe an, dass der Planet ein Sperrgebiet ist und fordern sie auf, das Gebiet „zu ihrer eigenen Sicherheit“ zu verlassen. Wenn es zu einem Kampf kommt, setzen die Schiffe einen Hilferuf ab und fliehen, sobald sie einen ernsten Treffer einstecken mussten. Es ist aber auch recht einfach möglich, sie zu umfliegen oder davon zu überzeugen, dass man da sein darf.
 
 ### Patrouillenschiffe
 
 3 Mann Besatzung (1 Pilot, 1 Tech, 1 Schütze)
 
 <table>
+<caption>Patrouillenschiff</caption>
 <tbody>
-<tr><th colspan="2">Patrouillenschiff</th></tr>
 <tr><th>Pilotenwert</th><td>6</td></tr>
 <tr><th>Techwert</th><td>6</td></tr>
 <tr><th>Söldnerwert</th><td>6</td></tr>
@@ -31,6 +31,7 @@ Um den Planeten DU-3864366 patrouillieren in großem Abstand zwei Schiffe des Ha
 <tr><th>Bewaffnung</th><td>Duallaserkanone: WB 2, SM 2</td></tr>
 </tbody>
 </table>
+
 ## Die Landung
 
 Auf dem ganzen Planeten verteilt gibt es Eingänge zum Dungeon, die praktischerweise immer einen Landeplatz in direkter Nähe haben. Der gesamte Planet besteht aus Felsen, mit spitzen Gipfeln und tiefen Tälern.
@@ -56,6 +57,7 @@ Der Eingang liegt offen mit klarer Einsicht zu einem Raumschifflandeplatz. Der �
 <tr><td>0</td><td>keine Macke</td></tr>
 </tbody>
 </table>
+
 Jeder Raum im Dungeon hat einen Scanner eingebaut, der nach Eindringlingen scannt. Sobald die Piraten einen Raum betreten, fährt zunächst ein Sensor aus der Decke, löst eine rotes Lichtgitter aus, das den ganzen Raum durchleuchtet, und dann meldet: „Eindringlinge entdeckt. Gegner senden.“ (gerade Zahlen auf 1W10) oder „Keine Eindringlinge entdeckt“ (ungerade Zahlen auf 1W10). Wenn der Scanner Eindringlinge erkennt, materialisieren kurz darauf so viele Gegner im Raum, wie die Piratengruppe Mitglieder hat.
 
 Es ist nicht nötig, die Gegner zu töten. Man kann sie auch hereinlegen, sie sind allesamt ziemlich leichtgläubig. In vielen Fällen ist es sinnvoll, mit anderen Profilen als SÖLDNER zu kämpfen.
@@ -77,9 +79,9 @@ Es ist nicht nötig, die Gegner zu töten. Man kann sie auch hereinlegen, sie si
 <tr><td>0</td><td>Rattenmenschen (Söldner 2, Händler 1, Tech 3, Pilot 1), jeder hat 20 UC (Silbermünzen)</td></tr>
 </tbody>
 </table>
+
 Es ist möglich, die Scanner zu zerstören. Wenn man 5 Erfolge erreicht, werden sie ausgeschaltet, bevor sie den Alarm auslösen können. Bei 3 Erfolgen werden sie zerstört, lösen aber vorher noch einen Alarm aus. Räume, in denen der Scanner zerstört wurde, können die Piraten problemlos betreten. Scanner werden erst repariert, wenn die Piraten den Planeten verlassen.
 
-
 ***
-- **Weiter:** [Ebene 1]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene1.html)
 
+- **Weiter:** [Ebene 1]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene1)

@@ -20,5 +20,5 @@ Klauen: 3</td></tr>
 </table>
 
 ***
-- **Zurück:** [Ebene 2]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene2)
 
+- **Zurück:** [Ebene 2]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene2)

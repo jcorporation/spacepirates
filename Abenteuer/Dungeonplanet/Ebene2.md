@@ -27,10 +27,10 @@ Was auch immer die Piraten vorhaben, das Allerheiligtum wird auf jeden Fall gena
 bzw. Ninjaschwert (WB 0)</td></tr>
 </tbody>
 </table>
+
 Die Soldaten des Handelsrats kämpfen mit Lasergewehren vom Typ 08/15 und Ionenäxten, die Ninjas sind mit Shurikenwerfern und Katanas bewaffnet.
 
-
 ***
-- **Zurück:** [Ebene 1]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene1.html)
-- **Weiter:** [Endkampf]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Endkampf.html)
 
+- **Zurück:** [Ebene 1]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene1)
+- **Weiter:** [Endkampf]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Endkampf)

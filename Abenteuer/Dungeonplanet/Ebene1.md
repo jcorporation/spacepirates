@@ -6,7 +6,7 @@ title: Ebene 1
 
 # Ebene 1
 
-<img alt="Dugeon Ebene 1" src="{{ site.baseurl }}/assets/pics/spacepirates/abenteuer/dungeonplanet/ebene1-web.png"/>
+<img alt="Dugeon Ebene 1" src="{{ site.baseurl }}/assets/images/abenteuer/dungeonplanet/ebene1-web.png"/>
 
 ## Raum 1: Der Eingang
 
@@ -70,8 +70,7 @@ In diesem Raum steht ein Brunnen. Der Brunnen ist intelligent, gelangweilt und k
 
 Wenn man ihm etwas gegen die Langeweile da lässt (z.B. Hörbücher), kann er mit einer Flasche echtem Selters (für die dekadente Menschen bis zu 1000 UC bieten) bezahlen.
 
-
 ***
+
 - **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Einstieg)
 - **Weiter:** [Ebene 2]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene2)
-
