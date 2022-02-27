@@ -1088,6 +1088,14 @@
     "Position": "",
     "Link": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio"
   },
+  "Zamtor": {
+    "Name": "Zamtor",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Pirat",
+    "Wohnort": "",
+    "Position": "Piratenkapitän",
+    "Link": "/Abenteuer/Schatzjagd/Erstepiratengruppe"
+  },
   "Zhao_Xue": {
     "Name": "Zhao Xue",
     "Rasse": "Neuasiat",
