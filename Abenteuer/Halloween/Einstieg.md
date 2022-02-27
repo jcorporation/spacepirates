@@ -19,8 +19,8 @@ Plötzlich taucht auf der Brücke aus dem Nichts eine durchscheinende Gestalt mi
 Kaum ist das Gespenst verschwunden, wird das Raumschiff von 12 SpaceKürbissen angegriffen. Sie sind etwa so groß wie eine Rettungskapsel und sehen aus wie runde Kürbisse in die ein Gesicht geschnitzt ist, sie leuchten orange aus ihren Augen-, Nasen- und Mundöffnungen und beschießen das Raumschiff mit orangen Laserstrahlen.
 
 <table>
+<caption>12 SpaceKürbisse</caption>
 <tbody>
-<tr><th colspan="2">12 SpaceKürbisse</th></tr>
 <tr><th>Kampfprofil</th><td>7</td></tr>
 <tr><th>Schadensmodifikator</th><td>1</td></tr>
 <tr><th>Wendigkeit</th><td>6</td></tr>
@@ -29,6 +29,7 @@ Kaum ist das Gespenst verschwunden, wird das Raumschiff von 12 SpaceKürbissen a
 </table>
 
 ***
-- **Zurück:** [Hintergrund]({{ site.baseurl }}/Abenteuer/Halloween/Hintergrund.html)
-- **Weiter:** [Nebel erkunden]({{ site.baseurl }}/Abenteuer/Halloween/Nebel.html)
+
+- **Zurück:** [Hintergrund]({{ site.baseurl }}/Abenteuer/Halloween/Hintergrund)
+- **Weiter:** [Nebel erkunden]({{ site.baseurl }}/Abenteuer/Halloween/Nebel)
 

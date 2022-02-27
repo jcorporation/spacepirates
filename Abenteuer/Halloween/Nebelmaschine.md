@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Halloween/Station_nebelmaschine
+permalink: /Abenteuer/Halloween/Nebelmaschine
 title: Nebelmaschine
 ---
 
@@ -14,13 +14,12 @@ Xergul bzw. die Glukorianer-Geister können den Charakteren dabei helfen. Es ist
 
 Die KI wird natürlich alles in ihrer Macht stehende unternehmen um die Charaktere daran zu hindern.
 
-<ol>
-- Sie schickt die restliche CyberKürbisse in die Halle, falls die Piraten nicht alle 40 bei der Erkundung der Raumstation vernichtet haben.
-- Die KI verdichtet den Nebel in der Halle: Die Charaktere müssen eine Mutationsprobe mit 4 Erfolgen schaffen, sonst sinkt die Zähigkeit aller Profile um eins.
-- Sie schaltet alle Computerterminals in der Halle ab.
-</ol>
+1. Sie schickt die restliche CyberKürbisse in die Halle, falls die Piraten nicht alle 40 bei der Erkundung der Raumstation vernichtet haben.
+2. Die KI verdichtet den Nebel in der Halle: Die Charaktere müssen eine Mutationsprobe mit 4 Erfolgen schaffen, sonst sinkt die Zähigkeit aller Profile um eins.
+3. Sie schaltet alle Computerterminals in der Halle ab.
 
 ***
-- **Zurück:** [Auf der Station]({{ site.baseurl }}/Abenteuer/Halloween/Station.html)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Halloween/Ende.html)
+
+- **Zurück:** [Auf der Station]({{ site.baseurl }}/Abenteuer/Halloween/Station)
+- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Halloween/Ende)
 

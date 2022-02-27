@@ -13,12 +13,13 @@ Auch auf der Station spukt es natürlich, die Geister sind aber genauso harmlos 
 In den Gängen der Raumstationen sind CyberKürbisse auf Beinen und überdimensionalen Mäulern unterwegs. Sie greifen alles und jeden an und sind nicht intelligent. Sie sind immer in kleinen Gruppen aus 1W6 Mitgliedern unterwegs. Insgesamt befinden sich 40 solcher Kürbisse auf der Raumstation.
 
 <table>
+<caption>CyberKürbisse</caption>
 <tbody>
-<tr><th colspan="2">CyberKürbisse</th></tr>
 <tr><th>SÖLDNER</th><td>5</td></tr>
 <tr><th>Zähigkeit</th><td>1</td></tr>
 </tbody>
 </table>
+
 ## KI
 
 Die KI empfindet die Charaktere als Eindringlinge und will sie vernichten („Ihr kommt hier nicht mehr lebend heraus“). Sie bedroht die Charaktere mit einem glukorianischen Akzent (HÄNDLER-Probe mit 3 Erfolge um dies festzustellen). Sie kontrolliert die Space- und Cyberkürbisse und hat die Kahadrier getötet. Die KI hat sich in alle Systeme der Station eingenistet und kann nur zerstört werden, wenn die komplette Energiezufuhr abgeschaltet oder alle Computer vernichtet werden.
@@ -32,12 +33,13 @@ Alle Türen der Raumstationen sind geschlossen, können aber ohne große Problem
 Auf der Brücke hat sich eine übergroße Spinne eingenistet. An der Decke hängen neben der Spinne ein paar Kahadrier in Kokons. Die ganze Brücke ist voller Spinnweben. Es werden initial 2 Erfolge auf Söldner benötigt um sich nicht in den Spinnweben zu verfangen.
 
 <table>
+<caption>Große Spinne</caption>
 <tbody>
-<tr><th colspan="2">Große Spinne</th></tr>
 <tr><th>SÖLDNER</th><td>8</td></tr>
 <tr><th>Zähigkeit</th><td>4</td></tr>
 </tbody>
 </table>
+
 ### Quartiere
 
 Die Quartiere sind allesamt verlassen und verstaubt. Es befinden sich ein paar persönliche Gegenstände der Kahadrierbesatzung in den Quartieren, aber nichts wirklich wertvolles oder interessantes.
@@ -50,16 +52,15 @@ Im Lager stehen Kisten mit verdorbenen Lebensmitteln und 20 Fässer mit dem gute
 
 Die Tür zum Labortrakt ist besonders gut gesichert. Hier ist ein Wissenschaftler eingesperrt. Daher sind auch alle Konsolen im Labortrakt nicht in der Lage auf die Systeme der Raumstation zuzugreifen, sondern autark. Es werden 4 Erfolge auf TECH um die Tür zu hacken oder 4 Erfolge auf SÖLDNER um die Tür aufzubrechen benötigt.
 
-- [Xergul]({{ site.baseurl }}/Abenteuer/Halloween/Station_xergul.html)
+- [Xergul]({{ site.baseurl }}/Abenteuer/Halloween/Xergul)
 
 ### Maschinenraum
 
 Der Maschinenraum der Station wird von einem großen Neutritiumreaktor dominiert. Überall sind Konsolen angebracht. Im Maschinenraum gibt es neben den üblichen Wartungsschächten auch einen geheimen Wartungsschacht. Mit einer TECH-Probe mit 3 Erfolgen kann er entdeckt werden. Der geheime Wartungsschacht führt zur Nebelmaschine.
 
-- [Nebelmaschine]({{ site.baseurl }}/Abenteuer/Halloween/Station_nebelmaschine.html)
-
+- [Nebelmaschine]({{ site.baseurl }}/Abenteuer/Halloween/Nebelmaschine)
 
 ***
-- **Zurück:** [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum.html)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Halloween/Ende.html)
 
+- **Zurück:** [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum)
+- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Halloween/Ende)

@@ -203,6 +203,18 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Detlev": {
+    "Name": "Detlev",
+    "Rasse": "Spacepear",
+    "Kategorie": "SpaceTrucker",
+    "Wohnort": "",
+    "SOELDNER": "4",
+    "TECH": "2",
+    "PILOT": "3",
+    "HAENDLER": "2",
+    "Zaehigkeit": "4",
+    "Link": "/Abenteuer/Gefangen_im_SpaceSchnee/"
+  },
   "Dia_Mond": {
     "Name": "Dia Mond",
     "Rasse": "Samnesin",
@@ -308,6 +320,18 @@
     "Zaehigkeit": "2",
     "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten"
   },
+  "Eysgul_Zankat": {
+    "Name": "Eysgul Zankat",
+    "Rasse": "Wagone",
+    "Kategorie": "Promi",
+    "Wohnort": "",
+    "SOELDNER": "1",
+    "TECH": "1",
+    "PILOT": "4",
+    "HAENDLER": "3",
+    "Zaehigkeit": "6",
+    "Link": "/Abenteuer/Gefangen_im_SpaceSchnee/"
+  },
   "Fake_Henry": {
     "Name": "Fake Henry",
     "Rasse": "Mensch",
@@ -363,6 +387,18 @@
     "Wohnort": "",
     "Position": "Modeschöpfer",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+  },
+  "Graf_Dracula": {
+    "Name": "Graf Dracula",
+    "Rasse": "Vampir",
+    "Kategorie": "Vampir",
+    "Wohnort": "Vampir-Planet",
+    "SOELDNER": "8",
+    "TECH": "6",
+    "HAENDLER": "8",
+    "Zaehigkeit": "4 (regeneriert jede Runde um 1 Punkt)",
+    "Position": "",
+    "Link": "/Abenteuer/Halloween/Vampir-Planet"
   },
   "Graf_Frost": {
     "Name": "Graf Frost",
@@ -469,6 +505,18 @@
     "Wohnort": "Scrabnambu",
     "Position": "",
     "Link": "/Weltraum/Händler_und_Halunken"
+  },
+  "James_Moneypenny": {
+    "Name": "James Moneypenny",
+    "Rasse": "SpaceWorm",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "",
+    "SOELDNER": "2",
+    "TECH": "2",
+    "PILOT": "2",
+    "HAENDLER": "4",
+    "Zaehigkeit": "4",
+    "Link": "/Abenteuer/Gefangen_im_SpaceSchnee/"
   },
   "Javier_Moretti": {
     "Name": "Javier Moretti",
@@ -606,6 +654,18 @@
     "Kategorie": "Konzernchef",
     "Wohnort": "Stratum Nova",
     "Link": "/Weltraum/Konzerne/Hired_Guns"
+  },
+  "Leibwaechter": {
+    "Name": "Leibwächter",
+    "Rasse": "Wagone",
+    "Position": "Eysgul Zankats Leibwächter",
+    "SOELDNER": "4",
+    "TECH": "2",
+    "PILOT": "2",
+    "HAENDLER": "2",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "Laserpistole: P+0",
+    "Link": "/Abenteuer/Gefangen_im_SpaceSchnee/"
   },
   "Leila_Scharjar": {
     "Name": "Leila Scharjar",
@@ -1070,6 +1130,11 @@
     ],
     "Position": "",
     "Wohnort": "unbekannt",
+    "SOELDNER": "3",
+    "TECH": "8",
+    "PILOT": "4",
+    "HAENDLER": "6",
+    "Zaehigkeit": "4",
     "Link": "/Weltraum/Verrückte_Wissenschaftler"
   },
   "Yashimoto": {

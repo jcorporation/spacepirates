@@ -21,6 +21,7 @@ Im Zentrum des Nebels befindet sich eine Raumstation die in einen kleinen Planet
 <tr><th>Bewaffnung</th><td>1 Plasmakanone (WB 3, SM 2)</td></tr>
 </tbody>
 </table>
+
 Die Augen des Kürbisses dienten dem Wachpersonal der Station als Kommandozentrale. Die Nase dient als Startrampe für die SpaceKürbisse, die so groß ist, dass dort auch SpaceFlitzer landen können. Aus dem Mund strömt unablässig dichter Nebel, die Öffnung ist so groß, dass sogar ein kleiner Frachter dort landen könnte, wenn es der Pilot schafft durch den Nebel zu navigieren (5 Erfolge werden zum Landen im Mund benötigt).
 
 Wenn die Piraten die Station angreifen oder versuchen auf ihr zu landen starten aus der Nase 10 SpaceKürbisse und greifen das Raumschiff an. Natürlich schießt die KI auch mit ihrer Plasmakanone, die ganz oben auf dem Planeten befestigt ist.
@@ -34,10 +35,10 @@ Wenn die Piraten die Station angreifen oder versuchen auf ihr zu landen starten 
 <tr><th>Schadenspunkte</th><td>3</td></tr>
 </tbody>
 </table>
+
 Wenn die Charaktere die Station etwas genauer untersuchen (TECH-Probe auf Sensoren mit 4 Erfolgen) können sie ein extrem schwaches Notsignal, das von der Station kommt, ausmachen.
 
-
 ***
-- **Zurück:** [Nebel erkunden]({{ site.baseurl }}/Abenteuer/Halloween/Nebel.html)
-- **Weiter:** [Auf der Station]({{ site.baseurl }}/Abenteuer/Halloween/Station.html)
 
+- **Zurück:** [Nebel erkunden]({{ site.baseurl }}/Abenteuer/Halloween/Nebel)
+- **Weiter:** [Auf der Station]({{ site.baseurl }}/Abenteuer/Halloween/Station)

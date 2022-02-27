@@ -8,7 +8,11 @@
 {% assign PILOT = include.data.PILOT %}
 {% assign HAENDLER = include.data.HAENDLER %}
 {% assign Zaehigkeit = include.data.Zaehigkeit %}
-{% assign Bewaffnung = include.data.Bewaffnung %}
+{% if include.bewaffnung %}
+    {% assign Bewaffnung = include.bewaffnung %}
+{% else %}
+    {% assign Bewaffnung = include.data.Bewaffnung %}
+{% endif %}
 
 <table>
     <caption>{% include printtext.md data=Name %}</caption>

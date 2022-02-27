@@ -19,17 +19,16 @@ Ein geschickter Tech kann eine Übersetzungsapparat bauen (TECH-Probe: 4 Erfolge
 ### Informationen der Geister
 
 - Der Nebel verursacht eine Mutation
-- Nebelmaschine steht im [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum.html) im Inneren des kürbisförmigen Planeten
+- Nebelmaschine steht im [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum) im Inneren des kürbisförmigen Planeten
 - Geheimer Wartungsschacht im Maschinenraum der Station
 
 ## Planet im Umkreis
 
 Der Planet besitzen eine atembare Atmosphäre und ist erdähnlich. Auf den Kontinenten gibt es überall kleinere Städte, die sich alle ähneln. Mehr kann mit der Hilfe der Sensoren nicht festgestellt werden.
 
-- [Vampir-Planet]({{ site.baseurl }}/Abenteuer/Halloween/Nebel_vampirplanet.html)
-
+- [Vampir-Planet]({{ site.baseurl }}/Abenteuer/Halloween/Vampir-Planet)
 
 ***
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Halloween/Einstieg.html)
-- **Weiter:** [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum.html)
 
+- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Halloween/Einstieg)
+- **Weiter:** [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum)

@@ -46,6 +46,11 @@ sitedata:
                 - Verrückter Wissenschaftler
             Position: ""
             Wohnort: unbekannt
+            SOELDNER: "3"
+            TECH: "8"
+            PILOT: "4"
+            HAENDLER: "6"
+            Zaehigkeit: "4"
 
 ---
 

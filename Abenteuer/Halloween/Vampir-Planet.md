@@ -1,7 +1,20 @@
 ---
 layout: page
-permalink: /Abenteuer/Halloween/Nebel_vampirplanet
+permalink: /Abenteuer/Halloween/Vampir-Planet
 title: Vampir-Planet
+sitedata:
+    Slc:
+        Graf_Dracula:
+            Name: "Graf Dracula"
+            Rasse: "Vampir"
+            Kategorie: "Vampir"
+            Wohnort: "Vampir-Planet"
+            SOELDNER: "8"
+            TECH: "6"
+            HAENDLER: "8"
+            Zaehigkeit: "4 (regeneriert jede Runde um 1 Punkt)"
+            Position: ""
+
 ---
 
 # Vampir-Planet
@@ -27,6 +40,7 @@ Gerade als die Charaktere das Dorf betreten, erlischt der letzte Sonnenstrahl un
 <tr><th>Bewaffnung</th><td>Vampirzähne: WB 0</td><td>alte Gewehre: WB 0</td></tr>
 </tbody>
 </table>
+
 Wird ein Charakter von einem Vampir verletzt, verwandelt er sich beim nächsten Vollmond (der im Laufe der Nacht aufgeht) unweigerlich auch zu einem Vampir.
 
 Falls die Piraten den Bauern geholfen haben, stellt sich ihnen Anna als Bürgermeisterin des Dorfes vor und erzählt von der Vampirplage, die vom Schloss oben auf dem Berg aus geht. Es sind schon etliche Dorfbewohner von den Vampirinnen verschleppt worden und teilweise auch als Vampire zurückgekehrt.
@@ -44,9 +58,7 @@ Im Innenhof sieht es aus wie in einem gewöhnlichen Schloss. Links und Rechts gi
 In jedem Turm führt eine Treppe nach oben. Im obersten Zimmer wohnen jeweils 1W4 Vampirinnen, die natürlich durstig nach Blut sind. Diese besitzen die gleichen Werte wie die Vampirinnen aus dem Dorf. Sie sind wunderschön und gefährlich zugleich und tragen nur durchsichtige Nachthemden.
 
 <table>
-<thead>
-<tr><th colspan="2">Vampirinnen</th></tr>
-</thead>
+<caption>Vampirinnen</caption>
 <tbody>
 <tr><th>SÖLDNER</th><td>6</td></tr>
 <tr><th>HÄNDLER</th><td>5</td></tr>
@@ -54,6 +66,7 @@ In jedem Turm führt eine Treppe nach oben. Im obersten Zimmer wohnen jeweils 1W
 <tr><th>Bewaffnung</th><td>Vampirzähne: WB 0</td></tr>
 </tbody>
 </table>
+
 ### Haupthaus
 
 Das Haupthaus ist pompös ausgestattet. Durch das große Tor betreten kommt man in einen großen Empfangssaal, von dem viele Türen abgehen. Dominiert wird er aber von zwei großen Treppen, die zu einer Galerie führen. Die linke der beiden Treppen führt auch hinunter in das Kellergewölbe. Oben auf der Galerie gibt es auch viele Türen und eine weitere Treppe führt hoch zum Hauptturm. Die ganzen Zimmer sind alle relativ uninteressant, mehr als alte Gemälde und Staub sind dort nicht zu finden.
@@ -68,26 +81,13 @@ Im obersten Stockwerk befindet sich Graf Dracula. Draußen bahnt sich gerade ein
 
 Graf Dracula scheint aus einem alten Horrorfilm zu stammen. Er sieht uralt aus, besitzt eine bleiche Haut und er trägt ein schwarz-rotes Cape zu seinem Frack. Er ist überheblich und nimmt die Charaktere zuerst nicht ernst.
 
-<table data-type="slc">
-<caption>Graf Dracula</caption>
-<tbody>
-<tr><th>Rasse</th><td>Vampir</td></tr>
-<tr><th>Kategorie</th><td>Vampir</td></tr>
-<tr><th>Wohnort</th><td>[Vampir-Planet]({{ site.baseurl }}/Abenteuer/Halloween/Nebel_vampirplanet)</td></tr>
-<tr><th>SÖLDNER</th><td>8</td></tr>
-<tr><th>TECH</th><td>6</td></tr>
-<tr><th>HÄNDLER</th><td>8</td></tr>
-<tr><th>Zähigkeit</th><td>4 (regeneriert jede Runde um 1 Punkt)</td></tr>
-<tr><th>Bewaffnung</th><td>Vampirzähne: P+0<br/>
-Telekinese: P+0</td></tr>
-</tbody>
-</table>
+{% include slc.md data=page.sitedata.Slc.Graf_Dracula %}
+
 #### Keller
 
 Der Keller ist mehr eine Gruft als ein Keller. Die Decken sind hoch und an ihnen hängen Kokons, in denen Vampire schlummern, die durch einen Blitz zum Leben erweckt werden sollen. Der Keller besitzt einen offenen Ausgang aus dem die geschlüpften Vampire ins Freie fliegen können.
 
-
 ***
+
 - **Zurück:** [Nebel erkunden]({{ site.baseurl }}/Abenteuer/Halloween/Nebel)
 - **Weiter:** [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum)
-

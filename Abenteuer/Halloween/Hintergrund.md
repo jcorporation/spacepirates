@@ -14,7 +14,6 @@ Der Halloween-Planet waren früher von ganz normalen Menschen niedrigeren Techno
 
 Durch den Nebel sind die Bewohner des Planeten zu dem mutiert was sie jetzt sind: Geister, Zombies und Vampire. Aber auch die Glukorianer konnten sich von ihrem selbst erschaffenen Nebel nicht schützen und sind selbst zu Geistern geworden, die jetzt ruhelos innerhalb des Nebels spuken.
 
-
 ***
-- **Weiter:** [Einstieg]({{ site.baseurl }}/Abenteuer/Halloween/Einstieg.html)
 
+- **Weiter:** [Einstieg]({{ site.baseurl }}/Abenteuer/Halloween/Einstieg)
