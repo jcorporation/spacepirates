@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg
 title: Einstieg
 ---
 
-
 # Einstieg
-
 
 Ein wagonischer Spacekurier liefert einem der Charaktere (dessen Onkel Nic Jäger war) einen übergroßen Karton, egal wo er sich gerade aufhält, denn die pünktliche Lieferung hat bei den Wagonen Tradition. 
 
@@ -24,6 +22,7 @@ Ein wagonischer Spacekurier liefert einem der Charaktere (dessen Onkel Nic Jäge
 <tr><td>6</td><td>Beim Sushiessen in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime_neuneotokio)</td></tr>
 </tbody>
 </table>
+
 Der Spacekurier sieht abgekämpft aus und auch sein Raumflitzer scheint beschädigt zu sein. Er wird von den SpaceAngels verfolgt, die direkt nach ihm eintreffen und sofort aus allen Rohren feuern. Sie sind hinter der goldenen Schallplatte her. Die SpaceAngels sind mit einem Raumschiff unterwegs, da der Fahrtwind bei SpaceBikes mit FTL doch zu krass ist.
 
 <table>
@@ -41,6 +40,7 @@ Der Spacekurier sieht abgekämpft aus und auch sein Raumflitzer scheint beschäd
 <tr><th>Bewaffnung</th><td colspan="4">Revolver: P+0</td></tr>
 </tbody>
 </table>
+
 <table data-type="raumschiff">
 <caption>Black Serafina</caption>
 <tbody>
@@ -54,6 +54,7 @@ Der Spacekurier sieht abgekämpft aus und auch sein Raumflitzer scheint beschäd
 <tr><th>Bewaffnung</th><td>Plasmakanone: Bonus 2, SM 2</td></tr>
 </tbody>
 </table>
+
 Haben die Charaktere die SpaceAngels verjagt, händigt der SpaceKurier dankbar den Karton aus. Der Spacekurier will natürlich mehrere Unterschriften zur Bestätigung des Empfangs, Haftungsausschluss, usw., eben die üblichen Formulare der wagonische SpacePost. Hat der Spacekurier alle Unterschriften, wird er sich so schnell wieder aus dem Staub machen, wie er gekommen ist.
 
 Innerhalb des Kartons liegt ein Standardschreiben der wagonischen Anwaltskanzlei [Drojar und Partner]({{ site.baseurl }}/Weltraum/Konzerne/Drojarundpartner). Es umfasst mehrere tausend Seiten und füllt fast den ganzen Karton aus. Zusammengefasst steht im Schreiben folgendes:
@@ -63,31 +64,6 @@ Innerhalb des Kartons liegt ein Standardschreiben der wagonischen Anwaltskanzlei
 - Eine persönliche Einladung zur Trauerzeremonie auf [Burial Planet]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Burialplanet).
 - Das Erbe muss aus Sicherheits- und Compliance-Gründen persönlich nach der Trauerzeremonie abgeholt werden.
 
-
-<aside>
-<div class="hinweis">
-## Crashing Meteorits
-
-Die Crashing Meteorits waren eine bekannte Rockband, die mit den SpaceRockern der [Baneros Banditos]({{ site.baseurl }}/Weltraum/Spacerocker/Banerosbanditos) sympathisierten.
-
-<table data-order="cols" data-type="slc">
-<caption>Crashing Meteorits</caption>
-<thead>
-<tr><th>Name</th><th>Instrument</th><th>Rasse</th><th>Kategorie</th></tr>
-</thead>
-<tbody>
-<tr><td>Nic Jäger</td><td>Gesang</td><td>Wagone</td><td>Promi</td></tr>
-<tr><td>Kenn Reich</td><td>Gitarre</td><td>Trull</td><td>Promi</td></tr>
-<tr><td>Sick Talor</td><td>Bass</td><td>Trull</td><td>Promi</td></tr>
-<tr><td>Ronny Rauman</td><td>Schlagzeug</td><td>Trull</td><td>Promi</td></tr>
-</tbody>
-</table>
-</div>
-</aside>
-
 ***
 
-- **Weiter:** [Trauerzeremonie]({{ site.baseurl }}/Abenteuer/Goldeneschallplatte/Trauerzeremonie)
-
-
-
+- **Weiter:** [Trauerzeremonie]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie)

@@ -4,13 +4,11 @@ permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremoni
 title: Trauerzeremonie
 ---
 
-
 # Trauerzeremonie
 
+Die Trauerzeremonie findet auf dem kleinen Friedhofsplaneten [Burial Planet]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Burial_Planet) in der Nähe von [Xawang]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Xawang) statt. Egal wo sich die Charaktere gerade aufhalten, sie haben gerade noch genügend Zeit, um pünktlich dort einzutreffen.
 
-Die Trauerzeremonie findet auf dem kleinen Friedhofsplaneten [Xawang]({{ site.baseurl }}/Burial Planet]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Burialplanet) in der Nähe von )({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Xawang) statt. Egal wo sich die Charaktere gerade aufhalten, sie haben gerade noch genügend Zeit, um pünktlich dort einzutreffen.
-
-Da Nic Jäger durchaus bekannt war, ist auf dem Raumhafen und in der Kirche viel los. Es ist sogar ein Filmteam der [SpaceAngels]({{ site.baseurl }}/StarIllu]({{ site.baseurl }}/Weltraum/Konzerne/Starillu) anwesend, ansonsten auch einige andere Reporter und Fans. Es haben sich auch die zwei Rockerbanden )({{ site.baseurl }}/Weltraum/Spacerocker/Spaceangels) und [Baneros Banditos]({{ site.baseurl }}/Weltraum/Spacerocker/Banerosbanditos) eingefunden, die sich augenscheinlich nicht leiden können. Die Piraten fallen also absolut nicht auf, wenn sie sich unauffällig verhalten.
+Da Nic Jäger durchaus bekannt war, ist auf dem Raumhafen und in der Kirche viel los. Es ist sogar ein Filmteam der [StarIllu]({{ site.baseurl }}/Weltraum/Konzerne/Starillu) anwesend, ansonsten auch einige andere Reporter und Fans. Es haben sich auch die zwei Rockerbanden [SpaceAngels]({{ site.baseurl }}/Weltraum/SpaceRocker/SpaceAngels/) und [Baneros Banditos]({{ site.baseurl }}/Weltraum/SpaceRocker/Baneros_Banditos/) eingefunden, die sich augenscheinlich nicht leiden können. Die Piraten fallen also absolut nicht auf, wenn sie sich unauffällig verhalten.
 
 Die Zeremonie ist kurz, jedenfalls für wagonische Verhältnisse, da natürlich zuerst ein paar bürokratische Dinge erledigt werden müssen, die ca. 4 Stunden dauern. Nic Jäger wird eingeäschert und die Urne mit seiner Asche in einem schlichten Mausoleum beigesetzt.
 
@@ -38,19 +36,7 @@ Die SpaceAngels werden den Charakteren auflauern, um die goldene Schallplatte zu
 </tbody>
 </table>
 
-<aside>
-<div class="hinweis">
-## Burial Planet
-
-Beschreibung von [Burial Planet]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Burialplanet)
-
-</div>
-</aside>
-
 ***
 
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Goldeneschallplatte/Einstieg)
-- **Weiter:** [Auf Scrabnambu]({{ site.baseurl }}/Abenteuer/Goldeneschallplatte/Auf-scrabnambu)
-
-
-
+- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg)
+- **Weiter:** [Auf Scrabnambu]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf-scrabnambu)

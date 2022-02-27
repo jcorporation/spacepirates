@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das-alte-bandraumschiff
+permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff
 title: Das alte Bandraumschiff
 ---
 
-
 # Das alte Bandraumschiff
-
 
 Bei dem alten Bandraumschiff handelt es sich um einen Luxusjumper, der führungslos inmitten der Quantenfluktuation herumtrudelt. Das Logo der Band macht es unverkennbar. Ein kurzer Check mit den Sensoren zeigt, dass das Raumschiff keine Energie mehr besitzt und es daher ratsam ist, mit Raumanzügen das Schiff zu betreten. Wegen des Trudelns ist eine PILOT-Probe mit 4 Erfolgen notwendig, um anzudocken.
 
@@ -24,6 +22,7 @@ Im Raumschiff ist weder die Schwerkraft aktiv, noch ist eine Atmosphäre vorhand
 <tr><td>5, 6</td><td>Das Bandraumschiff saugt alle Energie des Raumschiffs der Charaktere ab, das nun jede Funktion einstellt, da es energielos ist.</td></tr>
 </tbody>
 </table>
+
 ### Geistergroupies
 
 Innerhalb des Raumschiffs treiben die total verrückten Geister der Groupies der Crashing Meteorits ihr Unwesen. Sie sind natürlich von ihrem Besuch wenig angetan und versuchen die Charaktere zu vertreiben.
@@ -38,6 +37,7 @@ Innerhalb des Raumschiffs treiben die total verrückten Geister der Groupies der
 <tr><th>Bewaffnung</th><td>keine</td></tr>
 </tbody>
 </table>
+
 ### Der Schatz
 
 Das Raumschiff ist natürlich am meisten wert, aber richtige Fans lassen für folgendes auch ein paar UC springen:
@@ -46,13 +46,7 @@ Das Raumschiff ist natürlich am meisten wert, aber richtige Fans lassen für fo
 - Diverse Auszeichnungen, darunter 5 weitere goldene Schallplatten
 - Kistenweise Merchandise
 
-
-<aside> </aside>
-
 ***
 
-- **Zurück:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Goldeneschallplatte/In-der-quantenfluktuation)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Goldeneschallplatte/Ende)
-
-
-
+- **Zurück:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In-der-quantenfluktuation)
+- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende)

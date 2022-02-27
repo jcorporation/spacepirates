@@ -26,7 +26,7 @@ Die Piraten bekommen von einem Strohmann der SWIP den Auftrag einen extrem selte
 
 Einer der Charaktere erbt eine goldene Schallplatte von seinem Onkel Nic Jäger, er war das letzte noch lebende Mitglied der Kultband Crashing Meteorits. Das Erbe muss mehr als nur einen ideellen Wert habe, dann auf einmal ist die SpaceRocker-Bande SpaceAngels hinter den Charakteren her.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Goldeneschallplatte/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/)
 
 ## Der große Fang
 

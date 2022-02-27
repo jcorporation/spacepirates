@@ -1,16 +1,18 @@
 ---
 layout: page
-permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf-scrabnambu
+permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu
 title: Auf Scrabnambu
 ---
 
-
 # Auf Scrabnambu
-
 
 Der Raumhafen von Scrabnambu liegt gleich neben den großen Lagerhallen des Schrottplatzes. Innerhalb der Lagerhallen ist der Schrott sortiert und ausgezeichnet, außerhalb der Hallen gibt es aber noch wesentlich mehr Schrott, der noch nicht sortiert ist. Der Schrott wird von Robotern bewacht, sortiert und verkauft, [Iyani Dizalo]({{ site.baseurl }}/Weltraum/Händler_und_Halunken) beschäftigt keine Menschen.
 
 Die Charaktere haben Glück und es gibt tatsächlich einen funktionierenden 3D-Schallplattenspieler zu erwerben, er ist allerdings mit 1.000 UC recht teuer.
+
+- mehr zu [Scrabnambu]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Scrabnambu)
+
+{% include slc.md data=site.data.Slc.Iyani_Dizalo%}
 
 <table data-type="nsc">
 <caption>Händler-Roboter</caption>
@@ -20,6 +22,7 @@ Die Charaktere haben Glück und es gibt tatsächlich einen funktionierenden 3D-S
 <tr><th>Bewaffnung</th><td>keine</td></tr>
 </tbody>
 </table>
+
 ## Abspielen der Schallplatte
 
 Das Abspielen der Schallplatte ruft die Geister der verstorbenen Rockband Crashing Meteorits herbei, samt ihren Musikinstrumenten und der kompletten Bühnenausstattung. Die Geister bleiben vor Ort, auch nachdem die Schallplatte komplett abgespielt wurde.
@@ -28,22 +31,7 @@ Die Geister der verstorbenen Rockband können keine Ruhe finden, solange die gol
 
 Die Geister der Crashing Meteorits können nicht mit, Quantenfluktuationen lassen Geister verrückt werden. Stattdessen würden sie gerne auf Los Mochis abgesetzt werden, um dort noch ein paar Biere zu zischen und ein letztes Konzert zu geben. Natürlich warten die Crashing Meteorits mit dem Konzert, bis die Charaktere aus der Quantenfluktuation zurückkommen.
 
-
-<aside>
-<div class="hinweis">
-## Scrabnambu
-
-mehr zu [Scrabnambu]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Scrabnambu)
-
-</div>
-[Kategorie,Rasse,Wohnort]({{ site.baseurl }}/Object:Iyani Dizalo)
-
-</aside>
-
 ***
 
-- **Zurück:** [Trauerzeremonie]({{ site.baseurl }}/Abenteuer/Goldeneschallplatte/Trauerzeremonie)
-- **Weiter:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Goldeneschallplatte/In-der-quantenfluktuation)
-
-
-
+- **Zurück:** [Trauerzeremonie]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie)
+- **Weiter:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation)
