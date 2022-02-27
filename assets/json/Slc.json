@@ -261,6 +261,14 @@
     "Position": "Arzt",
     "Link": "/Weltraum/Konzerne/Spacewood-Klinik/Personal"
   },
+  "Dr__Haagel": {
+    "Name": "Dr. Haagel",
+    "Rasse": "Samnese",
+    "Kategorie": "Arzt",
+    "Wohnort": "Sampuk",
+    "Position": "",
+    "Link": "/Abenteuer/Der_große_Fang/Danach"
+  },
   "Dustin_Bisam": {
     "Name": "Dustin Bisam",
     "Rasse": "Streifanier",
@@ -923,6 +931,14 @@
     "Kategorie": "Konzernchef",
     "Wohnort": "Omar",
     "Link": "/Weltraum/Konzerne/JCTech_IAG"
+  },
+  "Shizo_Phren": {
+    "Name": "Shizo Phren",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Ninja",
+    "Wohnort": "Einsiedlerplanet in der Nähe von Freeport",
+    "Position": "",
+    "Link": "/Abenteuer/Der_große_Fang/Chinese"
   },
   "Simone_de_Montfort": {
     "Name": "Simone de Montfort",
