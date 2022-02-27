@@ -175,7 +175,7 @@
     "Kategorie": "Pirat",
     "Wohnort": "Raumschiff Sternenwolf",
     "Position": "",
-    "Link": "/Weltraum/Piraten/Kapitäne"
+    "Link": "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa"
   },
   "Daisy_Klick": {
     "Name": "Daisy Klick",
@@ -322,7 +322,7 @@
     "Kategorie": "Pirat",
     "Wohnort": "Raumschiff Goldene Rukh",
     "Position": "Piratenkapitän",
-    "Link": "/Weltraum/Piraten/Kapitäne"
+    "Link": "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer"
   },
   "Fiat_el_Parro": {
     "Name": "Fiat el Parro",
@@ -946,7 +946,7 @@
     "Kategorie": "Pirat",
     "Wohnort": "Raumschiff Sternenwolf",
     "Position": "",
-    "Link": "/Weltraum/Piraten/Kapitäne"
+    "Link": "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa"
   },
   "Stan_Stanton": {
     "Name": "Stan Stanton",
@@ -987,7 +987,7 @@
     "Kategorie": "Pirat",
     "Wohnort": "Raumschiff Sternenwolf",
     "Position": "Piratenkapitän",
-    "Link": "/Weltraum/Piraten/Kapitäne"
+    "Link": "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa"
   },
   "Troedler_Abraham": {
     "Name": "Trödler Abraham",
@@ -1094,7 +1094,15 @@
     "Kategorie": "Pirat",
     "Wohnort": "",
     "Position": "Piratenkapitän",
-    "Link": "/Abenteuer/Schatzjagd/Erstepiratengruppe"
+    "Link": "/Weltraum/Piraten/Piratencrews/Zamtor"
+  },
+  "Zamtor": {
+    "Name": "Zamtor",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Pirat",
+    "Wohnort": "",
+    "Position": "Piratenkapitän",
+    "Link": "/Weltraum/Piraten/Piratencrews/Zamtor"
   },
   "Zhao_Xue": {
     "Name": "Zhao Xue",
