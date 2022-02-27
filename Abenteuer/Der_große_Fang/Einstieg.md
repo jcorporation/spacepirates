@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Der_Große_Fang/Einstieg
+permalink: /Abenteuer/Der_große_Fang/Einstieg
 title: Einstieg
 ---
 
@@ -20,7 +20,6 @@ Selbst der beste Navigationscomputer vermag es nicht die Schriftzeichen zu entsc
 
 Durch ein bisschen Beinarbeit finden die Piraten heraus, das der alte Chinese Phren ein Experte für alte und unbekannte Schriften und Karten ist. Phren lebt als Einsiedler auf einem kleinen Asteroiden nicht weit (10 Lichtjahre) von Freeport entfernt.
 
-
 ***
-- **Weiter:** [SpaceNinjas]({{ site.baseurl }}/Abenteuer/Dergrossefang/Spaceninjas)
 
+- **Weiter:** [SpaceNinjas]({{ site.baseurl }}/Abenteuer/Der_große_Fang/SpaceNinjas)

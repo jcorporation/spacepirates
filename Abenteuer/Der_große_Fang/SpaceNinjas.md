@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Der_Große_Fang/Spaceninjas
+permalink: /Abenteuer/Der_große_Fang/SpaceNinjas
 title: SpaceNinjas
 ---
 
@@ -13,22 +13,21 @@ SpaceNinjas sind immer in dunklen Ecken und extremst unauffällig, daher braucht
 Die Ninjas greifen selber nie ein, wenn sie in der Unterzahl sind und flüchten sobald eine Niederlage droht. Sie sind aber extrem hartnäckig und werden solange es geht die Piraten verfolgen.
 
 <table>
-<thead>
-<tr><th colspan="2">SpaceNinjas</th></tr>
-</thead>
+<caption>SpaceNinjas</caption>
 <tbody>
 <tr><th>SÖLDNER</th><td>3</td></tr>
 <tr><th>Zähigkeit</th><td>1</td></tr>
 <tr><th>Bewaffnung</th><td>Shurikenwerfer (WB 1), Ninjaschwert (WB 0)</td></tr>
 </tbody>
 </table>
+
 ## Ninja-Spaceflitzer
 
 Auf dem Ninja-Spaceflitzer sind 8 SpaceNinjas untergebracht, es ist also kuschelig eng auf dem Schiff. Das Ninja-Tarnschild verhindert, dass Sensoren das Raumschiff entdecken, Sensorenproben werden um 2 erschwert.
 
 <table>
+<caption>Ninja-Spaceflitzer</caption>
 <tbody>
-<tr><th colspan="2">Ninja-Spaceflitzer</th></tr>
 <tr><th>Pilotenwert</th><td>5</td></tr>
 <tr><th>Techwert</th><td>5</td></tr>
 <tr><th>Söldnerwert</th><td>5</td></tr>
@@ -46,6 +45,6 @@ Auf dem Ninja-Spaceflitzer sind 8 SpaceNinjas untergebracht, es ist also kuschel
 </table>
 
 ***
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Dergrossefang/Einstieg.html)
-- **Weiter:** [Beim alten Chinesen]({{ site.baseurl }}/Abenteuer/Dergrossefang/Chinese.html)
 
+- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Einstieg)
+- **Weiter:** [Beim alten Chinesen]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Chinese)

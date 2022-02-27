@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Der_Große_Fang/Portal
+permalink: /Abenteuer/Der_große_Fang/Portal
 title: Das Portal
 ---
 
@@ -28,8 +28,7 @@ Nach dem alle Schätze zusammengerafft wurden, gilt es aus der künstlichen Welt
 
 Der eigentliche Schatz ist natürlich der Syonerleichnam und nicht der Krempel aus dem Vergnügungspark.
 
-
 ***
-- **Zurück:** [Proxy Sigma II]({{ site.baseurl }}/Abenteuer/Dergrossefang/Proxisigma2.html)
-- **Weiter:** [Danach]({{ site.baseurl }}/Abenteuer/Dergrossefang/Danach.html)
 
+- **Zurück:** [Proxy Sigma II]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Proxima_Sigma_II)
+- **Weiter:** [Danach]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Danach)

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Der_Große_Fang/Reise
+permalink: /Abenteuer/Der_große_Fang/Reise
 title: Die Reise nach Proxima Sigma
 ---
 
@@ -18,13 +18,12 @@ In das gigantischen Lila-Loch strömt das bunte Plasma des in allen Spektralfarb
 <tr><th>Schadenspunkte</th><td>12</td></tr>
 <tr><th>Schadensmodifikator</th><td>W4</td></tr>
 </tbody>
+
 </table>
 Durch den Flug durch das Lila-Loch schimmert das Piratenschiff dauerhaft in allen Spektralfarben, falls die Schilde während des Durchflugs versagen und die Schiffshülle mit dem Plasmaregenbogen in Berührung kommt.
 
 Die Ninjas schaffen es mit einer 60%igen Wahrscheinlichkeit durch das Lila-Loch.
 
-
 ***
-- **Zurück:** [Beim alten Chinesen]({{ site.baseurl }}/Abenteuer/Dergrossefang/Chinese)
-- **Weiter:** [Proxima Sigma]({{ site.baseurl }}/Abenteuer/Dergrossefang/Proximasigma)
-
+- **Zurück:** [Beim alten Chinesen]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Chinese)
+- **Weiter:** [Proxima Sigma]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Proxima_Sigma)

@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /Abenteuer/Der_Große_Fang/Proxisigma2
+layout: aside
+permalink: /Abenteuer/Der_große_Fang/Proxima_Sigma_II
 title: Proxima Sigma II
 ---
 
@@ -24,8 +24,7 @@ Von den Schiffssystemen kann ein findiger Techniker einen Traktorstrahl bergen. 
 
 Auf der Brücke des Schiffs können die Piraten eine eingestaubte Syonerleiche auf dem Kapitänsstuhl finden. Sie ist milchig durchsichtig und kein bisschen verwest, eher versteinert (Wert: 20.000 UC).
 
-
 ***
-- **Zurück:** [Proxima Sigma]({{ site.baseurl }}/Abenteuer/Dergrossefang/Proximasigma.html)
-- **Weiter:** [Das Portal]({{ site.baseurl }}/Abenteuer/Dergrossefang/Portal.html)
 
+- **Zurück:** [Proxima Sigma]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Proxima_Sigma)
+- **Weiter:** [Das Portal]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Portal)

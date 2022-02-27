@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /Abenteuer/Der_Große_Fang/Proximasigma
+layout: aside
+permalink: /Abenteuer/Der_große_Fang/Proxima_Sigma
 title: Proxima Sigma
 ---
 
@@ -17,9 +17,7 @@ Der Weltraumkäfer hat die Größe eines kleinen Mondes und die Form eines über
 Der Weltraumkäfer hat es auf jedes Raumschiff abgesehen, das in sein System gelangt. Er spürt jedes Raumschiff auf, das in die Nähe der Trümmer kommt. Der Käfer verfolgt seine Beute nur bis zur Atmosphäre eines Planeten.
 
 <table>
-<thead>
-<tr><th colspan="2">Weltraumkäfer</th></tr>
-</thead>
+<caption>Weltraumkäfer</caption>
 <tbody>
 <tr><th>Kampfprofil</th><td>9</td></tr>
 <tr><th>Schadensmodifikator</th><td>2</td></tr>
@@ -27,10 +25,10 @@ Der Weltraumkäfer hat es auf jedes Raumschiff abgesehen, das in sein System gel
 <tr><th>Schadenspunkte</th><td>40</td></tr>
 </tbody>
 </table>
+
 Sollte sich ein Trull unter den Piraten befinden, so mag er den gigantischen Weltraumkäfer für Shai Goddul, den Schöpferkäfer halten. Der Käfer ist intelligent und ein Trull kann ihn auch soweit besänftigen, dass er das Raumschiff nicht angreift (Händlerprobe: 4 Erfolge).
 
-
 ***
-- **Zurück:** [Die Reise nach Proxima Sigma]({{ site.baseurl }}/Abenteuer/Dergrossefang/Reise.html)
-- **Weiter:** [Proxy Sigma II]({{ site.baseurl }}/Abenteuer/Dergrossefang/Proxisigma2.html)
 
+- **Zurück:** [Die Reise nach Proxima Sigma]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Reise)
+- **Weiter:** [Proxy Sigma II]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Proxima_Sigma_II)
