@@ -19,6 +19,7 @@ Aber die Piraten sollten sich vor der Starnetpolizei in Acht nehmen, die regelm�
 <tr><th>Zähigkeit</th><td>4</td></tr>
 </tbody>
 </table>
+
 ### Starnetpatrouille
 
 <table>
@@ -39,6 +40,6 @@ Aber die Piraten sollten sich vor der Starnetpolizei in Acht nehmen, die regelm�
 </table>
 
 ***
-- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Daspergament)
-- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Uebersetzung)
 
+- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
+- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung)

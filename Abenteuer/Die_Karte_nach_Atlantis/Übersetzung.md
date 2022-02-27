@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung
+permalink: /Abenteuer/Die_Karte_nach_Atlantis/Übersetzung
 title: Übersetzung des Pergaments
 ---
 
@@ -8,12 +8,17 @@ title: Übersetzung des Pergaments
 
 Der Computer und der Atlantereinsiedler übersetzen das Pergament wie folgt.
 
-<blockquote>
-<p>Nur die Raumzeit vermag euch nach Atlantis zu bringen.<br/>
-Gleich neben der Vergangenheit liegt der Weg zum verschollenen Planeten.<br/>
-Seid auf der Hut vor dem großen Fisch.<br/>
-Tief im gefahrvollen Nebel liegt das Ziel.</p>
-</blockquote>
+{% capture include_body %}
+Nur die Raumzeit vermag euch nach Atlantis zu bringen.
+
+Gleich neben der Vergangenheit liegt der Weg zum verschollenen Planeten.
+
+Seid auf der Hut vor dem großen Fisch.
+
+Tief im gefahrvollen Nebel liegt das Ziel.
+{% endcapture %}
+{% include anmerkung.md body=include_body %}
+
 ## Interpretation des Pergaments
 
 - Die Raumzeitverschiebung ist das Tor zum Weg nach Atlantis.
@@ -27,8 +32,7 @@ Die Piraten könnten sich fragen, was sie mit dem Pergament denn nun tun sollen 
 
 Natürlich besteht immer auch die Möglichkeit, nach Atlantis zu fliegen, den Gerüchten zufolge ist der Planet zwar verlassen, aber auch voller atlantischer Technik, für die Sammler, Forscher, Spaceamazonen (und Atlanter) vermutlich viel Geld bezahlen würden.
 
-
 ***
-- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Daspergament)
-- **Weiter:** [Komplikationen]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Komplikationen)
 
+- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
+- **Weiter:** [Komplikationen]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen)

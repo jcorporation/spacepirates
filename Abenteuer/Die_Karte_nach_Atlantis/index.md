@@ -10,27 +10,23 @@ Die Charaktere kommen in den Besitz einer uralten Karte die den Weg nach Atlanti
 
 ## Inhalt
 
-- [Zeitstrahl]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Zeitstrahl)
-- [Einstieg]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Einstieg)
-- [Rebellen]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Rebellen)
-<li>[Das Pergament]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Daspergament)
-<li>[Oma Binkel]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Omabinkel)
-- [Giftmüllentsorgung]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Giftmuellentsorgung)
-
-</li>
-- [Zombierechner]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Zombierechner)
-- [Universität]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Universitaet)
-- [Atlantereinsiedler]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Atlantereinsiedler)
-- [Atlantisches Forschungsschiff]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Atlanterschiff)
-
-</li>
-- [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Uebersetzung)
-- [Komplikationen]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Komplikationen)
-- [Der Weg nach Atlantis]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Weg)
-- [Nebel von Atlantis]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Nebel)
-- [Auf Atlantis]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Aufatlantis)
-- [Ende]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Ende)
+- [Zeitstrahl]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl)
+- [Einstieg]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Einstieg)
+- [Rebellen]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Rebellen)
+- [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
+  - [Oma Binkel]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel)
+    - [Giftmüllentsorgung]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung)
+  - [Zombierechner]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner)
+  - [Universität]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Universität)
+  - [Atlantereinsiedler]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler)
+  - [Atlantisches Forschungsschiff]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff)
+- [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung)
+- [Komplikationen]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen)
+- [Der Weg nach Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Weg)
+- [Nebel von Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Nebel)
+- [Auf Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis)
+- [Ende]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Ende)
 
 ## Download
 
-[v2/abenteuer/KarteNachAtlantis_]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Themenhefte-Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.

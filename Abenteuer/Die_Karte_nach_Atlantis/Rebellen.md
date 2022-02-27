@@ -23,6 +23,7 @@ Die Rebellen erkennen auch die Instabilität der Karte. Entsprechend heuern sie 
 <tr><th>Zähigkeit</th><td>4</td><td>4</td><td>4</td><td>4</td></tr>
 </tbody>
 </table>
+
 <table>
 <caption>Hypergleiter</caption>
 <tbody>
@@ -37,6 +38,7 @@ Die Rebellen erkennen auch die Instabilität der Karte. Entsprechend heuern sie 
 <tr><th>Bewaffnung</th><td>2 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
+
 Sollten die Söldner versagen, wird Eriboea das Risiko eingehen, andere Spaceamazonen auf die Piraten aufmerksam zu machen. Sie wird behaupten, die Piraten wären für die Zerstörung der antiken Spaceamazonenschiffe verantwortlich, um die Spaceamazonen gegen die Piraten aufzuhetzen.
 
 <table>
@@ -52,6 +54,7 @@ Sollten die Söldner versagen, wird Eriboea das Risiko eingehen, andere Spaceama
 <tr><th>Zähigkeit</th><td>4</td><td>4</td><td>4</td><td>4</td></tr>
 </tbody>
 </table>
+
 <table>
 <caption>Hypergleiter</caption>
 <tbody>
@@ -66,4 +69,3 @@ Sollten die Söldner versagen, wird Eriboea das Risiko eingehen, andere Spaceama
 <tr><th>Bewaffnung</th><td>3 Negatronenkanonen: WB 3, SM 2</td></tr>
 </tbody>
 </table>
-

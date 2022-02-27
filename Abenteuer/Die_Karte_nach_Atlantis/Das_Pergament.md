@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Die_Karte_nach_Atlantis/Daspergament
+permalink: /Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament
 title: Das Pergament
 ---
 
@@ -16,19 +16,18 @@ Das Pergament in Linear F beschriftet, einer Schrift, die einzig und allein an d
 
 Es ist möglich, die Karte mit einem Computerprogramm zu entschlüsseln. Entsprechende Programme sind im Starnet verfügbar. Der Schiffscomputer würde allerdings Jahre bis Jahrzehnte brauchen, um die Schrift zu entschlüsseln, es muss also mehr Rechenleistung her. Dafür gibt es natürlich verschiedene Möglichkeiten.
 
-- [Oma Binkel]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Omabinkel)
-- [Zombierechner]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Zombierechner)
-- [Universität]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Universitaet)
+- [Oma Binkel]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Omabinkel)
+- [Zombierechner]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner)
+- [Universität]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Universitaet)
 
 ### Einen Atlanter fragen
 
 Natürlich könnte man auch einen Atlanter bitten, die Schrift für einen zu entziffern. Allerdings wachsen Atlanter, die dazu in der Lage und Willens sind, nicht gerade auf Bäumen. Hinweise auf Atlanter können natürlich im Starnet oder durch rumfragen gefunden werden. Mit 2 Erfolgen bei einer Händlerprobe erfahren die Charaktere vom atlantischen Forschungsschiff, bei 3 Erfolgen vom Atlantereinsiedler Kritias.
 
-- [Atlantereinsiedler]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Atlantereinsiedler)
-- [Atlantisches Forschungsschiff]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Atlanterschiff)
-
+- [Atlantereinsiedler]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler)
+- [Atlantisches Forschungsschiff]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff)
 
 ***
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Einstieg)
-- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Uebersetzung)
 
+- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Einstieg)
+- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung)

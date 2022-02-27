@@ -32,6 +32,7 @@ Unabhängig davon muss sich das Schiff gegen die Kräfte der Raumzeitverschiebun
 <tr><th>Schadensmodifikator</th><td>1W4</td></tr>
 </tbody>
 </table>
+
 Sobald der Schadenspool der Raumzeitverschiebung auf 0 Punkte sinkt, hat das Raumschiff die Koordinaten erreicht und die Raumzeitverschiebung katapultiert das Raumschiff in die Nähe des Nebels von Atlantis. Falls dies nicht gelingt und die Schiffshülle zu viel Schaden nimmt, wird zur Ermittlung der Auswirkung auf untere Tabelle gewürfelt.
 
 <table>
@@ -47,6 +48,6 @@ Sobald der Schadenspool der Raumzeitverschiebung auf 0 Punkte sinkt, hat das Rau
 </table>
 
 ***
-- **Zurück:** [Komplikationen]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Komplikationen)
-- **Weiter:** [Nebel von Atlantis]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Nebel)
 
+- **Zurück:** [Komplikationen]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen)
+- **Weiter:** [Nebel von Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Nebel)

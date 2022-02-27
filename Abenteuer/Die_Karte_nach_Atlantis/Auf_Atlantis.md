@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Die_Karte_nach_Atlantis/Aufatlantis
+permalink: /Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis
 title: Auf Atlantis
 ---
 
@@ -24,6 +24,7 @@ Wenn sich die Charaktere daran halten, geschieht nichts und das Raumschiff kann 
 <tr><td>10</td><td>10</td><td>Unobtaniumwerfer</td><td>4</td></tr>
 </tbody>
 </table>
+
 ## Friede, Freude, Eierkuchen
 
 Auf Atlantis angekommen, entdecken die Charaktere wirklich eine Idylle. Die Natur blüht auf, nirgends gibt es offensichtliche Technik oder Umweltverschmutzung. Die Stadt Atlantis ist sauber und aus weißem Marmor. Man kommt sich vor wie in einer großen, altertümlichen Stadt aus dem Bilderbuch. Die Atlanter selber sprechen die Sprache der Piraten nur schlecht, aber eine Verständigung ist möglich und sie sind freundlich, aber auch neugierig.
@@ -38,8 +39,7 @@ Fragen die Charaktere nach der Geschichte, erzählt ihnen Aristoteles, dass sie 
 
 Es ist Spätsommer auf Atlantis, daher laufen gerade die Vorbereitungen für das große Weinfest, dem größten atlantischen Volksfest überhaupt. Die Piraten werden von Aristoteles herzlich eingeladen, ja, er schwärmt ihnen geradezu davon vor. Das Fest bietet neben der Verkostung von viel, extrem gutem, atlantischem Wein auch volkstümliche Schlagermusik, inklusive eines Liveauftritts des beliebtesten atlantischen Stars, Udos Jurgenios. Zum Weinfest herrscht Ausnahmezustand auf Atlantis, quasi jeder Bürger ist auf den Beinen und die komplette Innenstadt ist voller feiernder Atlanter – eine gute Gelegenheit für die Piraten, von Atlantis zu fliehen und ein paar atlantische Artefakte in Sicherheit zu bringen.
 
-
 ***
-- **Zurück:** [Nebel von Atlantis]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Nebel)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Ende)
 
+- **Zurück:** [Nebel von Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Nebel)
+- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Ende)

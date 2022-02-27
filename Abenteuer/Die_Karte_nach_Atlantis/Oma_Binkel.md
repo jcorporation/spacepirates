@@ -26,10 +26,10 @@ Die Kampfrobotersessel stehen, scheinbar zufällig verteilt, im Torteneckchen, s
 <tr><th>Zähigkeit</th><td>8</td></tr>
 </tbody>
 </table>
+
 Wenn die Piraten anstatt zu Oma Binkel zu fahren, ihr Glück auf dem Schrottplatz von Scrabnambu versuchen, kann dieses Szenario nach dort verlegt werden. In dem Fall bittet nicht Oma Binkel, sondern Iyani Dizalo um den Gefallen.
 
-
 ***
-- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Daspergament)
-- **Weiter:** [Giftmüllentsorgung]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Giftmuellentsorgung)
 
+- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
+- **Weiter:** [Giftmüllentsorgung]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung)

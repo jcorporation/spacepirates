@@ -44,7 +44,7 @@ Ein Abenteuer von Moritz Mehlem entstanden für den Greifenklaue-Würfelheld-Win
 
 Die Charaktere kommen in den Besitz einer uralten Karte die den Weg nach Atlantis, dem sagenumwobenen Heimatplaneten der Atlanter, weisen soll. Zeitgleich kommen aber auch die Rebellen in den Besitz derselben Karte. Das Abenteuer ist nur für wohlhabende Piraten oder höher geeignet.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/)
 
 ## Dungeonplanet
 

@@ -32,9 +32,10 @@ Zamtor (aus dem Schatzjagd-Abenteuer) ist ein kleiner, stämmiger und immer übe
 <tr><th>Zähigkeit</th><td>4</td><td>2</td><td>2</td><td>2</td></tr>
 </tbody>
 </table>
+
 <table>
+<caption>Alter Frachter</caption>
 <tbody>
-<tr><td colspan="2">**Alter Frachter**</td></tr>
 <tr><th>Antrieb</th><td>FTL2</td></tr>
 <tr><th>Geschwindigkeit</th><td>3</td></tr>
 <tr><th>Wendigkeit</th><td>1</td></tr>
@@ -46,12 +47,12 @@ Zamtor (aus dem Schatzjagd-Abenteuer) ist ein kleiner, stämmiger und immer übe
 <tr><th>Bewaffnung</th><td>4 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
+
 ## Spaceamazonen
 
 Am 19. Tag entdeckt ein Spaceamzonen-Raumschiff die Überreste der antiken Spaceamazonenschiffe und wird sich an Nachforschungen machen. Sie können die Blackbox des Raumschiffs retten und daraus Informationen zum Raumschiff der Charaktere herausfinden, falls sich die Charaktere keine Gedanken gemacht haben, ob sie Spuren hinterlassen.
 
-
 ***
-- **Zurück:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Uebersetzung)
-- **Weiter:** [Der Weg nach Atlantis]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Weg)
 
+- **Zurück:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung)
+- **Weiter:** [Der Weg nach Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Weg)

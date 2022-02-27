@@ -22,5 +22,5 @@ title: Zeitstrahl
 </table>
 
 ***
-- **Weiter:** [Einstieg]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Einstieg)
 
+- **Weiter:** [Einstieg]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Einstieg)

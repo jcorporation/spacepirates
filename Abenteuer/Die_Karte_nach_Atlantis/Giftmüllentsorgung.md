@@ -17,6 +17,7 @@ Der Gefallen ist allerdings nicht ganz so klein, wie er aussieht, denn im Giftm�
 Die Weltraumpolizei trifft 10 Stunden, nachdem die Piraten den Auftrag von Oma Binkel bekommen haben, auf Trianguli Sup 2 ein.
 
 <table>
+<caption>Weltraumpolizei</caption>
 <tbody>
 <tr><th>Pilotenwert</th><td>7</td></tr>
 <tr><th>Techwert</th><td>6</td></tr>
@@ -34,6 +35,6 @@ Die Weltraumpolizei trifft 10 Stunden, nachdem die Piraten den Auftrag von Oma B
 </table>
 
 ***
-- **Zurück:** [Oma Binkel]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Omabinkel)
-- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Uebersetzung)
 
+- **Zurück:** [Oma Binkel]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel)
+- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung)

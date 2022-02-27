@@ -40,7 +40,6 @@ Die Atlanter haben das Problem der Antiphotonenverteilung endgültig gelöst und
 
 Der tragbare Antivakuumkraftfeldgenerator ist nicht nur ein praktischer Ersatz für Raumanzüge, sondern dank seiner formschönen Gestaltung in Form eines Gürtels auch ein modisches Accessoire. Das exakt auf den Körper des Trägers angepasste Antivakuumkraftfeld bietet den gleichen Schutz wie ein Raumanzug, aber ohne dessen Einschränkungen. Daher ist er besonders bei Spaceamazonen äußerst beliebt.
 
-
 ***
-- **Zurück:** [Auf Atlantis]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Aufatlantis)
 
+- **Zurück:** [Auf Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis)

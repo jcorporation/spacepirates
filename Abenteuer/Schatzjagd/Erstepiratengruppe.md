@@ -2,6 +2,14 @@
 layout: page
 permalink: /Abenteuer/Schatzjagd/Erstepiratengruppe
 title: Erste Piratengruppe
+sitedata:
+    Slc:
+        Zamtor:
+            Name: "Zamtor"
+            Rasse: "Kahadrier"
+            Kategorie: "Pirat"
+            Wohnort: ""
+            Position: "Piratenkapitän"
 ---
 
 

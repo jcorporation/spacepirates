@@ -27,6 +27,7 @@ Sind die Rebellen vorher nicht ausgeschaltet worden, befinden sich diese auch hi
 <tr><td>Forschung / Militär</td><td>20 km</td></tr>
 </tbody>
 </table>
+
 Wegen der geringen Reichweite der Sensoren ist es nicht zu empfehlen, mit FTL in den Nebel zu fliegen, da das einen extrem gefährlichen Blindflug bedeuten würde, bei dem man keinen Planeten ausweichen kann. Natürlich besitzen die Piraten bei einem Zusammenprall keine Überlebenschance. Bei einer niedrigeren Geschwindigkeit (siehe Tabelle) verursacht der Zusammenprall 1W6 pro fehlenden Erfolg Schaden auf die Schiffshülle.
 
 <table>
@@ -53,10 +54,9 @@ Im Nebel von Atlantis lebt ein gewaltiger Leviathan, ein bläuliches, schlangenf
 <tr><th>Geschwindigkeit</th><td>100 km/h</td></tr>
 </tbody>
 </table>
+
 Der Leviathan ist zwar ein extrem gefährlicher Gegner, aber die Piraten können mit guter Taktik den Leviathan auch ablenken und ihm so entkommen, da er blind ist. Die Charaktere können natürlich auch die Rebellen als Ablenkung benutzen. Der Leviathan reagiert stark auf Geräusche und Energiesignaturen. So bieten sich entfernt gesprengte Bomben, Torpedos oder Ähnliches an, um den Leviathan zu verwirren.
 
-
 ***
-- **Zurück:** [Der Weg]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Weg)
-- **Weiter:** [Auf Atlantis]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Aufatlantis)
-
+- **Zurück:** [Der Weg]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Weg)
+- **Weiter:** [Auf Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis)

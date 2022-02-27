@@ -70,6 +70,7 @@ Diejenigen, die zurück aufs Piratenraumschiff gelangen, haben zumindest für de
 <tr><td>60</td><td>Spaceamazonenschiff explodiert</td></tr>
 </tbody>
 </table>
+
 <table>
 <thead>
 <tr><th>Dauer</th><th>Aktion</th></tr>
@@ -82,6 +83,6 @@ Diejenigen, die zurück aufs Piratenraumschiff gelangen, haben zumindest für de
 </table>
 
 ***
-- **Zurück:** [Zeitstrahl]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Zeitstrahl)
-- **Weiter:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Daspergament)
 
+- **Zurück:** [Zeitstrahl]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl)
+- **Weiter:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)

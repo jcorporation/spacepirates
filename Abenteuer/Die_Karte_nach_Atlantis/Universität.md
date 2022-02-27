@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Die_Karte_nach_Atlantis/Universitaet
+permalink: /Abenteuer/Die_Karte_nach_Atlantis/Universität
 title: Universität
 ---
 
@@ -12,8 +12,7 @@ Dazu müssen sie allerdings die entsprechenden Professoren in deren Universität
 
 Zwar haben die Universitäten enorme Rechenleistung, aber wegen der erforderlichen Kontrollen und Bürokratie dauert die Entschlüsselung trotzdem 14 Tage und die Ergebnisse werden innerhalb von weiteren 14 Tagen in einem Wissenschaftsblatt veröffentlicht.
 
-
 ***
-- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Daspergament)
-- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Kartenachatlantis/Uebersetzung)
 
+- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
+- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung)
