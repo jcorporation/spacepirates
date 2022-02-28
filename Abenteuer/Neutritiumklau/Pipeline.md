@@ -21,7 +21,7 @@ Die Pipeline verfügt natürlich über ein Überwachungssystem das jede Unregelm
 
 Das Neutritium kann nicht so einfach abgepumpt werden, wie es Stan dachte, da dass Abpumpsystem kein Neutritium mit FTL Geschwindigkeit abpumpen kann, es würde zu einer enormen Explosion kommen, die alles im Umkreis von &frac34; Lichtjahr zerstören würde. Auch kann man nicht einfach ein Loch in die Pipeline bohren oder brennen, da dass dieselben Auswirkungen hätte. Selbstverständlich kann das der Tech der Gruppe herausfinden, bevor sich die Piratengruppe selber in die Luft sprengt.
 
-**Also braucht die Gruppe eine gute Idee, das kann sein: **
+**Also braucht die Gruppe eine gute Idee, das kann sein:**
 
 - Deaktivierung der FTL-Pumpen
 - Anzapfen der Pumpen
@@ -29,8 +29,7 @@ Das Neutritium kann nicht so einfach abgepumpt werden, wie es Stan dachte, da da
 - der Wartungstrupp hat bestimmt auch nützliches Werkzeug an Bord
 - und alles unglaubliche was den Spielern einfällt
 
-
 ***
-- **Zurück:** [SpaceShell]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Spaceshell)
-- **Weiter:** [Überfall eines Lagers]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Lager)
 
+- **Zurück:** [SpaceShell]({{ site.baseurl }}/Abenteuer/Neutritiumklau/SpaceShell)
+- **Weiter:** [Überfall eines Lagers]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Lager)

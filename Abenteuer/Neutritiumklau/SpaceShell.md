@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Neutritiumklau/Spaceshell
+permalink: /Abenteuer/Neutritiumklau/SpaceShell
 title: SpaceShell
 ---
 
@@ -43,6 +43,6 @@ Das Kampfgeschwader besteht aus 4 Kampfschiffen die jeweils mit einem Piloten, v
 </table>
 
 ***
+
 - **Zurück:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Auftrag.html)
 - **Weiter:** [Anzapfen der Pipeline]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Pipeline.html)
-

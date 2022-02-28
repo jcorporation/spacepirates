@@ -15,30 +15,32 @@ Die beiden Hauptlager befinden sich stationär, einige Lichtjahre entfernt von S
 Von den Lagern aus wird das Neutritium mit Schiffen an- und ausgeliefert. Die beiden Lager sind stark von den konzerneigenen Sicherheitstruppen bewacht, da dort ungemein große Mengen von Neutritium lagern. Genauer gesagt befinden sich zu jeder Zeit 20 Mann Wachpersonal im Neutritiumlager. Zusätzlich ist ein Kampfschiff stationiert, das regelmäßig eine Patrouille fliegt.
 
 <table>
+<caption>Wachpersonal</caption>
 <tbody>
-<tr><th colspan="2">Wachpersonal</th></tr>
 <tr><th>SÖLDNER</th><td>6</td></tr>
 <tr><th>Zähigkeit</th><td>1</td></tr>
 <tr><th>Bewaffnung</th><td>Laserpistolen</td></tr>
 </tbody>
 </table>
+
 Das Lager selber ist mit einem Schutzschild geschützt, schon allein um herumfliegende Asteroiden abzuhalten. Das Schutzschild wird immer nur kurzzeitig beim An- und Abflug eines SpaceShell Schiffes deaktiviert. Dies wird von einer Kommandostation innerhalb des Lagers gemacht, die auch immer die Gegend um das Lager im Auge behält und bei verdächtigen Aktivitäten das stationierte Kampfschiff losschickt.
 
 <table>
+<caption>Lager</caption>
 <tbody>
-<tr><th colspan="2">Lager</th></tr>
 <tr><th>Bewaffnung</th><td>keine</td></tr>
 <tr><th>Schilde</th><td>8</td></tr>
 <tr><th>Besatzung</th><td>20 Wachen<br/>
 5 Techniker</td></tr>
 </tbody>
 </table>
+
 Die Umpump- und Abfüllstation wird vollautomatisch betrieben. Spezielle Roboter füllen das Neutritium ab, bringen es in den großen Lagerraum. Andere Roboter wieder beladen die angekommenen Schiffe. In diesem Bereich arbeitet kein Mensch. Aber natürlich wird der Bereich mit Kameras überwacht und ab und an kommt auch eine Patrouille vorbei.
 
 Es gibt auch noch Aufenthaltsräume in denen die angekommene Schiffsbesatzungen ihre Zeit vertreiben können, bis ihre Schiff beladen ist. Hier lungert auch immer das Wachpersonal herum, das gerade keinen Dienst hat.
 
-
 ***
+
 ## Kleinere Lager
 
 Kleinere Neutritiumlager findet man in der Nähe jedes größeren und wichtigen Planeten.
@@ -54,6 +56,7 @@ Die kleineren Lager sind ähnlich aufgebaut wie die Hauptlager, nur fehlt die Um
 2 Techniker</td></tr>
 </tbody>
 </table>
+
 Wieviel Neutritium lagert ist immer unterschiedlich, da SpaceShell die Belieferung dynamisch an die Marktverhältnisse vorort anpasst.
 
 <table>
@@ -69,6 +72,6 @@ Wieviel Neutritium lagert ist immer unterschiedlich, da SpaceShell die Belieferu
 </table>
 
 ***
+
 - **Zurück:** [Anzapfen der Pipeline]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Pipeline)
 - **Weiter:** [Entführung eines Transportschiffs]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Transportschiff)
-

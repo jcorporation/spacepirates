@@ -11,11 +11,11 @@ Die Piraten werden von Stan beauftragt, eine nicht ganz unerhebliche Menge an Ne
 ## Inhalt
 
 - [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Auftrag)
-- [SpaceShell]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Spaceshell)
+- [SpaceShell]({{ site.baseurl }}/Abenteuer/Neutritiumklau/SpaceShell)
 - [Anzapfen der Pipeline]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Pipeline)
 - [Überfall eines Lagers]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Lager)
 - [Entführung eines Transportschiffs]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Transportschiff)
 
 ## Download
 
-[v2/abenteuer/neutritiumklau]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.
