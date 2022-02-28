@@ -48,5 +48,5 @@ title: Sternenkarte
   </div>
 </div>
 
-<script type="text/javascript" src="/Weltraum/Sternenkarte/karte.js"></script>
-<script type="text/javascript" src="/Weltraum/Sternenkarte/sternenkarte.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/Weltraum/Sternenkarte/karte.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/Weltraum/Sternenkarte/sternenkarte.js"></script>

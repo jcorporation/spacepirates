@@ -41,6 +41,10 @@ Neuartige Körperscanner in Handygröße, Heilungsbeschleunigersprays und Schmwe
 
 Auf dem Gebiet der künstlichen Intelligenz, Spracherkennung und Sprachsynthese wurden große Fortschritte gemacht, weshalb man sich mit modernen Raumschiffen unterhalten kann. Sie denken in gewissem Rahmen mit und erleichtern der Besatzung das Leben. Aber auch die besten (bekannten) künstlichen Intelligenzen sind noch weit davon entfernt, ein eigenes Bewusstsein zu entwickeln. KIs benötigen immer noch extreme Rechenleistung und große Speicher die nicht in kleine mobile Geräte passen. Aber durch das allgegenwärtige Starnet können z.B. Smartphones von überall auf zentrale KIs zugreifen. Nur sind sie dann offline zu kaum etwas zu gebrauchen.
 
+### Küchengeräte mit KI
+
+Küchengeräte mit künstlicher Intelligenz sind der letzte Schrei und daher momentan noch fast unbezahlbar. In den Elektronikläden findet man aber recht viele Vorserienmodelle und Nachbauten zu vernünftigen Preisen. Das Problem bei diesen Geräten ist aber, dass die eingebauten KIs nicht ausgereift sind. So sind die Meisten extrem auf ihre Aufgabe fixiert, was dazu führt, dass Toaster nur über das Toasten und Toastbrot reden wollen und auch schon mal deprimiert oder überschwenglich sein können. Die besten Modelle sind von der [Neuasiatische Küchengerätefabrik]({{ site.baseurl }}/Weltraum/Konzerne/NAKGF).
+
 ## Raumschiffe, Gleiter
 
 Im SpacePirates-Universum haben Gleiter und Raumschiffe alle anderen Verkehrsmittel ersetzt. Gleiter werden hauptsächlich auf Planeten und in planetennahen Umlaufbahnen eingesetzt. Entsprechend ist der Antrieb der meisten Gleiter zu schwach, um Fluchtgeschwindigkeit zu erreichen. Sie sind die Autos, Züge und Flugzeuge der Zukunft.
@@ -57,7 +61,7 @@ Roboter erleichtern das Leben in allen Bereichen. Sie übernehmen vor allem gef�
 
 Aufgrund der vorrangigen Einsatzgebiete sind humanoide Roboter nach wie vor die Ausnahme. Es wäre zwar möglich, sie zu bauen, sie wären aber im industriellen Einsatz nicht gerade praktisch. Aber es einen großen Markt an mehr oder minder intelligenten Cyberhaustieren, wie fliegende Cyberpapagaie, -hunde oder -katzen, die ihren tierischen Vorbildern nachempfunden sind.
 
-- [Roboter auf Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukicho-Prime/Roboter)
+- [Roboter auf Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Roboter)
 - [Roboter von Kappa Gamma]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Kappa_Gamma/)
 
 ## Waffen

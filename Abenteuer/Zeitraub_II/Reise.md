@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub_2/Reise
+permalink: /Abenteuer/Zeitraub_II/Reise
 title: Reise nach Javar 3
 ---
 

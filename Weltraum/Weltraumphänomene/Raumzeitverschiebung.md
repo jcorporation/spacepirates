@@ -18,7 +18,7 @@ Die Raumzeitverschiebung in der Neutralen Zone ist mit einem Umfang von 30 × 40
 
 Innerhalb einer Raumzeitverschiebung sind die Gesetze der Kausalität teilweise aufgehoben. Die Zeit läuft nicht mehr zwingend vorwärts und teilweise nicht einmal mehr linear, es ist durchaus möglich, rückwärts durch die Zeit zu fliegen oder gar wild durch verschiedene Epochen zu springen. Auch der Raum ist relativ, Entfernungen sind hier bedeutungslos, stellenweise sind sogar Raum und Zeit vertauscht. Glücklicherweise gibt es nicht sonderlich viele Raumzeitverschiebungen.
 
-Auf [Javar 3]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Javar3) gibt es eine von vielen Forschungsstationen, die die Raumzeitverschiebung untersuchen.
+Auf [Javar 3]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Javar_3) gibt es eine von vielen Forschungsstationen, die die Raumzeitverschiebung untersuchen.
 
 <table>
 <caption>Zufallstabelle</caption>

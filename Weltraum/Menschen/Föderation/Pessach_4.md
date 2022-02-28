@@ -23,6 +23,6 @@ sitedata:
 
 # Pessach 4
 
-Pessach 4 ist ein erdähnlicher Planet. Auf ihm befindet sich die Konzernzentrale der [Yellow Stone Group]({{ site.baseurl }}/Weltraum/Konzerne/Yallowstonegroup).
+Pessach 4 ist ein erdähnlicher Planet. Auf ihm befindet sich die Konzernzentrale der [Yellow Stone Group]({{ site.baseurl }}/Weltraum/Konzerne/Yellow_Stone_Group).
 
 {% include stadt.md data=page.sitedata.Staedte.Rabbit_City %}

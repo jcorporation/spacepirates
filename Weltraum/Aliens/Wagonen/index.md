@@ -20,6 +20,7 @@ sitedata:
 - **Botschaftsplanet:** [D4E20]({{ site.baseurl }}/Weltraum/Freihandelszone/D4E20)
 - **Reich:** Reich der Wagonen
 - [Wagonische Königsfamilie]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie)
+- [Wagonische Sprache]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Wagonische_Sprache)
 
 Die Wagonen sehen aus wie Marsmenschen: Sie sind grün, besitzen rundliche Schädel und einen menschenähnlichen Körperbau, der lang gestreckt und dünn wirkt. Ihre Finger sind fast doppelt so lang wie die von Menschen. Ihre Augen scheinen immer etwas gelblich zu leuchten und sie besitzen keine Körperbehaarung. Wagonen sind zwar nicht unsterblich, werden aber Tausende von Jahren alt. Bekleidet sind sie meistens mit weißen, engen Overalls.
 

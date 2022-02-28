@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Buschraub/Swip
+permalink: /Abenteuer/Buschraub/SWIP
 title: SWIP
 ---
 

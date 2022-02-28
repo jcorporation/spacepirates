@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Ostern/Loesung
+permalink: /Abenteuer/Ostern/Lösung
 title: Lösungsmöglichkeiten
 ---
 

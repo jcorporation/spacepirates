@@ -6,7 +6,7 @@ title: Starnet
 
 # Starnet
 
-- [Beliebte Starnetsendungen]({{ site.baseurl }}/Weltraum/Technologie/Starnet_sendungen)
+- [Beliebte Starnetsendungen]({{ site.baseurl }}/Weltraum/Technologie/Starnet-Sendungen)
 
 Das Starnet ist das beliebteste und größte frei zugängliche Datennetz im SpacePirates-Universum. Jeder, der wichtig ist oder sich für wichtig hält, hat eine eigene Starnetpräsenz. Daher ist das Starnet der erste Anlaufpunkt, wenn man etwas herausfinden will.
 
@@ -17,4 +17,3 @@ Aber auch ehemals autarke Netze, etwa für Rundfunk oder Telefonie, sind im Star
 Natürlich finden sich im Starnet nicht nur legale Dinge und freundliche Leute. Es ist auch voll von Hackern und Crackern, die versuchen, in abgeschottete Systeme einzubrechen, Konzerne zu erpressen oder geheime Unterlagen zu veröffentlichen. Daher ist das Starnet stets eine gute Informationsquelle für Piraten, die Informationen über einen Auftraggeber oder zu einem dubiosen Auftrag brauchen.
 
 Egal wie nützlich oder gefährlich das Starnet auch ist, hauptsächlich ist es eine allgegenwärtige, von großen Medienkonzernen gesteuerte Unterhaltungs- und Werbemaschinerie. Auf jedem Computerterminal blinkt Werbung der großen Medienkonzerne, auf großen digitalen Bannern laufen Werbespots für extreme Unterhaltungsshows mit B-Promis. Und natürlich sind sämtliche Zugänge mit großen Datenbanken verbunden, in denen sämtliche Vorlieben und Geheimnisse eines Menschen miteinander verknüpft werden.
-

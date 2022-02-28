@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/SpaceWorms/Agrarplaneten
+permalink: /Weltraum/Aliens/SpaceWorms/Agrarplaneten/
 title: Agrarplaneten
 ---
 

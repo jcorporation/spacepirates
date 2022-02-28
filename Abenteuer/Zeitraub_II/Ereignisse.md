@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub_2/Ereignisse
+permalink: /Abenteuer/Zeitraub_II/Ereignisse
 title: Ereignisse
 ---
 

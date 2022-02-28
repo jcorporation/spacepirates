@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/SpaceRocker/SpaceAngels
+permalink: /Weltraum/SpaceRocker/SpaceAngels/
 title: SpaceAngels
 sitedata:
     Organisationen:

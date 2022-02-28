@@ -35,7 +35,7 @@ Der Halloween-Nebel ist recht dicht, so dass die Sensoren des Raumschiffs nur ei
 
 ## Kürbis-Station
 
-Im Zentrum des Nebels befindet sich eine Raumstation die in einen kleinen Planeten in der Form eines großen Halloweenkürbisses integriert ist. Die Raumstation wurde von den [Glukorianern]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer) erbaut und ist zugleich die Ursache des Nebels.
+Im Zentrum des Nebels befindet sich eine Raumstation die in einen kleinen Planeten in der Form eines großen Halloweenkürbisses integriert ist. Die Raumstation wurde von den [Glukorianern]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/) erbaut und ist zugleich die Ursache des Nebels.
 
 {% include raumstation.md data=page.sitedata.Raumstationen.Kuerbis-Station %}
 

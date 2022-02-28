@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub_2/Javar3
+permalink: /Abenteuer/Zeitraub_II/Javar_3
 title: Auf Javar 3
 ---
 

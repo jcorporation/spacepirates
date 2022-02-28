@@ -16,4 +16,4 @@ sitedata:
 
 # Captain Rogers
 
-Captain Rogers hat quasi das Monopol auf Rum und ist auf dem Planeten [Cygni Tek]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/Cygnitek) im kahadrischen Reich beheimatet.
+Captain Rogers hat quasi das Monopol auf Rum und ist auf dem Planeten [Cygni Tek]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/Cygni_Tek) im kahadrischen Reich beheimatet.

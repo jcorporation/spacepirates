@@ -10,10 +10,10 @@ Die Freihandelszone ist der Dreh- und Angelpunkt aller Abenteuer bei SpacePirate
 
 Innerhalb der Freihandelszone wird lediglich eine 10%ige Umsatzsteuer erhoben, welche automatisch von den Banken bei der Überweisung eingezogen wird. Ansonsten gibt es weder Steuern, die den Handel betreffen, noch Zölle. Wer seine Steuern bezahlt, wird vom Handelsrat in Ruhe gelassen, egal, was er verkauft oder kauft.
 
-Wie der Name Freihandelszone bereits andeutet, ist der Handel ihr Lebenselixier. Die [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/) dominieren den Handel, aber auch [Menschen]({{ site.baseurl }}/Weltraum/Menschen/) und andere [Außerirdische]({{ site.baseurl }}/Weltraum/Aliens/) bringen fähige Händler hervor. Die größten Marktplätze der Freihandelszone sind [Stratum Nova]({{ site.baseurl }}/Weltraum/Freihandelszone/Stratumnova) und [Kozel 5]({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel5), aber [Scrabnambu]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Scrabnambu) holt dank des Schrottplatzes mehr und mehr auf. Der Handel wird von großen [Konzernen]({{ site.baseurl }}/Weltraum/Konzerne/) und mächtigen Handelsgesellschaften beherrscht, aber daneben üben auch [Politik]({{ site.baseurl }}/Weltraum/Politische_Lage) und spezialisierte kleinere Händler einigen Einfluss aus.
+Wie der Name Freihandelszone bereits andeutet, ist der Handel ihr Lebenselixier. Die [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/) dominieren den Handel, aber auch [Menschen]({{ site.baseurl }}/Weltraum/Menschen/) und andere [Außerirdische]({{ site.baseurl }}/Weltraum/Aliens/) bringen fähige Händler hervor. Die größten Marktplätze der Freihandelszone sind [Stratum Nova]({{ site.baseurl }}/Weltraum/Freihandelszone/Stratum_Nova) und [Kozel 5]({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel_5), aber [Scrabnambu]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Scrabnambu) holt dank des Schrottplatzes mehr und mehr auf. Der Handel wird von großen [Konzernen]({{ site.baseurl }}/Weltraum/Konzerne/) und mächtigen Handelsgesellschaften beherrscht, aber daneben üben auch [Politik]({{ site.baseurl }}/Weltraum/Politische_Lage/) und spezialisierte kleinere Händler einigen Einfluss aus.
 
-- [Banken und Währung]({{ site.baseurl }}/Weltraum/Freihandelszone/Banken)
+- [Banken und Währung]({{ site.baseurl }}/Weltraum/Freihandelszone/Währungen_und_Banken)
 - [Galaktischer Handelsrat]({{ site.baseurl }}/Weltraum/Freihandelszone/Handelsrat)
-- [Space-Steuerfahnder]({{ site.baseurl }}/Weltraum/Freihandelszone/Space-Steuerfahnder)
+- [Space-Steuerfahnder]({{ site.baseurl }}/Weltraum/Freihandelszone/Space-Steuerfahnder/)
 
 {% include sektorinfo.md data=page.title %}

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung
+permalink: /Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung
 title: Giftmüllentsorgung
 ---
 

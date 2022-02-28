@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Raumschiffdungeon/Sektoren
+permalink: /Abenteuer/Raumschiffdungeon/Sektoren/
 title: Sektoren
 ---
 

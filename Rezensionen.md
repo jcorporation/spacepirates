@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Rezensionen.md
+permalink: /Rezensionen
 title: Rezensionen, Vorstellungen und Spielberichte
 ---
 

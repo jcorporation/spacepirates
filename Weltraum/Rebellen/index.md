@@ -36,7 +36,7 @@ Anna und Javier Moretti sind die gemeinsamen Anführer der Rebellen. Sie sind in
 
 Javier war ein ranghohes Mitglied des Militärs des Handelsrats und kennt daher viele Internas und Standardvorgehensweise. Zudem hat er noch den ein oder anderen guten Kontakt in den unteren Rängen.
 
-Anna ist die Tochter eines [italienischen Mafiabosses]({{ site.baseurl }}/Weltraum/SpaceMafia/Italienische) und hat ein dementsprechendes südländisches Temperament. Sie kam schon früh mit Korruption in Kontakt und hat sich mit ihrer Familie verstritten.
+Anna ist die Tochter eines [italienischen Mafiabosses]({{ site.baseurl }}/Weltraum/SpaceMafia/Italienische_Mafia/) und hat ein dementsprechendes südländisches Temperament. Sie kam schon früh mit Korruption in Kontakt und hat sich mit ihrer Familie verstritten.
 
 {% include slc.md data=page.sitedata.Slc.Anna_Moretti %}
 {% include slc.md data=page.sitedata.Slc.Javier_Moretti %}

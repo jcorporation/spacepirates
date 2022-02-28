@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Die_Karte_nach_Atlantis/Omabinkel
+permalink: /Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel
 title: Oma Binkel
 ---
 

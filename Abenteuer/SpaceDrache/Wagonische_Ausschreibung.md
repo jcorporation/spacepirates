@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/SpaceDrache/Wagonischeausschreibung
+permalink: /Abenteuer/SpaceDrache/Wagonische_Ausschreibung
 title: Wagonische Ausschreibung
 ---
 

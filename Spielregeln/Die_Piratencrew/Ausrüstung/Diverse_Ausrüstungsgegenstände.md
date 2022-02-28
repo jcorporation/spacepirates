@@ -61,6 +61,8 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 <tr><td>Cyberpapagei</td><td>keinen</td><td>0</td></tr>
 <tr><td>Diktierpapagei</td><td>keinen</td><td>100</td></tr>
 <tr><td>Medipapagei</td><td>Voraussetzung für medizinische Versorgung</td><td>300</td></tr>
+<tr><td>Multitool-Hakenhand</td><td>P+1 auf Tech</td><td>550</td></tr>
+<tr><td>Multitool-Hakenhand PRO</td><td>P+1 auf Tech, P+1 auf Pilot</td><td>1600</td></tr>
 <tr><td>Putzpapagei</td><td>keinen</td><td>100</td></tr>
 <tr><td>Rum</td><td>keinen</td><td>0</td></tr>
 <tr><td>Werkzeugpapagei</td><td>P+1 auf Tech</td><td>550</td></tr>

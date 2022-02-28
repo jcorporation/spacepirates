@@ -1,18 +1,14 @@
 ---
 layout: page
-permalink: /Wiki/Sprachen_wagonisch
+permalink: /Weltraum/Aliens/Wagonen/Wagonische_Sprache
 title: Wagonisch
 ---
 
-
 # Wagonisch
-
 
 Wenn man bedenkt wie kompliziert die Bürokratie der Wagonen wirkt, ist *Wagonisch* erstaunlich leicht.
 
 Hier werde ich die grundsätzliche Grammatik und ein paar Wörter zeigen, um leichte Sätze auf Wagonisch zu bilden.
-
-(Bei Anmerkungen, Kritik und Verbesserungen bitte einfach verbessern oder eine Email an sirericson@web.de schreiben.)
 
 ## Grammatik
 
@@ -22,10 +18,9 @@ Wagonische Verben enden immer auf einen Vokal. An diesen wird einfach die entspr
 
 #### Ausnahmen
 
-<ol>
-- Bei der Imperativ Bildung wird die Endung nicht an den Vokal angehängt, sondern der Vokal durch die Endung ersetzt.
-- Manche Verben haben noch ein *h* nach dem Vokal, dieser wird einfach zum Vokal hinzugezählt und ignoriert.
-</ol>
+1. Bei der Imperativ Bildung wird die Endung nicht an den Vokal angehängt, sondern der Vokal durch die Endung ersetzt.
+2. Manche Verben haben noch ein *h* nach dem Vokal, dieser wird einfach zum Vokal hinzugezählt und ignoriert.
+
 #### Verwendungen
 
 <table>
@@ -43,7 +38,9 @@ Wagonische Verben enden immer auf einen Vokal. An diesen wird einfach die entspr
 <tr><td>Imperativ Plural</td><td>--</td><td>geht!</td><td>it</td><td>gedit</td></tr>
 </tbody>
 </table>
+
 **Bespielsatz:**
+
 - Wej fedahn eduk Freeport!
 - Wir fliegen nach Freeport!
 
@@ -73,5 +70,6 @@ Dieser „Übersetzer“ ist nur für Wörter und nicht für Sätze gedacht!!!
 
 Wörterbuch: [https://lingojam.com/Wagonisch](https://lingojam.com/Wagonisch)
 
+***
 
-
+Autor: sirericson@web.de

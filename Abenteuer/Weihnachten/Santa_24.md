@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Weihnachten/Santa24
+permalink: /Abenteuer/Weihnachten/Santa_24
 title: Santa 24
 ---
 

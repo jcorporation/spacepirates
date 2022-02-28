@@ -1,6 +1,6 @@
 ---
 layout: sternensystem
-permalink: /Weltraum/Freihandelszone/System_der_Träume
+permalink: /Weltraum/Freihandelszone/System_der_Träume/
 title: System der Träume
 sitedata:
     Sternensysteme:
@@ -24,7 +24,7 @@ Ein riesiges Metallgebilde umschließt die Sonne des Systems der Träume, natür
 ## Planeten
 
 - [Sandalien]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Sandalien)
-- [Der Rote Planet]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Der_rote_Planet)
+- [Der Rote Planet]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Der_Rote_Planet)
 - [Bollywood]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Bollywood)
 - [Hollywood]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Hollywood)
 - [Serius 80]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Serius_80)

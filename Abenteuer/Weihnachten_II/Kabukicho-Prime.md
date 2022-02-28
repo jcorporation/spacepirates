@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Weihnachten_2/Kabukichoprime
+permalink: /Abenteuer/Weihnachten_II/Kabukicho-Prime
 title: Kabukicho-Prime
 ---
 

@@ -21,4 +21,3 @@ Denta 4 ist ein Planet in Backenzahnform.
 <tr><th>Politisches</th><td>Heimatplanet der Kariesaner</td></tr>
 </tbody>
 </table>
-<div id="_firebugConsole"> </div>

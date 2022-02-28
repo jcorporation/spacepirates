@@ -18,7 +18,7 @@ sitedata:
 
 Innerhalb einer Quantenfluktuation bilden sich spontan Teilchen aus dem Nichts und lösen sich genauso schnell auch wieder auf. Hier kann für einen kleinen Augenblick einfach alles entstehen.
 
-Die Quantenfluktuation im [Sternenrepublik Neuasien]({{ site.baseurl }}/Sektor D3]({{ site.baseurl }}/Weltraum/Sektoren/D3/) ist mir der in der )({{ site.baseurl }}/Weltraum/Menschen/Neuasien) verschränkt. Das bedeutet, dass alles was in einem Sektor geschieht, auch völlig zeitgleich im anderen Sektor geschieht. So ist ein Raumschiff innerhalb einer Quantenfluktuation gleichzeitig in beiden Quantenfluktuationen und nirgends. Sobald aber jemand versucht herauszubekommen, wo das Raumschiff ist, entscheidet sich der Ort des Raumschiffs spontan.
+Die Quantenfluktuation im [Sektor D3]({{ site.baseurl }}/Weltraum/Sektoren/D3/) ist mir der in der [Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/) verschränkt. Das bedeutet, dass alles was in einem Sektor geschieht, auch völlig zeitgleich im anderen Sektor geschieht. So ist ein Raumschiff innerhalb einer Quantenfluktuation gleichzeitig in beiden Quantenfluktuationen und nirgends. Sobald aber jemand versucht herauszubekommen, wo das Raumschiff ist, entscheidet sich der Ort des Raumschiffs spontan.
 
 ## Quantenfischen
 

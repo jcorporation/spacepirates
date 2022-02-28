@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/SpaceDrache/Johnmarric
+permalink: /Abenteuer/SpaceDrache/John_Marric
 title: John Marric
 ---
 

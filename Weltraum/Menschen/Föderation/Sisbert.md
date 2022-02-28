@@ -17,4 +17,4 @@ sitedata:
 
 # Sisbert
 
-Sisbert ist im Besitz von [Raumschiff &amp; Co ]({{ site.baseurl }}/Weltraum/Konzerne/Raumschiff_und_Co)und besitzt gigantische, geostationäre Raumhäfen.
+Sisbert ist im Besitz von [Raumschiff &amp; Co ]({{ site.baseurl }}/Weltraum/Konzerne/Raumschiff_und_Co_)und besitzt gigantische, geostationäre Raumhäfen.

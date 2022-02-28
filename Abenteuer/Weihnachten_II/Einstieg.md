@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Weihnachten_2/Einstieg
+permalink: /Abenteuer/Weihnachten_II/Einstieg
 title: Einstieg
 ---
 

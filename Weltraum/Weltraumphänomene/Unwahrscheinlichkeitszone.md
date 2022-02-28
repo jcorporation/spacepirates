@@ -24,7 +24,7 @@ Allen Wahrscheinlichkeitsrechnungen zum Trotz gibt es sie: die Unwahrscheinlichk
 <tbody>
 <tr><td>1</td><td>Alle Koordinaten, die der Bordcomputer berechnet zeigen in die entgegengesetzte Richtung.</td></tr>
 <tr><td>2</td><td>Die KI des Raumschiffs verliebt sich in ein Besatzungsmitglied.</td></tr>
-<tr><td>3</td><td>Eine zufällige Macke der [Mackentabelle]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffmacken) tritt ein.</td></tr>
+<tr><td>3</td><td>Eine zufällige Macke der [Mackentabelle]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken) tritt ein.</td></tr>
 <tr><td>4</td><td>Aus allen Schächten fallen Murmeln, man kann nur noch laufen wenn man 2 Erfolge auf Söldner schafft.</td></tr>
 <tr><td>5</td><td>Der Computer bläst überall große, kaum zerstörbare Luftblasen aus.</td></tr>
 <tr><td>6</td><td>Ein Betunientopf und ein verdutzter Wal fliegen auf das Raumschiff zu.</td></tr>

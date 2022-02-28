@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Wagonian_Wedding/Baeaemler
+permalink: /Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler
 title: "Auftritt: Der Teufel trägt Bäämler"
 ---
 

@@ -15,13 +15,16 @@ sub checklink {
         if ($file =~ /\/$/) {
             $file .= "index";
         }
-        if (not $file =~ /\.(pdf|png|jpg|svg)$/) {
+        if (not $file =~ /\.(pdf|png|jpg|svg|js)$/) {
             $file .= ".md";
         }
         if (not -f $file) {
             print "$checkfile:$line - Invalid link: \"$file\" (file not found)\n";
             $rc = 1;
         }
+    }
+    elsif ($href =~ /^\{\{ site\.baseurl \}\}\{\{.*$/) {
+        #ok
     }
     else {
         print "$checkfile:$line - Invalid link: \"$href\" (missing {{ site.baseurl }}/)\n";

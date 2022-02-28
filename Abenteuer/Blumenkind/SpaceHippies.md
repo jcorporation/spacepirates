@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Blumenkind/Spacehippies
+permalink: /Abenteuer/Blumenkind/SpaceHippies
 title: SpaceHippies
 ---
 

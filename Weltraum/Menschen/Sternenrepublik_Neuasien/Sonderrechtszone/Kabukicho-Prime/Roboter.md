@@ -8,12 +8,11 @@ sitedata:
         Humanozentrische_Befreiungsfront:
             Name: Humanozentrische Befreiungsfront
             Kategorie: Gewerkschaft
-
 ---
 
 # Roboter
 
-Roboter sind in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime_neuneotokio) allgegenwärtig, ohne sie wäre die Stadt nicht sie selbst. Man sieht sie überall: Sie reinigen Straßen und Gehwege, bewachen Geschäfte, tragen Gepäck und Waren oder geben Auskunft. Die Roboterbegeisterung ist so groß, dass oftmals lebendige Arbeiter als Roboter verkleidet werden, wenn der Einsatz echter Roboter zu teuer wäre. Richtige Menschen sieht man eigentlich nur in Position, wo es auf Empathie oder gutes Aussehen ankommt.
+Roboter sind in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio) allgegenwärtig, ohne sie wäre die Stadt nicht sie selbst. Man sieht sie überall: Sie reinigen Straßen und Gehwege, bewachen Geschäfte, tragen Gepäck und Waren oder geben Auskunft. Die Roboterbegeisterung ist so groß, dass oftmals lebendige Arbeiter als Roboter verkleidet werden, wenn der Einsatz echter Roboter zu teuer wäre. Richtige Menschen sieht man eigentlich nur in Position, wo es auf Empathie oder gutes Aussehen ankommt.
 
 Die KI-Forschung ist in Neu-Neo-Tokio weiter vorangeschritten als im Rest des Universums, weshalb die hiesigen Roboter eine gewisse Grundintelligenz besitzen und eigenständig handeln können. Ihr Handlungsspielraum soll zwar laut Vorgabe der [neuasiatischen Zentralregierung]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/) durch die asimowschen Gesetze beschränkt werden, aber aufgrund von Korruption und Kostendruck werden oft fehlerhafte Kontrollchips verwendet, weshalb es immer wieder zu Roboteraufständen kommt.
 

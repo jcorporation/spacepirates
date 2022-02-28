@@ -31,6 +31,6 @@ Die größte Stadt und Sitz des Handelsrates ist Taron City, sie befindet sich a
 
 Diese Stadt ist die Heimat vieler Politiker, Repräsentanten, Lobbyisten und Vertreter mächtiger Konzerne. Niemand der irgendwie von der Freihandelszone abhängig ist, kann es sich leisten, nicht ab und an in Taron City present zu sein und wichtige Hände zu schütteln. Normale Bürger, die nicht mit dem Regierungsapparat in Kontakt stehen gibt es kaum. Daher gibt es auch außergewöhnlich selten Demonstrationen in Taron City.
 
-Direkt vor Taron City befindet sich das [Hauptquartier der Space-Steuerfahnder]({{ site.baseurl }}/Weltraum/Freihandelszone/Spacesteuerfahnder/Hauptquartier).
+Direkt vor Taron City befindet sich das [Hauptquartier der Space-Steuerfahnder]({{ site.baseurl }}/Weltraum/Freihandelszone/Space-Steuerfahnder/Hauptquartier).
 
 {% include stadt.md data=page.sitedata.Staedte.Taron_City %}
