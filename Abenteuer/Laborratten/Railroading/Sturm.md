@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Laborratten/Railroading_sturm
+permalink: /Abenteuer/Laborratten/Railroading/Sturm
 title: "Szene 1: Der Sturm"
 ---
 
@@ -20,8 +20,7 @@ Sobald sich die Charaktere einigermaßen orientiert haben, zieht auch schon ein 
 
 **Sobald die Szene ihren dramatischen Höhepunkt erreicht macht es *SWITCH* und die Charaktere befinden sich inmitten der nächsten Szene.**
 
-
 ***
-- **Zurück: **[Railroading auf dem Schiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading.html)
-- **Weiter: **[Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading_schatzinsel.html)
 
+- **Zurück: **[Railroading auf dem Schiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/)
+- **Weiter: **[Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Schatzinsel)

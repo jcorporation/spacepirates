@@ -15,15 +15,13 @@ Im Inneren des fremden Raumschiffs finden sich die Charaktere in einem Holodeck 
 ## Inhalt
 
 - [Einstieg]({{ site.baseurl }}/Abenteuer/Laborratten/Einstieg)
-<li>[Railroading auf dem Raumschiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading)
-- [Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading_sturm)
-- [Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading_schatzinsel)
-- [Hafen]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading_hafen)
-
-</li>
-- [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Loesung)
+- [Railroading auf dem Raumschiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading)
+  - [Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Sturm)
+  - [Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Schatzinsel)
+  - [Hafen]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Hafen)
+- [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Lösung)
 - [Dahinter]({{ site.baseurl }}/Abenteuer/Laborratten/Dahinter)
 
 ## Download
 
-[v2/abenteuer/laborratten]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Laborratten/Railroading_schatzinsel
+permalink: /Abenteuer/Laborratten/Railroading/Schatzinsel
 title: "Szene 2: Schatzinsel"
 ---
 
@@ -26,8 +26,7 @@ Am Tag der Opferung werden die Holzkäfig mit den Charakteren in eine nahe geleg
 
 **Sobald die Opferung ihren Höhepunkt erreicht macht es *SWITCH* und die Charaktere befinden sich inmitten der nächsten Szene.**
 
-
 ***
-- **Zurück:** [Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading_sturm.html)
-- **Weiter:** [Hafen]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading_hafen.html)
 
+- **Zurück:** [Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Sturm)
+- **Weiter:** [Hafen]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Hafen)

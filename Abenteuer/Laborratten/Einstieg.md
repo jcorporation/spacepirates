@@ -25,6 +25,7 @@ Die Charaktere entdecken im Trullimperium, in der Nähe der großen Plasmastürm
 <tr><th>Bewaffnung</th><td>Laserkanone: WB 2, SM 1</td></tr>
 </tbody>
 </table>
+
 - Das Raumschiff ist ein großer Raumkreuzer unbekannter Herkunft und Bauweise
 - Es gehen keine Energiesignaturen vom Raumschiff aus, es liegt aber dennoch stabil im Raum
 - Man kann keine Bewaffnung erkennen
@@ -35,7 +36,6 @@ Der Eingang des Raumschiffs verschwindet, sobald der letzte Pirat das fremde Rau
 
 Natürlich sind die Charaktere im fremden Raumschiff angekommen und nicht in der Zeit zurückgereist. Dieses Raumschiff simuliert mit unbekannter Holotechnik das irdische 17. Jahrhundert bis in das kleinste Detail. Die Erbauer scheinen wohl zu viele alte Piratenfilme geschaut zu haben.
 
-
 ***
-- **Weiter: **[Railroading auf dem Raumschiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading.html)
 
+- **Weiter:** [Railroading auf dem Raumschiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading)

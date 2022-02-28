@@ -24,6 +24,7 @@ Die Kabinen sind leer und auch auf den Gängen entdecken die Charaktere niemande
 <tr><th>Zähigkeit</th><td>4</td><td>4</td><td>4</td><td>4</td></tr>
 </tbody>
 </table>
+
 ### Sinn der Operation
 
 Das Ganze ist ein glukorianisches Regierungsprojekt zur näheren Erforschung der Menschheit, dass die Glukorianer die Menschen nicht viel intelligenter als Labormäuse einschätzen ist bekannt.
@@ -52,5 +53,5 @@ Entweder die Charaktere überwältigen die Glukorianer auf ihrem eigenen Schiff 
 </table>
 
 ***
-- **Zurück:** [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Loesung.html)
 
+- **Zurück:** [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Lösung)
