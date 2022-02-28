@@ -1,7 +1,20 @@
 ---
 layout: page
-permalink: /Abenteuer/Rache_des_Akamachi-Clans/Anschlag2
+permalink: /Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag
 title: Zweiter Anschlag
+sitedata:
+    Slc:
+        Tanaka_Mei:
+            Name: "Tanaka Mei"
+            Rasse: "Neuasiat"
+            Kategorie: "Ninja"
+            Wohnort: "Neu-Neo-Tokio"
+            SOELDNER: "6"
+            TECH: "2"
+            PILOT: "2"
+            HAENDLER: "4"
+            Zaehigkeit: "4"
+            Position: ""
 ---
 
 # Zweiter Anschlag
@@ -20,27 +33,13 @@ Ihre Kleidung und ihr Benehmen entsprechen dem einer edlen Dame. Sie trägt eine
 
 „Long Mei“ wird die Piraten auch dann zu kontaktieren versuchen, wenn diese schon herausgefunden haben, wo die Zentrale der Akamachis liegt. Sollte es zu keinem Treffen kommen, so wird sie die Piraten als Sekretärin in der Fabrik willkommen heißen und herumführen. In diesem Fall setzt sie ihr Parfüm natürlich ein, wenn die Piraten von den anderen Ninjas angegriffen werden und enttarnt sich erst hinterher als gefährliche Ninja.
 
-<table data-type="slc">
-<caption>Tanaka Mei</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</td></tr>
-<tr><th>Kategorie</th><td>[Ninja]({{ site.baseurl }}/Weltraum/Spaceninjas)</td></tr>
-<tr><th>Wohnort</th><td>[Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime_neuneotokio)</td></tr>
-<tr><th>SÖLDNER</th><td>6</td></tr>
-<tr><th>TECH</th><td>2</td></tr>
-<tr><th>PILOT</th><td>2</td></tr>
-<tr><th>HÄNDLER</th><td>4</td></tr>
-<tr><th>Zähigkeit</th><td>4</td></tr>
-<tr><th>Bewaffnung</th><td>Ionisierter Wurfdolch: P+1<br/>
-Ninjaschwert: P+0</td></tr>
-</tbody>
-</table>
+{% include slc_profile.md data=page.sitedata.Slc.Tanaka_Mei %}
+
 ### Giftiges Parfum
 
 Dieses Parfüm wirkt tatsächlich so, wie es in der Werbung angepriesen wird. Jeder, der damit besprüht wird, muss eine Probe auf PILOT ablegen. Sollte dabei kein oder nur ein Erfolg erzielt werden, so ist der Betroffene Tanaka Mei vollkommen verfallen und tut alles, was sie sagt. Bei zwei Erfolgen erhält man einen Malus von 2 auf alle Proben, bei drei Erfolgen einen Malus von 1. Ab vier Erfolgen hat das Parfüm keine Auswirkungen mehr.
 
-
 ***
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Rachedesakamachiclans/Nachforschungen)
-- **Weiter:** [Endkampf]({{ site.baseurl }}/Abenteuer/Rachedesakamachiclans/Endkampf)
 
+- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen)
+- **Weiter:** [Endkampf]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Endkampf)

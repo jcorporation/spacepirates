@@ -92,7 +92,7 @@ Die Piraten kommen zufällig in den Besitz einer Spezial-Pizza des Hashimara-Cla
 
 Ein Ninjaanschlag auf die Piratengruppe wird verübt. Die Nachforschungen bringen sie nach Kabukicho-Prime, dem Ninja-Planet in der Sternenrepublik Neuasiens. Dieses Abenteuer greift einen Faden des Schatzjagd Abenteuers auf.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Rachedesakamachiclans/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/)
 
 ## Raumschiffdungeon
 

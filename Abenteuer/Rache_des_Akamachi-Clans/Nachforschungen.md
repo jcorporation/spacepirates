@@ -30,6 +30,6 @@ Trotzdem kann es den Piraten gelingen, zu überleben und das Hauptquartier der N
 
 
 ***
-- **Zurück:** [Anschlag]({{ site.baseurl }}/Abenteuer/Rachedesakamachiclans/Anschlag)
-- **Weiter:** [Zweiter Anschlag]({{ site.baseurl }}/Abenteuer/Rachedesakamachiclans/Anschlag2)
+- **Zurück:** [Anschlag]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Anschlag)
+- **Weiter:** [Zweiter Anschlag]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Anschlag2)
 

@@ -2,6 +2,14 @@
 layout: page
 permalink: /Abenteuer/Rache_des_Akamachi-Clans/Endkampf
 title: Endkampf
+sitedata:
+        Sha_Dong:
+            Name: "Sha Dong"
+            SOELDNER: "6"
+            TECH: "2"
+            PILOT: "2"
+            HAENDLER: "6"
+            Zaehigkeit: "4"
 ---
 
 # Endkampf
@@ -25,22 +33,13 @@ Shurikenwerfer: WB 1<br/>
 Rauchbomben: WB 0</td></tr>
 </tbody>
 </table>
+
 ### Sha Dong
 
 Sha Dong ist das weise alte Oberhaupt des Akamachi-Clans. Wie alle Ninjas wird der mit dem Alter aber nur gefährlicher, weil er mehr geheime Ninja-Kampftechniken kennt. Er wird in den Kampf eingreifen, wenn er das Gefühl hat, seine Schüler seien dabei, zu verlieren.
 
-<table>
-<tbody>
-<tr><th colspan="2">Sha Dong</th></tr>
-<tr><th>SÖLDNER</th><td>6</td></tr>
-<tr><th>TECH</th><td>2</td></tr>
-<tr><th>PILOT</th><td>2</td></tr>
-<tr><th>HÄNDLER</th><td>6</td></tr>
-<tr><th>Zähigkeit</th><td>4</td></tr>
-<tr><th>Bewaffnung</th><td colspan="1" rowspan="1">Ninjaschwert: WB 1</td></tr>
-</tbody>
-</table>
+{% include slc_profile.md data=page.sitedata.Slc.Sha_Dong %}
 
 ***
-- **Zurück:** [Zweiter Anschlag]({{ site.baseurl }}/Abenteuer/Rachedesakamachiclans/Anschlag2)
 
+- **Zurück:** [Zweiter Anschlag]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag)

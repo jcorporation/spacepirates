@@ -34,7 +34,6 @@ Rauchbomben: WB 0</td></tr>
 </tbody>
 </table>
 
-
 ***
-- **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Rachedesakamachiclans/Nachforschungen)
 
+- **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen)
