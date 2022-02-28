@@ -10,7 +10,6 @@ Für die Weihnachtsfeier wurden natürlich keine Mühen und Kosten gescheut. Oma
 
 Haben die Piraten den falschen Weihnachtsmann nach Two-Eyed-Jack gebracht, wird die Bombe im großen Geschenkesack bei der Weihnachtsfeier hochgehen und die komplette Raumstation zerstören.
 
-
 ***
-- **Zurück:** [Eskorte]({{ site.baseurl }}/Abenteuer/Weihnachten/Eskorte)
 
+- **Zurück:** [Eskorte]({{ site.baseurl }}/Abenteuer/Weihnachten/Eskorte)

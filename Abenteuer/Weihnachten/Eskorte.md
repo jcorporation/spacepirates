@@ -11,8 +11,8 @@ Der Weihnachtsmann fliegt natürlich auf seinem Schlitten nach Two-Eyed-Jack und
 Hinter dem Wurmloch kommt gerade ein glukorianisches Raumschiff an, als Ablösung der Glukorianer auf Santa 24. Es wird ohne Umschweife auf die Piraten schießen und versuchen, den Weihnachtsmann zu kidnappen. Die Glukorianer verfügen dazu über einen einziehbaren Abschlepphaken, den sie auf den Schlitten des Weihnachtsmanns abfeuern.
 
 <table>
+<caption>Glukorianerschiff</caption>
 <tbody>
-<tr><th colspan="2">Glukorianerschiff</th></tr>
 <tr><th>Pilotenwert</th><td>6</td></tr>
 <tr><th>Techwert</th><td>5</td></tr>
 <tr><th>Söldnerwert</th><td>6</td></tr>
@@ -27,12 +27,12 @@ Hinter dem Wurmloch kommt gerade ein glukorianisches Raumschiff an, als Ablösun
 <tr><th>Bewaffnung</th><td>2 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
+
 Die restliche Reise nach Two-Eyed Jack verläuft ohne nennenswerte Probleme, sieht man mal von den Weltraumpflegern ab, die kurz vor dem Brabengürtel den Weihnachtsmann aufsuchen, um ihn von ihrer Sache zu überzeugen und versuchen, ihn als Frontmann einer großen Werbekampagne zu gewinnen.
 
 Falls die Piraten den falschen Weihnachtsmann bis hierher eskortiert haben, dann fällt den Weltraumpflegern die Bombe im Geschenkesack auf und sie warnen die Piraten.
 
-
 ***
-- **Zurück:** [Knecht Ruprecht]({{ site.baseurl }}/Abenteuer/Weihnachten/Knechtruprecht.html)
-- **Weiter:** [Weihnachtsfeier]({{ site.baseurl }}/Abenteuer/Weihnachten/Weihnachtsfeier.html)
 
+- **Zurück:** [Knecht Ruprecht]({{ site.baseurl }}/Abenteuer/Weihnachten/Knecht_Ruprecht)
+- **Weiter:** [Weihnachtsfeier]({{ site.baseurl }}/Abenteuer/Weihnachten/Weihnachtsfeier)

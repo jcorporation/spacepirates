@@ -1,7 +1,20 @@
 ---
 layout: page
-permalink: /Abenteuer/Weihnachten/Knechtruprecht
+permalink: /Abenteuer/Weihnachten/Knecht_Ruprecht
 title: Knecht Ruprecht
+sitedata:
+    Slc:
+        Knecht_Ruprecht:
+            Name: "Knecht Ruprecht"
+            Rasse: "Glukorianer"
+            Kategorie: ""
+            Wohnort: "Santa 24"
+            SOELDNER: "7"
+            TECH: "3"
+            PILOT: "5"
+            HAENDLER: "7"
+            Zaehigkeit: "4"
+            Bewaffnung: "Laserrute: P+2"
 ---
 
 # Knecht Ruprecht
@@ -17,8 +30,8 @@ Genau auf der anderen Seite des Planeten besitzt Knecht Ruprecht eine altertüml
 Es sind insgesamt 12 Glukorianerwächter in der Burg, die mit Laserpistolen bewaffnet sind. Die Türme sind mit jeweils einem Glukorianer und der Hauptturm mit 2 besetzt. Ein weiterer Glukorianer spielt Gefängniswärter und einer schraubt gerade am einsatzfähigen Hypergleiter herum. Die restlichen 4 Glukorianer lungern irgendwo im Hauptgebäude herum.
 
 <table>
+<caption>Glukorianerwächter</caption>
 <tbody>
-<tr><th colspan="2">Glukorianerwächter</th></tr>
 <tr><th>SÖLDNER</th><td>6</td></tr>
 <tr><th>TECH</th><td>3</td></tr>
 <tr><th>PILOT</th><td>2</td></tr>
@@ -27,18 +40,18 @@ Es sind insgesamt 12 Glukorianerwächter in der Burg, die mit Laserpistolen bewa
 <tr><th>Bewaffnung</th><td>Laserpistole: WB 0</td></tr>
 </tbody>
 </table>
+
 ### Burgplan
 
-<img alt="Burg" src="{{ site.baseurl }}/assets/pics/spacepirates/abenteuer/weihnachten/burg.png" />
+<img alt="Burg" src="{{ site.baseurl }}/assets/images/abenteuer/weihnachten/burg.png" />
 
-<ol>
-- Türme mit Laserkanone
-- Hauptturm mit Zugbrücke und 2 Laserkanonen
-- Haupthaus, im Keller des rechten Flügels ist der Kerker
-- Garage
-- Wassergraben mit Krokodile
-- Innenhof
-</ol>
+1. Türme mit Laserkanone
+2. Hauptturm mit Zugbrücke und 2 Laserkanonen
+3. Haupthaus, im Keller des rechten Flügels ist der Kerker
+4. Garage
+5. Wassergraben mit Krokodile
+6. Innenhof
+
 ### Laserkanonen auf den Türmen
 
 <table>
@@ -49,27 +62,16 @@ Es sind insgesamt 12 Glukorianerwächter in der Burg, die mit Laserpistolen bewa
 <tr><td>Laserkanone</td><td>2</td><td>1</td></tr>
 </tbody>
 </table>
+
 ### Knecht Ruprecht
 
 Knecht Ruprecht befindet sich in seinem Arbeitszimmer, in dem er an weiteren bösen Plänen arbeitet. Die Flipcharts sind vollgekritzelt, überall liegen Sternenkarten und Baupläne von Bomben. Knecht Ruprecht ist mit einer Laserrute bewaffnet und ein extremer Feigling. Bei einem Angriff wird er sich in einem seiner Schränke verstecken.
 
-<table data-type="slc">
-<caption>Knecht Ruprecht</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer)</td></tr>
-<tr><th>Kategorie</th><td> </td></tr>
-<tr><th>Wohnort</th><td>[Santa 24]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Santa24)</td></tr>
-<tr><th>SÖLDNER</th><td>7</td></tr>
-<tr><th>TECH</th><td>3</td></tr>
-<tr><th>PILOT</th><td>5</td></tr>
-<tr><th>HÄNDLER</th><td>7</td></tr>
-<tr><th>Zähigkeit</th><td>4</td></tr>
-<tr><th>Bewaffnung</th><td>Laserrute: P+2</td></tr>
-</tbody>
-</table>
+{% include slc.md data=page.sitedata.Slc.Knecht_Ruprecht %}
+
 <table>
+<caption>Glukorianischer Hypergleiter</caption>
 <tbody>
-<tr><th colspan="2">Glukorianischer Hypergleiter</th></tr>
 <tr><th>Pilotenwert</th><td>6</td></tr>
 <tr><th>Techwert</th><td>5</td></tr>
 <tr><th>Söldnerwert</th><td>6</td></tr>
@@ -86,6 +88,6 @@ Knecht Ruprecht befindet sich in seinem Arbeitszimmer, in dem er an weiteren bö
 </table>
 
 ***
-- **Zurück:** [Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten/Santa24)
-- **Weiter:** [Eskorte]({{ site.baseurl }}/Abenteuer/Weihnachten/Eskorte)
 
+- **Zurück:** [Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten/Santa_24)
+- **Weiter:** [Eskorte]({{ site.baseurl }}/Abenteuer/Weihnachten/Eskorte)

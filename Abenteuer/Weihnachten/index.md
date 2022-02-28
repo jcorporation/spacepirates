@@ -13,11 +13,11 @@ Die Piraten bekommen den Auftrag, den Weihnachtsmann sicher zur großen Weihnach
 - [Auftrag]({{ site.baseurl }}/Abenteuer/Weihnachten/Auftrag)
 - [Weihnachtsmann]({{ site.baseurl }}/Abenteuer/Weihnachten/Weihnachtsmann)
 - [Treffpunkt]({{ site.baseurl }}/Abenteuer/Weihnachten/Treffpunkt)
-- [Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten/Santa24)
-- [Knecht Ruprecht]({{ site.baseurl }}/Abenteuer/Weihnachten/Knechtruprecht)
+- [Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten/Santa_24)
+- [Knecht Ruprecht]({{ site.baseurl }}/Abenteuer/Weihnachten/Knecht_Ruprecht)
 - [Eskorte]({{ site.baseurl }}/Abenteuer/Weihnachten/Eskorte)
 - [Weihnachtsfeier]({{ site.baseurl }}/Abenteuer/Weihnachten/Weihnachtsfeier)
 
 ## Download
 
-[v2/abenteuer/weihnachten_]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.
