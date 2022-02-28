@@ -20,22 +20,11 @@ Nachdem die Piraten wieder auf ihrem Schiff sind oder vielleicht nach Two-Eyed-J
 - **Zielplanet:** Javar 3
 - **Route:** Nach etwa 56 Stunden Flug nähert sich das Transportschiff dem Brabengürtel auf 4 Lichtjahre.
 
-<h2>**Über Javar 3**</h2>
-<aside>
-<table>
-<caption>Javar 3</caption>
-<tbody>
-<tr><th>Typ</th><td>Dschungelplanet</td></tr>
-<tr><th>Sektor</th><td>Neutrale Zone</td></tr>
-<tr><th>Monde</th><td>2</td></tr>
-<tr><th>Einwohner</th><td>Forscher</td></tr>
-<tr><th>Hauptstadt</th><td>-</td></tr>
-<tr><th>Besiedelung</th><td>Forschungsstation</td></tr>
-<tr><th>Politisches</th><td>Forschungsplanet des Galaktischen Handelsrats</td></tr>
-</tbody>
-</table>
-</aside>
-Javar 3 ist ein kleiner Planet am Rande der großen Raumzeitverschiebung in der Neutralen Zone. Der ganze Planet ist von einem dichten Dschungel bedeckt und es herrschen entsprechende Temperaturen. Auf diesem Planeten gibt es, außer einer Forschungsstation, die hauptsächlich die Raumzeitverschiebung erforscht, keine weiteren Ansiedlungen. Diese Forschungsstation wird vom Galaktischen Handelsrat betrieben und von Edward Bakutha geleitet. Neben dem Forschungsteam sind auf Javar 3 auch noch 15 Soldaten stationiert, die für die Sicherheit der renommierten Forscher sorgen sollen.
+## Über Javar 3
+
+{% include planet.md data=site.data.Planeten.Javar_3 %}
+
+- [Javar 3]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Javar_3)
 
 ### Geheime Forschungen
 
@@ -58,6 +47,6 @@ Durch eine Probe auf HÄNDLER können die Spieler schauen, was ihre Charaktere �
 </table>
 
 ***
+
 - **Zurück:** [Auftrag]({{ site.baseurl }}/Abenteuer/Zeitraub/Auftrag)
 - **Weiter:** [Marmonen]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen)
-

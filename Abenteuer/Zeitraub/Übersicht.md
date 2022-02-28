@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub/Uebersicht
+permalink: /Abenteuer/Zeitraub/Übersicht
 title: Übersicht
 ---
 
@@ -29,7 +29,6 @@ Die Charaktere werden von einem Boten unterrichtet, dass Jangba einen Auftrag f�
 - Religiöse Fanatiker verfolgen die Charaktere bzw. das Transportschiff und wollen das seltene Bauteil zerstören, weil sie befürchten, dass die Zeitmaschine den Untergang des Universums verursachen wird.
 - Das Bauteil ist im Bereitschaftsmodus und reagiert seltsam auf äußere Einflüsse.
 
-
 ***
-- **Weiter:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub/Auftrag)
 
+- **Weiter:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub/Auftrag)

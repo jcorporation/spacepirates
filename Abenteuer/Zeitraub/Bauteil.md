@@ -1,15 +1,15 @@
 ---
-layout: page
+layout: aside
 permalink: /Abenteuer/Zeitraub/Bauteil
 title: Das Bauteil
 ---
 
 # Das Bauteil
 
-<aside><img alt="Zeitmaschinenteil" src="{{ site.baseurl }}/assets/pics/spacepirates/gallery/sp/nrm/zeitmaschinenteil.jpg" /></aside>
-<p>Falls die Piraten die Kiste öffnen (TECH-Probe mit 3 Erfolgen, um sie unauffällig zu öffnen) entdecken sie ein seltsam aussehendes, zylindrisches Teil, das die gesamte Kiste ausfüllt. Um die Achse sind viele, sehr kompliziert aussehende Teile angeordnet. Einige davon blinken, das Teil scheint in Betrieb oder im Bereitschaftsmodus zu sein.<br/>
-<br/>
-Mit einer TECH-Probe können die Piraten das Bauteil genauer unter die Lupe nehmen.</p>
+Falls die Piraten die Kiste öffnen (TECH-Probe mit 3 Erfolgen, um sie unauffällig zu öffnen) entdecken sie ein seltsam aussehendes, zylindrisches Teil, das die gesamte Kiste ausfüllt. Um die Achse sind viele, sehr kompliziert aussehende Teile angeordnet. Einige davon blinken, das Teil scheint in Betrieb oder im Bereitschaftsmodus zu sein.
+
+Mit einer TECH-Probe können die Piraten das Bauteil genauer unter die Lupe nehmen.
+
 <table>
 <thead>
 <tr><th>Erfolge</th><th>Untersuchungsergebnis</th></tr>
@@ -20,6 +20,7 @@ Mit einer TECH-Probe können die Piraten das Bauteil genauer unter die Lupe nehm
 <tr><td>4</td><td>In der Umgebung des Teils gibt es eine ungewöhnliche Dichte von Chronotonen (auch als Zeitteilchen bekannt)</td></tr>
 </tbody>
 </table>
+
 Das Bauteil reagiert auf äußere Einflüsse, besonders, wenn die Kiste geöffnet wurde. Bei folgenden Ereignissen muss auf die nachfolgende Tabelle gewürfelt werden:
 
 - Start/Ende eines FTL-Flugs
@@ -43,6 +44,6 @@ Die Auswirkungen halten immer 2W12 Stunden bzw. bis zur nächsten Auswirkung an,
 </table>
 
 ***
-- **Zurück:** [Überfall]({{ site.baseurl }}/Abenteuer/Zeitraub/Ueberfall)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Zeitraub/Ende)
 
+- **Zurück:** [Überfall]({{ site.baseurl }}/Abenteuer/Zeitraub/Überfall)
+- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Zeitraub/Ende)

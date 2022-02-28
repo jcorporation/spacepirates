@@ -21,30 +21,11 @@ Die Marmonen werden die Piraten in der Nähe von Two Eyed Jack aufsuchen, je nac
 - Wenn sich die Piraten nicht überzeugen lassen, bieten die Marmonen bis zu 10.000 UC für das Zeitmaschinenteil.
 - Falls die Charaktere nicht auf ihre Vorschläge eingehen, werden sie sich mit denselben Angeboten an den Wagonenkapitän wenden. Im äußersten Notfall werden sie das Zeitmaschinenteil auch stehlen.
 
-<table data-type="slc">
-<caption>Oliver Malbek</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td></tr>
-<tr><th>Kategorie</th><td>Fanatiker</td></tr>
-<tr><th>Wohnort</th><td> </td></tr>
-</tbody>
-</table>
+{% include slc_profile.md data=site.data.Slc.Oliver_Malbek %}
+
 <table>
-<thead>
-<tr><th> </th><th>Oliver Malbek</th><th>2 Fanatiker</th><th>1 Pilot</th></tr>
-</thead>
+<caption>Spaceflitzer</caption>
 <tbody>
-<tr><th>SÖLDNER</th><td>2</td><td>2</td><td>1</td></tr>
-<tr><th>PILOT</th><td>2</td><td>2</td><td>5</td></tr>
-<tr><th>TECH</th><td>1</td><td>3</td><td>2</td></tr>
-<tr><th>HÄNDLER</th><td>5</td><td>4</td><td>3</td></tr>
-<tr><th>Zähigkeit</th><td>4</td><td>1</td><td>1</td></tr>
-<tr><th>Bewaffnung</th><td colspan="3" rowspan="1">Revolver: Bonus 0</td></tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr><th colspan="2">Spaceflitzer</th></tr>
 <tr><th>Antrieb</th><td>FTL1</td></tr>
 <tr><th>Wendigkeit</th><td>2</td></tr>
 <tr><th>Zuverlässigkeit</th><td>1</td></tr>
@@ -56,6 +37,6 @@ Die Marmonen werden die Piraten in der Nähe von Two Eyed Jack aufsuchen, je nac
 </table>
 
 ***
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Zeitraub/Nachforschungen)
-- **Weiter:** [Überfall]({{ site.baseurl }}/Abenteuer/Zeitraub/Ueberfall)
 
+- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Zeitraub/Nachforschungen)
+- **Weiter:** [Überfall]({{ site.baseurl }}/Abenteuer/Zeitraub/Überfall)

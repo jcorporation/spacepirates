@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub/Ueberfall
+permalink: /Abenteuer/Zeitraub/Überfall
 title: Überfall
 ---
 
@@ -8,12 +8,11 @@ title: Überfall
 
 Wie die Piraten an die Kiste kommen, bleibt natürlich ihnen überlassen. Hier gibt es interessante Informationen über das Transportschiff und ein paar Möglichkeiten, wie die Piraten es überfallen könnten.
 
-<div class="hinweis">
-## Spielleiter-Tipp
-
+{% capture include_body %}
 Natürlich sollte der Spielleiter hier auf die Ideen der Spieler eingehen und sie großzügig mit allen Hintergrundinformationen versorgen, die die Charaktere kennen oder wahrscheinlich kennen sollten. Falls die Spieler allzu lange planen, kann der Spielleiter ruhig etwas Druck machen, damit das Abenteuer weitergeht.
+{% endcapture %}
+{% include hinweis.md title="Spielleiter-Tipp" body=include_body %}
 
-</div>
 ## Transportschiff
 
 Kapitän Elpxes ist ganz Wagone, entsprechend wird er keinen Millimeter von der Flugroute abweichen und immer nach Protokoll handeln. Laut Protokoll sind Verhandlungen mit Piraten ausgeschlossen, solange eine Fluchtmöglichkeit besteht. Außerdem muss bei Sichtung von Piraten ein Notruf an die nächstgelegene Kampfleitzentrale erfolgen. Erst, wenn eine Flucht ausgeschlossen ist, wird er sich zum Kampf stellen, aber aufgeben, wenn die Zerstörung des Schiffes droht.
@@ -31,6 +30,7 @@ Kapitän Elpxes ist ganz Wagone, entsprechend wird er keinen Millimeter von der 
 <tr><th>Zähigkeit</th><td>4</td></tr>
 </tbody>
 </table>
+
 <table>
 <caption>Veraltetes Transportschiff</caption>
 <tbody>
@@ -48,6 +48,7 @@ Kapitän Elpxes ist ganz Wagone, entsprechend wird er keinen Millimeter von der 
 </table>
 
 ***
+
 ## Überfallmöglichkeiten
 
 Hier ein paar Möglichkeiten, wie die Piraten den Transport überfallen können, um die Kiste zu entwenden. Das grundsätzliche Problem ist, das die Piraten nur auf das Transportschiff schießen und gelangen können, wenn es gerade nicht mit FTL-Geschwindigkeit unterwegs ist. Das Transportschiff wird natürlich versuchen, zu fliehen, und sich verteidigen. Nach dem ersten Schuss der Piraten wird es auch ein Hilfesignal nach Javar 3 und Stratum Nova schicken.
@@ -62,8 +63,8 @@ Hier ein paar Möglichkeiten, wie die Piraten den Transport überfallen können,
 
 Kurz vor Javar 3 muss das Transportschiff den FTL-Antrieb abschalten, um in die Umlaufbahn einzuschwenken. Hier ist eine gute Gelegenheit, das Raumschiff anzugreifen. Nach dem FTL-Flug muss sich das Transportschiff erst neu orientieren, so liegt der Überraschungseffekt auf der Seite der Piraten. Die Piraten könnten sich z.B. hinter einem Mond oder auf der anderen Seite des Planeten verstecken.
 
-
 ***
+
 ## An das Bauteil gelangen
 
 Die Piraten können entweder das Schiff entern oder den Kapitän zwingen, das Bauteil herauszurücken, wenn sie das Transportschiff kampfunfähig geschossen haben, aber das wird sich aus der Situation ergeben.
@@ -79,6 +80,7 @@ Die Piraten können entweder das Schiff entern oder den Kapitän zwingen, das Ba
 <tr><th>Bewaffnung</th><td>Lasergewehr: Bonus 1</td></tr>
 </tbody>
 </table>
+
 ### Die Kiste
 
 - Die 1×2×&frac12; m große, metallene Kiste steht nicht auf der Ladeliste des Raumschiffs und der Kapitän leugnet auch, etwas Spezielles an Bord zu haben.
@@ -87,8 +89,7 @@ Die Piraten können entweder das Schiff entern oder den Kapitän zwingen, das Ba
 - Sie ist verschlossen und mit einem Zahlenschloss gesichert, auf ihr prangt das Logo der Föderation.
 - In der Kiste steckt ein Bauteil für eine Zeitmaschine.
 
-
 ***
+
 - **Zurück:** [Marmonen]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen)
 - **Weiter:** [Das Bauteil]({{ site.baseurl }}/Abenteuer/Zeitraub/Bauteil)
-

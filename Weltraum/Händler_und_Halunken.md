@@ -29,6 +29,14 @@ sitedata:
                 - Händler
             Wohnort: "Scrabnambu"
             Position: ""
+        Jangba:
+            Name: Jangba
+            Rasse: Samnese
+            Kategorie:
+                - Händler
+                - Halunke
+            Wohnort: ""
+            Position: ""
         Melinda_Gomez:
             Name: "Melinda Gomez"
             Rasse: "Mensch"
@@ -92,7 +100,21 @@ Der trullische Händler Iyani Dizalo ist der Besitzer des größten Schrottplatz
 
 {% include slc.md data=page.sitedata.Slc.Iyani_Dizalo %}
 
-## Melinda Gomez
+### Jangba
+
+Jangba ist ein extrem gut gekleideter und smarter Samnese, der alterslos erscheint. Er legt sehr großen Wert auf seinen Ruf und sein Aussehen.
+Ein Anzug von ihn kann schon einmal den Wert eines kleines Spaceflitzers haben.
+Die Gerüchte, dass er mit den Glukorianern dealt halten sich hartnäckig, wohl auch er sie nie überzeugend bestreitet.
+
+Jangba ist zugleich der reichste und berüchtigste Geschäftsmann im SpacePirates Universum. Er geht weder mit seinen Schuldnern noch mit Partnern und Auftragnehmern zimperlich um.
+
+Wie jeder Samnese ist Jangba technikverliebt und sammelt alte Artefakte und experimentelle neue technische Gerätschaften.
+
+Er besitzt ein gigantisches und bis an die Zähne bewaffnetes Raumschiff auf dem seine kleine Privatarmee stationiert ist.
+
+{% include slc.md data=site.data.Slc.Jangba %}
+
+### Melinda Gomez
 
 Melinda Gomez ist auf ihrem Heimatplaneten Pandar 5 eine durchaus angesehene und reiche Händlerin. Sie ist eine schöne, exotisch anmutende Frau in den Mittdreißigern, die immer modisch gekleidet ist und großen Wert auf ein gutes Benehmen legt. Sie gehört zur Oberschicht, weshalb sie sich mit gewöhnlichem Pöbel gewiss nicht abgibt. Sie zu kontaktieren ist gar nicht so einfach, sie hat aber viele Ohren, die ihr Informationen zutragen.
 

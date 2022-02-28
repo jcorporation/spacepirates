@@ -10,7 +10,7 @@ Zeitraub ist ein kurzes SpacePirates-Abenteuer für eine Con- oder Einführungsr
 
 ## Inhalt
 
-- [Übersicht]({{ site.baseurl }}/Abenteuer/Zeitraub/Uebersicht)
+- [Übersicht]({{ site.baseurl }}/Abenteuer/Zeitraub/Übersicht)
 - [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub/Auftrag)
 - [Nachforschungen]({{ site.baseurl }}/Abenteuer/Zeitraub/Nachforschungen)
 - [Marmonen]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen)
@@ -21,4 +21,3 @@ Zeitraub ist ein kurzes SpacePirates-Abenteuer für eine Con- oder Einführungsr
 ## Download
 
 Dieses Abenteuer ist im Grundregelwerk enthalten.
-
