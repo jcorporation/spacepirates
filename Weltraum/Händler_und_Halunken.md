@@ -37,6 +37,10 @@ sitedata:
                 - Halunke
             Wohnort: ""
             Position: ""
+            SOELDNER: 4
+            TECH: 7
+            PILOT: 6
+            HAENDLER: 9
         Melinda_Gomez:
             Name: "Melinda Gomez"
             Rasse: "Mensch"

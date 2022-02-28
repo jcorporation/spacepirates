@@ -79,7 +79,7 @@ Jangba trägt einen schwarzen, sehr edlen Anzug. Wie bei Samnesen üblich, ist a
 {% endcapture %}
 {% include hinweis.md title="Jangba" body=include_body %}
 
-{% include slc.md data=site.data.Slc.Jangba %}
+{% include slc_profile.md data=site.data.Slc.Jangba %}
 
 ### Der Auftrag
 

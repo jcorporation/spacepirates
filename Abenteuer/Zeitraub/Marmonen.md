@@ -24,6 +24,20 @@ Die Marmonen werden die Piraten in der Nähe von Two Eyed Jack aufsuchen, je nac
 {% include slc_profile.md data=site.data.Slc.Oliver_Malbek %}
 
 <table>
+<thead>
+<tr><th> </th><th>2 Fanatiker</th><th>1 Pilot</th></tr>
+</thead>
+<tbody>
+<tr><th>SÖLDNER</th><td>2</td><td>1</td></tr>
+<tr><th>TECH</th><td>3</td><td>2</td></tr>
+<tr><th>PILOT</th><td>2</td><td>5</td></tr>
+<tr><th>HÄNDLER</th><td>4</td><td>3</td></tr>
+<tr><th>Zähigkeit</th><td>1</td><td>1</td></tr>
+<tr><th>Bewaffnung</th><td colspan="2">Revolver: WB 0</td></tr>
+</tbody>
+</table>
+
+<table>
 <caption>Spaceflitzer</caption>
 <tbody>
 <tr><th>Antrieb</th><td>FTL1</td></tr>

@@ -14,7 +14,6 @@ In der Zwischenzeit hat Jangba das Forschungslabor in Besitz genommen und führt
 
 Durch die Experimente hat er in der nahen Zukunft einen neuen Urknall verursacht und das bestehende Universum ausgelöscht. Jangba konnte aber durch die Zeitmaschine 3 Tage in die Vergangenheit flüchten.
 
-
 ***
-- **Weiter:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub2/Auftragserteilung.html)
 
+- **Weiter:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Auftragserteilung.html)

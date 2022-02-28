@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub_2/
+permalink: /Abenteuer/Zeitraub_II/
 title: Zeitraub II
 ---
 
@@ -10,12 +10,12 @@ Jangba kommt aus der Zukunft und beauftragt die Charaktere, zu verhindern, dass 
 
 ## Inhalt
 
-- [Ereignisse]({{ site.baseurl }}/Abenteuer/Zeitraub2/Ereignisse)
-- [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub2/Auftragserteilung)
-- [Reise]({{ site.baseurl }}/Abenteuer/Zeitraub2/Reise)
-- [Auf Javar 3]({{ site.baseurl }}/Abenteuer/Zeitraub2/Javar3)
-- [Karte des Labors]({{ site.baseurl }}/Abenteuer/Zeitraub2/Laborkarte)
+- [Ereignisse]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Ereignisse)
+- [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Auftragserteilung)
+- [Reise]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Reise)
+- [Auf Javar 3]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Javar_3)
+- [Karte des Labors]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Laborkarte)
 
 ## Download
 
-[v2/abenteuer/zeitraub2]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.

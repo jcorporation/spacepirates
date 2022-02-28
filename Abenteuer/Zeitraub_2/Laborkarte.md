@@ -1,20 +1,18 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub_2/Laborkarte
+permalink: /Abenteuer/Zeitraub_II/Laborkarte
 title: Karte des Labors
 ---
 
 # Karte des Labors
 
-<img alt="Laborplan" src="{{ site.baseurl }}/assets/pics/spacepirates/abenteuer/zeitraub2/laborplan.png" />
+<img alt="Laborplan" src="{{ site.baseurl }}/assets/images/abenteuer/zeitraub2/laborplan.png" />
 
-<ol>
-- Alarmsensoren: Sobald jemand die Linien überschreitet, die die Sensoren miteinander verbinden, wird Alarm ausgelöst.
-- Negatronenwerfer auf dem Flachdach des Labors
-- Söldner im Wachdienst
-- Schlafende Söldner
-</ol>
+1. Alarmsensoren: Sobald jemand die Linien überschreitet, die die Sensoren miteinander verbinden, wird Alarm ausgelöst.
+2. Negatronenwerfer auf dem Flachdach des Labors
+3. Söldner im Wachdienst
+4. Schlafende Söldner
 
 ***
-- **Zurück:** [Auf Javar 3]({{ site.baseurl }}/Abenteuer/Zeitraub2/Javar3.html)
 
+- **Zurück:** [Auf Javar 3]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Javar_3)

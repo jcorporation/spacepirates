@@ -10,7 +10,7 @@ sitedata:
             Sektor: "Neutrale Zone"
             Monde: "2"
             Einwohner: "Forscher"
-            Hauptstadt: "-"
+            Hauptstadt: ""
             Besiedelung: "Forschungsstation"
             Politisches: "Galaktischen Handelsrats"
 ---
