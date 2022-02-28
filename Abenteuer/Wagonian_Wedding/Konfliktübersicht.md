@@ -8,4 +8,4 @@ title: Konfliktübersicht
 
 Hier eine Übersicht aller NSCs und deren Beziehungen zueinander.
 
-<img alt="Konfliktübersicht" src="{{ site.baseurl }}/assets/images/abenteuer/wagonianwedding/cmap.png"/>
+{% include zoomsvg.md data="/assets/images/abenteuer/wagonianwedding/cmap-web.svg" %}
