@@ -8,12 +8,11 @@ title: Einstieg
 
 Es gibt zwei Varianten für den Einstieg in dieses Abenteuer:
 
-<ol>
-- Die Charaktere entdecken die [wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/Spacedrache/Wagonischeausschreibung.html) und wollen die Prinzessin retten.
-- Die Charaktere werden von [Marric]({{ site.baseurl }}/Abenteuer/Spacedrache/Johnmarric.html) beauftragt das Drachenei zu beschaffen.
-</ol>
+1. Die Charaktere entdecken die [wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/SpaceDrache/Wagonische_Ausschreibung) und wollen die Prinzessin retten.
+2. Die Charaktere werden von [Marric]({{ site.baseurl }}/Abenteuer/SpaceDrache/John_Marric) beauftragt das Drachenei zu beschaffen.
 
 ***
-- **Zurück:** [Hintergrundinformationen]({{ site.baseurl }}/Abenteuer/Spacedrache/Hintergrund.html)
-- **Weiter:** [John Marric]({{ site.baseurl }}/Abenteuer/Spacedrache/Johnmarric.html)
+
+- **Zurück:** [Hintergrundinformationen]({{ site.baseurl }}/Abenteuer/SpaceDrache/Hintergrund)
+- **Weiter:** [John Marric]({{ site.baseurl }}/Abenteuer/SpaceDrache/John_Marric)
 

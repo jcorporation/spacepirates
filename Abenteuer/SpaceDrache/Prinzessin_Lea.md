@@ -1,7 +1,20 @@
 ---
 layout: page
-permalink: /Abenteuer/SpaceDrache/Prinzessinlea
+permalink: /Abenteuer/SpaceDrache/Prinzessin_Lea
 title: Prinzessin Lea
+sitedata:
+    Slc:
+        Prinzessin_Lea:
+            Name: "Prinzessin Lea"
+            Rasse: "Wagonin"
+            Kategorie: Promi
+            Position: Prinzessin
+            SOELDNER: "2"
+            TECH: "6"
+            PILOT: "4"
+            HAENDLER: "8"
+            Zaehigkeit: "4"
+            Bewaffnung: "keine"
 ---
 
 # Prinzessin Lea
@@ -12,19 +25,9 @@ Sie ist extrem romantisch und verhimmelt alte Geschichten mit Drachen. Sie ist e
 
 Drachen (auch künstlich erschaffene SpaceDrachen) stehen unter Artenschutz, so dass der Drache keine große Gefahr dabei einging.
 
-<table>
-<tbody>
-<tr><th colspan="2">Prinzessin Lea</th></tr>
-<tr><th>SÖLDNER</th><td>2</td></tr>
-<tr><th>TECH</th><td>6</td></tr>
-<tr><th>PILOT</th><td>4</td></tr>
-<tr><th>HÄNDLER</th><td>8</td></tr>
-<tr><th>Zähigkeit</th><td>4</td></tr>
-<tr><th>Bewaffnung</th><td>keine</td></tr>
-</tbody>
-</table>
+{% include slc_profile.md data=page.sitedata.Slc.Prinzessin_Lea %}
 
 ***
-- **Zurück:** [Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/Spacedrache/Wagonischeausschreibung.html)
-- **Weiter:** [Spuren]({{ site.baseurl }}/Abenteuer/Spacedrache/Spuren.html)
 
+- **Zurück:** [Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/SpaceDrache/Wagonische_Ausschreibung)
+- **Weiter:** [Spuren]({{ site.baseurl }}/Abenteuer/SpaceDrache/Spuren)

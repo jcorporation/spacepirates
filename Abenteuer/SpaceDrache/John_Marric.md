@@ -8,17 +8,8 @@ title: John Marric
 
 John Marric ist ein verrückter, samnesischer Wissenschaftler, der aus uralten Fosilien und bioelektronischen Techniken eine sich selbst fortpflanzende Drachenarmee schaffen will, um sich zum Herrscher des bekannten Universums aufzuschwingen. Sein Laboratorium ist auf einem Mond nahe des weißen Lochs eingerichtet. Er trägt immerzu einen weißen, etwas verschmutzten Laborkittel und ist um die 60 Jahre alt.
 
-<table>
-<tbody>
-<tr><th colspan="2">John Marric</th></tr>
-<tr><th>SÖLDNER</th><td>3</td></tr>
-<tr><th>TECH</th><td>8</td></tr>
-<tr><th>PILOT</th><td>4</td></tr>
-<tr><th>HÄNDLER</th><td>6</td></tr>
-<tr><th>Zähigkeit</th><td>4</td></tr>
-<tr><th>Bewaffnung</th><td>Laserpistole: WB 0</td></tr>
-</tbody>
-</table>
+{% include slc_profile.md data=site.data.Slc.John_Marric %}
+
 Wenn die Charaktere im Starnet recherchieren oder etwas herumfragen können sie folgendes feststellen (HÄNDLER-Probe):
 
 <table>
@@ -30,6 +21,7 @@ Wenn die Charaktere im Starnet recherchieren oder etwas herumfragen können sie 
 <tr><td>4</td><td>Er hat schon einmal versucht Supersoldaten zu erschaffen und wollte damit eine Regierung stürzen.</td></tr>
 </tbody>
 </table>
+
 ## Der SpaceDrachen-Prototyp
 
 Marric hat es nach zahlreichen Fehlschlägen geschafft, einen Prototyp eines Drachen zu entwickelt, der sogar in der Lage war ein Drachenei zu legen. Dummerweise haben aber die Instinkte des Drachen zugeschlagen und der Prototyp ist trotz scharfer Bewachung und eine Sicherheitsvorrichtung, die ihn kontrollieren sollte, mit dem Ei geflohen und hat sich wohl irgendwo einen Drachenhort errichtet.
@@ -51,20 +43,21 @@ Natürlich zeigt Marric den Charakteren nur den harmlosen Teil seines Mondlabors
 Wenn sich die Charaktere aber auch etwas außerhalb des Labors umschauen, können sie einen recht frisches Loch ausmachen, das von irgendwas großem verursacht wurde, dass aus dem Mondinneren hinaus wollte. Marric tut natürlich ahnungslos, falls die Charaktere ihn darauf hinweisen. Das Loch führt in den unterirdischen Teil des Laboratoriums, der immer noch stark verwüstet ist und Brandspuren aufweist.
 
 <table>
+<caption>Raketen</caption>
 <tbody>
-<tr><th colspan="2">**Raketen**</th></tr>
 <tr><th>SÖLDNER</th><td>7</td></tr>
 <tr><th>Schadensmodifikator</th><td>2</td></tr>
 </tbody>
 </table>
+
 <table>
+<caption>Schutzschild</caption>
 <tbody>
-<tr><th colspan="2">**Schutzschild**</th></tr>
 <tr><th>Schildwert</th><td>12</td></tr>
 </tbody>
 </table>
 
 ***
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Spacedrache/Einstieg.html)
-- **Weiter:** [Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/Spacedrache/Wagonischeausschreibung.html)
 
+- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/SpaceDrache/Einstieg)
+- **Weiter:** [Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/SpaceDrache/Wagonische_Ausschreibung)

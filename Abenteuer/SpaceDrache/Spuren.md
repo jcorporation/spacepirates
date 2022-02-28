@@ -22,6 +22,7 @@ Windsor-Planet, der Heimatplanet von Prinzessin Lea, ist gut gesichert, so dass 
 <tr><td>3</td><td>Die Prinzessin soll einen Faible für Drachen besitzen.</td></tr>
 </tbody>
 </table>
+
 ## Zum SpaceDrachen
 
 Natürlich bietet das Starnet auch einige Informationsquellen zu Drachen- oder Dracheneiern an oder man frägt die richtigen Leute (HÄNDLER-Probe).
@@ -31,7 +32,7 @@ Natürlich bietet das Starnet auch einige Informationsquellen zu Drachen- oder D
 <tr><th>Erfolge</th><th>Information</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>[Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/Spacedrache/Wagonischeausschreibung.html)</td></tr>
+<tr><td>1</td><td>[Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/SpaceDrache/Wagonische_Ausschreibung)</td></tr>
 <tr><td>1</td><td>Drachen schlüpfen aus gigantischen Eiern und können Feuer spucken, sammeln Schätze und rauben Prinzessinnen.</td></tr>
 <tr><td>2</td><td>Es wird von Drachensichtungen in der Nähe der Plasmastürme berichtet.</td></tr>
 <tr><td>2</td><td>Alles Quatsch, Drachen gab es noch nie oder sind zumindest seit langem ausgestorben.</td></tr>
@@ -41,6 +42,6 @@ Natürlich bietet das Starnet auch einige Informationsquellen zu Drachen- oder D
 </table>
 
 ***
-- **Zurück:** [Prinzessin Lea]({{ site.baseurl }}/Abenteuer/Spacedrache/Prinzessinlea.html)
-- **Weiter: **[SpaceDrache]({{ site.baseurl }}/Abenteuer/Spacedrache/Spacedrache.html)
 
+- **Zurück:** [Prinzessin Lea]({{ site.baseurl }}/Abenteuer/SpaceDrache/Prinzessin_Lea)
+- **Weiter:** [SpaceDrache]({{ site.baseurl }}/Abenteuer/SpaceDrache/SpaceDrache)

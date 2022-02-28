@@ -21,8 +21,7 @@ In den 200-seitigen Unterlagen wird von der Entführung durch einen Drachen beri
 - 2.000 UC: Hinweis der zur Ergreifung des Täters führt
 - 2.000 UC: Selbstauslieferung
 
-
 ***
-- **Zurück:** [John Marric]({{ site.baseurl }}/Abenteuer/Spacedrache/Johnmarric)
-- **Weiter:** [Prinzessin Lea]({{ site.baseurl }}/Abenteuer/Spacedrache/Prinzessinlea)
 
+- **Zurück:** [John Marric]({{ site.baseurl }}/Abenteuer/SpaceDrache/John_Marric)
+- **Weiter:** [Prinzessin Lea]({{ site.baseurl }}/Abenteuer/SpaceDrache/Prinzessin_Lea)

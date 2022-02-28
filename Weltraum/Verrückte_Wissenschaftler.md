@@ -21,6 +21,12 @@ sitedata:
                 - Verrückter Wissenschaftler
             Position: ""
             Wohnort: Weißes Loch
+            SOELDNER: "3"
+            TECH: "8"
+            PILOT: "4"
+            HAENDLER: "6"
+            Zaehigkeit: "4"
+            Bewaffnung: "Laserpistole: WB 0"
         Professor_Robotto:
             Name: Professor Robotto
             Rasse: Kahadrier
@@ -51,7 +57,6 @@ sitedata:
             PILOT: "4"
             HAENDLER: "6"
             Zaehigkeit: "4"
-
 ---
 
 # Verrückte Wissenschaftler

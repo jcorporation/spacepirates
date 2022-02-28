@@ -116,7 +116,7 @@ Die Charaktere kommen in den Besitz einer Schatzkarte und wollen dann hoffentlic
 
 Ein SpaceDrache treibt sein Unwesen im Universum. Er hat die wagonische Prinzessin Lea entführt und unter anderem auch ein wertvolles Drachenei von John Marric geraubt.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Spacedrache/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/SpaceDrache/)
 
 ## Spritprobleme
 

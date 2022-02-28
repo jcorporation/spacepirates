@@ -10,16 +10,16 @@ Ein SpaceDrache treibt sein Unwesen im Universum. Er hat die wagonische Prinzess
 
 ## Inhalt
 
-- [Hintergrund]({{ site.baseurl }}/Abenteuer/Spacedrache/Hintergrund)
-- [Einstieg]({{ site.baseurl }}/Abenteuer/Spacedrache/Einstieg)
-- [John Marric]({{ site.baseurl }}/Abenteuer/Spacedrache/Johnmarric)
-- [Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/Spacedrache/Wagonischeausschreibung)
-- [Prinzessin Lea]({{ site.baseurl }}/Abenteuer/Spacedrache/Prinzessinlea)
-- [Spuren]({{ site.baseurl }}/Abenteuer/Spacedrache/Spuren)
-- [SpaceDrache]({{ site.baseurl }}/Abenteuer/Spacedrache/Spacedrache)
-- [Drachenhort]({{ site.baseurl }}/Abenteuer/Spacedrache/Drachenhort)
-- [Ende]({{ site.baseurl }}/Abenteuer/Spacedrache/Ende)
+- [Hintergrund]({{ site.baseurl }}/Abenteuer/SpaceDrache/Hintergrund)
+- [Einstieg]({{ site.baseurl }}/Abenteuer/SpaceDrache/Einstieg)
+- [John Marric]({{ site.baseurl }}/Abenteuer/SpaceDrache/John_Marric)
+- [Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/SpaceDrache/Wagonische_Ausschreibung)
+- [Prinzessin Lea]({{ site.baseurl }}/Abenteuer/SpaceDrache/Prinzessin_Lea)
+- [Spuren]({{ site.baseurl }}/Abenteuer/SpaceDrache/Spuren)
+- [SpaceDrache]({{ site.baseurl }}/Abenteuer/SpaceDrache/SpaceDrache)
+- [Drachenhort]({{ site.baseurl }}/Abenteuer/SpaceDrache/Drachenhort)
+- [Ende]({{ site.baseurl }}/Abenteuer/SpaceDrache/Ende)
 
 ## Download
 
-[v2/abenteuer/spacedrache]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.
