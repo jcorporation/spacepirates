@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Wagonian_Wedding/Ueblichenverdaechtigen
+permalink: /Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen
 title: "Auftritt: Die üblichen Verdächtigen"
 ---
 
@@ -14,8 +14,7 @@ Sie haben es nicht per se auf die Torpedierung der Hochzeit oder den „Stern vo
 
 Rupert Sailman-Eggbird ist zwar ein absoluter Profi, was Adelshochzeiten angeht, aber in letzter Zeit ein wenig … abwesend. Das könnte an seiner Assistentin Daisy Klick liegen, einem sogenannten „Society-Girl“. Daisy wirkt sehr blond, sehr fraulich und vor allen Dingen sehr dumm. Letzteres scheint aber nur so, denn das Leuchten in Daisys Augen ist mitnichten das Licht, das zu ihren Ohren hereinscheint. In Wirklichkeit hat sie es faustdick hinter den Ohren. Sie weiß genau, dass Sailman-Eggbird ihr aus der Hand frisst, daher will sie ihn so lange hinhalten, bis sie sich sicher sein kann, dass sie den Job besser macht als er. Denn den will sie haben, und falls die Charaktere ihr dabei helfen können (zum Beispiel, indem man dem Reporter den Diebstahl in die Schuhe schiebt) soll ihr das nur recht sein.
 
-
 ***
-- **Zurück:** [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Herzundwagone)
-- **Weiter:** [Auftritt: Special Effects für alle!]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Specialeffects)
 
+- **Zurück:** [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone)
+- **Weiter:** [Auftritt: Special Effects für alle!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Specialeffects)

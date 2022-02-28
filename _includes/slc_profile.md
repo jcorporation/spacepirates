@@ -17,15 +17,10 @@
 <table>
     <caption>{% include printtext.md data=Name %}</caption>
     <tbody>
-        <tr><th>Rasse</th><td>{% include printlink.md data=Rasse %}</td></tr>
-        <tr><th>Wohnort</th><td>{% include printlink.md data=Wohnort %}</td></tr>
-        <tr><th>Kategorie</th><td>{% include printtext.md data=Kategorie %}</td></tr>
-        <tr><th>Position</th><td>{% include printtext.md data=Position %}</td></tr>
-        <tr><th>SÖLDNER</th><td>{% include printtext.md data=SOELDNER %}</td></tr>
-        <tr><th>TECH</th><td>{% include printtext.md data=TECH %}</td></tr>
-        <tr><th>PILOT</th><td>{% include printtext.md data=PILOT %}</td></tr>
-        <tr><th>HÄNDLER</th><td>{% include printtext.md data=HAENDLER %}</td></tr>
-        <tr><th>Zähigkeit</th><td>{% include printtext.md data=Zaehigkeit %}</td></tr>
-        <tr><th>Bewaffnung</th><td>{% include printtext.md data=Bewaffnung %}</td></tr>
+        <tr><th>Rasse</th><td>{% include printlink.md data=Rasse %}</td><th>Wohnort</th><td>{% include printlink.md data=Wohnort %}</td></tr>
+        <tr><th>Kategorie</th><td>{% include printtext.md data=Kategorie %}</td><th>Position</th><td>{% include printtext.md data=Position %}</td></tr>
+        <tr><th>SÖLDNER</th><td>{% include printtext.md data=SOELDNER %}</td><th>TECH</th><td>{% include printtext.md data=TECH %}</td></tr>
+        <tr><th>PILOT</th><td>{% include printtext.md data=PILOT %}</td><th>HÄNDLER</th><td>{% include printtext.md data=HAENDLER %}</td></tr>
+        <tr><th>Zähigkeit</th><td>{% include printtext.md data=Zaehigkeit %}</td><th>Bewaffnung</th><td>{% include printtext.md data=Bewaffnung %}</td></tr>
     </tbody>
 </table>

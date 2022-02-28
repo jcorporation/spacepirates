@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Wagonian_Wedding/Bisam
+permalink: /Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam
 title: "Auftritt: Sing es selber, (Bi-)sam!"
 ---
 
@@ -16,8 +16,7 @@ Eigentlich wartet er nur darauf, sich jemanden zu offenbaren und um Hilfe zu bit
 
 Dustin Bisam ist ein „Roter Hering“, zwar schleicht er ständig um Madame PlämPläms Gemächer herum und macht sich auch sonst sehr verdächtig, hat aber keinerlei Verbindung zu den Zielen der Piraten. Umgekehrt können die Piraten den naiven Bisam allerdings einfach für ihre Zwecke einspannen.
 
-
 ***
-- **Zurück:** [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Baeaemler)
-- **Weiter:** [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Herzundwagone)
 
+- **Zurück:** [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler)
+- **Weiter:** [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Herzundwagone)

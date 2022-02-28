@@ -128,7 +128,7 @@ Die Piraten sind inmitten eines Sperrgebiets von SpaceShell gestrandet, weil ihr
 
 Ein Sandboxabenteuer um die royale Hochzeit der Wagonen, voller Intrigen, Promis und Bürokratie.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Wagonianwedding/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/)
 
 ## Weihnachten
 

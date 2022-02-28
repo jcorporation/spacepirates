@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Wagonian_Wedding/Spion
+permalink: /Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam
 title: "Auftritt: Der Spion, der aus dem Weltall kam"
 ---
 
@@ -14,6 +14,6 @@ Mithilfe seiner Geliebten Cecily Blazer-Polo will er als Sir Hat den Dieb stelle
 
 
 ***
-- **Zurück:** [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Einleitung)
-- **Weiter:** [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Baeaemler)
+- **Zurück:** [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Einleitung)
+- **Weiter:** [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Baeaemler)
 

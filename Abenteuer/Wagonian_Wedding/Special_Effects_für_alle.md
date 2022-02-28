@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Wagonian_Wedding/Specialeffects
+permalink: /Abenteuer/Wagonian_Wedding/Special_Effects_für_alle
 title: "Auftritt: Special Effects für alle!"
 ---
 
@@ -16,7 +16,6 @@ Um in Leas Schlafzimmer zu kommen, muss man zu allem Überfluss an Lady Stiffens
 
 Leas Schlafzimmer gleicht von der Größe her einem Ballsaal oder einer Turnhalle. Von einer spanischen Wand versteckt befindet sich ein Hochsicherheitstresorraum, den Lea liebevoll ihr „Schatüllchen“ nennt. Wie es sich gehört, ist der gesamte Tresorraum taghell erleuchtet, obwohl keine Scheinwerfer zu sehen sind. Rote Laserstrahlen bilden sich ständig verschiebende Gitter, um Eindringlinge aufzuspüren. In der Mitte des Raums liegt der „Stern von Urkalath“ auf einem Samtkissen auf einer Glassäule. Natürlich gibt es überall Drucksensoren, die bei Gewichtsveränderungen Alarm auslösen.
 
-
 ***
-- **Zurück:** [Auftritt: Die üblichen Verdächtigen]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Ueblichenverdaechtigen)
 
+- **Zurück:** [Auftritt: Die üblichen Verdächtigen]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen)

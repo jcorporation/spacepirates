@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/
-title: Wagonian Wedding – Die royale Hochzeit der Wagonen
+title: Wagonian Wedding
 ---
 
-# Wagonian Wedding – Die royale Hochzeit der Wagonen
+# Wagonian Wedding
+## Die royale Hochzeit der Wagonen
 
 Prinzessin Lea, das „Juwel von Xawang“ und Tochter von Kronprinz Wagonion, soll endlich unter die Haube gebracht werden. Eine große Feier ist angekündigt, gekrönte und ungekrönte Häupter aus der gesamten Galaxie sind eingeladen. UBC hat sich die Exklusivrechte gesichert und ihren Starreporter Rupert Sailman-Eggbird mit Assistentin Daisy Klick als Berichterstatter entsandt.
 
@@ -14,22 +15,20 @@ Sein Plan ist so simpel wie abgehoben: Die Piraten müssen lediglich den „Ster
 
 Natürlich ist Hein Mono nicht der Einzige, der die Hochzeit zu seinen Gunsten ausnutzen will…
 
-<li>[(Selbst-)Darsteller]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Selbstdarsteller)
-- [Konfliktübersicht]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Selbstdarsteller_cmap)
-
-</li>
-- [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Einleitung)
-- [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Spion)
-- [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Baeaemler)
-- [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Bisam)
-- [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Herzundwagone)
-- [Auftritt: Die üblichen Verdächtigen]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Ueblichenverdaechtigen)
-- [Auftritt: Special Effects für alle!]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Specialeffects)
+- [(Selbst-)Darsteller]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Selbstdarsteller)
+- [Konfliktübersicht]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Konfliktübersicht)
+- [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Einleitung)
+- [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam)
+- [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler)
+- [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam)
+- [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone)
+- [Auftritt: Die üblichen Verdächtigen]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen)
+- [Auftritt: Special Effects für alle!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle)
 
 ## Download
 
-[v2/abenteuer/WagonianWedding_]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Themenhefte-Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.
 
 ***
-Autor: Friederike Schmutzler
 
+Autorin: Friederike Schmutzler

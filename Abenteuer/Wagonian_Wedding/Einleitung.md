@@ -14,8 +14,7 @@ Sein Plan: Da die Sicherheitsvorkehrungen aufgrund der bevorstehenden Hochzeit u
 
 Er hat auch einen guten Grund, warum er selbst den Plan nicht ausführen kann. Er muss zu der Zeit als Adeliger getarnt im Palast sein, um beim Fehlen des Edelsteins die Zeremonie zu unterbrechen. So würde er zum Temporary Lord Guardian of the Princess, was seine Flucht mit Lea enorm erleichtern würde. (In Wirklichkeit will er den Edelstein an „Börger the Mac“ verkaufen, Piraten sowie Käufer gegen Kopfgeld ans Messer liefern und anschließend als reicher irdischer Kleinadeliger um die Hand der Prinzessin anhalten).
 
-
 ***
-- **Zurück:** [(Selbst-)Darsteller]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Selbstdarsteller)
-- **Weiter:** [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Spion)
 
+- **Zurück:** [(Selbst-)Darsteller]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Selbstdarsteller)
+- **Weiter:** [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Spion)

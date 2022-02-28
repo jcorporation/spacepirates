@@ -16,8 +16,7 @@ Der Plan des Modemachers ist so simpel wie genial: Er hat eine Fälschung anfert
 
 Vorsicht: Wenn die Spieler zu langsam sind, stehlen sie unter Umständen die Kopie anstatt des Originals! Der Spielleiter sollte hier unbedingt ausreichend Hinweise streuen.
 
-
 ***
-- **Zurück:** [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Spion)
-- **Weiter:** [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonianwedding/Bisam)
 
+- **Zurück:** [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Spion)
+- **Weiter:** [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Bisam)
