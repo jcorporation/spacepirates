@@ -635,6 +635,10 @@
     ],
     "Wohnort": "",
     "Position": "",
+    "SOELDNER": 4,
+    "TECH": 7,
+    "PILOT": 6,
+    "HAENDLER": 9,
     "Link": "/Weltraum/Händler_und_Halunken"
   },
   "Javier_Moretti": {
