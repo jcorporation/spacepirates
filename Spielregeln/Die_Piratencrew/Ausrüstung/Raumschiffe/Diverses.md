@@ -33,6 +33,6 @@ title: Diverses
 - Der **Einparkcomputer** gibt einen Bonus von 2 auf Lande- und An- und Abdockmöver.
 - Der **Magnetabschlepphaken** kann wie eine Waffe abgefeuert werden und bleibt bei 2 Erfolgen am Ziel kleben.
 - Das **Ninja-Tarnschild** verhindert, dass Sensoren das Raumschiff entdecken, Sensorenproben werden um 2 erschwert.
-- Der **Störsender **stört FTL-Funk im Umkreis von 100 km.
+- Der **Störsender** stört FTL-Funk im Umkreis von 100 km.
 - Der **Turbo** verdoppelt 1W8 Stunden lang den FTL-Antrieb (von FTL1 auf 2 und von FTL2 auf 4) und muss danach 10 Tage abkühlen.
-- Der **versteckte Frachtraum **wird bei einer Routinekontrolle nicht entdeckt.
+- Der **versteckte Frachtraum** wird bei einer Routinekontrolle nicht entdeckt.
