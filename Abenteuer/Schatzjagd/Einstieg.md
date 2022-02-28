@@ -34,8 +34,7 @@ Die Karte ist 30 × 20 cm hoch, besteht aus gebürstetem Aluminium und besitzt e
 - **2 Erfolge: **Der zweite Schlüssel ist wohl ein uralter, mechanischer Schlüssel mit einem digitalen Innenleben.
 - **3 Erfolge: **Die Karte ist mit einem Selbstzerstörungsmechanismus ausgestattet, der ausgelöst wird, wenn die Karte ohne die Schlüssel geöffnet wird.
 
-
 ***
-- **Zurück:** [Schatzjagd]({{ site.baseurl }}/Abenteuer/Schatzjagd)
-- **Weiter:** [Erste Piratengruppe]({{ site.baseurl }}/Abenteuer/Schatzjagd/Erstepiratengruppe)
 
+- **Zurück:** [Schatzjagd]({{ site.baseurl }}/Abenteuer/Schatzjagd)
+- **Weiter:** [Erste Piratengruppe]({{ site.baseurl }}/Abenteuer/Schatzjagd/Erste_Piratengruppe)

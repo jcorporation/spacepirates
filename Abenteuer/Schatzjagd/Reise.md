@@ -14,8 +14,7 @@ Da es äußerst unwahrscheinlich ist am Rande des Universums zu gelangen, ist es
 
 Nur in der Unwahrscheinlichkeitszone ist es möglich einen Kurs zu programmieren, der direkt an den Rand des Universums führt. Wenn der Kurs programmiert und der FTL angeworfen wurde, findet sich das Raumschiff sofort ein Lichtjahr vom Asteroidengürtel entfernt wieder.
 
-
 ***
-- **Zurück:** [Zweite Piratengruppe]({{ site.baseurl }}/Abenteuer/Schatzjagd/Zweitepiratengruppe)
-- **Weiter: **[Rand des Universums]({{ site.baseurl }}/Abenteuer/Schatzjagd/Rand)
 
+- **Zurück:** [Zweite Piratengruppe]({{ site.baseurl }}/Abenteuer/Schatzjagd/Zweite_Piratengruppe)
+- **Weiter:** [Rand des Universums]({{ site.baseurl }}/Abenteuer/Schatzjagd/Rand)
