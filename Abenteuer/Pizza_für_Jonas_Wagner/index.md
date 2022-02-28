@@ -10,10 +10,10 @@ Bei einem ihrer Beutezüge gelangen die Piraten in den Besitz einer „Spezial-P
 
 ## Inhalt
 
-- [Einstieg]({{ site.baseurl }}/Abenteuer/Pizzafuerjonaswagner/Einstieg)
-- [Nachforschungen]({{ site.baseurl }}/Abenteuer/Pizzafuerjonaswagner/Nachforschungen)
-- [Auflösung]({{ site.baseurl }}/Abenteuer/Pizzafuerjonaswagner/Aufloesung)
+- [Einstieg]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Einstieg)
+- [Nachforschungen]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen)
+- [Auflösung]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung)
 
 ## Download
 
-[v2/abenteuer/PizzaFuerJonasWagner_]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Themenhefte-Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.

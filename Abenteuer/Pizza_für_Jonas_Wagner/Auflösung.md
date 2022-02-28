@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Pizza_für_Jonas_Wagner/Aufloesung
+permalink: /Abenteuer/Pizza_für_Jonas_Wagner/Auflösung
 title: Auflösung
 ---
 
@@ -21,8 +21,8 @@ Die restlichen Ninja-Clans werden mit der Zeit aufmerksam, weil so viele große 
 Da ja schnell zwei oder mehr Clans hinter den Piraten her sind, werden die Überfälle recht schnell chaotisch, weil die Ninjas sowohl gegeneinander als auch gegen die Piraten kämpfen. Schließlich kann kein Clan riskieren, dass die Piraten gegen einen der anderen Clans verlieren. So können die Piraten die Ninjas problemlos gegeneinander ausspielen, um ihre Unterzahl zu kompensieren.
 
 <table>
+<caption>Ninjas</caption>
 <tbody>
-<tr><th colspan="2">Ninjas</th></tr>
 <tr><th>SÖLDNER</th><td>5</td></tr>
 <tr><th>TECH</th><td>3</td></tr>
 <tr><th>PILOT</th><td>2</td></tr>
@@ -32,6 +32,7 @@ Da ja schnell zwei oder mehr Clans hinter den Piraten her sind, werden die Über
 Shuriken: WB 0</td></tr>
 </tbody>
 </table>
+
 ## Verkauf des Buchs
 
 Wenn die Charaktere jemals wieder ihre Ruhe vor angreifenden Ninjas wollen, so müssen sie das Buch loswerden: Verkaufen, verschenken, zerstören oder vergraben und Schatzkarten streuen. Sowohl die Ninja-Clans als auch reiche Sammler bieten bis zu 20.000 UC für das Buch, wenn die Piraten das Buch verstecken, die Schatzkarte stückeln und die Stücke einzeln verkaufen, so können sie bis zu 25.000 UC verdienen.
@@ -42,7 +43,6 @@ Jonas Wagner ist ein machthungriger Manager in der [S.I.E. Robotermanufaktur]({{
 
 Allerdings hatten die Ninjas der Hattori-Hanzo-Akademie den Diebstahl noch während des Überfalls bemerkt und daher sofort Verfolger entsandt. Dies wiederum fiel den Angreifern der Goemon-Ishikawa-Highschool auf, die natürlich glaubten, die Hattori-Hanzos würden versuchen, irgendwelche Schätze in Sicherheit zu bringen und ihnen daher folgten. In die Auseinandersetzung zwischen diesen Verfolgern gerieten die Piraten zu Beginn des Abenteuers.
 
-
 ***
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Pizzafuerjonaswagner/Nachforschungen)
 
+- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen)

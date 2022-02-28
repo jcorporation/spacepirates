@@ -2,6 +2,20 @@
 layout: page
 permalink: /Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen
 title: Nachforschungen
+sitedata:
+    Slc:
+        Hu_Xing:
+            Name: "Hu Xing"
+            Rasse: "Neuasiat"
+            Kategorie: "Ninja"
+            Wohnort: "Neu-Neo-Tokio"
+            SOELDNER: "8"
+            TECH: "3"
+            PILOT: "5"
+            HAENDLER: "6"
+            Zaehigkeit: "4"
+            Bewaffnung: "keine"
+            Position: ""
 ---
 
 # Nachforschungen
@@ -12,7 +26,7 @@ Die Ninjas von der Goemon-Ishikawa-Highschool haben den Pizzatransport nur angeg
 
 Die Ninjas von der Hattori-Hanzo-Akademie wissen, dass im Pizzatransporter ein getarnter Ebook-Reader versteckt ist, den sie zum Clanoberhaupt (Meister Hattori Hanzo) bringen sollen. Sie wissen nicht, was in dem Buch steht, bestehen aber darauf, dass es rechtmäßiges Eigentum der Hattori-Hanzo-Akademie sei, welches vom Hashimara-Clan entwendet wurde und mit diesem Pizzatransporter außer Landes geschmuggelt werden sollte.
 
-- zur Beschreibung der [Ninja-Clans]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans)
+- zur Beschreibung der [Ninja-Clans]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/)
 
 ## Informationen aus sonstigen Quellen
 
@@ -65,22 +79,9 @@ Er kennt sich tatsächlich gut mit alten Schriftrollen aus, ist aber eher mürri
 
 **Zwei Erfolge:** Hu Xing guckt sich den Ebook-Reader genauer an und identifiziert das darin enthaltene Werk als die ultimative Kampftechnik, welche den Ninja-Clan, der sie in ihren Besitz bringt, zum unangefochtenen Herrscher über alle Ninjas macht. Wenn die Piraten bereit sind, es an einen Clan zu verkaufen, könnten sie dafür 15.000 bis 20.000 UC erhalten. Er stellt zudem fest, dass nur ein Ninja-Großmeister den Schutz aufheben kann.
 
-<table data-type="slc">
-<caption>Hu Xing</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Neuasiat]({{ site.baseurl }}/Weltraum/Menschen/Neuasien)</td></tr>
-<tr><th>Kategorie</th><td>[Ninja]({{ site.baseurl }}/Weltraum/Spaceninjas)</td></tr>
-<tr><th>Wohnort</th><td>[Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Kabukichoprime_neuneotokio)</td></tr>
-<tr><th>SÖLDNER</th><td>8</td></tr>
-<tr><th>TECH</th><td>3</td></tr>
-<tr><th>PILOT</th><td>5</td></tr>
-<tr><th>HÄNDLER</th><td>6</td></tr>
-<tr><th>Zähigkeit</th><td>4</td></tr>
-<tr><th>Bewaffnung</th><td>keine</td></tr>
-</tbody>
-</table>
+{% include slc_profile.md data=page.sitedata.Slc.Hu_Xing %}
 
 ***
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Pizzafuerjonaswagner/Einstieg)
-- **Weiter:** [Auflösung]({{ site.baseurl }}/Abenteuer/Pizzafuerjonaswagner/Aufloesung)
 
+- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Einstieg)
+- **Weiter:** [Auflösung]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Aufloesung)

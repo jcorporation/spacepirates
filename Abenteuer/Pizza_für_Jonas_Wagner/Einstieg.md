@@ -13,8 +13,8 @@ Bei den Angreifern handelt es sich um Ninjas aus zwei verfeindeten Clans, der Ha
 Sie haben kein größeres Interesse an den Piraten; wenn diese sich nicht von sich aus in den Kampf einmischen, werden die Ninjas sie ebenfalls ignorieren. Wenn die Piraten eingreifen, werden die Ninjas sich gegenseitig beleidigen, weil der jeweils andere Clan so tief gesunken sei, mit Piraten zusammenzuarbeiten. Die Piraten können aber auch einfach zugucken, wie die Ninjas sich gegenseitig beschießen (und in der Zwischenzeit den Pizzatransporter plündern).
 
 <table>
+<caption>Spaceflitzer</caption>
 <thead>
-<tr><th colspan="2">Spaceflitzer</th></tr>
 </thead>
 <tbody>
 <tr><th>Pilotenwert</th><td>6</td></tr>
@@ -31,6 +31,7 @@ Sie haben kein größeres Interesse an den Piraten; wenn diese sich nicht von si
 <tr><th>Bewaffnung</th><td>1 Duallaserkanone: WW 2, SM 2</td></tr>
 </tbody>
 </table>
+
 ## Das Pizzalieferraumschiff
 
 Das Pizzalieferraumschiff ist ein typischer SpaceKombi. Er wurde größtenteils schwarz lackiert, an verschiedenen Stellen ist in einem rot gefüllten Kreis ein Logo aufgebracht: Ein schwarz maskierter, rasender Radler, der eine Pizza auf der Hand trägt. Darunter steht „Shadow Bike Pizza“.
@@ -43,7 +44,6 @@ Bei der unbekannten Signatur handelt es sich um einen als Pizzaschachtel getarnt
 
 Wie bei Lieferpizza üblich klebt auch hier ein Klebezettel auf dem Karton, anstatt der Adresse steht hier aber nur der Name „Jonas Wagner“.
 
-
 ***
-- **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Pizzafuerjonaswagner/Nachforschungen)
 
+- **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen)

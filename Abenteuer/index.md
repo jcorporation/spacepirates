@@ -86,7 +86,7 @@ Es ist demnächst Ostern, es warten ein paar erholsame Feiertag auf die Piraten,
 
 Die Piraten kommen zufällig in den Besitz einer Spezial-Pizza des Hashimara-Clans und werden nun von den anderen Ninja-Clans deswegen verfolgt. Für die Piraten stellt sich die Frage: Was ist das für ein Gegenstand und warum sind alle Ninjas des Universum dahinter her?
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Pizzafuerjonaswagner/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/)
 
 ## Rache des Akamachi-Clans
 
