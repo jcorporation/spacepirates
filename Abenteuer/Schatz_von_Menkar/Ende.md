@@ -10,7 +10,6 @@ Wenn die Charaktere durch das Wurmloch zurückfliegen, sind dahinter nur einige 
 
 Wenn die Schläger hier auf die Noh Frut gewartet haben, sind sie natürlich auch noch da. Wenn sie jetzt bezahlt werden, kann Noh Frut einen ruhigen Lebensabend genießen.
 
-
 ***
-- **Zurück:** [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Menkar/Aufdemplaneten.html)
 
+- **Zurück:** [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Menkar/Auf_dem_Planeten)

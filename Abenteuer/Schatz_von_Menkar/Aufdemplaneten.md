@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Schatz_von_Menkar/Aufdemplaneten
+permalink: /Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten
 title: Auf dem Planeten
 ---
 
@@ -8,12 +8,11 @@ title: Auf dem Planeten
 
 Der Planet besteht zum großen Teil aus dichtem Dschungel und großen Ozeanen. Etwas von der Energiesignatur entfernt gibt es aber eine kleine Lichtung auf der man landen kann. Ganz in der Nähe befindet sich auch ein hoher Berg.
 
-<div class="hinweis">
-## Hintergrund
-
+{% capture include_body %}
 Auf diesem Planeten ist erst ein Jahr seit dem Absturz vergangen. Menkars Raumschiff ist durch den Kampf mit Quetzalcoatl auf dem Planeten abgestürzt. Das Raumschiff ist zwar stark beschädigt, aber immer noch als Unterkunft für Menkar und seine Trullmannschaft zu gebrauchen. Sie haben die Eingeborenen versklavt und zwingen sie Metalle und auch Negatritium in den Minen abzubauen um damit ihren Reaktor am laufen zu halten und ihr Raumschiff zu reparieren. Die Trull wollen den Planeten so schnell als möglich verlassen.
+{% endcapture %}
+{% include hinweis.md title="Hintergrund" body=include_body %}
 
-</div>
 ## Die Eingeborenen
 
 Das lärmende Raumschiff hat die Ureinwohner des Dschungels aufgeschreckt. Diese beobachten das Raumschiff aus sicherere Entfernung, halb versteckt im Dschungel. Sie sind ganz offensichtlich verängstigt, neugierig und bestimmt nicht aggressiv. Die Eingeborenen sind primitiv und tragen nur einen Lendenschurz und einfache Waffen.
@@ -26,7 +25,7 @@ Das Eingeborenendorf besteht aus kleinen Hütten, die von Palisaden geschützt s
 
 <table>
 <tbody>
-<tr><th> </th><th>Roca</th><th>Eingeborener</th></tr>
+<tr><th></th><th>Roca</th><th>Eingeborener</th></tr>
 <tr><th>SÖLDNER</th><td>2</td><td>4</td></tr>
 <tr><th>TECH</th><td>2</td><td>1</td></tr>
 <tr><th>PILOT</th><td>0</td><td>0</td></tr>
@@ -35,6 +34,7 @@ Das Eingeborenendorf besteht aus kleinen Hütten, die von Palisaden geschützt s
 <tr><th>Bewaffnung</th><td colspan="2">Speer und Bögen: WB 0</td></tr>
 </tbody>
 </table>
+
 ## Die Trull
 
 Der Anführer der Trull ist Menkar, ein etwas älterer, skrupelloser Trull. Von der ursprünglichen 20-Mann-Besatzung des Raumschiffs haben nur 10 überlebt. Die Trull werden sich über die, für sie, futuristisch erscheinenden Charaktere und ihr Raumschiff wundern, da für sie hier nur 1 Jahr vergangen ist.
@@ -54,6 +54,7 @@ Natürlich haben auch die Trull das Raumschiff der Charaktere beim Landeanflug e
 <tr><th>Bewaffnung</th><td colspan="2">Trullischer Mikrowellenstrahler: WB 1</td></tr>
 </tbody>
 </table>
+
 ### Das Raumschiff
 
 Das Raumschiff ist ein uralter Trullfrachter (für die Trull ist er natürlich hochmodern). Es ist stark zerstört und der Absturz hat eine große Schneise in den Dschungel gerissen, die gerade erst wieder zuwächst.
@@ -68,8 +69,7 @@ Der Silberschatz (Gesamtwert ca. 1.000.000 UC) befindet sich im verschlossenen L
 - Diverse Kirchenutensilien (Kerzenständer, etc.)
 - Religiöse Bilder
 
-
 ***
-- **Zurück:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Menkar/Hinterdemwurmloch)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Menkar/Ende)
 
+- **Zurück:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Menkar/Hinter_dem_Wurmloch)
+- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Menkar/Ende)

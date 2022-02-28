@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Schatz_von_Menkar/Hinterdemwurmloch
+permalink: /Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch
 title: Hinter dem Wurmloch
 ---
 
@@ -19,8 +19,8 @@ Quetzalcoatl ist eine gigantische Klapperschlange deren Körper mit grünen und 
 Die meiste Zeit verbringt Quetzalcoatl schlafend um den Tetraeder geschwungen, erwacht aber, wenn sich das Wurmloch öffnet, da es wieder Zeit ist zu fressen.
 
 <table>
+<caption>Quetzalcoatl</caption>
 <tbody>
-<tr><th colspan="2">Quetzalcoatl</th></tr>
 <tr><th>Kampfprofil</th><td>8</td></tr>
 <tr><th>Schadensmodifikator</th><td>2</td></tr>
 <tr><th>Wendigkeit</th><td>7</td></tr>
@@ -29,6 +29,6 @@ Die meiste Zeit verbringt Quetzalcoatl schlafend um den Tetraeder geschwungen, e
 </table>
 
 ***
-- **Zurück:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Menkar/Koordinaten.html)
-- **Weiter:** [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Menkar/Aufdemplaneten.html)
 
+- **Zurück:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Menkar/Koordinaten)
+- **Weiter:** [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Menkar/Auf_dem_Planeten)

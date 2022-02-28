@@ -19,8 +19,8 @@ Sobald der Countdown 00:00:00 anzeigt, tut sich auch etwas im Sombreronebel und 
 Die Reise durch das Wurmloch ist holprig, sollte aber einem erfahrenen Piloten keine allzu großen Probleme bereiten. Es wird ein eskalierter Konflikt gegen das Wurmloch ausgeführt, um durch das Loch zu fliegen.
 
 <table>
+<caption>Wurmloch</caption>
 <tbody>
-<tr><th colspan="2">Wurmloch</th></tr>
 <tr><th>Konfliktwürfel</th><td>5</td></tr>
 <tr><th>Schadenspunkte</th><td>6</td></tr>
 <tr><th>Schadensmodifikator</th><td>2</td></tr>
@@ -28,7 +28,6 @@ Die Reise durch das Wurmloch ist holprig, sollte aber einem erfahrenen Piloten k
 </table>
 
 ***
-- **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Menkar/Einstieg)
-- **Weiter:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Menkar/Hinterdemwurmloch)
 
-<div id="_firebugConsole"> </div>
+- **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Menkar/Einstieg)
+- **Weiter:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Menkar/Hinter_dem_Wurmloch)

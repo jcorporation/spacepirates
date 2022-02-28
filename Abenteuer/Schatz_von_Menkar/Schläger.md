@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Schatz_von_Menkar/Einstieg_schlaeger
+permalink: /Abenteuer/Schatz_von_Menkar/Schläger
 title: Die Schläger
 ---
 
@@ -14,11 +14,8 @@ Die Schläger sind nicht die schlausten, aber hartnäckig und werden versuchen N
 
 Wenn die Schläger Noh Frut nicht auf Two Eyed Jack stellen können oder er unangekündigt abhaut, werden sie seine Spielkumpanen bearbeiten und so von der Karte erfahren und auch zum Sombreronebel fliegen. Die Schläger haben auch keine Skrupel den Schatz selber zu bergen und Noh Frut einfach davon die 10.000 UC zu geben und den Großteil des Schatzes selber zu behalten.
 
-<div class="col">
 <table>
-<thead>
-<tr><th colspan="2">6 Schläger</th></tr>
-</thead>
+<caption>6 Schläger</caption>
 <tbody>
 <tr><th>SÖLDNER</th><td>5</td></tr>
 <tr><th>HÄNDLER</th><td>3</td></tr>
@@ -26,11 +23,10 @@ Wenn die Schläger Noh Frut nicht auf Two Eyed Jack stellen können oder er unan
 <tr><th>Bewaffnung</th><td>Laserpistole: WB 0</td></tr>
 </tbody>
 </table>
-</div>
-<div class="col">
+
 <table>
+<caption>Big Bang Bucks Raumschiff</caption>
 <tbody>
-<tr><th colspan="2">Big Bang Bucks Raumschiff</th></tr>
 <tr><th>Pilotenwert</th><td>5</td></tr>
 <tr><th>Techwert</th><td>5</td></tr>
 <tr><th>Söldnerwert</th><td>5</td></tr>
@@ -45,8 +41,8 @@ Wenn die Schläger Noh Frut nicht auf Two Eyed Jack stellen können oder er unan
 <tr><th>Bewaffnung</th><td>1 Duallaserkanone: WB 2, SM 2</td></tr>
 </tbody>
 </table>
-</div>
-<hr class="clear" />
+
+***
+
 - **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Menkar/Einstieg)
 - **Weiter:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Menkar/Koordinaten)
-
