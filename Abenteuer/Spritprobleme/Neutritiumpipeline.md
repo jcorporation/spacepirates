@@ -46,6 +46,6 @@ Da die Pipeline einen Alarm weiterleiten kann, ist sie selbstverständlich auch 
 </table>
 
 ***
-- **Zurück:** [Karte]({{ site.baseurl }}/Abenteuer/Spritprobleme/Karte.html)
-- **Weiter:** [Spaceameisen]({{ site.baseurl }}/Abenteuer/Spritprobleme/Spaceameisen.html)
 
+- **Zurück:** [Karte]({{ site.baseurl }}/Abenteuer/Spritprobleme/Karte)
+- **Weiter:** [Spaceameisen]({{ site.baseurl }}/Abenteuer/Spritprobleme/Spaceameisen)

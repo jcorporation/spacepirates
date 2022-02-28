@@ -18,8 +18,8 @@ Die Piraten sind inmitten eines Sperrgebiets von SpaceShell gestrandet, weil ihr
 
 ## Download
 
-[v2/abenteuer/spritprobleme]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.
 
 ***
-**Autor:** Onno Tasler
 
+**Autor:** Onno Tasler

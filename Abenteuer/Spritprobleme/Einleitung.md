@@ -12,7 +12,6 @@ Zu allem Unglück wird das Piratenschiff von der Gravitation eines Säureplanete
 
 Die Piraten müssen also einen Weg finden, das System zu verlassen, ehe sie in den Säuremeteoriten stürzen, von SpaceAmeisen gefuttert oder von Sicherheitskräften aufgesammelt werden.
 
-
 ***
-- **Weiter:** [Karte]({{ site.baseurl }}/Abenteuer/Spritprobleme/Karte.html)
 
+- **Weiter:** [Karte]({{ site.baseurl }}/Abenteuer/Spritprobleme/Karte)
