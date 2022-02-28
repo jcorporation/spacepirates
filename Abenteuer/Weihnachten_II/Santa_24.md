@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Weihnachten_2/Santa24
+permalink: /Abenteuer/Weihnachten_2/Santa_24
 title: Auf Santa 24
 ---
 
@@ -22,6 +22,7 @@ Die Barrikade kann mit 4 Erfolgen auf Söldner eingerissen werden.
 <tr><th>Zähigkeit</th><td>2</td><td>3</td></tr>
 </tbody>
 </table>
+
 Die Elfen beißen, treten gegen das Schienbein und hauen mit ihren Protestschildern um sich.
 
 Wenn mit den Elfen geredet wird, grölen sie Parolen wie „Nieder mit dem Roten!“, „Keine Ausbeutung an Weihnachten!“, „Rie Rie! Rah Rah! Nieder mit San-ta!“ usw.
@@ -32,24 +33,27 @@ Die Elfen lieben ihren alten Arbeitsrhythmus – 364 Tage schuften, Weihnachten 
 
 ## In der Fabrik
 
-<p>Dringen die Spieler in die Fabrik ein (z.B. um Geschenke zu stehlen, Arrrr!), finden sie die Fließbänder leer vor und auch keine vorbereiteten Geschenke. Elfen stehen an brennenden Glührumfässern und wärmen sich die Hände.<br/>
-<br/>
-Im Bürogebäude sitzt im Vorzimmer eine streikbrechende Elfendame (ihr ging das Singen eh schon immer auf die Nerven) und feilt sich die Nägel. Auf Anfrage ist „Mr Claus“ oder „der CEO“ in einer Besprechung. Bedrohen die Piraten sie, ruft sie die Security – 3-4 Wagonen mit Laserpistolen stürmen in den Raum:</p>
+Dringen die Spieler in die Fabrik ein (z.B. um Geschenke zu stehlen, Arrrr!), finden sie die Fließbänder leer vor und auch keine vorbereiteten Geschenke. Elfen stehen an brennenden Glührumfässern und wärmen sich die Hände.
+
+Im Bürogebäude sitzt im Vorzimmer eine streikbrechende Elfendame (ihr ging das Singen eh schon immer auf die Nerven) und feilt sich die Nägel. Auf Anfrage ist „Mr Claus“ oder „der CEO“ in einer Besprechung. Bedrohen die Piraten sie, ruft sie die Security – 3-4 Wagonen mit Laserpistolen stürmen in den Raum:
+
 <table>
+<caption>Wagonenwache</caption>
 <tbody>
-<tr><th colspan="2">Wagonenwache</th></tr>
 <tr><th>SÖLDNER</th><td>4</td></tr>
 <tr><th>Zähigkeit</th><td>2</td></tr>
 <tr><th>Bewaffnung</th><td>Laserpistole: WB 0</td></tr>
 </tbody>
 </table>
+
 Die Spieler können die Sekretärin belabern (Händler – 5 Würfel, Zähigkeit 4) oder sich an ihr auf alle möglichen Arten vorbeimogeln – z.B. sich als Lieferanten ausgeben usw.
 
 ## Santa
 
-<p>Santa finden die Spieler im 3. Stock, 2. Trakt. Er befindet sich in einem Büro hinter einer Doppeltür aus Mahagoni. Im Büro befindet sich ein sehr langer, leerer Konferenztisch – immerhin mit einem Adventskranz in der Mitte. Santa befindet sich am anderen Ende und redet wild auf mehrere Bildschirme ein, mit dem Rücken zur Gruppe. Santa ignoriert die Gruppe und redet von „Effizienzgewinnen“, „Kopfzahloptimierung“, „Auslagerung“, „Synergieeffekten“, „Auslastungsproblemen“, „neuen Geschäftsbereichen“ und „diesen verdammten Zulieferern.“<br/>
-<br/>
-Santa wird die Spieler so lange ignorieren, bis sie seine Aufmerksamkeit erregen – Computer ausschalten per Stecker ziehen (Piratenwürfel für den Stecker), Santa überwältigen (Söldner 6, Zähigkeit 4) o.ä. Er wird aber weiter wirres Zeug reden. Santa hat außergewöhnlich rote Backen und einen glasigen Blick. (Symptome, s.u.)</p>
+Santa finden die Spieler im 3. Stock, 2. Trakt. Er befindet sich in einem Büro hinter einer Doppeltür aus Mahagoni. Im Büro befindet sich ein sehr langer, leerer Konferenztisch – immerhin mit einem Adventskranz in der Mitte. Santa befindet sich am anderen Ende und redet wild auf mehrere Bildschirme ein, mit dem Rücken zur Gruppe. Santa ignoriert die Gruppe und redet von „Effizienzgewinnen“, „Kopfzahloptimierung“, „Auslagerung“, „Synergieeffekten“, „Auslastungsproblemen“, „neuen Geschäftsbereichen“ und „diesen verdammten Zulieferern.“
+
+Santa wird die Spieler so lange ignorieren, bis sie seine Aufmerksamkeit erregen – Computer ausschalten per Stecker ziehen (Piratenwürfel für den Stecker), Santa überwältigen (Söldner 6, Zähigkeit 4) o.ä. Er wird aber weiter wirres Zeug reden. Santa hat außergewöhnlich rote Backen und einen glasigen Blick. (Symptome, s.u.)
+
 ### Folgende Information ist bei Santa zu bekommen:
 
 #### Wenn sich die Piraten bei Santa als Lieferanten oder Zulieferer ausgeben (Händler – 4 Erfolge):
@@ -72,6 +76,7 @@ Santa hat einen Lieferanten in der Sonderrechtszone (in einem Slum namens Foxcon
 <tr><td>4</td><td>Neoliberales Fieber kann nur mit einem Gegenmittel geheilt werden</td></tr>
 </tbody>
 </table>
+
 #### Nachforschungen zu neoliberalem Fieber:
 
 <table>
@@ -86,6 +91,6 @@ Santa hat einen Lieferanten in der Sonderrechtszone (in einem Slum namens Foxcon
 </table>
 
 ***
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Weihnachten2/Einstieg)
-- **Weiter:** [Kabukicho-Prime]({{ site.baseurl }}/Abenteuer/Weihnachten2/Kabukichoprime)
 
+- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Einstieg)
+- **Weiter:** [Kabukicho-Prime]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Kabukicho-Prime)

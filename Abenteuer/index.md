@@ -140,7 +140,7 @@ Die Piraten bekommen den Auftrag, den Weihnachtsmann sicher zur großen Weihnach
 
 Dieses Abenteuer kann als Fortsetzung zum ersten Weihnachtsabenteuer gespielt werden, ein Jahr später wieder kurz vor Weihnachten oder als eigenständiges Abenteuer, wenn ein paar mehr Infos vom Spielleiter eingestreut werden.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Weihnachten2/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Weihnachten_II/)
 
 ## Zeitraub
 
