@@ -159,6 +159,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "",
+    "SOELDNER": 2,
+    "TECH": 2,
+    "PILOT": 4,
+    "HAENDLER": 6,
+    "Zaehigkeit": 2,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Chester_Gateland": {
@@ -185,6 +191,12 @@
     ],
     "Wohnort": "",
     "Position": "Society-Girl",
+    "SOELDNER": 2,
+    "TECH": 2,
+    "PILOT": 4,
+    "HAENDLER": 6,
+    "Zaehigkeit": 2,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Dar_Balga": {
@@ -281,6 +293,19 @@
     "Position": "",
     "Link": "/Abenteuer/Der_große_Fang/Danach"
   },
+  "Dr__von_Nofeld": {
+    "Name": "Dr. von Nofeld",
+    "Rasse": "Mensch",
+    "Kategorie": "Spion",
+    "Wohnort": "Erde",
+    "SOELDNER": "7",
+    "TECH": "6",
+    "PILOT": "4",
+    "HAENDLER": "5",
+    "Zaehigkeit": 2,
+    "Bewaffnung": "Laserpistole (WB 0)",
+    "Link": "/Abenteuer/Wagonian_Wedding/Selbstdarsteller"
+  },
   "Dustin_Bisam": {
     "Name": "Dustin Bisam",
     "Rasse": "Streifanier",
@@ -290,6 +315,12 @@
     ],
     "Wohnort": "",
     "Position": "",
+    "SOELDNER": 2,
+    "TECH": 2,
+    "PILOT": 4,
+    "HAENDLER": 6,
+    "Zaehigkeit": 2,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Edward_Bakutha": {
@@ -386,6 +417,12 @@
     ],
     "Wohnort": "",
     "Position": "Modeschöpfer",
+    "SOELDNER": 2,
+    "TECH": 7,
+    "PILOT": 4,
+    "HAENDLER": 6,
+    "Zaehigkeit": 2,
+    "Bewaffnung": "Laserpistole (WB 0)",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Gordon_Green": {
@@ -480,6 +517,12 @@
     ],
     "Wohnort": "",
     "Position": "Leas heimlicher Verlobter",
+    "SOELDNER": 5,
+    "TECH": 4,
+    "PILOT": 7,
+    "HAENDLER": 4,
+    "Zaehigkeit": 4,
+    "Bewaffnung": "Laserpistole (WB 0)",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Hemla": {
@@ -621,6 +664,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Prinzengemahlin",
+    "SOELDNER": 2,
+    "TECH": 2,
+    "PILOT": 4,
+    "HAENDLER": 6,
+    "Zaehigkeit": 2,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Kalif_Kulwa": {
@@ -662,6 +711,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Königin",
+    "SOELDNER": 4,
+    "TECH": 4,
+    "PILOT": 6,
+    "HAENDLER": 8,
+    "Zaehigkeit": 4,
+    "Bewaffnung": "Wagonisches Zepter (WB 1",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Kritias": {
@@ -680,6 +735,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Kronprinz",
+    "SOELDNER": 4,
+    "TECH": 4,
+    "PILOT": 5,
+    "HAENDLER": 7,
+    "Zaehigkeit": 4,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Kuster_Beaton": {
@@ -706,6 +767,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Leas Kammerzofe",
+    "SOELDNER": 3,
+    "TECH": 2,
+    "PILOT": 5,
+    "HAENDLER": 7,
+    "Zaehigkeit": 2,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Larry_Stanton": {
@@ -772,6 +839,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Elisabeths rechte Hand",
+    "SOELDNER": 4,
+    "TECH": 4,
+    "PILOT": 5,
+    "HAENDLER": 6,
+    "Zaehigkeit": 4,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Lucy_Anderson": {
@@ -796,6 +869,14 @@
     "Wohnort": "Two Eyed Jack",
     "Position": "",
     "Link": "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack"
+  },
+  "Madame_PlaemPlaem": {
+    "Name": "Madame PlämPläm",
+    "Rasse": "unbekannt",
+    "Kategorie": "Promi",
+    "Wohnort": "unbekannt",
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Madame_PlaemPlaem": {
     "Name": "Madame PlämPläm",
@@ -935,6 +1016,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Leas Verlobter",
+    "SOELDNER": 2,
+    "TECH": 2,
+    "PILOT": 3,
+    "HAENDLER": 4,
+    "Zaehigkeit": 4,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Prinzessin_Lea": {
@@ -946,6 +1033,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Prinzessin",
+    "SOELDNER": 2,
+    "TECH": 6,
+    "PILOT": 4,
+    "HAENDLER": 8,
+    "Zaehigkeit": 4,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Prinzessin_Lea": {
@@ -957,6 +1050,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Prinzessin",
+    "SOELDNER": 2,
+    "TECH": 6,
+    "PILOT": 4,
+    "HAENDLER": 8,
+    "Zaehigkeit": 4,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Professor_Robotto": {
@@ -1018,6 +1117,12 @@
     ],
     "Wohnort": "",
     "Position": "Hofkorrespondent",
+    "SOELDNER": 2,
+    "TECH": 4,
+    "PILOT": 2,
+    "HAENDLER": 6,
+    "Zaehigkeit": 2,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Sabrwal": {
@@ -1225,6 +1330,12 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Prinz",
+    "SOELDNER": 2,
+    "TECH": 4,
+    "PILOT": 6,
+    "HAENDLER": 4,
+    "Zaehigkeit": 2,
+    "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Xergul": {
