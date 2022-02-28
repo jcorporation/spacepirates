@@ -108,6 +108,17 @@
     "Wohnort": "Trullmania",
     "Link": "/Weltraum/Konzerne/Puugle_Incorporated"
   },
+  "Bing_Peng": {
+    "Name": "Bing Peng",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Händler",
+    "Wohnort": "",
+    "HAENDLER": "4",
+    "SOELDNER": "5",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "Laserpistole: Bonus 0",
+    "Link": "/Abenteuer/Zeitraub/Auftrag"
+  },
   "Birgit_Niels": {
     "Name": "Birgit Niels",
     "Rasse": "Spaceamazone",
@@ -615,6 +626,17 @@
     "Zaehigkeit": "4",
     "Link": "/Abenteuer/Gefangen_im_SpaceSchnee/"
   },
+  "Jangba": {
+    "Name": "Jangba",
+    "Rasse": "Samnese",
+    "Kategorie": [
+      "Händler",
+      "Halunke"
+    ],
+    "Wohnort": "",
+    "Position": "",
+    "Link": "/Weltraum/Händler_und_Halunken"
+  },
   "Javier_Moretti": {
     "Name": "Javier Moretti",
     "Rasse": "Mensch",
@@ -701,6 +723,19 @@
     "Wohnort": "BigBong",
     "Position": "",
     "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten"
+  },
+  "Knecht_Ruprecht": {
+    "Name": "Knecht Ruprecht",
+    "Rasse": "Glukorianer",
+    "Kategorie": "",
+    "Wohnort": "Santa 24",
+    "SOELDNER": "7",
+    "TECH": "3",
+    "PILOT": "5",
+    "HAENDLER": "7",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "Laserrute: P+2",
+    "Link": "/Abenteuer/Weihnachten/Knecht_Ruprecht"
   },
   "Koenigin_Elisabeth": {
     "Name": "Königin Elisabeth",
@@ -991,6 +1026,23 @@
     "Wohnort": "",
     "Position": "",
     "Link": "/Weltraum/Promis"
+  },
+  "Oliver_Malbek": {
+    "Name": "Oliver Malbek",
+    "Rasse": "Mensch",
+    "Kategorie": [
+      "Fanatiker",
+      "Marmone"
+    ],
+    "Position": "Marmonenanführer",
+    "Wohnort": "",
+    "SOELDNER": 2,
+    "PILOT": 2,
+    "TECH": 1,
+    "HAENDLER": 5,
+    "Zaehigkeit": 4,
+    "Bewaffnung": "Revolver (P+0)",
+    "Link": "/Weltraum/Sekten/Marmonen"
   },
   "Oma_Binkel": {
     "Name": "Oma Binkel",
@@ -1304,6 +1356,19 @@
     "Position": "Ein korrupter Hauptmann der Flotte des Galaktischen Handelsrats.",
     "Wohnort": "Neusirius",
     "Link": "/Weltraum/Militär"
+  },
+  "Weihnachtsmann": {
+    "Name": "Weihnachtsmann",
+    "Rasse": "Mensch",
+    "Kategorie": "",
+    "Wohnort": "Santa 24",
+    "SOELDNER": "4",
+    "TECH": "2",
+    "PILOT": "6",
+    "HAENDLER": "7",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "keine",
+    "Link": "/Abenteuer/Weihnachten/Weihnachtsmann"
   },
   "Wesir_Jaaved": {
     "Name": "Wesir Jaaved",
