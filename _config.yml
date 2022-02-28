@@ -7,3 +7,7 @@ collections_dir: collections
 collections:
   Piratencrews:
     sort_by: name
+  Weltraumtiere:
+    sort_by: name
+  Sekten:
+    sort_by: name

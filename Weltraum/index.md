@@ -70,7 +70,7 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 - [Konzerne]({{ site.baseurl }}/Weltraum/Konzerne/)
 - [Händler und Halunken]({{ site.baseurl }}/Weltraum/Händler_und_Halunken)
 - [Verrückte Wissenschaftler]({{ site.baseurl }}/Weltraum/Verrückte_Wissenschaftler)
-- [Sekten]({{ site.baseurl }}/Weltraum/Sekten)
+- [Sekten]({{ site.baseurl }}/Weltraum/Sekten/)
 - [Militär]({{ site.baseurl }}/Weltraum/Militär)
 - [Übersicht der bekannten Personen]({{ site.baseurl }}/Weltraum/Übersicht_der_bekannten_Personen)
 - [Übersicht der Organisationen]({{ site.baseurl }}/Weltraum/Übersicht_der_Organisationen)
