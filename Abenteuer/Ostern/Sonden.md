@@ -21,12 +21,12 @@ Halten sich die Piraten insgesamt zu lange in der Nähe so einer Sonde auf, kann
 <tr><td>4+</td><td>5</td></tr>
 </tbody>
 </table>
+
 ## Kontrollsignal
 
 Die Sonden werden zentral gesteuert, so dass ein Kontrollsignal zurückverfolgt werden kann. Es werden 4 Erfolge auf TECH benötigt, um die Quelle des Kontrollsignals auszumachen. Das Kontrollsignal führt die Piraten direkt zum Osterhasen.
 
-
 ***
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)
-- **Weiter:** [Vereinigung zur Förderung von Ostern]({{ site.baseurl }}/Abenteuer/Ostern/Vzfvo)
 
+- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)
+- **Weiter:** [Vereinigung zur Förderung von Ostern]({{ site.baseurl }}/Abenteuer/Ostern/VzFvO)

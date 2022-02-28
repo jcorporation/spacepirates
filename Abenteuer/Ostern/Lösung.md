@@ -20,7 +20,6 @@ Easter Egg ist extrem gut geschützt und bewaffnet, so dass eher eine List als a
 
 Sobald der Osterhase wieder in seiner Dimension ist, verlieren auch die Sonden ihre Wirkung, da sie direkt von der Energie des Osterhasen gespeist werden. Praktischerweise ist das Dimensionsloch, aus dem der Osterhase mit Easter Egg kam, noch genau neben der Raumstation.
 
-
 ***
-- **Zurück:** [Vereinigung zur Förderung von Ostern]({{ site.baseurl }}/Abenteuer/Ostern/Vzfvo)
 
+- **Zurück:** [Vereinigung zur Förderung von Ostern]({{ site.baseurl }}/Abenteuer/Ostern/VzFvO)

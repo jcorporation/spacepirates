@@ -2,11 +2,17 @@
 layout: page
 permalink: /Abenteuer/Ostern/Einstieg
 title: Einstieg
+sitedata:
+    Slc:
+        Hemla:
+            Name: "Hemla"
+            Rasse: "Trull"
+            Kategorie: "Kneipenbesitzer"
+            Wohnort: "Gimis Bar"
+            Position: ""
 ---
 
-
 # Einstieg
-
 
 Die Piraten sind gerade mit ihrem Raumschiff gerade zu Gimis Bar unterwegs um dort die Osterfeiertage bei der großen Fiestas-el-Caribe Osterparty zu verbringen. Was gibt es schöneres als Ostern unter Palmen zu feiern und im Sand nach Rumostereiern zu suchen? Gimis Bar befindet sich gerade im Sektor der Föderation.
 
@@ -17,8 +23,6 @@ Auf dem halben Weg zur Gimis Bar ist auf der Brücke mal wieder der Rum alle, ab
 Gimis Bar ist ein altes Frachtschiff, das zu einer gigantischen Bar umgebaut wurde, inklusive Sonnendeck und Sandstrand. Schiffe können bequem an das Frachtschiff andocken. Weitere Informationen zu Gimis Bar sind unter [Piratentreffpunkte]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Gimisbar) im Grundregelwerk zu finden.
 
 Als die Piraten auf Gimis Bar ankommen, herrscht dort etwas Tumult vor. Es wird den Piraten relativ schnell klar, das etwas nicht stimmen kann: Hier ist auch der Rum aus!
-
-
 
 ### Hemla
 
@@ -32,23 +36,9 @@ Hemla, der Wirt dieser Bar ist gerade sehr gestresst und schimpft vor sich hin. 
 
 Wenn die Piraten also nicht länger auf dem Trockenen sitzen wollen, müssen sie sich wohl selber dem Problem widmen. Wenn die Piraten das nicht von selbst aus anbieten, bietet ihnen Hemla kostenlose Logi über Ostern an, wenn sie herausfinden, wo der Rum geblieben ist. Das sollte Ansporn genug sein, die Piraten werden sicherlich auch als Retter des Osterfests gefeiert, wenn sie den Rumnachschub wieder in Gang setzen.
 
-
-<aside>
-<table data-type="slc">
-<caption>Hemla</caption>
-<tbody>
-<tr><th>Rasse</th><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull)</td></tr>
-<tr><th>Kategorie</th><td>Kneipenbesitzer</td></tr>
-<tr><th>Wohnort</th><td>[Gimis Bar]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Gimisbar)</td></tr>
-<tr><th>Erwähnungen</th><td>[Hemla]({{ site.baseurl }}/Search)</td></tr>
-</tbody>
-</table>
-</aside>
+{% include slc.md data=page.sitedata.Slc.Hemla %}
 
 ***
 
 - **Zurück:** [Hintergrund]({{ site.baseurl }}/Abenteuer/Ostern/Hintergrund)
 - **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)
-
-
-

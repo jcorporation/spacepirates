@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Ostern/Nachforschungen_rabbitinc
+permalink: /Abenteuer/Ostern/Rabbit_Inc
 title: Rabbit Inc
 ---
 
@@ -12,7 +12,7 @@ Dieser Konzern ist auf Ostermerchandise spezialisiert und produziert nur Produkt
 
 ## Pessach 4
 
-Um [Sonde des Osterhasen]({{ site.baseurl }}/Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Pessach4) kreist eine )({{ site.baseurl }}/Abenteuer/Ostern/Sonden), diese fällt aber beim ersten Blick nicht auf, da um jeden Planeten irgendwelche Satelliten kreisen. Die Piraten dürfen aber eine Sensorenprobe (TECH) ablegen, wenn sie auf irgendwelche Besonderheiten achten. Bei 3 Erfolgen entdecken sie die ungewöhnliche Sonde.
+Um [Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Pessach4) kreist eine [Sonde des Osterhasen])({{ site.baseurl }}/Abenteuer/Ostern/Sonden)), diese fällt aber beim ersten Blick nicht auf, da um jeden Planeten irgendwelche Satelliten kreisen. Die Piraten dürfen aber eine Sensorenprobe (TECH) ablegen, wenn sie auf irgendwelche Besonderheiten achten. Bei 3 Erfolgen entdecken sie die ungewöhnliche Sonde.
 
 Schon bei der Ankunft auf Pessach 4 ist klar, dass die Leute hier osterverrückt sind. Die Piraten werden sogar bei offiziellen Funksprüchen mit „Frohe Ostern“ begrüßt und mit „Gesegnetes Osterfest“ verabschiedet.
 
@@ -33,8 +33,8 @@ Rabbit Inc wird von dem verrückt geworden Manager Harrison Welch geleitet. Er m
 Harrison Welch ist ein Mensch und auf der Erde aufgewachsen. Er ist in mittlerem Alter und trägt immer sehr schicke Anzüge, wie es sich für einen Manager gehört. Er ist momentan total osterverrückt, aber ein vernünftiger Mensch, wenn er außerhalb des Einflusses der Sonden ist.
 
 <table>
+<caption>Harrison Welch</caption>
 <tbody>
-<tr><th colspan="2">Harrison Welch</th></tr>
 <tr><th>SÖLDNER</th><td>2</td></tr>
 <tr><th>TECH</th><td>4</td></tr>
 <tr><th>PILOT</th><td>6</td></tr>
@@ -45,5 +45,5 @@ Harrison Welch ist ein Mensch und auf der Erde aufgewachsen. Er ist in mittlerem
 </table>
 
 ***
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)
 
+- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)

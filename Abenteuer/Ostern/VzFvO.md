@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Ostern/Vzfvo
+permalink: /Abenteuer/Ostern/VzFvO
 title: Vereinigung zur Förderung von Ostern - VzFvO
 ---
 
@@ -13,8 +13,8 @@ Dazu haben sie Dimensionsforscher entführt, die den Osterhasen höchstpersönli
 Jeder VzFvO-Agent trägt ein Halsband mit einem Osterei, das die gleiche Wirkung wie die Sonden hat, allerdings nur in einem Umkreis von 20 Metern.
 
 <table>
+<caption>VzFvO Agenten</caption>
 <tbody>
-<tr><th colspan="2">VzFvO Agenten</th></tr>
 <tr><th>SÖLDNER</th><td>6</td></tr>
 <tr><th>TECH</th><td>4</td></tr>
 <tr><th>PILOT</th><td>3</td></tr>
@@ -23,6 +23,7 @@ Jeder VzFvO-Agent trägt ein Halsband mit einem Osterei, das die gleiche Wirkung
 <tr><th>Bewaffnung</th><td>Bunte Laserpistole: WB 0</td></tr>
 </tbody>
 </table>
+
 ## Easter Egg
 
 Easter Egg ist die große Raumstation des Osterhasen. Sie sieht aus, wie ein übergroßes Osterei mit roter Schleife. Sie befindet sich im Grenzgebiet der Föderation zur Freihandelszone.
@@ -30,8 +31,8 @@ Easter Egg ist die große Raumstation des Osterhasen. Sie sieht aus, wie ein üb
 Hier wird von den entführten Forschern an noch mächtigeren Sonden gearbeitet und die momentanen Sonden produziert und kontrolliert. Die Raumstation ist schwer bewaffnet und gut geschützt. Von ihr geht eindeutig das Kontrollsignal der Sonden aus. Die Raumstation schießt auch immer wieder solche Sonden ab.
 
 <table>
+<caption>Easter Egg</caption>
 <tbody>
-<tr><th colspan="2">Easter Egg</th></tr>
 <tr><th>Techwert</th><td>6</td></tr>
 <tr><th>Söldnerwert</th><td>6</td></tr>
 <tr><th>Zuverlässigkeit</th><td>2</td></tr>
@@ -44,6 +45,6 @@ Hier wird von den entführten Forschern an noch mächtigeren Sonden gearbeitet u
 </table>
 
 ***
-- **Zurück:** [Sonden]({{ site.baseurl }}/Abenteuer/Ostern/Sonden)
-- **Weiter:** [Lösungsmöglichkeiten]({{ site.baseurl }}/Abenteuer/Ostern/Loesung)
 
+- **Zurück:** [Sonden]({{ site.baseurl }}/Abenteuer/Ostern/Sonden)
+- **Weiter:** [Lösungsmöglichkeiten]({{ site.baseurl }}/Abenteuer/Ostern/Lösung)
