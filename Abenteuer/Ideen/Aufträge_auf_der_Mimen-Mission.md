@@ -1,12 +1,14 @@
 ---
 layout: page
-permalink: /Abenteuer/Ideen/Auftraegemimenmision
-title: Mögliche Aufträge auf der Mimen-Mission
+permalink: /Abenteuer/Ideen/Aufträge_auf_der_Mimen-Mission
+title: Aufträge auf der Mimen-Mission
 ---
 
-# Mögliche Aufträge auf der Mimen-Mission
+# Aufträge auf der Mimen-Mission
 
 Ein Wurf auf Händler mit mindestens drei Erfolgen sorgt dafür, dass man den Charakteren einen Auftrag von folgender Tabelle anbietet.
+
+- Die [Mimen-Mission]({{ site.baseurl }}/Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission)
 
 <table>
 <thead>
@@ -19,19 +21,19 @@ Ein Wurf auf Händler mit mindestens drei Erfolgen sorgt dafür, dass man den Ch
 <tr><td>4</td><td>Ein Konkurrent der Walter-Dinsey-Compagnie beauftragt die Piraten, in eines von deren Filmstudios am Rande der Stadt „Lala“ einzudringen. Es gibt Gerüchte, darunter würden Experimente an arglosen Menschen und Tieren durchgeführt. Grauenvolle, zum Halbleben verdammte Mutationen zwischen Menschen und Mäusen und sogar Menschen und Enten vegetieren dort angeblich vor sich hin, um als Statisten in Filmen verheizt zu werden. Der konkurrierende Produzent will diese Machenschaften den Medien zuspielen, um der Walter-Dinsey-Compagnie zu schaden.</td><td>20.000 UC</td></tr>
 <tr><td>5</td><td>Die Piraten sollen ein Filmteam schützen, während es Aufnahmen von einem Sternenwal macht. Leider wollen die Kameraleute näher ran, als es das Gefühl der Charaktere für ihre Sicherheit gebietet…</td><td>5000 UC</td></tr>
 <tr><td>6</td><td>Ein Händler vom Marktplatz tritt an die Charaktere heran, die Piraten sollen eine größere Menge exotischer Waren besorgen. Bitte noch einmal auf folgender Tabelle würfeln:
-<table>
-<thead>
-<tr><th>W6</th><th>Ware</th></tr>
-</thead>
-<tbody>
-<tr><td>1</td><td>Rote Teppiche für den Planeten Hollywood.</td></tr>
-<tr><td>2</td><td>Cocktailwürstchen und Piccolos für den Roten Planeten.</td></tr>
-<tr><td>3</td><td>Brusthaartoupets für Serius 80.</td></tr>
-<tr><td>4</td><td>Bunte Tücher für den Planet Bollywood.</td></tr>
-<tr><td>5</td><td>Fässer mit grünem Kunstblut für Sandalien.</td></tr>
-<tr><td>6</td><td>Billigen Rotwein, der aber teuer aussieht, für Avantgardia.</td></tr>
-</tbody>
-</table>
+    <table>
+    <thead>
+    <tr><th>W6</th><th>Ware</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>1</td><td>Rote Teppiche für den Planeten Hollywood.</td></tr>
+    <tr><td>2</td><td>Cocktailwürstchen und Piccolos für den Roten Planeten.</td></tr>
+    <tr><td>3</td><td>Brusthaartoupets für Serius 80.</td></tr>
+    <tr><td>4</td><td>Bunte Tücher für den Planet Bollywood.</td></tr>
+    <tr><td>5</td><td>Fässer mit grünem Kunstblut für Sandalien.</td></tr>
+    <tr><td>6</td><td>Billigen Rotwein, der aber teuer aussieht, für Avantgardia.</td></tr>
+    </tbody>
+    </table>
 </td><td>5000 UC</td></tr>
 </tbody>
 </table>

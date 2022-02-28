@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Ideen/Atlantervsspaceamazonen
+permalink: /Abenteuer/Ideen/Atlanter_vs_Spaceamazonen
 title: Atlanter vs Spaceamazonen
 ---
 
@@ -23,4 +23,3 @@ Die Charaktere wachen auf einem verlassenen Stadtschiff der Atlanter auf und hab
 ## Ende des Y-Chromosoms
 
 Eine verrücke Amazonenwissenschaftlerin vom Planeten Purple Diamond hat den Plan, das Universum von Männern zu befreien. Dazu hat sie einen Virus geschaffen, das alle Y-Chromosome vernichtet, wodurch nur noch weibliche Kinder geboren werden und Männer immer weiblicher werden. Den Virus hat sie zum Test auf einer Piratenraumstation ausgesetzt. Die Charaktere sehen sich mit einer weibischen Raumstation konfrontiert und infizieren sich selber! Das Gegenmittel hat natürlich nur die verrückte Amazonenwissenschaftlerin.
-

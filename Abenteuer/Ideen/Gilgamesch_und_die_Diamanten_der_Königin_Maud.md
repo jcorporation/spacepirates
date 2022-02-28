@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Ideen/Gilgamesch
+permalink: /Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Königin_Maud
 title: Gilgamesch und die Diamanten der Königin Maud
 ---
 
@@ -13,4 +13,3 @@ Sämtliche wichtigen Piraten machen sich auf, um die berühmten Diamanten von K�
 Es sollte zwei, drei Möglichkeiten geben, um die dreisten Diebe zu finden - einschließlich eines ausgebrannten Raumschiffs der Spaceamazonen. Der Antrieb des Schiffs könnte eine Spur hinterlassen, der ein fähiger Tech folgen kann.
 
 Und dann natürlich den großen Endkampf an Bord des sumerischen Schiffs.
-

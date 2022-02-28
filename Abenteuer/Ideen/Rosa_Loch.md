@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Ideen/Rosaloch
+permalink: /Abenteuer/Ideen/Rosa_Loch
 title: Rosa Loch
 ---
 
@@ -15,4 +15,3 @@ Der Rosastrahler ist auf einem kleinen Planeten in der Nähe des schwarzen Lochs
 Der Planet ist ein roter Wüstenplanet auf dem regelmäßig Sandstürme auftreten, er ist heiß und trocken, verfügt aber über eine atembare Atmosphäre.
 
 Natürlich liegt in der Umlaufbahn des Planeten auch ein Schiff der Spaceamazonen.
-
