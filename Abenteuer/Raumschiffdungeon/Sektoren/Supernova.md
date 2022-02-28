@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Raumschiffdungeon/Sektoren_supernova
+permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Supernova
 title: Supernova
 ---
 
@@ -26,6 +26,7 @@ Die Sonne dieses Sektors entwickelt sich gerade zur Supernova, entsprechend hei�
 <tr><td>9</td><td>Großer Gasriese, dichter Ring</td></tr>
 </tbody>
 </table>
+
 Im Sektor ist es so heiß, dass die Schilde des Raumschiffs extrem beansprucht wer&shy;den: Jede Viertelstunde sinkt der Schild&shy;wert um einen Punkt. Sind die Schilde inaktiv, fängt die Schiffshülle an zu schmelzen und bekommt jede Viertel&shy;stunde einen Schadenspunkt. Allzu&shy; lange sollten sich die Piraten in diesem Sektor also nicht aufhalten.
 
 Trotz dieser lebensfeindlichen Bedingungen ist der Sektor bewohnt: Auf den Feuerplaneten leben Feuerwesen, die sich frei im gesamten System bewegen können. Zudem harren unter einem Feuerschutzschild hochentwickelte Pinguine auf Rettung.
@@ -58,9 +59,10 @@ Die Pinguine fürchten, bald von den Feuerwesen besiegt zu werden und wie lange 
 <tr><th>PILOT</th><td>4</td><td>4</td></tr>
 <tr><th>HÄNDLER</th><td>4</td><td>4</td></tr>
 <tr><th>Zähigkeit</th><td>2</td><td>2</td></tr>
-<tr><th>Bewaffnung</th><td colspan="2" rowspan="1">Eisstrahler: WB 1</td></tr>
+<tr><th>Bewaffnung</th><td colspan="2">Eisstrahler: WB 1</td></tr>
 </tbody>
 </table>
+
 ## Feuerwesen
 
 Feuerwesen sind groß, dumm und angriffslustig. Sie halten sich zwar bevorzugt auf den Feuerplaneten auf, bewegen sich aber frei im ganzen Sektor. Innerhalb einer Atmosphäre sind sie etwa menschengroß, im Weltraum aber so groß wie ein kleines Raumschiff. Herkömmliche Waffen helfen nur sehr begrenzt gegen die Feuerwesen, Eis und Wasser hingegen umso besser.
@@ -74,9 +76,9 @@ Feuerwesen sind groß, dumm und angriffslustig. Sie halten sich zwar bevorzugt a
 <tr><th>Schadenspunkte</th><td>10*</td></tr>
 </tbody>
 </table>
+
 *Schaden von normalen Waffen wird halbiert (abrunden) und von Eis/Wasser verdoppelt.
 
-
 ***
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren.html)
 
+- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

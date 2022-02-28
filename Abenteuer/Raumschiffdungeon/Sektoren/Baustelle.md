@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Raumschiffdungeon/Sektoren_baustelle
+permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Baustelle
 title: Baustelle
 ---
 
@@ -26,15 +26,15 @@ Innerhalb dieses Raumes gibt es sonst nichts besonderes zu entdecken, aber eine 
 Hinter der Tür befindet sich eine große, moderne Werkstatt, auch hier ist alles von einer dicken Staubschicht bedeckt. Das Aufbrechen der Tür setzt einen Verteidigungsmechanismus in Kraft: 4 Lasergeschütze feuern auf alles, was sich bewegt.
 
 <table>
+<caption>4 Lasergeschütze</caption>
 <tbody>
-<tr><th colspan="2">4 Lasergeschütze</th></tr>
 <tr><th>SÖLDNER</th><td>5</td></tr>
 <tr><th>Zähigkeit</th><td>1</td></tr>
 </tbody>
 </table>
+
 Auf einer Werkbank befindet sich ein Gegenstand, der aus wild angeordneten Röhren besteht (Modulationseinheit des Wurmlochdemodulators). Es ist offensichtlich, dass dem Gegenstand noch zwei Einheiten fehlen.
 
-
 ***
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren.html)
 
+- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

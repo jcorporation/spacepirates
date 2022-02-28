@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Raumschiffdungeon/Sektoren_wikinger
+permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Wikinger
 title: Wikinger
 ---
 
@@ -19,13 +19,14 @@ Um sich nicht gegenseitig zu vernichten, tragen die Wikinger ihre Streitigkeiten
 Das Wrack des Romahaschiffs treibt, mittlerweile unbeachtet, inmitten des Asteroiden&shy;gürtels, genau zwischen den Territorien zweier Wikingerstämme. Der unauffällige Sender des Wurmlochdemodulators wurde nicht geplündert, da die Wikinger ihn als wertlos erachteten.
 
 <table>
+<caption>Disruptorkanone</caption>
 <tbody>
-<tr><th colspan="2">Disruptorkanone</th></tr>
 <tr><th>SÖLDNER</th><td>8</td></tr>
 <tr><th>Schadensmodifikator</th><td>3</td></tr>
 <tr><th>Schadenspunkte</th><td>10</td></tr>
 </tbody>
 </table>
+
 Die Wikinger sind äußerst aggressiv und vermuten zudem, dass die Piraten zu den Romaha gehören, von denen sie eingesperrt wurden. Sie schießen daher, bevor sie fragen, aber lassen mit sich reden, wenn man sie überzeugt, dass man selbst ebenfalls ein Opfer der Romaha ist. Außer natürlich, man wirkt reich und schwach oder nutzlos.
 
 Die Wikinger lassen sich mit Waffen oder Ähnlichem bestechen, wären auch an prestigeträchtigen Beutezügen außerhalb ihres Sektors interessiert.
@@ -45,5 +46,5 @@ Die Wikinger lassen sich mit Waffen oder Ähnlichem bestechen, wären auch an pr
 </table>
 
 ***
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren.html)
 
+- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

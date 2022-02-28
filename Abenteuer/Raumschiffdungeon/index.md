@@ -12,18 +12,15 @@ Die Piraten reisen durchs All, als plötzlich die Sensoren ihres Raumschiffs ver
 
 - [Hintergrund]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Hintergrund)
 - [Einstieg]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Einstieg)
-<li>[Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren)
-<ol>
-- [Sirenen]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren_sirenen)
-- [Supernova]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren_supernova)
-- [Wikinger]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren_wikinger)
-- [Nazis]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren_nazis)
-- [Drache]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren_drache)
-- [Baustelle]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren_baustelle)
-</ol>
-</li>
+- [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren)
+  1. [Sirenen]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen)
+  2. [Supernova]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/Supernova)
+  3. [Wikinger]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger)
+  4. [Nazis]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/Nazis)
+  5. [Drache]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/Drache)
+  6. [Baustelle]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/Baustelle)
 - [Wurmlochdemodulator]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator)
 
 ## Download
 
-[v2/abenteuer/raumschiffdungeon]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.

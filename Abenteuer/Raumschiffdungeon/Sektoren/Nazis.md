@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Raumschiffdungeon/Sektoren_nazis
+permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Nazis
 title: Nazis
 ---
 
@@ -21,8 +21,8 @@ Es sind gerade die Feierlichkeiten zum 1000-jährigen Reichsbestehen im Gange. M
 Tagsüber kann die Ausstellung ohne Probleme betreten werden, die Museumsführer erzählen den Piraten auch gerne von der glorreichen Historie des Reiches und des Wurmlochdemodulators. (Sie wissen allerdings nicht, was es wirklich ist, sondern bezeichnen es nur als außerirdisches Artefakt mit deren Hilfe sie irgendwann zur Erde zurückkehren werden.) Im Museum ist immer etwas los, so dass es keinen unbeobachteten Moment gibt. Zudem steht das Artefakt in einer alarmgesicherten Glasvitrine. Nachts sind alle Eingänge verschlossen und mit Alarmanlagen gesichert, außerdem schieben vier Nachtwächter Dienst.
 
 <table>
+<caption>Typischer Nazisoldat</caption>
 <tbody>
-<tr><th colspan="2">Typischer Nazisoldat</th></tr>
 <tr><th>SÖLDNER</th><td>4</td></tr>
 <tr><th>Zähigkeit</th><td>1</td></tr>
 <tr><th>Bewaffnung</th><td>Maschinenpistole: WB 1</td></tr>
@@ -30,5 +30,5 @@ Tagsüber kann die Ausstellung ohne Probleme betreten werden, die Museumsführer
 </table>
 
 ***
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren)
 
+- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

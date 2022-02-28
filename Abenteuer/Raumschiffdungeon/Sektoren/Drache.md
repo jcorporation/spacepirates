@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Raumschiffdungeon/Sektoren_drache
+permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Drache
 title: Drache
 ---
 
@@ -27,9 +27,7 @@ Es ist ein typischer Fantasydrache, mit Schuppen, enormen Flügeln und der Fähi
 In seiner Umgebung riecht es penetrant nach Schwefel und er liegt auf einem gigantischen Goldschatz. Der Drache ist mittlerweile recht träge, aber intelligent und immer noch gefährlich. Er hört auf den Namen Eragon und ihm ist relativ schnell klar, dass die Piraten nicht von dieser Welt sein können. Mit dem Drachen kann verhandelt werden, an einem Kampf ist nur mit der Hilfe des Piratenschiffs zu denken und auch dann noch ziemlich risikoreich. Auf jeden Fall müssen die Piraten dem Drachen schon einiges bieten, damit er ihnen die Modulationseinheit überlässt.
 
 <table>
-<thead>
-<tr><th colspan="2">Drache Eragon</th></tr>
-</thead>
+<caption>Drache Eragon</caption>
 <tbody>
 <tr><th>Kampfprofil</th><td>8</td></tr>
 <tr><th>Schadensmodifikator</th><td>Feuerstrahl: 2<br/>
@@ -40,5 +38,5 @@ Klauen: 3</td></tr>
 </table>
 
 ***
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren)
 
+- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Raumschiffdungeon/Sektoren_sirenen
+permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Sirenen
 title: Sirenen
 ---
 
@@ -34,6 +34,7 @@ Insgesamt müssen die Piraten mindestens 9 Erfolge ansammeln, ansonsten wird das
 <tr><td>0</td><td>Das Schiff wird komplett zerstört und sinkt. Jeder Pirat verliert 4 Zähigkeit in jedem Profil. Wenn kein Piratenwürfel zur Regeneration eingesetzt wird, ertrinkt der Pirat.</td></tr>
 </tbody>
 </table>
+
 ## Insel der Sirenen
 
 Es ist eine idyllische Insel mit wunderbarem Sandstrand, glasklarem Wasser, zwitsch&shy;ernden Vögeln und einem freundlichen Wald. Ein ausgetretener Pfad führt in das Innere der Insel. Aus dem Wald dringt ein wohlklingender, extrem verlockender, weiblicher Ge&shy;sang.
@@ -54,7 +55,6 @@ Aufgrund des betörenden Gesangs wollen die Piraten dies aber nur, wenn sie aus 
 
 Die Sendeantenne des Wurmlochde&shy;modu&shy;lators steht in der Mitte des Dorfes. Sie pulsiert leicht. Eine TECH-Probe mit 3 Erfolgen ergibt, dass die Antenne den betörenden Gesang der Sirenen ver&shy;stärkt.
 
-<div class="artikel">
 ### Sirenen
 
 Es sind 8 Sirenen im Dorf.
@@ -68,11 +68,8 @@ Es sind 8 Sirenen im Dorf.
 - Peisinoe
 - Thelxiope
 
-</div>
 <table>
-<thead>
-<tr><th colspan="2">Sirenen</th></tr>
-</thead>
+<caption>Sirenen</caption>
 <tbody>
 <tr><th>SÖLDNER</th><td>4</td></tr>
 <tr><th>TECH</th><td>2</td></tr>
@@ -84,5 +81,5 @@ Es sind 8 Sirenen im Dorf.
 </table>
 
 ***
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren.html)
 
+- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

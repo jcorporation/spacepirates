@@ -22,7 +22,6 @@ Die Bestandteile des Wurmlochdemodulators lassen sich entdecken, indem man die S
 
 - **Sensoren justieren:** 3 Erfolge auf TECH
 
-
 ***
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren.html)
 
+- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)
