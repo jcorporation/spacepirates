@@ -12,11 +12,11 @@ Dieser Sektor besteht aus einem riesigen Asteroidengürtel, der um einen hellen 
 
 Die hier wohnenden Wikinger fliegen auf Drachenluftschiffen von Asteroid zu Asteroid. Jeder Stamm verfügt über eine mächtige Disruptorkanone auf seinem Hauptasteroiden, die auch dem Piratenschiff gefährlich werden können. Die Kanone kann nur vom Schamanen des Stamms bedient werden.
 
-Sie haben schon vor längerer Zeit entdeckt, dass sie in diesem Sektor eingesperrt sind, und haben es geschafft, ein Romahaschiff zu plündern. Dies war aber ihre letzte ge&shy;meinsame Aktion, seitdem sind die Wik&shy;inger&shy;stämme verfeindet. Damals er&shy;beut&shy;eten sie viele technische Errungen&shy;schaften der Romaha, die bis heute ein&shy;satz&shy;&shy;fähig sind. Die Schamanen schwangen sich, mit der Hilfe der mächtigen Romaha&shy;waffen, zu den Führern der Stämme auf, da außer ihnen niemand mit den Geistern in den Dingen kom&shy;munizieren kann. Die normalen Krieger der Wikinger kämpfen daher bloß mit mittel&shy;alterlichen Waffen und stellen daher nur im Nahkampf eine Gefahr für die Piraten dar.
+Sie haben schon vor längerer Zeit entdeckt, dass sie in diesem Sektor eingesperrt sind, und haben es geschafft, ein Romahaschiff zu plündern. Dies war aber ihre letzte gemeinsame Aktion, seitdem sind die Wikingerstämme verfeindet. Damals erbeuteten sie viele technische Errungenschaften der Romaha, die bis heute einsatzfähig sind. Die Schamanen schwangen sich, mit der Hilfe der mächtigen Romahawaffen, zu den Führern der Stämme auf, da außer ihnen niemand mit den Geistern in den Dingen kommunizieren kann. Die normalen Krieger der Wikinger kämpfen daher bloß mit mittelalterlichen Waffen und stellen daher nur im Nahkampf eine Gefahr für die Piraten dar.
 
 Um sich nicht gegenseitig zu vernichten, tragen die Wikinger ihre Streitigkeiten in einem Turnier aus, in dem die besten Kämpfer mit einfachen Waffen gegeneinander antreten. Als Preis winken Ruhm, Ehre und ein Wanderpokal. Das Turnier findet in einem großen Stadion in neutralem Gebiet statt, in dem Tausende Wikinger Platz finden.
 
-Das Wrack des Romahaschiffs treibt, mittlerweile unbeachtet, inmitten des Asteroiden&shy;gürtels, genau zwischen den Territorien zweier Wikingerstämme. Der unauffällige Sender des Wurmlochdemodulators wurde nicht geplündert, da die Wikinger ihn als wertlos erachteten.
+Das Wrack des Romahaschiffs treibt, mittlerweile unbeachtet, inmitten des Asteroidengürtels, genau zwischen den Territorien zweier Wikingerstämme. Der unauffällige Sender des Wurmlochdemodulators wurde nicht geplündert, da die Wikinger ihn als wertlos erachteten.
 
 <table>
 <caption>Disruptorkanone</caption>

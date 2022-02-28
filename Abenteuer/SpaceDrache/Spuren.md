@@ -8,7 +8,7 @@ title: Spuren
 
 ## Zu Prinzessin Lea
 
-Natürlich hat Prinzessin Lea Spuren hinterlassen, damit die wagonischen Ermittlungs&shy;be&shy;hörden auch ihren zerstörten Spaceflitzer finden und sie offiziell für tot erklären.
+Natürlich hat Prinzessin Lea Spuren hinterlassen, damit die wagonischen Ermittlungsbehörden auch ihren zerstörten Spaceflitzer finden und sie offiziell für tot erklären.
 
 Prinzessin Leas Spaceflitzer ist im Asteroidengürtel um das weiße Loch abgestürzt und schickt von dort aus noch ein Notsignal, das jemand in der Nähe empfangen kann. Der Spaceflitzer ist total zerstört und ausgebrannt, man kann aber noch das Wappen der Wagonis erkennen. Von der Prinzessin fehlt jede Spur. Erkundet man aber die Gegend rund um den Spaceflitzer findet man Fußabdrücke, die von einem Drachen stammen.
 
@@ -24,7 +24,7 @@ Windsor-Planet, der Heimatplanet von Prinzessin Lea, ist gut gesichert, so dass 
 </table>
 ## Zum SpaceDrachen
 
-Natürlich bietet das Starnet auch einige Informationsquellen zu Drachen- oder Drachen&shy;eiern an oder man frägt die richtigen Leute (HÄNDLER-Probe).
+Natürlich bietet das Starnet auch einige Informationsquellen zu Drachen- oder Dracheneiern an oder man frägt die richtigen Leute (HÄNDLER-Probe).
 
 <table>
 <thead>

@@ -6,7 +6,7 @@ title: John Marric
 
 # John Marric
 
-John Marric ist ein verrückter, samnesischer Wis&shy;sen&shy;schaftler, der aus uralten Fosilien und bio&shy;elekt&shy;ronischen Techniken eine sich selbst fortpflanzende Drachenarmee schaffen will, um sich zum Herrscher des be&shy;kannten Univer&shy;sums aufzuschwingen. Sein Laboratorium ist auf ei&shy;n&shy;em Mond nahe des weißen Lochs eingerichtet. Er trägt immerzu einen weißen, etwas verschmutzten Labor&shy;kittel und ist um die 60 Jahre alt.
+John Marric ist ein verrückter, samnesischer Wissenschaftler, der aus uralten Fosilien und bioelektronischen Techniken eine sich selbst fortpflanzende Drachenarmee schaffen will, um sich zum Herrscher des bekannten Universums aufzuschwingen. Sein Laboratorium ist auf einem Mond nahe des weißen Lochs eingerichtet. Er trägt immerzu einen weißen, etwas verschmutzten Laborkittel und ist um die 60 Jahre alt.
 
 <table>
 <tbody>
@@ -32,7 +32,7 @@ Wenn die Charaktere im Starnet recherchieren oder etwas herumfragen können sie 
 </table>
 ## Der SpaceDrachen-Prototyp
 
-Marric hat es nach zahlreichen Fehlschlägen geschafft, einen Prototyp eines Drachen zu entwickelt, der sogar in der Lage war ein Drachenei zu legen. Dummerweise haben aber die Instinkte des Drachen zugeschlagen und der Proto&shy;typ ist trotz scharfer Bewachung und eine Sicherheitsvorrichtung, die ihn kontrollieren sollte, mit dem Ei geflohen und hat sich wohl irgendwo einen Drachenhort errichtet.
+Marric hat es nach zahlreichen Fehlschlägen geschafft, einen Prototyp eines Drachen zu entwickelt, der sogar in der Lage war ein Drachenei zu legen. Dummerweise haben aber die Instinkte des Drachen zugeschlagen und der Prototyp ist trotz scharfer Bewachung und eine Sicherheitsvorrichtung, die ihn kontrollieren sollte, mit dem Ei geflohen und hat sich wohl irgendwo einen Drachenhort errichtet.
 
 ## Der Auftrag
 
@@ -40,15 +40,15 @@ Marric ist Stammgast in Jacksons Bar auf Halfway und spricht dort die Charaktere
 
 ## Laboratorium
 
-Das Laboratorium ist das einzig sichtbare Gebäude auf dem Mond, das sich in einem Kra&shy;ter befindet. Es wird von 4 Raketenabschussstationen am Krater&shy;rand und einem Schutz&shy;schild geschützt.
+Das Laboratorium ist das einzig sichtbare Gebäude auf dem Mond, das sich in einem Krater befindet. Es wird von 4 Raketenabschussstationen am Kraterrand und einem Schutzschild geschützt.
 
-Oberirdisch befindet sich nur das offizielle Labo&shy;ratorium und die Wohnräume von Marric. Dort hat Mar&shy;ric auch das Drachenei in einem Art großen Brut&shy;kasten aufbewahrt.
+Oberirdisch befindet sich nur das offizielle Laboratorium und die Wohnräume von Marric. Dort hat Marric auch das Drachenei in einem Art großen Brutkasten aufbewahrt.
 
-Direkt darunter versteckt sich aber ein großer Laborkomplex in dem er den Drachen ge&shy;schaffen und eingesperrt hat. Der Drache konnte aus seinem Gefängnis entkommen und hat sich einen Weg ins Freie gegraben. Nachdem er entkommen ist, hat er das ober&shy;irdische Labor überfallen und sein Ei gestohlen.
+Direkt darunter versteckt sich aber ein großer Laborkomplex in dem er den Drachen geschaffen und eingesperrt hat. Der Drache konnte aus seinem Gefängnis entkommen und hat sich einen Weg ins Freie gegraben. Nachdem er entkommen ist, hat er das oberirdische Labor überfallen und sein Ei gestohlen.
 
 Natürlich zeigt Marric den Charakteren nur den harmlosen Teil seines Mondlabors. Da der Raub schon 3 Monate her ist sind kaum Spuren zu entdecken.
 
-Wenn sich die Charaktere aber auch etwas außerhalb des Labors umschauen, können sie ein&shy;en recht frisches Loch ausmachen, das von irgendwas großem verursacht wurde, dass aus dem Mondinneren hinaus wollte. Marric tut natürlich ahnungslos, falls die Charak&shy;&shy;tere ihn darauf hinweisen. Das Loch führt in den unterirdischen Teil des Laborator&shy;iums, der immer noch stark verwüstet ist und Brandspuren aufweist.
+Wenn sich die Charaktere aber auch etwas außerhalb des Labors umschauen, können sie einen recht frisches Loch ausmachen, das von irgendwas großem verursacht wurde, dass aus dem Mondinneren hinaus wollte. Marric tut natürlich ahnungslos, falls die Charaktere ihn darauf hinweisen. Das Loch führt in den unterirdischen Teil des Laboratoriums, der immer noch stark verwüstet ist und Brandspuren aufweist.
 
 <table>
 <tbody>

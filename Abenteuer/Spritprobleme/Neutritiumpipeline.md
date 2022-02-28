@@ -6,7 +6,7 @@ title: Neutritiumpipeline
 
 # Neutritiumpipeline
 
-Die Neutritium-Pipeline ist knapp 1 Megameter vom Schiff der Piraten entfernt und natürlich mit einem Alarmsystem gesichert. Zudem kann die Pipeline nicht einfach angezapft werden, da das Neutritium bei der FTL-Geschwindigkeit explodieren und alles im Umkreis von &frac34; Lichtjahr zerstören würde. Dies ist aber automatisch jedem Charakter klar. Aber zum Glück der Charaktere befindet sich in etwa 3 Megameter Entfernung eine Pump&shy;station. Wenn diese deaktiviert wird, kann das Neutritium ohne Probleme abge&shy;pumpt werden. Aber natürlich wird dadurch ein Alarm ausgelöst.
+Die Neutritium-Pipeline ist knapp 1 Megameter vom Schiff der Piraten entfernt und natürlich mit einem Alarmsystem gesichert. Zudem kann die Pipeline nicht einfach angezapft werden, da das Neutritium bei der FTL-Geschwindigkeit explodieren und alles im Umkreis von &frac34; Lichtjahr zerstören würde. Dies ist aber automatisch jedem Charakter klar. Aber zum Glück der Charaktere befindet sich in etwa 3 Megameter Entfernung eine Pumpstation. Wenn diese deaktiviert wird, kann das Neutritium ohne Probleme abgepumpt werden. Aber natürlich wird dadurch ein Alarm ausgelöst.
 
 Die Reaktionszeit von SpaceShell bis Eintritt in das System beträgt jeweils zwei Tage, deren Vorgehen ist bei einem Erfolg auf SÖLDNER oder HÄNDLER (je 5 Erfolge, bzw. 3 bei Verbindung zum Starnet) bekannt. Der Alarm wird unter drei Bedingungen ausgelöst:
 

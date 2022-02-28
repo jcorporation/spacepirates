@@ -37,7 +37,7 @@ Insgesamt müssen die Piraten mindestens 9 Erfolge ansammeln, ansonsten wird das
 
 ## Insel der Sirenen
 
-Es ist eine idyllische Insel mit wunderbarem Sandstrand, glasklarem Wasser, zwitsch&shy;ernden Vögeln und einem freundlichen Wald. Ein ausgetretener Pfad führt in das Innere der Insel. Aus dem Wald dringt ein wohlklingender, extrem verlockender, weiblicher Ge&shy;sang.
+Es ist eine idyllische Insel mit wunderbarem Sandstrand, glasklarem Wasser, zwitschernden Vögeln und einem freundlichen Wald. Ein ausgetretener Pfad führt in das Innere der Insel. Aus dem Wald dringt ein wohlklingender, extrem verlockender, weiblicher Gesang.
 
 Es werden 2 Erfolge auf PILOT benötigt um den Gesang zu widerstehen und nicht sofort zur Quelle des Gesangs zu wollen.
 
@@ -47,13 +47,13 @@ Die Sirenen empfangen die Piraten freundlich und lesen ihnen jeden Wunsch von de
 
 ### Sirenen
 
-Sirenen sind weibliche Fabelwesen und sehen wie wunderschöne Frauen aus. Sie be&shy;sitzen lange schwarze Haare und eine edel erscheinende blasse Haut. Ihre Klei&shy;dung besteht aus leichten Tuniken in weiß und rot.
+Sirenen sind weibliche Fabelwesen und sehen wie wunderschöne Frauen aus. Sie besitzen lange schwarze Haare und eine edel erscheinende blasse Haut. Ihre Kleidung besteht aus leichten Tuniken in weiß und rot.
 
 Durch ihren betörenden Gesang ziehen sie jeden in ihren Bann (auch Frauen). Sie versuchen, die Piraten auf der Insel zu halten und erfüllen ihnen jeden Wunsch, von leckerem Essen bis hin zu einer erotischen Massage. Die Sirenen werden aber gewalttätig, wenn die Piraten sie verlassen wollen.
 
-Aufgrund des betörenden Gesangs wollen die Piraten dies aber nur, wenn sie aus ihrer Behag&shy;lichkeit aufgeschreckt werden. Sie dürfen auch jeden Tag eine Probe ablegen, ob sie dem Gesang widerstehen können, die Probe wird aber jeden Tag schwerer. Am ersten Tag werden 2 Erfolge auf PILOT benötigt, am zweiten 3 Erfolge, usw.
+Aufgrund des betörenden Gesangs wollen die Piraten dies aber nur, wenn sie aus ihrer Behaglichkeit aufgeschreckt werden. Sie dürfen auch jeden Tag eine Probe ablegen, ob sie dem Gesang widerstehen können, die Probe wird aber jeden Tag schwerer. Am ersten Tag werden 2 Erfolge auf PILOT benötigt, am zweiten 3 Erfolge, usw.
 
-Die Sendeantenne des Wurmlochde&shy;modu&shy;lators steht in der Mitte des Dorfes. Sie pulsiert leicht. Eine TECH-Probe mit 3 Erfolgen ergibt, dass die Antenne den betörenden Gesang der Sirenen ver&shy;stärkt.
+Die Sendeantenne des Wurmlochdemodulators steht in der Mitte des Dorfes. Sie pulsiert leicht. Eine TECH-Probe mit 3 Erfolgen ergibt, dass die Antenne den betörenden Gesang der Sirenen verstärkt.
 
 ### Sirenen
 

@@ -30,7 +30,7 @@ Sie erreichen dann die Vorzimmerdame. Ihr Schreibtisch steht im Gang vor dem Boa
 </table>
 Sollten die Spieler nach einem Fenster fragen, kostet es einen Piratenwürfel. Einer kann dann vom Fenster aus noch einen gezielten Fernwaffenschuss auf Knecht Ruprecht auf dem Landefeld abgeben. Ansonsten hebt das Raumschiff ab.
 
-Zieht sich der Abend eh schon zu lange hin, kann man alternativ Knecht Ruprechts Flucht&shy;schiff schon starten, während die Spieler zu landen versuchen. Dies gilt besonders dann, wenn die Spieler als erstes das Feuer auf das Fabrikgebäude eröffnen.
+Zieht sich der Abend eh schon zu lange hin, kann man alternativ Knecht Ruprechts Fluchtschiff schon starten, während die Spieler zu landen versuchen. Dies gilt besonders dann, wenn die Spieler als erstes das Feuer auf das Fabrikgebäude eröffnen.
 
 ## Verfolgungsjagd
 
@@ -53,7 +53,7 @@ Es kommt zur Verfolgungsjagd mit Knecht Ruprechts Raumschiff.
 <tr><th>Bewaffnung</th><td>2 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
-Eventuell kann Knecht Ruprecht seine Kanonen nicht abfeuern, weil er die Wa&shy;gon&shy;en nicht dabei hat. Wenn die Spieler entern, finden sie Knecht Ruprecht ent&shy;we&shy;der im Cockpit, auf dem Weg in eine Flucht&shy;&shy;kapsel (der alte Feigling) oder in einem Schrank in der Kombüse (auch keine neuen Idee). Er hat die gleichen Wer&shy;te wie „damals,“ und ergibt sich nor&shy;maler&shy;weise. Er hat außerdem das Heilmittel bei sich.
+Eventuell kann Knecht Ruprecht seine Kanonen nicht abfeuern, weil er die Wagonen nicht dabei hat. Wenn die Spieler entern, finden sie Knecht Ruprecht entweder im Cockpit, auf dem Weg in eine Fluchtkapsel (der alte Feigling) oder in einem Schrank in der Kombüse (auch keine neuen Idee). Er hat die gleichen Werte wie „damals,“ und ergibt sich normalerweise. Er hat außerdem das Heilmittel bei sich.
 
 <table>
 <tbody>

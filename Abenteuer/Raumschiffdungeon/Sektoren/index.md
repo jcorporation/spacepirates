@@ -24,11 +24,11 @@ Jeder Sektor des Dungeons besteht aus einer Kugel mit einem Durchmesser von zehn
 
 ## Wurmlöcher
 
-Die Wurmlöcher sind mehrere hundert Meter im Durchmesser, so dass man be&shy;quem durchfliegen kann. Sie sind aller&shy;dings verschlossen und aktivieren sich erst, wenn man sie scannt. Rund um das Wurmloch sind getarnte Sensoren positio&shy;niert, die die Signale von Scannern auf&shy;fangen und das Wurmloch aktivieren.
+Die Wurmlöcher sind mehrere hundert Meter im Durchmesser, so dass man bequem durchfliegen kann. Sie sind allerdings verschlossen und aktivieren sich erst, wenn man sie scannt. Rund um das Wurmloch sind getarnte Sensoren positioniert, die die Signale von Scannern auffangen und das Wurmloch aktivieren.
 
-Natürlich lassen sich die Wurmlöcher steuern, allerdings benötigt man dafür einen [Wurmlochdemodulator]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator). Nur dieser kann auf die Wurmloch&shy;steuerungseinheit zugreifen, die Technik auf dem Piratenschiff ist einfach nicht weit genug entwickelt.
+Natürlich lassen sich die Wurmlöcher steuern, allerdings benötigt man dafür einen [Wurmlochdemodulator]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator). Nur dieser kann auf die Wurmlochsteuerungseinheit zugreifen, die Technik auf dem Piratenschiff ist einfach nicht weit genug entwickelt.
 
-Vor jeder Reise durch ein Wurmloch hat ein TECH die Möglichkeit, die Steu&shy;erungseinheit zu entdecken, dafür benötigt er 4 Erfolge auf eine Sensorenprobe.
+Vor jeder Reise durch ein Wurmloch hat ein TECH die Möglichkeit, die Steuerungseinheit zu entdecken, dafür benötigt er 4 Erfolge auf eine Sensorenprobe.
 
 ***
 

@@ -6,7 +6,7 @@ title: SpaceDrache
 
 # SpaceDrache
 
-Der SpaceDrache erinnert an einen typi&shy;schen Drachen aus alten Fantasy&shy;ge&shy;schich&shy;ten. Er ist reptilienartig, besitzt vier Klauen, zwei mächtige Flügel und extrem harte Schuppen, denen eine normale Laser&shy;pistole nichts anhaben kann. Aber einige Teile an ihm sind nicht organisch, so dass er wie ein Drachencyborg aussieht. Die Klauen schei&shy;n&shy;&shy;en aus Metall zu sein und die typischen Schwachstellen eines Drachen sind mit Metallplatten geschützt, die klein&shy;en Düsen an seinen Flügeln ermög&shy;lichen es ihm auch durch den luftleeren Raum zu fliegen. Der Drache ist intelligent, obwohl das Marric nicht beabsichtigt hatte, kann reden und er verfügt über ein extrem gutes Gehör.
+Der SpaceDrache erinnert an einen typischen Drachen aus alten Fantasygeschichten. Er ist reptilienartig, besitzt vier Klauen, zwei mächtige Flügel und extrem harte Schuppen, denen eine normale Laserpistole nichts anhaben kann. Aber einige Teile an ihm sind nicht organisch, so dass er wie ein Drachencyborg aussieht. Die Klauen scheinen aus Metall zu sein und die typischen Schwachstellen eines Drachen sind mit Metallplatten geschützt, die kleinen Düsen an seinen Flügeln ermöglichen es ihm auch durch den luftleeren Raum zu fliegen. Der Drache ist intelligent, obwohl das Marric nicht beabsichtigt hatte, kann reden und er verfügt über ein extrem gutes Gehör.
 
 <table>
 <tbody>
@@ -19,7 +19,7 @@ Klauen: 3</td></tr>
 <tr><th>Schadenspunkte</th><td>30</td></tr>
 </tbody>
 </table>
-Der Spacedrache besitzt zwei grundsätzlich verschiedene Persönlichkeiten, die ab&shy;wechselnd die Kontrolle über ihn übernehmen. Die Drachenpersönlichkeit ist die domi&shy;nante Seite des Drachen. Welche Persönlichkeit gerade die Oberhand hat, kann mit fol&shy;gender Tabelle bestimmt werden. Wird der Drache bedroht, z.B. dadurch dass die Charak&shy;tere in seinen Hort/Sternensystem eindringen oder Prinzessin Lea entführen, wird immer die Drachen&shy;persön&shy;lichkeit die Oberhand haben. Redet Prinzessin Lea mit dem Drachen nimmt seine Drachenpersönlichkeit überhand.
+Der Spacedrache besitzt zwei grundsätzlich verschiedene Persönlichkeiten, die abwechselnd die Kontrolle über ihn übernehmen. Die Drachenpersönlichkeit ist die dominante Seite des Drachen. Welche Persönlichkeit gerade die Oberhand hat, kann mit folgender Tabelle bestimmt werden. Wird der Drache bedroht, z.B. dadurch dass die Charaktere in seinen Hort/Sternensystem eindringen oder Prinzessin Lea entführen, wird immer die Drachenpersönlichkeit die Oberhand haben. Redet Prinzessin Lea mit dem Drachen nimmt seine Drachenpersönlichkeit überhand.
 
 <table>
 <thead>

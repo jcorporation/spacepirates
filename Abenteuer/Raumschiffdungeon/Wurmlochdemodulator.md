@@ -18,7 +18,7 @@ Mit diesem kann ein Wurmloch so beeinflusst werden, dass es nicht in einen Raum,
 
 - **Wurmlochdemodulator programmieren:** 4 Erfolge auf TECH
 
-Die Bestandteile des Wurmlochdemodulators lassen sich entdecken, indem man die Sen&shy;soren auf deren Energiesignatur justiert. Dazu benötigt man aber schon ein Teil des Wurm&shy;&shy;loch&shy;demodulators.
+Die Bestandteile des Wurmlochdemodulators lassen sich entdecken, indem man die Sensoren auf deren Energiesignatur justiert. Dazu benötigt man aber schon ein Teil des Wurmlochdemodulators.
 
 - **Sensoren justieren:** 3 Erfolge auf TECH
 

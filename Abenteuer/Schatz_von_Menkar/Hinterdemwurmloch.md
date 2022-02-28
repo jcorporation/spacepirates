@@ -6,11 +6,11 @@ title: Hinter dem Wurmloch
 
 # Hinter dem Wurmloch
 
-Hinter dem Wurmloch ist es wesentlich ruhiger als davor. Ein halbes Lichtjahr entfernt be&shy;findet sich ein seltsames Sternensystem. Es besteht aus einem hell leuchtenden Tetra&shy;eder im Zentrum und nur einen erdähnlichen Planeten der ihn umkreist. Das Stern&shy;en&shy;system selber umkreist ein gigantisches schwarzes Loch, daher vergeht hier die Zeit we&shy;sen&shy;t&shy;lich langsamer, was man aber nur merkt, wenn man sich einige Lichtjahre entfernt.
+Hinter dem Wurmloch ist es wesentlich ruhiger als davor. Ein halbes Lichtjahr entfernt befindet sich ein seltsames Sternensystem. Es besteht aus einem hell leuchtenden Tetraeder im Zentrum und nur einen erdähnlichen Planeten der ihn umkreist. Das Sternensystem selber umkreist ein gigantisches schwarzes Loch, daher vergeht hier die Zeit wesentlich langsamer, was man aber nur merkt, wenn man sich einige Lichtjahre entfernt.
 
 Der Tetraeder ist in etwa so groß wie die Sonne und aus extrem heißem und flüssigen Gold, das vor sich hinblubbert und die ganze Gegend hell erleuchtet. Zu nahe sollte man diesem Tetraeder also nicht kommen, da auch ein Schutzschild nicht vor der extremen Hitze schützen kann.
 
-Der Planet dagegen sieht freundlich aus und die Sensoren zeigen sogar eine atembare Atmos&shy;phäre und tropische Temperaturen an. Wenn die Charaktere nach einem abgestürztem Schiff oder Energiesignaturen scannen, werden sie in der südlichen Hemi&shy;sphäre des Planeten, mitten in einem Dschungel fündig.
+Der Planet dagegen sieht freundlich aus und die Sensoren zeigen sogar eine atembare Atmosphäre und tropische Temperaturen an. Wenn die Charaktere nach einem abgestürztem Schiff oder Energiesignaturen scannen, werden sie in der südlichen Hemisphäre des Planeten, mitten in einem Dschungel fündig.
 
 ## Quetzalcoatl
 
