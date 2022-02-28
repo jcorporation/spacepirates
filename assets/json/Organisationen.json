@@ -42,7 +42,7 @@
   "Heavensgate": {
     "Name": "Heavensgate",
     "Kategorie": "Sekte",
-    "Link": "/Weltraum/Sekten"
+    "Link": "/Weltraum/Sekten/Heavensgate"
   },
   "Humanozentrische_Befreiungsfront": {
     "Name": "Humanozentrische Befreiungsfront",
@@ -62,7 +62,7 @@
   "Kinder_der_Sternenleere": {
     "Name": "Kinder der Sternenleere",
     "Kategorie": "Sekte",
-    "Link": "/Weltraum/Sekten"
+    "Link": "/Weltraum/Sekten/Kinder_der_Sternenleere"
   },
   "Leiser-Wind-des-Schicksals-Dojo": {
     "Name": "Leiser-Wind-des-Schicksals-Dojo",
@@ -72,7 +72,7 @@
   "Marmonen": {
     "Name": "Marmonen",
     "Kategorie": "Sekte",
-    "Link": "/Weltraum/Sekten"
+    "Link": "/Weltraum/Sekten/Marmonen"
   },
   "ProBeast": {
     "Name": "ProBeast",
@@ -97,16 +97,16 @@
   "Vereinigung_zur_Foerderung_von_Ostern": {
     "Name": "Vereinigung zur Förderung von Ostern",
     "Kategorie": "Sekte",
-    "Link": "/Weltraum/Sekten"
+    "Link": "/Weltraum/Sekten/Vereinigung_zur_Förderung_von_Ostern"
   },
   "Verfechter_der_Nacktheit": {
     "Name": "Verfechter der Nackheit",
     "Kategorie": "Sekte",
-    "Link": "/Weltraum/Sekten"
+    "Link": "/Weltraum/Sekten/Verfechter_der_Nacktheit"
   },
   "Weltraumpfleger": {
     "Name": "Weltraumpfleger",
     "Kategorie": "Sekte",
-    "Link": "/Weltraum/Sekten"
+    "Link": "/Weltraum/Sekten/Weltraumpfleger"
   }
 }

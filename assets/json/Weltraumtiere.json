@@ -1,10 +1,16 @@
 {
   "Meteorkraken": {
     "Name": "Meteorkraken",
+    "Profilwert": 7,
+    "SM": 3,
+    "Schadenspunkte": 50,
     "Link": "/Weltraum/Weltraumtiere"
   },
   "Mykoniden": {
     "Name": "Mykoniden",
+    "Profilwert": 4,
+    "SM": 1,
+    "Schadenspunkte": 7,
     "Link": "/Weltraum/Weltraumtiere"
   },
   "Riesen-Weltraumhamster": {
@@ -13,11 +19,17 @@
   },
   "Space-Eiswuermer": {
     "Name": "Space-Eiswürmer",
+    "Profilwert": 9,
+    "SM": 3,
+    "Schadenspunkte": 50,
     "Link": "/Weltraum/Weltraumtiere"
   },
   "Spaceameisen": {
     "Name": "Spaceameisen",
-    "Link": "/Weltraum/Weltraumtiere"
+    "Profilwert": 3,
+    "SM": 2,
+    "Schadenspunkte": 3,
+    "Link": "/Weltraum/Spaceameisen"
   },
   "Sternenwale": {
     "Name": "Sternenwale",

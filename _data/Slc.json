@@ -388,6 +388,22 @@
     "Position": "Modeschöpfer",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
+  "Gordon_Green": {
+    "Name": "Gordon Green",
+    "Rasse": "Mensch",
+    "Position": null,
+    "Kategorie": [
+      "Sektenmitglied",
+      "Weltraumpfleger"
+    ],
+    "SOELDNER": "3",
+    "TECH": "2",
+    "PILOT": "1",
+    "HAENDLER": "4",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "keine",
+    "Link": "/Weltraum/Sekten/Weltraumpfleger"
+  },
   "Graf_Dracula": {
     "Name": "Graf Dracula",
     "Rasse": "Vampir",
@@ -466,6 +482,14 @@
     "Position": "Leas heimlicher Verlobter",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
+  "Hemla": {
+    "Name": "Hemla",
+    "Rasse": "Trull",
+    "Kategorie": "Kneipenbesitzer",
+    "Wohnort": "Gimis Bar",
+    "Position": "",
+    "Link": "/Abenteuer/Ostern/Einstieg"
+  },
   "Hendrik_Marslan": {
     "Name": "Hendrik Marslan",
     "Rasse": "Wagone",
@@ -489,6 +513,20 @@
     "Position": "Ninja Großmeister",
     "Link": "/Weltraum/SpaceNinjas/Clans/Goemon-Ishikawa-Highschool"
   },
+  "Hu_Xing": {
+    "Name": "Hu Xing",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Ninja",
+    "Wohnort": "Neu-Neo-Tokio",
+    "SOELDNER": "8",
+    "TECH": "3",
+    "PILOT": "5",
+    "HAENDLER": "6",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "keine",
+    "Position": "",
+    "Link": "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen"
+  },
   "Ivy": {
     "Name": "Tsagul",
     "Rasse": "Mensch",
@@ -505,6 +543,22 @@
     "Wohnort": "Scrabnambu",
     "Position": "",
     "Link": "/Weltraum/Händler_und_Halunken"
+  },
+  "Jacqueline_Nenot": {
+    "Name": "Jacqueline Nenot",
+    "Rasse": "Mensch",
+    "Position": null,
+    "Kategorie": [
+      "Sektenmitglied",
+      "Weltraumpfleger"
+    ],
+    "SOELDNER": "2",
+    "TECH": "3",
+    "PILOT": "4",
+    "HAENDLER": "1",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "keine",
+    "Link": "/Weltraum/Sekten/Weltraumpfleger"
   },
   "James_Moneypenny": {
     "Name": "James Moneypenny",
@@ -543,6 +597,12 @@
     ],
     "Position": "",
     "Wohnort": "Weißes Loch",
+    "SOELDNER": "3",
+    "TECH": "8",
+    "PILOT": "4",
+    "HAENDLER": "6",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "Laserpistole: WB 0",
     "Link": "/Weltraum/Verrückte_Wissenschaftler"
   },
   "Jonas_Wagner": {
@@ -814,6 +874,20 @@
     "Wohnort": "BigBong",
     "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten"
   },
+  "Noh_Frut": {
+    "Name": "Noh Frut",
+    "Rasse": "Spacepear",
+    "Kategorie": "Pirat",
+    "Wohnort": "Two Eyed Jack",
+    "SOELDNER": "6",
+    "TECH": "4",
+    "PILOT": "3",
+    "HAENDLER": "7",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "Laserpistole: P+0",
+    "Position": "",
+    "Link": "/Abenteuer/Schatz_von_Menkar/Einstieg"
+  },
   "Ocean_Sunflower": {
     "Name": "Ocean Sunflower",
     "Rasse": "Doradianer",
@@ -861,6 +935,17 @@
     ],
     "Wohnort": "Windsor Planet",
     "Position": "Leas Verlobter",
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+  },
+  "Prinzessin_Lea": {
+    "Name": "Prinzessin Lea",
+    "Rasse": "Wagonin",
+    "Kategorie": [
+      "Promi",
+      "Wagonische Königsfamilie"
+    ],
+    "Wohnort": "Windsor Planet",
+    "Position": "Prinzessin",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Prinzessin_Lea": {
@@ -1041,6 +1126,27 @@
     "Position": "",
     "Link": "/Weltraum/Händler_und_Halunken"
   },
+  "Tanaka_Mao": {
+    "Name": "Tanaka Mao",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Pirat",
+    "Wohnort": "",
+    "Position": "Piratenkapitän",
+    "Link": "/Weltraum/Piraten/Piratencrews/Tanaka_Mao"
+  },
+  "Tanaka_Mei": {
+    "Name": "Tanaka Mei",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Ninja",
+    "Wohnort": "Neu-Neo-Tokio",
+    "SOELDNER": "6",
+    "TECH": "2",
+    "PILOT": "2",
+    "HAENDLER": "4",
+    "Zaehigkeit": "4",
+    "Position": "",
+    "Link": "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag"
+  },
   "Tatjana_Molotowa": {
     "Name": "Tatjana Molotowa",
     "Rasse": "Mensch",
@@ -1136,6 +1242,20 @@
     "HAENDLER": "6",
     "Zaehigkeit": "4",
     "Link": "/Weltraum/Verrückte_Wissenschaftler"
+  },
+  "Xia_Xu": {
+    "Name": "Xia Xu",
+    "Rasse": "Neuasiatin",
+    "Kategorie": "Forscher",
+    "Wohnort": "",
+    "SOELDNER": "4",
+    "TECH": "6",
+    "PILOT": "1",
+    "HAENDLER": "2",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "Laserpistole: WB 0",
+    "Position": "",
+    "Link": "/Abenteuer/Schatzjagd/Zweite_Piratengruppe"
   },
   "Yashimoto": {
     "Name": "Yashimoto",
