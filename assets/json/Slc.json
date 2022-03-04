@@ -503,6 +503,20 @@
     "Bewaffnung": "keine",
     "Link": "/Weltraum/Konzerne/Yellow_Stone_Group"
   },
+  "Harrison_Welch": {
+    "Name": "Harrison Welch",
+    "Rasse": "Mensch",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Pessach 4",
+    "Positioen": "Konzernchef",
+    "SOELDNER": "2",
+    "TECH": "4",
+    "PILOT": "6",
+    "HAENDLER": "8",
+    "Zaehigkeit": "4",
+    "Bewaffnung": "keine",
+    "Link": "/Weltraum/Konzerne/Yellow_Stone_Group"
+  },
   "Hashimoto": {
     "Name": "Hashimoto",
     "Rasse": "Neuasiat",
