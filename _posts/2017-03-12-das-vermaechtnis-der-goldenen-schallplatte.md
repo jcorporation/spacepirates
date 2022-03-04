@@ -5,7 +5,7 @@ tag: spacepirates
 permalink: /Aktuelles/2017-03-12-das-vermaechtnis-der-goldenen-schallplatte
 ---
 
-Passend zu [StarTunes]({{ site.baseurl }}/Startunes), dem SpacePirates Soundtrack, gibt es jetzt auch ein neues Abenteuer mit dem Titel &bdquo;Das Vermächtnis der goldenen Schallplatte&ldquo;.
+Passend zu [StarTunes]({{ site.baseurl }}/StarTunes/), dem SpacePirates Soundtrack, gibt es jetzt auch ein neues Abenteuer mit dem Titel &bdquo;Das Vermächtnis der goldenen Schallplatte&ldquo;.
 
 Hier noch ein kurzer Teaser:
 
@@ -13,6 +13,4 @@ Einer der Charaktere erbt eine goldene Schallplatte von seinem Onkel Nic Jäger,
 
 Viel Spaß mit dem Abenteuer.
 
-**[&raquo; zum Abenteuer]({{ site.baseurl }}/Abenteuer/Goldeneschallplatte)**
-
-
+**[&raquo; zum Abenteuer]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/)**

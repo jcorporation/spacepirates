@@ -4,37 +4,36 @@ permalink: /Zufallstabellen/Abenteuer/Gegenspieler
 title: Gegenspieler
 ---
 
-
 # Gegenspieler
-
 
 <table>
 <thead>
 <tr><th>W20</th><th>Gegenspieler</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>[Konzern]({{ site.baseurl }}/Weltraum/Konzerne)</td></tr>
+<tr><td>1</td><td>[Konzern]({{ site.baseurl }}/Weltraum/Konzerne/)</td></tr>
 <tr><td>2</td><td>andere Piratengruppe</td></tr>
-<tr><td>3</td><td>[Rebellen]({{ site.baseurl }}/Weltraum/Rebellen)</td></tr>
+<tr><td>3</td><td>[Rebellen]({{ site.baseurl }}/Weltraum/Rebellen/)</td></tr>
 <tr><td>4</td><td>bekannte Alienrasse</td></tr>
 <tr><td>5</td><td>Söldnertruppe</td></tr>
-<tr><td>6</td><td>[Militär]({{ site.baseurl }}/Weltraum/Militaer)</td></tr>
+<tr><td>6</td><td>[Militär]({{ site.baseurl }}/Weltraum/Militär)</td></tr>
 <tr><td>7</td><td>Schmuggler / Drogenhändler</td></tr>
 <tr><td>8</td><td>unbekannte Alienrasse</td></tr>
-<tr><td>9</td><td>[Sekte]({{ site.baseurl }}/Weltraum/Sekten)</td></tr>
-<tr><td>10</td><td>[SpaceMafia]({{ site.baseurl }}/Weltraum/Spacemafia)</td></tr>
-<tr><td>11</td><td>[SpaceRocker]({{ site.baseurl }}/Weltraum/Spacerocker)</td></tr>
+<tr><td>9</td><td>[Sekte]({{ site.baseurl }}/Weltraum/Sekten/)</td></tr>
+<tr><td>10</td><td>[SpaceMafia]({{ site.baseurl }}/Weltraum/SpaceMafia/)</td></tr>
+<tr><td>11</td><td>[SpaceRocker]({{ site.baseurl }}/Weltraum/SpaceRocker/)</td></tr>
 <tr><td>12</td><td>Korrupter Geschäftsmann</td></tr>
-<tr><td>13</td><td>[SpaceNinjas]({{ site.baseurl }}/Weltraum/Spaceninjas)</td></tr>
+<tr><td>13</td><td>[SpaceNinjas]({{ site.baseurl }}/Weltraum/SpaceNinjas/)</td></tr>
 <tr><td>14</td><td>[Händler / Halunke]({{ site.baseurl }}/Weltraum/Händler_und_Halunken)</td></tr>
 <tr><td>15</td><td>[Promi]({{ site.baseurl }}/Weltraum/Promis)</td></tr>
-<tr><td>16</td><td>[Bank]({{ site.baseurl }}/Weltraum/Freihandelszone/Banken)</td></tr>
-<tr><td>17</td><td>[Verrückter Wissenschaftler]({{ site.baseurl }}/Weltraum/Wissenschaftler)</td></tr>
-<tr><td>18</td><td>[SpaceHawks]({{ site.baseurl }}/Handelsrat]({{ site.baseurl }}/Weltraum/Freihandelszone/Handelsrat) / )({{ site.baseurl }}/Weltraum/Militaer) / [Space-Steuerfahnder]({{ site.baseurl }}/Weltraum/Freihandelszone/Spacesteuerfahnder)</td></tr>
+<tr><td>16</td><td>[Bank]({{ site.baseurl }}/Weltraum/Freihandelszone/Währungen_und_Banken)</td></tr>
+<tr><td>17</td><td>[Verrückter Wissenschaftler]({{ site.baseurl }}/Weltraum/Verrückte_Wissenschaftler)</td></tr>
+<tr><td>18</td><td>[Handelsrat]({{ site.baseurl }}/Weltraum/Freihandelszone/Handelsrat) / [SpaceHawks]({{ site.baseurl }}/Weltraum/Militär) / [Space-Steuerfahnder]({{ site.baseurl }}/Weltraum/Freihandelszone/Space-Steuerfahnder/)</td></tr>
 <tr><td>19</td><td>Korrupter Politiker</td></tr>
-<tr><td>20</td><td>[Konzern]({{ site.baseurl }}/Weltraum/Konzerne)</td></tr>
+<tr><td>20</td><td>[Konzern]({{ site.baseurl }}/Weltraum/Konzerne/)</td></tr>
 </tbody>
 </table>
+
 ### Verhalten
 
 <table>
@@ -54,5 +53,3 @@ title: Gegenspieler
 <tr><td>0</td><td>Verfolgen die Charaktere, um ihnen den Gegenstand/Zielperson wegzuschnappen.</td></tr>
 </tbody>
 </table>
-
-

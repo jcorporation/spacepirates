@@ -30,5 +30,5 @@ Die meiste Zeit verbringt Quetzalcoatl schlafend um den Tetraeder geschwungen, e
 
 ***
 
-- **Zurück:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Menkar/Koordinaten)
-- **Weiter:** [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Menkar/Auf_dem_Planeten)
+- **Zurück:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Koordinaten)
+- **Weiter:** [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten)

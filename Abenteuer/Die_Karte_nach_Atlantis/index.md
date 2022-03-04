@@ -15,7 +15,7 @@ Die Charaktere kommen in den Besitz einer uralten Karte die den Weg nach Atlanti
 - [Rebellen]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Rebellen)
 - [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
   - [Oma Binkel]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel)
-    - [Giftmüllentsorgung]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung)
+    - [Giftmüllentsorgung]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung)
   - [Zombierechner]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner)
   - [Universität]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Universität)
   - [Atlantereinsiedler]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler)

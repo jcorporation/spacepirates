@@ -18,5 +18,5 @@ Vorsicht: Wenn die Spieler zu langsam sind, stehlen sie unter Umständen die Kop
 
 ***
 
-- **Zurück:** [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Spion)
-- **Weiter:** [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Bisam)
+- **Zurück:** [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam)
+- **Weiter:** [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam)

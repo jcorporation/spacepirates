@@ -27,7 +27,7 @@ Das Gefängnis hat mehrere große Zellen. Die Charaktere landen zusammen in eine
 
 Bei Sonnenaufgang steht die Hinrichtung der Charaktere an, sie sollen am Galgen baumeln. Warum erfahren die Charaktere nur per Zufall, sie sind wegen Piraterie gesucht.
 
-**Sobald die Szene ihren dramatischen Höhepunkt erreicht macht es *SWITCH* und die Charaktere befinden sich inmitten der ersten Szene ([Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Surm)) wieder. Alle Piratenpunkte und Zähigkeiten regenerieren komplett.**
+**Sobald die Szene ihren dramatischen Höhepunkt erreicht macht es *SWITCH* und die Charaktere befinden sich inmitten der ersten Szene ([Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Sturm)) wieder. Alle Piratenpunkte und Zähigkeiten regenerieren komplett.**
 
 ***
 

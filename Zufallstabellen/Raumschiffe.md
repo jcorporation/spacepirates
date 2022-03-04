@@ -19,7 +19,7 @@ Dieser Zufallsgeneratoren generiert Raumschiffe, die interessante Zielobjekte fÃ
 </tbody>
 </table>
 
-<script type="text/javascript" src="/assets/js/data_names.js"></script>
-<script type="text/javascript" src="/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="/assets/js/zufallsgenerator.js"></script>
-<script type="text/javascript" src="/assets/js/raumschiffe.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/raumschiffe.js"></script>

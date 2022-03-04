@@ -36,4 +36,4 @@ Weltraumphänomene stören den FTL-Antrieb und können daher nur im Normalraum d
 </tbody>
 </table>
 
-- Mehr zu den [Weltraumphänomenen]({{ site.baseurl }}/Weltraum/Weltraumphänomene)
+- Mehr zu den [Weltraumphänomenen]({{ site.baseurl }}/Weltraum/Weltraumphänomene/)

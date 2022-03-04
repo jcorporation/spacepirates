@@ -6,7 +6,7 @@ title: Sternensysteme
 
 # Sternensysteme
 
-Jedes Sternensystem verfügt über [1W10+5]({{ site.baseurl }}/Dice) Planeten. Die inneren Planeten sind wärmer und die äußeren kälter. Einzelne Planeten können mit der [Planetentabelle]({{ site.baseurl }}/Spielleiter/Abenteuertabellen/Planeten) ausgewürfelt werden und müssen dann, je nach Ergebnis, auch in der richtigen Entfernung von der Sonne platziert werden.
+Jedes Sternensystem verfügt über <span class="dice">1W10+5</span> Planeten. Die inneren Planeten sind wärmer und die äußeren kälter. Einzelne Planeten können mit der [Planetentabelle]({{ site.baseurl }}/Zufallstabellen/Abenteuer/Planeten) ausgewürfelt werden und müssen dann, je nach Ergebnis, auch in der richtigen Entfernung von der Sonne platziert werden.
 
 <table>
 <thead>
@@ -25,6 +25,7 @@ Jedes Sternensystem verfügt über [1W10+5]({{ site.baseurl }}/Dice) Planeten. D
 <tr><td>0</td><td>Hyperriese</td></tr>
 </tbody>
 </table>
+
 ## Aktives Doppelsternsystem
 
 Die Planeten umkreisen nicht eine, sondern zwei Sonnen. Dies führt zu etwas absonderlichen Flugbahnen. Sonderlich spektakulär ist es allerdings trotzdem nicht, jeder Pirat hat so etwas schon einmal gesehen.
@@ -56,4 +57,3 @@ Hier waren mal eine Sonne und ein Sonnensystem. Durch die Supernovaexplosion ist
 ## Weißer Zwerg
 
 Weiße Zwerge entwickeln sich aus roten Riesen, sie besitzen lediglich die Größe der Erde. Sie leuchten nicht sehr hell und ihr Kernbrennstoff ist bereits versiegt.
-

@@ -9,6 +9,4 @@ In diesem Release wurde das Konfliktsystem nochmals überarbeitet, in diesem Zug
 
 Last but not Least wurde der Untertitel von SpacePirates geändert in &bdquo;ein Space-Western-Rollenspiel um Piraten&ldquo;, da dies den Style von SpacePirates besser beschreibt.
 
-Wie immer sind die aktuellen PDFs in der [Downloadsektion]({{ site.baseurl }}/Publikationen/) und über den [PDFCast]({{ site.baseurl }}/Pdfcast.rss) erhältlich.
-
-
+Wie immer sind die aktuellen PDFs in der [Downloadsektion]({{ site.baseurl }}/Publikationen/) und über den PDFCast erhältlich.

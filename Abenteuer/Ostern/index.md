@@ -13,14 +13,14 @@ Es ist demnächst Ostern, es warten ein paar erholsame Feiertage auf die Piraten
 - [Hintergrund]({{ site.baseurl }}/Abenteuer/Ostern/Hintergrund)
 - [Einstieg]({{ site.baseurl }}/Abenteuer/Ostern/Einstieg)
 <li>[Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)
-- [Rabbit Inc]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen_rabbitinc)
-- [Captain Rogers]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen_captainrogers)
+- [Rabbit Inc]({{ site.baseurl }}/Abenteuer/Ostern/Rabbit_Inc)
+- [Captain Rogers]({{ site.baseurl }}/Abenteuer/Ostern/Captain_Rogers)
 
 </li>
 - [Sonden]({{ site.baseurl }}/Abenteuer/Ostern/Sonden)
-- [Vereinigung zur Förderung von Ostern]({{ site.baseurl }}/Abenteuer/Ostern/Vzfvo)
-- [Lösungsmöglichkeiten]({{ site.baseurl }}/Abenteuer/Ostern/Loesung)
+- [Vereinigung zur Förderung von Ostern]({{ site.baseurl }}/Abenteuer/Ostern/VzFvO)
+- [Lösungsmöglichkeiten]({{ site.baseurl }}/Abenteuer/Ostern/Lösung)
 
 ## Download
 
-[v2/abenteuer/ostern_]({{ site.baseurl }}/Downbox)
+Dieses Abenteuer ist im [Sammelband]({{ site.baseurl }}/Publikationen/) enthalten.

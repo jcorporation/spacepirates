@@ -15,7 +15,7 @@ Im Inneren des fremden Raumschiffs finden sich die Charaktere in einem Holodeck 
 ## Inhalt
 
 - [Einstieg]({{ site.baseurl }}/Abenteuer/Laborratten/Einstieg)
-- [Railroading auf dem Raumschiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading)
+- [Railroading auf dem Raumschiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/)
   - [Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Sturm)
   - [Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Schatzinsel)
   - [Hafen]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Hafen)

@@ -17,4 +17,4 @@ Er hat auch einen guten Grund, warum er selbst den Plan nicht ausführen kann. E
 ***
 
 - **Zurück:** [(Selbst-)Darsteller]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Selbstdarsteller)
-- **Weiter:** [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Spion)
+- **Weiter:** [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam)

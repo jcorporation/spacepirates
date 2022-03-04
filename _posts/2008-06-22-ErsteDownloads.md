@@ -5,6 +5,4 @@ tag: spacepirates
 permalink: /Aktuelles/2008-06-22-ErsteDownloads
 ---
 
-
-Die ersten Entwürfe des Charakterbogens und des Raumschiffbogens sind jetzt [online]({{ site.baseurl }}/Publikationen/.html). Seit der Eröffnung des Wikis wurden auch die Regeln weiter ausgearbeitet und der Hintergrund ergänzt.
-
+Die ersten Entwürfe des Charakterbogens und des Raumschiffbogens sind jetzt [online]({{ site.baseurl }}/Publikationen/). Seit der Eröffnung des Wikis wurden auch die Regeln weiter ausgearbeitet und der Hintergrund ergänzt.

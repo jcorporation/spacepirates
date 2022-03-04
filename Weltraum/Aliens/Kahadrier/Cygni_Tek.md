@@ -23,6 +23,6 @@ sitedata:
 
 # Cygni Tek
 
-Auf Cygni Tek ist die Konzernzentrale von [Captain Rogers]({{ site.baseurl }}/Weltraum/Konzerne/Captainrogers), dem größten Rumhersteller des Universums.
+Auf Cygni Tek ist die Konzernzentrale von [Captain Rogers]({{ site.baseurl }}/Weltraum/Konzerne/Captain_Rogers), dem größten Rumhersteller des Universums.
 
 {% include stadt.md data=page.sitedata.Staedte.Roger_City %}

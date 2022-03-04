@@ -18,10 +18,10 @@ Jeder SpaceHippie ist mit einer Flower-Power-Pistole ausgestattet, eine normale 
 <tr><th>Name</th><th>Rasse</th><th>Kategorie</th><th>Wohnort</th></tr>
 </thead>
 <tbody>
-<tr><td>Alice</td><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull)</td><td>Hippie</td><td>VW-Bus</td></tr>
-<tr><td>Brandon</td><td>[Wagone]({{ site.baseurl }}/Weltraum/Aliens/Wagonen)</td><td>Hippie</td><td>VW-Bus</td></tr>
-<tr><td>Melody</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td><td>Hippie</td><td>VW-Bus</td></tr>
-<tr><td>Oliver</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td><td>Hippie</td><td>VW-Bus</td></tr>
+<tr><td>Alice</td><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/)</td><td>Hippie</td><td>VW-Bus</td></tr>
+<tr><td>Brandon</td><td>[Wagone]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/)</td><td>Hippie</td><td>VW-Bus</td></tr>
+<tr><td>Melody</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td><td>Hippie</td><td>VW-Bus</td></tr>
+<tr><td>Oliver</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td><td>Hippie</td><td>VW-Bus</td></tr>
 </tbody>
 </table>
 

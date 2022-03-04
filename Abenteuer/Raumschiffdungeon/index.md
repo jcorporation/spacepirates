@@ -12,7 +12,7 @@ Die Piraten reisen durchs All, als plötzlich die Sensoren ihres Raumschiffs ver
 
 - [Hintergrund]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Hintergrund)
 - [Einstieg]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Einstieg)
-- [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren)
+- [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)
   1. [Sirenen]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen)
   2. [Supernova]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/Supernova)
   3. [Wikinger]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger)

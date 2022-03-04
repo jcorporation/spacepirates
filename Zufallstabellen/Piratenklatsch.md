@@ -26,7 +26,7 @@ Dieses Tool generierte Gerücht und Klatsch, die Charaktere erfahren können.
 <div id="klatsch">
 </div>
 
-<script type="text/javascript" src="/assets/js/data_names.js"></script>
-<script type="text/javascript" src="/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="/assets/js/zufallsgenerator.js"></script>
-<script type="text/javascript" src="/assets/js/piratenklatsch.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/piratenklatsch.js"></script>

@@ -17,4 +17,4 @@ title: Konfliktnetz
 ***
 
 - **Zurück:** [Zeitleiste]({{ site.baseurl }}/Abenteuer/Blumenkind/Zeitleiste)
-- **Weiter:** [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/Spacehippies)
+- **Weiter:** [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/SpaceHippies)

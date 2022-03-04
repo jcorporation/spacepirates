@@ -37,5 +37,5 @@ Der SpaceWorm Bahir ist leider nicht nur ein Pflanzenexperte, sondern auch ein p
 ***
 
 - **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Buschraub/Einstieg)
-- **Weiter:** [JCTech IAG]({{ site.baseurl }}/Abenteuer/Buschraub/Jctechiag)
-- **Weiter:** [SWIP]({{ site.baseurl }}/Abenteuer/Buschraub/Swip)
+- **Weiter:** [JCTech IAG]({{ site.baseurl }}/Abenteuer/Buschraub/JCTech_IAG)
+- **Weiter:** [SWIP]({{ site.baseurl }}/Abenteuer/Buschraub/SWIP)

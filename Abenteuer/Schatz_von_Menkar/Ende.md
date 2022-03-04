@@ -12,4 +12,4 @@ Wenn die Schläger hier auf die Noh Frut gewartet haben, sind sie natürlich auc
 
 ***
 
-- **Zurück:** [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Menkar/Auf_dem_Planeten)
+- **Zurück:** [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten)

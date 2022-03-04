@@ -30,7 +30,7 @@ Sunflower ist auf Woodstock sehr bekannt, da er auch einer der Gr체nder dieses F
 
 Jeder kennt Ocean Sunflower, aber niemand hat ihn letzter Zeit gesehen, es ist aber f체r jeden Befragten undenkbar, dass er das Festival verlassen hat.
 
-Sunflower hat Woodstock nicht freiwillig verlassen, er wurde von der [SWIP]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/Swip) entf체hrt.
+Sunflower hat Woodstock nicht freiwillig verlassen, er wurde von der [SWIP]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/BigBong/SWIP) entf체hrt.
 
 #### Hinweise auf die Entf체hrung:
 
@@ -60,5 +60,5 @@ Die SWIP kommt auf jeden Fall am 2. Tag an und wird versuchen Sunflower zu entf�
 
 ***
 
-- **Zur체ck:** [SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/Swip)
+- **Zur체ck:** [SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/SWIP)
 - **Weiter:** [Auf Doradus]({{ site.baseurl }}/Abenteuer/Blumenkind/Doradus)

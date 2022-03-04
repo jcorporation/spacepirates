@@ -18,7 +18,7 @@ sitedata:
 
 - **Heimatplanet:** [Ghultar]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Ghultar)
 - **Reich:** Glukorianisches Imperium
-- [Glutulhu]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu)
+- [Glutulhu]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Glutulhu/)
 
 Die Glukorianer sind tintenfischähnliche Aliens, die über nur ein einziges Auge verfügen. Sie besitzen 10–15 Tentakel, die sie sowohl als Hände wie auch als Füße benutzen. Ihre grüne Haut ist schleimig und mit Drüsen übersät. Sie sind etwa zwei Meter groß und besitzen äußerlich keine Geschlechtsmerkmale. Auch Ohren und Nasen sind nicht zu identifizieren, einen Mund besitzen sie aber. Sie tragen keine Kleidung und benötigen auch keine Raumanzüge. Sie besitzen, warum auch immer, einen Faible für Sherry.
 

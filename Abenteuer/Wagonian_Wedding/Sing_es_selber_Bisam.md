@@ -19,4 +19,4 @@ Dustin Bisam ist ein „Roter Hering“, zwar schleicht er ständig um Madame Pl
 ***
 
 - **Zurück:** [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler)
-- **Weiter:** [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Herzundwagone)
+- **Weiter:** [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone)

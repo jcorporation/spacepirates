@@ -29,5 +29,5 @@ Die Reise durch das Wurmloch ist holprig, sollte aber einem erfahrenen Piloten k
 
 ***
 
-- **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Menkar/Einstieg)
-- **Weiter:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Menkar/Hinter_dem_Wurmloch)
+- **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Einstieg)
+- **Weiter:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch)

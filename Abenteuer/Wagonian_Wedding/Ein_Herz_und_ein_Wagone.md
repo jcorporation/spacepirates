@@ -17,4 +17,4 @@ Falls die Charaktere hinter Alfreds Geheimnis kommen und Elisabeth stecken, dass
 ***
 
 - **Zurück:** [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam)
-- **Weiter:** [Auftritt: Die üblichen Verdächtigen]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Ueblichenverdaechtigen)
+- **Weiter:** [Auftritt: Die üblichen Verdächtigen]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen)

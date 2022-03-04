@@ -29,7 +29,7 @@ title: Namensgenerator
 <div id="namensgenout" class="card p-2 mt-2">
 </div>
 
-<script type="text/javascript" src="/assets/js/data_names.js"></script>
-<script type="text/javascript" src="/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="/assets/js/zufallsgenerator.js"></script>
-<script type="text/javascript" src="/assets/js/namensgen.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/namensgen.js"></script>

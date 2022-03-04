@@ -8,7 +8,7 @@ title: Planeten
 
 Da es unendlich viele Planeten gibt und hier nicht alle beschrieben werden können gibt es hier ein paar Tabellen um zufällige Planeten zu erschaffen.
 
-- [Planetennamen]({{ site.baseurl }}/Spielleiter/Abenteuertabellen/Planetennamen.html)
+- [Planetennamen]({{ site.baseurl }}/Zufallstabellen/Abenteuer/Planetennamen)
 
 ## Typ
 

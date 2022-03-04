@@ -9,6 +9,4 @@ Ich werde seit langem wieder auf eine Con gehen und gleich mal eine Beta Testrun
 
 ## Tabellen zur Abenteuergenerierung
 
-In der Zwischenzeit wird natürlich fleißig weiter an SpacePirates gearbeitet. Momentan sind viele Zufallstabellen zur Abenteuergenerierung und Namenslisten für Orte, Planeten, Konzerne etc. in Arbeit. Der aktuelle Stand gibt es auf der Webseite unter [Spielleiter]({{ site.baseurl }}/Spielleiter).
-
-
+In der Zwischenzeit wird natürlich fleißig weiter an SpacePirates gearbeitet. Momentan sind viele Zufallstabellen zur Abenteuergenerierung und Namenslisten für Orte, Planeten, Konzerne etc. in Arbeit. Der aktuelle Stand gibt es auf der Webseite unter [Zufallstabellen]({{ site.baseurl }}/Zufallstabellen/).

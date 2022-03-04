@@ -20,7 +20,7 @@ Auf dem halben Weg zur Gimis Bar ist auf der Brücke mal wieder der Rum alle, ab
 
 ## Gimis Bar
 
-Gimis Bar ist ein altes Frachtschiff, das zu einer gigantischen Bar umgebaut wurde, inklusive Sonnendeck und Sandstrand. Schiffe können bequem an das Frachtschiff andocken. Weitere Informationen zu Gimis Bar sind unter [Piratentreffpunkte]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Gimisbar) im Grundregelwerk zu finden.
+Gimis Bar ist ein altes Frachtschiff, das zu einer gigantischen Bar umgebaut wurde, inklusive Sonnendeck und Sandstrand. Schiffe können bequem an das Frachtschiff andocken. Weitere Informationen zu Gimis Bar sind unter [Piratentreffpunkte]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Gimis_Bar) im Grundregelwerk zu finden.
 
 Als die Piraten auf Gimis Bar ankommen, herrscht dort etwas Tumult vor. Es wird den Piraten relativ schnell klar, das etwas nicht stimmen kann: Hier ist auch der Rum aus!
 

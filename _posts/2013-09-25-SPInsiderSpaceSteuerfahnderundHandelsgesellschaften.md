@@ -9,7 +9,5 @@ Gerade eben sind zwei neue SP:Insider online gegangen. Der erste ist Space-Steue
 
 Viel Spaß mit den beiden SP:Insidern!
 
-- **[Space-Steuerfahnder]({{ site.baseurl }}/Weltraum/Freihandelszone/Spacesteuerfahnder)**
-- **[Handelsgesellschaften]({{ site.baseurl }}/Weltraum/Konzerne)**
-
-
+- **[Space-Steuerfahnder]({{ site.baseurl }}/Weltraum/Freihandelszone/Space-Steuerfahnder/)**
+- **[Handelsgesellschaften]({{ site.baseurl }}/Weltraum/Konzerne/)**

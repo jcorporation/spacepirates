@@ -16,4 +16,4 @@ Durch die Experimente hat er in der nahen Zukunft einen neuen Urknall verursacht
 
 ***
 
-- **Weiter:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Auftragserteilung.html)
+- **Weiter:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Auftragserteilung)

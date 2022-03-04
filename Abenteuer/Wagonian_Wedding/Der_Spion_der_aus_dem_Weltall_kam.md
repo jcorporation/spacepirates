@@ -12,8 +12,7 @@ Allerdings spielt Wagonion nicht mit offenen Karten: Er will nicht nur seiner To
 
 Mithilfe seiner Geliebten Cecily Blazer-Polo will er als Sir Hat den Dieb stellen, den Diebstahl als menschlichen Versuch, das wagonische Reich zu destabilisieren darstellen, und anschließen als starker Mann eine „militärische Disziplinierung der Emporkömmlinge“ zu fordern. Natürlich würde Wagonion sich in diesem Fall selbst zum Feldherr ernennen und, sobald er genügend militärischen Ruhm eingeheimst hat, fordern, die schwache und passive Königin durch den Retter des Rechts (also ihn) zu ersetzen.
 
-
 ***
-- **Zurück:** [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Einleitung)
-- **Weiter:** [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Baeaemler)
 
+- **Zurück:** [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Einleitung)
+- **Weiter:** [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler)

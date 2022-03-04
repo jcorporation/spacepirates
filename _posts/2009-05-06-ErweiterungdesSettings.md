@@ -9,6 +9,6 @@ Für dieses PDF-Release wurde vorallem am Setting geschraubt. So wurde die Stern
 
 Desweiteren wurde das Konfliktsystem entrümpelt, die Spielabschnitte gestrichen und die Regeneration und Konfliktfolgen überarbeitet.
 
-Wie immer sind die aktuellen PDFs in der [Downloadsektion]({{ site.baseurl }}/Publikationen/) und über den [PDFCast]({{ site.baseurl }}/Pdfcast.rss) erhältlich.
+Wie immer sind die aktuellen PDFs in der [Downloadsektion]({{ site.baseurl }}/Publikationen/) und über den PDFCast erhältlich.
 
 

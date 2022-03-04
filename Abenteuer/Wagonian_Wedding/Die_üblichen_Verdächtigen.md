@@ -17,4 +17,4 @@ Rupert Sailman-Eggbird ist zwar ein absoluter Profi, was Adelshochzeiten angeht,
 ***
 
 - **Zurück:** [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone)
-- **Weiter:** [Auftritt: Special Effects für alle!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Specialeffects)
+- **Weiter:** [Auftritt: Special Effects für alle!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle)

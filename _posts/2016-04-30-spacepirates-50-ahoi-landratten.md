@@ -11,4 +11,4 @@ Feedback nehme ich natürlich über alle bekannten [Kanäle]({{ site.baseurl }}/
 
 **[&raquo; zum Regelwerk]({{ site.baseurl }}/Spielregeln/)**
 
-**[&raquo; Herunterladen]({{ site.baseurl }}/Publikationen)**
+**[&raquo; Herunterladen]({{ site.baseurl }}/Publikationen/)**

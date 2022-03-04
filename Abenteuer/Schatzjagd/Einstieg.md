@@ -36,5 +36,5 @@ Die Karte ist 30 × 20 cm hoch, besteht aus gebürstetem Aluminium und besitzt e
 
 ***
 
-- **Zurück:** [Schatzjagd]({{ site.baseurl }}/Abenteuer/Schatzjagd)
+- **Zurück:** [Schatzjagd]({{ site.baseurl }}/Abenteuer/Schatzjagd/)
 - **Weiter:** [Erste Piratengruppe]({{ site.baseurl }}/Abenteuer/Schatzjagd/Erste_Piratengruppe)

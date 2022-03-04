@@ -16,9 +16,9 @@ Das Pergament in Linear F beschriftet, einer Schrift, die einzig und allein an d
 
 Es ist möglich, die Karte mit einem Computerprogramm zu entschlüsseln. Entsprechende Programme sind im Starnet verfügbar. Der Schiffscomputer würde allerdings Jahre bis Jahrzehnte brauchen, um die Schrift zu entschlüsseln, es muss also mehr Rechenleistung her. Dafür gibt es natürlich verschiedene Möglichkeiten.
 
-- [Oma Binkel]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Omabinkel)
+- [Oma Binkel]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel)
 - [Zombierechner]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner)
-- [Universität]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Universitaet)
+- [Universität]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Universität)
 
 ### Einen Atlanter fragen
 

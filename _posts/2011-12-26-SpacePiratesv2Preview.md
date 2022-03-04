@@ -9,6 +9,4 @@ Zum zweiten Weihnachtsfeiertag gibt es die erste Vorschau auf das kommende Space
 
 Feedback ist immer höchst willkommen und es wird auch noch ein fetziger Untertitel gesucht.
 
-- [zur Preview]({{ site.baseurl }}/Regelwerkv2)
-
-
+- [zur Preview]({{ site.baseurl }}/Spielregeln/)

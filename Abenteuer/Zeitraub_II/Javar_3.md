@@ -55,8 +55,8 @@ Jangba hält sich entweder im Labor oder in einer der Unterkünfte auf. Er wird 
 Das gelandete Raumschiff ist ein Spaceflitzer, der mit 2 Laserkanonen ausgestattet ist. Die Tür ist natürlich verschlossen, das Raumschiff aber unbewacht, falls die Söldner die Piraten nicht bereits erwarten.
 
 <table>
+<caption>Spaceflitzer</caption>
 <tbody>
-<tr><th colspan="2">Spaceflitzer</th></tr>
 <tr><th>Antrieb</th><td>FTL1</td></tr>
 <tr><th>Geschwindigkeit</th><td>5</td></tr>
 <tr><th>Wendigkeit</th><td>5</td></tr>
@@ -73,10 +73,10 @@ Das gelandete Raumschiff ist ein Spaceflitzer, der mit 2 Laserkanonen ausgestatt
 
 Die Zeitmaschine befindet sich neben dem Labortrakt. Sie sieht sehr futuristisch aus und ist schon von außen als Zeitmaschine erkennbar. Im Inneren der Zeitmaschine befindet sich extrem viel elektronischer Krimskrams und in der Mitte, gehalten von einem Kraftfeld, schwebt das Zeitmaschinenteil aus dem ersten Teil dieses Abenteuers.
 
-- Wenn das Zeitmaschinenteil aus dem Kraftfeld genommen wird, treten die Auswirkungen auf, wie sie unter [„Das Bauteil“]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen.html) beschrieben sind.
+- Wenn das Zeitmaschinenteil aus dem Kraftfeld genommen wird, treten die Auswirkungen auf, wie sie unter [„Das Bauteil“]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen) beschrieben sind.
 - Wenn auf die Zeitmaschine geschossen wird (z.B. mit den Laserkanonen des Raumschiffs) bleibt die Zeit außerhalb des Raumschiffs stehen und auch das Raumschiff kann sich nur innerhalb seiner Schilde bewegen.
 
 ***
 
-- **Zurück:** [Reise]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Reise.html)
-- **Weiter:** [Karte des Labors]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Laborkarte.html)
+- **Zurück:** [Reise]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Reise)
+- **Weiter:** [Karte des Labors]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Laborkarte)

@@ -18,7 +18,7 @@ Dieses Tool generiert zufällige Gegenstände, die die Piraten erbeuten können.
     <div class="list-group-item" id="beute5">Beute 5</div>
 </div>
 
-<script type="text/javascript" src="/assets/js/data_names.js"></script>
-<script type="text/javascript" src="/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="/assets/js/zufallsgenerator.js"></script>
-<script type="text/javascript" src="/assets/js/beute.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/beute.js"></script>

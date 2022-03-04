@@ -15,7 +15,7 @@ sitedata:
 
 # Sigma 9
 
-Sigma 9 wäre ein total uninteressantes Sternensystem, hätte sich nicht auf dem 4. Planeten ein [SpaceDrache]({{ site.baseurl }}/Abenteuer/Spacedrache) eingenistet.
+Sigma 9 wäre ein total uninteressantes Sternensystem, hätte sich nicht auf dem 4. Planeten ein [SpaceDrache]({{ site.baseurl }}/Abenteuer/SpaceDrache/) eingenistet.
 
 ## Planeten
 

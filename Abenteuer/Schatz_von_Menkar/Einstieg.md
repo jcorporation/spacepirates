@@ -22,7 +22,7 @@ sitedata:
 
 Nachdem die Charaktere von einer längeren Reise ohne Starnet Zugang wieder auf Two-Eyed-Jack eintreffen, spricht sie der alternden Spacepear Piraten Noh Frut an. Er bietet ihnen einen Deal an. Er hat vor kurzem bei einem Glücksspiel die Karte zum legendären Schatz von Menkar gewonnen. Da er keine eigene Piratencrew mehr besitzt will er mit den Piraten auf sein letztes großes Abenteuer gehen. Er bietet die Hälfte des Schatzes als Heuer an. Der ursprüngliche Besitzer der Karte glaubt der alten Legende nicht und hat die Karte daher leichtfertig verspielt.
 
-Noh Frut verheimlicht aber, dass er große Spielschulden bei [Big Bang Bucks]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Two-Eyed-Jack) hat. Daher hat der samnesische Besitzer LAK-418 seine Schläger auf ihn angesetzt.
+Noh Frut verheimlicht aber, dass er große Spielschulden bei [Big Bang Bucks]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack) hat. Daher hat der samnesische Besitzer LAK-418 seine Schläger auf ihn angesetzt.
 
 ## Noh Frut
 
@@ -42,5 +42,5 @@ Diese Sternenkonstellation tritt nur alle tausend Jahre auf und die Charaktere h
 
 ***
 
-- **Weiter:** [Die Schläger]({{ site.baseurl }}/Abenteuer/Menkar/Schläger)
-- **Weiter:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Menkar/Koordinaten)
+- **Weiter:** [Die Schläger]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Schläger)
+- **Weiter:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Koordinaten)

@@ -71,5 +71,5 @@ Der Silberschatz (Gesamtwert ca. 1.000.000 UC) befindet sich im verschlossenen L
 
 ***
 
-- **Zurück:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Menkar/Hinter_dem_Wurmloch)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Menkar/Ende)
+- **Zurück:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch)
+- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Ende)

@@ -44,5 +44,5 @@ Wenn die Schläger Noh Frut nicht auf Two Eyed Jack stellen können oder er unan
 
 ***
 
-- **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Menkar/Einstieg)
-- **Weiter:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Menkar/Koordinaten)
+- **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Einstieg)
+- **Weiter:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Koordinaten)

@@ -9,8 +9,8 @@ title: Einstieg
 Die Charaktere entdecken im Trullimperium, in der Nähe der großen Plasmastürme, ein seltsames Raumschiff, dem wohl die Energie ausgegangen ist. Sie wären keine Piraten, wenn sie nicht nachschauen würden, ob man etwas wertvolles bergen kann.
 
 <table>
+<caption>Unbekanntes Glukorianerschiff</caption>
 <tbody>
-<tr><th colspan="2">Unbekanntes Glukorianerschiff</th></tr>
 <tr><th>Pilotenwert</th><td>6</td></tr>
 <tr><th>Techwert</th><td>6</td></tr>
 <tr><th>Söldnerwert</th><td>6</td></tr>
@@ -38,4 +38,4 @@ Natürlich sind die Charaktere im fremden Raumschiff angekommen und nicht in der
 
 ***
 
-- **Weiter:** [Railroading auf dem Raumschiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading)
+- **Weiter:** [Railroading auf dem Raumschiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/)

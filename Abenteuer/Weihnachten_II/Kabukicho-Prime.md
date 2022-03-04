@@ -64,4 +64,4 @@ Damit ist Weihnachten gerettet, Santa wird geheilt, die Elfen klotzen noch mal r
 
 ***
 
-- **Zurück:** [Auf Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Santa_24.html)
+- **Zurück:** [Auf Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Santa_24)

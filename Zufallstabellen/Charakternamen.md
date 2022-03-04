@@ -100,4 +100,4 @@ Für Menschen werden Vorname und Nachname einzeln ausgewürfelt. Für Aliennamen
 
 ***
 
-Die Namenslisten basieren teilweise auf folgenden Namenslisten aus der freien Enzyklopädie [GNU-Lizenz]({{ site.baseurl }}/Wikipedia](http:/De.wikipedia.org) und steht unter der )(https://www.gnu.org/licenses/fdl.txt) für freie Dokumentation.
+Die Namenslisten basieren teilweise auf Namenslisten aus der freien Enzyklopädie [Wikipedia](http:/De.wikipedia.org).

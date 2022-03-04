@@ -22,4 +22,4 @@ Die Reise durch das Wurmloch ist holprig, sollte aber einem erfahrenen Piloten k
 
 ***
 
-- **Weiter:** [Auf Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Santa_24.html)
+- **Weiter:** [Auf Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Santa_24)

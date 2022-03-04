@@ -22,4 +22,4 @@ Das SWIP bietet den Piraten auf Nachfrage ebenfalls 20.000 UC für den Busch und
 
 ***
 
-- **Zurück:** [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Novaceti)
+- **Zurück:** [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Nova_Ceti)

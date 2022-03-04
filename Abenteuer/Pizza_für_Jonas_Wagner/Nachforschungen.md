@@ -84,4 +84,4 @@ Er kennt sich tatsächlich gut mit alten Schriftrollen aus, ist aber eher mürri
 ***
 
 - **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Einstieg)
-- **Weiter:** [Auflösung]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Aufloesung)
+- **Weiter:** [Auflösung]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung)

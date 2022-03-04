@@ -18,4 +18,4 @@ Danach gilt es dem Wunsch der Geister der Crashing Meteorits nachzukommen und di
 
 ***
 
-- **Zurück:** [Das alte Bandraumschiff]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das-alte-bandraumschiff)
+- **Zurück:** [Das alte Bandraumschiff]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff)

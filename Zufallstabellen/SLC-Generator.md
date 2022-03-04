@@ -91,7 +91,7 @@ Dieses Tool generiert zufällige Spielleiter-Charaktere, es hält sich an die Ch
     <div class="list-group-item" id="macke2">Macke 2</div>
 </div>
 
-<script type="text/javascript" src="/assets/js/data_names.js"></script>
-<script type="text/javascript" src="/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="/assets/js/zufallsgenerator.js"></script>
-<script type="text/javascript" src="/assets/js/slcgen.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/slcgen.js"></script>

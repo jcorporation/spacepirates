@@ -44,5 +44,5 @@ Das Kampfgeschwader besteht aus 4 Kampfschiffen die jeweils mit einem Piloten, v
 
 ***
 
-- **Zurück:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Auftrag.html)
-- **Weiter:** [Anzapfen der Pipeline]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Pipeline.html)
+- **Zurück:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Auftrag)
+- **Weiter:** [Anzapfen der Pipeline]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Pipeline)

@@ -10,7 +10,7 @@ title: Einstieg
 
 Die Charaktere gewinnen in Jacksons Bar auf [Halfway]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Halfway) beim SpacePoker eine Karte auf der das, nahe einer Sonne treibende Raumschiff Blumenkind verzeichnet ist. Auf der Karte ist aber auch noch der Planet Woodstock mit einem Schlüsselsymbol gekennzeichnet unter dem „Sunflower“ (Der Name des letzten Nachkommens der Hippies von Doradus) steht.
 
-In Jacksons Bar hängen gerade auch die [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/Spacehippies) ab. Sie bekommen mit, dass einer der Charaktere die Karte gewinnt, da auch Oliver mehr schlecht als recht beim SpacePoker mitgespielt hat.
+In Jacksons Bar hängen gerade auch die [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/SpaceHippies) ab. Sie bekommen mit, dass einer der Charaktere die Karte gewinnt, da auch Oliver mehr schlecht als recht beim SpacePoker mitgespielt hat.
 
 - Sie heften sie sich an die Fersen der Charaktere und versuchen ihnen die Karte abzuschwatzen.
 - Da sie kaum UC besitzen, können sie den Charakteren nichts bieten.

@@ -44,5 +44,5 @@ Die Schatzkarte verweist auf das System Proxima Sigma und laut Phren ist dieses 
 
 ***
 
-- **Zurück:** [SpaceNinjas]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Spaceninjas)
+- **Zurück:** [SpaceNinjas]({{ site.baseurl }}/Abenteuer/Der_große_Fang/SpaceNinjas)
 - **Weiter:** [Die Reise nach Proxima Sigma]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Reise)

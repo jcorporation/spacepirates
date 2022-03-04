@@ -10,6 +10,4 @@ Alle PDFs der SpacePirates Abenteuer wurden nochmals leicht überarbeitet und ko
 
 Zudem gibt es jetzt auch die Ausrüstungsliste als separates A4 PDF zum bequemen selber ausdrucken.
 
-	- [Downloads]({{ site.baseurl }}/Publikationen/.html)
-
-
+- [Downloads]({{ site.baseurl }}/Publikationen/)

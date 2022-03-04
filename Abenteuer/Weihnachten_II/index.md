@@ -11,7 +11,7 @@ Dieses Abenteuer kann als Fortsetzung zum ersten Weihnachtsabenteuer gespielt we
 ## Inhalt
 
 - [Einstieg]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Einstieg)
-- [Auf Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Auf_Santa_24)
+- [Auf Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Santa_24)
 - [Kabukicho-Prime]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Kabukicho-Prime)
 
 ## Download

@@ -60,10 +60,10 @@ Ein spießiges Raumschiff, wie es viele Familien verwenden. Im Grunde ein weltra
 <tr><th>Name</th><th>Rasse</th><th>Kategorie</th><th>SÖLDNER</th><th>TECH</th><th>PILOT</th><th>HÄNDLER</th></tr>
 </thead>
 <tbody>
-<tr><td>Georg</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td><td>Normalo</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
-<tr><td>Angelika</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td><td>Normalo</td><td>2</td><td>2</td><td>3</td><td>5</td></tr>
-<tr><td>Sascha</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td><td>Normalo</td><td>1</td><td>2</td><td>1</td><td>4</td></tr>
-<tr><td>Nicole</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Foederation)</td><td>Normalo</td><td>1</td><td>1</td><td>1</td><td>4</td></tr>
+<tr><td>Georg</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td><td>Normalo</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>Angelika</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td><td>Normalo</td><td>2</td><td>2</td><td>3</td><td>5</td></tr>
+<tr><td>Sascha</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td><td>Normalo</td><td>1</td><td>2</td><td>1</td><td>4</td></tr>
+<tr><td>Nicole</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td><td>Normalo</td><td>1</td><td>1</td><td>1</td><td>4</td></tr>
 </tbody>
 </table>
 

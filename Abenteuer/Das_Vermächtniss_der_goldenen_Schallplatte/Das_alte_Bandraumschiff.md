@@ -48,5 +48,5 @@ Das Raumschiff ist natürlich am meisten wert, aber richtige Fans lassen für fo
 
 ***
 
-- **Zurück:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In-der-quantenfluktuation)
+- **Zurück:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation)
 - **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende)
