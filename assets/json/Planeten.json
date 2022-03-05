@@ -140,13 +140,13 @@
   "DU-3864366": {
     "Name": "DU-3864366",
     "Typ": "Erdähnlich",
-    "Sektor": "",
+    "Sektor": "Sektor D0",
     "Monde": 3,
     "Einwohner": "",
     "Hauptstadt": "",
     "Besiedelung": "Dungeon",
     "Politisches": "Keine politischen Beziehungen",
-    "Link": "/Weltraum/DU-3864366"
+    "Link": "/Weltraum/Sektoren/D0/DU-3864366"
   },
   "Der_Rote_Planet": {
     "Name": "Der Rote Planet",
