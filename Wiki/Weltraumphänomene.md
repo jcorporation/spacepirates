@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Weltraumphaenomene
+permalink: /Wiki/Weltraumphänomene
 title: Weltraumphänomene
 ---
 

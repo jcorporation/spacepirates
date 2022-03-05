@@ -65,7 +65,7 @@ SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedre
     </div>
 </div>
 
-<div class="row row-cols-1 row-cols-sm-2 g-4 mb-3">
+<div class="row row-cols-1 row-cols-sm-3 g-4 mb-3">
     <div class="col">
         <div class="card bg-sterne text-light clickable">
             <div class="card-header">Interaktive Sternenkarte</div>
@@ -79,6 +79,14 @@ SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedre
             <div class="card-header">StarTunes</div>
             <div class="card-body bg-startunes text-shadow">
                 <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/StarTunes/">SpacePirates Soundtrack</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card bg-sterne text-light clickable">
+            <div class="card-header">Wiki</div>
+            <div class="card-body text-shadow">
+                <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/Wiki/">Ideen für neue Inhalte</a></p>
             </div>
         </div>
     </div>
