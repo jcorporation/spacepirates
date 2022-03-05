@@ -45,5 +45,4 @@ do
     check_title "$F"
 done < <(find ./ -name \*.md)
 
-#exit $rc
-exit 0
+exit $rc
