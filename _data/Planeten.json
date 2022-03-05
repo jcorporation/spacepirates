@@ -566,6 +566,17 @@
     "Politisches": "Zurückgebliebener Planet in Sperrzone",
     "Link": "/Weltraum/Aliens/Wagonen/Terra_20CAD"
   },
+  "Trianguli_Sup_2": {
+    "Name": "Trianguli Sup 2",
+    "Typ": "Felsplanet",
+    "Sektor": "Sektor D1",
+    "Monde": "3",
+    "Einwohner": "Samnesen",
+    "Hauptstadt": "",
+    "Besiedelung": "",
+    "Politisches": "Forschungsplanet",
+    "Link": "/Weltraum/Sektoren/D1/Trianguli_Sup_2"
+  },
   "Trullmania": {
     "Name": "Trullmania",
     "Typ": "Wüstenplanet",

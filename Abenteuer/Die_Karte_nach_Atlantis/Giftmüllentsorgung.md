@@ -6,7 +6,7 @@ title: Giftmüllentsorgung
 
 # Giftmüllentsorgung
 
-Den Giftmüll sollen die Piraten auf dem samnesischen Mond Trianguli Sup 2 aufnehmen, der 18 Lichtjahre von Freeport entfernt ist, und in einem 50 Lichtjahre entfernten Schwarzen Loch entsorgen. Der Giftmüll besteht aus ein oder zwei großen Containern, je nachdem, wie gut die Piraten mit Oma Binkel verhandelt haben.
+Den Giftmüll sollen die Piraten auf dem samnesischen Planeten Trianguli Sup 2 aufnehmen, der 18 Lichtjahre von Freeport entfernt ist, und in einem 50 Lichtjahre entfernten Schwarzen Loch entsorgen. Der Giftmüll besteht aus ein oder zwei großen Containern, je nachdem, wie gut die Piraten mit Oma Binkel verhandelt haben.
 
 Das Entsorgen von Müll, besonders von Giftmüll, in schwarzen Löchern ist natürlich strengstens verboten, da die Gefahr besteht, dass sich das Loch ausdehnt und angrenzende Sternsysteme verschluckt. Bei einer Probe auf HÄNDLER mit 1 Erfolg bemerken die Piraten, dass das Gesetz sich ausdrücklich nur auf Schwarze Löcher bezieht – in Rosa Löchern darf man ganz legal Giftmüll entsorgen. Sie würden dann allerdings feststellen, dass Rosa Lichter bei Kontakt mit Giftmüll färben, das Piratenschiff und seine Insassen sähen hinterher also wie ein Regenbogen aus.
 

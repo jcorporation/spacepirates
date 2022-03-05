@@ -182,7 +182,6 @@ function doSearch(value, resultEl) {
         value_old = value;
         value = value.replace(/^\s*(aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|an|auf|der|die|das|ein|eine|\d+\.?)\s+/, '')
     } while (value !== value_old)
-    console.log(value);
     // stomp searchstring
     const stomp = stompWords[value];
     if (stomp !== undefined) {
