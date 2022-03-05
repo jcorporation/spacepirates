@@ -8,7 +8,7 @@ title: Einstieg
 
 ## Der Planet
 
-Um den Planeten [DU-3864366]({{ site.baseurl }}/Weltraum/DU-3864366) patrouillieren in großem Abstand zwei Schiffe des Handelsrates. Sie funken anfliegende Schiffe an, dass der Planet ein Sperrgebiet ist und fordern sie auf, das Gebiet „zu ihrer eigenen Sicherheit“ zu verlassen. Wenn es zu einem Kampf kommt, setzen die Schiffe einen Hilferuf ab und fliehen, sobald sie einen ernsten Treffer einstecken mussten. Es ist aber auch recht einfach möglich, sie zu umfliegen oder davon zu überzeugen, dass man da sein darf.
+Um den Planeten [DU-3864366]({{ site.baseurl }}/Weltraum/Sektoren/D0/DU-3864366) patrouillieren in großem Abstand zwei Schiffe des Handelsrates. Sie funken anfliegende Schiffe an, dass der Planet ein Sperrgebiet ist und fordern sie auf, das Gebiet „zu ihrer eigenen Sicherheit“ zu verlassen. Wenn es zu einem Kampf kommt, setzen die Schiffe einen Hilferuf ab und fliehen, sobald sie einen ernsten Treffer einstecken mussten. Es ist aber auch recht einfach möglich, sie zu umfliegen oder davon zu überzeugen, dass man da sein darf.
 
 ### Patrouillenschiffe
 

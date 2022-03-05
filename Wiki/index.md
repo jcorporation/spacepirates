@@ -8,6 +8,6 @@ title: Wiki
 
 Dies hier ist eine wirre Sammlung für mögliche neue SpacePirates Inhalte.
 
-- [Bewohner]({{ site.baseurl}}/Wiki/Bewohner/)
-- [Orte]({{ site.baseurl}}/Wiki/Orte/)
-- [Weltraumphänomene]({{ site.baseurl}}/Wiki/Weltraumphänomene)
+- [Bewohner]({{ site.baseurl }}/Wiki/Bewohner/)
+- [Orte]({{ site.baseurl }}/Wiki/Orte/)
+- [Weltraumphänomene]({{ site.baseurl }}/Wiki/Weltraumphänomene)

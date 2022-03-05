@@ -1,13 +1,12 @@
 ---
 layout: page
-permalink: /Wiki/Planeten_denta4
+permalink: /Wiki/Orte/Denta_4
 title: Denta 4
 ---
 
 # Denta 4
 
 Denta 4 ist ein Planet in Backenzahnform.
-
 
 <table>
 <caption>Denta 4</caption>
