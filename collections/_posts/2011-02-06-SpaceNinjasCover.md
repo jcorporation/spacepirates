@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceNinjas Cover"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-02-06-SpaceNinjasCover
 ---
 

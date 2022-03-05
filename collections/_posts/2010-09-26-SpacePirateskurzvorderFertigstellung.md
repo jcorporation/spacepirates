@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates kurz vor der Fertigstellung!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-09-26-SpacePirateskurzvorderFertigstellung
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erweiterung des Settings"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2009-05-06-ErweiterungdesSettings
 ---
 

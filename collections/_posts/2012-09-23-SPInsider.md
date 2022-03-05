@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-09-23-SPInsider
 ---
 

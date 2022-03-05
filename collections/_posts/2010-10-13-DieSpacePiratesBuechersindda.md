@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die SpacePirates Bücher sind da!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-10-13-DieSpacePiratesBuechersindda
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Techsprech Tabellen und Generator"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-09-18-TechsprechTabellenundGenerator
 ---
 

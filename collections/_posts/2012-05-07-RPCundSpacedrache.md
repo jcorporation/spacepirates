@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RPC und Spacedrache"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-05-07-RPCundSpacedrache
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Namensgenerator, aktualisiertes PDF"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2009-01-03-NamensgeneratoraktualisiertesPDF
 ---
 

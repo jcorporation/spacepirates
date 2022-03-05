@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hefte für die FeenCon"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-07-08-HeftefuerdieFeenCon
 ---
 

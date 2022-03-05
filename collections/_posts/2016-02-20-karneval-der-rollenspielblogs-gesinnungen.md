@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Karneval der Rollenspielblogs: Gesinnungen"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-02-20-karneval-der-rollenspielblogs-gesinnungen
 ---
 

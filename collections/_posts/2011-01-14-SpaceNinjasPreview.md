@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceNinjas Preview"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-01-14-SpaceNinjasPreview
 ---
 

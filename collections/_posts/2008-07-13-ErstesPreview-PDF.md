@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erstes Preview-PDF"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-07-13-ErstesPreview-PDF
 ---
 

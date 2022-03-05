@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceNinjas V2 mit 20 Prozent mehr Ninjas"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-09-25-SpaceNinjasV2mit20ProzentmehrNinjas
 ---
 

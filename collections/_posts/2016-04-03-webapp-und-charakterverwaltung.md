@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WebApp und Charakterverwaltung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-04-03-webapp-und-charakterverwaltung
 ---
 

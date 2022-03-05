@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erweitertes Raumkampfsystem"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2009-09-27-ErweitertesRaumkampfsystem
 ---
 

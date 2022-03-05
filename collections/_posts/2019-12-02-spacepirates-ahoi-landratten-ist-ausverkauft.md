@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates - Ahoi Landratten! ist ausverkauft"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2019-12-02-spacepirates-ahoi-landratten-ist-ausverkauft
 ---
 

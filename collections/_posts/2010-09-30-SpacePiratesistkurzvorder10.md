@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates ist kurz vor der 1.0!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-09-30-SpacePiratesistkurzvorder10
 ---
 

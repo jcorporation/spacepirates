@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die HTML5 App ist bereit für die Tabletwelle"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-01-28-DieHTML5AppistbereitfuerdieTabletwelle
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Piratenklatschgenerator"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2009-07-18-Piratenklatschgenerator
 ---
 

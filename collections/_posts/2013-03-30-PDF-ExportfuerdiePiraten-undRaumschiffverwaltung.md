@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PDF-Export für die Piraten- und Raumschiffverwaltung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-03-30-PDF-ExportfuerdiePiraten-undRaumschiffverwaltung
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktuelle PDFs zum Jahresauftakt"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-01-01-AktuellePDFszumJahresauftakt
 ---
 

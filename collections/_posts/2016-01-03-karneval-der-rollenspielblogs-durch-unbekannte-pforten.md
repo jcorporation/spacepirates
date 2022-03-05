@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Karneval der Rollenspielblogs: Durch unbekannte Pforten"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-01-03-karneval-der-rollenspielblogs-durch-unbekannte-pforten
 ---
 

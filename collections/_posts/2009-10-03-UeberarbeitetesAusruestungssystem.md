@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Überarbeitetes Ausrüstungssystem"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2009-10-03-UeberarbeitetesAusruestungssystem
 ---
 

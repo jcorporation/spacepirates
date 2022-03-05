@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Und wieder das Regelwerk"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-11-30-UndwiederdasRegelwerk
 ---
 

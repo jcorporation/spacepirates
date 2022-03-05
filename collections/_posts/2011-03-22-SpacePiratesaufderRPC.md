@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates auf der RPC"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-03-22-SpacePiratesaufderRPC
 ---
 

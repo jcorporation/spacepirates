@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceNinjas Jahresendspurt"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-12-29-SpaceNinjasJahresendspurt
 ---
 

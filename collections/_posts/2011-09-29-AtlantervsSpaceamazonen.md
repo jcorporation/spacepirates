@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Atlanter vs Spaceamazonen"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-09-29-AtlantervsSpaceamazonen
 ---
 

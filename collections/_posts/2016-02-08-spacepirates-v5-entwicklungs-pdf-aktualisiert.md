@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates v5 Entwicklungs-PDF aktualisiert"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-02-08-spacepirates-v5-entwicklungs-pdf-aktualisiert
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Preview als Softcover?"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-04-19-SpacePiratesPreviewalsSoftcover
 ---
 

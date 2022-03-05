@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Publikationen für SpacePirates?"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-07-31-neue-publikationen-fuer-spacepirates
 ---
 

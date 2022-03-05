@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceCowboys"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-11-18-SpaceCowboys
 ---
 

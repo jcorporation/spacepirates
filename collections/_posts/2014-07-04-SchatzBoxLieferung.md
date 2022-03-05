@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schatz.Box Lieferung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-07-04-SchatzBoxLieferung
 ---
 

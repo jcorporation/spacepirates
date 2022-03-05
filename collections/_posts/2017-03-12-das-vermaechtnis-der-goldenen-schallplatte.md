@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Vermächtnis der goldenen Schallplatte"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2017-03-12-das-vermaechtnis-der-goldenen-schallplatte
 ---
 

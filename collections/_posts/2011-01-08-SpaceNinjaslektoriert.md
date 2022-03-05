@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceNinjas lektoriert"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-01-08-SpaceNinjaslektoriert
 ---
 

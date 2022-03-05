@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ein Dungeon für SpacePirates"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-09-23-EinDungeonfuerSpacePirates
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kampagnen mit SpacePirates"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-12-09-KampagnenmitSpacePirates
 ---
 

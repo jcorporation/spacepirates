@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Es weihnachtet sehr!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-12-01-Esweihnachtetsehr
 ---
 

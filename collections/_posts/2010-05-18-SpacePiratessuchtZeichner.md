@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates sucht Zeichner!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-05-18-SpacePiratessuchtZeichner
 ---
 

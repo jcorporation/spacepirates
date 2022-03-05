@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "20 neue Macken für Raumschiffe"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-05-06-20-neue-macken-fuer-raumschiffe
 ---
 

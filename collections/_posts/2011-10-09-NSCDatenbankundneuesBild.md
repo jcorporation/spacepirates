@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SLC Datenbank und neues Bild"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-10-09-NSCDatenbankundneuesBild
 ---
 

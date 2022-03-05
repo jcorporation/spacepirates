@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Preview - die letzten Exemplare sichern!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-05-08-SpacePiratesPreview-dieletztenExemplaresichern
 ---
 

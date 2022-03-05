@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nach dem Themenheft ist vor dem Themenheft"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-04-21-NachdemThemenheftistvordemThemenheft
 ---
 

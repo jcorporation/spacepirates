@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuer SP:Insider Beta Prison"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-10-13-NeuerSPInsiderBetaPrison
 ---
 

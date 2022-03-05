@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Werkstattbericht der 5. Version"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-10-24-Werkstattbericht-der-5-Version
 ---
 

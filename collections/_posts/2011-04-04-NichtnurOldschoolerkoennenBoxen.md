@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nicht nur Oldschooler können Boxen..."
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-04-04-NichtnurOldschoolerkoennenBoxen
 ---
 

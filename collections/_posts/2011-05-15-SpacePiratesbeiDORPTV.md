@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates bei DORP TV"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-05-15-SpacePiratesbeiDORPTV
 ---
 

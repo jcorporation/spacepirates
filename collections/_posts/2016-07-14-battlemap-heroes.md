@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Battlemap Heroes"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-07-14-battlemap-heroes
 ---
 

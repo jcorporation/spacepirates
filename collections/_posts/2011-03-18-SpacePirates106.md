@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates 1.0.6"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-03-18-SpacePirates106
 ---
 

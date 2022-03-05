@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates v5"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-10-03-SpacePiratesv5
 ---
 

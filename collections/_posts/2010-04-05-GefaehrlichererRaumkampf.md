@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gefährlicherer Raumkampf"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-04-05-GefaehrlichererRaumkampf
 ---
 

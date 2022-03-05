@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML5 App für Smartphones 1.0.2"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-01-27-HTML5AppfuerSmartphones102
 ---
 

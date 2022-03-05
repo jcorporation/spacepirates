@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oma Binkels SpacePirates 2.0.0"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-04-04-OmaBinkelsSpacePirates200
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider SpaceSteuerfahnder und Handelsgesellschaften"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-09-25-SPInsiderSpaceSteuerfahnderundHandelsgesellschaften
 ---
 

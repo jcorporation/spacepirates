@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Optimierte Sternenkarte"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-08-12-OptimierteSternenkarte
 ---
 

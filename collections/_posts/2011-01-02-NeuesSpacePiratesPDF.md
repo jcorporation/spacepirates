@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues SpacePirates PDF"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-01-02-NeuesSpacePiratesPDF
 ---
 

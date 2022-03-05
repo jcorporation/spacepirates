@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceNinjas vorbestellbar!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-04-07-SpaceNinjasvorbestellbar
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ausgekuschelt im SpacePirates Universum"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-01-24-AusgekuscheltimSpacePiratesUniversum
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stars und Sternchen"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-05-28-StarsundSternchen
 ---
 

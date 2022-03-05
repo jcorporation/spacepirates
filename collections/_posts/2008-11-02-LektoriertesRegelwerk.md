@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lektoriertes Regelwerk"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-11-02-LektoriertesRegelwerk
 ---
 

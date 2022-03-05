@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktualisierte SpacePirates Preview"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-05-29-AktualisierteSpacePiratesPreview
 ---
 

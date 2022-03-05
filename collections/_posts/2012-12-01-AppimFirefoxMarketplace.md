@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "App im Firefox Marketplace"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-12-01-AppimFirefoxMarketplace
 ---
 

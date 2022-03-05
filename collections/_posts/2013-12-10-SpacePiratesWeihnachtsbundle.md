@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Weihnachtsbundle"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-12-10-SpacePiratesWeihnachtsbundle
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erweiterte Weltbeschreibungen"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-07-26-ErweiterteWeltbeschreibungen
 ---
 

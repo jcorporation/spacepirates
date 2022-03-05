@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Umbau der Homepagestruktur"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-07-30-umbau-der-homepagestruktur
 ---
 

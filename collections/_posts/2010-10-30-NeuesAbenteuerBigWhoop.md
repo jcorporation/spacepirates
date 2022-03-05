@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Abenteuer: Big Whoop"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-10-30-NeuesAbenteuerBigWhoop
 ---
 

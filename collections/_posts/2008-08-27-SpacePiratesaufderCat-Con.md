@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates auf der Cat-Con"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-08-27-SpacePiratesaufderCat-Con
 ---
 

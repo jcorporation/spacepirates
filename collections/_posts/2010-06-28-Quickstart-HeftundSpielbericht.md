@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quickstart-Heft und Spielbericht"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-06-28-Quickstart-HeftundSpielbericht
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktualisierte Abenteuer"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-04-01-AktualisierteAbenteuer
 ---
 

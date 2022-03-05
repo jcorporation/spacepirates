@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates jetzt mit Streifanier!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-03-18-SpacePiratesjetztmitStreifanier
 ---
 

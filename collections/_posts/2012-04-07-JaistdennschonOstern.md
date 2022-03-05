@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ja, ist denn schon Ostern?"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-04-07-JaistdennschonOstern
 ---
 

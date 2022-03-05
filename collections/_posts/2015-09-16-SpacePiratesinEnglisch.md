@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates in Englisch"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-09-16-SpacePiratesinEnglisch
 ---
 

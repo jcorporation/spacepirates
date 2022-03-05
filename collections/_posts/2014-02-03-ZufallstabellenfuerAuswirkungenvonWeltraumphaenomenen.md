@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zufallstabellen für Auswirkungen von Weltraumphänomenen"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-02-03-ZufallstabellenfuerAuswirkungenvonWeltraumphaenomenen
 ---
 

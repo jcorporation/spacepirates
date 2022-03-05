@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frisch gedruckt!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-04-03-Frischgedruckt
 ---
 

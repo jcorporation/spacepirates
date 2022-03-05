@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NSC-Generator"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-08-07-NSC-Generator
 ---
 

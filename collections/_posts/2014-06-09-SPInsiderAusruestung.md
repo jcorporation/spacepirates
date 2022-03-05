@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider Ausrüstung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-06-09-SPInsiderAusruestung
 ---
 

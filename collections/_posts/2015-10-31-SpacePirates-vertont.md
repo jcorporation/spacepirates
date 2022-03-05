@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates vertont"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-10-31-SpacePirates-vertont
 ---
 

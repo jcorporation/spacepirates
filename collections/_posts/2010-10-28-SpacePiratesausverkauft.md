@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates ausverkauft!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-10-28-SpacePiratesausverkauft
 ---
 

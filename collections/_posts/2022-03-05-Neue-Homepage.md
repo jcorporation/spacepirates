@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Homepage"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2022-03-05-Neue-Homepage
 ---
 

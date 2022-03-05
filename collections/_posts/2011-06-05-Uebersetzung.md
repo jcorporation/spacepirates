@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Übersetzung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-06-05-Uebersetzung
 ---
 

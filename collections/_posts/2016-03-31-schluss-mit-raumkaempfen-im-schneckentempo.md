@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schluss mit Raumkämpfen im Schneckentempo"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-03-31-schluss-mit-raumkaempfen-im-schneckentempo
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates auf der Spiel in Essen"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-10-17-SpacePiratesaufderSpielinEssen
 ---
 

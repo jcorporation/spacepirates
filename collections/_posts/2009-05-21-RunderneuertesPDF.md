@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Runderneuertes PDF"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2009-05-21-RunderneuertesPDF
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Big Whoop aktualisiert"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-01-05-BigWhoopaktualisiert
 ---
 

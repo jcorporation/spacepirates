@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BigBong-Theorie"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-01-21-BigBong-Theorie
 ---
 

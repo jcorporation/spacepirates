@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceNinjas und die SpacePirates Box"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-04-17-SpaceNinjasunddieSpacePiratesBox
 ---
 

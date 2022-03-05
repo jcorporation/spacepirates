@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sternenkarte und Aliens"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-06-28-SternenkarteundAliens
 ---
 

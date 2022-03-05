@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Hardcover"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-04-26-SpacePiratesHardcover
 ---
 

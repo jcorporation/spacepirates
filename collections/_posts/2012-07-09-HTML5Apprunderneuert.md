@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML5 App runderneuert"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-07-09-HTML5Apprunderneuert
 ---
 

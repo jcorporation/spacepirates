@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider - SpaceRocker"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-03-21-SPInsider-SpaceRocker
 ---
 

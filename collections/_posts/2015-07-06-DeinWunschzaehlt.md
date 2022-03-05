@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dein Wunsch zählt!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-07-06-DeinWunschzaehlt
 ---
 

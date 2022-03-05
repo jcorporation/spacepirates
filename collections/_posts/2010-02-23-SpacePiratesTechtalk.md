@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Techtalk!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-02-23-SpacePiratesTechtalk
 ---
 

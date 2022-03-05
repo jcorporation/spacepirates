@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Überarbeitetes Konfliktsystem und Charakterbogen"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2009-04-27-UeberarbeitetesKonfliktsystemundCharakterbogen
 ---
 

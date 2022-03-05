@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ein Foto vom Inhalt der Schatz.Box"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-06-05-EinFotovomInhaltderSchatzBox
 ---
 

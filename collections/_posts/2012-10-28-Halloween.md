@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-10-28-Halloween
 ---
 

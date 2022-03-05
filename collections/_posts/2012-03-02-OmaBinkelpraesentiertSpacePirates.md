@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oma Binkel präsentiert SpacePirates"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-03-02-OmaBinkelpraesentiertSpacePirates
 ---
 

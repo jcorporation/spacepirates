@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interaktive Sternenkarte"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-12-26-InteraktiveSternenkarte
 ---
 

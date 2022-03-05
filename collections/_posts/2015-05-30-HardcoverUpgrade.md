@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hardcover Upgrade"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-05-30-HardcoverUpgrade
 ---
 

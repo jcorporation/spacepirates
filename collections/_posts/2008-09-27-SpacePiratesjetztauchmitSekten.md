@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates jetzt auch mit Sekten!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-09-27-SpacePiratesjetztauchmitSekten
 ---
 

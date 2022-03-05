@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finales Quickstart-Heft"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-08-23-FinalesQuickstart-Heft
 ---
 

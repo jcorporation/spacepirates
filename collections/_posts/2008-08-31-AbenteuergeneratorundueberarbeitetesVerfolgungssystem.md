@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abenteuergenerator und überarbeitetes Verfolgungssystem"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-08-31-AbenteuergeneratorundueberarbeitetesVerfolgungssystem
 ---
 

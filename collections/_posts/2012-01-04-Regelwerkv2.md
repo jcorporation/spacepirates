@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regelwerk v2"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-01-04-Regelwerkv2
 ---
 

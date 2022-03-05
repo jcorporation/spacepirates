@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "StarTunes CD-Box vorbestellbar"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2017-06-24-startunes-cd-box-vorbestellbar
 ---
 

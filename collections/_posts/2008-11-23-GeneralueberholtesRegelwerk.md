@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Generalüberholtes Regelwerk"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-11-23-GeneralueberholtesRegelwerk
 ---
 

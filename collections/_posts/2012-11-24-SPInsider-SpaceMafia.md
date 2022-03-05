@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider - SpaceMafia"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-11-24-SPInsider-SpaceMafia
 ---
 

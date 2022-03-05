@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider Glutulhu"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-01-02-SPInsiderGlutulhu
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jahresrückblick 2011 und -ausblick 2012"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-12-31-Jahresrueckblick2011und-ausblick2012
 ---
 

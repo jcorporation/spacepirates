@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WebApp 6.3 und Firefox 19"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-02-20-WebApp63undFirefox19
 ---
 

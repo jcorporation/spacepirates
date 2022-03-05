@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "StarTunes"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2017-03-06-startunes
 ---
 

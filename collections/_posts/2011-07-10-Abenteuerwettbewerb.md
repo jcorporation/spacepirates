@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abenteuerwettbewerb"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-07-10-Abenteuerwettbewerb
 ---
 

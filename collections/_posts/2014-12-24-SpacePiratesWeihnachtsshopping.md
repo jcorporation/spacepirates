@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Weihnachtsshopping"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-12-24-SpacePiratesWeihnachtsshopping
 ---
 

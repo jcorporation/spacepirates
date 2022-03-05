@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Pur"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-01-14-SpacePiratesPur
 ---
 

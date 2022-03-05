@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Überarbeitetes Kontaktsystem, jetzt mit Feinden!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-08-04-UeberarbeitetesKontaktsystemjetztmitFeinden
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Abenteuer: Blumenkind"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-09-20-neues-abenteuer-blumenkind
 ---
 

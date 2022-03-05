@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktualisiertes Quickstart-Heft"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-10-06-AktualisiertesQuickstart-Heft
 ---
 

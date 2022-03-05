@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schatzjagd"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-04-11-Schatzjagd
 ---
 

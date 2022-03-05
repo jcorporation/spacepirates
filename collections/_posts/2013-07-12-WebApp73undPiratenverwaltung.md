@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WebApp 7.3 und Piratenverwaltung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-07-12-WebApp73undPiratenverwaltung
 ---
 

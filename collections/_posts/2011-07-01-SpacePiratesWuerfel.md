@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Würfel"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-07-01-SpacePiratesWuerfel
 ---
 

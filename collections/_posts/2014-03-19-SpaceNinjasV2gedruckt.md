@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceNinjas V2 gedruckt"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-03-19-SpaceNinjasV2gedruckt
 ---
 

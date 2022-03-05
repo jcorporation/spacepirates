@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceNinjas V2 bei Amazon"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-05-14-SpaceNinjasV2beiAmazon
 ---
 

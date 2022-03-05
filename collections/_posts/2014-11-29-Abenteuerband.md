@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abenteuerband"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-11-29-Abenteuerband
 ---
 

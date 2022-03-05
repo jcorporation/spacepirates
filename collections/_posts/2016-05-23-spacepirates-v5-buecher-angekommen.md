@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates v5 Bücher angekommen"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-05-23-spacepirates-v5-buecher-angekommen
 ---
 

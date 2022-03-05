@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML5 App: Raumschiffverwaltung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-08-13-HTML5AppRaumschiffverwaltung
 ---
 

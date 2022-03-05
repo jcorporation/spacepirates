@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Piraten- und Raumschiffverwaltung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-01-23-Piraten-undRaumschiffverwaltung
 ---
 

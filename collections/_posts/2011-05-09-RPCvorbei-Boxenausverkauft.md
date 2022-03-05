@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RPC vorbei - Boxen ausverkauft"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-05-09-RPCvorbei-Boxenausverkauft
 ---
 

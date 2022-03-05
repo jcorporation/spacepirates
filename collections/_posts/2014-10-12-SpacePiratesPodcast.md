@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Podcast"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-10-12-SpacePiratesPodcast
 ---
 

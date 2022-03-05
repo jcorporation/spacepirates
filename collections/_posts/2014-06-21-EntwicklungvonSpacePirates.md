@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entwicklung von SpacePirates"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-06-21-EntwicklungvonSpacePirates
 ---
 

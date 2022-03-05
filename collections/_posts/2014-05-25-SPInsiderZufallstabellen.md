@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider Zufallstabellen"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-05-25-SPInsiderZufallstabellen
 ---
 

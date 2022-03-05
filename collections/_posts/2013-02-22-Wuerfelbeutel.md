@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Würfelbeutel"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-02-22-Wuerfelbeutel
 ---
 

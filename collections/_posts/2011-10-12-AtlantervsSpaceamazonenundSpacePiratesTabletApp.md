@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Atlanter vs Spaceamazonen und SpacePirates Tablet App"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-10-12-AtlantervsSpaceamazonenundSpacePiratesTabletApp
 ---
 

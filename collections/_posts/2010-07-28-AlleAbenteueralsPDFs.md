@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alle Abenteuer als PDFs"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-07-28-AlleAbenteueralsPDFs
 ---
 

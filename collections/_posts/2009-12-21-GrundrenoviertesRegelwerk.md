@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grundrenoviertes Regelwerk"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2009-12-21-GrundrenoviertesRegelwerk
 ---
 

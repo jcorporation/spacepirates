@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Runde auf der Zeltcon 2012"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-10-20-SpacePiratesRundeaufderZeltcon2012
 ---
 

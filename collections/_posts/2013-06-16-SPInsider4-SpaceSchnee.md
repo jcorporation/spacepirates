@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider 4 - SpaceSchnee"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-06-16-SPInsider4-SpaceSchnee
 ---
 

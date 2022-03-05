@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Abenteuer - die Eisgalaxis"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-03-04-NeuesAbenteuer-dieEisgalaxis
 ---
 

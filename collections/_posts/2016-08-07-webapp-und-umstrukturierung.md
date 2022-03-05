@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WebApp und Umstrukturierung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-08-07-webapp-und-umstrukturierung
 ---
 

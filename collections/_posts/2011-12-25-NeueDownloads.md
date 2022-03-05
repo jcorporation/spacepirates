@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Downloads"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-12-25-NeueDownloads
 ---
 

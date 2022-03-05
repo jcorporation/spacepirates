@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Englische SpacePirates PDF"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-09-20-EnglischeSpacePiratesPDF
 ---
 

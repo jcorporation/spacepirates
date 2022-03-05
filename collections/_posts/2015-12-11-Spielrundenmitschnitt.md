@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spielrundenmitschnitt"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-12-11-Spielrundenmitschnitt
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grundregelwerk ausverkauft"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-09-27-Grundregelwerkausverkauft
 ---
 

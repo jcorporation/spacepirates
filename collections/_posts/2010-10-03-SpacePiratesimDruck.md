@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates im Druck!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-10-03-SpacePiratesimDruck
 ---
 

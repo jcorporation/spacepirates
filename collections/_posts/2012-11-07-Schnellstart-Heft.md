@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schnellstart-Heft"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-11-07-Schnellstart-Heft
 ---
 

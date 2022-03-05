@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erste Downloads"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-06-22-ErsteDownloads
 ---
 

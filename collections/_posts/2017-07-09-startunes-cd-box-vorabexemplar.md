@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "StarTunes CD-Box Vorabexemplar"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2017-07-09-startunes-cd-box-vorabexemplar
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Spielberichte"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-01-26-SpacePiratesSpielberichte
 ---
 

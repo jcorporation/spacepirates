@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wiki online!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-06-19-Wikionline
 ---
 

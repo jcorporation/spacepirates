@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates 1.0"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-10-01-SpacePirates10
 ---
 

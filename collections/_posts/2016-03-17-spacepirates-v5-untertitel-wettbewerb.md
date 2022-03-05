@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates v5 Untertitel Wettbewerb"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-03-17-spacepirates-v5-untertitel-wettbewerb
 ---
 

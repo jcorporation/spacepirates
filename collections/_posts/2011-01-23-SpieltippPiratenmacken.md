@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spieltipp: Piratenmacken"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-01-23-SpieltippPiratenmacken
 ---
 

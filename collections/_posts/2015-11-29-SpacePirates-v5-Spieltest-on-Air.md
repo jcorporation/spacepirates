@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates v5 Spieltest on Air"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-11-29-SpacePirates-v5-Spieltest-on-Air
 ---
 

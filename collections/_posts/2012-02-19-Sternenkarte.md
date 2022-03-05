@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sternenkarte"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-02-19-Sternenkarte
 ---
 

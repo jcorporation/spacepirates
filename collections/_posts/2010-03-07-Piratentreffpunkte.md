@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Piratentreffpunkte"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-03-07-Piratentreffpunkte
 ---
 

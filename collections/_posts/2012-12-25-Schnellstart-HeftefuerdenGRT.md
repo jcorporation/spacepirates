@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schnellstart-Hefte für den GRT"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-12-25-Schnellstart-HeftefuerdenGRT
 ---
 

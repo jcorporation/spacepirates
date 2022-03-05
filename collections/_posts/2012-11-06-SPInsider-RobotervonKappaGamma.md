@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider - Roboter von Kappa Gamma"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-11-06-SPInsider-RobotervonKappaGamma
 ---
 

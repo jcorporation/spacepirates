@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider Raptorianer"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-10-15-SPInsiderRaptorianer
 ---
 

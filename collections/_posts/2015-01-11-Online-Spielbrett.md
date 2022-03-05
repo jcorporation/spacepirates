@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Online-Spielbrett"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-01-11-Online-Spielbrett
 ---
 

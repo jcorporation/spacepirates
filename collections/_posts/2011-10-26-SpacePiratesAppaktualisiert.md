@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates App aktualisiert"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-10-26-SpacePiratesAppaktualisiert
 ---
 

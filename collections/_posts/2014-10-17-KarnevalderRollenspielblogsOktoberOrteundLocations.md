@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Karneval der Rollenspielblogs Oktober: Orte und Locations"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-10-17-KarnevalderRollenspielblogsOktoberOrteundLocations
 ---
 

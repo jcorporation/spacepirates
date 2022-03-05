@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "8 Jahre SpacePirates"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-06-19-8-jahre-spacepirates
 ---
 

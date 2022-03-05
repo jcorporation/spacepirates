@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preissenkung des Abenteuerbandes"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2017-03-24-preissenkung-des-abenteuerbandes
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates 5.0 - Ahoi Landratten"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-04-30-spacepirates-50-ahoi-landratten
 ---
 

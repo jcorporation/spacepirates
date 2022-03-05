@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider Sammelband 1-10 bei Amazon"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-06-20-SPInsiderSammelband1-10beiAmazon
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML5 App 2.2.3 - Favoritenverwaltung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-08-24-HTML5App-Favoritenverwaltung
 ---
 

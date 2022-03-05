@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Wiki und aktualisierte Preview"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-06-20-NeuesWikiundaktualisiertePreview
 ---
 

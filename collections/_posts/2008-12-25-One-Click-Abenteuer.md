@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One-Click-Abenteuer!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2008-12-25-One-Click-Abenteuer
 ---
 

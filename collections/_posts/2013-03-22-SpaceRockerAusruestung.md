@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceRocker Ausrüstung"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-03-22-SpaceRockerAusruestung
 ---
 

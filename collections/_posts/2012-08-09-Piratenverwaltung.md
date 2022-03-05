@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML5 App: Piratenverwaltung und Ausblick"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-08-09-Piratenverwaltung
 ---
 

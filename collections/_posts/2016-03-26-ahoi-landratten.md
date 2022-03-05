@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ahoi Landratten!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-03-26-ahoi-landratten
 ---
 

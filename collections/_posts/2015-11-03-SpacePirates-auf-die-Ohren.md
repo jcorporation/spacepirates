@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates auf die Ohren"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2015-11-03-SpacePirates-auf-die-Ohren
 ---
 

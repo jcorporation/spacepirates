@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erstes Themenheft: SpaceNinjas"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-11-07-ErstesThemenheftSpaceNinjas
 ---
 

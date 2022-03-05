@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Überarbeitete Regeln und Beispiele"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2009-04-19-UeberarbeiteteRegelnundBeispiele
 ---
 

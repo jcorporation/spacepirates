@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates App 1.0.0"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-11-18-SpacePiratesApp100
 ---
 

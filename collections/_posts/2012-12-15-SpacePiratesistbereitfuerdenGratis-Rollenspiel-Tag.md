@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates ist bereit für den Gratis-Rollenspiel-Tag!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-12-15-SpacePiratesistbereitfuerdenGratis-Rollenspiel-Tag
 ---
 

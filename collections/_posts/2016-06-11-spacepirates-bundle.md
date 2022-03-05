@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Bundle"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2016-06-11-spacepirates-bundle
 ---
 

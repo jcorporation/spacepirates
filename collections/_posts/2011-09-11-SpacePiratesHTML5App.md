@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates HTML5 App"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-09-11-SpacePiratesHTML5App
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktualisierte PDFs"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-03-04-AktualisiertePDFs
 ---
 

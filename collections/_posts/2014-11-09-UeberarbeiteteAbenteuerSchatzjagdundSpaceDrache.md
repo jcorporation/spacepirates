@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Überarbeitete Abenteuer Schatzjagd und SpaceDrache"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-11-09-UeberarbeiteteAbenteuerSchatzjagdundSpaceDrache
 ---
 

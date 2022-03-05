@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stars und Sternchen 1.0.1"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-01-16-StarsundSternchen101
 ---
 

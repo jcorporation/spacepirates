@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML5 App erfolgreich portiert!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-02-10-HTML5Apperfolgreichportiert
 ---
 

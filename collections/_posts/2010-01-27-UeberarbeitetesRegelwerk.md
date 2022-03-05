@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Überarbeitetes Regelwerk"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-01-27-UeberarbeitetesRegelwerk
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Buttons und Dreieich"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2012-11-13-ButtonsundDreieich
 ---
 

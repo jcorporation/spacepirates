@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SP:Insider Spacewood-Klinik"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2013-12-25-SPInsiderSpacewood-Klinik
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpacePirates Statusbericht"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2011-08-17-SpacePiratesStatusbericht
 ---
 

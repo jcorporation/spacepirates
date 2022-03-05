@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BigBong-Theorie Themenheft aktualisiert"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2014-07-23-BigBong-TheorieThemenheftaktualisiert
 ---
 

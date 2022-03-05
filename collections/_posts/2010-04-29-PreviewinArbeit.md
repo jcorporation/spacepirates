@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preview in Arbeit!"
-tag: spacepirates
+tag: SpacePirates
 permalink: /Aktuelles/2010-04-29-PreviewinArbeit
 ---
 
