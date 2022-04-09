@@ -1,2 +1,3 @@
 Samnesin:Samnese
 Wagonin:Wagone
+Neuasiatin:Neuasiat
