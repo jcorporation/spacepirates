@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Publikationen/
-title: Downloads
+title: Publikationen
 ---
 
 # Publikationen
