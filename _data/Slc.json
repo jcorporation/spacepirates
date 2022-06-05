@@ -1097,36 +1097,28 @@
   "Prinzessin_Lea": {
     "Name": "Prinzessin Lea",
     "Rasse": "Wagonin",
-    "Kategorie": [
-      "Promi",
-      "Wagonische Königsfamilie"
-    ],
-    "Wohnort": "Windsor Planet",
+    "Kategorie": "Promi",
     "Position": "Prinzessin",
-    "SOELDNER": 2,
-    "TECH": 6,
-    "PILOT": 4,
-    "HAENDLER": 8,
-    "Zaehigkeit": 4,
+    "SOELDNER": "2",
+    "TECH": "6",
+    "PILOT": "4",
+    "HAENDLER": "8",
+    "Zaehigkeit": "4",
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Abenteuer/SpaceDrache/Prinzessin_Lea"
   },
   "Prinzessin_Lea": {
     "Name": "Prinzessin Lea",
     "Rasse": "Wagonin",
-    "Kategorie": [
-      "Promi",
-      "Wagonische Königsfamilie"
-    ],
-    "Wohnort": "Windsor Planet",
+    "Kategorie": "Promi",
     "Position": "Prinzessin",
-    "SOELDNER": 2,
-    "TECH": 6,
-    "PILOT": 4,
-    "HAENDLER": 8,
-    "Zaehigkeit": 4,
+    "SOELDNER": "2",
+    "TECH": "6",
+    "PILOT": "4",
+    "HAENDLER": "8",
+    "Zaehigkeit": "4",
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Abenteuer/SpaceDrache/Prinzessin_Lea"
   },
   "Professor_Robotto": {
     "Name": "Professor Robotto",
