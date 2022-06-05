@@ -29,7 +29,7 @@ jobs:
         run: .scripts/update.sh
 
       - name: Add, commit and push
-        uses: EndBug/add-and-commit@v7.5.0
+        uses: EndBug/add-and-commit@v9.0.0
         with:
           add: _data/ assets/json/
           message: Update data files
