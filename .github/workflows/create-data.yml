@@ -33,5 +33,4 @@ jobs:
         with:
           add: _data/ assets/json/
           message: Update data files
-          pull: NO-PULL
           push: true
