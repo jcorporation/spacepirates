@@ -8,7 +8,7 @@ title: Rezensionen, Vorstellungen und Spielberichte
 
 Hier sammle ich Rezensionen, Vorstellungen und Spielberichte zu SpacePirates.
 
-- Sudden Dice Podcast: [Laborratten](https://suddendice.de/gmscreen/2022/04/space-pirates-runde-2-laborratten/)
+- [Sudden Dice Podcast](https://suddendice.de/gmscreen/podcasts/space-pirates/)
 - Ein [Let&#39;s Play](https://www.youtube.com/watch?v=HFTtuFiqlyE) von den MadMonkeySquads
 - [Spielbericht](http://www.groops.at/spiele-truppe-ibk/reviews/ueber-treffen-rollenspiel-spacepirates-die-schatzsuche) der Spiele-Truppe Innsbruck
 - [Spielbericht](http://tanelorn.net/.php/topic,74620.0.html) von der RPC 2012
