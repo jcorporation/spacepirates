@@ -1,6 +1,6 @@
 {
   "20cad": {
-    "/Weltraum/Aliens/Wagonen/Terra_20CAD": 228,
+    "/Weltraum/Aliens/Wagonen/Terra_20CAD": 79,
     "/Weltraum/Aliens/Wagonen/Sperrzone": 1,
     "/Weltraum/Menschen/Föderation/Pandar_5": 1
   },
@@ -107,7 +107,7 @@
     "/Abenteuer/Neutritiumklau/Pipeline": 25
   },
   "abraham": {
-    "/Weltraum/Piraten/Treffpunkte/Halfway": 28
+    "/Weltraum/Piraten/Treffpunkte/Halfway": 177
   },
   "abspielen der schallplatte": {
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 26
@@ -195,8 +195,8 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 27
   },
   "alexa": {
+    "/Weltraum/Promis": 176,
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 27,
-    "/Weltraum/Promis": 27,
     "/Abenteuer/Schatzjagd/Einstieg": 1
   },
   "alexa reed": {
@@ -205,8 +205,8 @@
     "/Abenteuer/Schatzjagd/Einstieg": 1
   },
   "alfred": {
-    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 178,
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 177,
+    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 29,
     "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": 2
   },
   "alfred muehrmann": {
@@ -306,7 +306,7 @@
     "/Abenteuer/Buschraub/Nachforschungen": 1
   },
   "anderson": {
-    "/Weltraum/Konzerne/SpaceShell": 2
+    "/Weltraum/Konzerne/SpaceShell": 160
   },
   "angreifenden": {
     "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 25,
@@ -618,9 +618,9 @@
     "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 27
   },
   "ausserhalb": {
+    "/Weltraum/Epsilon_Canabis": 10,
     "/Weltraum/Aliens/Raptorianer/Greeenhl": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 1
+    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "ausserirdische": {
     "/Weltraum/Aliens/Wagonen/Terra_20CAD": 1,
@@ -670,16 +670,16 @@
     "/Abenteuer/Zeitraub_II/Ereignisse": 1
   },
   "balga": {
-    "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder": 176
+    "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder": 27
   },
   "banchigo": {
-    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 177
+    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 28
   },
   "banden": {
     "/Weltraum/SpaceRocker/": 25
   },
   "banditos": {
-    "/Weltraum/SpaceRocker/Baneros_Banditos/": 227,
+    "/Weltraum/SpaceRocker/Baneros_Banditos/": 78,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 3,
     "/Weltraum/Weltraumphänomene/BadPlanets": 2,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
@@ -708,7 +708,7 @@
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 1
   },
   "bank": {
-    "/Weltraum/Freihandelszone/Währungen_und_Banken": 71,
+    "/Weltraum/Freihandelszone/Währungen_und_Banken": 220,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 1
   },
   "bank von neuasien": {
@@ -773,15 +773,15 @@
     "/Abenteuer/Zeitraub/Überfall": 25
   },
   "baxu": {
-    "/Weltraum/Händler_und_Halunken": 27,
+    "/Weltraum/Händler_und_Halunken": 176,
     "/Weltraum/Weltraumphänomene/Oyster-Cluster": 1
   },
   "beaton": {
-    "/Weltraum/Promis": 2,
+    "/Weltraum/Promis": 151,
     "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet": 1
   },
   "befreiungsfront": {
-    "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Roboter": 27
+    "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Roboter": 176
   },
   "begriffsklaerung": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 25
@@ -912,7 +912,7 @@
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 26
   },
   "better": {
-    "/Weltraum/Konzerne/Better_Than_Broadcast": 226,
+    "/Weltraum/Konzerne/Better_Than_Broadcast": 77,
     "/Weltraum/Aliens/Trull/Xanar_1": 2
   },
   "better than broadcast": {
@@ -980,8 +980,8 @@
     "/Abenteuer/Zeitraub_II/Javar_3": 1
   },
   "binkel": {
-    "/Weltraum/Piraten/Treffpunkte/Freeport": 176,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 107,
+    "/Weltraum/Piraten/Treffpunkte/Freeport": 27,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": 3,
     "/Abenteuer/Der_große_Fang/Einstieg": 1
   },
@@ -1004,11 +1004,11 @@
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 25
   },
   "blazerpolo": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 175,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 26,
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
   },
   "blinkman": {
-    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 31,
+    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 180,
     "/Weltraum/Konzerne/Spacewood-Klinik/": 2
   },
   "blue rai": {
@@ -1065,12 +1065,12 @@
     "/Weltraum/SpaceRocker/Rockbands": 1
   },
   "broadcast": {
-    "/Weltraum/Konzerne/Better_Than_Broadcast": 226,
-    "/Weltraum/Konzerne/Universe_Broadcast": 226,
+    "/Weltraum/Konzerne/Better_Than_Broadcast": 77,
+    "/Weltraum/Konzerne/Universe_Broadcast": 77,
     "/Weltraum/Aliens/Trull/Xanar_1": 2
   },
   "brown": {
-    "/Weltraum/Konzerne/Keith__Brown_and_Stanton": 79,
+    "/Weltraum/Konzerne/Keith__Brown_and_Stanton": 246,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 4
   },
   "browns": {
@@ -1121,7 +1121,7 @@
   },
   "burger": {
     "/Weltraum/Aliens/Raptorianer/Dino_Burger": 77,
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 36,
+    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 27,
     "/Weltraum/Aliens/Raptorianer/": 1
   },
   "burger prince": {
@@ -1131,7 +1131,7 @@
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 25
   },
   "burial": {
-    "/Weltraum/Aliens/Wagonen/Burial_Planet": 76,
+    "/Weltraum/Aliens/Wagonen/Burial_Planet": 225,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
@@ -1157,12 +1157,12 @@
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 26
   },
   "calamari": {
-    "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder": 178,
+    "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder": 29,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 1,
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 1
   },
   "calibre": {
-    "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder": 27
+    "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder": 176
   },
   "camillo": {
     "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder": 27
@@ -1191,17 +1191,17 @@
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
   },
   "ceti": {
-    "/Weltraum/Aliens/Samnesen/Nova_Ceti": 227,
     "/Abenteuer/Buschraub/Nova_Ceti": 80,
+    "/Weltraum/Aliens/Samnesen/Nova_Ceti": 78,
     "/Abenteuer/Buschraub/Sperrzone": 28,
     "/Abenteuer/Buschraub/Ende": 2,
     "/Abenteuer/Buschraub/": 1
   },
   "chamberlain": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 27
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 176
   },
   "chaplin": {
-    "/Weltraum/Promis": 151,
+    "/Weltraum/Promis": 2,
     "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet": 1
   },
   "charakter": {
@@ -1313,12 +1313,12 @@
   "city": {
     "/Weltraum/Freihandelszone/Stratum_Nova": 188,
     "/Weltraum/Aliens/Samnesen/Sampuk": 186,
-    "/Weltraum/Freihandelszone/Rigel_3": 185,
-    "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 160,
-    "/Weltraum/Menschen/Föderation/Pandar_5": 160,
     "/Weltraum/Menschen/Föderation/Pessach_4": 160,
+    "/Weltraum/Freihandelszone/Rigel_3": 27,
     "/Abenteuer/Ostern/Rabbit_Inc": 25,
     "/Abenteuer/Weihnachten_II/Santa_24": 2,
+    "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 2,
+    "/Weltraum/Menschen/Föderation/Pandar_5": 2,
     "/Weltraum/Freihandelszone/Space-Steuerfahnder/Hauptquartier": 1
   },
   "clan": {
@@ -1344,7 +1344,7 @@
     "/Weltraum/Konzerne/Trullisch_Ost-Galaktische_Compagnie": 228
   },
   "company": {
-    "/Weltraum/Konzerne/Fedspex": 77
+    "/Weltraum/Konzerne/Fedspex": 226
   },
   "computer": {
     "/Abenteuer/Weihnachten_II/Santa_24": 26,
@@ -1512,13 +1512,13 @@
     "/Spielregeln/Die_Piratencrew/": 1
   },
   "dizalo": {
-    "/Weltraum/Händler_und_Halunken": 177,
+    "/Weltraum/Händler_und_Halunken": 28,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1
   },
   "doc": {
-    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 35,
-    "/Weltraum/Piraten/Treffpunkte/Freeport": 29
+    "/Weltraum/Piraten/Treffpunkte/Freeport": 178,
+    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 35
   },
   "doc brown": {
     "/Weltraum/Piraten/Treffpunkte/Freeport": 153
@@ -1616,7 +1616,7 @@
     "/Abenteuer/SpaceDrache/SpaceDrache": 27
   },
   "dracula": {
-    "/Abenteuer/Halloween/Vampir-Planet": 178,
+    "/Abenteuer/Halloween/Vampir-Planet": 29,
     "/Abenteuer/Halloween/Ende": 1
   },
   "drake khan": {
@@ -1718,10 +1718,10 @@
     "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Gefängnisebenen": 25
   },
   "eclipse": {
-    "/Weltraum/SpaceRocker/Rockbands": 179
+    "/Weltraum/SpaceRocker/Rockbands": 30
   },
   "edward": {
-    "/Weltraum/Verrückte_Wissenschaftler": 176,
+    "/Weltraum/Verrückte_Wissenschaftler": 27,
     "/Abenteuer/Zeitraub_II/Javar_3": 3,
     "/Abenteuer/Zeitraub_II/Ereignisse": 1
   },
@@ -2143,7 +2143,7 @@
   "eyed": {
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 116,
     "/Weltraum/Piraten/Treffpunkte/": 27,
-    "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
+    "/Abenteuer/Schatz_von_Menkar/Einstieg": 11,
     "/Abenteuer/Schatzjagd/Einstieg": 2,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
   },
@@ -2276,7 +2276,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 26
   },
   "fish": {
-    "/Weltraum/Konzerne/Fish_And_More": 226,
+    "/Weltraum/Konzerne/Fish_And_More": 77,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Ozeanus_5": 1
   },
   "fish and more": {
@@ -2448,9 +2448,9 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 25
   },
   "frost": {
-    "/Weltraum/Aliens/SpaceYetis/Eisgalaxis": 150,
     "/Abenteuer/Die_Eisgalaxis/": 4,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 1
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 1,
+    "/Weltraum/Aliens/SpaceYetis/Eisgalaxis": 1
   },
   "frueher": {
     "/Abenteuer/Blumenkind/Woodstock": 25,
@@ -2459,7 +2459,7 @@
     "/Abenteuer/Halloween/Hintergrund": 1
   },
   "frut": {
-    "/Abenteuer/Schatz_von_Menkar/Einstieg": 30,
+    "/Abenteuer/Schatz_von_Menkar/Einstieg": 179,
     "/Abenteuer/Schatz_von_Menkar/Schläger": 3,
     "/Abenteuer/Schatz_von_Menkar/Ende": 1
   },
@@ -2583,8 +2583,8 @@
   },
   "galaktischer": {
     "/Weltraum/Freihandelszone/Handelsrat": 75,
-    "/Weltraum/Freihandelszone/Stratum_Nova": 10,
-    "/Weltraum/Freihandelszone/": 1
+    "/Weltraum/Freihandelszone/": 1,
+    "/Weltraum/Freihandelszone/Stratum_Nova": 1
   },
   "galaktischer handelsrat": {
     "/Weltraum/Freihandelszone/Handelsrat": 125,
@@ -2607,7 +2607,7 @@
     "/Abenteuer/Wagonian_Wedding/Selbstdarsteller": 26
   },
   "gateland": {
-    "/Weltraum/Militär": 151
+    "/Weltraum/Militär": 2
   },
   "gebrauchtwaren": {
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 26
@@ -2874,7 +2874,7 @@
     "/Abenteuer/Ideen/Golfplatz": 1
   },
   "gomez": {
-    "/Weltraum/Händler_und_Halunken": 178,
+    "/Weltraum/Händler_und_Halunken": 29,
     "/Weltraum/Menschen/Föderation/Pandar_5": 1
   },
   "gong": {
@@ -2978,7 +2978,7 @@
     "/Abenteuer/Buschraub/Nova_Ceti": 1
   },
   "guns": {
-    "/Weltraum/Konzerne/Hired_Guns": 226
+    "/Weltraum/Konzerne/Hired_Guns": 77
   },
   "gut": {
     "/Abenteuer/Zeitraub/Ende": 26,
@@ -3123,8 +3123,8 @@
     "/Abenteuer/Ostern/Nachforschungen": 1
   },
   "harry": {
-    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 175,
-    "/Weltraum/Technologie/Starnet-Sendungen": 27
+    "/Weltraum/Technologie/Starnet-Sendungen": 27,
+    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 26
   },
   "harrys latenight": {
     "/Weltraum/Technologie/Starnet-Sendungen": 26
@@ -3198,7 +3198,7 @@
     "/Weltraum/Freihandelszone/Space-Steuerfahnder/Hauptquartier": 1
   },
   "hauptstaedte": {
-    "/Weltraum/Aliens/Wagonen/Terra_20CAD": 1
+    "/Weltraum/Aliens/Wagonen/Terra_20CAD": 10
   },
   "hausmeister": {
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 188,
@@ -3219,8 +3219,8 @@
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 180
   },
   "hein": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 175,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 76,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 26,
     "/Abenteuer/Wagonian_Wedding/": 3,
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
   },
@@ -3246,7 +3246,7 @@
     "/Weltraum/Konzerne/ImmoTrade": 170
   },
   "henry": {
-    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 27
+    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 176
   },
   "herkuleskraut": {
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Roboterfressende_Pflanzen": 26
@@ -3288,7 +3288,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 1
   },
   "hildegard": {
-    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 31
+    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 180
   },
   "hilfestellung": {
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 25
@@ -3401,7 +3401,7 @@
     "/Weltraum/Technologie/Raumschiffe": 25
   },
   "iag": {
-    "/Weltraum/Konzerne/JCTech_IAG": 228,
+    "/Weltraum/Konzerne/JCTech_IAG": 79,
     "/Abenteuer/Buschraub/JCTech_IAG": 78,
     "/Abenteuer/Buschraub/Ende": 27,
     "/Abenteuer/Buschraub/Nova_Ceti": 26,
@@ -3428,12 +3428,11 @@
     "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": 1
   },
   "imperium": {
-    "/Weltraum/Aliens/Glukorianer/": 163,
-    "/Weltraum/Aliens/Glukorianer/Ghultar": 10,
+    "/Weltraum/Aliens/Glukorianer/": 5,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Glutulhu": 4,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 2,
-    "/Weltraum/Aliens/Glukorianer/Glutulhu/Danach": 1
+    "/Weltraum/Aliens/Glukorianer/Ghultar": 1
   },
   "inc": {
     "/Weltraum/Konzerne/Rabbit_Inc": 226,
@@ -3443,7 +3442,7 @@
     "/Abenteuer/Ostern/": 1
   },
   "incorporated": {
-    "/Weltraum/Konzerne/Puugle_Incorporated": 77,
+    "/Weltraum/Konzerne/Puugle_Incorporated": 226,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 1
   },
   "informantin": {
@@ -3556,7 +3555,7 @@
     "/Weltraum/Weltraumphänomene/Ionensturm": 276
   },
   "italienische": {
-    "/Weltraum/SpaceMafia/Italienische_Mafia/": 227,
+    "/Weltraum/SpaceMafia/Italienische_Mafia/": 78,
     "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder": 2,
     "/Weltraum/SpaceMafia/": 1
   },
@@ -3573,7 +3572,7 @@
     "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 27
   },
   "iyani": {
-    "/Weltraum/Händler_und_Halunken": 177,
+    "/Weltraum/Händler_und_Halunken": 28,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1
   },
@@ -3583,14 +3582,14 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1
   },
   "jaaved": {
-    "/Abenteuer/Blumenkind/SWIP": 151
+    "/Abenteuer/Blumenkind/SWIP": 2
   },
   "jack": {
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 655,
     "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen": 175,
     "/Weltraum/Piraten/Treffpunkte/": 27,
+    "/Abenteuer/Schatz_von_Menkar/Einstieg": 11,
     "/Weltraum/Händler_und_Halunken": 10,
-    "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
     "/Abenteuer/Schatzjagd/Einstieg": 2,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
   },
@@ -3608,7 +3607,7 @@
     "/Abenteuer/Halloween/Vampir-Planet": 1
   },
   "jambal": {
-    "/Weltraum/Militär": 150
+    "/Weltraum/Militär": 1
   },
   "james moneypenny": {
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 151
@@ -3633,7 +3632,7 @@
     "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal": 26
   },
   "jarreau": {
-    "/Weltraum/Promis": 26,
+    "/Weltraum/Promis": 175,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 1
   },
   "javar": {
@@ -3642,7 +3641,6 @@
     "/Abenteuer/Zeitraub_II/Javar_3": 75,
     "/Abenteuer/Zeitraub/Nachforschungen": 33,
     "/Abenteuer/Zeitraub/Überfall": 28,
-    "/Weltraum/Verrückte_Wissenschaftler": 10,
     "/Abenteuer/": 1
   },
   "javar 3": {
@@ -3655,13 +3653,13 @@
     "/Abenteuer/": 1
   },
   "javier": {
-    "/Weltraum/Rebellen/": 28
+    "/Weltraum/Rebellen/": 177
   },
   "javier moretti": {
     "/Weltraum/Rebellen/": 176
   },
   "jctech": {
-    "/Weltraum/Konzerne/JCTech_IAG": 228,
+    "/Weltraum/Konzerne/JCTech_IAG": 79,
     "/Abenteuer/Buschraub/JCTech_IAG": 78,
     "/Abenteuer/Buschraub/Ende": 27,
     "/Abenteuer/Buschraub/Nova_Ceti": 26,
@@ -3696,8 +3694,8 @@
     "/Weltraum/Freihandelszone/System_der_Träume/Hollywood": 1
   },
   "john": {
-    "/Weltraum/Verrückte_Wissenschaftler": 176,
     "/Abenteuer/SpaceDrache/John_Marric": 76,
+    "/Weltraum/Verrückte_Wissenschaftler": 27,
     "/Abenteuer/SpaceDrache/": 2,
     "/Abenteuer/": 1
   },
@@ -3814,7 +3812,7 @@
     "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 20,
     "/Weltraum/Aliens/Kahadrier/Kahadria": 20,
     "/Weltraum/Aliens/Kahadrier/Omega_10": 20,
-    "/Weltraum/Weltraumphänomene/Spacewood-Forest": 20,
+    "/Weltraum/Weltraumphänomene/Spacewood-Forest": 11,
     "/Weltraum/Freihandelszone/Handelsrat": 2,
     "/Weltraum/Militär": 2
   },
@@ -3823,8 +3821,8 @@
   },
   "kalif": {
     "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten": 187,
+    "/Weltraum/Aliens/SpaceWorms/AlXambra/": 161,
     "/Abenteuer/Ideen/SpaceWorms": 27,
-    "/Weltraum/Aliens/SpaceWorms/AlXambra/": 12,
     "/Abenteuer/Blumenkind/SWIP": 1
   },
   "kalif anstelle des kalifen": {
@@ -3890,7 +3888,7 @@
   },
   "kappa": {
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa": 127,
-    "/Weltraum/Neutrale_Zone/Kappa_Gamma/": 89,
+    "/Weltraum/Neutrale_Zone/Kappa_Gamma/": 80,
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma": 3,
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Geschichte": 2,
     "/Weltraum/Technologie/": 1
@@ -3941,7 +3939,7 @@
     "/Abenteuer/": 25
   },
   "karu": {
-    "/Weltraum/Freihandelszone/Handelsrat": 27
+    "/Weltraum/Freihandelszone/Handelsrat": 176
   },
   "katpar": {
     "/Weltraum/Menschen/Föderation/Katpar": 276,
@@ -4009,7 +4007,7 @@
     "/Weltraum/Freihandelszone/Rigel_3": 185
   },
   "kirkham": {
-    "/Weltraum/Militär": 1
+    "/Weltraum/Militär": 150
   },
   "kis": {
     "/Weltraum/Technologie/": 27,
@@ -4027,7 +4025,7 @@
     "/Abenteuer/Neutritiumklau/Lager": 25
   },
   "klick": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 175,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 26,
     "/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen": 2,
     "/Abenteuer/Wagonian_Wedding/": 1
   },
@@ -4199,9 +4197,8 @@
   },
   "kozel": {
     "/Weltraum/Freihandelszone/Kozel_5": 79,
-    "/Abenteuer/Der_große_Fang/Danach": 10,
     "/Weltraum/Konzerne/Yabadoo": 2,
-    "/Weltraum/Aliens/Trull/": 1
+    "/Abenteuer/Der_große_Fang/Danach": 1
   },
   "kozel 5": {
     "/Weltraum/Freihandelszone/Kozel_5": 287,
@@ -4236,7 +4233,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 1
   },
   "kronprinz": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 212,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 63,
     "/Abenteuer/Wagonian_Wedding/": 1,
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
   },
@@ -4256,7 +4253,7 @@
     "/Abenteuer/Halloween/Zentrum": 1
   },
   "kulwa": {
-    "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten": 180,
+    "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten": 31,
     "/Abenteuer/Ideen/SpaceWorms": 2,
     "/Abenteuer/Blumenkind/SWIP": 1
   },
@@ -4343,7 +4340,7 @@
     "/Abenteuer/Dungeonplanet/Ebene1": 27
   },
   "lea": {
-    "/Abenteuer/SpaceDrache/Prinzessin_Lea": 226,
+    "/Abenteuer/SpaceDrache/Prinzessin_Lea": 77,
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 30,
     "/Abenteuer/SpaceDrache/Spuren": 28,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 4,
@@ -4368,7 +4365,7 @@
     "/Abenteuer/Der_große_Fang/Danach": 26
   },
   "leila": {
-    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": 78,
+    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": 227,
     "/Weltraum/Freihandelszone/Handelsrat": 27,
     "/Weltraum/Freihandelszone/Space-Steuerfahnder/": 2
   },
@@ -4425,11 +4422,10 @@
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 1
   },
   "loch": {
-    "/Weltraum/Weltraumphänomene/Weißes_Loch": 226,
-    "/Weltraum/Weltraumphänomene/Schwarzes_Loch": 225,
     "/Abenteuer/Ideen/Rosa_Loch": 78,
+    "/Weltraum/Weltraumphänomene/Weißes_Loch": 77,
+    "/Weltraum/Weltraumphänomene/Schwarzes_Loch": 76,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 26,
-    "/Weltraum/Verrückte_Wissenschaftler": 10,
     "/Abenteuer/Der_große_Fang/Reise": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": 2,
     "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 2,
@@ -4444,10 +4440,11 @@
     "/Abenteuer/Neutritiumklau/Pipeline": 1,
     "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 1,
     "/Abenteuer/Schatz_von_Menkar/Koordinaten": 1,
-    "/Abenteuer/SpaceDrache/Drachenhort": 1
+    "/Abenteuer/SpaceDrache/Drachenhort": 1,
+    "/Abenteuer/SpaceDrache/John_Marric": 1
   },
   "loecher": {
-    "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen": 226,
+    "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen": 77,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": 1,
     "/Weltraum/Weltraumphänomene/Schwarzes_Loch": 1
   },
@@ -4476,7 +4473,8 @@
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 175
   },
   "los": {
-    "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 247,
+    "/Weltraum/Sektoren/D1/Ennos": 150,
+    "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 80,
     "/Abenteuer/Die_Eisgalaxis/": 6,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Abenteuer/Laborratten/Railroading/Hafen": 2,
@@ -4531,8 +4529,8 @@
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 27
   },
   "mafia": {
-    "/Weltraum/SpaceMafia/Italienische_Mafia/": 237,
-    "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 89,
+    "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 238,
+    "/Weltraum/SpaceMafia/Italienische_Mafia/": 88,
     "/Weltraum/SpaceMafia/": 3,
     "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder": 3,
     "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia": 3,
@@ -4563,7 +4561,7 @@
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 1
   },
   "maretu": {
-    "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal": 26
+    "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal": 175
   },
   "marko saltvalley": {
     "/Weltraum/Konzerne/SeeYou": 150
@@ -4575,15 +4573,15 @@
     "/Abenteuer/Zeitraub/": 1
   },
   "marric": {
-    "/Weltraum/Verrückte_Wissenschaftler": 177,
     "/Abenteuer/SpaceDrache/John_Marric": 81,
+    "/Weltraum/Verrückte_Wissenschaftler": 28,
     "/Abenteuer/SpaceDrache/": 2,
     "/Abenteuer/SpaceDrache/Einstieg": 2,
     "/Abenteuer/SpaceDrache/SpaceDrache": 2,
     "/Abenteuer/": 1
   },
   "marslan": {
-    "/Weltraum/Konzerne/ImmoTrade": 3
+    "/Weltraum/Konzerne/ImmoTrade": 170
   },
   "martinez elfotogafo hernandes": {
     "/Weltraum/Promis": 25
@@ -4607,7 +4605,7 @@
     "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Königin_Maud": 77
   },
   "media": {
-    "/Weltraum/Konzerne/Asia_Media": 78,
+    "/Weltraum/Konzerne/Asia_Media": 227,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 25,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 1
   },
@@ -4649,10 +4647,10 @@
     "/Abenteuer/Die_Eisgalaxis/": 1
   },
   "mei": {
-    "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 181
+    "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 32
   },
   "melinda": {
-    "/Weltraum/Händler_und_Halunken": 178,
+    "/Weltraum/Händler_und_Halunken": 29,
     "/Weltraum/Menschen/Föderation/Pandar_5": 1
   },
   "melinda gomez": {
@@ -4727,7 +4725,7 @@
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 27
   },
   "michael": {
-    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 176
+    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 27
   },
   "migxes": {
     "/Abenteuer/Buschraub/Dimensionsriss": 26
@@ -4757,7 +4755,7 @@
     "/Weltraum/Konzerne/Raumschiff_und_Co_": 1
   },
   "ming": {
-    "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/": 151
+    "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/": 2
   },
   "minifizierer": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 26
@@ -4809,7 +4807,7 @@
     "/Abenteuer/Ostern/Captain_Rogers": 1
   },
   "moneypenny": {
-    "/Abenteuer/Gefangen_im_SpaceSchnee/": 2
+    "/Abenteuer/Gefangen_im_SpaceSchnee/": 151
   },
   "mono": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 175,
@@ -4818,12 +4816,12 @@
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
   },
   "more": {
-    "/Weltraum/Konzerne/Fish_And_More": 226,
+    "/Weltraum/Konzerne/Fish_And_More": 77,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Ozeanus_5": 1,
     "/Weltraum/Promis": 1
   },
   "moretti": {
-    "/Weltraum/Rebellen/": 326
+    "/Weltraum/Rebellen/": 28
   },
   "moritz": {
     "/Abenteuer/": 1,
@@ -4834,7 +4832,7 @@
     "/Abenteuer/Wagonian_Wedding/": 1
   },
   "muehrmann": {
-    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 30,
+    "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 179,
     "/Weltraum/Konzerne/Spacewood-Klinik/": 1
   },
   "mutanten": {
@@ -4863,6 +4861,7 @@
     "/Weltraum/Sekten/Verfechter_der_Nacktheit": 76
   },
   "naehe": {
+    "/Abenteuer/Der_große_Fang/Chinese": 10,
     "/Abenteuer/Buschraub/Nova_Ceti": 2,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Abenteuer/Ideen/Rosa_Loch": 2,
@@ -4875,7 +4874,7 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 25
   },
   "nahrungsmittel": {
-    "/Weltraum/Konzerne/Vereinigte_Nahrungsmittel_eG": 227,
+    "/Weltraum/Konzerne/Vereinigte_Nahrungsmittel_eG": 78,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 1
   },
   "nakgf": {
@@ -4978,8 +4977,8 @@
   },
   "neuasien": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/": 241,
+    "/Weltraum/Freihandelszone/Währungen_und_Banken": 176,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/": 79,
-    "/Weltraum/Freihandelszone/Währungen_und_Banken": 27,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Xinnua": 21,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 14,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Neuchina": 13,
@@ -5047,13 +5046,13 @@
     "/Weltraum/Neutrale_Zone/Woodstock": 10,
     "/Weltraum/Rebellen/Alastor": 10,
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok": 10,
+    "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 10,
     "/Weltraum/Weltraumphänomene/BadPlanets": 10,
     "/Weltraum/Weltraumphänomene/Raumzeitverschiebung": 10,
     "/Weltraum/Weltraumphänomene/Weihnachts-Wurmloch": 10,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 2,
     "/Abenteuer/Zeitraub/": 1,
-    "/Abenteuer/Zeitraub/Auftrag": 1,
-    "/Abenteuer/Zeitraub/Übersicht": 1
+    "/Abenteuer/Zeitraub/Auftrag": 1
   },
   "neutrale zone": {
     "/Weltraum/Neutrale_Zone/": 276,
@@ -5121,7 +5120,7 @@
     "/Weltraum/Freihandelszone/Handelsrat": 27
   },
   "ning": {
-    "/Weltraum/Händler_und_Halunken": 26
+    "/Weltraum/Händler_und_Halunken": 175
   },
   "ninja": {
     "/Weltraum/SpaceNinjas/Clans/Leiser-Wind-des-Schicksals-Dojo": 12,
@@ -5197,7 +5196,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 25
   },
   "nofeld": {
-    "/Abenteuer/Wagonian_Wedding/Selbstdarsteller": 175,
+    "/Abenteuer/Wagonian_Wedding/Selbstdarsteller": 26,
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
   },
   "noh frut": {
@@ -5317,11 +5316,11 @@
     "/Weltraum/Piraten/Treffpunkte/Freeport": 25
   },
   "oman": {
-    "/Weltraum/Aliens/SpaceWorms/AbuXabi/": 2
+    "/Weltraum/Aliens/SpaceWorms/AbuXabi/": 151
   },
   "omar": {
     "/Weltraum/Menschen/Föderation/Omar": 276,
-    "/Weltraum/Konzerne/JCTech_IAG": 182
+    "/Weltraum/Konzerne/JCTech_IAG": 24
   },
   "omatic": {
     "/Weltraum/Menschen/Föderation/Omatic": 286,
@@ -5353,7 +5352,7 @@
     "/Abenteuer/Laborratten/Railroading/Schatzinsel": 28
   },
   "orbit": {
-    "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 11,
+    "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 2,
     "/Abenteuer/Buschraub/Bahir": 1,
     "/Abenteuer/Buschraub/Nova_Ceti": 1
   },
@@ -5385,7 +5384,7 @@
     "/Abenteuer/Ostern/Hintergrund": 1
   },
   "ostgalaktische": {
-    "/Weltraum/Konzerne/Trullisch_Ost-Galaktische_Compagnie": 228
+    "/Weltraum/Konzerne/Trullisch_Ost-Galaktische_Compagnie": 79
   },
   "oystercluster": {
     "/Weltraum/Weltraumphänomene/Oyster-Cluster": 276,
@@ -5403,13 +5402,13 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 1
   },
   "padern": {
-    "/Weltraum/Konzerne/Omatic_Enterprise": 3
+    "/Weltraum/Konzerne/Omatic_Enterprise": 170
   },
   "padre": {
     "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder": 177
   },
   "palermo": {
-    "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia": 176
+    "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia": 27
   },
   "pandar 5": {
     "/Weltraum/Menschen/Föderation/Pandar_5": 287,
@@ -5433,7 +5432,7 @@
     "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf": 1
   },
   "parro": {
-    "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder": 27,
+    "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder": 176,
     "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia": 1
   },
   "partei": {
@@ -5462,7 +5461,7 @@
     "/Spielregeln/Konflikte/Konfliktszenen": 26
   },
   "partner": {
-    "/Weltraum/Konzerne/Drojar_und_Partner": 226,
+    "/Weltraum/Konzerne/Drojar_und_Partner": 77,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": 1
   },
@@ -5751,20 +5750,21 @@
     "/Abenteuer/Pizza_für_Jonas_Wagner/Einstieg": 26
   },
   "place": {
-    "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place": 237,
+    "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place": 79,
     "/Weltraum/SpaceRocker/SpaceAngels/": 2,
     "/Weltraum/SpaceRocker/": 1
   },
   "plaemplaem": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 176,
     "/Weltraum/Promis": 175,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 27,
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 1
   },
   "planet": {
+    "/Weltraum/Aliens/Wagonen/Windsor_Planet": 246,
     "/Weltraum/Aliens/Wagonen/Burial_Planet": 237,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 103,
     "/Weltraum/Planeten_und_Sternensysteme": 101,
     "/Weltraum/Freihandelszone/System_der_Träume/Der_Rote_Planet": 99,
-    "/Weltraum/Aliens/Wagonen/Windsor_Planet": 97,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 78,
     "/Weltraum/Zurückgebliebene_Planeten": 76,
     "/Abenteuer/Dungeonplanet/Einstieg": 30,
@@ -5781,7 +5781,6 @@
     "/Weltraum/Freihandelszone/System_der_Träume/Hollywood": 22,
     "/Weltraum/Menschen/Föderation/Erde": 22,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Zeno": 22,
-    "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 21,
     "/Weltraum/Aliens/Spaceamazonen/Amazon": 21,
     "/Weltraum/Menschen/Föderation/Omatic": 21,
     "/Weltraum/Menschen/Föderation/Pandar_5": 21,
@@ -5794,24 +5793,22 @@
     "/Weltraum/Freihandelszone/Beta_Prison/": 15,
     "/Weltraum/Aliens/Wagonen/Terra_20CAD": 14,
     "/Weltraum/Freihandelszone/System_der_Träume/Sandalien": 14,
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 13,
     "/Weltraum/Menschen/Föderation/Katpar": 13,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 13,
     "/Weltraum/Neutrale_Zone/Bharani_8": 13,
     "/Weltraum/Neutrale_Zone/Scrabnambu": 13,
     "/Weltraum/Aliens/Glukorianer/Ghultar": 12,
     "/Weltraum/Aliens/Kahadrier/Omega_10": 12,
+    "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 12,
     "/Weltraum/Aliens/Trull/Trullmania": 12,
     "/Weltraum/Freihandelszone/Neusirius": 12,
     "/Weltraum/Freihandelszone/Stratum_Nova": 12,
-    "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet": 12,
     "/Weltraum/Menschen/Föderation/Omar": 12,
     "/Weltraum/Neutrale_Zone/Doradus": 12,
     "/Weltraum/Neutrale_Zone/Javar_3": 12,
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/": 12,
     "/Weltraum/Sektoren/D0/DU-3864366": 12,
     "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia": 12,
-    "/Weltraum/Weltraumphänomene/Halloween-Nebel": 12,
     "/Weltraum/Aliens/Samnesen/Nova_Ceti": 11,
     "/Weltraum/Aliens/Samnesen/Sampuk": 11,
     "/Weltraum/Aliens/Wagonen/Xawang": 11,
@@ -5852,9 +5849,11 @@
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 3,
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/": 3,
     "/Weltraum/Aliens/Spaceamazonen/": 3,
+    "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet": 3,
     "/Weltraum/Menschen/Föderation/": 3,
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Geschichte": 3,
     "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 3,
+    "/Weltraum/Weltraumphänomene/Halloween-Nebel": 3,
     "/Abenteuer/Dungeonplanet/": 2,
     "/Abenteuer/Halloween/Nebelmaschine": 2,
     "/Abenteuer/Halloween/Zentrum": 2,
@@ -5962,7 +5961,7 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 25
   },
   "plasmaregenbogen": {
-    "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen": 226,
+    "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen": 77,
     "/Abenteuer/Der_große_Fang/Reise": 1
   },
   "plasmasturm": {
@@ -6008,14 +6007,14 @@
     "/Weltraum/Aliens/Glukorianer/Ghultar": 1
   },
   "prince": {
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 36
+    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 27
   },
   "prinz bruno morphium": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 175
   },
   "prinzessin": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 190,
     "/Abenteuer/SpaceDrache/Prinzessin_Lea": 88,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 41,
     "/Abenteuer/SpaceDrache/Spuren": 32,
     "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 5,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 4,
@@ -6095,7 +6094,7 @@
     "/Abenteuer/": 1
   },
   "proxima": {
-    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 227,
+    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 376,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma": 77,
     "/Abenteuer/Der_große_Fang/Reise": 77,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 76,
@@ -6104,7 +6103,7 @@
     "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen": 1
   },
   "proxima sigma": {
-    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 277,
+    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 426,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma": 127,
     "/Abenteuer/Der_große_Fang/Reise": 77,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 76,
@@ -6200,7 +6199,7 @@
     "/Abenteuer/Halloween/Station": 25
   },
   "rai": {
-    "/Weltraum/Händler_und_Halunken": 28
+    "/Weltraum/Händler_und_Halunken": 177
   },
   "railroading": {
     "/Abenteuer/Laborratten/Railroading/": 75,
@@ -6214,7 +6213,7 @@
   "rand": {
     "/Abenteuer/Schatzjagd/Rand": 77,
     "/Abenteuer/Schatzjagd/Reise": 77,
-    "/Weltraum/Raumstationen/Saloniki": 12,
+    "/Weltraum/Raumstationen/Saloniki": 3,
     "/Abenteuer/Schatzjagd/": 2,
     "/Abenteuer/Laborratten/Railroading/Schatzinsel": 1
   },
@@ -6240,7 +6239,7 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 1
   },
   "rashad": {
-    "/Weltraum/Aliens/SpaceWorms/AlXambra/": 2
+    "/Weltraum/Aliens/SpaceWorms/AlXambra/": 151
   },
   "rassen": {
     "/Weltraum/Aliens/Raptorianer/": 2,
@@ -6302,7 +6301,7 @@
     "/Weltraum/Aliens/Samnesen/Sperrzone": 28
   },
   "raumcloud": {
-    "/Weltraum/Promis": 2,
+    "/Weltraum/Promis": 151,
     "/Weltraum/Freihandelszone/System_der_Träume/Hollywood": 1
   },
   "raumfahrer sucht frau": {
@@ -6336,9 +6335,9 @@
     "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 1
   },
   "raumschiff": {
-    "/Weltraum/Konzerne/Raumschiff_und_Co_": 227,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 159,
     "/Weltraum/Technologie/Raumschiffe": 128,
+    "/Weltraum/Konzerne/Raumschiff_und_Co_": 78,
     "/Spielregeln/Wartung_von_Raumschiffen": 76,
     "/Weltraum/Technologie/": 36,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 33,
@@ -6528,26 +6527,26 @@
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 1
   },
   "reich": {
+    "/Weltraum/Aliens/Kahadrier/": 162,
+    "/Weltraum/Aliens/Wagonen/": 162,
     "/Weltraum/Aliens/Wagonen/Sperrzone": 76,
-    "/Weltraum/Aliens/Kahadrier/": 4,
-    "/Weltraum/Aliens/Wagonen/": 4,
+    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 20,
+    "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 10,
+    "/Weltraum/Aliens/Kahadrier/Kahadria": 10,
+    "/Weltraum/Aliens/Kahadrier/Omega_10": 10,
+    "/Weltraum/Aliens/Wagonen/Burial_Planet": 10,
+    "/Weltraum/Aliens/Wagonen/Terra_20CAD": 10,
+    "/Weltraum/Aliens/Wagonen/Windsor_Planet": 10,
+    "/Weltraum/Aliens/Wagonen/Xawang": 10,
+    "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place": 10,
     "/Weltraum/Freihandelszone/Handelsrat": 3,
-    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 2,
     "/Weltraum/Freihandelszone/Beta_Prison/": 2,
     "/Weltraum/Händler_und_Halunken": 2,
     "/Weltraum/Militär": 2,
     "/Weltraum/Weltraumphänomene/Weißes_Loch": 2,
     "/Abenteuer/Der_große_Fang/Chinese": 1,
     "/Abenteuer/Der_große_Fang/Reise": 1,
-    "/Abenteuer/Ostern/Captain_Rogers": 1,
-    "/Abenteuer/Ostern/Nachforschungen": 1,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 1,
-    "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1,
-    "/Weltraum/Aliens/Atlanter/": 1,
-    "/Weltraum/Aliens/Glukorianer/": 1,
-    "/Weltraum/Aliens/Glukorianer/Glutulhu/Danach": 1,
-    "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 1,
-    "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 1
+    "/Abenteuer/Ostern/Captain_Rogers": 1
   },
   "reich der wagonen": {
     "/Weltraum/Aliens/Wagonen/": 162,
@@ -6673,10 +6672,10 @@
     "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 160
   },
   "rogers": {
+    "/Weltraum/Konzerne/Captain_Rogers": 226,
+    "/Weltraum/Konzerne/SpaceResearch": 170,
     "/Abenteuer/Ostern/Captain_Rogers": 77,
-    "/Weltraum/Konzerne/Captain_Rogers": 77,
     "/Abenteuer/Ostern/Nachforschungen": 28,
-    "/Weltraum/Konzerne/SpaceResearch": 3,
     "/Abenteuer/Ideen/Stars_und_Sternchen": 1
   },
   "romaha": {
@@ -6758,7 +6757,7 @@
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 1
   },
   "sailmaneggbird": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 177,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 28,
     "/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen": 2,
     "/Abenteuer/Wagonian_Wedding/": 1
   },
@@ -6873,7 +6872,7 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 26
   },
   "scharjar": {
-    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": 78,
+    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": 227,
     "/Weltraum/Freihandelszone/Handelsrat": 27,
     "/Weltraum/Freihandelszone/Space-Steuerfahnder/": 2
   },
@@ -7001,7 +7000,7 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 1
   },
   "schlitzer": {
-    "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen": 175
+    "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen": 26
   },
   "schluessel": {
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 27,
@@ -7094,11 +7093,13 @@
     "/Weltraum/Sektoren/D0/": 77,
     "/Weltraum/Sektoren/D1/": 77,
     "/Weltraum/Sektoren/D3/": 77,
+    "/Weltraum/Weltraumphänomene/Halloween-Nebel": 30,
+    "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 11,
+    "/Weltraum/Weltraumphänomene/Negrewz-Nebel": 10,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Supernova": 7,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Drache": 3,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 3,
     "/Weltraum/Aliens/Raptorianer/": 3,
-    "/Weltraum/Weltraumphänomene/Halloween-Nebel": 3,
     "/Abenteuer/Raumschiffdungeon/Einstieg": 2,
     "/Abenteuer/Raumschiffdungeon/Hintergrund": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Baustelle": 2,
@@ -7109,7 +7110,6 @@
     "/Weltraum/Aliens/SpaceYetis/Eisgalaxis": 2,
     "/Weltraum/Piraten/Treffpunkte/Gimis_Bar": 2,
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 2,
-    "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 2,
     "/Abenteuer/Die_Eisgalaxis/": 1
   },
   "sektor d0": {
@@ -7164,7 +7164,7 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/Supernova": 1
   },
   "serius": {
-    "/Weltraum/Freihandelszone/System_der_Träume/Serius_80": 226,
+    "/Weltraum/Freihandelszone/System_der_Träume/Serius_80": 77,
     "/Abenteuer/Ideen/Aufträge_auf_der_Mimen-Mission": 1,
     "/Weltraum/Freihandelszone/System_der_Träume/": 1
   },
@@ -7227,10 +7227,10 @@
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 1
   },
   "sigma": {
-    "/Weltraum/Aliens/Trull/Sigma_9": 226,
+    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 376,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma": 78,
-    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 78,
     "/Abenteuer/Der_große_Fang/Reise": 77,
+    "/Weltraum/Aliens/Trull/Sigma_9": 77,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 76,
     "/Abenteuer/Der_große_Fang/": 3,
     "/Abenteuer/Der_große_Fang/Chinese": 2,
@@ -7335,8 +7335,8 @@
     "/Weltraum/Technologie/": 1
   },
   "space": {
-    "/Weltraum/Konzerne/China_Space": 226,
-    "/Weltraum/Konzerne/Fedspex": 226,
+    "/Weltraum/Konzerne/China_Space": 77,
+    "/Weltraum/Konzerne/Fedspex": 77,
     "/Weltraum/Militär": 26,
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 2,
     "/Abenteuer/Halloween/Station": 1
@@ -7486,7 +7486,7 @@
     "/Weltraum/Piraten/Treffpunkte/Freeport": 26
   },
   "spaceport": {
-    "/Weltraum/Neutrale_Zone/Siga_Spaceport": 226,
+    "/Weltraum/Neutrale_Zone/Siga_Spaceport": 77,
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 1
   },
   "spaceresearch": {
@@ -7791,9 +7791,9 @@
     "/Abenteuer/Neutritiumklau/Auftrag": 1
   },
   "stanton": {
+    "/Weltraum/Konzerne/Keith__Brown_and_Stanton": 246,
     "/Weltraum/Konzerne/Hired_Guns": 170,
-    "/Weltraum/Konzerne/Keith__Brown_and_Stanton": 79,
-    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 1
+    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 150
   },
   "starcoke": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 27,
@@ -7973,15 +7973,26 @@
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 1
   },
   "stratum": {
-    "/Weltraum/Freihandelszone/Stratum_Nova": 78,
-    "/Weltraum/Freihandelszone/Handelsrat": 4,
-    "/Weltraum/Konzerne/Hired_Guns": 3,
+    "/Weltraum/Freihandelszone/Stratum_Nova": 236,
+    "/Weltraum/Freihandelszone/Handelsrat": 31,
+    "/Weltraum/Konzerne/Hired_Guns": 21,
+    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": 11,
+    "/Weltraum/Freihandelszone/Währungen_und_Banken": 11,
+    "/Weltraum/Konzerne/Strat_1": 11,
+    "/Weltraum/Konzerne/Keith__Brown_and_Stanton": 10,
+    "/Weltraum/Konzerne/SpaceResearch": 10,
+    "/Weltraum/Konzerne/SpaceShell": 10,
+    "/Weltraum/Konzerne/Universe_Broadcast": 10,
     "/Abenteuer/Neutritiumklau/Lager": 2,
     "/Abenteuer/Neutritiumklau/SpaceShell": 2,
-    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": 2,
-    "/Weltraum/Freihandelszone/Währungen_und_Banken": 2,
-    "/Weltraum/Konzerne/Strat_1": 2,
-    "/Abenteuer/Zeitraub/": 1
+    "/Abenteuer/Zeitraub/": 1,
+    "/Abenteuer/Zeitraub/Auftrag": 1,
+    "/Abenteuer/Zeitraub/Nachforschungen": 1,
+    "/Abenteuer/Zeitraub/Überfall": 1,
+    "/Abenteuer/Zeitraub/Übersicht": 1,
+    "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 1,
+    "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 1,
+    "/Weltraum/Freihandelszone/": 1
   },
   "stratum nova": {
     "/Weltraum/Freihandelszone/Stratum_Nova": 286,
@@ -8030,7 +8041,7 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 25
   },
   "streifsand": {
-    "/Weltraum/Promis": 176,
+    "/Weltraum/Promis": 27,
     "/Abenteuer/Ideen/Stars_und_Sternchen": 1,
     "/Weltraum/Freihandelszone/System_der_Träume/Hollywood": 1
   },
@@ -8070,7 +8081,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff": 1
   },
   "sultan": {
-    "/Weltraum/Aliens/SpaceWorms/AbuXabi/": 12,
+    "/Weltraum/Aliens/SpaceWorms/AbuXabi/": 161,
     "/Weltraum/Aliens/SpaceWorms/": 1,
     "/Weltraum/Aliens/SpaceWorms/BigBong/SWIP": 1
   },
@@ -8089,7 +8100,7 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 27
   },
   "sunflower": {
-    "/Abenteuer/Blumenkind/Woodstock": 33,
+    "/Abenteuer/Blumenkind/Woodstock": 182,
     "/Abenteuer/Blumenkind/Doradus": 3,
     "/Abenteuer/Blumenkind/Einstieg": 3,
     "/Abenteuer/Blumenkind/SWIP": 2,
@@ -8189,8 +8200,8 @@
     "/Weltraum/Händler_und_Halunken": 175
   },
   "tanaka": {
-    "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 177,
     "/Weltraum/Piraten/Piratencrews/Tanaka_Mao": 76,
+    "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 28,
     "/Abenteuer/Rache_des_Akamachi-Clans/": 1
   },
   "tanaka mao": {
@@ -8273,7 +8284,7 @@
     "/Spielregeln/Raumflüge_und_-kämpfe": 25
   },
   "terra": {
-    "/Weltraum/Aliens/Wagonen/Terra_20CAD": 228,
+    "/Weltraum/Aliens/Wagonen/Terra_20CAD": 79,
     "/Weltraum/Aliens/Wagonen/Sperrzone": 1,
     "/Weltraum/Menschen/Föderation/Pandar_5": 1
   },
@@ -8330,7 +8341,8 @@
     "/Abenteuer/Blumenkind/Woodstock": 1
   },
   "traeume": {
-    "/Weltraum/Freihandelszone/System_der_Träume/": 78,
+    "/Weltraum/Freihandelszone/System_der_Träume/": 227,
+    "/Weltraum/Konzerne/LTR": 10,
     "/Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission": 3,
     "/Weltraum/Freihandelszone/System_der_Träume/Hollywood": 2,
     "/Weltraum/Freihandelszone/System_der_Träume/Avantgardia": 1
@@ -8472,10 +8484,9 @@
     "/Abenteuer/Halloween/Vampir-Planet": 26
   },
   "two": {
-    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 504,
+    "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 116,
     "/Weltraum/Piraten/Treffpunkte/": 27,
-    "/Weltraum/Händler_und_Halunken": 10,
-    "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
+    "/Abenteuer/Schatz_von_Menkar/Einstieg": 11,
     "/Abenteuer/Schatzjagd/Einstieg": 2,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
   },
@@ -8642,7 +8653,7 @@
   },
   "unbewohnt": {
     "/Weltraum/Aliens/Trull/Sigma_9": 10,
-    "/Weltraum/Epsilon_Canabis": 10,
+    "/Weltraum/Epsilon_Canabis": 1,
     "/Weltraum/Neutrale_Zone/": 1
   },
   "universalbank": {
@@ -8673,8 +8684,8 @@
     "/Weltraum/Historie": 3,
     "/Weltraum/Händler_und_Halunken": 3,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 3,
+    "/Abenteuer/": 2,
     "/Abenteuer/Zeitraub/Marmonen": 2,
-    "/Abenteuer/Zeitraub_II/Auftragserteilung": 2,
     "/Spielregeln/Die_Piratencrew/Die_Charaktere": 2,
     "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Weltraum/Aliens/Glukorianer/": 2,
@@ -8915,26 +8926,21 @@
     "/Abenteuer/Pizza_für_Jonas_Wagner/Einstieg": 1
   },
   "wagone": {
-    "/Weltraum/Aliens/Wagonen/": 441,
+    "/Weltraum/Aliens/Wagonen/": 283,
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 101,
     "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": 76,
     "/Weltraum/Aliens/Wagonen/Sperrzone": 76,
     "/Abenteuer/Wagonian_Wedding/": 26,
-    "/Weltraum/Aliens/Wagonen/Xawang": 23,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 22,
-    "/Weltraum/Aliens/Wagonen/Windsor_Planet": 21,
+    "/Weltraum/Aliens/Wagonen/Xawang": 14,
+    "/Weltraum/Aliens/Wagonen/Windsor_Planet": 12,
     "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal": 12,
     "/Weltraum/Freihandelszone/D4E20": 12,
     "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": 12,
     "/Weltraum/Promis": 12,
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 11,
-    "/Weltraum/Weltraumphänomene/Weißes_Loch": 11,
     "/Abenteuer/SpaceDrache/Prinzessin_Lea": 10,
-    "/Weltraum/Aliens/Wagonen/Burial_Planet": 10,
-    "/Weltraum/Aliens/Wagonen/Terra_20CAD": 10,
     "/Weltraum/Konzerne/ImmoTrade": 10,
-    "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place": 10,
-    "/Weltraum/Weltraumphänomene/Ionensturm": 10,
     "/Weltraum/Historie": 3,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 2,
@@ -8942,6 +8948,7 @@
     "/Weltraum/Freihandelszone/Space-Steuerfahnder/": 2,
     "/Weltraum/Militär": 2,
     "/Weltraum/SpaceRocker/SpaceAngels/": 2,
+    "/Weltraum/Weltraumphänomene/Weißes_Loch": 2,
     "/Abenteuer/": 1
   },
   "wagonen": {
@@ -8958,10 +8965,10 @@
     "/Abenteuer/": 25
   },
   "wagonien": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 51
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 200
   },
   "wagonion": {
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 179,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 30,
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 3,
     "/Abenteuer/Wagonian_Wedding/": 1
   },
@@ -9105,9 +9112,9 @@
     "/Weltraum/Promis": 25
   },
   "welch": {
-    "/Weltraum/Konzerne/Yellow_Stone_Group": 186,
-    "/Weltraum/Konzerne/Rabbit_Inc": 160,
+    "/Weltraum/Konzerne/Yellow_Stone_Group": 28,
     "/Abenteuer/Ostern/Rabbit_Inc": 27,
+    "/Weltraum/Konzerne/Rabbit_Inc": 2,
     "/Abenteuer/Ostern/Nachforschungen": 1
   },
   "weltall": {
@@ -9160,7 +9167,7 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/Baustelle": 26
   },
   "wesir": {
-    "/Abenteuer/Blumenkind/SWIP": 23,
+    "/Abenteuer/Blumenkind/SWIP": 172,
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 2
   },
   "wesir jaaved": {
@@ -9195,8 +9202,8 @@
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 150
   },
   "windsor": {
-    "/Weltraum/Aliens/Wagonen/Windsor_Planet": 77,
-    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 11,
+    "/Weltraum/Aliens/Wagonen/Windsor_Planet": 226,
+    "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 101,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 1
   },
   "windsor planet": {
@@ -9217,7 +9224,7 @@
     "/Abenteuer/Halloween/Hintergrund": 1
   },
   "woanders": {
-    "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 1
+    "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 10
   },
   "wohnkueche": {
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 26
@@ -9308,7 +9315,7 @@
     "/Abenteuer/Schatzjagd/Reise": 1
   },
   "xing": {
-    "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 31,
+    "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 180,
     "/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung": 1
   },
   "xinnua": {
@@ -9355,7 +9362,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 177
   },
   "zac": {
-    "/Weltraum/Händler_und_Halunken": 27
+    "/Weltraum/Händler_und_Halunken": 176
   },
   "zaehigkeit": {
     "/Spielregeln/Konflikte/Konfliktszenen": 31,
@@ -9384,7 +9391,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 25
   },
   "zankat": {
-    "/Abenteuer/Gefangen_im_SpaceSchnee/": 2
+    "/Abenteuer/Gefangen_im_SpaceSchnee/": 151
   },
   "zeiten": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Sprache": 26,
@@ -9466,26 +9473,26 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 1
   },
   "zone": {
-    "/Weltraum/Neutrale_Zone/": 226,
-    "/Weltraum/Neutrale_Zone/Doradus": 11,
-    "/Weltraum/Neutrale_Zone/Javar_3": 11,
-    "/Weltraum/Neutrale_Zone/Kappa_Gamma/": 11,
-    "/Weltraum/Neutrale_Zone/Siga_Spaceport": 11,
-    "/Weltraum/Neutrale_Zone/Woodstock": 11,
-    "/Weltraum/Rebellen/Alastor": 11,
-    "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok": 11,
-    "/Weltraum/Weltraumphänomene/Raumzeitverschiebung": 11,
-    "/Weltraum/Aliens/Streifanier/": 10,
-    "/Weltraum/Aliens/Streifanier/Streif": 10,
-    "/Weltraum/Neutrale_Zone/Bharani_8": 10,
-    "/Weltraum/Neutrale_Zone/Santa_24": 10,
-    "/Weltraum/Neutrale_Zone/Scrabnambu": 10,
-    "/Weltraum/Weltraumphänomene/BadPlanets": 10,
-    "/Weltraum/Weltraumphänomene/Weihnachts-Wurmloch": 10,
+    "/Weltraum/Neutrale_Zone/": 77,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 3,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 2,
+    "/Weltraum/Neutrale_Zone/Doradus": 2,
+    "/Weltraum/Neutrale_Zone/Javar_3": 2,
+    "/Weltraum/Neutrale_Zone/Kappa_Gamma/": 2,
+    "/Weltraum/Neutrale_Zone/Siga_Spaceport": 2,
+    "/Weltraum/Neutrale_Zone/Woodstock": 2,
+    "/Weltraum/Rebellen/Alastor": 2,
+    "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok": 2,
+    "/Weltraum/Weltraumphänomene/Raumzeitverschiebung": 2,
     "/Abenteuer/Buschraub/Sperrzone": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Schatzjagd/Reise": 1,
+    "/Abenteuer/Zeitraub/": 1,
+    "/Abenteuer/Zeitraub/Auftrag": 1,
+    "/Abenteuer/Zeitraub/Übersicht": 1,
+    "/Abenteuer/Zeitraub_II/Reise": 1,
+    "/Weltraum/": 1,
+    "/Weltraum/Aliens/Spacepears/": 1
   },
   "zorka": {
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 152
