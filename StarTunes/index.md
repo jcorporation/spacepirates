@@ -25,7 +25,7 @@ title: StarTunes
     </div>
 </div>
 
-Das SpacePirates StarTunes Album gibt es auch auf [Soundcloud](https://soundcloud.com/Yan-hurd/Sets/Spacepirates-startunes) in einer höheren Qualität. Wer mitsingen will, findet [hier]({{ site.baseurl }}/StarTunes/Lyrics) die Lyrics zu den beiden StarTunes-Liedern. Wer Geld dafür ausgeben will, kann auch die [StarTunes CD-Box]({{ site.baseurl }}/Publikationen/) kaufen.
+Das SpacePirates StarTunes Album gibt es auch auf [Soundcloud](https://soundcloud.com/yan-hurd/sets/spacepirates-startunes) in einer höheren Qualität. Wer mitsingen will, findet [hier]({{ site.baseurl }}/StarTunes/Lyrics) die Lyrics zu den beiden StarTunes-Liedern. Wer Geld dafür ausgeben will, kann auch die [StarTunes CD-Box]({{ site.baseurl }}/Publikationen/) kaufen.
 
 - Musik: [Yan Hurd](http://yanhurd.com/)
 - Lizenz: [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)
