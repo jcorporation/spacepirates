@@ -13,7 +13,7 @@ sitedata:
         Greeenhl:
             Name: "Greeenhl"
             Typ: "Dschungelplanet"
-            Sektor: "unbekannt"
+            Sektor: "Sektor B0"
             Monde: "3"
             Einwohner: "Raptorianer"
             Hauptstadt: "Foodtopia"

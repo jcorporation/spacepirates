@@ -15,7 +15,7 @@ sitedata:
 
 ## Burger Prince
 
-Die Burger Prince ist der wohl bekannteste Schlachtkreuzer der Raptoiden. Razzngool, der Captain der Burger Prince ist mittlerweile, aufgrund seines ständigen Hungers in der ganzen Galaxis berüchtigt. Bei einem Burgerwettessen soll er einst 127 Dino Burger verschlungen und nach mehr verlangt haben. Sollten die Proteinressourcen an Bord seines Schiffes mal zur Neige gehen, schreckt er auch nicht davor zurück seinen Bedarf auch durch intelligente Alienspezies zu decken.
+Die Burger Prince ist der wohl bekannteste Schlachtkreuzer der Raptorianer. Razzngool, der Captain der Burger Prince ist mittlerweile, aufgrund seines ständigen Hungers in der ganzen Galaxis berüchtigt. Bei einem Burgerwettessen soll er einst 127 Dino Burger verschlungen und nach mehr verlangt haben. Sollten die Proteinressourcen an Bord seines Schiffes mal zur Neige gehen, schreckt er auch nicht davor zurück seinen Bedarf auch durch intelligente Alienspezies zu decken.
 
 {% include slc.md data=page.sitedata.Slc.Razzngool %}
 
