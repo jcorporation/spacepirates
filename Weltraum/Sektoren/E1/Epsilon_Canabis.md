@@ -1,13 +1,13 @@
 ---
 layout: sternensystem
-permalink: /Weltraum/Epsilon_Canabis
+permalink: /Weltraum/Sektoren/E1/Epsilon_Canabis
 title: Epsilon Canabis
 
 sitedata:
     Sternensysteme:
         Epsilon_Canabis:
             Name: Epsilon Canabis
-            Sektor: weit außerhalb
+            Sektor: E1
             Zentralgestirn: Neutronenstern
             Planeten: 7
             Bewohner: fast unbewohnt

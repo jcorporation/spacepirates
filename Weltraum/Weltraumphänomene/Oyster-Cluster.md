@@ -7,7 +7,7 @@ sitedata:
     Weltraumphaenomene:
         Oyster-Cluster:
             Name: "Oyster-Cluster"
-            Sektor: ""
+            Sektor: "Sektor B0"
             Beschreibung: ""
             Politisches: ""
 ---

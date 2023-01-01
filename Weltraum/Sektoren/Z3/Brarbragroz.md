@@ -1,6 +1,6 @@
 ---
 layout: planet
-permalink: /Weltraum/Brarbragroz
+permalink: /Weltraum/Sektoren/Z3/Brarbragroz
 title: Brarbragroz
 
 sitedata:
@@ -8,7 +8,7 @@ sitedata:
         Brarbragroz:
             Name: Brarbragroz
             Typ: Erdähnlich
-            Sektor: ""
+            Sektor: "Sektor Z3"
             Monde: 2
             Einwohner: Brarbragrozianer
             Hauptstadt: viele

@@ -7,7 +7,7 @@ sitedata:
     Weltraumphaenomene:
         Spacewood-Forest:
             Name: "Spacewood-Forest"
-            Sektor: "Kahadrisches Reich"
+            Sektor: "Sektor A4"
             Beschreibung: ""
             Politisches: ""
 ---

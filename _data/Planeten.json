@@ -96,13 +96,13 @@
   "Brarbragroz": {
     "Name": "Brarbragroz",
     "Typ": "Erdähnlich",
-    "Sektor": "",
+    "Sektor": "Sektor Z3",
     "Monde": 2,
     "Einwohner": "Brarbragrozianer",
     "Hauptstadt": "viele",
     "Besiedelung": "kleine Städte",
     "Politisches": "Zurückgebliebener Planet",
-    "Link": "/Weltraum/Brarbragroz"
+    "Link": "/Weltraum/Sektoren/Z3/Brarbragroz"
   },
   "Burial_Planet": {
     "Name": "Burial Planet",
@@ -206,7 +206,7 @@
   "Glacor": {
     "Name": "Glacor",
     "Typ": "Eisplanet",
-    "Sektor": "Sektor D1",
+    "Sektor": "Sektor E1",
     "Monde": "5",
     "Einwohner": "SpaceYetis",
     "Hauptstadt": "",
@@ -217,7 +217,7 @@
   "Greeenhl": {
     "Name": "Greeenhl",
     "Typ": "Dschungelplanet",
-    "Sektor": "unbekannt",
+    "Sektor": "Sektor B0",
     "Monde": "3",
     "Einwohner": "Raptorianer",
     "Hauptstadt": "Foodtopia",

@@ -12,7 +12,7 @@ sitedata:
     Sternensysteme:
         Eisgalaxis:
             Name: "Eisgalaxis"
-            Sektor: "Sektor D1"
+            Sektor: "Sektor E1"
             Zentralgestirn: "Kalte Sonne"
             Planeten: "12"
             Bewohner: "SpaceYetis"
@@ -21,7 +21,7 @@ sitedata:
         Glacor:
             Name: "Glacor"
             Typ: "Eisplanet"
-            Sektor: "Sektor D1"
+            Sektor: "Sektor E1"
             Monde: "5"
             Einwohner: "SpaceYetis"
             Hauptstadt: ""

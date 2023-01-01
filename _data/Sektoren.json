@@ -34,6 +34,31 @@
     "Hauptplanet": "Sampuk",
     "Link": "/Weltraum/Aliens/Samnesen/"
   },
+  "Sektor_A0": {
+    "Name": "Sektor A0",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/A0/"
+  },
+  "Sektor_B0": {
+    "Name": "Sektor B0",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/B0/"
+  },
+  "Sektor_B4": {
+    "Name": "Sektor B4",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/B4/"
+  },
+  "Sektor_C0": {
+    "Name": "Sektor C0",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/C0/"
+  },
+  "Sektor_C4": {
+    "Name": "Sektor C4",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/C4/"
+  },
   "Sektor_D0": {
     "Name": "Sektor D0",
     "Hauptplanet": "",
@@ -48,6 +73,56 @@
     "Name": "Sektor D3",
     "Hauptplanet": "",
     "Link": "/Weltraum/Sektoren/D3/"
+  },
+  "Sektor_D4": {
+    "Name": "Sektor D4",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/D4/"
+  },
+  "Sektor_E1": {
+    "Name": "Sektor E1",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/E1/"
+  },
+  "Sektor_E2": {
+    "Name": "Sektor E2",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/E2/"
+  },
+  "Sektor_E3": {
+    "Name": "Sektor E3",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/E3/"
+  },
+  "Sektor_E4": {
+    "Name": "Sektor E4",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/E4/"
+  },
+  "Sektor_Z0": {
+    "Name": "Sektor Z0",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/Z0/"
+  },
+  "Sektor_Z1": {
+    "Name": "Sektor Z1",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/Z1/"
+  },
+  "Sektor_Z2": {
+    "Name": "Sektor Z2",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/Z2/"
+  },
+  "Sektor_Z3": {
+    "Name": "Sektor Z3",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/Z3/"
+  },
+  "Sektor_Z4": {
+    "Name": "Sektor Z4",
+    "Hauptplanet": "",
+    "Link": "/Weltraum/Sektoren/Z4/"
   },
   "Sternenrepublik_Neuasien": {
     "Name": "Sternenrepublik Neuasien",
