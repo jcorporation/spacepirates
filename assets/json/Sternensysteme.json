@@ -10,7 +10,7 @@
   },
   "Eisgalaxis": {
     "Name": "Eisgalaxis",
-    "Sektor": "Sektor D1",
+    "Sektor": "Sektor E1",
     "Zentralgestirn": "Kalte Sonne",
     "Planeten": "12",
     "Bewohner": "SpaceYetis",
@@ -19,12 +19,12 @@
   },
   "Epsilon_Canabis": {
     "Name": "Epsilon Canabis",
-    "Sektor": "weit außerhalb",
+    "Sektor": "E1",
     "Zentralgestirn": "Neutronenstern",
     "Planeten": 7,
     "Bewohner": "fast unbewohnt",
     "Politisches": "",
-    "Link": "/Weltraum/Epsilon_Canabis"
+    "Link": "/Weltraum/Sektoren/E1/Epsilon_Canabis"
   },
   "Proxima_Sigma": {
     "Name": "Proxima Sigma",

@@ -20,6 +20,13 @@
     "Politisches": "",
     "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/"
   },
+  "Dino_Burger": {
+    "Name": "Dino Burger",
+    "Sektor": "Sektor B0",
+    "Bewohner": "Raptorianer",
+    "Politisches": "",
+    "Link": "/Weltraum/Aliens/Raptorianer/Dino_Burger"
+  },
   "Freeport": {
     "Name": "Freeport",
     "Sektor": "Sektor D1",
