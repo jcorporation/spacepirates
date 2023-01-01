@@ -18,6 +18,8 @@ sitedata:
             Politisches: "unter SpaceWorms-Verwaltung"
 ---
 
+# Al Hadir
+
 Der Agrarplanet Al Hadir beliefert ausschließlich die SpaceWorms-Raumstation BigBong. Wie alle Agrarplaneten der SpaceWorms handelt es sich um einen mediterranen Planet, auf dem ausschließlich Rauschmittel angebaut werden. Neben altbekannten pflanzlichen Rauschmitteln wie Tabak, Haschisch, Marihuana oder Opium werden auch gentechnisch veränderte Pflanzen angebaut, aus denen sich wesentlich stärkere Rauschmittel gewinnen lassen.
 
 ## Hadir I
