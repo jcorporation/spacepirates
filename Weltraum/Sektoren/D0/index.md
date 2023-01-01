@@ -4,8 +4,8 @@ permalink: /Weltraum/Sektoren/D0/
 title: Sektor D0
 sitedata:
     Sektoren:
-        Sektor_D1:
-            Name: Sektor D1
+        Sektor_D0:
+            Name: Sektor D0
             Hauptplanet: ""
 ---
 

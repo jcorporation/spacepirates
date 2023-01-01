@@ -157,11 +157,13 @@ tabellen["existingRaumstationen"] = [
 ]
 tabellen["existingSektoren"] = [
   "Föderation",
+  "Freihandelszone",
   "Glukorianisches Imperium",
   "Kahadrisches Reich",
   "Neutrale Zone",
   "Reich der Wagonen",
   "Samara",
+  "Sektor D0",
   "Sektor D1",
   "Sektor D3",
   "Sternenrepublik Neuasien",

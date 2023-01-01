@@ -2,6 +2,11 @@
 layout: page
 permalink: /Weltraum/Freihandelszone/
 title: Freihandelszone
+sitedata:
+    Sektoren:
+        Freihandelszone:
+            Name: Freihandelszone
+            Hauptplanet: Stratum Nova
 ---
 
 # Freihandelszone
