@@ -4,6 +4,11 @@
     "Hauptplanet": "Erde",
     "Link": "/Weltraum/Menschen/Föderation/"
   },
+  "Freihandelszone": {
+    "Name": "Freihandelszone",
+    "Hauptplanet": "Stratum Nova",
+    "Link": "/Weltraum/Freihandelszone/"
+  },
   "Glukorianisches_Imperium": {
     "Name": "Glukorianisches Imperium",
     "Hauptplanet": "Ghultar",
@@ -29,15 +34,15 @@
     "Hauptplanet": "Sampuk",
     "Link": "/Weltraum/Aliens/Samnesen/"
   },
-  "Sektor_D1": {
-    "Name": "Sektor D1",
+  "Sektor_D0": {
+    "Name": "Sektor D0",
     "Hauptplanet": "",
     "Link": "/Weltraum/Sektoren/D0/"
   },
   "Sektor_D1": {
     "Name": "Sektor D1",
     "Hauptplanet": "",
-    "Link": "/Weltraum/Sektoren/D0/"
+    "Link": "/Weltraum/Sektoren/D1/"
   },
   "Sektor_D3": {
     "Name": "Sektor D3",
