@@ -22,7 +22,7 @@ Der Schatz ist über den ganzen Vergnügungspark verteilt.
 
 - Großer Fang Fanartikel (Mützen, Schals, Fähnchen, Aufkleber, etc.) können die Piraten an jedem Stand gewinnen (Dosenwerfen, Schießbude, Hau den Lukas, etc)
 - Losbude, bei 50 Punkten: ein rosa Teddybär in Menschengröße
-- Bierzelt:** **ein paar Fässer 2.000 Jahre altes Malzbier
+- Bierzelt: ein paar Fässer 2.000 Jahre altes Malzbier
 
 Nach dem alle Schätze zusammengerafft wurden, gilt es aus der künstlichen Welt zu entkommen, vom Planeten zu verschwinden und den Weg zurück in den bekannten Raum zu finden.
 

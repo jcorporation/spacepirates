@@ -14,12 +14,12 @@ Ein wagonischer Spacekurier liefert einem der Charaktere (dessen Onkel Nic Jäge
 <tr><th>W6</th><th>Aufenthaltsort</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>Auf [Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack) in der gleichnamigen Bar</td></tr>
-<tr><td>2</td><td>Auf ihrem Raumschiff mitten in der [Neutralen Zone]({{ site.baseurl }}/Weltraum/Neutrale_Zone/)</td></tr>
-<tr><td>3</td><td>Im Wellnessbereich auf [Freeport]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport)</td></tr>
-<tr><td>4</td><td>Im Jagdurlaub auf einem Waldplaneten im [Spacewood Forest]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Spacewood-Forest)</td></tr>
-<tr><td>5</td><td>Berauscht auf der SpaceWorms Raumstation [BigBong]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/BigBong/)</td></tr>
-<tr><td>6</td><td>Beim Sushiessen in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio)</td></tr>
+<tr><td>1</td><td>Auf Two Eyed Jack in der gleichnamigen Bar</td></tr>
+<tr><td>2</td><td>Auf ihrem Raumschiff mitten in der Neutralen Zone</td></tr>
+<tr><td>3</td><td>Im Wellnessbereich auf Freeport</td></tr>
+<tr><td>4</td><td>Im Jagdurlaub auf einem Waldplaneten im Spacewood Forest</td></tr>
+<tr><td>5</td><td>Berauscht auf der SpaceWorms Raumstation BigBong</td></tr>
+<tr><td>6</td><td>Beim Sushiessen in Neu-Neo-Tokio</td></tr>
 </tbody>
 </table>
 
@@ -31,7 +31,7 @@ Der Spacekurier sieht abgekämpft aus und auch sein Raumflitzer scheint beschäd
 <tr><th> </th><th>Anführer</th><th>Söldner</th><th>Pilot</th><th>Tech</th></tr>
 </thead>
 <tbody>
-<tr><th>Rasse</th><td>[Samnese]({{ site.baseurl }}/Samnese]</td><td>[Samnese]({{ site.baseurl }}/Samnese]</td><td>[Samnese]({{ site.baseurl }}/Samnese]</td><td>[Samnese]({{ site.baseurl }}/Samnese]</td></tr>
+<tr><th>Rasse</th><td>Samnese</td><td>Samnese</td><td>Samnese</td><td>Samnese</td></tr>
 <tr><th>SÖLDNER</th><td>4</td><td>5</td><td>3</td><td>2</td></tr>
 <tr><th>TECH</th><td>2</td><td>4</td><td>4</td><td>5</td></tr>
 <tr><th>PILOT</th><td>3</td><td>3</td><td>5</td><td>4</td></tr>

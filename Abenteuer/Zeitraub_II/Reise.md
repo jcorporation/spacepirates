@@ -10,7 +10,7 @@ Javar 3 liegt knapp 53 Lichtjahre vom Brabengürtel entfernt. Die Reise dauert s
 
 ## Javar 3
 
-{% include planet.md data=page.data.Planeten.Javar_3 %}
+{% include planet.md data=site.data.Planeten.Javar_3 %}
 
 - [Javar 3]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Javar_3)
 

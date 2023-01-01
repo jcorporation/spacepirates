@@ -21,6 +21,7 @@ Die Affen sind im ganzen Dschungel anzutreffen, meist in kleinen Sippen. Um das 
 <tr><th>Zähigkeit</th><td>1</td></tr>
 </tbody>
 </table>
+
 ## Das Forschungslabor
 
 Das Labor wird von Edward Bakutha geleitet, der von Jangba bestochen wurde, um die Forschungsergebnisse zu veruntreuen und weiter an der Zeitmaschine zu arbeiten. Das Labor befindet sich auf einer Anhöhe und wurde von den Söldnern Jangbas provisorisch zur Festung umgebaut, um sich besser gegen die Affen verteidigen zu können, die regelmäßig und mit unterschiedlichen Taktiken angreifen.

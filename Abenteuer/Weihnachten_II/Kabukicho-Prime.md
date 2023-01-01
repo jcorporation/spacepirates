@@ -58,7 +58,7 @@ Es kommt zur Verfolgungsjagd mit Knecht Ruprechts Raumschiff.
 
 Eventuell kann Knecht Ruprecht seine Kanonen nicht abfeuern, weil er die Wagonen nicht dabei hat. Wenn die Spieler entern, finden sie Knecht Ruprecht entweder im Cockpit, auf dem Weg in eine Fluchtkapsel (der alte Feigling) oder in einem Schrank in der Kombüse (auch keine neuen Idee). Er hat die gleichen Werte wie „damals,“ und ergibt sich normalerweise. Er hat außerdem das Heilmittel bei sich.
 
-{% include slc.md data=page.sitedata.Slc.Knecht_Ruprecht %}
+{% include slc.md data=site.data.Slc.Knecht_Ruprecht %}
 
 Damit ist Weihnachten gerettet, Santa wird geheilt, die Elfen klotzen noch mal ran (es wird eh immer alles auf dem letzten Drücker fertig), und eine Strafe für Knecht Ruprecht könnt ihr euch selber ausdenken.
 

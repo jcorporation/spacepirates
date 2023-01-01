@@ -31,7 +31,7 @@ Er bestellt sich an der Bar einen Schnaps, kippt ihn in einem Zug hinunter und g
 {% capture include_body %}
 Nachdem die Piraten noch Möchtegernpiraten und wohl ziemlich blank sind, können sie einen ersten Auftrag gut gebrauchen und unangenehme Auftraggeber sind wirklich nichts Außergewöhnliches.
 {% endcapture %}
-{% include anmerkung.md title="" body=include_body %}
+{% include anmerkung.md body=include_body %}
 
 ### Gerüchte über Jangba
 

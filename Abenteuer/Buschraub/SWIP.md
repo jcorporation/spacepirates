@@ -28,8 +28,10 @@ Das SWIP wird auch die Agenten der JCTech IAG angehen, falls diese den Piraten z
 </table>
 
 <table>
+<thead>
+<tr><th colspan="2">Zigarrenförmiges Schiff</th></tr>
+</thead>
 <tbody>
-<tr><td colspan="2">**Zigarrenförmiges Schiff**</td></tr>
 <tr><th>Antrieb</th><td>FTL1</td></tr>
 <tr><th>Geschwindigkeit</th><td>3</td></tr>
 <tr><th>Wendigkeit</th><td>3</td></tr>

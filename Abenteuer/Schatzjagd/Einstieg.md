@@ -30,9 +30,9 @@ Die Karte ist 30 × 20 cm hoch, besteht aus gebürstetem Aluminium und besitzt e
 
 ### TECH Probe
 
-- **2 Erfolge: **Der erste Schlüssel scheint ein Fingerabdruck zu sein.
-- **2 Erfolge: **Der zweite Schlüssel ist wohl ein uralter, mechanischer Schlüssel mit einem digitalen Innenleben.
-- **3 Erfolge: **Die Karte ist mit einem Selbstzerstörungsmechanismus ausgestattet, der ausgelöst wird, wenn die Karte ohne die Schlüssel geöffnet wird.
+- **2 Erfolge:** Der erste Schlüssel scheint ein Fingerabdruck zu sein.
+- **2 Erfolge:** Der zweite Schlüssel ist wohl ein uralter, mechanischer Schlüssel mit einem digitalen Innenleben.
+- **3 Erfolge:** Die Karte ist mit einem Selbstzerstörungsmechanismus ausgestattet, der ausgelöst wird, wenn die Karte ohne die Schlüssel geöffnet wird.
 
 ***
 
