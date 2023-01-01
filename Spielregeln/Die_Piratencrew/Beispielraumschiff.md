@@ -22,7 +22,10 @@ Cabriokit (für 1 Macke ertauscht)</td></tr>
 3. FTL macht Wupp<br/>
 4. Sitze unbequem<br/>
 5. Fasching<br/>
-6. KI eingebaut</td></tr>
+6. KI eingebaut<br/>
+7. keine<br/>
+8. keine<br/>
+9. keine</td></tr>
 </tbody>
 </table>
 

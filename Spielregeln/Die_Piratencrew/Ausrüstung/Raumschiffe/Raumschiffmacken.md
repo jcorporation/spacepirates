@@ -6,17 +6,19 @@ title: Raumschiffmacken
 
 # Raumschiffmacken
 
-Die Macken eines Raumschiffs werden immer zufällig mit 1W6 und 1W20 bestimmt. Ein Schiff kann jede Macke nur einmal besitzen. Zeigen die Würfel zweimal die gleiche Macke an, so wird der Wurf wiederholt.
+Die Macken eines Raumschiffs werden zufällig bestimmt. Im Normalbetrieb (oder bei einer Probefahrt) treten die Macken nicht auf und auch der gewiefteste Tech sieht sie dem Schiff nicht an.
+
+Ein Schiff kann jede Macke nur einmal und maximal 10 Macken besitzen. Zeigen die Würfel beim Auswürfeln der Macken zweimal die gleiche Macke an, so wird der Wurf wiederholt.
 
 {% capture include_body %}
 Erst Macken machen ein Raumschiff zu einem individuellen Fortbewegungsmittel. Sie verleihen ihm einen eigenen Charme. Piraten sind daher oftmals stolz auf die Macken ihres Raumschiffs.
 {% endcapture %}
-{% include hinweis.md title="Raumschiffmacken" body=include_body %}
+{% include anmerkung.md title="Raumschiffmacken" body=include_body %}
 
 <table>
 <caption>Raumschiffmacken</caption>
 <thead>
-<tr><th>W30</th><th>Macke</th><th>Beschreibung</th></tr>
+<tr><th>W40</th><th>Macke</th><th>Beschreibung</th></tr>
 </thead>
 <tbody>
 <tr><td>1</td><td>Schildfluktuationen</td><td>Alle 1W4 Runden versagen die Schilde.</td></tr>
@@ -34,11 +36,11 @@ Erst Macken machen ein Raumschiff zu einem individuellen Fortbewegungsmittel. Si
 <tr><td>13</td><td>FTL macht Wupp</td><td>Der FTL macht nur noch WUPP und funktioniert nicht mehr.</td></tr>
 <tr><td>14</td><td>Schwerkraft fällt aus</td><td>Die künstliche Schwerkraft fällt aus, &minus;1 auf alle Proben.</td></tr>
 <tr><td>15</td><td>Rechts ist Links</td><td>Das Raumschiff vertauscht rechts mit links, &minus;1 auf alle Proben.</td></tr>
-<tr><td>16</td><td>Piepsstimmen</td><td>Der Heliumanteil der Luft nimmt schlagartig zu, alle reden bis zur Reparatur mit piepsiger Stimme.</td></tr>
+<tr><td>16</td><td>Piepsstimmen</td><td>Der Heliumanteil der Luft nimmt schlagartig zu, alle reden bis zur Behebung der Macke mit piepsiger Stimme.</td></tr>
 <tr><td>17</td><td>Tropenwetter</td><td>Die Temperatur und die Luftfeuchtigkeit nehmen tropische Ausmaße an, alle Instrumente beschlagen, &minus;1 auf alle Proben.</td></tr>
 <tr><td>18</td><td>Hanfwachstum</td><td>Überall im Raumschiff wächst illegaler und sehr hartnäckiger Hanf, &minus;1 auf alle Proben</td></tr>
 <tr><td>19</td><td>Schwarzes Bild</td><td>Alle Videoverbindungen fallen aus, &minus;2 auf alle Proben.</td></tr>
-<tr><td>20</td><td>Türen zu</td><td>Alle Türen im Raumschiff verschließen sich.</td></tr>
+<tr><td>20</td><td>Türen zu</td><td>Alle Türen im Raumschiff verschließen sich und lassen sich nicht mehr öffnen, auch nicht durch gutes zureden.</td></tr>
 <tr><td>21</td><td>Stabilisatoren versagen</td><td>Das Raumschiff dreht sich wild in alle Richtungen, so dass der Crew schlecht wird, &minus;1 auf alle Proben.</td></tr>
 <tr><td>22</td><td>Antiquierte Technik</td><td>Alle Teile, die der Tech gerade benutzen will, sind so uralt, dass er sie kaum zu bedienen weiß, &minus;1 auf alle TECH Proben.</td></tr>
 <tr><td>23</td><td>Schwerkraft verdoppelt sich</td><td>Die künstliche Schwerkraft verdoppelt sich, &minus;1 auf alle Proben.</td></tr>
@@ -49,5 +51,15 @@ Erst Macken machen ein Raumschiff zu einem individuellen Fortbewegungsmittel. Si
 <tr><td>28</td><td>Weltraumherpes</td><td>Das Schiff hat Herpes, alle 1W10 Minuten platzen aus den Wänden 1W6 kleine schleimige Tierchen heraus.</td></tr>
 <tr><td>29</td><td>Fasching</td><td>Der Schiffscomputer denkt, es sei Fasching, und startet eine unglaubliche Faschingsparty.</td></tr>
 <tr><td>30</td><td>Computer deprimiert</td><td>Der Computer ist deprimiert und führt deshalb jede Aktion nur noch halb so schnell aus und jammert der Crew die Ohren voll.</td></tr>
+<tr><td>31</td><td>Afken-Alarm</td><td>Irgendwie sind Afken (kleine nervige Affen) auf das Schiff gekommen. Sie stellen alles mögliche an und es tritt daher eine zufällige Macke dieser Tabelle ein.</td></tr>
+<tr><td>32</td><td>Service überfällig</td><td>Eine unwichtiges Sekundärsystem wurde zu lange nicht mehr gewartet und erinnert die Piratencrew bei jeder Aktion mit einem nervigen Popup daran, &minus;1 auf alle Schiffsproben.</td></tr>
+<tr><td>33</td><td>Unerwarteter Ausnahmefehler</td><td>Das Schiff meldet einen unerwarteten Ausnahmefehler in einem zufällige ausgewählten Zubehörteil. Das Zubehör ist nicht mehr benutzbar.</td></tr>
+<tr><td>34</td><td>Wartemusik</td><td>Aus allen, aus wirklich allen Lautsprechern ertönt ohrenbetäubende Wartemusik, man kann sich kaum noch verständigen.</td></tr>
+<tr><td>35</td><td>Überhitzung</td><td>Die Systeme sind überhitzt, sogar der Kapitänssitz glüht schon fast. Das Schiff muss alle 1W20 Minuten 1W6 Minuten abkühlen.</td></tr>
+<tr><td>36</td><td>Klappert</td><td>Irgendwas klappert im Schiff, keine Ahnung was und wo, aber es ist unheimlich nervig, &minus;1 auf alle Proben.</td></tr>
+<tr><td>37</td><td>Kinoabend</td><td>Der Schiffscomputer veranstaltet ganz spontan einen Videoabend, alle Videoverbindungen zeigen nur noch Stummfilme.</td></tr>
+<tr><td>38</td><td>Kurzschluss</td><td>Alle Terminals stehen unter Strom und verpassen dem Bediener einen leichten Schlag, &minus;1 auf alle Schiffsproben.</td></tr>
+<tr><td>39</td><td>Wasserschaden</td><td>Eine Fehlfunktion der Sprinkleranlage setzt das Schiff unter Wasser.</td></tr>
+<tr><td>40</td><td>Hochstimmung</td><td>Der Sauerstoffanteil der Luft nimmt schlagartig zu, die gesamte Crew ist in euphorischer Stimmung.</td></tr>
 </tbody>
 </table>
