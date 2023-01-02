@@ -2,19 +2,6 @@
 layout: page
 permalink: /Abenteuer/SpaceDrache/Prinzessin_Lea
 title: Prinzessin Lea
-sitedata:
-    Slc:
-        Prinzessin_Lea:
-            Name: "Prinzessin Lea"
-            Rasse: "Wagonin"
-            Kategorie: Promi
-            Position: Prinzessin
-            SOELDNER: "2"
-            TECH: "6"
-            PILOT: "4"
-            HAENDLER: "8"
-            Zaehigkeit: "4"
-            Bewaffnung: "keine"
 ---
 
 # Prinzessin Lea
@@ -25,7 +12,7 @@ Sie ist extrem romantisch und verhimmelt alte Geschichten mit Drachen. Sie ist e
 
 Drachen (auch künstlich erschaffene SpaceDrachen) stehen unter Artenschutz, so dass der Drache keine große Gefahr dabei einging.
 
-{% include slc_profile.md data=page.sitedata.Slc.Prinzessin_Lea %}
+{% include slc_profile.md data=site.data.Slc.Prinzessin_Lea %}
 
 ***
 

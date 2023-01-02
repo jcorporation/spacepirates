@@ -7,8 +7,8 @@ berühmte:bekannte
 binkels:binkel
 brarbragrozianer:brarbragroz
 britney s pears:britney
-charakters:charakter
 charaktere:charakter
+charakters:charakter
 clans:clan
 clans der schildkröte:clan der schildkröte
 einfachen:einfache
@@ -28,15 +28,15 @@ kauf:kaufen
 konflikte:konflikt
 menschen:mensch
 militärs:militär
+neuasiaten:neuasiat
 neuasiatischen:neuasien
 neuasiens:neuasien
-neuasiaten:neuasiat
 neylas:neyla
 oysterclusters:oystercluster
 parteien:partei
 pergaments:pergament
-piratentreffpunkte:piratentreffpunkt
 piraten:pirat
+piratentreffpunkte:piratentreffpunkt
 planeten:planet
 politische lage:politik
 politische:politik

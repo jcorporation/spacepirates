@@ -11,15 +11,6 @@ sitedata:
             Kategorie: "Produktion"
             Konzernzentrale: "Pessach 4"
             Niederlassungen: ""
-    Slc:
-        Harrison_Welch:
-            Name: "Harrison Welch"
-            SOELDNER: "2"
-            TECH: "4"
-            PILOT: "6"
-            HAENDLER: "8"
-            Zaehigkeit: "4"
-            Bewaffnung: "keine"
 
 ---
 

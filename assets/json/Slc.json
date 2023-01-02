@@ -503,20 +503,6 @@
     "Bewaffnung": "keine",
     "Link": "/Weltraum/Konzerne/Yellow_Stone_Group"
   },
-  "Harrison_Welch": {
-    "Name": "Harrison Welch",
-    "Rasse": "Mensch",
-    "Kategorie": "Konzernchef",
-    "Wohnort": "Pessach 4",
-    "Positioen": "Konzernchef",
-    "SOELDNER": "2",
-    "TECH": "4",
-    "PILOT": "6",
-    "HAENDLER": "8",
-    "Zaehigkeit": "4",
-    "Bewaffnung": "keine",
-    "Link": "/Weltraum/Konzerne/Yellow_Stone_Group"
-  },
   "Hashimoto": {
     "Name": "Hashimoto",
     "Rasse": "Neuasiat",
@@ -926,34 +912,10 @@
   "Madame_PlaemPlaem": {
     "Name": "Madame PlämPläm",
     "Rasse": "unbekannt",
-    "Kategorie": [
-      "Promi"
-    ],
-    "Wohnort": "Windsor Planet",
-    "Position": "Bäämlers Muse",
-    "SOELDNER": 2,
-    "TECH": 2,
-    "PILOT": 4,
-    "HAENDLER": 6,
-    "Zaehigkeit": 2,
-    "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
-  },
-  "Madame_PlaemPlaem": {
-    "Name": "Madame PlämPläm",
-    "Rasse": "unbekannt",
-    "Kategorie": [
-      "Promi"
-    ],
-    "Wohnort": "Windsor Planet",
-    "Position": "Bäämlers Muse",
-    "SOELDNER": 2,
-    "TECH": 2,
-    "PILOT": 4,
-    "HAENDLER": 6,
-    "Zaehigkeit": 2,
-    "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Kategorie": "Promi",
+    "Wohnort": "unbekannt",
+    "Position": "",
+    "Link": "/Weltraum/Promis"
   },
   "Marko_Saltvalley": {
     "Name": "Marko Saltvalley",
@@ -1113,28 +1075,19 @@
   "Prinzessin_Lea": {
     "Name": "Prinzessin Lea",
     "Rasse": "Wagonin",
-    "Kategorie": "Promi",
+    "Kategorie": [
+      "Promi",
+      "Wagonische Königsfamilie"
+    ],
+    "Wohnort": "Windsor Planet",
     "Position": "Prinzessin",
-    "SOELDNER": "2",
-    "TECH": "6",
-    "PILOT": "4",
-    "HAENDLER": "8",
-    "Zaehigkeit": "4",
+    "SOELDNER": 2,
+    "TECH": 6,
+    "PILOT": 4,
+    "HAENDLER": 8,
+    "Zaehigkeit": 4,
     "Bewaffnung": "keine",
-    "Link": "/Abenteuer/SpaceDrache/Prinzessin_Lea"
-  },
-  "Prinzessin_Lea": {
-    "Name": "Prinzessin Lea",
-    "Rasse": "Wagonin",
-    "Kategorie": "Promi",
-    "Position": "Prinzessin",
-    "SOELDNER": "2",
-    "TECH": "6",
-    "PILOT": "4",
-    "HAENDLER": "8",
-    "Zaehigkeit": "4",
-    "Bewaffnung": "keine",
-    "Link": "/Abenteuer/SpaceDrache/Prinzessin_Lea"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
   },
   "Professor_Robotto": {
     "Name": "Professor Robotto",

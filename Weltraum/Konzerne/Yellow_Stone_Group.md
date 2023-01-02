@@ -28,7 +28,7 @@ sitedata:
 
 # Yellow Stone Group
 
-Die Yellow Stone Group ist ein großer Finanzinvestor zu dem die diversesten Firmen gehören, unter anderem auch [Rabbit Inc]({{ site.baseurl }}/Abenteuer/Ostern/Rabbit_Inc) und [Captain Rogers]({{ site.baseurl }}/Abenteuer/Ostern/Captain_Rogers). Selber gehört der Finanzinvestor einem nicht zu druchblickenden Netz an Banken.
+Die Yellow Stone Group ist ein großer Finanzinvestor zu dem die diversesten Firmen gehören, unter anderem auch [Rabbit Inc]({{ site.baseurl }}/Abenteuer/Ostern/Rabbit_Inc) und [Captain Rogers]({{ site.baseurl }}/Abenteuer/Ostern/Captain_Rogers). Selber gehört der Finanzinvestor einem nicht zu durchblickenden Netz an Banken.
 
 ## Harrison Welch
 

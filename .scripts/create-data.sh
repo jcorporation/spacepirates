@@ -5,11 +5,11 @@ rc=0
 # select yq executable
 case "$(uname -m)" in
     armv7l)
-    	YQ=".scripts/bin/yq_linux_arm" ;;
+        YQ=".scripts/bin/yq_linux_arm" ;;
     x86_64)
-    	YQ=".scripts/bin/yq_linux_amd64" ;;
+        YQ=".scripts/bin/yq_linux_amd64" ;;
     *)
-    	exit 1 ;;
+        exit 1 ;;
 esac
 
 TMPDIR="_tmp"
@@ -39,11 +39,11 @@ do
 
     for L in $LISTS
     do
-	# get content of list
-    	LIST=$($YQ ".$L" <<< "$SITEDATA")
-    	[ "$LIST" = "null" ] && continue
-    	TMPFILE="$TMPDIR/$L.yml.tmp"
-    	# iterate through keys of list and append permalink
+    # get content of list
+        LIST=$($YQ ".$L" <<< "$SITEDATA")
+        [ "$LIST" = "null" ] && continue
+        TMPFILE="$TMPDIR/$L.yml.tmp"
+        # iterate through keys of list and append permalink
         while read -r KEY
         do
             echo "$KEY:" >> "$TMPFILE"

@@ -1,9 +1,9 @@
-Typ
-Name
-Sektor
-Hauptstadt
 Bewohner
-Rasse
-Wohnort
+Hauptstadt
 Kategorie
+Name
 Planet
+Rasse
+Sektor
+Typ
+Wohnort

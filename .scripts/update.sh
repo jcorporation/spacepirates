@@ -16,9 +16,10 @@ else
 fi
 
 # create data files from frontmatter
-if .scripts/create-data.sh
+if ! .scripts/create-data.sh
 then
-    cp "$DATADIR/"*.json "$ASSETSDIR/"
+    echo "Creating data failed"
+    exit 1
 fi
 
 #create index
@@ -27,6 +28,17 @@ then
     for F in index.json index_stompkeys.json data_synonyms.json
     do
         mv "$TMPDIR/$F" "$DATADIR/"
-        cp "$DATADIR/$F" "$ASSETSDIR/"
     done
 fi
+
+#validate and copy to assets folder
+for F in "$DATADIR/"*.json
+do
+    G=$(basename "$F")
+    if jq "." "$F" > "$F.tmp"
+    then
+        echo "Valid json: $G"
+        mv "$F.tmp" "$F"
+    fi
+    cp "$F" "$ASSETSDIR/$G"
+done

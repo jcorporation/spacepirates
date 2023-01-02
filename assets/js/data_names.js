@@ -165,6 +165,7 @@ tabellen["existingSektoren"] = [
   "Reich der Wagonen",
   "Samara",
   "Sektor A0",
+  "Sektor A4",
   "Sektor B0",
   "Sektor B4",
   "Sektor C0",

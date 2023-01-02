@@ -1,3 +1,4 @@
-Samnesin:Samnese
-Wagonin:Wagone
 Neuasiatin:Neuasiat
+Samnesin:Samnese
+Streifanierin:Streifanier
+Wagonin:Wagone
