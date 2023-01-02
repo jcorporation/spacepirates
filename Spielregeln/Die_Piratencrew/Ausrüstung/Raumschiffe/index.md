@@ -17,7 +17,7 @@ Wie das Raumschiff genau aussieht, bleibt natürlich den Spielern überlassen. D
 - **FTL-Antrieb:** Antrieb, der das Raumschiff auf Überlichtgeschwindigkeit beschleunigen kann. Die Zahl gibt die Maximalgeschwindigkeit in Lichtjahren pro Stunde an.
 - Je höher die **Wendigkeit**, desto einfacher kann der Pilot das Raumschiff steuern, daher wird der Wert als Bonus auf PILOT-Proben angewendet.
 - Die **Zuverlässigkeit** gibt an, wie robust das Raumschiff ist und wie leicht es sich reparieren lässt. Die Zuverlässigkeit kann auch auf einen negativen Wert sinken. Sie wird als Bonus auf TECH-Proben genutzt.
-- Der Wert **Personen** gibt an, wieviel Kabinen das Raumschiff bietet.
+- Der Wert **Personen** gibt an, wie viel Kabinen das Raumschiff bietet.
 - **Schadenspunkte:** Anzahl an Schadenspunkten, die das Raumschiff verkraften kann.
 
 {% capture include_body %}

@@ -36,7 +36,7 @@ Es gibt alle möglichen und unmöglichen Waffen. Die meisten geben keinen Bonusw
 - **Laserwaffen** gibt es in allen möglichen Ausführungen und auch in Pistolengröße. Die Farbe des Lasers hat nichts mehr mit der Stärke zu tun und hängt daher einzig vom Geschmack des Besitzers ab.
 - Die **Minilaserpistole** ist eine miniaturisierte Laserpistole im schicken Design, die in jede Hand- oder Jackentasche passt.
 - Der **Laserdegen** kombiniert einen Degen mit einer Laserpistole und sieht dementsprechend seltsam aus.
-- Das **Plasmagewehr** verschießt flüssiges Plasma, das brennbare Materialen entzündet und alles andere schmilzt.
+- Das **Plasmagewehr** verschießt flüssiges Plasma, das brennbare Materialien entzündet und alles andere schmilzt.
 - **Tachyonenpistolen** sind sehr effektive Waffen, da sie als einzige Waffen ihre Ladung schneller als das Licht abschießen.
 - **Negatronenwerfer** besitzen die Größe von Panzerfäusten und feuern Negatronen ab, die ihr Ziel neutralisieren und somit auflösen.
 - **Laser-Nunchakus** bestehen aus zwei stabförmigen Energiezellen, die mit einer Art Laserstrahl verbunden sind.
