@@ -69,14 +69,14 @@ Zum Hintergrund des Charakters gehören bei SpacePirates auch seine Macken. Sie 
 {% capture include_body %}
 Insbesondere bei OneShots oder Spielrunden auf Cons ist es zu empfehlen, die Macken auszuwürfeln, da dies flott erledigt ist. Sollte aber ein längeres Abenteuer oder sogar eine kleine Kampagne gespielt werden, sollte man sich Zeit lassen und die Macken individueller gestalten.
 
-Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben.
+Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben, aber übertreibe es dabei nicht.
 {% endcapture %}
 {% include hinweis.md title="Macken" body=include_body %}
 
 <table>
 <caption>Piratenmacken</caption>
 <thead>
-<tr><th>W30</th><th>Macke</th></tr>
+<tr><th>W40</th><th>Macke</th></tr>
 </thead>
 <tbody>
 <tr><td>1</td><td>extrem bürokratisch</td></tr>
@@ -109,5 +109,15 @@ Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben.
 <tr><td>28</td><td>extreme Stimmungsschwankungen</td></tr>
 <tr><td>29</td><td>extremer Macho oder extreme Feministin</td></tr>
 <tr><td>30</td><td>hoffnungsloser Optimist</td></tr>
+<tr><td>31</td><td>sehr modebewusst</td></tr>
+<tr><td>32</td><td>spielsüchtig</td></tr>
+<tr><td>33</td><td>findet immer einen Haken bei der Sache</td></tr>
+<tr><td>34</td><td>hat einen Putzfimmel</td></tr>
+<tr><td>35</td><td>besitzt zwei linke Hände</td></tr>
+<tr><td>36</td><td>extremer Theoretiker</td></tr>
+<tr><td>37</td><td>das machen wir mal kurz</td></tr>
+<tr><td>38</td><td>Extremsammler</td></tr>
+<tr><td>39</td><td>extrem sparsam</td></tr>
+<tr><td>40</td><td>früher war alles besser</td></tr>
 </tbody>
 </table>
