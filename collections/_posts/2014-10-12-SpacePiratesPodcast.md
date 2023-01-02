@@ -9,6 +9,4 @@ Ich war mal wieder Gast beim SundayMoaning Cast und habe das SpacePirates Abente
 
 Viel Spaß beim Reinhören!
 
-- zum [Podcast](http:/sundaymoaning.fracker.de/smc100-spacepirates-der-grose-fang/)
-
-
+- zum [Podcast](http://sundaymoaning.fracker.de/smc100-spacepirates-der-grose-fang/)

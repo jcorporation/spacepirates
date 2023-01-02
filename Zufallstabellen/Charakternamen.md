@@ -100,4 +100,4 @@ Für Menschen werden Vorname und Nachname einzeln ausgewürfelt. Für Aliennamen
 
 ***
 
-Die Namenslisten basieren teilweise auf Namenslisten aus der freien Enzyklopädie [Wikipedia](http:/De.wikipedia.org).
+Die Namenslisten basieren teilweise auf Namenslisten aus der freien Enzyklopädie [Wikipedia](http://de.wikipedia.org).
