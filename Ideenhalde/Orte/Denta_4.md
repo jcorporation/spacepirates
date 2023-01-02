@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Orte/Denta_4
+permalink: /Ideenhalde/Orte/Denta_4
 title: Denta 4
 ---
 

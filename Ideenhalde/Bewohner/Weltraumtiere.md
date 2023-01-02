@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Bewohner/Weltraumtiere
+permalink: /Ideenhalde/Bewohner/Weltraumtiere
 title: Weltraumtiere
 ---
 

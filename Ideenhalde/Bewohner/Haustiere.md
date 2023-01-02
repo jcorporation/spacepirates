@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Bewohner/Haustiere
+permalink: /Ideenhalde/Bewohner/Haustiere
 title: Haustiere
 ---
 

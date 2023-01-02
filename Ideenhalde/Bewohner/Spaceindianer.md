@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Bewohner/Spaceindianer
+permalink: /Ideenhalde/Bewohner/Spaceindianer
 title: SpaceIndianer
 ---
 

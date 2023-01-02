@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Bewohner/Aquarianer
+permalink: /Ideenhalde/Bewohner/Aquarianer
 title: Aquarianer
 ---
 
@@ -10,7 +10,7 @@ Die Heimatwelt der Aquariner ist Aquarius, ein Wasserplanet, auf dem es ist weit
 
 ## Bewohner
 
-- [Carrassius Auratus - verrückte Wissenschaftler-Goldfische]({{ site.baseurl }}/Wiki/Bewohner/Aquarianer_carrassiusauratus)
+- [Carrassius Auratus - verrückte Wissenschaftler-Goldfische]({{ site.baseurl }}/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus)
 - Fiese Krabben-Mafiosi
 - Brutale Schläger-Haie
 - Heimtückische Seepferde

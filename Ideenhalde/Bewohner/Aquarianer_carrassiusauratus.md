@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Bewohner/Aquarianer_carrassiusauratus
+permalink: /Ideenhalde/Bewohner/Aquarianer_carrassiusauratus
 title: Carrassius Auratus
 ---
 

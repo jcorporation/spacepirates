@@ -35,7 +35,7 @@ Der Spielleiter bereitet das Abenteuer vor, d.h. entweder er liest sich in ein f
 
 ## Die Regeln
 
-SpacePirates besitzt ein erzählerisches Regelwerk mit nur wenigen Charakterwerten und einer einheitlichen Konfliktlösung, die vom Handel, über eine Kneipenschlägerei bis hin zum Raumkampf angewendet wird. Um Konflikte aufzulösen wird gewürfelt, dabei hat jeder Würfel eine 50%ige Erfolgschance, das heißt, je mehr Würfel der Spieler wirft, umso mehr Erfolge kann er erreichen. Wieviel Würfel geworfen werden, hängt von der Kompetenz des Charakters und seiner Ausrüstung ab. Wieviel Erfolge benötigt werden, hängt von der gegnerischen Partei oder der Schwierigkeit der Handlung ab. Jeder Konflikt wird dabei nur mit einem Wurf jedes Beteiligten abgehandelt, bei wichtigen Konflikten werden die Ereignisse dann gemeinsam nacherzählt.
+SpacePirates besitzt ein erzählerisches Regelwerk mit nur wenigen Charakterwerten und einer einheitlichen Konfliktlösung, die vom Handel, über eine Kneipenschlägerei bis hin zum Raumkampf angewendet wird. Um Konflikte aufzulösen wird gewürfelt, dabei hat jeder Würfel eine 50%ige Erfolgschance, das heißt, je mehr Würfel der Spieler wirft, umso mehr Erfolge kann er erreichen. Wie viel Würfel geworfen werden, hängt von der Kompetenz des Charakters und seiner Ausrüstung ab. Wie viel Erfolge benötigt werden, hängt von der gegnerischen Partei oder der Schwierigkeit der Handlung ab. Jeder Konflikt wird dabei nur mit einem Wurf jedes Beteiligten abgehandelt, bei wichtigen Konflikten werden die Ereignisse dann gemeinsam nacherzählt.
 
 ## Dieses Buch
 

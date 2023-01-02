@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Bewohner/
+permalink: /Ideenhalde/Bewohner/
 title: Bewohner
 ---
 
@@ -10,15 +10,15 @@ Auf dieser Seite können zusätzliche Bewohner des SpacePirates Universums besch
 
 ## Tiere
 
-- [Haustiere]({{ site.baseurl }}/Wiki/Bewohner/Haustiere)
-- [Weltraumtiere]({{ site.baseurl }}/Wiki/Bewohner/Weltraumtiere)
+- [Haustiere]({{ site.baseurl }}/Ideenhalde/Bewohner/Haustiere)
+- [Weltraumtiere]({{ site.baseurl }}/Ideenhalde/Bewohner/Weltraumtiere)
 
 ## Intelligente Spezies
 
-- [Aquarianer]({{ site.baseurl }}/Wiki/Bewohner/Aquarianer)
-- [SpaceIndianer]({{ site.baseurl }}/Wiki/Bewohner/Spaceindianer)
+- [Aquarianer]({{ site.baseurl }}/Ideenhalde/Bewohner/Aquarianer)
+- [SpaceIndianer]({{ site.baseurl }}/Ideenhalde/Bewohner/Spaceindianer)
 - Hippie-Öko-Spezies
-- [Glos]({{ site.baseurl }}/Wiki/Bewohner/Glos)
+- [Glos]({{ site.baseurl }}/Ideenhalde/Bewohner/Glos)
 - Intelligente Pilze
 - Fische die in einem Goldfischglas schwimmen und einen Roboterkörper steuern
 - Delphine mit großen Meerschiffen

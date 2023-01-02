@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Bewohner/Glos
+permalink: /Ideenhalde/Bewohner/Glos
 title: Die Glos
 ---
 
