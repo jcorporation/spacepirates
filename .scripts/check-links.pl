@@ -46,10 +46,10 @@ while (<$fh>) {
         checklink($1, $line);
     }
     while (/image="([^"]+)"/g) {
-        checklink("{{\s*site.baseurl\s*}}/assets/images".$1, $line);
+        checklink("{{ site.baseurl }}/assets/images".$1, $line);
     }
     while (/link="([^"]+)"/g) {
-        checklink("{{\s*site.baseurl\s*}}".$1, $line);
+        checklink("{{ site.baseurl }}".$1, $line);
     }
 }
 close $fh;
