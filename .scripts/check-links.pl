@@ -10,7 +10,7 @@ sub checklink {
     if ($href =~ /^(http|mailto)/) {
         return;
     }
-    if ($href =~ /^\{\{ site\.baseurl \}\}\/(.*)$/) {
+    if ($href =~ /^\{\{\s*site\.baseurl\s*\}\}\/(.*)$/) {
         my $file = $1;
         if ($file =~ /\/$/) {
             $file .= "index";
@@ -46,10 +46,10 @@ while (<$fh>) {
         checklink($1, $line);
     }
     while (/image="([^"]+)"/g) {
-        checklink("{{ site.baseurl }}/assets/images".$1, $line);
+        checklink("{{\s*site.baseurl\s*}}/assets/images".$1, $line);
     }
     while (/link="([^"]+)"/g) {
-        checklink("{{ site.baseurl }}".$1, $line);
+        checklink("{{\s*site.baseurl\s*}}".$1, $line);
     }
 }
 close $fh;
