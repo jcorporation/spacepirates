@@ -23,7 +23,7 @@ sub checklink {
             $rc = 1;
         }
     }
-    elsif ($href =~ /^\{\{ site\.baseurl \}\}\{\{.*$/) {
+    elsif ($href =~ /^\{\{\s*site\.baseurl\s*\}\}\{\{.*$/) {
         #ok
     }
     else {
