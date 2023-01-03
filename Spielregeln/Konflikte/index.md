@@ -13,6 +13,8 @@ Bei SpacePirates gibt es zwei Möglichkeiten Konflikte zu lösen. Der Spielleite
 
 Konfliktszenen sollten für dramatische und wichtige Szenen im Abenteuer genutzt werden und einfache Konflikte für sonstige Situationen mit unklarem Ausgang.
 
+- [Konsequenzen]({{ site.baseurl }}/Spielregeln/Konflikte/Konsequenzen)
+
 {% capture include_body %}
 An einem Konflikt können nur Charaktere teilnehmen, deren Zähigkeit des eingesetzten Profils mindestens 1 beträgt.
 {% endcapture %}
