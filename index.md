@@ -85,7 +85,7 @@ SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedre
     <div class="col">
         <div class="card bg-sterne text-light clickable">
             <div class="card-header">Ideenhalde</div>
-            <div class="card-body text-shadow">
+            <div class="card-body bg-ideenhalde text-shadow">
                 <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/Ideenhalde/">Ideen für neue Inhalte</a></p>
             </div>
         </div>
