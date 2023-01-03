@@ -21,7 +21,7 @@ Aliens erhalten nach der Verteilung noch einen zusätzlichen Würfel im ihrer Ra
 | Samnese | TECH |
 | Spaceamazone | SÖLDNER |
 | Spacepear | TECH |
-| SpaceWorm | >HÄNDLER |
+| SpaceWorm | HÄNDLER |
 | SpaceYeti | HÄNDLER |
 | Streifanier | HÄNDLER |
 | Trull | HÄNDLER |
