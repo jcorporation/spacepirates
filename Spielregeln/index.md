@@ -37,8 +37,11 @@ Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um
 - [Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/)
   - [Konfliktszenen]({{ site.baseurl }}/Spielregeln/Konflikte/Konfliktszenen)
   - [Einfache Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/Einfache_Konflikte)
-- [Raumflüge und -kämpfe]({{ site.baseurl }}/Spielregeln/Raumflüge_und_-kämpfe)
-- [Wartung von Raumschiffen]({{ site.baseurl }}/Spielregeln/Wartung_von_Raumschiffen)
+- [Raumschiffe]({{ site.baseurl }}/Spielregeln/Raumschiffe/)
+  - [Macken]({{ site.baseurl }}/Spielregeln/Raumschiffe/Macken)
+  - [Raumflüge]({{ site.baseurl }}/Spielregeln/Raumschiffe/Raumflüge)
+  - [Raumkämpfe]({{ site.baseurl }}/Spielregeln/Raumschiffe/Raumkämpfe)
+  - [Wartung]({{ site.baseurl }}/Spielregeln/Raumschiffe/Wartung)
 {% endcapture %}
 
 {% capture include_col3 %}

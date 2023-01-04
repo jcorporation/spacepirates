@@ -110,7 +110,7 @@ Passende Ausrüstungsgegenstände um das SÖLDNER-Profil zu regenerieren sind z.
 
 ### Raumflüge und -kämpfe
 
-Raumflüge liegen meist zwischen zwei Szenen, dauern lang und sind meist recht langweilig, der Weltraum ist eben zum größten Teil leer. Aber natürlich kann auch während des Flugs auf dem Schiff eine Szene spielen. Falls aber nichts Interessantes passiert, sollte einfach zur Ankunft gesprungen werden. Wie [Raumflüge und -kämpfe]({{ site.baseurl }}/Spielregeln/Raumflüge_und_-kämpfe) und [Schäden und Macken von Raumschiffen])({{ site.baseurl }}/Spielregeln/Wartung_von_Raumschiffen) abgehandelt werden, wird nach den [Konfliktregeln]({{ site.baseurl }}/Spielregeln/Konflikte/) erläutert.
+Raumflüge liegen meist zwischen zwei Szenen, dauern lang und sind meist recht langweilig, der Weltraum ist eben zum größten Teil leer. Aber natürlich kann auch während des Flugs auf dem Schiff eine Szene spielen. Falls aber nichts Interessantes passiert, sollte einfach zur Ankunft gesprungen werden. Wie [Raumflüge und -kämpfe]({{ site.baseurl }}/Spielregeln/Raumschiffe/) und [Schäden]({{ site.baseurl }}/Spielregeln/Raumschiffe/Wartung) und [Macken]({{ site.baseurl }}/Spielregeln/Raumschiffe/Macken) von Raumschiffen abgehandelt werden, wird nach den [Konfliktregeln]({{ site.baseurl }}/Spielregeln/Konflikte/) erläutert.
 
 ## Szenenende
 

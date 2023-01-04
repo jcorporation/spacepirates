@@ -1,69 +1,10 @@
 ---
 layout: page
-permalink: /Spielregeln/Raumflüge_und_-kämpfe
-title: Raumflüge und -kämpfe
+permalink: /Spielregeln/Raumschiffe/Raumkämpfe
+title: Raumfkämpfe
 ---
 
-# Raumflüge und -kämpfe
-
-{% capture include_body %}
-Der Pilot drückt den Knopf, der den FTL-Antrieb in Gang setzt. Es macht Schwupp, Ratter, Ratter und das Piratenschiff befindet sich immer noch an Ort und Stelle. Es wäre ja auch kein Piratenschiff, wenn es ohne kräftigen Tritt gegen das Kühlaggregat den FTL starten würde …
-{% endcapture %}
-{% include anmerkung.md body=include_body %}
-
-## Raumflüge
-
-Raumflüge laufen im Normalfall unspektakulär ab, man rast einfach so durchs Weltall. Aber auch bei Raumflügen kann etwas am Schiff kaputtgehen. Bei jedem Start und Stopp eines Raumflugs ist ein Mackencheck nötig. Raumschiffe mit FTL-Antrieb erreichen eine Geschwindigkeit von bis zu zwei Lichtjahren in der Stunde.
-
-- **Maximalgeschwindigkeit:** 2 Lichtjahre / Stunde
-
-Die Vorbereitung zum FTL-Start dauert eine Runde, der eigentliche Start eine weitere.
-
-### Pilotenproben
-
-Für normale Manöver muss der Pilot natürlich keine Probe ablegen, das Andocken auf einer Raumstation oder einer normalen Planetenlandung gelingt jedem Piloten, der mindestens ein PILOT-Profil von 3 besitzt, automatisch. Nur bei komplizierteren Manövern, wie dem Flug durch einen Asteroidengürtel, muss eine Probe abgelegt werden.
-
-<table>
-<thead>
-<tr><th>Manöver</th><th>Benötigte Erfolge</th></tr>
-</thead>
-<tbody>
-<tr><td>Flug durch einen Nebel</td><td>2</td></tr>
-<tr><td>Flug durch Asteroidengürtel</td><td>3</td></tr>
-<tr><td>Flug durch ein stabiles Wurmloch</td><td>5</td></tr>
-<tr><td>Flug durch ein instabiles Wurmloch</td><td>7</td></tr>
-</tbody>
-</table>
-
-#### Schaden bei misslungenen Proben
-
-Wenn eine Pilotenprobe bei Andock-, Abdock- oder Landemanövern misslingt, verursacht dies Schaden am Raumschiff und keinen Zähigkeitsverlust beim Piloten. Pro fehlenden Erfolg nimmt das Schiff einen Schadenspunkt, der nicht von Schilden aufgefangen wird.
-
-{% capture include_body %}
-Das Piratenschiff startet von Two-Eyed-Jack zu einem Raumflug. Da diese Raumstation inmitten eines Asteroidengürtels liegt, ist eine Probe auf PILOT notwendig. Der Spielleiter setzt die Schwierigkeit auf 3 Erfolge an. Stardusts Spieler würfelt mit seinem PILOT-Profil (5) und bekommt die Wendigkeit des Schiffs (1) als Bonus: (1 **2** 3 5 **8** 9) = 2 Erfolge. Somit nimmt das Piratenschiff 1 Punkt Schaden.
-{% endcapture %}
-{% include beispiel.md title="Beispiel zum Raumflug" body=include_body %}
-
-### Mackencheck
-
-Das Heimtückische an Macken ist es, dass sie nicht immer auftreten, sondern nur ab und an. Jedes Mal, wenn eine PILOT-Probe fällig ist, würfelt der Kapitän vorher mit einem W10 auf die Mackenliste des Raumschiffs. Steht in der Liste auf dieser Position eine Macke, tritt deren Wirkung sofort ein, andernfalls geschieht einfach nichts. Falls bereits eine andere Macke aktiv ist, ist nun eine weitere aktiv. Falls eine Macke erwürfelt wurde, die schon aktiv ist, verschlimmert sich ihre Auswirkung (Mali werden verdoppelt).
-
-#### Temporäre Behebung von Macken
-
-Durch normale, dreistündige Wartung (TECH-Probe mit mindestens 2 Erfolgen) kann die Funktionsfähigkeit des Schiffes wiederhergestellt werden, die Macke bleibt aber. Wenn keine Wartung durchgeführt wird, hilft es auch, einfach gegen das richtige Teil des Schiffs zu treten oder sonstwie zu improvisieren und eine Probe auf TECH mit 3 Erfolgen zu schaffen. Dies kann aber nur einmal pro Macke und Tech versucht werden.
-
-- **Wartungsprobe:** TECH + Zuverlässigkeit &ge; 2 (dauert drei Stunden)
-- **Treten / Improvisieren:** TECH + Zuverlässigkeit &ge; 3
-
-{% capture include_body %}
-Das Piratenschiff startet zu einem Raumflug durch einen Nebel, dafür ist eine PILOT-Probe notwendig und Kathy würfelt deshalb auf die Mackentabelle. Sie würfelt eine 3 und der FTL macht nur Wupp und das Raumschiff rührt sich nicht vom Fleck. Der Spieler des Piloten braucht nun natürlich auch keine Probe mehr ablegen, beschreibt aber wie Stardust zuerst nur verdutzt auf die Konsolen schaut und danach darauf einprügelt und wild nach Drake, dem Tech brüllt.
-
-Die Piratencrew hat es eilig wegzukommen, also beschließt Drake zu improvisieren. Er nimmt den Korken aus seiner Rumflasche, besprüht in mit seinem patentierten Super-Versiegel-Spray-Extrem&trade; und stopft ihn in das unbedeutende Loch in einer Neutritiumleitung. Sein Spieler würfelt (**2** **4** 5 **6** 5 **0**) = 4 Erfolge und Drake schafft es somit das Leck abzudichten und der Pilot darf nun seine Probe ablegen.
-{% endcapture %}
-{% include beispiel.md title="Beispiel zu Macken" body=include_body %}
-
-***
-## Raumkämpfe
+# Raumkämpfe
 
 Bei Raumkämpfen wird die Gruppe unterteilt, es gibt genau einen Piloten, beliebig viele Schützen und beliebig viele Techs.
 
@@ -78,11 +19,11 @@ Raumkämpfe mit FTL-Geschwindigkeiten sind nur möglich, wenn das Schiff mit FTL
 {% endcapture %}
 {% include beispiel.md title="FTL-Raumkämpfe" body=include_body %}
 
-### Schilde
+## Schilde
 
 Schilde fangen Schaden ab. Wenn ein Raumschiff getroffen wird, werden die Punkte zuerst vom Schild abgezogen und erst dann von den Schadenspunkten. Wenn ein Schild keine Punkte mehr hat, bricht es zusammen. Es bietet dem Schiff keinerlei Schutz mehr, weshalb dieses jetzt auch geentert werden kann. Schilde regenerieren nach dem Kampf automatisch um 2 Punkte pro Stunde.
 
-### Schäden
+## Schäden
 
 Jeder Treffer verursacht Schadenspunkte in Höhe der eingesetzten Erfolge multipliziert mit dem Schadensmodifikator (SM) der Waffe.
 
@@ -107,9 +48,9 @@ Die Piraten um Chen überfallen ein altes Frachtschiff, das erstaunlich wehrhaft
 
 Da das Piratenschiff Macken besitzt ist vor dem eigentlichen Kampf ein Mackencheck nötig. Kathy würfelt auf die Mackentabelle des Schiffs, erwürfelt eine 7 und zum Glück der Piratencrew setzt keine Macke ein.
 
-#### Siegreiche Partei ermitteln
+### Siegreiche Partei ermitteln
 
-##### Die Spieler der Piratencrew würfeln:
+#### Die Spieler der Piratencrew würfeln:
 
 - Stardust ist der Pilot und würfelt also mit seinem PILOT Profil (5) plus der Wendigkeit des Raumschiffs (1): (1 **2** 3 **6** **8** **0**) = 4 Erfolge
 - Xenur Barslan ist einer der Schützen und würfelt daher mit seinem SÖLDNER Profil (5) plus dem Bonus einer der Schiffswaffen, er wählt die Plasmakanone (2): (**2** 3 **4** 7 **8** 9 **0**) = 4 Erfolge
@@ -118,7 +59,7 @@ Da das Piratenschiff Macken besitzt ist vor dem eigentlichen Kampf ein Mackenche
 
 Die Piraten haben somit in Summe 13 Erfolge geschafft.
 
-##### Der Spielleiter würfelt für die Crew des Frachtschiffs:
+#### Der Spielleiter würfelt für die Crew des Frachtschiffs:
 
 - Der Pilot des Frachtschiffs (PILOT 5, Wendigkeit -1) würfelt (1 **2** **6** 9) = 2 Erfolge
 - Der Bordschütze (SÖLDNER 4) feuert mit seinem Torpedo (1) und würfelt (**2** 3 **4** 7 9) = 2 Erfolge
@@ -128,9 +69,11 @@ Die Crew des Frachtschiffs kommt also auf 8 Erfolge.
 
 Somit ist klar, dass die Piraten diesen Konflikt gewonnen haben und den Frachter erfolgreich entern können (Siegreiche Partei ermitteln).
 
-#### Was genau ist geschehen?
+### Was genau ist geschehen?
 
 Stardust beginnt, da er näher beim Spielleiter sitzt als Xenur und beide die meisten Würfel (8) geworfen haben.
+
+{% include todo.md title="Konfliktreihenfolge anpassen" %}
 
 ##### Runde 1:
 

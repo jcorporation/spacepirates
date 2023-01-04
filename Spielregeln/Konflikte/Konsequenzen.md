@@ -23,24 +23,26 @@ Es gibt bei SpacePirates keine Regel, die den Tod eines Charakters herbeiführt.
 {% endcapture %}
 {% include hinweis.md title="Tod eines Charakters" body=include_body %}
 
+{% include todo.md title="Konsequenz Beispiele" %}
+
 {% capture include_body %}
-##### Körperliche Konsequenzen
-
-- dauerhafte Verletzung
-- entstellende Narben
-
-##### Geistige Konsequenzen
-
-- eine Macke, z. B. extreme Nervosität
-- eine Phobie, z. B. Platzangst
-
-##### Soziale Konsequenzen
+##### HÄNDLER Konsequenzen
 
 - der Charakter hat einen neuen Feind
 - das Ansehen des Charakters leidet
 
-##### Sonstige Konsequenzen
+##### PILOT Konsequenzen
 
-- der Charakter verliert einen wichtigen Gegenstand
+- TODO
+- TODO
+
+##### SÖLDNER Konsequenzen
+
+- dauerhafte Verletzung
+- entstellende Narben
+
+##### TECH Konsequenzen
+
+- TODO
 {% endcapture %}
 {% include beispiel.md title="Beispiele für Konsequenzen" body=include_body %}

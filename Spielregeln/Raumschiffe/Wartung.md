@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Wartung_von_Raumschiffen
+permalink: /Spielregeln/Raumschiffe/Wartung
 title: Wartung von Raumschiffen
 ---
 

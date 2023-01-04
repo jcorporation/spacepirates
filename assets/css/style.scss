@@ -24,10 +24,15 @@ a.text-light:hover {
 }
 
 div.card,
+.alert,
 ol,
 ul,
 p {
   max-width: 50rem;
+}
+
+.alert > p {
+  margin-bottom: 0;
 }
 
 .card-svg {
