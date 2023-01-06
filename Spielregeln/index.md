@@ -13,6 +13,7 @@ Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um
 - [Vor dem Spiel]({{ site.baseurl }}/Spielregeln/Vor_dem_Spiel)
 
 {% capture include_col1 %}
+
 ## Die Piratencrew
 
 - [Die Charaktere]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Die_Charaktere)
@@ -27,6 +28,7 @@ Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um
 {% endcapture %}
 
 {% capture include_col2 %}
+
 ## Abenteuer erleben
 
 - [Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/)
@@ -45,6 +47,7 @@ Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um
 {% endcapture %}
 
 {% capture include_col3 %}
+
 ## Spielleiter
 
 - [Abenteuer vorbereiten]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_vorbereiten)
