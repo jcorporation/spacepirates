@@ -8,17 +8,12 @@ title: Wartung von Raumschiffen
 
 Pro Punkt Schaden, den das Raumschiff erlitten hat, muss ein Tech es eine Stunde warten. Für die Wartung ist eine TECH-Probe erforderlich. Zur Wartung muss das Schiff irgendwo gelandet sein. Die Schwierigkeit der Probe kann von der unteren Tabelle abgelesen werden.
 
-<table>
-<thead>
-<tr><th>Erlittene Schadenspunkte</th><th>Benötigte Erfolge</th></tr>
-</thead>
-<tbody>
-<tr><td>bis zu &frac14; der Gesamtschadenspunkte</td><td>2</td></tr>
-<tr><td>bis zu &frac12; der Gesamtschadenspunkte</td><td>3</td></tr>
-<tr><td>bis zu &frac34; der Gesamtschadenspunkte</td><td>5</td></tr>
-<tr><td>mehr als &frac34; der Gesamtschadenspunkte</td><td>7</td></tr>
-</tbody>
-</table>
+| Erlittene Schadenspunkte | Benötigte Erfolge |
+| ------------------------ | :---------------: |
+| bis zu &frac14; der Gesamtschadenspunkte | 2 |
+| bis zu &frac12; der Gesamtschadenspunkte | 3 |
+| bis zu &frac34; der Gesamtschadenspunkte | 5 |
+| mehr als &frac34; der Gesamtschadenspunkte | 7 |
 
 - **Wartungsprobe:** TECH + Zuverlässigkeit &ge; Schwierigkeit
 

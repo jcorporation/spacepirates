@@ -16,17 +16,12 @@ Die Vorbereitung zum FTL-Start dauert eine Runde, der eigentliche Start eine wei
 
 Für normale Manöver muss der Pilot natürlich keine Probe ablegen, das Andocken auf einer Raumstation oder einer normalen Planetenlandung gelingt jedem Piloten, der mindestens ein PILOT-Profil von 3 besitzt, automatisch. Nur bei komplizierteren Manövern, wie dem Flug durch einen Asteroidengürtel, muss eine Probe abgelegt werden.
 
-<table>
-<thead>
-<tr><th>Manöver</th><th>Benötigte Erfolge</th></tr>
-</thead>
-<tbody>
-<tr><td>Flug durch einen Nebel</td><td>2</td></tr>
-<tr><td>Flug durch Asteroidengürtel</td><td>3</td></tr>
-<tr><td>Flug durch ein stabiles Wurmloch</td><td>5</td></tr>
-<tr><td>Flug durch ein instabiles Wurmloch</td><td>7</td></tr>
-</tbody>
-</table>
+| Manöver | Benötigte Erfolge |
+| ------- | :---------------: |
+| Flug durch einen Nebel | 2 |
+| Flug durch Asteroidengürtel | 3 |
+| Flug durch ein stabiles Wurmloch | 5 |
+| Flug durch ein instabiles Wurmloch | 7 |
 
 ### Schaden bei misslungenen Proben
 

@@ -29,19 +29,14 @@ Jeder Treffer verursacht Schadenspunkte in Höhe der eingesetzten Erfolge multip
 
 Wenn alle Schadenspunkte des Raumschiffs verbraucht sind, bricht es auseinander, explodiert, etc. Um die Auswirkung zu bestimmen, wird auf folgende Tabelle gewürfelt.
 
-<table>
-<thead>
-<tr><th>W6</th><th>Auswirkung</th></tr>
-</thead>
-<tbody>
-<tr><td>1</td><td>Der Maschinenraum brennt lichterloh.</td></tr>
-<tr><td>2</td><td>Das Schiff ist leckgeschlagen, noch 1W20 Minuten Sauerstoff.</td></tr>
-<tr><td>3</td><td>Das Schiff bricht in 1W20 Minuten entzwei.</td></tr>
-<tr><td>4</td><td>Das Schiff explodiert in 1W20 Minuten.</td></tr>
-<tr><td>5</td><td>Der Neutritiumreaktor explodiert in 1W20 Minuten.</td></tr>
-<tr><td>6</td><td>Die Lebenserhaltung fällt aus.</td></tr>
-</tbody>
-</table>
+| W6 | Auswirkung |
+| -- | ---------- |
+| 1 | Der Maschinenraum brennt lichterloh. |
+| 2 | Das Schiff ist leckgeschlagen, noch 1W20 Minuten Sauerstoff. |
+| 3 | Das Schiff bricht in 1W20 Minuten entzwei. |
+| 4 | Das Schiff explodiert in 1W20 Minuten. |
+| 5 | Der Neutritiumreaktor explodiert in 1W20 Minuten. |
+| 6 | Die Lebenserhaltung fällt aus. |
 
 {% capture include_body %}
 Die Piraten um Chen überfallen ein altes Frachtschiff, das erstaunlich wehrhaft ist (Es gibt zwei Parteien in diesem Konflikt). Das Frachtschiff ist mit Torpedos ausgestattet und besitzt einen Schildwert von 5 Punkten. Die Piraten wollen das Raumschiff entern, der Frachter will entkommen (Ziele definieren).
@@ -50,7 +45,7 @@ Da das Piratenschiff Macken besitzt ist vor dem eigentlichen Kampf ein Mackenche
 
 ### Siegreiche Partei ermitteln
 
-#### Die Spieler der Piratencrew würfeln:
+#### Die Spieler der Piratencrew würfeln
 
 - Stardust ist der Pilot und würfelt also mit seinem PILOT Profil (5) plus der Wendigkeit des Raumschiffs (1): (1 **2** 3 **6** **8** **0**) = 4 Erfolge
 - Xenur Barslan ist einer der Schützen und würfelt daher mit seinem SÖLDNER Profil (5) plus dem Bonus einer der Schiffswaffen, er wählt die Plasmakanone (2): (**2** 3 **4** 7 **8** 9 **0**) = 4 Erfolge
@@ -59,7 +54,7 @@ Da das Piratenschiff Macken besitzt ist vor dem eigentlichen Kampf ein Mackenche
 
 Die Piraten haben somit in Summe 13 Erfolge geschafft.
 
-#### Der Spielleiter würfelt für die Crew des Frachtschiffs:
+#### Der Spielleiter würfelt für die Crew des Frachtschiffs
 
 - Der Pilot des Frachtschiffs (PILOT 5, Wendigkeit -1) würfelt (1 **2** **6** 9) = 2 Erfolge
 - Der Bordschütze (SÖLDNER 4) feuert mit seinem Torpedo (1) und würfelt (**2** 3 **4** 7 9) = 2 Erfolge
@@ -75,7 +70,7 @@ Stardust beginnt, da er näher beim Spielleiter sitzt als Xenur und beide die me
 
 {% include todo.md title="Konfliktreihenfolge anpassen" %}
 
-##### Runde 1:
+#### Runde 1
 
 - **Stardust – 1 Erfolg:** Er manövriert das Piratenschiff auf einen Abfangkurs, so dass das Frachtschiff nur Richtung Asteroidengürtel zurückweichen kann.
 - **Xenur – 2 Erfolge:** Er feuert mit seiner Plasmakanone auf den Frachter und die Schilde brechen zusammen. Der Schadensmodifikator der Plasmakanone beträgt 2, daher sinkt der Schildwert um 4 Punkte.
@@ -85,7 +80,7 @@ Stardust beginnt, da er näher beim Spielleiter sitzt als Xenur und beide die me
 - **Chen – 1 Misserfolg:** Sie feuert mit der Laserkanone, aber genau in dem Moment schlägt das Torpedo ein und sie schießt daher daneben.
 - **Drake – 2 Misserfolge:** Er hetzt in den Maschinenraum und stolpert ganz blöd über einen seiner Rumkisten und deaktiviert dadurch die Schilde.
 
-##### Runde 2:
+#### Runde 2
 
 - **Stardust – 1 Misserfolg:** Er verschaltet sich grandios und würgt den Neutritiumreaktor ab und kracht fast rückwärts in den Asteroidengürtel.
 - **Xenur – 1 Misserfolg:** Er feuert wieder mit der Plasmakanone auf den Frachter. Der Schuss geht wegen dem Ruckler von Stardust daneben und zertrümmert einen Asteroiden.
@@ -95,7 +90,7 @@ Stardust beginnt, da er näher beim Spielleiter sitzt als Xenur und beide die me
 - **Chen – 2 Erfolge:** Der erste Schuss macht 1 Schadenspunkt auf die Schilde, deren Schildwert auf 0 sinkt und somit für den Kampf unbrauchbar sind, der zweite Schuss trifft den FTL-Antrieb und er explodiert eindrucksvoll. Der Frachter nimmt einen Schadenspunkt.
 - **Drake – 2 Erfolge:** Er schaltet gerade noch rechtzeitig die Schilde wieder an, damit die Explosion keinen Schaden am Piratenschiff anrichtet. Zudem kann er gerade noch den Neutritiumreaktor stabilisieren.
 
-##### Runde 3:
+#### Runde 3
 
 - **Stardust – 1 Erfolg, 1 Misserfolg:** Ihn irritieren die Asteroidentrümmer kann ihnen gerade noch so ausweichen und das Piratenschiff auf Kurs fürs Entern bringen.
 - **Xenur – 1 Erfolg, 1 Misserfolg:** Er feuert weiter auf den Frachter, kann die Bordwaffe ausschalten, aber auch der Frachtraum des Frachters brennt jetzt lichterloh. Der Frachter nimmt 2 Schadenspunkte.
@@ -105,7 +100,7 @@ Stardust beginnt, da er näher beim Spielleiter sitzt als Xenur und beide die me
 - **Chen – 1 Misserfolg:** Sie ist geblendet von der Explosion und daher geht ihr Schuss daneben.
 - **Drake setzt diese Runde aus**.
 
-##### Runde 4:
+#### Runde 4
 
 - **Stardust – 2 Erfolge:** Er dockt das Piratenschiff mittels der Enterschleuse an den Frachter an, entert ihn als erster und kann den Tech ausschalten.
 - **Xenur – 1 Erfolg, 1 Misserfolg:** Er entert als zweiter den Frachter, kann den Bordschützen ausschalten, aber steht vor einer versiegelten Brücke.
