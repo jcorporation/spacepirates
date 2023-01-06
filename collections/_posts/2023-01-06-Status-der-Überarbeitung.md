@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die Zeit vergeht"
+title: "Status der Überarbeitung"
 tag: SpacePirates
 permalink: /Aktuelles/2023-01-06-Status-der-Überarbeitung
 ---
