@@ -6,11 +6,19 @@ title: Was wird alles zum Spielen benötigt?
 
 # Was wird alles zum Spielen benötigt?
 
-- 3–4 Stunden Zeit und ein ruhiger Ort
+Für SpacePirates wird nicht vieles und auch nichts außergewöhnliches benötigt. Das komplette Material kann kostenlos heruntergeladen werden und Würfel sollten sich genügend finden lassen.
+
+- 3–4 Stunden Zeit und ein ruhiger Ort mit bequemen Stühlen und einem Tisch
 - Ein Spielleiter und mindestens drei Spieler (Pilot, Tech, Söldner)
 - Dieses Regelwerk, am besten in gedruckter Form
 - Ein Raumschiffbogen und für jeden Charakter einen Charakterbogen
 - Eine [Sternenkarte]({{ site.baseurl }}/Weltraum/Sternenkarte/)
 - Zehn gleiche Würfel mit gerader Seitenzahl pro Spieler
-- Einen 6-, einen 10- und einen 20-seitigen Würfel für diverse Tabellen
+- Jeweils einen 4-, 6-, 8-, 10-, 12- und 20-seitigen Würfel für diverse Tabellen
+- Spielsteine zum Zählen der Piratenpunkte
 - Ein paar Schmierzettel
+
+{% capture include_body %}
+Falls wirklich nicht genügend Würfel aufzutreiben sind, können auch Münzen verwendet werden. Dabei zählt Kopf als gerade und somit als Erfolg.
+{% endcapture %}
+{% include hinweis.md title="Würfel" body=include_body %}

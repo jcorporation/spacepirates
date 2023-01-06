@@ -16,7 +16,9 @@ Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um
 
 ## Die Piratencrew
 
-- [Die Charaktere]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Die_Charaktere)
+- [Übersicht der Charaktererschaffung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Übersicht)
+- [Die Charaktere]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charaktere)
+- [Hintergrund]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Hintergrund)
 - [Charakterwerte]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charakterwerte)
 - [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/)
   - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen)

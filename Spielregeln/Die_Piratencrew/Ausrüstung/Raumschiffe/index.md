@@ -12,7 +12,7 @@ Wie das Raumschiff genau aussieht, bleibt natürlich den Spielern überlassen. D
 - &minus;1 auf Zuverlässigkeit
 - 2 gebrauchte Teile: +1 Macke
 
-### Begriffsklärung
+## Begriffsklärung
 
 - **FTL-Antrieb:** Antrieb, der das Raumschiff auf Überlichtgeschwindigkeit beschleunigen kann. Die Zahl gibt die Maximalgeschwindigkeit in Lichtjahren pro Stunde an.
 - Je höher die **Wendigkeit**, desto einfacher kann der Pilot das Raumschiff steuern, daher wird der Wert als Bonus auf PILOT-Proben angewendet.
@@ -31,7 +31,7 @@ Das Raumschiff sollte zumindest mit folgenden Dingen ausgestattet sein:
 {% endcapture %}
 {% include hinweis.md title="Tipps zum Kauf eines Raumschiffs" body=include_body %}
 
-## Raumschiffe
+## Verfügbare Raumschiffe
 
 <table>
 <thead>

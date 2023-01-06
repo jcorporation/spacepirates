@@ -6,88 +6,73 @@ title: Waffen
 
 # Waffen
 
-Es gibt alle möglichen und unmöglichen Waffen. Die meisten geben keinen Bonuswürfel, da sie oft recht billig gefertigt und etwas zu bunt lackiert sind. Je höher der Bonus, umso besser ist die Waffe. In einem Kampf kann immer nur eine Waffe genutzt werden. Natürlich können Fernkampfwaffen auch im Nahkampf als Prügel benutzt werden, geben dann aber keinen Bonus.
+Es gibt alle möglichen und unmöglichen Waffen. Die billigen geben keinen Bonuswürfel, da sie oft recht einfach gefertigt und nur etwas zu bunt lackiert sind. Je höher der Bonus, umso besser ist die Waffe. In einem Kampf kann immer nur eine Waffe genutzt werden. Natürlich können Fernkampfwaffen auch im Nahkampf als Prügel benutzt werden, geben dann aber keinen Bonus.
 
 ## Fernkampfwaffen
 
-<table>
-<thead>
-<tr><th>Waffe</th><th>Bonus</th><th>Kosten</th></tr>
-</thead>
-<tbody>
-<tr><td>Shuriken</td><td>P+0</td><td>50</td></tr>
-<tr><td>Revolver</td><td>P+0</td><td>200</td></tr>
-<tr><td>Gewehr</td><td>P+0</td><td>400</td></tr>
-<tr><td>Ionisierter Wurfdolch</td><td>P+1</td><td>400</td></tr>
-<tr><td>Rauchbomben</td><td>P+0</td><td>600</td></tr>
-<tr><td>Laserpistole</td><td>P+0</td><td>800</td></tr>
-<tr><td>Minilaserpistole</td><td>P+0</td><td>1.200</td></tr>
-<tr><td>Laserbogen</td><td>P+1</td><td>1.200</td></tr>
-<tr><td>Lasergewehr</td><td>P+1</td><td>1.200</td></tr>
-<tr><td>Laserdegen</td><td>P+1</td><td>1.500</td></tr>
-<tr><td>Shurikenwerfer</td><td>P+1</td><td>1.500</td></tr>
-<tr><td>Plasmagewehr</td><td>P+2</td><td>2.000</td></tr>
-<tr><td>Tachyonenpistole</td><td>P+2</td><td>4.000</td></tr>
-<tr><td>Negatronenwerfer</td><td>P+3</td><td>5.000</td></tr>
-</tbody>
-</table>
+| Waffe | Bonus | Kosten |
+| ----- | ----- | -----: |
+| Shuriken | P+0 | 50 |
+| Revolver | P+0 | 200 |
+| Gewehr | P+0 | 400 |
+| Rauchbomben | P+0 | 600 |
+| Laserpistole | P+0 | 800 |
+| Minilaserpistole | P+0 | 1.200 |
+| Ionisierter Wurfdolch | P+1 | 400 |
+| Laserbogen | P+1 | 1.200 |
+| Lasergewehr | P+1 | 1.200 |
+| Shurikenwerfer | P+1 | 1.500 |
+| Plasmagewehr | P+2 | 2.000 |
+| Laserdegen | P+1 | 2.500 |
+| Tachyonenpistole | P+2 | 4.000 |
+| Negatronenwerfer | P+3 | 5.000 |
 
+- **Shuriken** sind Wurfsterne, die bevorzugt von Ninjas eingesetzt werden.
 - **Revolver** und **Gewehre** haben sich nicht viel weiterentwickelt und sind solide wie eh und je.
+- **Rauchbomben** nebeln alles in einem Umkreis von 10 m um die Explosion ein, weshalb alle Proben in diesem Gebiet einen Malus von &minus;1 erleiden.
 - **Laserwaffen** gibt es in allen möglichen Ausführungen und auch in Pistolengröße. Die Farbe des Lasers hat nichts mehr mit der Stärke zu tun und hängt daher einzig vom Geschmack des Besitzers ab.
 - Die **Minilaserpistole** ist eine miniaturisierte Laserpistole im schicken Design, die in jede Hand- oder Jackentasche passt.
 - Der **Laserdegen** kombiniert einen Degen mit einer Laserpistole und sieht dementsprechend seltsam aus.
+- **Shurikenwerfer** schleudern zielgenau Shurikens aus ihrem Magazin.
 - Das **Plasmagewehr** verschießt flüssiges Plasma, das brennbare Materialien entzündet und alles andere schmilzt.
 - **Tachyonenpistolen** sind sehr effektive Waffen, da sie als einzige Waffen ihre Ladung schneller als das Licht abschießen.
 - **Negatronenwerfer** besitzen die Größe von Panzerfäusten und feuern Negatronen ab, die ihr Ziel neutralisieren und somit auflösen.
-- **Laser-Nunchakus** bestehen aus zwei stabförmigen Energiezellen, die mit einer Art Laserstrahl verbunden sind.
-- **Rauchbomben** nebeln alles in einem Umkreis von 10 m um die Explosion ein, weshalb alle Proben in diesem Gebiet einen Malus von &minus;1 erleiden.
-- **Shurikenwerfer** schleudern zielgenau Shurikens aus ihrem Magazin.
 
 ## Nahkampfwaffen
 
-<table>
-<thead>
-<tr><th>Nahkampfwaffe</th><th>Bonus</th><th>Kosten</th></tr>
-</thead>
-<tbody>
-<tr><td>Entermesser</td><td>P+0</td><td>50</td></tr>
-<tr><td>Krummsäbel</td><td>P+0</td><td>200</td></tr>
-<tr><td>Ninjaschwert</td><td>P+0</td><td>200</td></tr>
-<tr><td>Cyberholzfuß</td><td>P+1</td><td>300</td></tr>
-<tr><td>Hakenhand</td><td>P+1</td><td>300</td></tr>
-<tr><td>Laser-Nunchaku</td><td>P+1</td><td>450</td></tr>
-<tr><td>Laserschwert</td><td>P+1</td><td>600</td></tr>
-<tr><td>Vibrosäbel</td><td>P+1</td><td>900</td></tr>
-<tr><td>Ionisierte Axt</td><td>P+2</td><td>1.400</td></tr>
-<tr><td>Rauchwerfer</td><td>P+1</td><td>2.000</td></tr>
-<tr><td>Laserwanderstab</td><td>P+2</td><td>2.500</td></tr>
-</tbody>
-</table>
+| Nahkampfwaffe | Bonus | Kosten |
+| ------------- | ----- | -----: |
+| Entermesser | P+0 | 50 |
+| Krummsäbel | P+0 | 200 |
+| Ninjaschwert | P+0 | 200 |
+| Cyberholzfuß | P+1 | 300 |
+| Hakenhand | P+1 | 300 |
+| Laser-Nunchaku | P+1 | 450 |
+| Laserschwert | P+1 | 600 |
+| Vibrosäbel | P+1 | 900 |
+| Rauchwerfer | P+1 | 2.000 |
+| Ionisierte Axt | P+2 | 2.500 |
+| Laserwanderstab | P+2 | 2.500 |
 
 - Der **Cyberholzfuß** und die **Hakenhand** ersetzen die normalen Gliedmaßen.
-- **Vibrosäbel** sind elegante Piratensäbel, deren Klinge leicht vibriert, wodurch sie mehr Schaden verursachen.
-- **Ionisierte Äxte** sind zum einen besonders scharf, weshalb sie fast jedes Material durchdringen können, und stumpfen zum anderen nicht ab.
-- Der **Rauchwerfer** funktioniert im Prinzip wie ein Feuerwerfer, nur dass er dichte, benebelnde Rauchschwaden ausspuckt.
 - **Laser-Nunchakus** bestehen aus zwei stabförmigen Energiezellen, die mit einer Art Laserstrahl verbunden sind.
+- **Vibrosäbel** sind elegante Piratensäbel, deren Klinge leicht vibriert, wodurch sie mehr Schaden verursachen.
+- Der **Rauchwerfer** funktioniert im Prinzip wie ein Feuerwerfer, nur dass er dichte, benebelnde Rauchschwaden ausspuckt, weshalb alle Proben in dem getroffenen Gebiet einen Malus von &minus;1 erleiden.
+- **Ionisierte Äxte** sind zum einen besonders scharf, weshalb sie fast jedes Material durchdringen können, und stumpfen zum anderen nicht ab.
 
 ## Spezialwaffen
 
-<table>
-<thead>
-<tr><th>Waffe</th><th>Bonus</th><th>Kosten</th><th>Kurzbeschreibung</th></tr>
-</thead>
-<tbody>
-<tr><td>Eis-Ionenblaster „Onkel Frost“</td><td>P+2</td><td>3.500</td><td> </td></tr>
-<tr><td>Glukorianischer Minifizierer</td><td>P+2</td><td>10.000</td><td>Schrumpft das Opfer auf 10 % bis 50 %</td></tr>
-<tr><td>Kybernetischer Energie-Peitschenschwanz</td><td>P+1</td><td>2.000</td><td> </td></tr>
-<tr><td>Negatronenkarabiner</td><td>P+2</td><td>5.000</td><td>Explodiert beim Aufprall</td></tr>
-<tr><td>Pyrusidischer Schallwerfer</td><td>P+2</td><td>4.500</td><td>Nichttödlich, außer auf höchster Stufe</td></tr>
-<tr><td>Samnesischer Schockstrahler</td><td>P+2</td><td>6.000</td><td>Mini-EMP</td></tr>
-<tr><td>Streifianische Plasmapistole</td><td>P+2</td><td>3.000</td><td>Geringe Reichweite</td></tr>
-<tr><td>Trullischer Mikrowellenstrahler</td><td>P+2</td><td>3.000</td><td>Erhitzt Wassermolekühle</td></tr>
-<tr><td>Wagonischer Halluzigonator</td><td>P+2</td><td>7.000</td><td>Löst Halluzinationen aus</td></tr>
-</tbody>
-</table>
+| Waffe | Bonus | Kosten | Kurzbeschreibung |
+| ----- | ----- | -----: | ---------------- |
+| Eis-Ionenblaster „Onkel Frost“ | P+2 | 3.500 |   |
+| Glukorianischer Minifizierer | P+2 | 10.000 | Schrumpft das Opfer auf 10 % bis 50 % |
+| Kybernetischer Energie-Peitschenschwanz | P+1 | 2.000 |   |
+| Negatronenkarabiner | P+2 | 5.000 | Explodiert beim Aufprall |
+| Pyrusidischer Schallwerfer | P+2 | 4.500 | Nichttödlich, außer auf höchster Stufe |
+| Samnesischer Schockstrahler | P+2 | 6.000 | Mini-EMP |
+| Streifianische Plasmapistole | P+2 | 3.000 | Geringe Reichweite |
+| Trullischer Mikrowellenstrahler | P+2 | 3.000 | Erhitzt Wassermolekühle |
+| Wagonischer Halluzigonator | P+2 | 7.000 | Löst Halluzinationen aus |
 
 ### Eis-Ionenblaster
 

@@ -15,51 +15,46 @@ Erst Macken machen ein Raumschiff zu einem individuellen Fortbewegungsmittel. Si
 {% endcapture %}
 {% include anmerkung.md title="Raumschiffmacken" body=include_body %}
 
-<table>
-<caption>Raumschiffmacken</caption>
-<thead>
-<tr><th>W40</th><th>Macke</th><th>Beschreibung</th></tr>
-</thead>
-<tbody>
-<tr><td>1</td><td>Schildfluktuationen</td><td>Alle 1W4 Runden versagen die Schilde.</td></tr>
-<tr><td>2</td><td>Antriebswackler</td><td>Der Antrieb versagt, das Raumschiff kann sich nur noch drehen.</td></tr>
-<tr><td>3</td><td>Lack bröckelt</td><td>Die Lackierung des Raumschiffs bröckelt ab, das Schiff bekommt +1 auf die Wendigkeit und nimmt 2 Schadenspunkte (es war tragender Lack).</td></tr>
-<tr><td>4</td><td>Instrumente blinken</td><td>Die Instrumente blinken wie wild, Mali von &minus;1 auf alle Proben.</td></tr>
-<tr><td>5</td><td>Licht aus</td><td>Das Licht im Raumschiff geht aus, alle an Bord befindlichen Glühbirnen sind durchgebrannt (Egal, ob in Gebrauch oder nicht).</td></tr>
-<tr><td>6</td><td>Schiff wird rosa</td><td>Es wird einfach nur rosa, innen wie außen, der Kapitän schämt sich und bekommt &minus;1 auf alle Proben.</td></tr>
-<tr><td>7</td><td>Waffenproblem</td><td>Die Bordwaffen haben nur noch die halbe Reichweite. Warum alle? Keine Ahnung!</td></tr>
-<tr><td>8</td><td>Spontane Raumzeitkrümmung</td><td>Die Raumzeit krümmt sich und das Raumschiff befindet sich fünf Minuten früher in einem zufälligen Sternensystem. Das wiederholt sich alle 1W6 Stunden, bis die Macke repariert wurde.</td></tr>
-<tr><td>9</td><td>KI eingebaut</td><td>Irgendwie ist eine KI in das Raumschiff gekommen und will jetzt jede Aktion begründet wissen.</td></tr>
-<tr><td>10</td><td>Reboot nötig</td><td>Der Schiffscomputer muss alle 10 Minuten gebootet werden, was 20 Minuten dauert, während dieser Zeit läuft das Schiff nur im Notfallmodus (keine Waffen, kein FTL, etc).</td></tr>
-<tr><td>11</td><td>Sitze unbequem</td><td>Die Sitze und Schlafgelegenheiten sind unheimlich unbequem.</td></tr>
-<tr><td>12</td><td>Scheibe beschlagen</td><td>Die Frontscheibe ist beschlagen, das Raumschiff fliegt mit halber Geschwindigkeit in eine zufällige Richtung.</td></tr>
-<tr><td>13</td><td>FTL macht Wupp</td><td>Der FTL macht nur noch WUPP und funktioniert nicht mehr.</td></tr>
-<tr><td>14</td><td>Schwerkraft fällt aus</td><td>Die künstliche Schwerkraft fällt aus, &minus;1 auf alle Proben.</td></tr>
-<tr><td>15</td><td>Rechts ist Links</td><td>Das Raumschiff vertauscht rechts mit links, &minus;1 auf alle Proben.</td></tr>
-<tr><td>16</td><td>Piepsstimmen</td><td>Der Heliumanteil der Luft nimmt schlagartig zu, alle reden bis zur Behebung der Macke mit piepsiger Stimme.</td></tr>
-<tr><td>17</td><td>Tropenwetter</td><td>Die Temperatur und die Luftfeuchtigkeit nehmen tropische Ausmaße an, alle Instrumente beschlagen, &minus;1 auf alle Proben.</td></tr>
-<tr><td>18</td><td>Hanfwachstum</td><td>Überall im Raumschiff wächst illegaler und sehr hartnäckiger Hanf, &minus;1 auf alle Proben</td></tr>
-<tr><td>19</td><td>Schwarzes Bild</td><td>Alle Videoverbindungen fallen aus, &minus;2 auf alle Proben.</td></tr>
-<tr><td>20</td><td>Türen zu</td><td>Alle Türen im Raumschiff verschließen sich und lassen sich nicht mehr öffnen, auch nicht durch gutes zureden.</td></tr>
-<tr><td>21</td><td>Stabilisatoren versagen</td><td>Das Raumschiff dreht sich wild in alle Richtungen, so dass der Crew schlecht wird, &minus;1 auf alle Proben.</td></tr>
-<tr><td>22</td><td>Antiquierte Technik</td><td>Alle Teile, die der Tech gerade benutzen will, sind so uralt, dass er sie kaum zu bedienen weiß, &minus;1 auf alle TECH Proben.</td></tr>
-<tr><td>23</td><td>Schwerkraft verdoppelt sich</td><td>Die künstliche Schwerkraft verdoppelt sich, &minus;1 auf alle Proben.</td></tr>
-<tr><td>24</td><td>Schluckauf des Hyperkerns</td><td>Das Raumschiff zockelt alle 2 Stunden 1 Lichtjahr voran und ist sonst bewegungslos.</td></tr>
-<tr><td>25</td><td>Knopf klemmt</td><td>Es kann kein Knopf mehr gedrückt werden. Alle wichtigen Funktionen werden mit Knöpfen bedient!</td></tr>
-<tr><td>26</td><td>Papierstau</td><td>Alle Drucker an Bord spucken unendlich viel mit Maschinensprache bedrucktes Papier aus. &minus;1 auf alle Proben, wegen Platzmangel.</td></tr>
-<tr><td>27</td><td>Unwahrscheinlichkeitswirbel</td><td>Ein Unwahrscheinlichkeitswirbel entsteht, es tritt eine zufällige Macke dieser Tabelle ein.</td></tr>
-<tr><td>28</td><td>Weltraumherpes</td><td>Das Schiff hat Herpes, alle 1W10 Minuten platzen aus den Wänden 1W6 kleine schleimige Tierchen heraus.</td></tr>
-<tr><td>29</td><td>Fasching</td><td>Der Schiffscomputer denkt, es sei Fasching, und startet eine unglaubliche Faschingsparty.</td></tr>
-<tr><td>30</td><td>Computer deprimiert</td><td>Der Computer ist deprimiert und führt deshalb jede Aktion nur noch halb so schnell aus und jammert der Crew die Ohren voll.</td></tr>
-<tr><td>31</td><td>Afken-Alarm</td><td>Irgendwie sind Afken (kleine nervige Affen) auf das Schiff gekommen. Sie stellen alles mögliche an und es tritt daher eine zufällige Macke dieser Tabelle ein.</td></tr>
-<tr><td>32</td><td>Service überfällig</td><td>Eine unwichtiges Sekundärsystem wurde zu lange nicht mehr gewartet und erinnert die Piratencrew bei jeder Aktion mit einem nervigen Popup daran, &minus;1 auf alle Schiffsproben.</td></tr>
-<tr><td>33</td><td>Unerwarteter Ausnahmefehler</td><td>Das Schiff meldet einen unerwarteten Ausnahmefehler in einem zufällige ausgewählten Zubehörteil. Das Zubehör ist nicht mehr benutzbar.</td></tr>
-<tr><td>34</td><td>Wartemusik</td><td>Aus allen, aus wirklich allen Lautsprechern ertönt ohrenbetäubende Wartemusik, man kann sich kaum noch verständigen.</td></tr>
-<tr><td>35</td><td>Überhitzung</td><td>Die Systeme sind überhitzt, sogar der Kapitänssitz glüht schon fast. Das Schiff muss alle 1W20 Minuten 1W6 Minuten abkühlen.</td></tr>
-<tr><td>36</td><td>Klappert</td><td>Irgendwas klappert im Schiff, keine Ahnung was und wo, aber es ist unheimlich nervig, &minus;1 auf alle Proben.</td></tr>
-<tr><td>37</td><td>Kinoabend</td><td>Der Schiffscomputer veranstaltet ganz spontan einen Videoabend, alle Videoverbindungen zeigen nur noch Stummfilme.</td></tr>
-<tr><td>38</td><td>Kurzschluss</td><td>Alle Terminals stehen unter Strom und verpassen dem Bediener einen leichten Schlag, &minus;1 auf alle Schiffsproben.</td></tr>
-<tr><td>39</td><td>Wasserschaden</td><td>Eine Fehlfunktion der Sprinkleranlage setzt das Schiff unter Wasser.</td></tr>
-<tr><td>40</td><td>Hochstimmung</td><td>Der Sauerstoffanteil der Luft nimmt schlagartig zu, die gesamte Crew ist in euphorischer Stimmung.</td></tr>
-</tbody>
-</table>
+| W6 | W6 | Macke | Beschreibung |
+| :--: | :--: | ----- | ------------ |
+| 1 | 1 | Schildfluktuationen | Alle 1W4 Runden versagen die Schilde. |
+| 1 | 2 | Antriebswackler | Der Antrieb versagt, das Raumschiff kann sich nur noch drehen. |
+| 1 | 3 | Lack bröckelt | Die Lackierung des Raumschiffs bröckelt ab, das Schiff bekommt +1 auf die Wendigkeit und nimmt 2 Schadenspunkte (es war tragender Lack). |
+| 1 | 4 | Instrumente blinken | Die Instrumente blinken wie wild, Mali von &minus;1 auf alle Proben. |
+| 1 | 5 | Licht aus | Das Licht im Raumschiff geht aus, alle an Bord befindlichen Glühbirnen sind durchgebrannt (Egal, ob in Gebrauch oder nicht). |
+| 1 | 6 | Schiff wird rosa | Es wird einfach nur rosa, innen wie außen, der Kapitän schämt sich und bekommt &minus;1 auf alle Proben. |
+|----
+| 2 | 1 | Waffenproblem | Die Bordwaffen haben nur noch die halbe Reichweite. Warum alle? Keine Ahnung! |
+| 2 | 2 | Spontane Raumzeitkrümmung | Die Raumzeit krümmt sich und das Raumschiff befindet sich fünf Minuten früher in einem zufälligen Sternensystem. Das wiederholt sich alle 1W6 Stunden, bis die Macke repariert wurde. |
+| 2 | 3 | KI eingebaut | Irgendwie ist eine KI in das Raumschiff gekommen und will jetzt jede Aktion begründet wissen. |
+| 2 | 4 | Reboot nötig | Der Schiffscomputer muss alle 10 Minuten gebootet werden, was 20 Minuten dauert, während dieser Zeit läuft das Schiff nur im Notfallmodus (keine Waffen, kein FTL, etc). |
+| 2 | 5 | Sitze unbequem | Die Sitze und Schlafgelegenheiten sind unheimlich unbequem. |
+| 2 | 6 | Scheibe beschlagen | Die Frontscheibe ist beschlagen, das Raumschiff fliegt mit halber Geschwindigkeit in eine zufällige Richtung. |
+|----
+| 3 | 1 | FTL macht Wupp | Der FTL macht nur noch WUPP und funktioniert nicht mehr. |
+| 3 | 2 | Schwerkraft fällt aus | Die künstliche Schwerkraft fällt aus, &minus;1 auf alle Proben. |
+| 3 | 3 | Rechts ist Links | Das Raumschiff vertauscht rechts mit links, &minus;1 auf alle Proben. |
+| 3 | 4 | Piepsstimmen | Der Heliumanteil der Luft nimmt schlagartig zu, alle reden bis zur Behebung der Macke mit piepsiger Stimme. |
+| 3 | 5 | Tropenwetter | Die Temperatur und die Luftfeuchtigkeit nehmen tropische Ausmaße an, alle Instrumente beschlagen, &minus;1 auf alle Proben. |
+| 3 | 6 | Hanfwachstum | Überall im Raumschiff wächst illegaler und sehr hartnäckiger Hanf, &minus;1 auf alle Proben |
+|----
+| 4 | 1 | Kinoabend | Der Schiffscomputer veranstaltet ganz spontan einen Videoabend, alle Videoverbindungen zeigen nur noch Stummfilme. |
+| 4 | 2 | Türen zu | Alle Türen im Raumschiff verschließen sich und lassen sich nicht mehr öffnen, auch nicht durch gutes zureden. |
+| 4 | 3 | Stabilisatoren versagen | Das Raumschiff dreht sich wild in alle Richtungen, so dass der Crew schlecht wird, &minus;1 auf alle Proben. |
+| 4 | 4 | Antiquierte Technik | Alle Teile, die der Tech gerade benutzen will, sind so uralt, dass er sie kaum zu bedienen weiß, &minus;1 auf alle TECH Proben. |
+| 4 | 5 | Schwerkraft verdoppelt sich | Die künstliche Schwerkraft verdoppelt sich, &minus;1 auf alle Proben. |
+| 4 | 6 | Schluckauf des Hyperkerns | Das Raumschiff zockelt alle 2 Stunden 1 Lichtjahr voran und ist sonst bewegungslos. |
+|----
+| 5 | 1 | Knopf klemmt | Es kann kein Knopf mehr gedrückt werden. Alle wichtigen Funktionen werden mit Knöpfen bedient! |
+| 5 | 2 | Papierstau | Alle Drucker an Bord spucken unendlich viel mit Maschinensprache bedrucktes Papier aus. &minus;1 auf alle Proben, wegen Platzmangel. |
+| 5 | 3 | Unwahrscheinlichkeitswirbel | Ein Unwahrscheinlichkeitswirbel entsteht, es tritt eine zufällige Macke dieser Tabelle ein. |
+| 5 | 4 | Weltraumherpes | Das Schiff hat Herpes, alle 1W10 Minuten platzen aus den Wänden 1W6 kleine schleimige Tierchen heraus. |
+| 5 | 5 | Fasching | Der Schiffscomputer denkt, es sei Fasching, und startet eine unglaubliche Faschingsparty. |
+| 5 | 6 | Computer deprimiert | Der Computer ist deprimiert und führt deshalb jede Aktion nur noch halb so schnell aus und jammert der Crew die Ohren voll. |
+|----
+| 6 | 1 | Wasserschaden | Eine Fehlfunktion der Sprinkleranlage setzt das Schiff unter Wasser, das löst leichte Schläge aus, &minus;1 auf alle Proben. |
+| 6 | 2 | Service überfällig | Eine unwichtiges Sekundärsystem wurde zu lange nicht mehr gewartet und erinnert die Piratencrew bei jeder Aktion mit einem nervigen Popup daran, &minus;1 auf alle Schiffsproben. |
+| 6 | 3 | Unerwarteter Ausnahmefehler | Das Schiff meldet einen unerwarteten Ausnahmefehler in einem zufällige ausgewählten Zubehörteil. Das Zubehör ist nicht mehr benutzbar. |
+| 6 | 4 | Wartemusik | Aus allen, aus wirklich allen Lautsprechern ertönt ohrenbetäubende Wartemusik, man kann sich kaum noch verständigen. |
+| 6 | 5 | Überhitzung | Die Systeme sind überhitzt, sogar der Kapitänssitz glüht schon fast. Das Schiff muss alle 1W20 Minuten 1W6 Minuten abkühlen. |
+| 6 | 6 | Klappert | Irgendwas klappert im Schiff, keine Ahnung was und wo, aber es ist unheimlich nervig, &minus;1 auf alle Proben. |

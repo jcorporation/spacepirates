@@ -6,7 +6,11 @@ title: Die Piratencrew
 
 # Die Piratencrew
 
-- [Die Charaktere]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Die_Charaktere)
+Dieser Abschnitt beschreibt die Erstellung von Charakteren. Hier finden sich auch die Ausrüstungslisten und die Regeln zum erstellen eines eigenen (gebrauchten) Raumschiffs.
+
+- [Übersicht der Charaktererschaffung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Übersicht)
+- [Charaktere]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charaktere)
+- [Hintergrund]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Hintergrund)
 - [Charakterwerte]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charakterwerte)
 - [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/)
   - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen)

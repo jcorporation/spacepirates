@@ -27,10 +27,6 @@ Bei SpacePirates übernehmen die Beteiligten eine von zwei Rollen: 1 Spielleiter
 
 Jeder Spieler spielt genau einen Charakter, der Mitglied einer Piratencrew ist. Der Spieler beschreibt die Handlungen des Charakters, sein Verhalten und spricht in direkter Rede für ihn. Der Charakter ist das Mittel des Spielers um das Abenteuer zu beeinflussen und voranzutreiben. Die Charaktere werden gemeinsam vor dem Abenteuer nach Regeln erschaffen.
 
-#### Die Charaktere
-
-Die Charaktere sind Piraten und treiben sich in den zwielichtigen Bars und Kneipen des Universums herum, liefern sich Schlägereien mit anderen Piraten und knüpfen Kontakte zu halbseidenen Händlern, inoffiziellen Regierungsbeauftragten und undurchsichtigen Vereinigungen. In ihrem Raumschiff voller Macken jagen sie nach Ruhm und Reichtum, dabei führen sie höchst illegale Aufträge durch, rauben Schiffe aus, liefern sich waghalsige Raumschlachten und entdecken neue Weltraumphänomene und Planeten. Trauen können sie niemandem, da jeder Auftraggeber und Handelspartner, der mit ihnen verkehrt, genauso verschlagen und geldgierig ist, wie sie selbst. Als wäre das nicht genug, werden sie natürlich auch vom Handelsrat und den Regierungen verfolgt und stehen in Konkurrenz mit vielen anderen Piraten.
-
 ### Der Spielleiter
 
 Der Spielleiter spielt alle Charaktere im Abenteuer, außer die der Spieler, beschreibt auftretende Ereignisse und die Umgebung, in der sich die Spielercharaktere befinden.

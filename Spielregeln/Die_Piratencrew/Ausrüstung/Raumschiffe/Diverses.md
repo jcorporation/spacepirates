@@ -6,26 +6,23 @@ title: Diverses
 
 # Diverses
 
-<table>
-<thead>
-<tr><th>Zubehör</th><th>Kosten</th></tr>
-</thead>
-<tbody>
-<tr><td>Airbags</td><td>4.000</td></tr>
-<tr><td>Enterschleuse</td><td>4.000</td></tr>
-<tr><td>Einparkhilfe</td><td>4.000</td></tr>
-<tr><td>Einparkcomputer</td><td>8.000</td></tr>
-<tr><td>FTL2-Antrieb (Aufrüstung von FTL1)</td><td>12.000</td></tr>
-<tr><td>FTL4-Funk</td><td>8.000</td></tr>
-<tr><td>FTL8-Funk</td><td>18.000</td></tr>
-<tr><td>Magnet-Abschlepphaken</td><td>4.000</td></tr>
-<tr><td>Ninja-Tarnschild</td><td>40.000</td></tr>
-<tr><td>Rettungskapsel (2 Personen)</td><td>2.000</td></tr>
-<tr><td>Störsender</td><td>10.000</td></tr>
-<tr><td>Turbo</td><td>6.000</td></tr>
-<tr><td>Versteckter Frachtraum</td><td>4.000</td></tr>
-</tbody>
-</table>
+Hier gibt es allerlei nützliches Zubehör für Raumschiffe.
+
+| Zubehör | Kosten |
+| ------- | -----: |
+| Airbags | 4.000 |
+| Enterschleuse | 4.000 |
+| Einparkhilfe | 4.000 |
+| Einparkcomputer | 8.000 |
+| FTL2-Antrieb (Aufrüstung von FTL1) | 12.000 |
+| FTL4-Funk | 8.000 |
+| FTL8-Funk | 18.000 |
+| Magnet-Abschlepphaken | 4.000 |
+| Ninja-Tarnschild | 40.000 |
+| Rettungskapsel (2 Personen) | 2.000 |
+| Störsender | 10.000 |
+| Turbo | 6.000 |
+| Versteckter Frachtraum | 4.000 |
 
 - **Airbags** mindern den Aufprall, falls der fähige Pilot das Raumschiff mal wieder bruchlandet oder beim Andocken etwas ungenau ist. (Schaden wird um 2 Punkte reduziert)
 - Raumschiffe verfügen standardmäßig nur über normalen Funk, **FTL-Funk** muss extra gekauft werden. FTL-Funk ist in Ausführungen FTL4 oder FTL8 verfügbar, die Funksprüche verbreiten sich also bis zu acht Lichtjahren pro Stunde.

@@ -32,6 +32,7 @@ Cash: 100 UC (1.000 UC für das Raumschiff)</td></tr>
 </table>
 
 ***
+
 ## Sun Chen
 
 Sun Chen ist eine wunderschöne chinesische Händlerin, die ihre Reize einzusetzen weiß. Als sie noch eine „ehrliche“ Händlerin war, hat sie einmal den damals noch unbedeutenden chinesischen Geschäftsmann Yang Li um die Ware eines ganzen Transportschiffes betrogen. Seitdem ist er ihr größter Feind. Diesen Deal zog sie damals mit Carlos Foster durch, einem Hauptmann der Föderation, mit dem sie immer noch befreundet ist. Wegen dieses Betrugs verlor sie nahezu alle ihre legalen Handelskontakte und hat sich daher einer Piratengruppe angeschlossen.
@@ -57,6 +58,7 @@ Cash: 250 UC (1.000 UC für das Raumschiff)</td></tr>
 </table>
 
 ***
+
 ## Drake Khan
 
 Drake ist ein begnadeter Tech und gehörte früher einem hochrangigen Expertenteam an, das an hochgeheimen technischen Apparaturen forschte. Als Drake mitbekam, dass daraus eine extrem gefährliche Waffe gebaut werden konnte, wollte er das Expertenteam verlassen. Da sein Arbeitgeber als einzigen Kündigungsgrund den Tod vorgesehen hatte, entschloss er sich, unterzutauchen.
@@ -84,6 +86,7 @@ Cash: 150 UC (500 UC für das Raumschiff)</td></tr>
 </table>
 
 ***
+
 ## Xenur Barslan
 
 Xenur Barslan wurde früher häufig von Sun Chen als Geleitschutz für halbseidene Aufträge angeheuert. Als sie zusammen mit Oliver G. Stardust die Piratengruppe gründete, gab er sein freies Söldnertum auf und schloss sich der Gruppe an. Mittlerweile ist er mit Sun Chen sehr gut befreundet.

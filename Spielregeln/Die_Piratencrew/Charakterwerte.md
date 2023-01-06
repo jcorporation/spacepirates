@@ -10,9 +10,9 @@ title: Charakterwerte
 
 Die Fähigkeiten des Charakters werden durch die vier Profile HÄNDLER, PILOT, SÖLDNER und TECH definiert. Umso höher der Profilwert ist, umso besser ist der Charakter in Fertigkeiten dieses Bereichs. Der Profilwert bestimmt die Anzahl an Würfel, die bei einem Konflikt geworfen werden (siehe [Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/)).
 
-Bei der Charaktererschaffung dürfen 12 Würfel auf die Profile verteilt werden. Jedem Profil muss mindestens ein Würfel zugeordnet werden, kein Profil darf um mehr als zwei Würfel vom nächsthöheren oder nächstniedrigeren Profil abweichen. Die maximal mögliche Spezialisierung bei der Charaktererschaffung ist daher 1, 2, 4, 5.
+Bei der Charaktererschaffung dürfen 12 Punkte auf die Profile verteilt werden. Jedem Profil muss mindestens ein Punkt zugeordnet werden, kein Profil darf um mehr als zwei Punkte vom nächsthöheren oder nächstniedrigeren Profil abweichen. Die maximal mögliche Spezialisierung bei der Charaktererschaffung ist daher 1, 2, 4, 5.
 
-Aliens erhalten nach der Verteilung noch einen zusätzlichen Würfel im ihrer Rasse zugeordneten Profil. Dadurch kann der Abstand zum nächstniedrigeren Profil auf 3 Würfel ansteigen.
+Aliens erhalten nach der Verteilung noch einen zusätzlichen Punkt im ihrer Rasse zugeordneten Profil. Dadurch kann der Abstand zum nächstniedrigeren Profil auf 3 Punkte ansteigen.
 
 | Alienrasse | Profil |
 | ---------- | ------ |

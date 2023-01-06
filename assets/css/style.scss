@@ -65,6 +65,7 @@ caption {
 }
 
 caption,
+tfoot td,
 th {
   background-color: #fc0;
   color: black;
@@ -86,6 +87,10 @@ td > p:last-child {
 
 tr.selected td {
   background-color: #fc0 !important;
+}
+
+tbody:not(:last-child) tr:last-child td{
+  border-bottom: 1px solid #ffcc00;
 }
 
 .card-body p:last-child {

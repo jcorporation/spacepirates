@@ -6,6 +6,8 @@ title: Beispielraumschiff
 
 # Beispielraumschiff
 
+Dark Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nicht ganz so viel her und hat ein paar Macken; aber dafür stimmen die inneren Werte: Die Bewaffnung kann sich sehen lassen und aus dem Cabriodeck dröhnt der mächtige Hyperbass der eingebauten Stereoanlage.
+
 <table>
 <caption>Dark Star</caption>
 <tbody>
@@ -29,26 +31,18 @@ Cabriokit (für 1 Macke ertauscht)</td></tr>
 </tbody>
 </table>
 
-Dark Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nicht ganz so viel her und hat ein paar Macken; aber dafür stimmen die inneren Werte: Die Bewaffnung kann sich sehen lassen und aus dem Cabriodeck dröhnt der mächtige Hyperbass der eingebauten Stereoanlage.
-
-<table>
-<thead>
-<tr><th>Bauteil</th><th>Kosten Neu</th><th>Kosten gebraucht</th></tr>
-</thead>
-<tbody>
-<tr><td>Hypergleiter</td><td>24.000</td><td>12.000</td></tr>
-<tr><td>Plasmakanone</td><td>16.000</td><td>8.000</td></tr>
-<tr><td>Laserkanone</td><td>8.000</td><td>4.000</td></tr>
-<tr><td>kleiner Schild</td><td>12.000</td><td>6.000</td></tr>
-<tr><td>Standardsensoren</td><td>6.000</td><td>3.000</td></tr>
-<tr><td>Enterschleuse</td><td>4.000</td><td>2.000</td></tr>
-<tr><td>Stereoanlage mit EHB-System</td><td>2.000</td><td>1.000</td></tr>
-<tr><td>Cabriokit – für eine Macke eingetauscht</td><td>0</td><td>0</td></tr>
-</tbody>
-<tfoot>
-<tr><th>Gesamt</th><th>72.000</th><th>36.000</th></tr>
-</tfoot>
-</table>
+| Bauteil | Kosten Neu | Kosten gebraucht |
+| ------- | ---------: | ---------------: |
+| Hypergleiter | 24.000 | 12.000 |
+| Plasmakanone | 16.000 | 8.000 |
+| Laserkanone | 8.000 | 4.000 |
+| kleiner Schild | 12.000 | 6.000 |
+| Standardsensoren | 6.000 | 3.000 |
+| Enterschleuse | 4.000 | 2.000 |
+| Stereoanlage mit EHB-System | 2.000 | 1.000 |
+| Cabriokit – für eine Macke eingetauscht | 0 | 0 |
+|====
+| Gesamt | 72.000 | 36.000 |
 
 {% capture include_body %}
 Die Gruppe besteht aus 4 Spielern und bekommt daher 33.000 UC für das Raumschiff. Das Raumschiff kostet gebraucht 36.000 UC. Die Differenz müssen die Spieler aus dem Privatvermögen der Charaktere begleichen. Da das Schiff gebraucht ist und sie auch nur gebrauchte Teile einbauen, erhält das Schiff 5 Macken (2 für das gebrauchte Schiff und 3 für die 6 gebrauchten Teile). Zudem nimmt die Gruppe noch freiwillig eine zusätzliche Macke, um das Schiff mit einem Cabriokit auszustatten.

@@ -6,33 +6,28 @@ title: Style-Zubehör
 
 # Style-Zubehör
 
-<table>
-<thead>
-<tr><th>Zubehör</th><th>Kosten</th></tr>
-</thead>
-<tbody>
-<tr><td>Airbrush-Lackierung</td><td>2.000</td></tr>
-<tr><td>Antiphotonen-Schild</td><td>10.000</td></tr>
-<tr><td>Cabriokit</td><td>6.000</td></tr>
-<tr><td>Chamäleonlackierung</td><td>8.000</td></tr>
-<tr><td>Edel-Kombüse</td><td>5.000</td></tr>
-<tr><td>EHB-Auspuff</td><td>2.000</td></tr>
-<tr><td>Holoflagge</td><td>1.000</td></tr>
-<tr><td>Komfortable Kabine pro Person</td><td>1.000</td></tr>
-<tr><td>Notaus-Knopf</td><td>1.000</td></tr>
-<tr><td>Putzroboter</td><td>4.000</td></tr>
-<tr><td>Schiffs-KI</td><td>10.000</td></tr>
-<tr><td>Stereoanlage mit EHB-System</td><td>2.000</td></tr>
-<tr><td>Entertainmentsystem</td><td>8.000</td></tr>
-<tr><td>Flauschwürfel / Wackeldackel</td><td>50</td></tr>
-<tr><td>Hologrammemitter</td><td>10.000</td></tr>
-<tr><td>Luxussitz</td><td>3.000</td></tr>
-<tr><td>Meteorkrakenlederüberzug</td><td>30.000</td></tr>
-<tr><td>Panorama-Dachfenster</td><td>3.000</td></tr>
-<tr><td>Rallystreifen</td><td>500</td></tr>
-<tr><td>Rumdestille</td><td>4.000</td></tr>
-</tbody>
-</table>
+| Zubehör | Kosten |
+| ------- | -----: |
+| Airbrush-Lackierung | 2.000 |
+| Antiphotonen-Schild | 10.000 |
+| Cabriokit | 6.000 |
+| Chamäleonlackierung | 8.000 |
+| Edel-Kombüse | 5.000 |
+| EHB-Auspuff | 2.000 |
+| Holoflagge | 1.000 |
+| Komfortable Kabine pro Person | 1.000 |
+| Notaus-Knopf | 1.000 |
+| Putzroboter | 4.000 |
+| Schiffs-KI | 10.000 |
+| Stereoanlage mit EHB-System | 2.000 |
+| Entertainmentsystem | 8.000 |
+| Flauschwürfel / Wackeldackel | 50 |
+| Hologrammemitter | 10.000 |
+| Luxussitz | 3.000 |
+| Meteorkrakenlederüberzug | 30.000 |
+| Panorama-Dachfenster | 3.000 |
+| Rallystreifen | 500 |
+| Rumdestille | 4.000 |
 
 - **Antiphotonen-Schild:** Eingeschaltet löscht es alle Photonen aus, die das Raumschiff treffen, schwärzer kann kein Raumschiff werden.
 - **Cabriokit:** Teile der Schiffshülle werden durch dauerhafte Anti-Vakuum-Kraftfelder ersetzt.
