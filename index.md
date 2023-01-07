@@ -65,36 +65,40 @@ SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedre
     </div>
 </div>
 
-<div class="row row-cols-1 row-cols-sm-3 g-4 mb-3">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4 mb-3">
   <div class="col">
-    <div class="card bg-sterne text-light clickable">
-      <div class="card-header">Publikationen</div>
-      <div class="card-body bg-publikationen text-shadow">
-        <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/Publikationen/">Alle SpacePirates PDFs und Bücher</a></p>
+    <div class="card h-100 bg-publikationen text-light text-shadow text-center clickable">
+      <div class="card-header fs-5">Publikationen</div>
+      <div class="card-body"></div>
+      <div class="card-footer mt-6 bg-black bg-opacity-50">
+        <a class="link-light" href="{{ site.baseurl }}/Publikationen/">Alle SpacePirates PDFs und Bücher</a>
       </div>
     </div>
   </div>
   <div class="col">
-    <div class="card bg-sterne text-light clickable">
-      <div class="card-header">Interaktive Sternenkarte</div>
-      <div class="card-body bg-sternenkarte text-shadow">
-        <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/Weltraum/Sternenkarte/">Erforsche den Weltraum</a></p>
+    <div class="card h-100 bg-sternenkarte text-light text-shadow text-center clickable">
+      <div class="card-header fs-5">Interaktive Sternenkarte</div>
+      <div class="card-body"></div>
+      <div class="card-footer mt-6 bg-black bg-opacity-50">
+        <a class="link-light" href="{{ site.baseurl }}/Weltraum/Sternenkarte/">Erforsche den Weltraum</a>
       </div>
     </div>
   </div>
   <div class="col">
-    <div class="card bg-sterne text-light clickable">
-      <div class="card-header">StarTunes</div>
-      <div class="card-body bg-startunes text-shadow">
-        <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/StarTunes/">SpacePirates Soundtrack</a></p>
+    <div class="card h-100 bg-startunes text-light text-shadow text-center clickable">
+      <div class="card-header fs-5">StarTunes</div>
+      <div class="card-body"></div>
+      <div class="card-footer mt-6 bg-black bg-opacity-50">
+        <a class="link-light" href="{{ site.baseurl }}/StarTunes/">SpacePirates Soundtrack</a>
       </div>
     </div>
   </div>
   <div class="col">
-    <div class="card bg-sterne text-light clickable">
-      <div class="card-header">Ideenhalde</div>
-      <div class="card-body bg-ideenhalde text-shadow">
-        <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/Ideenhalde/">Ideen für neue Inhalte</a></p>
+    <div class="card h-100 bg-ideenhalde text-light text-shadow text-center clickable">
+      <div class="card-header fs-5">Ideenhalde</div>
+      <div class="card-body"></div>
+      <div class="card-footer mt-6 bg-black bg-opacity-50">
+        <a class="link-light" href="{{ site.baseurl }}/Ideenhalde/">Ideen für neue Inhalte</a>
       </div>
     </div>
   </div>
