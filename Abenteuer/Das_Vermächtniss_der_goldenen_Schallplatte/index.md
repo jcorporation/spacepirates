@@ -19,4 +19,4 @@ Einer der Charaktere erbt eine goldene Schallplatte von seinem Onkel Nic Jäger,
 
 ## Download
 
-{% include downboxrow.md title="Das Vermächtnis der goldenen Schallplatte" image="/thumbnails/goldeneschallplatte.png" body="PDF A5<br/>Version: 2017.03.12" link="/Publikationen/Abenteuer/GoldeneSchallplatte_2017-03-12.pdf" %}
+{% include downboxrow.md title="Das Vermächtnis der goldenen Schallplatte" image="/thumbnails/goldeneschallplatte.png" body="PDF A5<br/>Version: 2017.03.12" link="/Publikationen/V5/Abenteuer/GoldeneSchallplatte_2017-03-12.pdf" %}

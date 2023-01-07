@@ -10,6 +10,37 @@ Damit niemand die Katze im Sack kaufen muss, gibt es alle SpacePirates Publikati
 
 Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu SpacePirates. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt) zu SpacePirates.
 
+***
+
+## SpacePirates NG
+
+Dies wird die neue Version von SpacePirates, alle PDFs sind Previews.
+
+<div class="row row-cols-1 row-cols-sm-2 g-4">
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Sternenkarte</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev6.png" width="156" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Die Karte des SpacePirates Universums.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/SternenkarteV6_2023-01-01.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+***
+
+## SpacePirates – Ahoi Landratten!
+
 <div class="row row-cols-1 row-cols-sm-2 g-4">
     <div class="col">
         <div class="card text-dark h-100">
@@ -27,47 +58,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
                 </div>
             </div>
             <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/SpacePiratesV5_2017-04-09.pdf">Kostenlos herunterladen</a>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card text-dark h-100">
-            <div class="card-header bg-yellow">Die Abenteuer der SpacePirates</div>
-            <div class="card-body">
-                <div class="row">
-                    <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/abenteuerband.png" width="100" height="140">
-                    </div>
-                    <div class="col">
-                        <p>Ein Sammelband mit 14 SpacePirates Abenteuern, die jeweils in 1-2 Abenden durchgespielt werden können.</p>
-                        <p>DIN A5 Hardcover, 116 Seiten</p>
-                        <p>Preis: 5,- EUR</p>
-                    </div>
-                </div>
-            </div>
-            <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/Abenteuerband_2015-03-22.pdf">Kostenlos herunterladen</a>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card text-dark h-100">
-            <div class="card-header bg-yellow">Themenhefte</div>
-            <div class="card-body">
-                <div class="row">
-                    <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/themenhefte.png" width="100" height="140">
-                    </div>
-                    <div class="col">
-                        <p>Sammelband der Themenhefte und SP:Insider</p>
-                        <p>DIN A5 Hardcover, 144 Seiten</p>
-                        <p>Preis: ausverkauft</p>
-                    </div>
-                </div>
-            </div>
-            <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/Themenhefte_2015-03-22.pdf">Kostenlos herunterladen</a>
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V5/SpacePiratesV5_2017-04-09.pdf">Kostenlos herunterladen</a>
             </div>
         </div>
     </div>
@@ -77,7 +68,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev5.jpg" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev5.png" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
@@ -87,7 +78,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
                 </div>
             </div>
             <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/SternenkarteV5_2017-03-12.pdf">Kostenlos herunterladen</a>
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V5/SternenkarteV5_2017-03-12.pdf">Kostenlos herunterladen</a>
             </div>
         </div>
     </div>
@@ -106,7 +97,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
                 </div>
             </div>
             <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/PiratenbogenV5_2015-11-08.pdf">Kostenlos herunterladen</a>
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V5/PiratenbogenV5_2015-11-08.pdf">Kostenlos herunterladen</a>
             </div>
         </div>
     </div>
@@ -135,9 +126,205 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
 
 ## Abenteuer
 
-Hier findest du weitere Abenteuer, die nicht im obigen Sammelband enthalten sind.
+Hier findest du weitere Abenteuer, die nicht im unteren Sammelband enthalten sind.
 
 | Titel | Version | Format |
 | ----- | ------- | ------ |
-| [Blumenkind]({{ site.baseurl }}/Publikationen/Abenteuer/Blumenkind_2016-09-20.pdf)| 2016.09.20 | PDFA5 |
-| [Das Vermächtnis der goldenen Schallplatte]({{ site.baseurl }}/Publikationen/Abenteuer/GoldeneSchallplatte_2017-03-12.pdf)| 2017.03.12 | PDFA5 |
+| [Blumenkind]({{ site.baseurl }}/Publikationen/V5/Abenteuer/Blumenkind_2016-09-20.pdf)| 2016.09.20 | PDFA5 |
+| [Das Vermächtnis der goldenen Schallplatte]({{ site.baseurl }}/Publikationen/V5/Abenteuer/GoldeneSchallplatte_2017-03-12.pdf)| 2017.03.12 | PDFA5 |
+
+***
+
+## Oma Binkels SpacePirates
+
+Dies ist die zweite Version von SpacePirates.
+
+<div class="row row-cols-1 row-cols-sm-2 g-4">
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Oma Binkels SpacePirates</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Die zweite Version</p>
+                        <p>DIN A5 Hardcover, 132 Seiten</p>
+                        <p>Preis: ausverkauft</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V2/SpacePirates_2-1-0_.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Sternenkarte</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev2.png" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
+                        <p>DIN A3</p>
+                        <p>Preis: ausverkauft</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V2/sp-sternenkarte_2014-11-23.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Piraten- und Raumschiffbogen</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv2.png" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Der Piraten- und Raumschiffbogen als PDF.</p>
+                        <p>DIN A4</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V2/piratenbogen_2012-03-17.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Die Abenteuer der SpacePirates</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/abenteuerband.png" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Ein Sammelband mit 14 SpacePirates Abenteuern, die jeweils in 1-2 Abenden durchgespielt werden können.</p>
+                        <p>DIN A5 Hardcover, 116 Seiten</p>
+                        <p>Preis: 5,- EUR</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V2/Abenteuerband_2015-03-22.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Themenhefte</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/themenhefte.png" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Sammelband der Themenhefte und SP:Insider.</p>
+                        <p>DIN A5 Hardcover, 144 Seiten</p>
+                        <p>Preis: ausverkauft</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V2/Themenhefte_2015-03-22.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+***
+
+## SpacePirates V1
+
+Dies ist die erste Version von SpacePirates.
+
+<div class="row row-cols-1 row-cols-sm-2 g-4">
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">SpacePirates</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv1.png" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Die erste Version</p>
+                        <p>DIN A5 Hardcover, 130 Seiten</p>
+                        <p>Preis: ausverkauft</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V1/SpacePirates_1-0-7.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Piraten- und Raumschiffbogen</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv1.png" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Der Piraten- und Raumschiffbogen als PDF.</p>
+                        <p>DIN A4</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V1/sp-piraten_raumschiffbogen_2010-07-24.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Sternenkarte</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev1.png" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
+                        <p>DIN A3</p>
+                        <p>Preis: 1,- EUR</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V1/sp-karte_2012-02-19.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">SpaceNinjas</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/spaceninjasv1.png" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
+                        <p>DIN A5 Heft, 28 Seiten</p>
+                        <p>Preis: ausverkauft</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V1/SpaceNinjas_1-0-0.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+</div>

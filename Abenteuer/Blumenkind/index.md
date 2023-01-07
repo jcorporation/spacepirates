@@ -23,7 +23,7 @@ Auf dem Planeten Doradus war der Anbau von Hanf verboten. Findige Hippies konstr
 
 ## Download
 
-{% include downboxrow.md title="Blumenkind" image="/thumbnails/blumenkind.png" body="PDF A5<br/>Version: 2016.09.20" link="/Publikationen/Abenteuer/Blumenkind_2016-09-20.pdf" %}
+{% include downboxrow.md title="Blumenkind" image="/thumbnails/blumenkind.png" body="PDF A5<br/>Version: 2016.09.20" link="/Publikationen/V5/Abenteuer/Blumenkind_2016-09-20.pdf" %}
 
 ***
 Dieses Abenteuer basiert auf der SpacePirates-Mission für [Battlemap Heroes](http://ludus-leonis.com/battlemap-heroes/).
