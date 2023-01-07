@@ -97,8 +97,8 @@ Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben, aber übertr
 | 5 | 1 | Ökoaktivist |
 | 5 | 2 | überzeugter Esoteriker |
 | 5 | 3 | hyperaktiv und nervös |
-| 5 | 4 | extreme Stimmungsschwankungen |
-| 5 | 5 | extremer Macho oder extreme Feministin |
+| 5 | 4 | Stimmungsschwankungen |
+| 5 | 5 | Macho bzw. Feministin |
 | 5 | 6 | hoffnungsloser Optimist |
 |----
 | 6 | 1 | sehr modebewusst |
