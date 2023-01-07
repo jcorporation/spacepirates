@@ -27,8 +27,8 @@ for (const table of tables) {
 
 // dice
 function randomTable(table) {
-    const firstRow = table.getElementsByTagName('tr')[0];
-    const th = firstRow.getElementsByTagName('th')[0];
+    const firstRow = table.querySelector('tr');
+    const th = firstRow.querySelector('th');
     if (th === undefined) {
         return;
     }
@@ -38,7 +38,7 @@ function randomTable(table) {
     }
     firstRow.classList.add('clickable');
     firstRow.addEventListener('click', function() {
-        const rows = table.getElementsByTagName('tbody')[0].rows;
+        const rows = table.querySelectorAll('tbody > tr');
         const sel = table.querySelector('.selected');
         if (sel) {
             sel.classList.remove('selected');
