@@ -14,7 +14,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
 
 ## SpacePirates NG
 
-Dies wird die neue Version von SpacePirates, alle PDFs sind Previews.
+Dies wird die neue Version von SpacePirates, alle PDFs sind Previews. Der genaue Titel steht noch nicht fest.
 
 <div class="row row-cols-1 row-cols-sm-2 g-4">
     <div class="col">
@@ -40,6 +40,8 @@ Dies wird die neue Version von SpacePirates, alle PDFs sind Previews.
 ***
 
 ## SpacePirates – Ahoi Landratten!
+
+Dies ist die dritte Version von SpacePirates.
 
 <div class="row row-cols-1 row-cols-sm-2 g-4">
     <div class="col">
@@ -149,7 +151,7 @@ Dies ist die zweite Version von SpacePirates.
                         <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140">
                     </div>
                     <div class="col">
-                        <p>Die zweite Version</p>
+                        <p>Die zweite Version des SpacePirates Grundregelwerks.</p>
                         <p>DIN A5 Hardcover, 132 Seiten</p>
                         <p>Preis: ausverkauft</p>
                     </div>
@@ -228,7 +230,7 @@ Dies ist die zweite Version von SpacePirates.
                         <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/themenhefte.png" width="100" height="140">
                     </div>
                     <div class="col">
-                        <p>Sammelband der Themenhefte und SP:Insider.</p>
+                        <p>Der Sammelband der Themenhefte SpaceNinjas, BigBong-Theorie, Atlanter vs. Spaceamazonen, Stars & Sternchen und der SP:Insider.</p>
                         <p>DIN A5 Hardcover, 144 Seiten</p>
                         <p>Preis: ausverkauft</p>
                     </div>
@@ -257,7 +259,7 @@ Dies ist die erste Version von SpacePirates.
                         <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv1.png" width="100" height="140">
                     </div>
                     <div class="col">
-                        <p>Die erste Version</p>
+                        <p>Die erste Version des SpacePirates Grundregelwerks.</p>
                         <p>DIN A5 Hardcover, 130 Seiten</p>
                         <p>Preis: ausverkauft</p>
                     </div>
@@ -316,7 +318,7 @@ Dies ist die erste Version von SpacePirates.
                         <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/spaceninjasv1.png" width="100" height="140">
                     </div>
                     <div class="col">
-                        <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
+                        <p>Das SpaceNinjas Themenheft.</p>
                         <p>DIN A5 Heft, 28 Seiten</p>
                         <p>Preis: ausverkauft</p>
                     </div>
