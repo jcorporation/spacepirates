@@ -179,6 +179,12 @@ main ul {
   background-size: cover;
 }
 
+.bg-startunes {
+  background-image: url("{{ site.baseurl }}/assets/images/bg-startunes.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .mt-6 {
   margin-top: 6rem !important;
 }

@@ -7,8 +7,7 @@ title: StarTunes
 <div class="card mb-3 bg-sterne">
     <div class="card-body bg-startunes text-center">
         <p id="startunessong" class="text-light text-shadow">Bitte Lied wählen</p>
-        <audio controls id="startunesaudio">
-        </audio>
+        <audio controls id="startunesaudio"></audio>
     </div>
     <div id="startunesbottom" class="card-footer bg-yellow">
         <div class="row">
