@@ -7,11 +7,11 @@ title: Weltraum
 {% capture include_col1 %}
 # Weltraum
 
-Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die [Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/). Hier kann man nichts von der Unendlichkeit des Weltraums erahnen, denn ihr Zentrum besteht aus zehn dicht gedrängten Sonnensystemen. Daher ist die Freihandelszone das Zentrum des Handels, der [Politik]({{ site.baseurl }}/Weltraum/Politische_Lage/) und Kultur im bekannten Universum, auch wenn die [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Föderation/) das nicht wahrhaben will. Hier sind Händler noch Händler, Intrigen noch Intrigen und [Piraten]({{ site.baseurl }}/Weltraum/Piraten/) noch frei. Genau diese Freihandelszone ist der Mittelpunkt der [Abenteuer]({{ site.baseurl }}/Abenteuer/) von SpacePirates.
+Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die [Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/). Hier kann man nichts von der Unendlichkeit des Weltraums erahnen, denn ihr Zentrum besteht aus zehn dicht gedrängten Sternensystemen. Daher ist die Freihandelszone das Zentrum des Handels, der [Politik]({{ site.baseurl }}/Weltraum/Politische_Lage/) und Kultur im bekannten Universum, auch wenn die [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Föderation/) das nicht wahrhaben will. Hier sind Händler noch Händler, Intrigen noch Intrigen und [Piraten]({{ site.baseurl }}/Weltraum/Piraten/) noch frei. Genau diese Freihandelszone ist der Mittelpunkt der [Abenteuer]({{ site.baseurl }}/Abenteuer/) von SpacePirates.
 {% endcapture %}
 
 {% capture include_col2 %}
-<a href="{{ site.baseurl }}/Weltraum/Sternenkarte/"><img src="{{ site.baseurl }}/assets/images/sternenkarte-quadrat.png"/></a>
+<a href="{{ site.baseurl }}/Weltraum/Sternenkarte/"><img class="max-w" src="{{ site.baseurl }}/assets/images/sternenkarte-quadrat.png"/></a>
 {% endcapture %}
 
 {% include columns21.md col1=include_col1 col2=include_col2 %}

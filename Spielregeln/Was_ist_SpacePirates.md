@@ -50,3 +50,8 @@ SpacePirates verwendet einen einheitlichen Lösungsansatz für alle Arten von Ko
 ## Dieses Buch
 
 Dieses Buch enthält alles, um das erste Abenteuer im SpacePirates-Universum zu erleben. Im ersten Teil des Buches wird das Universum von SpacePirates beschrieben: Von bekannten Piratenstationen über Weltraumphänomenen bis hin zu den bunten Alienrassen, beschreibt dieser Teil alles, um sich im Universum zurechtzufinden. Im zweiten Teil werden die Spielregeln von SpacePirates erklärt: Wie eine Piratencrew erschaffen wird, wie ein Abenteuer abläuft und Konflikte aufgelöst werden. Zudem erhält der Spielleiter Tipps, wie er Abenteuer vorbereitet und eigene schreiben kann. Im Anhang befindet sich auch gleich ein erstes Abenteuer für SpacePirates. Viele weitere Abenteuer gibt es im Abenteuerband für SpacePirates und auf der Homepage als PDF.
+
+***
+
+- [Lite](https://lite.jcgames.de)
+- [freies Rollenspiel]({{ site.baseurl }}/Freies_Rollenspiel)
