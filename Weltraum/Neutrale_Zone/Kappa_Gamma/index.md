@@ -6,8 +6,8 @@ title: Kappa Gamma
 sitedata:
     Planeten:
         Kappa_Gamma:
-            Typ: Erdähnlich
             Name: Kappa Gamma
+            Typ: Erdähnlich
             Sektor: Neutrale Zone
             Monde: 2
             Einwohner: KIs und Roboter

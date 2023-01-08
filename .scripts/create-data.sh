@@ -15,7 +15,7 @@ esac
 TMPDIR="_tmp"
 LISTS=$(cat .scripts/conf/data_keys.txt)
 
-#create empty tmp files
+# create empty tmp files
 for L in $LISTS
 do
     printf "" > "$TMPDIR/$L.yml.tmp"
@@ -46,11 +46,17 @@ do
         # iterate through keys of list and append permalink
         while read -r KEY
         do
-            echo "$KEY:" >> "$TMPFILE"
-            $YQ ".$KEY" <<< "$LIST" | sed -E 's/(^)/  \1/g' >> "$TMPFILE"
-            echo "  Link: $PERMALINK" >> "$TMPFILE"
+            NAME=$($YQ ".$KEY" <<< "$LIST")
+            if [ "${NAME:0:5}" != "Name:" ]
+            then
+                # handle arrays
+                NAME="Name: $NAME"
+            fi
+            NAME=$(sed 's/^/  /g' <<< "$NAME")
+            printf "%s:\n%s\n  Link: %s\n" "$KEY" "$NAME" "$PERMALINK" >> "$TMPFILE"
         done < <($YQ "keys()" <<< "$LIST" | sed 's/^- //g')
     done
+
     printf "."
 done < <(find ./ -name \*.md)
 
@@ -72,7 +78,7 @@ do
         rc=1
     fi
     rm "$YMLTMP"
-    #print all names to javascript arrays for random generators
+    # print all names to javascript arrays for random generators
     printf "tabellen[\"existing%s\"] = " "$L" >> "$TMPDIR/data_names.js"
     jq ".[] | .Name" "_data/$L.json" | jq --slurp "." >> "$TMPDIR/data_names.js"
 done

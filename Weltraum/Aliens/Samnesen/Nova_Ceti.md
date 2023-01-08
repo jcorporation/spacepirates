@@ -6,8 +6,8 @@ title: Nova Ceti
 sitedata:
     Planeten:
         Nova_Ceti:
-            Typ: Waldplanet
             Name: Nova Ceti
+            Typ: Waldplanet
             Sektor: Samara
             Monde: 0
             Einwohner: intelligente Pflanzen

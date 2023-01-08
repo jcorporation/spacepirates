@@ -270,8 +270,8 @@
     "Link": "/Weltraum/Aliens/Kahadrier/Kahadria"
   },
   "Kappa_Gamma": {
-    "Typ": "Erdähnlich",
     "Name": "Kappa Gamma",
+    "Typ": "Erdähnlich",
     "Sektor": "Neutrale Zone",
     "Monde": 2,
     "Einwohner": "KIs und Roboter",
@@ -347,8 +347,8 @@
     "Link": "/Weltraum/Freihandelszone/Neusirius"
   },
   "Nova_Ceti": {
-    "Typ": "Waldplanet",
     "Name": "Nova Ceti",
+    "Typ": "Waldplanet",
     "Sektor": "Samara",
     "Monde": 0,
     "Einwohner": "intelligente Pflanzen",
@@ -457,8 +457,8 @@
     "Link": "/Weltraum/Freihandelszone/Rigel_3"
   },
   "Sampuk": {
-    "Typ": "Felsplanet",
     "Name": "Sampuk",
+    "Typ": "Felsplanet",
     "Sektor": "Samara",
     "Monde": 2,
     "Einwohner": "Samnesen",
@@ -611,8 +611,8 @@
     "Link": "/Weltraum/Aliens/Wagonen/Windsor_Planet"
   },
   "Woodstock": {
-    "Typ": "Erdähnlich",
     "Name": "Woodstock",
+    "Typ": "Erdähnlich",
     "Sektor": "Neutrale Zone",
     "Monde": "Asteroidengürtel",
     "Einwohner": "Hippies",

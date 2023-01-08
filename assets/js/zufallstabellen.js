@@ -1,18 +1,6 @@
-tabellen['rsmacken'] = ["Schildfluktuationen", "Antriebswackler", "Lack bröckelt", "Instrumente blinken", "Licht aus", "Schiff wird rosa", "Waffenproblem", 
-    "Spontane Raumzeitkrümmung", "KI eingebaut", "Reboot nötig", "Sitze unbequem", "Scheibe beschlagen", "FTL macht Wupp", "Schwerkraft fällt aus", 
-    "Rechts ist Links", "Piepsstimmen", "Tropenwetter", "Hanfwachstum", "Kinoabend", "Türen zu", "Stabilisatoren versagen", "Antiquierte Technik", 
-    "Schwerkraft verdoppelt sich", "Schluckauf des Hyperkerns", "Knopf klemmt", "Papierstau", "Unwahrscheinlichkeitswirbel", "Weltraumherpes", "Fasching", 
-    "Computer deprimiert", "Wasserschaden", "Service überfällig", "Unerwarteter Ausnahmefehler", "Wartemusik", "Überhitzung", "Klappert"];
+tabellen['rsmacken'] = tabellen["existingRaumschiffmacken"];
 
-tabellen['scmacken'] = ["extrem bürokratisch", "Luftikus", "zu cool für dieses Universum", "zu wagemutig", "extrem sparsam", "hasst eine Alienrasse",
-    "früher war alles besser", "das machen wir mal kurz", "in seinen Cyberpapagei vernarrt", "technikverliebt", "spuckt ständig Kautabak in die Ecke", 
-    "zu redegewandt (macht viele Worte und jeder versteht nur die Hälfte)", "erzählt dauernd alte Geschichten", "immer hinter den Weibern bzw. Kerlen her",
-    "trägt die Augenklappe nur, weil er dann grimmiger aussieht", "verträgt keinen Alkohol (außer Rum)", "ist immer wesentlich zu früh",
-    "wirkt auf andere Piraten zu weibisch oder mimosenhaft", "kann nicht weiter als bis 20 rechnen", "wankelmütig", "bewegt sich in der Öffentlichkeit nur maskiert",
-    "hasst eine Regierung und „rebelliert“ gegen diese", "Religiöser Fanatiker", "hat einen Lieblingsspruch, den er bei jeder Gelegenheit verwendet",
-    "Ökoaktivist", "überzeugter Esoteriker", "hyperaktiv und nervös", "Stimmungsschwankungen", "Macho bzw. Feministin",
-    "hoffnungsloser Optimist", "sehr modebewusst", "Extremsammler", "findet immer einen Haken bei der Sache", "hat einen Putzfimmel", "besitzt zwei linke Hände",
-    "extremer Theoretiker"];
+tabellen['scmacken'] = tabellen["existingPiratenmacken"];
 
 tabellen["ts"] = ["[ts1][ts2][ts3]"];
 

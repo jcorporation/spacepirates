@@ -2,6 +2,44 @@
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/Hintergrund
 title: Hintergrund
+sitedata:
+    Piratenmacken:
+        - extrem bürokratisch
+        - Luftikus
+        - zu cool für dieses Universum
+        - zu wagemutig
+        - extrem sparsam
+        - hasst eine Alienrasse
+        - früher war alles besser
+        - das machen wir mal kurz
+        - in seinen Cyberpapagei vernarrt
+        - technikverliebt
+        - spuckt ständig Kautabak in die Ecke
+        - zu redegewandt (macht viele Worte und jeder versteht nur die Hälfte)
+        - erzählt dauernd alte Geschichten
+        - immer hinter den Weibern bzw. Kerlen her
+        - trägt die Augenklappe nur, weil er dann grimmiger aussieht
+        - verträgt keinen Alkohol (außer Rum)
+        - ist immer wesentlich zu früh
+        - wirkt auf andere Piraten zu weibisch oder mimosenhaft
+        - kann nicht weiter als bis 20 rechnen
+        - wankelmütig
+        - bewegt sich in der Öffentlichkeit nur maskiert
+        - hasst eine Regierung und „rebelliert“ gegen diese
+        - Religiöser Fanatiker
+        - hat einen Lieblingsspruch, den er bei jeder Gelegenheit verwendet
+        - Ökoaktivist
+        - überzeugter Esoteriker
+        - hyperaktiv und nervös
+        - Stimmungsschwankungen
+        - Macho bzw. Feministin
+        - hoffnungsloser Optimist
+        - sehr modebewusst
+        - Extremsammler
+        - findet immer einen Haken bei der Sache
+        - hat einen Putzfimmel
+        - besitzt zwei linke Hände
+        - extremer Theoretiker
 ---
 
 # Hintergrund
@@ -64,46 +102,16 @@ Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben, aber übertr
 
 ### Piratenmacken
 
-| W6 | W6 | Macke |
-| :--: | :--: | ----- |
-| 1 | 1 | extrem bürokratisch |
-| 1 | 2 | Luftikus |
-| 1 | 3 | zu cool für dieses Universum |
-| 1 | 4 | zu wagemutig |
-| 1 | 5 | extrem sparsam |
-| 1 | 6 | hasst eine Alienrasse |
-|----
-| 2 | 1 | früher war alles besser |
-| 2 | 2 | das machen wir mal kurz |
-| 2 | 3 | in seinen Cyberpapagei vernarrt |
-| 2 | 4 | technikverliebt |
-| 2 | 5 | spuckt ständig Kautabak in die Ecke |
-| 2 | 6 | zu redegewandt (macht viele Worte und jeder versteht nur die Hälfte) |
-|----
-| 3 | 1 | erzählt dauernd alte Geschichten |
-| 3 | 2 | immer hinter den Weibern bzw. Kerlen her |
-| 3 | 3 | trägt die Augenklappe nur, weil er dann grimmiger aussieht |
-| 3 | 4 | verträgt keinen Alkohol (außer Rum) |
-| 3 | 5 | ist immer wesentlich zu früh |
-| 3 | 6 | wirkt auf andere Piraten zu weibisch oder mimosenhaft |
-|----
-| 4 | 1 | kann nicht weiter als bis 20 rechnen |
-| 4 | 2 | wankelmütig  |
-| 4 | 3 | bewegt sich in der Öffentlichkeit nur maskiert |
-| 4 | 4 | hasst eine Regierung und „rebelliert“ gegen diese |
-| 4 | 5 | Religiöser Fanatiker |
-| 4 | 6 | hat einen Lieblingsspruch, den er bei jeder Gelegenheit verwendet |
-|----
-| 5 | 1 | Ökoaktivist |
-| 5 | 2 | überzeugter Esoteriker |
-| 5 | 3 | hyperaktiv und nervös |
-| 5 | 4 | Stimmungsschwankungen |
-| 5 | 5 | Macho bzw. Feministin |
-| 5 | 6 | hoffnungsloser Optimist |
-|----
-| 6 | 1 | sehr modebewusst |
-| 6 | 2 | Extremsammler |
-| 6 | 3 | findet immer einen Haken bei der Sache |
-| 6 | 4 | hat einen Putzfimmel |
-| 6 | 5 | besitzt zwei linke Hände |
-| 6 | 6 | extremer Theoretiker |
+{% assign nrMacken = page.sitedata.Piratenmacken.size %}
+<table>
+<thead>
+<tr><th>W{{ nrMacken }}</th><th>Macke</th></tr>
+</thead>
+<tbody>
+{% assign i = 1 %}
+{% for macke in page.sitedata.Piratenmacken %}
+    <tr><td>{{ i }}</td><td>{{ macke }}</td></tr>
+    {% assign i = i | plus: 1 %}
+{% endfor %}
+</tbody>
+</table>

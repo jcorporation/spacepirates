@@ -6,8 +6,8 @@ title: Woodstock
 sitedata:
     Planeten:
         Woodstock:
-            Typ: Erdähnlich
             Name: Woodstock
+            Typ: Erdähnlich
             Sektor: Neutrale Zone
             Monde: Asteroidengürtel
             Einwohner: Hippies

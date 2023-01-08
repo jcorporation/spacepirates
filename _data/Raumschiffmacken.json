@@ -1,0 +1,182 @@
+{
+  "0": {
+    "Name": "Schildfluktuationen",
+    "Beschreibung": "Alle <span class=\"dice\">1W4</span> Runden versagen die Schilde.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "1": {
+    "Name": "Antriebswackler",
+    "Beschreibung": "Der Antrieb versagt, das Raumschiff kann sich nur noch drehen.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "10": {
+    "Name": "Sitze unbequem",
+    "Beschreibung": "Die Sitze und Schlafgelegenheiten sind unheimlich unbequem.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "11": {
+    "Name": "Scheibe beschlagen",
+    "Beschreibung": "Die Frontscheibe ist beschlagen, das Raumschiff fliegt mit halber Geschwindigkeit in eine zufällige Richtung.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "12": {
+    "Name": "FTL macht Wupp",
+    "Beschreibung": "Der FTL macht nur noch WUPP und funktioniert nicht mehr.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "13": {
+    "Name": "Schwerkraft fällt aus",
+    "Beschreibung": "Die künstliche Schwerkraft fällt aus, &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "14": {
+    "Name": "Rechts ist Links",
+    "Beschreibung": "Das Raumschiff vertauscht rechts mit links, &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "15": {
+    "Name": "Piepsstimmen",
+    "Beschreibung": "Der Heliumanteil der Luft nimmt schlagartig zu, alle reden bis zur Behebung der Macke mit piepsiger Stimme.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "16": {
+    "Name": "Tropenwetter",
+    "Beschreibung": "Die Temperatur und die Luftfeuchtigkeit nehmen tropische Ausmaße an, alle Instrumente beschlagen, &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "17": {
+    "Name": "Hanfwachstum",
+    "Beschreibung": "Überall im Raumschiff wächst illegaler und sehr hartnäckiger Hanf, &minus;1 auf alle Proben",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "18": {
+    "Name": "Kinoabend",
+    "Beschreibung": "Der Schiffscomputer veranstaltet ganz spontan einen Videoabend, alle Videoverbindungen zeigen nur noch Stummfilme.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "19": {
+    "Name": "Türen zu",
+    "Beschreibung": "Alle Türen im Raumschiff verschließen sich und lassen sich nicht mehr öffnen, auch nicht durch gutes zureden.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "2": {
+    "Name": "Lack bröckelt",
+    "Beschreibung": "Die Lackierung des Raumschiffs bröckelt ab, das Schiff bekommt +1 auf die Wendigkeit und nimmt 2 Schadenspunkte (es war tragender Lack).",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "20": {
+    "Name": "Stabilisatoren versagen",
+    "Beschreibung": "Das Raumschiff dreht sich wild in alle Richtungen, so dass der Crew schlecht wird, &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "21": {
+    "Name": "Antiquierte Technik",
+    "Beschreibung": "Alle Teile, die der Tech gerade benutzen will, sind so uralt, dass er sie kaum zu bedienen weiß, &minus;1 auf alle TECH Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "22": {
+    "Name": "Schwerkraft verdoppelt sich",
+    "Beschreibung": "Die künstliche Schwerkraft verdoppelt sich, &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "23": {
+    "Name": "Schluckauf des Hyperkerns",
+    "Beschreibung": "Das Raumschiff zockelt alle 2 Stunden 1 Lichtjahr voran und ist sonst bewegungslos.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "24": {
+    "Name": "Knopf klemmt",
+    "Beschreibung": "Es kann kein Knopf mehr gedrückt werden. Alle wichtigen Funktionen werden mit Knöpfen bedient!",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "25": {
+    "Name": "Papierstau",
+    "Beschreibung": "Alle Drucker an Bord spucken unendlich viel mit Maschinensprache bedrucktes Papier aus. &minus;1 auf alle Proben, wegen Platzmangel.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "26": {
+    "Name": "Unwahrscheinlichkeitswirbel",
+    "Beschreibung": "Ein Unwahrscheinlichkeitswirbel entsteht, es tritt eine zufällige Macke dieser Tabelle ein.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "27": {
+    "Name": "Weltraumherpes",
+    "Beschreibung": "Das Schiff hat Herpes, alle <span class=\"dice\">1W10</span> Minuten platzen aus den Wänden <span class=\"dice\">1W6</span> kleine schleimige Tierchen heraus.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "28": {
+    "Name": "Fasching",
+    "Beschreibung": "Der Schiffscomputer denkt, es sei Fasching, und startet eine unglaubliche Faschingsparty.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "29": {
+    "Name": "Computer deprimiert",
+    "Beschreibung": "Der Computer ist deprimiert und führt deshalb jede Aktion nur noch halb so schnell aus und jammert der Crew die Ohren voll.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "3": {
+    "Name": "Instrumente blinken",
+    "Beschreibung": "Die Instrumente blinken wie wild, Mali von &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "30": {
+    "Name": "Wasserschaden",
+    "Beschreibung": "Eine Fehlfunktion der Sprinkleranlage setzt das Schiff unter Wasser, das löst leichte Schläge aus, &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "31": {
+    "Name": "Service überfällig",
+    "Beschreibung": "Eine unwichtiges Sekundärsystem wurde zu lange nicht mehr gewartet und erinnert die Piratencrew bei jeder Aktion mit einem nervigen Popup daran, &minus;1 auf alle Schiffsproben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "32": {
+    "Name": "Unerwarteter Ausnahmefehler",
+    "Beschreibung": "Das Schiff meldet einen unerwarteten Ausnahmefehler in einem zufällige ausgewählten Zubehörteil. Das Zubehör ist nicht mehr benutzbar.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "33": {
+    "Name": "Wartemusik",
+    "Beschreibung": "Aus allen, aus wirklich allen Lautsprechern ertönt ohrenbetäubende Wartemusik, man kann sich kaum noch verständigen.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "34": {
+    "Name": "Überhitzung",
+    "Beschreibung": "Die Systeme sind überhitzt, sogar der Kapitänssitz glüht schon fast. Das Schiff muss alle <span class=\"dice\">1W20</span> Minuten 1W6 Minuten abkühlen.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "35": {
+    "Name": "Klappert",
+    "Beschreibung": "Irgendwas klappert im Schiff, keine Ahnung was und wo, aber es ist unheimlich nervig, &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "4": {
+    "Name": "Licht aus",
+    "Beschreibung": "Das Licht im Raumschiff geht aus, alle an Bord befindlichen Glühbirnen sind durchgebrannt (Egal, ob in Gebrauch oder nicht).",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "5": {
+    "Name": "Schiff wird rosa",
+    "Beschreibung": "Es wird einfach nur rosa, innen wie außen, der Kapitän schämt sich und bekommt &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "6": {
+    "Name": "Waffenproblem",
+    "Beschreibung": "Die Bordwaffen haben nur noch die halbe Reichweite. Warum alle? Keine Ahnung!",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "7": {
+    "Name": "Spontane Raumzeitkrümmung",
+    "Beschreibung": "Die Raumzeit krümmt sich und das Raumschiff befindet sich fünf Minuten früher in einem zufälligen Sternensystem. Das wiederholt sich alle 1W6 Stunden, bis die Macke repariert wurde.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "8": {
+    "Name": "KI eingebaut",
+    "Beschreibung": "Irgendwie ist eine KI in das Raumschiff gekommen und will jetzt jede Aktion begründet wissen.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "9": {
+    "Name": "Reboot nötig",
+    "Beschreibung": "Der Schiffscomputer muss alle 10 Minuten gebootet werden, was 20 Minuten dauert, während dieser Zeit läuft das Schiff nur im Notfallmodus (keine Waffen, kein FTL, etc).",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  }
+}

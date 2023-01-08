@@ -6,8 +6,8 @@ title: Sampuk
 sitedata:
     Planeten:
         Sampuk:
-            Typ: Felsplanet
             Name: Sampuk
+            Typ: Felsplanet
             Sektor: Samara
             Monde: 2
             Einwohner: Samnesen
