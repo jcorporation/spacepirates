@@ -52,23 +52,47 @@ SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedre
 </div>
 <div class="row bg-yellow g-0 text-center rounded-bottom mb-3">
     <div class="col clickable border-end p-2">
-        <a href="{{ site.baseurl }}/Spielregeln/" class="link-dark">Spielregeln</a>
+        <a href="{{ site.baseurl }}/Aktuelles/" class="link-dark">Aktuelles</a>
     </div>
     <div class="col clickable border-end p-2">
-        <a href="{{ site.baseurl }}/Weltraum/" class="link-dark">Weltraum</a>
+        <a href="{{ site.baseurl }}/Freies_Rollenspiel" class="link-dark">Freies Rollenspiel</a>
     </div>
     <div class="col clickable border-end p-2">
-        <a href="{{ site.baseurl }}/Abenteuer/" class="link-dark">Abenteuer</a>
-    </div>
-    <div class="col clickable p-2">
-        <a href="{{ site.baseurl }}/Zufallstabellen/" class="link-dark">Zufallstabellen</a>
+        <a href="{{ site.baseurl }}/Kontakt" class="link-dark">Kontakt</a>
     </div>
 </div>
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4 mb-3">
   <div class="col">
+    <div class="card h-100 bg-spielregeln text-light text-shadow text-center clickable">
+      <div class="card-header fs-5">Spielregeln</div>
+      <div class="card-body"></div>
+      <div class="card-footer mt-6 bg-black bg-opacity-50">
+        <a class="link-light" href="{{ site.baseurl }}/Spielregeln/">Die Regeln von SpacePirates</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 bg-weltraum text-light text-shadow text-center clickable">
+      <div class="card-header fs-5">Weltraum</div>
+      <div class="card-body"></div>
+      <div class="card-footer mt-6 bg-black bg-opacity-50">
+        <a class="link-light" href="{{ site.baseurl }}/Weltraum/">Erforsche den Weltraum</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 bg-abenteuer text-light text-shadow text-center clickable">
+      <div class="card-header fs-5 bg-black bg-opacity-25">Abenteuer</div>
+      <div class="card-body"></div>
+      <div class="card-footer mt-6 bg-black bg-opacity-50">
+        <a class="link-light" href="{{ site.baseurl }}/Abenteuer/">Die Abenteuer der SpacePirates</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
     <div class="card h-100 bg-publikationen text-light text-shadow text-center clickable">
-      <div class="card-header fs-5">Publikationen</div>
+      <div class="card-header fs-5 bg-black bg-opacity-25">Publikationen</div>
       <div class="card-body"></div>
       <div class="card-footer mt-6 bg-black bg-opacity-50">
         <a class="link-light" href="{{ site.baseurl }}/Publikationen/">Alle SpacePirates PDFs und Bücher</a>
@@ -76,26 +100,17 @@ SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedre
     </div>
   </div>
   <div class="col">
-    <div class="card h-100 bg-sternenkarte text-light text-shadow text-center clickable">
-      <div class="card-header fs-5">Interaktive Sternenkarte</div>
+    <div class="card h-100 bg-zufallstabellen text-light text-shadow text-center clickable">
+      <div class="card-header fs-5 bg-black bg-opacity-25">Zufallstabellen</div>
       <div class="card-body"></div>
       <div class="card-footer mt-6 bg-black bg-opacity-50">
-        <a class="link-light" href="{{ site.baseurl }}/Weltraum/Sternenkarte/">Erforsche den Weltraum</a>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100 bg-startunes text-light text-shadow text-center clickable">
-      <div class="card-header fs-5">StarTunes</div>
-      <div class="card-body"></div>
-      <div class="card-footer mt-6 bg-black bg-opacity-50">
-        <a class="link-light" href="{{ site.baseurl }}/StarTunes/">SpacePirates Soundtrack</a>
+        <a class="link-light" href="{{ site.baseurl }}/Zufallstabellen/">Zufallstabellen und -generatoren</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100 bg-ideenhalde text-light text-shadow text-center clickable">
-      <div class="card-header fs-5">Ideenhalde</div>
+      <div class="card-header fs-5 bg-black bg-opacity-25">Ideenhalde</div>
       <div class="card-body"></div>
       <div class="card-footer mt-6 bg-black bg-opacity-50">
         <a class="link-light" href="{{ site.baseurl }}/Ideenhalde/">Ideen für neue Inhalte</a>
