@@ -26,7 +26,8 @@ Dies wird die neue Version von SpacePirates, alle PDFs sind Previews. Der genaue
                         <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev6.png" width="156" height="140">
                     </div>
                     <div class="col">
-                        <p>Die Karte des SpacePirates Universums.</p>
+                        <p>Die Sternenkarte des SpacePirates Universums.</p>
+                        <p>Es gibt die Sternenkarte auch <a href="{{ site.baseurl }}/Weltraum/Sternenkarte/">online</a>, mit interaktiven Funktionen.</p>
                     </div>
                 </div>
             </div>
