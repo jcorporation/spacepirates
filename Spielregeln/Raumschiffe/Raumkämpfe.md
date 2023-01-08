@@ -38,6 +38,40 @@ Wenn alle Schadenspunkte des Raumschiffs verbraucht sind, bricht es auseinander,
 | 5 | Der Neutritiumreaktor explodiert in 1W20 Minuten. |
 | 6 | Die Lebenserhaltung fällt aus. |
 
+{% include todo.md title="Tipps vervollständigen" %}
+
+{% capture include_body %}
+Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel eingesetzt werden. Diese Liste dient nur der Inspirationen. Jeder Raumkampf ist unterschiedlich und daher sollten die Aktionen immer von den Gegebenheiten und den Aktionen der anderen Parteien abhängen.
+
+##### Erfolgswürfel
+
+- HÄNDLER
+  - ???
+- PILOT
+  - Außer Schussweite des Gegners gelangen
+  - 2 Erfolge: Mit Enterschleuse andocken (Schilde beider Schiffe müssen deaktiviert sein)
+  - Ausweichmanöver Y-Gamma-Zeta-5 fliegen, nächster Treffer ist nur ein Streifschuss (halber Schaden)
+- SÖLDNER
+  - pro Erfolg einen Treffer und SM der Bordkanone Schaden beim gegnerischen Raumschiff
+  - 2 Erfolge: ausschalten eines bestimmten Subsystems (Schilde müssen durchdrungen werden)
+- TECH
+  - Schilde regenerieren um 2 Punkte je eingesetztem Erfolg
+  - Schaden des nächsten Schusses erhöht sich um 1 je eingesetztem Erfolg
+  - Der nächste Schuss kann die Schilde des Gegners durchdringen
+
+##### Misserfolgswürfel
+
+- HÄNDLER
+  - ???
+- PILOT
+  - ???
+- SÖLDNER
+  - ???
+- TECH
+  - ???
+{% endcapture %}
+{% include hinweis.md title="Tipps für den Einsatz von Erfolgs- und Misserfolgswürfeln" body=include_body %}
+
 {% capture include_body %}
 Die Piraten um Chen überfallen ein altes Frachtschiff, das erstaunlich wehrhaft ist (Es gibt zwei Parteien in diesem Konflikt). Das Frachtschiff ist mit Torpedos ausgestattet und besitzt einen Schildwert von 5 Punkten. Die Piraten wollen das Raumschiff entern, der Frachter will entkommen (Ziele definieren).
 
