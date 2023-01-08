@@ -60,6 +60,11 @@ Mali gibt es bei SpacePirates nicht. Statt einer Partei Mali zu geben, erhält d
 {% include hinweis.md title="Boni" body=include_body %}
 
 {% capture include_body %}
+Kann der Spieler vor einer medizinischen, technischen oder wissenschaftlichen Probe mit einer Reihe Fremdbegriffe fachlich plausibel (es sollte gut und passend klingen) erklären, was der Charakter genau tut und warum es dadurch funktionieren muss, kann der Spielleiter einen Bonus auf den Wurf geben.
+{% endcapture %}
+{% include hinweis.md title="Technobabbel" body=include_body %}
+
+{% capture include_body %}
 Bei SpacePirates können beliebige Würfel mit einer geraden Seitenzahl verwendet werden.
 
 Zeigt der Würfel eine ungerade Zahl, so handelt es sich um einen Misserfolg, zeigt er eine gerade Zahl, dann ist dieser Würfel ein Erfolg.
@@ -80,7 +85,7 @@ Zeigt der Würfel eine ungerade Zahl, so handelt es sich um einen Misserfolg, ze
 
 Xenur und Chen erreichen zusammen 6 Erfolge, die Schläger nur 5, somit gewinnen die Spielercharaktere die Konfliktszene.
 {% endcapture %}
-{% include beispiel.md title="WürBeispiel zu siegreiche Partei ermittelnfel" body=include_body %}
+{% include beispiel.md title="Beispiel zu siegreiche Partei ermitteln" body=include_body %}
 
 ## Was genau ist geschehen?
 
