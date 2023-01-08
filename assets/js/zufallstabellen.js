@@ -4,7 +4,7 @@ tabellen['rsmacken'] = ["Schildfluktuationen", "Antriebswackler", "Lack bröckel
     "Schwerkraft verdoppelt sich", "Schluckauf des Hyperkerns", "Knopf klemmt", "Papierstau", "Unwahrscheinlichkeitswirbel", "Weltraumherpes", "Fasching", 
     "Computer deprimiert", "Wasserschaden", "Service überfällig", "Unerwarteter Ausnahmefehler", "Wartemusik", "Überhitzung", "Klappert"];
 
-tabellen['scmacken'] = ["extrem bürokratisch", "immer auf eine Schlägerei aus", "zu cool für dieses Universum", "zu wagemutig", "extrem sparsam", "hasst eine Alienrasse",
+tabellen['scmacken'] = ["extrem bürokratisch", "Luftikus", "zu cool für dieses Universum", "zu wagemutig", "extrem sparsam", "hasst eine Alienrasse",
     "früher war alles besser", "das machen wir mal kurz", "in seinen Cyberpapagei vernarrt", "technikverliebt", "spuckt ständig Kautabak in die Ecke", 
     "zu redegewandt (macht viele Worte und jeder versteht nur die Hälfte)", "erzählt dauernd alte Geschichten", "immer hinter den Weibern bzw. Kerlen her",
     "trägt die Augenklappe nur, weil er dann grimmiger aussieht", "verträgt keinen Alkohol (außer Rum)", "ist immer wesentlich zu früh",

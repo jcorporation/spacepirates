@@ -67,7 +67,7 @@ Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben, aber übertr
 | W6 | W6 | Macke |
 | :--: | :--: | ----- |
 | 1 | 1 | extrem bürokratisch |
-| 1 | 2 | immer auf eine Schlägerei aus |
+| 1 | 2 | Luftikus |
 | 1 | 3 | zu cool für dieses Universum |
 | 1 | 4 | zu wagemutig |
 | 1 | 5 | extrem sparsam |
