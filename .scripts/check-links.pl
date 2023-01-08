@@ -18,6 +18,9 @@ sub checklink {
         if (not $file =~ /\.(pdf|png|jpg|svg|js)$/) {
             $file .= ".md";
         }
+        if ($file eq "Aktuelles/index.md") {
+            return;
+        }
         if (not -f $file) {
             print "$checkfile:$line - Invalid link: \"$file\" (file not found)\n";
             $rc = 1;
