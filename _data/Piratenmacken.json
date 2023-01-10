@@ -8,43 +8,43 @@
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "10": {
-    "Name": "spuckt ständig Kautabak in die Ecke",
+    "Name": "technikverliebt",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "11": {
-    "Name": "zu redegewandt (macht viele Worte und jeder versteht nur die Hälfte)",
+    "Name": "spuckt ständig Kautabak in die Ecke",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "12": {
-    "Name": "erzählt dauernd alte Geschichten",
+    "Name": "zu redegewandt (macht viele Worte und jeder versteht nur die Hälfte)",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "13": {
-    "Name": "immer hinter den Weibern bzw. Kerlen her",
+    "Name": "erzählt dauernd alte Geschichten",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "14": {
-    "Name": "trägt die Augenklappe nur, weil er dann grimmiger aussieht",
+    "Name": "immer hinter den Weibern bzw. Kerlen her",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "15": {
-    "Name": "verträgt keinen Alkohol (außer Rum)",
+    "Name": "trägt die Augenklappe nur, weil er dann grimmiger aussieht",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "16": {
-    "Name": "ist immer wesentlich zu früh",
+    "Name": "verträgt keinen Alkohol (außer Rum)",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "17": {
-    "Name": "wirkt auf andere Piraten zu weibisch oder mimosenhaft",
+    "Name": "ist immer wesentlich zu früh",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "18": {
-    "Name": "kann nicht weiter als bis 20 rechnen",
+    "Name": "wirkt auf andere Piraten zu weibisch oder mimosenhaft",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "19": {
-    "Name": "wankelmütig",
+    "Name": "kann nicht weiter als bis 20 rechnen",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "2": {
@@ -52,11 +52,11 @@
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "20": {
-    "Name": "bewegt sich in der Öffentlichkeit nur maskiert",
+    "Name": "wankelmütig",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "21": {
-    "Name": "hasst eine Regierung und „rebelliert“ gegen diese",
+    "Name": "bewegt sich in der Öffentlichkeit nur maskiert",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "22": {
@@ -96,7 +96,7 @@
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "30": {
-    "Name": "sehr modebewusst",
+    "Name": "sehr modebewusst und auf sein Äußeres bedacht",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "31": {
@@ -119,28 +119,44 @@
     "Name": "extremer Theoretiker",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
+  "36": {
+    "Name": "immer sehr gelassen",
+    "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
+  },
+  "37": {
+    "Name": "schnell zu begeistern",
+    "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
+  },
+  "38": {
+    "Name": "freizügig",
+    "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
+  },
+  "39": {
+    "Name": "überkorrekt",
+    "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
+  },
   "4": {
     "Name": "extrem sparsam",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "5": {
-    "Name": "hasst eine Alienrasse",
+    "Name": "perfektionistisch",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "6": {
-    "Name": "früher war alles besser",
+    "Name": "heroisch und ritterlich",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "7": {
-    "Name": "das machen wir mal kurz",
+    "Name": "früher war alles besser",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "8": {
-    "Name": "in seinen Cyberpapagei vernarrt",
+    "Name": "das machen wir mal kurz",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   },
   "9": {
-    "Name": "technikverliebt",
+    "Name": "in seinen Cyberpapagei vernarrt",
     "Link": "/Spielregeln/Die_Piratencrew/Hintergrund"
   }
 }
