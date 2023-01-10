@@ -9,7 +9,8 @@ sitedata:
         - zu cool für dieses Universum
         - zu wagemutig
         - extrem sparsam
-        - hasst eine Alienrasse
+        - perfektionistisch
+        - heroisch und ritterlich
         - früher war alles besser
         - das machen wir mal kurz
         - in seinen Cyberpapagei vernarrt
@@ -25,7 +26,6 @@ sitedata:
         - kann nicht weiter als bis 20 rechnen
         - wankelmütig
         - bewegt sich in der Öffentlichkeit nur maskiert
-        - hasst eine Regierung und „rebelliert“ gegen diese
         - Religiöser Fanatiker
         - hat einen Lieblingsspruch, den er bei jeder Gelegenheit verwendet
         - Ökoaktivist
@@ -34,12 +34,16 @@ sitedata:
         - Stimmungsschwankungen
         - Macho bzw. Feministin
         - hoffnungsloser Optimist
-        - sehr modebewusst
+        - sehr modebewusst und auf sein Äußeres bedacht
         - Extremsammler
         - findet immer einen Haken bei der Sache
         - hat einen Putzfimmel
         - besitzt zwei linke Hände
         - extremer Theoretiker
+        - immer sehr gelassen
+        - schnell zu begeistern
+        - freizügig
+        - überkorrekt
 ---
 
 # Hintergrund
