@@ -6,7 +6,7 @@ title: Raumfkämpfe
 
 # Raumkämpfe
 
-Bei Raumkämpfen wird die Gruppe unterteilt, es gibt genau einen Piloten, beliebig viele Schützen und beliebig viele Techs.
+Bei Raumkämpfen wird die Gruppe unterteilt, es gibt genau einen Piloten, beliebig viele Schützen und beliebig viele Techs. Es wird ja gekämpft und nicht verhandelt.
 
 Ein Raumkampf wird wie eine Konfliktszene abgehandelt. Jedes beteiligte Raumschiff zählt dabei als eine Partei.
 
@@ -41,12 +41,10 @@ Wenn alle Schadenspunkte des Raumschiffs verbraucht sind, bricht es auseinander,
 {% include todo.md title="Tipps vervollständigen" %}
 
 {% capture include_body %}
-Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel eingesetzt werden. Diese Liste dient nur der Inspirationen. Jeder Raumkampf ist unterschiedlich und daher sollten die Aktionen immer von den Gegebenheiten und den Aktionen der anderen Parteien abhängen.
+Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel in einem Raumkampf eingesetzt werden können. Diese Liste dient nur der Inspirationen. Jeder Raumkampf ist unterschiedlich und daher sollten die Aktionen immer von den Gegebenheiten und den Aktionen der anderen Parteien abhängen.
 
 ##### Erfolgswürfel
 
-- HÄNDLER
-  - ???
 - PILOT
   - Außer Schussweite des Gegners gelangen
   - 2 Erfolge: Mit Enterschleuse andocken (Schilde beider Schiffe müssen deaktiviert sein)
@@ -54,20 +52,25 @@ Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel eingesetzt werden. D
 - SÖLDNER
   - pro Erfolg einen Treffer und SM der Bordkanone Schaden beim gegnerischen Raumschiff
   - 2 Erfolge: ausschalten eines bestimmten Subsystems (Schilde müssen durchdrungen werden)
+  - ???
 - TECH
   - Schilde regenerieren um 2 Punkte je eingesetztem Erfolg
-  - Schaden des nächsten Schusses erhöht sich um 1 je eingesetztem Erfolg
+  - Schaden des nächsten Schusses erhöht sich um einen Punkt je eingesetztem Erfolg
   - Der nächste Schuss kann die Schilde des Gegners durchdringen
 
 ##### Misserfolgswürfel
 
-- HÄNDLER
-  - ???
 - PILOT
-  - ???
+  - verschaltet sich oder würgt den Antrieb ab (das Schiff hat keine Automatik)
+  - verwechselt ein Angriffsmanöver mit einem Ausweichmanöver
+  - fliegt zu wilde Manöver, so dass es der Crew schlecht wird
 - SÖLDNER
-  - ???
+  - trifft einen Meteoriten und nimmt sich selber die Sicht
+  - 2 Misserfolge: überhitzt durch den Schnellfeuermodus die Waffe und kann eine Runde nicht feuern
+  - der Schuss geht völlig daneben
 - TECH
+  - ???
+  - ???
   - ???
 {% endcapture %}
 {% include hinweis.md title="Tipps für den Einsatz von Erfolgs- und Misserfolgswürfeln" body=include_body %}
