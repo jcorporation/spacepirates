@@ -4928,7 +4928,6 @@
   },
   "madame plaemplaem": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 176,
-    "/Weltraum/Promis": 25,
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 1
   },
   "maechtigerer gegner": {
@@ -6702,7 +6701,6 @@
   },
   "plaemplaem": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 176,
-    "/Weltraum/Promis": 25,
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 1
   },
   "planet": {
@@ -6821,7 +6819,6 @@
     "/Weltraum/Konzerne/JCTech_IAG": 2,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Dinosaurier": 2,
     "/Weltraum/Politische_Lage/": 2,
-    "/Weltraum/Promis": 2,
     "/Weltraum/Sektoren/": 2,
     "/collections/_Sekten/Heavensgate": 2,
     "/Abenteuer/Blumenkind/": 1,
@@ -6880,6 +6877,7 @@
     "/Weltraum/Neutrale_Zone/": 1,
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Roboterfressende_Pflanzen": 1,
     "/Weltraum/Piraten/": 1,
+    "/Weltraum/Promis": 1,
     "/Weltraum/Raumstationen/": 1,
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder": 1,
     "/Weltraum/SpaceRocker/Baneros_Banditos/": 1,
