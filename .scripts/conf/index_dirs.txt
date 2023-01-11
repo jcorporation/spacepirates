@@ -1,3 +1,6 @@
 Abenteuer
 Spielregeln
 Weltraum
+collections/_Piratencrews
+collections/_Sekten
+collections/_Weltraumtiere

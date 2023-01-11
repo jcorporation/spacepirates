@@ -7,6 +7,10 @@ ASSETSDIR="assets/json"
 [ -d "$ASSETSDIR" ] || exit 1
 [ -d "$DATADIR" ] || exit 1
 
+# cleanup dirs
+rm -f "$ASSETSDIR/"*
+rm -f "$DATADIR/"*
+
 # create or cleanup tmp dir
 if [ -d "$TMPDIR" ]
 then

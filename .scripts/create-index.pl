@@ -42,7 +42,7 @@ else {
     open my $dh, ".scripts/conf/index_dirs.txt" or die "Error opening .scripts/conf/index_dirs.txt";
     while (my $dir = <$dh>) {
         chomp($dir);
-        print "Adding $dir to index\n";
+        print "Adding directory $dir to index\n";
         get_files($dir);
     }
 close $dh;
@@ -180,7 +180,7 @@ sub add_keyphrase {
 }
 
 # get keywords from files
-for my $filename (@files) {
+for my $filename (sort @files) {
     open my $fh, $filename or die "Error opening $filename";
     my $line = <$fh>;
     chomp $line;
@@ -228,7 +228,7 @@ for my $filename (@files) {
         open $fh, $filename or die "Error opening $filename";
     }    
     while ($line = <$fh>) {
-        #Todo: add keywords from frontmatter
+        # Todo: add keywords from frontmatter
         if ($line =~ /^#+\s*(.+)\s*$/) {
             # titles
             _log("Add keyphrase from \"heading\": \"$1\"");
@@ -293,9 +293,14 @@ sub parse_data {
 # get keywords from _data
 opendir $dh, "_data" or die "Error in opening dir _data";
 while (my $filename = readdir($dh)) {
-    if ($filename =~ /^\./) {
+    if ($filename =~ /^\./ ||
+        $filename eq "index.json" ||
+        $filename eq "data_synonyms.json" ||
+        $filename eq "index_stompkeys.json")
+    {
         next;
     }
+    print "Getting keywords from $filename\n";
     parse_data("_data/".$filename);
 }
 closedir $dh;
@@ -333,7 +338,7 @@ sub parse_value {
     my $filename = $_[2];
     # default score for frontmatter
     my $inc = 1;
-    for my $keyword (keys %keywords) {
+    for my $keyword (sort keys %keywords) {
         if ($keyword eq $value) {
             #exact match
             $inc = 10;
@@ -363,8 +368,8 @@ sub parse_value {
     }
 }
 
-#index files
-for my $filename (@files) {
+# index files
+for my $filename (sort @files) {
     open $fh, $filename or die "Error opening $filename";
     if (defined($debug)) {
         _log("Parsing \"$filename\"");
@@ -428,7 +433,7 @@ for my $filename (@files) {
             $inc = 30 - ($c * 5);
         }
         $line = normalize($line);
-        for my $keyword (keys %keywords) {
+        for my $keyword (sort keys %keywords) {
             if ($line =~ /\b$keyword\b/) {
                 _log("Matched \"$keyword\": inc $inc");
                 add_uri($keyword, $inc, $filename);
@@ -439,7 +444,7 @@ for my $filename (@files) {
 }
 print "\n";
 
-#write json searchindex
+# write json searchindex
 open $oh, ">_tmp/index.json" or die "Error opening _tmp/index.json";
 print $oh "{\n";
 $i = 0;
