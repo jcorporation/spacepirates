@@ -59,7 +59,7 @@ do
         done
 
         printf "."
-    done < <(find "./$DIR" -name \*.md)
+    done < <(find "./$DIR" -name \*.md | sort)
     echo ""
 done
 
