@@ -173,12 +173,6 @@ Dieser etwas einfältige aber umso bärtigere Kahadrier hat vor vielen, vielen J
 
 {% include slc.md data=page.sitedata.Slc.Dimli %}
 
-## Madame PlämPläm
-
-Eine berühmte Sängerin, Bäämlers Muse. Exaltierte Person, die ständig Outfit und Frisur wechselt. Es ist daher sehr schwer zu sagen, von welchem Planeten sie stammt. Sie könnte eine Glukorianerin sein. Oder ein Mann.
-
-{% include slc.md data=page.sitedata.Slc.Madame_PlaemPlaem %}
-
 ## Olf Dundgren
 
 Wohl der einzige Samnese, der es mit einer ganzen Reihe von B-Movies zu einigem Ansehen in diesem Geschäft gebracht hat. So umfasst seine Filmografie Kracher wie &raquo;Blue Scorpion&laquo;, &raquo;Masters of the Planet&laquo;, &raquo;Black Angel&laquo; oder &raquo;Men of Peace&laquo;. Er ist aber merklich in die Jahre gekommen und die Hydraulik seiner Kunstmuskeln funktioniert nicht mehr einwandfrei, wodurch er öfters merkwürdige pfeifende Geräusche von sich gibt. Auch das Schmieröl, das die gewaltigen Kolben antreibt, leckt, und hinterlässt oft eine kleine Ölpfütze.
