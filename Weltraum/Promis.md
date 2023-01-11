@@ -47,12 +47,6 @@ sitedata:
             Kategorie: "Promi"
             Wohnort: ""
             Position: ""
-        Madame_PlaemPlaem:
-            Name: "Madame PlämPläm"
-            Rasse: "unbekannt"
-            Kategorie: "Promi"
-            Wohnort: "unbekannt"
-            Position: ""
         Olf_Dundgren:
             Name: "Olf Dundgren"
             Rasse: "Samnese"
