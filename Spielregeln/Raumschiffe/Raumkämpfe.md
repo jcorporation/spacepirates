@@ -51,12 +51,12 @@ Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel in einem Raumkampf e
   - Ausweichmanöver Y-Gamma-Zeta-5 fliegen, nächster Treffer ist nur ein Streifschuss (halber Schaden)
 - SÖLDNER
   - pro Erfolg einen Treffer und SM der Bordkanone Schaden beim gegnerischen Raumschiff
-  - 2 Erfolge: ausschalten eines bestimmten Subsystems (Schilde müssen durchdrungen werden)
+  - 2 Erfolge: ausschalten eines bestimmten Subsystems (Schilde des Gegners müssen deaktiviert sein)
   - ???
 - TECH
-  - Schilde regenerieren um 2 Punkte je eingesetztem Erfolg
+  - Schilde regenerieren um 2 Punkte je eingesetztem Erfolg (Hilfsenergie wird umgeleitet)
   - Schaden des nächsten Schusses erhöht sich um einen Punkt je eingesetztem Erfolg
-  - Der nächste Schuss kann die Schilde des Gegners durchdringen
+  - Wiederinstandsetzung eines Subsystems
 
 ##### Misserfolgswürfel
 
@@ -69,8 +69,8 @@ Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel in einem Raumkampf e
   - 2 Misserfolge: überhitzt durch den Schnellfeuermodus die Waffe und kann eine Runde nicht feuern
   - der Schuss geht völlig daneben
 - TECH
-  - ???
-  - ???
+  - leitet aus Versehen die Hauptenergie in die Kombüse um
+  - Überhitzt den Neutritiumreaktor
   - ???
 {% endcapture %}
 {% include hinweis.md title="Tipps für den Einsatz von Erfolgs- und Misserfolgswürfeln" body=include_body %}
