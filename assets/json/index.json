@@ -5529,7 +5529,7 @@
   },
   "neutritiumreaktor": {
     "/Weltraum/Technologie/Techtalk": 27,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 3,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 4,
     "/Abenteuer/Halloween/Station": 1
   },
   "neutritiums": {
@@ -7995,7 +7995,7 @@
   },
   "schilde": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde": 126,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 36,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 35,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
@@ -8141,6 +8141,7 @@
     "/Abenteuer/Neutritiumklau/Auftrag": 3,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 3,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 3,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 3,
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 3,
     "/Weltraum/Händler_und_Halunken": 3,
     "/Weltraum/SpaceMafia/Italienische_Mafia/Mitglieder": 3,
@@ -8165,7 +8166,6 @@
     "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 2,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Spielregeln/Raumschiffe/Wartung": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
