@@ -4928,7 +4928,7 @@
   },
   "madame plaemplaem": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 176,
-    "/Weltraum/Promis": 175,
+    "/Weltraum/Promis": 25,
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 1
   },
   "maechtigerer gegner": {
@@ -6702,7 +6702,7 @@
   },
   "plaemplaem": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 176,
-    "/Weltraum/Promis": 175,
+    "/Weltraum/Promis": 25,
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 1
   },
   "planet": {
@@ -7038,7 +7038,7 @@
     "/Abenteuer/Halloween/Nebel": 1
   },
   "promi": {
-    "/Weltraum/Promis": 191,
+    "/Weltraum/Promis": 181,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 10,
     "/Weltraum/Aliens/Trull/Golfplatz": 10,
     "/Abenteuer/Ideen/Stars_und_Sternchen": 1
@@ -9893,7 +9893,6 @@
   },
   "unbekannt": {
     "/Weltraum/Aliens/Spaceamazonen/Amazon": 20,
-    "/Weltraum/Promis": 20,
     "/Abenteuer/Buschraub/Einstieg": 10,
     "/Weltraum/Aliens/Atlanter/Atlantis": 10,
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 10,
