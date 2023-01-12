@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aside
 permalink: /Spielregeln/Spielmaterial
 title: Was wird alles zum Spielen benötigt?
 ---
