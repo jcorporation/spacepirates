@@ -18,7 +18,7 @@ sitedata:
 
 # Goemon-Ishikawa-Highschool
 
-Die Goemon-Ishikawa-Highschool (GIH) ist der eingeschworene Feind der Hattori-Hanzo-Akademie, weil jene ihre zweitklassigen (und sonstwie störenden) Schüler bei ihr ablädt. Entsprechend verhalten sich die Schüler der GIH oftmals wie pubertierende Rotzlöffel mit der Ausbildung eines Elitemeuchelmörders, deren „Scherze“ oftmals mit schweren Verletzungen oder dem Tod des Opfers enden. Trotz dieser sozialen Probleme ist die Ausbildung derart gut (oder die Prüfung derart leicht), dass nahezu niemand durchfällt. Die Ninjas der GIH fallen oft durch ihre extravaganten Cosplay-Outfits auf, die sie zu allen Gelegenheiten tragen. Zudem gewinnen sie quasi jeden Cosplaywettbewerb. Von den besten Ninjas der GIH sind sogar Sammelkarten erhältlich.
+Die Goemon-Ishikawa-Highschool (GIH) ist der eingeschworene Feind der Hattori-Hanzo-Akademie, weil jene ihre zweitklassigen (und sonst wie störenden) Schüler bei ihr ablädt. Entsprechend verhalten sich die Schüler der GIH oftmals wie pubertierende Rotzlöffel mit der Ausbildung eines Elitemeuchelmörders, deren „Scherze“ oftmals mit schweren Verletzungen oder dem Tod des Opfers enden. Trotz dieser sozialen Probleme ist die Ausbildung derart gut (oder die Prüfung derart leicht), dass nahezu niemand durchfällt. Die Ninjas der GIH fallen oft durch ihre extravaganten Cosplay-Outfits auf, die sie zu allen Gelegenheiten tragen. Zudem gewinnen sie quasi jeden Cosplaywettbewerb. Von den besten Ninjas der GIH sind sogar Sammelkarten erhältlich.
 
 **Clanoberhaupt:** Hong Gong
 

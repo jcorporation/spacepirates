@@ -14,7 +14,7 @@ Durch die Entführung eines VzFvO-Mitglieds können die Piraten die ganze Geschi
 
 ## Eindringen in Easter Egg
 
-Easter Egg ist extrem gut geschützt und bewaffnet, so dass eher eine List als aggressives Vorgehen geeignet ist. Die Piraten könnten sich z.B. von der VzFvO anwerben lassen oder sonstwie ihre Dienste anbieten. Innerhalb der Raumstation müssten sie dann nur die Kontrolleinheit für die Sonden zerstören.
+Easter Egg ist extrem gut geschützt und bewaffnet, so dass eher eine List als aggressives Vorgehen geeignet ist. Die Piraten könnten sich z.B. von der VzFvO anwerben lassen oder sonst wie ihre Dienste anbieten. Innerhalb der Raumstation müssten sie dann nur die Kontrolleinheit für die Sonden zerstören.
 
 ## Osterhase zurückschicken
 

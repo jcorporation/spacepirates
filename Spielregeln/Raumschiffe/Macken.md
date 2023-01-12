@@ -14,7 +14,7 @@ Jedes Mal, wenn eine PILOT-Probe fällig ist, würfelt der Kapitän vorher mit e
 
 ## Temporäre Behebung von Macken
 
-Durch normale, dreistündige Wartung (TECH-Probe mit mindestens 2 Erfolgen) kann die Funktionsfähigkeit des Schiffes wiederhergestellt werden, die Macke bleibt aber. Wenn keine Wartung durchgeführt wird, hilft es auch, einfach gegen das richtige Teil des Schiffs zu treten oder sonstwie zu improvisieren und eine Probe auf TECH mit 3 Erfolgen zu schaffen. Dies kann aber nur einmal pro Macke und Tech versucht werden.
+Durch normale, dreistündige Wartung (TECH-Probe mit mindestens 2 Erfolgen) kann die Funktionsfähigkeit des Schiffes wiederhergestellt werden, die Macke bleibt aber. Wenn keine Wartung durchgeführt wird, hilft es auch, einfach gegen das richtige Teil des Schiffs zu treten oder sonst wie zu improvisieren und eine Probe auf TECH mit 3 Erfolgen zu schaffen. Dies kann aber nur einmal pro Macke und Tech versucht werden.
 
 - **Wartungsprobe:** TECH + Zuverlässigkeit &ge; 2 (dauert drei Stunden)
 - **Treten / Improvisieren:** TECH + Zuverlässigkeit &ge; 3
