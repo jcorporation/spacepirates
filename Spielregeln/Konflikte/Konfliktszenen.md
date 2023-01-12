@@ -25,7 +25,7 @@ Xenur und Chen feiern gerade auf Two-Eyed-Jack und erzählen einander alte Gesch
 
 ## Parteien und Ziele
 
-Sobald es zu einem Konflikt kommt, müssen die Parteien und deren Ziele definiert werden. Eine Partei umfasst dabei alle Charaktere und passiven Hindernisse, die das gleiche Ziel erreichen wollen bzw. einem Ziel entgegenstehen.
+Sobald es zu einem Konflikt kommt, müssen die Parteien und deren Ziele definiert werden. Eine Partei umfasst dabei alle Charaktere und passiven Hindernisse, die das gleiche Ziel erreichen wollen, bzw. einem Ziel entgegenstehen.
 
 Zuerst legt jeder Spieler das Ziel seines Charakters fest. Legt ein Spieler kein Ziel für seinen Charakter fest, nimmt er nicht am Konflikt teil. Danach definiert der Spielleiter die Ziele der Spielleitercharaktere und eventuelle passive Hindernisse, die einem Ziel entgegenstehen.
 
@@ -100,16 +100,16 @@ Der Spieler, nie der Spielleiter, mit den meisten geworfenen Würfeln beginnt. B
 
 Der Spieler beschreibt nun, pro ausgegebenen Würfel, eine Aktion seines Charakters oder einen Umstand bzw. Ereignis in der Szene, die je nach gewähltem Würfel positive oder negative Folgen hat. Der Spieler beschreibt also auch das Ergebnis und die Auswirkungen seiner Aktion oder des Ereignisses. Ziel jeder Beschreibung soll dabei sein, die Szene möglichst farbig, dramatisch und aktionsreich zu beschreiben und dem vorher bestimmten Ausgang zuzusteuern.
 
-Dies geht solange im Uhrzeigersinn von Spieler zu Spieler reihum, bis die angesagte Anzahl an Runden erreicht ist. Bis dahin müssen alle Würfel in der Tischmitte liegen. Spieler, die keine Würfel mehr vor sich liegen haben, werden dabei einfach ausgelassen. Ein Spieler kann sich auch entscheiden eine Runde auszusetzen, um in der nächsten wieder zu handeln. Dies kann z.B. sinnvoll sein, wenn er nur noch wenig Würfel vor sich hat und zum Ende der Szene nochmals eingreifen will.
+Dies geht so lange im Uhrzeigersinn von Spieler zu Spieler reihum, bis die angesagte Anzahl an Runden erreicht ist. Bis dahin müssen alle Würfel in der Tischmitte liegen. Spieler, die keine Würfel mehr vor sich liegen haben, werden dabei einfach ausgelassen. Ein Spieler kann sich auch entscheiden eine Runde auszusetzen, um in der nächsten wieder zu handeln. Dies kann z.B. sinnvoll sein, wenn er nur noch wenig Würfel vor sich hat und zum Ende der Szene nochmals eingreifen will.
 
-Der Spielleiter handelt für jeden seiner Charaktere genauso, als wäre er ein Spieler. Er ist nach jedem Spieler an der Reihe und kann wählen mit welchem Spielleitercharakter er handelt.
+Der Spielleiter handelt für jeden seiner Charaktere genauso, als wäre er ein Spieler. Er ist nach jedem Spieler an der Reihe und kann wählen, mit welchem Spielleitercharakter er handelt.
 
 {% capture include_body %}
 Um die Spannung einer Konfliktszene aufrechtzuerhalten ist es sinnvoll sie nicht unnötig aufzublähen und sie in 3&ndash;4 Runden abzuhandeln.
 
 Die Würfel sollten möglichst gleichmäßig auf die Runden verteilt werden.
 
-Mit mehr eingesetzten Würfeln kann man entweder mehrere Aktionen oder Umstände beschreiben oder eben auch etwas mit größeren Einfluss auf die Szene.
+Mit mehr eingesetzten Würfeln kann man entweder mehrere Aktionen oder Umstände beschreiben oder eben auch etwas mit größerem Einfluss auf die Szene.
 
 Bei einer Niederlage ist es sinnvoll, die Misserfolgswürfel am Ende auszugeben, bei einem Sieg gibt man sie besser früh aus.
 

@@ -6,7 +6,7 @@ title: Konsequenzen
 
 # Konsequenzen
 
-Beträgt die Zähigkeit eines Profils nach einem Konflikt null, erleidet der Charakter eine Konsequenz. Was dies für eine Konsequenz ist, hängt direkt mit der Art des Konflikts zusammen. Eine Konsequenz sollte den Charakter in passender Weise benachteiligen oder behindern. Die Konsequenz wird vom Spieler des Charakters festgelegt. Konsequenzen werden dauerhaft auf dem Charakterbogen notiert und können nur durch den Stufenaufstieg getilgt werden. Durch das Erleiden einer Konsequenz wird die Zähigkeit des Profils komplett regeneriert. 
+Beträgt die Zähigkeit eines Profils nach einem Konflikt null, erleidet der Charakter eine Konsequenz. Was dies für eine Konsequenz ist, hängt direkt mit der Art des Konflikts zusammen. Eine Konsequenz sollte den Charakter in passender Weise benachteiligen oder behindern. Die Konsequenz wird vom Spieler des Charakters festgelegt. Konsequenzen werden dauerhaft auf dem Charakterbogen notiert und können nur durch den Stufenaufstieg getilgt werden. Durch das Erleiden einer Konsequenz wird die Zähigkeit des Profils komplett regeneriert.
 
 {% capture include_body %}
 Die Zähigkeit des SÖLDNER-Profils von Chen beträgt am Ende der Konfliktszene null, daher erhält sie eine Konsequenz. Chens Spielerin wählt, passend zur Szene, eine ernsthafte Beinverletzung und notiert „humpelt dauerhaft“. Dadurch regeneriert die Zähigkeit ihres SÖLDNER-Profils auf die vollen sechs Punkte.

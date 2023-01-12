@@ -20,23 +20,18 @@ Ein einfacher Konflikt wird wie eine Konfliktszene behandelt, nur der Punkt „W
 
 Bei einem einfachen Konflikt, der gegen ein passives Hindernis ausgeführt wird, kann der Spielleiter auch eine Mindestzahl an Erfolgen festlegen, die die Partei erreichen muss. Erreicht sie die nötigen Erfolge, gewinnt sie den Konflikt. Erreicht sie die nötigen Erfolge nicht, sinkt die Zähigkeit des verwendeten Profils um die Punkte, die zu einem Erfolg fehlen.
 
-<table>
-<thead>
-<tr><th>Schwierigkeit</th><th>Benötigte Erfolge</th></tr>
-</thead>
-<tbody>
-<tr><td>Einfach</td><td>1</td></tr>
-<tr><td>Durchschnitt</td><td>2</td></tr>
-<tr><td>Schwer</td><td>3</td></tr>
-<tr><td>Sehr schwer</td><td>5</td></tr>
-<tr><td>Unmöglich</td><td>7</td></tr>
-</tbody>
-</table>
+| Schwierigkeit | Benötigte Erfolge |
+| ------------- | :---------------: |
+| Einfach | 1 |
+| Durchschnitt | 2 |
+| Schwer | 3 |
+| Sehr schwer | 5 |
+| Unmöglich | 7 |
 
-Der Zähigkeitsverlust bei einem verlorenen Konflikt wird dabei gleichmäßig auf die Mitglieder der Partei verteilt. 
+Der Zähigkeitsverlust bei einem verlorenen Konflikt wird dabei gleichmäßig auf die Mitglieder der Partei verteilt.
 
 {% capture include_body %}
-Chen, die Kapitänin verhandelt mit einem Auftraggeber über den Lohn eines Auftrags und die genauen Zahlungskonditionen. Der Auftraggeber bietet 4.000 UC pro Kopf bei Abschluss des Auftrags. Chen will 6.000 UC pro Kopf und die Hälfte als Vorschuss. Die Ziele sind also klar und es wird gewürfelt.
+Chen, die Kapitänin, verhandelt mit einem Auftraggeber über den Lohn eines Auftrags und die genauen Zahlungskonditionen. Der Auftraggeber bietet 4.000 UC pro Kopf bei Abschluss des Auftrags. Chen will 6.000 UC pro Kopf und die Hälfte als Vorschuss. Die Ziele sind also klar und es wird gewürfelt.
 
 - Chen würfelt mit ihrem HÄNDLER-Profil (5): (**2** **2** 3 **4** 5) = 3 Erfolge
 - Der Auftraggeber (HÄNDLER 7) würfelt: (1 3 3 5 **8** **8** **0**) = 3 Erfolge
