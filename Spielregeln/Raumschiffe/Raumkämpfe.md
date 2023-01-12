@@ -42,7 +42,7 @@ Wenn alle Schadenspunkte des Raumschiffs verbraucht sind, bricht es auseinander,
 
 Für die Piratencrew muss das aber nicht das Ende des Abenteuers bedeuten. Durch den Einsatz von Piratenwürfeln, viel Improvisation und Glück kann das Raumschiff noch gerettet werden.
 
-Um das Schiff wieder flott zu bekommen kann eine einmalige Notfall-Wartung durchgeführt werden, bei der natürlich die ganze Crew helfen sollte.
+Um das Schiff wieder flottzubekommen, kann eine einmalige Notfall-Wartung durchgeführt werden, bei der natürlich die ganze Crew helfen sollte.
 
 - **Benötigte Erfolge:** 10 + Summer der Stufen aller Charaktere
 

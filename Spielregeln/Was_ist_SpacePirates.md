@@ -25,7 +25,7 @@ Bei SpacePirates übernehmen die Beteiligten eine von zwei Rollen: 1 Spielleiter
 
 ### Die Spieler
 
-Jeder Spieler spielt genau einen Charakter, der Mitglied einer Piratencrew ist. Der Spieler beschreibt die Handlungen des Charakters, sein Verhalten und spricht in direkter Rede für ihn. Der Charakter ist das Mittel des Spielers um das Abenteuer zu beeinflussen und voranzutreiben. Die Charaktere werden gemeinsam vor dem Abenteuer nach Regeln erschaffen.
+Jeder Spieler spielt genau einen Charakter, der Mitglied einer Piratencrew ist. Der Spieler beschreibt die Handlungen des Charakters, sein Verhalten und spricht in direkter Rede für ihn. Der Charakter ist das Mittel des Spielers, um das Abenteuer zu beeinflussen und voranzutreiben. Die Charaktere werden gemeinsam vor dem Abenteuer nach Regeln erschaffen.
 
 ### Der Spielleiter
 
@@ -45,7 +45,7 @@ Durch das Erleben von Abenteuern sammeln die Charaktere Erfahrung und können si
 
 ### Konfliktlösung
 
-SpacePirates verwendet einen einheitlichen Lösungsansatz für alle Arten von Konflikten, der vom Handel, über eine Kneipenschlägerei bis hin zum Raumkampf angewendet wird. Um Konflikte aufzulösen wird gewürfelt, wie viele Würfel geworfen werden, hängt vom eingesetzten Profil und Ausrüstung ab. Jeder Würfel hat dabei eine 50%ige Chance einen Erfolg anzuzeigen (gerade Zahl). Wie viel Erfolge benötigt werden, hängt von der gegnerischen Partei oder der Schwierigkeit der Handlung ab. Jeder Konflikt wird dabei nur mit einem Wurf jedes Beteiligten abgehandelt, bei wichtigen Konflikten werden die Ereignisse danach gemeinsam nacherzählt, wobei Erfolgswürfel für positive und Misserfolgswürfel für negative Aspekte stehen.
+SpacePirates verwendet einen einheitlichen Lösungsansatz für alle Arten von Konflikten, der vom Handel, über eine Kneipenschlägerei bis hin zum Raumkampf angewendet wird. Um Konflikte aufzulösen wird gewürfelt, wie viele Würfel geworfen werden, hängt vom eingesetzten Profil und Ausrüstung ab. Jeder Würfel hat dabei eine 50%ige Chance, einen Erfolg anzuzeigen (gerade Zahl). Wie viel Erfolge benötigt werden, hängt von der gegnerischen Partei oder der Schwierigkeit der Handlung ab. Jeder Konflikt wird dabei nur mit einem Wurf jedes Beteiligten abgehandelt, bei wichtigen Konflikten werden die Ereignisse danach gemeinsam nacherzählt, wobei Erfolgswürfel für positive und Misserfolgswürfel für negative Aspekte stehen.
 
 ## Dieses Buch
 
