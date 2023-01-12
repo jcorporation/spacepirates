@@ -12,7 +12,7 @@ Die Fähigkeiten des Charakters werden durch die vier Profile HÄNDLER, PILOT, S
 
 Bei der Charaktererschaffung dürfen 12 Punkte auf die Profile verteilt werden. Jedem Profil muss mindestens ein Punkt zugeordnet werden, kein Profil darf um mehr als zwei Punkte vom nächsthöheren oder nächstniedrigeren Profil abweichen. Die maximal mögliche Spezialisierung bei der Charaktererschaffung ist daher 1, 2, 4, 5.
 
-Aliens erhalten nach der Verteilung noch einen zusätzlichen Punkt im ihrer Rasse zugeordneten Profil. Dadurch kann der Abstand zum nächstniedrigeren Profil auf 3 Punkte ansteigen.
+Aliens erhalten nach der Verteilung noch einen zusätzlichen Punkt im, ihrer Rasse zugeordneten, Profil. Dadurch kann der Abstand zum nächstniedrigeren Profil auf 3 Punkte ansteigen.
 
 | Alienrasse | Profil |
 | ---------- | ------ |
@@ -68,7 +68,7 @@ Jedes Profil besitzt neben seinem Profilwert auch eine Zähigkeit von sechs Punk
 
 ## Konsequenzen
 
-Konsequenzen sind Nachteile des Charakters, die ausgespielt werden müssen, aber keinen regeltechnischen Einfluss besitzen. Direkt nach der Erschaffung hat der Charakter keine Konsequenzen. Konsequenzen erleidet der Charaktere innerhalb eines Abenteuers, wenn die Zähigkeit eines Profils auf null sinkt. Sie sind solange gültig, bis sie durch einen Stufenaufstieg gestrichen werden.
+Konsequenzen sind Nachteile des Charakters, die ausgespielt werden müssen, aber keinen regeltechnischen Einfluss besitzen. Direkt nach der Erschaffung hat der Charakter keine Konsequenzen. Konsequenzen erleidet der Charaktere innerhalb eines Abenteuers, wenn die Zähigkeit eines Profils auf null sinkt. Sie sind so lange gültig, bis sie durch einen Stufenaufstieg gestrichen werden.
 
 ## Holo-Highscore-Punkte
 

@@ -69,7 +69,7 @@ Folgende Fragen können helfen, um die wichtigsten Fakten des Charakterhintergru
 {% capture include_body %}
 Kathy nennt ihren Charakter Sun Chen, sie ist Neuasiatin und kommt vom Planeten Kabukicho-Prime. Sie ist 30 Jahre alt. Kathy beantwortet die Hintergrundfragen wie folgt:
 
-1. Lange, schwarze Haare, die sie meist hochgesteckt trägt. Sie trägt meist hochgeschlossene, aber figurbetonte Kleidung.
+1. Lange, schwarze Haare, die sie im Alltag hochgesteckt trägt. Sie trägt meist hochgeschlossene, aber figurbetonte Kleidung.
 2. Sie weiß ihre Reize einzusetzen und hat eine flotte Zunge.
 3. Sie war Händlerin.
 4. Sie hat durch einen aufgeflogenen Betrug all ihre Handelskontakte verloren und muss ihr Geld jetzt anders verdienen.

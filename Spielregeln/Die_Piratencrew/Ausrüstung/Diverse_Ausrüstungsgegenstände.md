@@ -26,7 +26,7 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 | Handscanner | je nach Anwendung | 4.500 |
 | MediKit – Standard | Voraussetzung für medizinische Versorgung | 300 |
 | MediKit – Expert | P+1 für medizinische Proben | 450 |
-| Stimmverändernder Kaugummi (10er Pack) | je nach Anwendung | 100 |
+| Stimmverändernder Kaugummi (10er-Pack) | je nach Anwendung | 100 |
 | Teleobjektivcam | je nach Anwendung | 300 |
 | Überwachungsset | je nach Anwendung | 400 |
 | Universalwerkzeug – Standard | Voraussetzung für Reparaturen | 350 |
@@ -36,13 +36,13 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 - Das **Anti-Schwerkraft-Spray** wird in praktischen Sprühdosen verkauft. Es gibt sie im handlichen 100-ml Format für die Handtasche bis hin zur 50-Liter-Flasche, die auf dem Rücken getragen werden kann. Das Anti-Schwerkraft-Spray versprüht eine durchsichtige Flüssigkeit, die von jedem Material absorbiert wird. Pro 10 ml Spray wird der eingesprühte Gegenstand um 1 kg leichter. Die Wirkung hält dabei 24 Stunden an.
 - Die **Antigrav-Sänfte** ist eine Nachbildung einer traditionellen Sänfte mit Baldachin, nur wird sie nicht mehr von Sklaven getragen, sondern durch einen Antigravgenerator fortbewegt. Sie kann schweben, aber nicht fliegen.
 - Die **Antiphotonentaschenlampe** sendet Antiphotonen aus und macht daher dunkel.
-- Die **Bong** ist natürlich zum Konsum für Rauschmittel gedacht. Das besondere an ihr ist ihre Aufbereitungsautomatik, die auch aus jedem noch so schlechtem Kraut das Beste herausholt.
-- Der **Einweg-Liebeslippenstift** verspricht Liebe auf den ersten Kuss. Das Opfer muss nach einem Kuss eine PILOT Probe mit 4 Erfolgen schaffen um nicht 12 Stunden in einen Liebesrausch zu verfallen. Den Lippenstift gibt es natürlich in klassischem Amorrot und auch in allen anderen hippen Farben. Ein Liebeslippenstift reicht für 10 Küsse.
+- Die **Bong** ist natürlich zum Konsum für Rauschmittel gedacht. Das Besondere an ihr ist ihre Aufbereitungsautomatik, die auch aus jedem noch so schlechtem Kraut das Beste herausholt.
+- Der **Einweg-Liebeslippenstift** verspricht Liebe auf den ersten Kuss. Das Opfer muss nach einem Kuss eine PILOT Probe mit 4 Erfolgen schaffen, um nicht 12 Stunden in einen Liebesrausch zu verfallen. Den Lippenstift gibt es natürlich in klassischem Amorrot und auch in allen anderen hippen Farben. Ein Liebeslippenstift reicht für 10 Küsse.
 - Der **elektronische Dietrich** hilft beim Knacken von elektronischen Schlössern, andere Schlösser findet man eh kaum noch. Er muss mit dem Schloss verbunden werden und braucht für herkömmliche Schlösser fünf Minuten.
 - Der **Ganzkörperschleier** ist die ideale Verkleidung, wenn man nicht auffallen will. Er scheint jeden in der Umgebung von einem selber abzulenken.
 - Mit dem **Jetpack** kann sich eine Person im schwerelosen Raum fortbewegen und muss nicht rumtreiben.
 - Den **Handscanner** gibt es in verschiedenen Ausführungen. Je nach Modell kann der Scanner jedwede Strahlung erkennen, chemische Zusammensetzungen analysieren oder nach Lebensformen scannen.
-- **Stimmverändernde Kaugummis** gibt es in vielen verschiedenen Geschmacks- und Stimmrichtungen. Von rosa mit Piepsstimme bis hin zu schwarz mit Bariton. Der Kaugummi wird in 10er Päckchen verkauft und seine Wirkung hält 2 Stunden an.
+- **Stimmverändernde Kaugummis** gibt es in vielen verschiedenen Geschmacks- und Stimmrichtungen. Von rosa mit Piepsstimme bis hin zu schwarz mit Bariton. Der Kaugummi wird in 10er-Päckchen verkauft und seine Wirkung hält 2 Stunden an.
 - Die **Teleobjektivcam** ist eine Systemcamera mit einem extrem leistungsstarken Teleobjektiv.
 - Das **Überwachungsset** besteht aus kleinen Wanzen, die Ton und Bild per Funk übertragen.
 

@@ -47,12 +47,12 @@ Um das Schiff wieder flottzubekommen, kann eine einmalige Notfall-Wartung durchg
 - **Benötigte Erfolge:** 10 + Summer der Stufen aller Charaktere
 
 {% capture include_body %}
-Der Spielleiter sollte vermeiden die komplette Piratencrew in die nicht vorhandene Luft zu jagen, außer sie haben es natürlich so gewollt.
+Der Spielleiter sollte vermeiden, die komplette Piratencrew in die nicht vorhandene Luft zu jagen, außer sie haben es natürlich so gewollt.
 {% endcapture %}
 {% include anmerkung.md body=include_body %}
 
 {% capture include_body %}
-Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel in einem Raumkampf eingesetzt werden können. Diese Liste dient nur der Inspirationen. Jeder Raumkampf ist unterschiedlich und daher sollten die Aktionen immer von den Gegebenheiten und den Aktionen der anderen Parteien abhängen.
+Hier ein paar Beispiele, wie Erfolgs- und Misserfolgswürfel in einem Raumkampf eingesetzt werden können. Diese Liste dient nur der Inspirationen. Jeder Raumkampf ist unterschiedlich und daher sollten die Aktionen immer von den Gegebenheiten und den Aktionen der anderen Parteien abhängen.
 
 ##### Erfolgswürfel
 
@@ -130,7 +130,7 @@ Stardust beginnt, da er näher beim Spielleiter sitzt als Xenur und beide die me
 
 - **Stardust – 1 Misserfolg:** Er verschaltet sich grandios und würgt den Neutritiumreaktor ab und kracht fast rückwärts in den Asteroidengürtel.
 - **Spielleiter – 1 Erfolg:** Der Pilot nutzt die Asteroidentrümmer um etwas Abstand zum Piratenschiff zu gewinnen und Zeit zu haben den FTL zu starten (dauert 2 Runden).
-- **Xenur – 1 Misserfolg:** Er feuert wieder mit der Plasmakanone auf den Frachter. Der Schuss geht wegen dem Ruckler von Stardust daneben und zertrümmert einen Asteroiden.
+- **Xenur – 1 Misserfolg:** Er feuert wieder mit der Plasmakanone auf den Frachter. Der Schuss geht wegen des Rucklers von Stardust daneben und zertrümmert einen Asteroiden.
 - **Spielleiter – 1 Erfolg, 1 Misserfolg:** Der Bordschütze erkennt die deaktivieren Schilde und feuert gleich 2 Torpedos ab, leider trifft nur eines. Das Piratenschiff nimmt 1 Punkt Schaden.
 - **Chen – 2 Erfolge:** Der erste Schuss macht 1 Schadenspunkt auf die Schilde, deren Schildwert auf 0 sinkt und somit für den Kampf unbrauchbar sind, der zweite Schuss trifft den FTL-Antrieb und er explodiert eindrucksvoll. Der Frachter nimmt einen Schadenspunkt.
 - **Spielleiter – 2 Erfolge:** Der Tech schaltet die beiden Aetiriumkristallbänke parallel und kann so den Start des FTL um eine Runde verkürzen.
@@ -143,7 +143,7 @@ Stardust beginnt, da er näher beim Spielleiter sitzt als Xenur und beide die me
 - **Xenur – 1 Erfolg, 1 Misserfolg:** Er feuert weiter auf den Frachter, kann die Bordwaffe ausschalten, aber auch der Frachtraum des Frachters brennt jetzt lichterloh. Der Frachter nimmt 2 Schadenspunkte.
 - **Spielleiter – 1 Misserfolg:** Der Bordschütze will einen weiteren Torpedo abfeuern, als gerade der Schuss Xenurs einschlägt und die Abschussrampe explodieren lässt.
 - **Chen – 1 Misserfolg:** Sie ist geblendet von der Explosion und daher geht ihr Schuss daneben.
-- **Spielleiter – 1 Erfolg, 1 Misserfolg:** Der Tech kann den Frachtraum abschotten damit das Feuer nicht übergreift, aber anscheinend sind auch die Feuerlöscher defekt.
+- **Spielleiter – 1 Erfolg, 1 Misserfolg:** Der Tech kann den Frachtraum abschotten, damit das Feuer nicht übergreift, aber anscheinend sind auch die Feuerlöscher defekt.
 - **Drake setzt diese Runde aus**.
 
 #### Runde 4

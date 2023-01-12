@@ -13,7 +13,7 @@ sitedata:
         - Name: Instrumente blinken
           Beschreibung: Die Instrumente blinken wie wild, Mali von &minus;1 auf alle Proben.
         - Name: Licht aus
-          Beschreibung: Das Licht im Raumschiff geht aus, alle an Bord befindlichen Glühbirnen sind durchgebrannt (Egal, ob in Gebrauch oder nicht).
+          Beschreibung: Das Licht im Raumschiff geht aus, alle an Bord befindlichen Glühbirnen sind durchgebrannt (egal, ob in Gebrauch oder nicht).
         - Name: Schiff wird rosa
           Beschreibung: Es wird einfach nur rosa, innen wie außen, der Kapitän schämt sich und bekommt &minus;1 auf alle Proben.
         - Name: Waffenproblem
@@ -23,7 +23,7 @@ sitedata:
         - Name: KI eingebaut
           Beschreibung: Irgendwie ist eine KI in das Raumschiff gekommen und will jetzt jede Aktion begründet wissen.
         - Name: Reboot nötig
-          Beschreibung: Der Schiffscomputer muss alle 10 Minuten gebootet werden, was 20 Minuten dauert, während dieser Zeit läuft das Schiff nur im Notfallmodus (keine Waffen, kein FTL, etc).
+          Beschreibung: Der Schiffscomputer muss alle 10 Minuten gebootet werden, was 20 Minuten dauert, während dieser Zeit läuft das Schiff nur im Notfallmodus (keine Waffen, kein FTL, etc.).
         - Name: Sitze unbequem
           Beschreibung: Die Sitze und Schlafgelegenheiten sind unheimlich unbequem.
         - Name: Scheibe beschlagen
@@ -43,7 +43,7 @@ sitedata:
         - Name: Kinoabend
           Beschreibung: Der Schiffscomputer veranstaltet ganz spontan einen Videoabend, alle Videoverbindungen zeigen nur noch Stummfilme.
         - Name: Türen zu
-          Beschreibung: Alle Türen im Raumschiff verschließen sich und lassen sich nicht mehr öffnen, auch nicht durch gutes zureden.
+          Beschreibung: Alle Türen im Raumschiff verschließen sich und lassen sich nicht mehr öffnen, auch nicht durch gutes Zureden.
         - Name: Stabilisatoren versagen
           Beschreibung: Das Raumschiff dreht sich wild in alle Richtungen, so dass der Crew schlecht wird, &minus;1 auf alle Proben.
         - Name: Antiquierte Technik
@@ -67,7 +67,7 @@ sitedata:
         - Name: Wasserschaden
           Beschreibung: Eine Fehlfunktion der Sprinkleranlage setzt das Schiff unter Wasser, das löst leichte Schläge aus, &minus;1 auf alle Proben.
         - Name: Service überfällig
-          Beschreibung: Eine unwichtiges Sekundärsystem wurde zu lange nicht mehr gewartet und erinnert die Piratencrew bei jeder Aktion mit einem nervigen Popup daran, &minus;1 auf alle Schiffsproben.
+          Beschreibung: Ein unwichtiges Sekundärsystem wurde zu lange nicht mehr gewartet und erinnert die Piratencrew bei jeder Aktion mit einem nervigen Popup daran, &minus;1 auf alle Schiffsproben.
         - Name: Unerwarteter Ausnahmefehler
           Beschreibung: Das Schiff meldet einen unerwarteten Ausnahmefehler in einem zufällige ausgewählten Zubehörteil. Das Zubehör ist nicht mehr benutzbar.
         - Name: Wartemusik

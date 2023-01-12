@@ -44,7 +44,7 @@ Piratenwürfel verdient sich ein Spieler, wenn …
 Grundsätzlich sollte der Spielleiter die Piratenwürfel freigiebig verteilen. Das ermutigt im Gegenzug auch die Spieler, ihre Piratenwürfel einzusetzen.
 
 {% capture include_body %}
-Chen entdeckt den Pilot der anderen Piratencrew und wollte ihn ursprünglich fragen, was denn geschehen ist. Er ist aber ein Trull und die kann sie absolut nicht ausstehen (Macke von Chen). Daher ändert sie ihr Vorhaben, pöbelt ihn an und bezeichnet ihn als unfähigen Piloten. Das lässt er sich natürlich nicht gefallen und es kommt zu einer kleinen Schlägerei.
+Chen entdeckt den Piloten der anderen Piratencrew und wollte ihn ursprünglich fragen, was denn geschehen ist. Er ist aber ein Trull und die kann sie absolut nicht ausstehen (Macke von Chen). Daher ändert sie ihr Vorhaben, pöbelt ihn an und bezeichnet ihn als unfähigen Piloten. Das lässt er sich natürlich nicht gefallen und es kommt zu einer kleinen Schlägerei.
 
 Für diese Aktion vergibt der Spielleiter einen Piratenwürfel an Kathy, da sie ihren Charakter ausspielte, für piratige Action sorgte und dabei gleichzeitig das Abenteuer verkomplizierte.
 {% endcapture %}

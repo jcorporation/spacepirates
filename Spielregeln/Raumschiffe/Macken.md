@@ -22,6 +22,6 @@ Durch normale, dreistündige Wartung (TECH-Probe mit mindestens 2 Erfolgen) kann
 {% capture include_body %}
 Das Piratenschiff startet zu einem Raumflug durch einen Nebel, dafür ist eine PILOT-Probe notwendig und Kathy würfelt deshalb auf die Mackentabelle. Sie würfelt eine 3 und der FTL macht nur Wupp und das Raumschiff rührt sich nicht vom Fleck. Der Spieler des Piloten braucht nun natürlich auch keine Probe mehr ablegen, beschreibt aber wie Stardust zuerst nur verdutzt auf die Konsolen schaut und danach darauf einprügelt und wild nach Drake, dem Tech brüllt.
 
-Die Piratencrew hat es eilig wegzukommen, also beschließt Drake zu improvisieren. Er nimmt den Korken aus seiner Rumflasche, besprüht in mit seinem patentierten Super-Versiegel-Spray-Extrem&trade; und stopft ihn in das unbedeutende Loch in einer Neutritiumleitung. Sein Spieler würfelt (**2** **4** 5 **6** 5 **0**) = 4 Erfolge und Drake schafft es somit das Leck abzudichten und der Pilot darf nun seine Probe ablegen.
+Die Piratencrew hat es eilig wegzukommen, also beschließt Drake zu improvisieren. Er nimmt den Korken aus seiner Rumflasche, besprüht in mit seinem patentierten Super-Versiegel-Spray-Extrem&trade; und stopft ihn in das unbedeutende Loch in einer Neutritiumleitung. Sein Spieler würfelt (**2** **4** 5 **6** 5 **0**) = 4 Erfolge und Drake schafft es somit das Leck abzudichten und der Pilot darf doch noch seine Probe ablegen.
 {% endcapture %}
 {% include beispiel.md title="Beispiel zu Macken" body=include_body %}

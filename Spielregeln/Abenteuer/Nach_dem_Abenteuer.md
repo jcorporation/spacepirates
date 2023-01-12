@@ -23,23 +23,18 @@ Für die Punkteverteilung gelten die gleichen Regeln wie bei der Charaktererscha
 
 Zusätzlich darf beim Stufenaufstieg eine beliebige Konsequenz gestrichen werden.
 
-<table>
-<thead>
-<tr><th>Stufe</th><th>Stufenname</th><th>Benötigte Holo-Highscore-Punkte</th></tr>
-</thead>
-<tbody>
-<tr><td>10</td><td>Superreicher Piratenanführer</td><td>56</td></tr>
-<tr><td>9</td><td>Reicher Piratenanführer</td><td>48</td></tr>
-<tr><td>8</td><td>Wohlhabender Piratenanführer</td><td>40</td></tr>
-<tr><td>7</td><td>Standardpiratenanführer</td><td>32</td></tr>
-<tr><td>6</td><td>Unterbezahlter Piratenanführer</td><td>24</td></tr>
-<tr><td>5</td><td>Reicher Pirat</td><td>16</td></tr>
-<tr><td>4</td><td>Wohlhabender Pirat</td><td>8</td></tr>
-<tr><td>3</td><td>Standardpirat</td><td>4</td></tr>
-<tr><td>2</td><td>Unterbezahlter Pirat</td><td>2</td></tr>
-<tr><td>1</td><td>Möchtegernpirat</td><td>0</td></tr>
-</tbody>
-</table>
+| Stufe | Stufenname | Benötigte Holo-Highscore-Punkte |
+| ----: | ---------- | ------------------------------: |
+| 10 | Superreicher Piratenanführer | 56 |
+| 9 | Reicher Piratenanführer | 48 |
+| 8 | Wohlhabender Piratenanführer | 40 |
+| 7 | Standardpiratenanführer | 32 |
+| 6 | Unterbezahlter Piratenanführer | 24 |
+| 5 | Reicher Pirat | 16 |
+| 4 | Wohlhabender Pirat | 8 |
+| 3 | Standardpirat | 4 |
+| 2 | Unterbezahlter Pirat | 2 |
+| 1 | Möchtegernpirat | 0 |
 
 {% capture include_body %}
 Sun Chen hat das erste Abenteuer bestanden und erhält 2 HHP, dadurch steigt sie eine Stufe auf.
