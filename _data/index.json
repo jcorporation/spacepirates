@@ -1910,12 +1910,12 @@
   },
   "einfache": {
     "/Spielregeln/Konflikte/Einfache_Konflikte": 76,
-    "/Spielregeln/Konflikte/": 2,
+    "/Spielregeln/Konflikte/": 3,
     "/Abenteuer/Neutritiumklau/Lager": 1
   },
   "einfache konflikte": {
     "/Spielregeln/Konflikte/Einfache_Konflikte": 126,
-    "/Spielregeln/Konflikte/": 2,
+    "/Spielregeln/Konflikte/": 3,
     "/Spielregeln/": 1
   },
   "eingang": {
@@ -2729,6 +2729,7 @@
     "/Abenteuer/Zeitraub/Übersicht": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 2,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
+    "/Spielregeln/Konflikte/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Beute": 2,
@@ -4461,7 +4462,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 1
   },
   "konflikt": {
-    "/Spielregeln/Konflikte/": 130,
+    "/Spielregeln/Konflikte/": 131,
     "/Spielregeln/Konflikte/Einfache_Konflikte": 80,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 31,
     "/Spielregeln/Konflikte/Konfliktszenen": 4,
@@ -4501,7 +4502,7 @@
   },
   "konfliktszenen": {
     "/Spielregeln/Konflikte/Konfliktszenen": 126,
-    "/Spielregeln/Konflikte/": 2,
+    "/Spielregeln/Konflikte/": 4,
     "/Spielregeln/": 1
   },
   "konfliktuebersicht": {
@@ -6482,6 +6483,7 @@
     "/Abenteuer/Dungeonplanet/Einstieg": 4,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 4,
     "/Abenteuer/Ostern/Rabbit_Inc": 4,
+    "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 4,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 4,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 4,
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 4,
@@ -6582,7 +6584,6 @@
     "/Abenteuer/Zeitraub/Nachforschungen": 1,
     "/Abenteuer/Zeitraub_II/Javar_3": 1,
     "/Abenteuer/Zeitraub_II/Reise": 1,
-    "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 1,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 1,
@@ -7506,6 +7507,7 @@
   "regeln": {
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 25,
     "/Spielregeln/Abenteuer/": 2,
+    "/Spielregeln/Konflikte/": 2,
     "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 1
   },

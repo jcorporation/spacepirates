@@ -56,7 +56,7 @@
   },
   "19": {
     "Name": "Türen zu",
-    "Beschreibung": "Alle Türen im Raumschiff verschließen sich und lassen sich nicht mehr öffnen, auch nicht durch gutes zureden.",
+    "Beschreibung": "Alle Türen im Raumschiff verschließen sich und lassen sich nicht mehr öffnen, auch nicht durch gutes Zureden.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
   "2": {
@@ -126,7 +126,7 @@
   },
   "31": {
     "Name": "Service überfällig",
-    "Beschreibung": "Eine unwichtiges Sekundärsystem wurde zu lange nicht mehr gewartet und erinnert die Piratencrew bei jeder Aktion mit einem nervigen Popup daran, &minus;1 auf alle Schiffsproben.",
+    "Beschreibung": "Ein unwichtiges Sekundärsystem wurde zu lange nicht mehr gewartet und erinnert die Piratencrew bei jeder Aktion mit einem nervigen Popup daran, &minus;1 auf alle Schiffsproben.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
   "32": {
@@ -151,7 +151,7 @@
   },
   "4": {
     "Name": "Licht aus",
-    "Beschreibung": "Das Licht im Raumschiff geht aus, alle an Bord befindlichen Glühbirnen sind durchgebrannt (Egal, ob in Gebrauch oder nicht).",
+    "Beschreibung": "Das Licht im Raumschiff geht aus, alle an Bord befindlichen Glühbirnen sind durchgebrannt (egal, ob in Gebrauch oder nicht).",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
   "5": {
@@ -176,7 +176,7 @@
   },
   "9": {
     "Name": "Reboot nötig",
-    "Beschreibung": "Der Schiffscomputer muss alle 10 Minuten gebootet werden, was 20 Minuten dauert, während dieser Zeit läuft das Schiff nur im Notfallmodus (keine Waffen, kein FTL, etc).",
+    "Beschreibung": "Der Schiffscomputer muss alle 10 Minuten gebootet werden, was 20 Minuten dauert, während dieser Zeit läuft das Schiff nur im Notfallmodus (keine Waffen, kein FTL, etc.).",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   }
 }
