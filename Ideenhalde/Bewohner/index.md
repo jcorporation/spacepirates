@@ -6,7 +6,7 @@ title: Bewohner
 
 # Bewohner
 
-Auf dieser Seite können zusätzliche Bewohner des SpacePirates Universums beschrieben werden.
+Auf dieser Seite sind Ideen für zusätzliche Bewohner des SpacePirates Universums gesammelt.
 
 ## Tiere
 
@@ -30,7 +30,5 @@ Auf dieser Seite können zusätzliche Bewohner des SpacePirates Universums besch
 
 ## SLC
 
-- Experte für höchstlangweilige Gesteinsformationen
 - Zock von Gog
 - Datenhändler NSC
-

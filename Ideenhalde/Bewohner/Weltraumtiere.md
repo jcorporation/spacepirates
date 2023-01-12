@@ -7,8 +7,3 @@ title: Weltraumtiere
 # Weltraumtiere
 
 - vorhandene [Weltraumtiere]({{ site.baseurl }}/Weltraum/Weltraumtiere)
-
-## SpaceQuallen
-
-
-
