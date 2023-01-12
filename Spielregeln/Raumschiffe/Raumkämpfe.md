@@ -30,15 +30,26 @@ Jeder Treffer verursacht Schadenspunkte in Höhe der eingesetzten Erfolge multip
 Wenn alle Schadenspunkte des Raumschiffs verbraucht sind, bricht es auseinander, explodiert, etc. Um die Auswirkung zu bestimmen, wird auf folgende Tabelle gewürfelt.
 
 | W6 | Auswirkung |
-| -- | ---------- |
+| :-: | ---------- |
 | 1 | Der Maschinenraum brennt lichterloh. |
 | 2 | Das Schiff ist leckgeschlagen, noch 1W20 Minuten Sauerstoff. |
-| 3 | Das Schiff bricht in 1W20 Minuten entzwei. |
-| 4 | Das Schiff explodiert in 1W20 Minuten. |
-| 5 | Der Neutritiumreaktor explodiert in 1W20 Minuten. |
+| 3 | Das Schiff bricht in <span class="dice">1W20</span> Minuten entzwei. |
+| 4 | Das Schiff explodiert in <span class="dice">1W20</span> Minuten. |
+| 5 | Der Neutritiumreaktor explodiert in <span class="dice">1W20</span> Minuten. |
 | 6 | Die Lebenserhaltung fällt aus. |
+| 7 | Alle Macken des Raumschiffs aktivieren sich gleichzeitig und für immer. |
+| 8 | Die Schiffs-KI wird völlig verrückt. |
 
-{% include todo.md title="Tipps vervollständigen" %}
+Für die Piratencrew muss das aber nicht das Ende des Abenteuers bedeuten. Durch den Einsatz von Piratenwürfeln, viel Improvisation und Glück kann das Raumschiff noch gerettet werden.
+
+Um das Schiff wieder flott zu bekommen kann eine einmalige Notfall-Wartung durchgeführt werden, bei der natürlich die ganze Crew helfen sollte.
+
+- **Benötigte Erfolge:** 10 + Summer der Stufen aller Charaktere
+
+{% capture include_body %}
+Der Spielleiter sollte vermeiden die komplette Piratencrew in die nicht vorhandene Luft zu jagen, außer sie haben es natürlich so gewollt.
+{% endcapture %}
+{% include anmerkung.md body=include_body %}
 
 {% capture include_body %}
 Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel in einem Raumkampf eingesetzt werden können. Diese Liste dient nur der Inspirationen. Jeder Raumkampf ist unterschiedlich und daher sollten die Aktionen immer von den Gegebenheiten und den Aktionen der anderen Parteien abhängen.
@@ -47,12 +58,12 @@ Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel in einem Raumkampf e
 
 - PILOT
   - Außer Schussweite des Gegners gelangen
-  - 2 Erfolge: Mit Enterschleuse andocken (Schilde beider Schiffe müssen deaktiviert sein)
-  - Ausweichmanöver Y-Gamma-Zeta-5 fliegen, nächster Treffer ist nur ein Streifschuss (halber Schaden)
+  - Ausweichmanöver Y-Gamma-Zeta-5 fliegen, der nächste Treffer ist nur ein Streifschuss (halber Schaden)
+  - 2 Erfolge: Mit der Enterschleuse andocken (Schilde beider Schiffe müssen deaktiviert sein)
 - SÖLDNER
-  - pro Erfolg einen Treffer und SM der Bordkanone Schaden beim gegnerischen Raumschiff
+  - pro Erfolg einen Treffer (SM der Bordkanone Schaden beim gegnerischen Raumschiff)
   - 2 Erfolge: ausschalten eines bestimmten Subsystems (Schilde des Gegners müssen deaktiviert sein)
-  - ???
+  - 2 Erfolge: der Schuss durchdringt das Schild und verursacht SM der Bordkanone Schaden am beim gegnerischen Raumschiff
 - TECH
   - Schilde regenerieren um 2 Punkte je eingesetztem Erfolg (Hilfsenergie wird umgeleitet)
   - Schaden des nächsten Schusses erhöht sich um einen Punkt je eingesetztem Erfolg
@@ -66,12 +77,12 @@ Hier ein paar Beispiele wie Erfolgs- und Misserfolgswürfel in einem Raumkampf e
   - fliegt zu wilde Manöver, so dass es der Crew schlecht wird
 - SÖLDNER
   - trifft einen Meteoriten und nimmt sich selber die Sicht
-  - 2 Misserfolge: überhitzt durch den Schnellfeuermodus die Waffe und kann eine Runde nicht feuern
   - der Schuss geht völlig daneben
+  - 2 Misserfolge: überhitzt durch den Schnellfeuermodus die Waffe und kann eine Runde nicht feuern
 - TECH
   - leitet aus Versehen die Hauptenergie in die Kombüse um
   - Überhitzt den Neutritiumreaktor
-  - ???
+  - Vertauscht die Kontrollen der beiden Raumschiffwaffen
 {% endcapture %}
 {% include hinweis.md title="Tipps für den Einsatz von Erfolgs- und Misserfolgswürfeln" body=include_body %}
 
