@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aside
 permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/
 title: Raumschiffe
 ---
