@@ -19,3 +19,8 @@ Konfliktszenen sollten für dramatische und wichtige Szenen im Abenteuer genutzt
 An einem Konflikt können nur Charaktere teilnehmen, deren Zähigkeit des eingesetzten Profils mindestens 1 beträgt.
 {% endcapture %}
 {% include hinweis.md title="Teilnehmer" body=include_body %}
+
+{% capture include_body %}
+Wenn die Gruppe ein klassischeres Spielerlebnis bevorzugt, können die Regeln für Konfliktszenen gestrichen werden und mehrere aufeinanderfolgende einfache Konflikte ausgewürfelt werden. Gebt aber den Konfliktszenen zumindest eine Chance.
+{% endcapture %}
+{% include anmerkung.md title="Konfliktszenen" body=include_body %}
