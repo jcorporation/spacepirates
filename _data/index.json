@@ -83,8 +83,8 @@
     "/Abenteuer/Halloween/Zentrum": 1,
     "/Abenteuer/SpaceDrache/Ende": 1,
     "/Abenteuer/Zeitraub_II/Javar_3": 1,
-    "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 1,
-    "/Spielregeln/Spielleiter/Kampagnen/Beute": 1
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 1,
+    "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 1
   },
   "ablauf": {
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 75,
@@ -659,10 +659,10 @@
     "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 27
   },
   "ausser": {
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 2,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Abenteuer/Halloween/Hintergrund": 1
   },
   "ausserirdische": {
@@ -919,6 +919,7 @@
     "/Abenteuer/Weihnachten_II/Santa_24": 25,
     "/Abenteuer/": 4,
     "/Abenteuer/Blumenkind/Einstieg": 2,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Weltraum/Händler_und_Halunken": 2,
     "/Abenteuer/Buschraub/": 1
   },
@@ -1457,7 +1458,7 @@
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 1
   },
   "crew": {
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 27,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 28,
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 3,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
@@ -2034,6 +2035,7 @@
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 26,
     "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Einstieg": 1,
     "/Abenteuer/Buschraub/Nachforschungen": 1,
@@ -2042,8 +2044,7 @@
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1,
-    "/Abenteuer/Halloween/": 1
+    "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1
   },
   "ende des ychromosoms": {
     "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25
@@ -2184,7 +2185,7 @@
   },
   "erfolge": {
     "/Abenteuer/Weihnachten_II/Santa_24": 51,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 17,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 19,
     "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 7,
     "/Spielregeln/Konflikte/Konfliktszenen": 7,
     "/Abenteuer/Halloween/Station": 5,
@@ -2664,8 +2665,8 @@
     "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": 75,
     "/Spielregeln/Konflikte/Konfliktszenen": 34,
     "/Abenteuer/": 33,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 30,
     "/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung": 28,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 28,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 25,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 13,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 11,
@@ -2983,8 +2984,8 @@
   },
   "glueck": {
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 26,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
+    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "glukorianer": {
     "/Weltraum/Aliens/Glukorianer/": 280,
@@ -3700,6 +3701,7 @@
     "/Abenteuer/Zeitraub/Bauteil": 2,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 2,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 2,
@@ -4903,6 +4905,7 @@
     "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 3,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
     "/Spielregeln/Raumschiffe/": 2,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Abenteuer/Dungeonplanet/Einstieg": 1
   },
@@ -5554,6 +5557,7 @@
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 6,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 6,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 6,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 6,
     "/Weltraum/Technologie/Techtalk": 6,
     "/Abenteuer/": 5,
     "/Abenteuer/Buschraub/Nova_Ceti": 5,
@@ -5568,7 +5572,6 @@
     "/Abenteuer/Buschraub/Nachforschungen": 4,
     "/Abenteuer/Halloween/Vampir-Planet": 4,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 4,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 4,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 4,
     "/Spielregeln/Was_ist_SpacePirates": 4,
     "/Weltraum/Technologie/Raumschiffe": 4,
@@ -6618,10 +6621,10 @@
   },
   "piratencrew": {
     "/Spielregeln/Die_Piratencrew/": 75,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 28,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 28,
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 26,
     "/Spielregeln/": 26,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 26,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 3,
     "/Spielregeln/Was_ist_SpacePirates": 3,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
@@ -7311,6 +7314,7 @@
     "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 7,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 6,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 6,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 6,
     "/Abenteuer/": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 5,
@@ -7318,7 +7322,6 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Diverses": 4,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 4,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 4,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 4,
     "/Weltraum/Aliens/Spaceamazonen/": 4,
     "/Weltraum/Händler_und_Halunken": 4,
     "/Weltraum/Weltraumphänomene/Quantenfluktuation": 4,
@@ -7352,6 +7355,7 @@
     "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia": 2,
     "/Weltraum/Weltraumphänomene/Ionensturm": 2,
     "/Weltraum/Weltraumphänomene/Raumzeitverschiebung": 2,
+    "/collections/_Weltraumtiere/SpaceQuallen": 2,
     "/collections/_Weltraumtiere/Weltraumspinnen": 2,
     "/Abenteuer/Blumenkind/": 1
   },
@@ -7964,7 +7968,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 34,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 26,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 10,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 7,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 8,
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 6,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 5,
     "/Abenteuer/Die_Eisgalaxis/": 4,
@@ -8662,6 +8666,7 @@
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
+    "/Spielregeln/Spielmaterial": 2,
     "/Weltraum/Händler_und_Halunken": 2,
     "/Weltraum/Technologie/Techtalk": 2,
     "/Abenteuer/": 1,
@@ -8672,8 +8677,7 @@
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 1,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 1,
-    "/Spielregeln/Konflikte/": 1
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 1
   },
   "spacepolizeirevier 23": {
     "/Weltraum/Piraten/Treffpunkte/Freeport": 26
@@ -8681,6 +8685,9 @@
   "spaceport": {
     "/Weltraum/Neutrale_Zone/Siga_Spaceport": 226,
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 1
+  },
+  "spacequallen": {
+    "/collections/_Weltraumtiere/SpaceQuallen": 161
   },
   "spaceresearch": {
     "/Weltraum/Konzerne/SpaceResearch": 277
@@ -8852,7 +8859,7 @@
   },
   "spielleiter": {
     "/Spielregeln/Spielleiter/": 125,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 38,
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 39,
     "/Spielregeln/Konflikte/Konfliktszenen": 37,
     "/Spielregeln/Was_ist_SpacePirates": 29,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 28,

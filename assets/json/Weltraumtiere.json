@@ -24,12 +24,16 @@
     "Schadenspunkte": 50,
     "Link": "/Weltraum/Weltraumtiere"
   },
-  "Spaceameisen": {
-    "Name": "Spaceameisen",
+  "SpaceAmeisen": {
+    "Name": "SpaceAmeisen",
     "Profilwert": 3,
     "SM": 2,
     "Schadenspunkte": 3,
-    "Link": "/Weltraum/Spaceameisen"
+    "Link": "/Weltraum/SpaceAmeisen"
+  },
+  "SpaceQuallen": {
+    "Name": "SpaceQuallen",
+    "Link": "/Weltraum/SpaceQuallen"
   },
   "Sternenwale": {
     "Name": "Sternenwale",

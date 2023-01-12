@@ -400,7 +400,8 @@ tabellen["existingWeltraumtiere"] = [
   "Mykoniden",
   "Riesen-Weltraumhamster",
   "Space-Eiswürmer",
-  "Spaceameisen",
+  "SpaceAmeisen",
+  "SpaceQuallen",
   "Sternenwale",
   "Weltraumkäfer",
   "Weltraumspinnen"
