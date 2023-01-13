@@ -14,7 +14,7 @@
   "abenteuer": {
     "/Abenteuer/": 166,
     "/Spielregeln/Abenteuer/": 135,
-    "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 81,
+    "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 82,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 80,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 78,
     "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 77,
@@ -3684,6 +3684,7 @@
     "/Abenteuer/Neutritiumklau/Lager": 3,
     "/Abenteuer/Zeitraub_II/Javar_3": 3,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 3,
+    "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 3,
     "/Weltraum/Historie": 3,
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 3,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 3,
@@ -3703,7 +3704,6 @@
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
-    "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 2,
@@ -8888,7 +8888,7 @@
   },
   "spielleitercharaktere": {
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 127,
-    "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 29,
+    "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 30,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze": 26,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
