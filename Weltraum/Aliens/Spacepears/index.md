@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aside
 permalink: /Weltraum/Aliens/Spacepears/
 title: Spacepears
 sitedata:
