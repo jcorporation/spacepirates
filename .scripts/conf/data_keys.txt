@@ -11,3 +11,6 @@ Weltraumphaenomene
 Weltraumtiere
 Piratenmacken
 Raumschiffmacken
+TechsprechWort1
+TechsprechWort2
+TechsprechWort3

@@ -1,6 +1,7 @@
 Abenteuer
 Spielregeln
 Weltraum
+Zufallstabellen
 collections/_Piratencrews
 collections/_Sekten
 collections/_Weltraumtiere

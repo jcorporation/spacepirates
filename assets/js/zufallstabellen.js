@@ -2,26 +2,6 @@ tabellen['rsmacken'] = tabellen["existingRaumschiffmacken"];
 
 tabellen['scmacken'] = tabellen["existingPiratenmacken"];
 
-tabellen["ts"] = ["[ts1][ts2][ts3]"];
-
-tabellen["ts1"] = ["[ts11]", "[ts11]", "[ts11]", "[ts11]", "[ts11]", "[ts12]", "[ts12]", "[ts12]", "[ts13]", "[ts13]"];
-tabellen["ts11"] = ["Multidimensionaler-", "Eindimensionaler-", "Keindimensionaler-", "Temporaler-", "Sublokaler-", "Molekularer-", "Elektromagnetischer-",
-    "Strahlender-", "Künstlicher-", "Natürlicher-"];
-tabellen["ts12"] = ["Persönlicher-", "Unpersönlicher-", "Digitaler-", "Traumatischer-", "Smarter-", "Mobiler-", "Stationärer-", "Virtueller-", "Grafischer-",
-    "Neutraler-"];
-tabellen["ts13"] = ["Piratischer-", "Karibischer-", "Einmastiger-", "Zweimastiger-", "Dreimastiger-", "Goldener-", "Silberner-", "Dreiköpfiger-", "Kanonen-",
-    "Funkelnder-"];
-
-tabellen["ts2"] = ["[ts21]", "[ts21]", "[ts21]", "[ts21]", "[ts21]", "[ts22]", "[ts22]", "[ts22]", "[ts23]", "[ts23]"];
-tabellen["ts21"] = ["Koaxial-", "Quanten-", "Subraum-", "Trans-", "Flux-", "Tachyonen-", "Trägheits-", "Disruptor-", "Neutronen-", "Protonen-"];
-tabellen["ts22"] = ["Deuterium-", "String-", "Photonen-", "Phasen-", "Warp-", "Holo-", "Tarn-", "Materie-", "Vakuum-", "Tritanium-"];
-tabellen["ts23"] = ["Amazonen-", "Halunken-", "Aarrrrrrr-", "Schatz-", "Totenkopf-", "Segelohr", "bärtiger-", "holzbeiniger-", "hasserfüllter-", "kielholender-"];
-
-tabellen["ts3"] = ["[ts31]", "[ts31]", "[ts31]", "[ts31]", "[ts31]", "[ts32]", "[ts32]", "[ts32]", "[ts33]", "[ts33]"];
-tabellen["ts31"] = ["Konverter", "Translokator", "Deflektor", "Expector", "Korruptor", "Traktor", "Beschleuniger", "Repulsator", "Kollektor", "Regulator"];
-tabellen["ts32"] = ["Teleportator", "Pulsor", "Reaktor", "Generator", "Roboter", "Energator", "Tricorder", "Kompensator", "Organisator", "Aggregator"];
-tabellen["ts33"] = ["Dreispitz", "Säbel", "Haken", "Maat", "Papagei", "Rum", "Holzbein", "Fernrohr", "Pulverdampf", "Schatzkarte"];
-
 tabellen["stufen"] = [["Möchtegernpirat", 12, 0], ["Unterbezahlter Pirat", 14, 2], ["Standardpirat", 16, 4], ["Wohlhabender Pirat", 18, 8], ["Reicher Pirat", 20, 16],
     ["Unterbezahlter Piratenanführer", 22, 24], ["Standardpiratenanführer", 24, 32], ["Wohlhabender Piratenanführer", 26, 40],
     ["Reicher Piratenanführer", 28, 48], ["Superreicher Piratenanführer", 30, 56]];

@@ -2,73 +2,176 @@
 layout: page
 permalink: /Zufallstabellen/Techsprech
 title: Techsprech
+sitedata:
+    TechsprechWort1:
+        - Multidimensionaler
+        - Persönlicher
+        - Piratischer
+        - Eindimensionaler
+        - Unpersönlicher
+        - Karibischer
+        - Keindimensionaler
+        - Digitaler
+        - Einmastiger
+        - Temporaler
+        - Traumatischer
+        - Zweimastiger
+        - Sublokaler
+        - Smarter
+        - Dreimastiger
+        - Molekularer
+        - Mobiler
+        - Goldener
+        - Elektromagnetischer
+        - Stationärer
+        - Silberner
+        - Strahlender
+        - Virtueller
+        - Dreiköpfiger
+        - Künstlicher
+        - Grafischer
+        - Kanonen
+        - Natürlicher
+        - Neutraler
+        - Funkelnder
+    TechsprechWort2:
+        - Koaxial
+        - Deuterium
+        - Amazonen
+        - Quanten
+        - String
+        - Halunken
+        - Subraum
+        - Photonen
+        - Aarrrrrrr
+        - Trans
+        - Phasen
+        - Schatz
+        - Flux
+        - Warp
+        - Totenkopf
+        - Tachyonen
+        - Holo
+        - Segelohr
+        - Trägheits
+        - Tarn
+        - bärtiger
+        - Disruptor
+        - Materie
+        - holzbeiniger
+        - Neutronen
+        - Vakuum
+        - hasserfüllter
+        - Protonen
+        - Tritanium
+        - kielholender
+    TechsprechWort3:
+        - Konverter
+        - Teleportator
+        - Dreispitz
+        - Translokator
+        - Pulsor
+        - Säbel
+        - Deflektor
+        - Reaktor
+        - Haken
+        - Expector
+        - Generator
+        - Maat
+        - Korruptor
+        - Roboter
+        - Papagei
+        - Traktor
+        - Energator
+        - Rum
+        - Beschleuniger
+        - Tricorder
+        - Holzbein
+        - Repulsator
+        - Kompensator
+        - Fernrohr
+        - Kollektor
+        - Organisator
+        - Pulverdampf
+        - Regulator
+        - Aggregator
+        - Schatzkarte
 ---
 
 # Techsprech
 
 Jedes technische Artefakt besteht aus drei Worten, Beispiele wären der Molekulare Quanten-Kollektor, die äußerst praktische Mobile Holo-Schatzkarte und natürlich der für jeden Spacepiraten unverzichtbare Persönliche Aarrrr-Roboter!
 
-Bei jedem Wort gilt es, mit einem W10 eine der drei entsprechenden Spalte zu ermitteln, und dann mit einem weiteren Wurf das eigentliche Wort.
+<button class="btn btn-yellow" id="generate">Generieren</button>
 
-### 1. Wort
-
-<table>
-<thead>
-<tr><th>W10</th><th>1-5</th><th>6-8</th><th>9,0</th></tr>
-</thead>
-<tbody>
-<tr><th>1</th><td>Multidimensionaler</td><td>Persönlicher-</td><td>Piratischer-</td></tr>
-<tr><th>2</th><td>Eindimensionaler-</td><td>Unpersönlicher-</td><td>Karibischer-</td></tr>
-<tr><th>3</th><td>Keindimensionaler-</td><td>Digitaler-</td><td>Einmastiger</td></tr>
-<tr><th>4</th><td>Temporaler-</td><td>Traumatischer-</td><td>Zweimastiger</td></tr>
-<tr><th>5</th><td>Sublokaler-</td><td>Smarter-</td><td>Dreimastiger</td></tr>
-<tr><th>6</th><td>Molekularer-</td><td>Mobiler-</td><td>Goldener</td></tr>
-<tr><th>7</th><td>Elektromagnetischer-</td><td>Stationärer-</td><td>Silberner-</td></tr>
-<tr><th>8</th><td>Strahlender-</td><td>Virtueller-</td><td>Dreiköpfiger-</td></tr>
-<tr><th>9</th><td>Künstlicher-</td><td>Grafischer-</td><td>Kanonen-</td></tr>
-<tr><th>10</th><td>Natürlicher-</td><td>Neutraler-</td><td>Funkelnder-</td></tr>
-</tbody>
-</table>
-
-### 2. Wort
-
-<table>
-<thead>
-<tr><th>W10</th><th>1-5</th><th>6-8</th><th>9,0</th></tr>
-</thead>
-<tbody>
-<tr><th>1</th><td>-Koaxial-</td><td>-Deuterium-</td><td>-Amazonen-</td></tr>
-<tr><th>2</th><td>-Quanten-</td><td>-String-</td><td>-Halunken-</td></tr>
-<tr><th>3</th><td>-Subraum-</td><td>-Photonen-</td><td>-Aarrrrrrr-</td></tr>
-<tr><th>4</th><td>-Trans-</td><td>-Phasen-</td><td>-Schatz-</td></tr>
-<tr><th>5</th><td>-Flux-</td><td>-Warp-</td><td>-Totenkopf-</td></tr>
-<tr><th>6</th><td>-Tachyonen-</td><td>-Holo-</td><td>-Segelohr-</td></tr>
-<tr><th>7</th><td>-Trägheits-</td><td>-Tarn-</td><td>-bärtiger-</td></tr>
-<tr><th>8</th><td>-Disruptor-</td><td>-Materie-</td><td>-holzbeiniger-</td></tr>
-<tr><th>9</th><td>-Neutronen-</td><td>-Vakuum-</td><td>-hasserfüllter-</td></tr>
-<tr><th>10</th><td>-Protonen-</td><td>-Tritanium-</td><td>-kielholender-</td></tr>
-</tbody>
-</table>
-
-### 3. Wort
-
-<table>
-<thead>
-<tr><th>W10</th><th>1-5</th><th>6-8</th><th>9,0</th></tr>
-</thead>
-<tbody>
-<tr><th>1</th><td>-Konverter</td><td>-Teleportator</td><td>-Dreispitz</td></tr>
-<tr><th>2</th><td>-Translokator</td><td>-Pulsor</td><td>-Säbel</td></tr>
-<tr><th>3</th><td>-Deflektor</td><td>-Reaktor</td><td>-Haken</td></tr>
-<tr><th>4</th><td>-Expector</td><td>-Generator</td><td>-Maat</td></tr>
-<tr><th>5</th><td>-Korruptor</td><td>-Roboter</td><td>-Papagei</td></tr>
-<tr><th>6</th><td>-Traktor</td><td>-Energator</td><td>-Rum</td></tr>
-<tr><th>7</th><td>-Beschleuniger</td><td>-Tricorder</td><td>-Holzbein</td></tr>
-<tr><th>8</th><td>-Repulsator</td><td>-Kompensator</td><td>-Fernrohr</td></tr>
-<tr><th>9</th><td>-Kollektor</td><td>-Organisator</td><td>-Pulverdampf</td></tr>
-<tr><th>10</th><td>-Regulator</td><td>-Aggregator</td><td>-Schatzkarte</td></tr>
-</tbody>
-</table>
+<div id="techsprechout" class="card p-2 mt-2">
+</div>
 
 ***
-**Autor:** [Peter alias Joni](http://www.herzliches-rollenspiel.de/)
+
+## Manuell auswürfeln
+
+Einfach einen W30 auf jede der drei Tabellen würfeln.
+
+{% capture include_col1 %}
+### 1. Wort
+{% assign nrWoerter = page.sitedata.TechsprechWort1.size %}
+<table>
+<thead>
+<tr><th>W{{ nrWoerter }}</th><th>Wort 1</th></tr>
+</thead>
+<tbody>
+{% assign i = 1 %}
+{% for wort in page.sitedata.TechsprechWort1 %}
+    <tr><td>{{ i }}</td><td>{{ wort }}</td></tr>
+    {% assign i = i | plus: 1 %}
+{% endfor %}
+</tbody>
+</table>
+{% endcapture %}
+
+{% capture include_col2 %}
+### 2. Wort
+
+{% assign nrWoerter = page.sitedata.TechsprechWort2.size %}
+<table>
+<thead>
+<tr><th>W{{ nrWoerter }}</th><th>Wort 2</th></tr>
+</thead>
+<tbody>
+{% assign i = 1 %}
+{% for wort in page.sitedata.TechsprechWort2 %}
+    <tr><td>{{ i }}</td><td>{{ wort }}</td></tr>
+    {% assign i = i | plus: 1 %}
+{% endfor %}
+</tbody>
+</table>
+{% endcapture %}
+
+{% capture include_col3 %}
+### 3. Wort
+
+{% assign nrWoerter = page.sitedata.TechsprechWort3.size %}
+<table>
+<thead>
+<tr><th>W{{ nrWoerter }}</th><th>Wort 3</th></tr>
+</thead>
+<tbody>
+{% assign i = 1 %}
+{% for wort in page.sitedata.TechsprechWort3 %}
+    <tr><td>{{ i }}</td><td>{{ wort }}</td></tr>
+    {% assign i = i | plus: 1 %}
+{% endfor %}
+</tbody>
+</table>
+{% endcapture %}
+
+{% include columns3.md col1=include_col1 col2=include_col2 col3=include_col3%}
+
+***
+
+**Autor:** Peter alias Joni
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/techsprech.js"></script>
