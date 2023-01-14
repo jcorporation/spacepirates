@@ -85,8 +85,6 @@ randgen.parser = function(x) {
             u += e;
         }
         else if (tabellen[z[i]]) {
-            console.log(z[i]);
-            console.log(tabellen[z[i]]);
             u += randgen.parser(randgen.randTable(tabellen[z[i]]));
         }
         else if (z[i].charAt(0) === '?') {

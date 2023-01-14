@@ -10,6 +10,17 @@ sitedata:
             Sektor: "Neutrale Zone"
             Beschreibung: ""
             Politisches: ""
+    RaumzeitverschiebungEreignisse:
+        - "Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Zukunft kommt."
+        - "Die Zeit läuft rückwärts."
+        - "Die Schwerkraft dreht sich um [W3] × 90 Grad."
+        - "Die Zeit springt alle [W10] Minuten [W6] Stunden vorwärts."
+        - "Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Vergangenheit kommt."
+        - "Die Zeit vergeht innerhalb des Raumschiffs nur noch halb so schnell."
+        - "Außerhalb des Raumschiffs ist alles [W100] mal größer."
+        - "Die Schwerkraft fluktuiert von doppelt so stark bis nicht vorhanden."
+        - "Die Zeit vergeht innerhalb des Raumschiffs doppelt so schnell."
+        - "Außerhalb des Raumschiffs ist alles [W100] mal kleiner."
 ---
 
 # Raumzeitverschiebung
@@ -20,21 +31,11 @@ Innerhalb einer Raumzeitverschiebung sind die Gesetze der Kausalität teilweise 
 
 Auf [Javar 3]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Javar_3) gibt es eine von vielen Forschungsstationen, die die Raumzeitverschiebung untersuchen.
 
-<table>
-<caption>Zufallstabelle</caption>
-<thead>
-<tr><th>W10</th><th>Auswirkung</th></tr>
-</thead>
-<tbody>
-<tr><td>1</td><td>Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Zukunft kommt.</td></tr>
-<tr><td>2</td><td>Die Zeit läuft rückwärts.</td></tr>
-<tr><td>3</td><td>Die Schwerkraft dreht sich um <span class="dice">1W3</span> × 90 Grad.</td></tr>
-<tr><td>4</td><td>Die Zeit springt alle <span class="dice">1W10</span> Minuten <span class="dice">1W6</span> Stunden vorwärts.</td></tr>
-<tr><td>5</td><td>Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Vergangenheit kommt.</td></tr>
-<tr><td>6</td><td>Die Zeit vergeht innerhalb des Raumschiffs nur noch halb so schnell.</td></tr>
-<tr><td>7</td><td>Außerhalb des Raumschiffs ist alles <span class="dice">1W100</span> mal größer.</td></tr>
-<tr><td>8</td><td>Die Schwerkraft fluktuiert von doppelt so stark bis nicht vorhanden.</td></tr>
-<tr><td>9</td><td>Die Zeit vergeht innerhalb des Raumschiffs doppelt so schnell.</td></tr>
-<tr><td>0</td><td>Außerhalb des Raumschiffs ist alles <span class="dice">1W100</span> mal kleiner.</td></tr>
-</tbody>
-</table>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
+
+<div id="raumzeitverschiebungTable"></div>
+<script>
+randgen.array2html(tabellen["raumzeitverschiebung"], document.getElementById('raumzeitverschiebungTable'));
+</script>

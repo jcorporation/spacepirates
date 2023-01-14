@@ -1,0 +1,18 @@
+{
+  "0": {
+    "Name": "ist feindlich eingestellt und greift das Raumschiff an (Kampfprofil 8, Schadensmodifikator 2, Wendigkeit: 7, Schadenspunkte: 30).",
+    "Link": "/Weltraum/Weltraumphänomene/Ionensturm"
+  },
+  "1": {
+    "Name": "ist freundlich gesonnen und hilft den Piraten weiter.",
+    "Link": "/Weltraum/Weltraumphänomene/Ionensturm"
+  },
+  "2": {
+    "Name": "ist ein Orakel und beantwortet den Piraten 3 Fragen.",
+    "Link": "/Weltraum/Weltraumphänomene/Ionensturm"
+  },
+  "3": {
+    "Name": "ist gelangweilt und will eine interessante Geschichte hören, damit sie den Piraten hilft aus dem Sturm zu kommen.",
+    "Link": "/Weltraum/Weltraumphänomene/Ionensturm"
+  }
+}

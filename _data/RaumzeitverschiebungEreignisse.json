@@ -1,0 +1,42 @@
+{
+  "0": {
+    "Name": "Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Zukunft kommt.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  },
+  "1": {
+    "Name": "Die Zeit läuft rückwärts.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  },
+  "2": {
+    "Name": "Die Schwerkraft dreht sich um [W3] × 90 Grad.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  },
+  "3": {
+    "Name": "Die Zeit springt alle [W10] Minuten [W6] Stunden vorwärts.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  },
+  "4": {
+    "Name": "Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Vergangenheit kommt.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  },
+  "5": {
+    "Name": "Die Zeit vergeht innerhalb des Raumschiffs nur noch halb so schnell.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  },
+  "6": {
+    "Name": "Außerhalb des Raumschiffs ist alles [W100] mal größer.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  },
+  "7": {
+    "Name": "Die Schwerkraft fluktuiert von doppelt so stark bis nicht vorhanden.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  },
+  "8": {
+    "Name": "Die Zeit vergeht innerhalb des Raumschiffs doppelt so schnell.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  },
+  "9": {
+    "Name": "Außerhalb des Raumschiffs ist alles [W100] mal kleiner.",
+    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+  }
+}

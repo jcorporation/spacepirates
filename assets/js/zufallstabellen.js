@@ -1,3 +1,6 @@
+---
+---
+
 tabellen["rsmacken"] = tabellen["existingRaumschiffmacken"];
 
 tabellen["scmacken"] = tabellen["existingPiratenmacken"];
@@ -55,8 +58,8 @@ tabellen["weltraumphaenomen"] = ["Schwarzes Loch", "Negatronenwolke", "Plasmawol
     "Unwahrscheinlichkeitswirbel", "Meteoritengürtel", "Unlöschbare Feuerwand", "Plasmaregenbogen", "Lila Loch", "Weißes Loch",
     "Spiralnebel", "Asteroidengürtel", "Quantenfluktuation", "Dimensionsriss", "Plasmasturm", "Pulsar"];
 
-tabellen["vorgehen"] = ["schärfere Gesetze und Strafen auf dem Planeten [planetenwichtig]", "neue Spezialeinheit auf dem Planeten [planetenwichtig] gegründet",
-    "Spezialeinheit auf Planet [planetenwichtig] abgebaut"];
+tabellen["vorgehen"] = ["schärfere Gesetze und Strafen auf dem Planeten [existingPlaneten]", "neue Spezialeinheit auf dem Planeten [existingPlaneten] gegründet",
+    "Spezialeinheit auf Planet [existingPlaneten] abgebaut"];
 
 tabellen["persoenlichkeit"] = ["Politiker/Repräsentant: [partei]", "Manager des Konzerns [konzern_neu_or_wichtig]", "Showstar [showstar]", "Sektenanführer der Sekte [sekte]",
     "einer unbekannteren Person"];
@@ -75,7 +78,7 @@ tabellen["planet_or_sektor"] = ["[planet_neu_or_wichtig]", "[sektoren]"];
 
 tabellen["planet_or_stadt"] = ["Planet: [planet_neu_or_wichtig]", "Stadt: [stadtneu] auf [planet_neu_or_wichtig]"];
 
-tabellen["planet_neu_or_wichtig"] = ["[planetneu]", "[planetenwichtig]"];
+tabellen["planet_neu_or_wichtig"] = ["[planetneu]", "[existingPlaneten]"];
 
 tabellen["konzern_neu_or_wichtig"] = ["[existingKonzerne]", "[konzernneu]"];
 
@@ -94,9 +97,6 @@ tabellen["handelspartei"] = ["Föderation", "Handelsrat", "Neuasien", "Glukorian
 
 tabellen["partei"] = tabellen.handelspartei.concat(["Piraten", "Rebellen", "Interstellarer Konzern: [konzern_neu_or_wichtig]",
     "Sekte: [sekte]", "unbekannte Alienrasse", "Romaha", "Glukorianisches Imperium"]);
-
-tabellen["aliens"] = ["Glukorianisches Imperium", "Kahadrisches Reich", "Samara", "Syoner", "Trullimperium", "Reich der Wagonen",
-    "Streifanier", "Spaceamazonen", "Spacepears", "Atlanter", "SpaceWorms", "unbekannte Alienrasse", "Romaha", "Raptorianer", "SpaceYetis"];
 
 tabellen["unbekanntes"] = ["Anzeichen einer unbekannten Alienrasse im Sektor [sektoren]", "Neuartiges Weltraumphänomen im Sektor [sektoren]",
     "Unbekannte Energieart", "Schnellerer FTL-Antrieb", "Teleportation", "Künstliche Intelligenz"];
@@ -149,15 +149,22 @@ tabellen["fraktion"] = ["Geheimorganisaton [rasse]", "Rebellenanführer [rasse]"
     "Mächtiger Händler [rasse]", "Kommandant einer Raumstation [rasse]", "Militärgeneral [rasse]", "Wissenschaftler [rasse]",
     "Anonymer Auftraggeber [rasse]", "Mitglied des Galaktischen Handelsrats [rasse]", "SpaceNinjas [ninjaclan]"];
 
-tabellen["ninjaclan"] = ["Akamachi-Clan", "Clan der Schildkröte", "Goemon-Ishikawa-Highschool", "Hashimara-Clan", "Hattori-Hanzo-Akademie",
-    "Leiser-Wind-des-Schicksals-Dojo"];
+tabellen["ninjaclan"] = [
+    {%- assign i = 0 %}
+    {%- for org in site.data.Organisationen %}
+        {%- assign Name = org[1].Name %}
+        {%- assign Kategorie = org[1].Kategorie %}
+        {%- if Kategorie == 'Ninja-Clan' or Kategorie contains 'Ninja-Clan' %}
+            {%- if i == 1 %},{% endif %}
+            "{{ Name }}"
+            {%- assign i = 1%}
+        {%- endif %}
+    {%- endfor %}
+];
 
-tabellen["rasse"] = ["Mensch", "Mensch", "Mensch", "Trull", "Trull", "Trull", "Spaceamazone", "Spaceamazone",
-    "Kahadrier", "Kahadrier", "Samnese", "Samnese", "Wagone", "Wagone", "Streifanier", "Streifanier", "Raptorianer",
-    "Spacepear", "Syoner", "Glukorianer", "SpaceWorm", "Atlanter", "unbekannte Rasse"];
+tabellen["aliens"] = tabellen["existingRassen"].concat(["unbekannte Rasse"]);
 
-tabellen["aliens"] = ["Trull", "Spaceamazone", "Kahadrier", "Samnese", "Wagone", "Streifanier", "Spacepear", "Syoner", "Glukorianer", "SpaceWorm", "Atlanter",
-    "Raptorianer", "unbekannte Rasse"];
+tabellen["rasse"] = tabellen["aliens"].concat(["Mensch"]);
 
 tabellen["auftragserteilung"] = ["Durch verstohlenen Boten, der die Charaktere zum Auftraggeber bringt.",
     "An einem geheimen Ort mit vermummten Auftraggeber.",
@@ -185,14 +192,75 @@ tabellen["beute"] = ["Uraltes Alienartefakt der [aliens], [beutetyp]", "Gegensta
     "Ungewöhnliche Proben - [materie] vom Planeten [planetneu]", "Lebende Materie - [materie] [materieverhalten]",
     "Kisten mit [kisteninhalt]"];
 
+tabellen["handelsrat"] = ["Handelsrat", "SpaceHawks", "Space-Steuerfahnder"];
+
 tabellen["organisation"] = tabellen.existingKonzerne.concat(["Rebellen", "Piraten", "Militär ([rasse])", "Schmuggler", "Drogenhändler",
-    "Korrupter Geschäftsmann", "[spacemafia]", "SpaceRocker [spacerocker]"], "Sekte [sekte]");
+    "Korrupter Geschäftsmann"], tabellen.existingOrganisationen, tabellen["handelsrat"]);
 
-tabellen["spacerocker"] = ["SpaceAngels", "Baneros Banditos"];
+tabellen["spacerocker"] = [
+    {%- assign i = 0 %}
+    {%- for org in site.data.Organisationen %}
+        {%- assign Name = org[1].Name %}
+        {%- assign Kategorie = org[1].Kategorie %}
+        {%- if Kategorie == 'SpaceRocker-Bande' or Kategorie contains 'SpaceRocker-Bande' %}
+            {%- if i == 1 %},{% endif %}
+            "{{ Name }}"
+            {%- assign i = 1%}
+        {%- endif %}
+    {%- endfor %}
+];
 
-tabellen["spacemafia"] = ["Italienische Mafia", "Kahadrische Mafia"];
+tabellen["spacemafia"] = [
+    {%- assign i = 0 %}
+    {%- for org in site.data.Organisationen %}
+        {%- assign Name = org[1].Name %}
+        {%- assign Kategorie = org[1].Kategorie %}
+        {%- if Kategorie == 'Mafia' or Kategorie contains 'Mafia' %}
+            {%- if i == 1 %},{% endif %}
+            "{{ Name }}"
+            {%- assign i = 1%}
+        {%- endif %}
+    {%- endfor %}
+];
 
-tabellen["sekte"] = ["Heavensgate", "Kinder der Sternenleere", "Verfechter der Nacktheit", "Unbekannt", "Marmonen"];
+tabellen["sekte"] = [
+    {%- assign i = 0 %}
+    {%- for org in site.data.Organisationen %}
+        {%- assign Name = org[1].Name %}
+        {%- assign Kategorie = org[1].Kategorie %}
+        {%- if Kategorie == 'Sekte' or Kategorie contains 'Sekte' %}
+            {%- if i == 1 %},{% endif %}
+            "{{ Name }}"
+            {%- assign i = 1%}
+        {%- endif %}
+    {%- endfor %}
+];
+
+tabellen["haendler"] = [
+    {%- assign i = 0 %}
+    {%- for org in site.data.Slc %}
+        {%- assign Name = org[1].Name %}
+        {%- assign Kategorie = org[1].Kategorie %}
+        {%- if Kategorie == 'Händler' or Kategorie contains 'Händler' %}
+            {%- if i == 1 %},{% endif %}
+            "{{ Name }}"
+            {%- assign i = 1%}
+        {%- endif %}
+    {%- endfor %}
+];
+
+tabellen["bank"] = [
+{%- assign i = 0 %}
+{%- for org in site.data.Konzerne %}
+    {%- assign Name = org[1].Name %}
+    {%- assign Kategorie = org[1].Kategorie %}
+    {%- if Kategorie == 'Bank' or Kategorie contains 'Bank' %}
+        {%- if i == 1 %},{% endif %}
+        "{{ Name }}"
+        {%- assign i = 1%}
+    {%- endif %}
+{%- endfor %}
+];
 
 tabellen["belohnung"] = ["[3W10].000 UC pro Charakter", "seltenes Raumschiffersatzteil", "[W4]0 % der Beute", "[4W10].000 UC Gesamt",
     "[2W10].000 UC pro Charakter", "seltenes Raumschiffersatzteil", "[W10]000 UC pro Charakter", "[4W10].000 UC Gesamt", "Alienartefakt"];
@@ -226,14 +294,9 @@ tabellen["schurkenplaene"] = ["Es ist eine tödliche Mission, er will die Charak
     "Auftraggeber kooperiert mit den Glukorianern und die Person/Gegenstand kann kriegsentscheidend sein."];
 
 tabellen["gegenspieler"] = ["Konzern [konzern_neu_or_wichtig]", "andere Piratengruppe", "Rebellen", "bekannte Alienrasse [rasse]", "Söldnertruppe",
-    "Militär [rasse]", "Schmuggler / Drogenhändler", "unbekannte Alienrasse", "Sekte [sekte]", "[mafia]", "SpaceRocker [rocker]",
+    "Militär [rasse]", "Schmuggler / Drogenhändler", "unbekannte Alienrasse", "Sekte [sekte]", "[spacemafia]", "SpaceRocker [spacerocker]",
     "Korrupter Geschäftsmann", "SpaceNinjas [ninjaclan]", "Händler / Halunke [haendler]", "Promi [showstar]", "[bank]", "Verrückter Wissenschaftler",
     "[handelsrat]", "Korrupter Politiker", "Konzern [konzern_neu_or_wichtig]"];
-
-tabellen["mafia"] = ["Italienische Mafia", "Kahadrische Mafia"];
-tabellen["rocker"] = ["Baneros Banditos", "SpaceAngels"];
-tabellen["handelsrat"] = ["Handelsrat", "SpaceHawks", "Space-Steuerfahnder"];
-tabellen["bank"] = ["Handelsbank", "Trullbank", "Universalbank", "Bank von Neuasien"];
 
 tabellen["gegenspielerverhalten"] = ["Beschützen aktiv die Zielperson/Gegenstand.",
     "Sind selber auf der Suche danach, mit dem gleichen Ziel.",
@@ -280,7 +343,7 @@ tabellen["zwischenfallplanet"] = ["Ein Erdbeben tritt auf.",
     "Ein Vulkan bricht aus.",
     "Die Regierung verhängt eine Ausgangssperre."];
 
-tabellen["orte"] = ["Ruine auf einem bekannten Planeten [planetenwichtig]",
+tabellen["orte"] = ["Ruine auf einem bekannten Planeten [existingPlaneten]",
     "Ruine auf neu entdeckten Planeten [planetneu]",
     "Raumstation [sektoren]",
     "Große bekannte Stadt [ortdetails], [stadt_neu_or_wichtig]",
@@ -294,8 +357,7 @@ tabellen["orte"] = ["Ruine auf einem bekannten Planeten [planetenwichtig]",
 tabellen["ortdetails"] = ["Heruntergekommene Bar", "Zwielichtiger Stadtteil", "Raumhafen", "Industrieanlage", "Piratenspelunke",
     "Gut bewachter Unterschlupf", "Auf offener Straße", "Lagerhäuser", "Hochmoderner Zug", "Schutzbunker", "abgestürztes Raumschiff"];
 
-tabellen["sektoren"] = ["Föderation", "Reich der Wagonen", "Sternenrepublik Neuasien", "Kahadrisches Reich", "Freihandelszone",
-    "Trullimperium", "Neutrale Zone", "Samara", "unerforschter Sektor", "Glukorianisches Imperium", "Sektor D1", "Sektor D3"];
+tabellen["sektoren"] = tabellen["existingSektoren"].concat(["unerforschter Sektor"]);
 
 tabellen["sternensysteme"] = ["Überrest einer Supernova", "Eine aktive Sonne", "Weißer Zwerg", "Aktives Doppelsternsystem", "Eine aktive Sonne",
     "Roter Riese", "Aktives Doppelsonnensystem", "Neutronenstern", "Schwarzes Loch", "Hyperriese"];
@@ -561,72 +623,22 @@ tabellen["neuchinanachnamen"] = ["Li", "Wang", "Zhang", "Liu", "Chen", "Yang", "
     "Volkov", "Solovyov", "Vasilyev", "Zaytsev", "Pavlov", "Semyonov", "Golubev", "Vinogradov", "Bogdanov", "Voroyov", "Qian", "Feng", "Cheng", "Meng", "Shou",
     "Wen", "Duan", "Sha", "Quan", "Long", "Bing", "Advani", "Roshan", "Patel", "Rao", "Bedi"];
 
-tabellen["raumzeitverschiebung"] = ["Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Zukunft kommt.",
-    "Die Zeit läuft rückwärts.",
-    "Die Schwerkraft dreht sich um [W3] × 90 Grad.",
-    "Die Zeit springt alle [W10] Minuten [W6] Stunden vorwärts.",
-    "Die Piraten begegnen ihrem eigenen Raumschiff, das aus der Vergangenheit kommt.",
-    "Die Zeit vergeht innerhalb des Raumschiffs nur noch halb so schnell.",
-    "Außerhalb des Raumschiffs ist alles [W100] mal größer.",
-    "Die Schwerkraft fluktuiert von doppelt so stark bis nicht vorhanden.",
-    "Die Zeit vergeht innerhalb des Raumschiffs doppelt so schnell.",
-    "Außerhalb des Raumschiffs ist alles [W100] mal kleiner."];
-
-tabellen["unwahrscheinlichkeitszone"] = ["Alle Koordinaten, die der Bordcomputer berechnet zeigen in die entgegengesetzte Richtung.",
-    "Die KI des Raumschiffs verliebt sich in ein Besatzungsmitglied.",
-    "Eine zufällige Macke der Mackentabelle tritt ein: [rsmacken]",
-    "Aus allen Schächten fallen Murmeln, man kann nur noch laufen wenn man 2 Erfolge auf Söldner schafft.",
-    "Der Computer bläst überall große, kaum zerstörbare Luftblasen aus.",
-    "Ein Betunientopf und ein verdutzter Wal fliegen auf das Raumschiff zu.",
-    "Das Raumschiff verwandelt sich in ein voll ökologisches abbaubares Schiff aus Holz und Efeu.",
-    "Männer werden zu Frauen, Frauen zu Männer, aus Erwachsenen Kinder und aus Kinder Erwachsene.",
-    "Im Bordradio kommen nur noch tolle Lieder, die die ganze Crew abrocken lässt und kein Moderator quatscht dazwischen.",
-    "Rosa Flamingos entern das Raumschiff und betrachten die Crew als ihren Nachwuchs.",
-    "Alle Farben verschwinden und es ist alles nur noch schwarz/weiß.",
-    "Alle Crewmitglieder gewinnen in der Spacelotterie, genauso wie alle anderen Piraten des Universums.",
-    "Der Rum auf dem Raumschiff geht aus, wie auch in allen Kneipen im Sektor.",
-    "Eine gigantische SpaceSchlange verschluckt das Raumschiff und beginnt es zu verdauen.",
-    "Alle Waffen verschießen nur noch Luftschlagen und Konfetti.",
-    "Die KI des Bordcomputers macht einen nützlichen Vorschlag.",
-    "Die Service-Leuchte des gebrauchten Raumschiffs erlischt und alle Diagnoseläufe berichten von einem tiptop Raumschiff.",
-    "Die Microwellenfertiggerichte der Bordkombüse sind gesund und äußerst schmackhaft.",
-    "Die Piraten entdecken einen weitläufigen Erdmännchenbau in ihrem Raumschiff, in dem sich viele verloren geglaubte Dinge finden lassen.",
-    "Poly der Bordpapagei gibt nicht nur nervige Wiederholungen eines nervigen Satzes wieder, sondern beteiligt sich am aktuellen Diskurs."];
+tabellen["raumzeitverschiebung"] = tabellen["existingRaumzeitverschiebungEreignisse"];
+tabellen["unwahrscheinlichkeitszone"] = tabellen["existingUnwahrscheinlichkeitsZoneEreignisse"];
+tabellen["ionensturm"] = tabellen["existingIonensturmEreignisse"];
+tabellen["ionensturm_ki"] = tabellen["existingIonensturmKi"];
 
 tabellen["neutritiumstrahlung"] = ["Es wächst ein zusätzliches Gliedmaß an einer praktischen Stelle: [w4gliedmassen]",
     "Das Haarwachstum nimmt exponentiell zu, auch an Stellen an denen bisher keine Haare gewachsen sind.",
     "Alte Narben verschwinden spurlos.",
     "Es wächst ein zusätzliches Gliedmaß an einer unpraktischen Stelle: [w4gliedmassen]",
-    "Die Haut verfärbt sich [w6farben].",
+    "Die Haut verfärbt sich [farben].",
     "Es bilden sich überall auf der Haut eitrige Pickel.",
     "Alle Haare fallen auf einmal aus und wachsen auch nicht mehr nach.",
     "Es fällt ein zufälliges Gliedmaß ab: [w6gliedmassen]",
     "Die Haut wird durchsichtig.",
-    "Alle Haare verfärben sich [w6farben]."];
+    "Alle Haare verfärben sich [farben]."];
 
-tabellen["w6farben"] = ["rot", "blau", "grün", "schwarz", "lila", "rosa"];
+tabellen["farben"] = ["rot", "blau", "grün", "schwarz", "lila", "rosa", "flieder", "pink", "weiß"];
 tabellen["w4gliedmassen"] = ["Arm", "Arm", "Bein", "Bein", "Schwanz"];
 tabellen["w6gliedmassen"] = ["Linker Arm", "Rechter Arm", "Linkes Bein", "Rechtes Bein"];
-
-tabellen["ionensturm"] = ["Der Schiffscomputer spielt verrückt solange das Raumschiff im Sturm ist: -2 auf alle Raumschiffproben",
-    "Eine, im Sturm lebende KI, bemächtigt sich des Raumschiffs. Sie hat eigene Ziele und kann jeden Befehl der Crew überschreiben (TECH-Probe oder HÄNDLER-Probe mit 7 Erfolgen um die KI zu vertreiben).",
-    "Die Piraten treffen auf eine, im Sturm lebende und aus Ionen bestehende, Lebensform. Die KI [ionensturm_ki]",
-    "Der Schildgenerator und die Raumschiffwaffen brennen durch (TECH-Probe mit 5 Erfolgen um den Schaden zu beheben)."];
-
-tabellen["ionensturm_ki"] = ["ist feindlich eingestellt und greift das Raumschiff an (Kampfprofil 8, Schadensmodifikator 2, Wendigkeit: 7, Schadenspunkte: 30).",
-    "ist freundlich gesonnen und hilft den Piraten weiter.",
-    "ist ein Orakel und beantwortet den Piraten 3 Fragen.",
-    "ist gelangweilt und will eine interessante Geschichte hören, damit sie den Piraten hilft aus dem Sturm zu kommen."];
-
-tabellen["raumflug"] = ["Das Raumschiff durchfliegt unbeabsichtigt ein Weltraumphänomen: [weltraumphaenomen]",
-    "Der FTL-Antrieb versagt nach [1W100] % der Flugzeit.",
-    "Eine Raumzeitverzerrung verlängert den Flug um [1W10] Tage.",
-    "Eine zufällige Macke setzt ein: [rsmacken]",
-    "Der Sprit (Neutritium) geht nach [1W100] % der Flugzeit aus, obwohl die Tanknadel noch genügend Reserven zeigt.",
-    "Die Crew leidet an [raumkrankheiten].",
-    "Der Rum geht aus.",
-    "Es haben sich Parasiten eingenistet und die ganzen Vorräte verseucht.",
-    "Ein verstümmelter FTL-Funkspruch wird zufällig aufgefangen.",
-    "Der Bordcomputer veranstaltet eine Schnitzeljagd."];
-
-tabellen["raumkrankheiten"] = ["Seekrankheit", "Extremer Langeweile", "Platzangst", "Hautausschlag"];
