@@ -1,3 +1,5 @@
+GeraeteFehlfunktionen
+KiEigenschaften
 Konzerne
 Organisationen
 Planeten
@@ -14,3 +16,5 @@ Raumschiffmacken
 TechsprechWort1
 TechsprechWort2
 TechsprechWort3
+RaumflugEreignisse
+RaumflugKrankheiten

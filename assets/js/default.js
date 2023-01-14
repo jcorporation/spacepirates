@@ -38,7 +38,7 @@ function randomTable(table) {
     }
     firstRow.classList.add('clickable');
     firstRow.addEventListener('click', function() {
-        const rows = table.querySelectorAll('tbody > tr');
+        const rows = table.rows;
         const sel = table.querySelector('.selected');
         if (sel) {
             sel.classList.remove('selected');

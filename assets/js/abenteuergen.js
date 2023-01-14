@@ -8,9 +8,9 @@ abenteuergen.generate = function() {
     document.getElementById('huerde').innerHTML = randgen.parser(randgen.randTable(tabellen.huerden));
     document.getElementById('haken').innerHTML = randgen.parser(randgen.randTable(tabellen.haken));
     document.getElementById('gegenspieler').innerHTML = randgen.parser(randgen.randTable(tabellen.gegenspieler)) + ", " + randgen.parser(randgen.randTable(tabellen.gegenspielerverhalten));
-    document.getElementById('zwischenfaelle').innerHTML = randgen.parser("Im Weltraum: " + randgen.randTable(tabellen.zwischenfallweltraum)) +
-        "<br/>Auf einer Raumstation: " + randgen.parser(randgen.randTable(tabellen.zwischenfallraumstation)) +
-        "<br/>Auf einem Planeten: " + randgen.parser(randgen.randTable(tabellen.zwischenfallplanet));
+    document.getElementById('zwischenfaelle').innerHTML = randgen.parser("<ul><li>Im Weltraum: " + randgen.randTable(tabellen.zwischenfallweltraum)) +
+        "</li><li>Auf einer Raumstation: " + randgen.parser(randgen.randTable(tabellen.zwischenfallraumstation)) +
+        "</li><li>Auf einem Planeten: " + randgen.parser(randgen.randTable(tabellen.zwischenfallplanet)) + '</li></ul>';
 }
 
 //init

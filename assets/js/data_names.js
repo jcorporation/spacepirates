@@ -1,5 +1,34 @@
 //do not modify
 const tabellen = {};
+tabellen["existingGeraeteFehlfunktionen"] = [
+  "Rauch tritt aus",
+  "Piepst und blinkt wild",
+  "Rattert",
+  "Klappert",
+  "KI Eingebaut",
+  "Unbekannter Ausnahmefehler",
+  "Wird unglaublich heiß",
+  "Wird extrem kalt",
+  "Vibriert stark",
+  "Wackelkontakt",
+  "Pfeift nervend",
+  "Schmilzt",
+  "Zerspringt in 1000 Teile",
+  "Explodiert"
+]
+tabellen["existingKiEigenschaften"] = [
+  "Mütterlich und überfürsorglich",
+  "Ängstlich und vorsichtig",
+  "Kommt nicht zum Punkt",
+  "Abenteuerlustig",
+  "Spielt gern den Pausenclown",
+  "Besserwisserisch und eingebildet",
+  "Stottert",
+  "Überschätzt sich selbst",
+  "Bürokratisch",
+  "Schüchtern",
+  "Extrem euphorisch"
+]
 tabellen["existingKonzerne"] = [
   "Asia Media",
   "Bank von Neuasien",
@@ -581,4 +610,36 @@ tabellen["existingTechsprechWort3"] = [
   "Reaktor",
   "Haken",
   "Expector"
+]
+tabellen["existingRaumflugEreignisse"] = [
+  "Das Raumschiff durchfliegt unbeabsichtigt ein Weltraumphänomen: [weltraumphaenomen]",
+  "Der FTL-Antrieb versagt nach [W100]% der Flugzeit.",
+  "Sie treffen auf ein havariertes Raumschiff von [organisation]",
+  "Ein marodes Piratenschiff greift an.",
+  "Ein gut gerüstetes Patrouillenschiff will eine „Routinekontrolle“ durchführen.",
+  "Ein gut gerüstetes Patrouillenschiff will eine „Routinekontrolle“ durchführen, es sind aber doch stark gerüstete Piraten!",
+  "Die Charaktere geraten in ein Raumschlacht zwischen Piraten und Kriegsschiffen.",
+  "Ein Raumschiff intergalaktischer Sklavenjäger fängt das Raumschiff in seinem Traktorstrahl.",
+  "Rings um das Raumschiff taucht plötzlich ein dichter Meteoritengürtel auf.",
+  "Die Sensoren entdecken einen bis jetzt völlig unbekannten Planeten.",
+  "Ein kaum verständlicher Notruf kommt an.",
+  "Das Raumschiff gerät in einen Raumzeitwirbel und landet irgendwo und irgendwann in der Galaxis.",
+  "Eine Raumzeitverzerrung verlängert den Flug um [W10] Tage.",
+  "Eine Sekte will die Piraten bekehren: [sekte]",
+  "[weltraumtier] kreuzen",
+  "Eine Mail kommt an (Mails gibt es eigentlich seit 1000 Jahren nicht mehr).",
+  "Eine zufällige Raumschiffmacke setzt ein: [rsmacken]",
+  "Der Sprit (Neutritium) geht nach [W100]% der Flugzeit aus, obwohl die Tanknadel noch genügend Reserven zeigt.",
+  "Die Crew leidet an: [raumflugkrankheit].",
+  "Der Rum geht aus.",
+  "Es haben sich Parasiten eingenistet und die ganzen Vorräte verseucht.",
+  "Ein verstümmelter FTL-Funkspruch wird zufällig aufgefangen.",
+  "Der Bordcomputer veranstaltet eine Schnitzeljagd."
+]
+tabellen["existingRaumflugKrankheiten"] = [
+  "Seekrankheit",
+  "Extreme Langeweile",
+  "Platzangst",
+  "Hautausschlag",
+  "Lagerkoller"
 ]

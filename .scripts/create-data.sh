@@ -51,7 +51,7 @@ do
                 if [ "${NAME:0:5}" != "Name:" ]
                 then
                     # handle arrays
-                    NAME="Name: $NAME"
+                    NAME="Name: \"$NAME\""
                 fi
                 NAME=$(sed 's/^/  /g' <<< "$NAME")
                 printf "%s:\n%s\n  Link: %s\n" "$KEY" "$NAME" "$PERMALINK" >> "$TMPFILE"
@@ -76,11 +76,13 @@ do
     if [ -s "$TMPFILE" ]
     then
         mv "$TMPFILE" "_data/$L.json"
+        rm "$YMLTMP"
     else
-        rm -f "$TMPFILE"
+        # do not delete files with errors
+        #rm -f "$TMPFILE"
+        #rm "$YMLTMP"
         rc=1
     fi
-    rm "$YMLTMP"
     # print all names to javascript arrays for random generators
     printf "tabellen[\"existing%s\"] = " "$L" >> "$TMPDIR/data_names.js"
     jq ".[] | .Name" "_data/$L.json" | jq --slurp "." >> "$TMPDIR/data_names.js"

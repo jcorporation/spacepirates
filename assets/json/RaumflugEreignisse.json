@@ -1,0 +1,94 @@
+{
+  "0": {
+    "Name": "Das Raumschiff durchfliegt unbeabsichtigt ein Weltraumphänomen: [weltraumphaenomen]",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "1": {
+    "Name": "Der FTL-Antrieb versagt nach [W100]% der Flugzeit.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "10": {
+    "Name": "Sie treffen auf ein havariertes Raumschiff von [organisation]",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "11": {
+    "Name": "Ein marodes Piratenschiff greift an.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "12": {
+    "Name": "Ein gut gerüstetes Patrouillenschiff will eine „Routinekontrolle“ durchführen.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "13": {
+    "Name": "Ein gut gerüstetes Patrouillenschiff will eine „Routinekontrolle“ durchführen, es sind aber doch stark gerüstete Piraten!",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "14": {
+    "Name": "Die Charaktere geraten in ein Raumschlacht zwischen Piraten und Kriegsschiffen.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "15": {
+    "Name": "Ein Raumschiff intergalaktischer Sklavenjäger fängt das Raumschiff in seinem Traktorstrahl.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "16": {
+    "Name": "Rings um das Raumschiff taucht plötzlich ein dichter Meteoritengürtel auf.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "17": {
+    "Name": "Die Sensoren entdecken einen bis jetzt völlig unbekannten Planeten.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "18": {
+    "Name": "Ein kaum verständlicher Notruf kommt an.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "19": {
+    "Name": "Das Raumschiff gerät in einen Raumzeitwirbel und landet irgendwo und irgendwann in der Galaxis.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "2": {
+    "Name": "Eine Raumzeitverzerrung verlängert den Flug um [W10] Tage.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "20": {
+    "Name": "Eine Sekte will die Piraten bekehren: [sekte]",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "21": {
+    "Name": "[weltraumtier] kreuzen",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "22": {
+    "Name": "Eine Mail kommt an (Mails gibt es eigentlich seit 1000 Jahren nicht mehr).",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "3": {
+    "Name": "Eine zufällige Raumschiffmacke setzt ein: [rsmacken]",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "4": {
+    "Name": "Der Sprit (Neutritium) geht nach [W100]% der Flugzeit aus, obwohl die Tanknadel noch genügend Reserven zeigt.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "5": {
+    "Name": "Die Crew leidet an: [raumflugkrankheit].",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "6": {
+    "Name": "Der Rum geht aus.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "7": {
+    "Name": "Es haben sich Parasiten eingenistet und die ganzen Vorräte verseucht.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "8": {
+    "Name": "Ein verstümmelter FTL-Funkspruch wird zufällig aufgefangen.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  },
+  "9": {
+    "Name": "Der Bordcomputer veranstaltet eine Schnitzeljagd.",
+    "Link": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug"
+  }
+}

@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /Zufallstabellen/Abenteuer/1-Klick-Abenteuer
+permalink: /Zufallstabellen/1-Klick-Abenteuer
 title: 1-Klick-Abenteuer
 ---
 
 # 1-Klick-Abenteuer
 
-Dieses Tool generiert mit Hilfe der [Abenteuertabellen]({{ site.baseurl }}/Zufallstabellen/Abenteuer/) zufällige Abenteuer.
+Mit dem 1-Klick-Abenteuergenerator können die Eckpunkte eines Abenteuers generiert werden, die danach nur noch miteinander verbunden werden müssen. Natürlich ist trotzdem noch Kreativität gefragt und unpassendes sollte natürlich einfach ersetzt werden.
 
 <button class="btn btn-yellow" id="generate">Generieren</button>
 

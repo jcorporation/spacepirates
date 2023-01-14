@@ -1,6 +1,10 @@
-tabellen['rsmacken'] = tabellen["existingRaumschiffmacken"];
+tabellen["rsmacken"] = tabellen["existingRaumschiffmacken"];
 
-tabellen['scmacken'] = tabellen["existingPiratenmacken"];
+tabellen["scmacken"] = tabellen["existingPiratenmacken"];
+
+tabellen["raumflugkrankheit"] = tabellen["existingRaumflugKrankheiten"];
+
+tabellen["weltraumtier"] = tabellen["existingWeltraumtiere"];
 
 tabellen["stufen"] = [["Möchtegernpirat", 12, 0], ["Unterbezahlter Pirat", 14, 2], ["Standardpirat", 16, 4], ["Wohlhabender Pirat", 18, 8], ["Reicher Pirat", 20, 16],
     ["Unterbezahlter Piratenanführer", 22, 24], ["Standardpiratenanführer", 24, 32], ["Wohlhabender Piratenanführer", 26, 40],
@@ -108,7 +112,7 @@ tabellen["verbrechen"] = ["Diebstahl einer experimentellen Waffe", "Ermordung ei
     "Entführung einer bekannten Persönlichkeit: [persoenlichkeit]", "Eindringen in eine Sperrzone", "Putsch einer Regierung auf dem Planten [planetneu]",
     "Entwendung eines neuartigen Raumschiffs", "Handel mit den Glukorianern", "Besetzung einer Raumstation"];
 
-tabellen["verbrecher"] = ["Piraten", "Rebellen", "Unbekannten", "Abtrühnige Soldatentruppe", "Söldner", "Kleinkriminelle",
+tabellen["verbrecher"] = ["Piraten", "Rebellen", "Unbekannten", "Abtrünnige Soldatentruppe", "Söldner", "Kleinkriminelle",
     "Organisiertes Verbrechen", "[spacemafia]", "[spacerocker]"];
 
 tabellen["wahrheit"] = ["vollständig wahr", "größtenteils wahr", "etwas verfälscht", "nur teilweise wahr", "nur teilweise wahr", "größtenteils falsch",
@@ -145,7 +149,8 @@ tabellen["fraktion"] = ["Geheimorganisaton [rasse]", "Rebellenanführer [rasse]"
     "Mächtiger Händler [rasse]", "Kommandant einer Raumstation [rasse]", "Militärgeneral [rasse]", "Wissenschaftler [rasse]",
     "Anonymer Auftraggeber [rasse]", "Mitglied des Galaktischen Handelsrats [rasse]", "SpaceNinjas [ninjaclan]"];
 
-tabellen["ninjaclan"] = ["Akamachi-Clan", "Clan der Schildkröte", "Goemon-Ishikawa-Highschool", "Hashimara-Clan", "Hattori-Hanzo-Akademie", "Leiser-Wind-des-Schicksals-Dojo"];
+tabellen["ninjaclan"] = ["Akamachi-Clan", "Clan der Schildkröte", "Goemon-Ishikawa-Highschool", "Hashimara-Clan", "Hattori-Hanzo-Akademie",
+    "Leiser-Wind-des-Schicksals-Dojo"];
 
 tabellen["rasse"] = ["Mensch", "Mensch", "Mensch", "Trull", "Trull", "Trull", "Spaceamazone", "Spaceamazone",
     "Kahadrier", "Kahadrier", "Samnese", "Samnese", "Wagone", "Wagone", "Streifanier", "Streifanier", "Raptorianer",
@@ -165,11 +170,11 @@ tabellen["auftragserteilung"] = ["Durch verstohlenen Boten, der die Charaktere z
     "Durch einen Kontakt, der den Auftraggeber kennt.",
     "Durch einen seriösen, offiziellen Vertreter des Auftraggebers."];
 
-tabellen["beutetyp"] = ["Handfeuerwaffe", "Raumschiffewaffe", "Energieerzeuger", "Küchengerät", "Raumschiffantrieb", "Schutzschild", "Zeitmaschine", "Unterhaltungsgerät",
-    "Mikrochip"];
+tabellen["beutetyp"] = ["Handfeuerwaffe", "Raumschiffwaffe", "Energieerzeuger", "Küchengerät", "Raumschiffantrieb", "Schutzschild", "Zeitmaschine",
+    "Unterhaltungsgerät", "Mikrochip"];
 tabellen["beutestatus"] = ["geheim", "illegal", "extrem selten", "unbekannt", "einzig existierendes Exemplar"];
 tabellen["dokumententyp"] = ["Geheimdienstunterlagen der [aliens]", "Blaupausen von [beutetyp]", "Beweisfotos", "Entwurf", "Geheimformel", "Schatzkarte"];
-tabellen["materieverhalten"] = ["intelligent", "aggresiv", "instinktverhalten", "freundschaftlich", "anhänglich"];
+tabellen["materieverhalten"] = ["intelligent", "aggressiv", "instinktverhalten", "freundschaftlich", "anhänglich"];
 tabellen["materie"] = ["Gestein", "Blut", "Pflanze", "Erde", "Gas", "Schleim", "Viren", "Microben", "Haare"];
 tabellen["bedeutung"] = ["religiös", "politisch"];
 tabellen["kisteninhalt"] = ["Kleidung", "Elektronikersatzteile", "Schrott", "keinem Inhalt", "lebenden Tieren", "Gestein"];
@@ -180,17 +185,17 @@ tabellen["beute"] = ["Uraltes Alienartefakt der [aliens], [beutetyp]", "Gegensta
     "Ungewöhnliche Proben - [materie] vom Planeten [planetneu]", "Lebende Materie - [materie] [materieverhalten]",
     "Kisten mit [kisteninhalt]"];
 
-tabellen["organisation"] = tabellen.existingKonzerne.concat(["Rebellen", "Piraten", "Militär ([rasse])", "Schmuggler", "Drogenhändler", "Korrupter Geschäftsmann", "[spacemafia]", "SpaceRocker [spacerocker]"], tabellen["sekte"]);
+tabellen["organisation"] = tabellen.existingKonzerne.concat(["Rebellen", "Piraten", "Militär ([rasse])", "Schmuggler", "Drogenhändler",
+    "Korrupter Geschäftsmann", "[spacemafia]", "SpaceRocker [spacerocker]"], "Sekte [sekte]");
 
 tabellen["spacerocker"] = ["SpaceAngels", "Baneros Banditos"];
 
 tabellen["spacemafia"] = ["Italienische Mafia", "Kahadrische Mafia"];
 
-tabellen["sekte"] = ["Heavensgate", "Kinder der Sternenleere", "Verfechter der Nackheit", "Unbekannt", "Marmonen"];
+tabellen["sekte"] = ["Heavensgate", "Kinder der Sternenleere", "Verfechter der Nacktheit", "Unbekannt", "Marmonen"];
 
-tabellen["belohnung"] = ["[3W10] × 1000 UC pro Charakter", "seltenes Raumschiffersatzteil", "30 % der Beute", "[4W10] × 1000 UC Gesamt",
-    "[2W10] × 1000 UC pro Charakter", "seltenes Raumschiffersatzteil", "[W10] × 1000 UC pro Charakter", "40 % der Beute",
-    "[4W10] × 1000 UC Gesamt", "Alienartefakt"];
+tabellen["belohnung"] = ["[3W10].000 UC pro Charakter", "seltenes Raumschiffersatzteil", "[W4]0 % der Beute", "[4W10].000 UC Gesamt",
+    "[2W10].000 UC pro Charakter", "seltenes Raumschiffersatzteil", "[W10]000 UC pro Charakter", "[4W10].000 UC Gesamt", "Alienartefakt"];
 
 tabellen["huerden"] = ["Der Zielort ist unbekannt.", "Der Zielort ist in einem Sperrgebiet.",
     "Es sind keine Informationen zum Auftraggeber verfügbar.",
@@ -220,7 +225,10 @@ tabellen["schurkenplaene"] = ["Es ist eine tödliche Mission, er will die Charak
     "Die Mission dient dazu die Charaktere dem Militär auszuliefern.",
     "Auftraggeber kooperiert mit den Glukorianern und die Person/Gegenstand kann kriegsentscheidend sein."];
 
-tabellen["gegenspieler"] = ["Konzern [konzern_neu_or_wichtig]", "andere Piratengruppe", "Rebellen", "bekannte Alienrasse [rasse]", "Söldnertruppe", "Militär [rasse]", "Schmuggler / Drogenhändler", "unbekannte Alienrasse", "Sekte [sekte]", "[mafia]", "SpaceRocker [rocker]", "Korrupter Geschäftsmann", "SpaceNinjas [ninjaclan]", "Händler / Halunke [haendler]", "Promi [showstar]", "[bank]", "Verrückter Wissenschaftler", "[handelsrat]", "Korrupter Politiker", "Konzern [konzern_neu_or_wichtig]"];
+tabellen["gegenspieler"] = ["Konzern [konzern_neu_or_wichtig]", "andere Piratengruppe", "Rebellen", "bekannte Alienrasse [rasse]", "Söldnertruppe",
+    "Militär [rasse]", "Schmuggler / Drogenhändler", "unbekannte Alienrasse", "Sekte [sekte]", "[mafia]", "SpaceRocker [rocker]",
+    "Korrupter Geschäftsmann", "SpaceNinjas [ninjaclan]", "Händler / Halunke [haendler]", "Promi [showstar]", "[bank]", "Verrückter Wissenschaftler",
+    "[handelsrat]", "Korrupter Politiker", "Konzern [konzern_neu_or_wichtig]"];
 
 tabellen["mafia"] = ["Italienische Mafia", "Kahadrische Mafia"];
 tabellen["rocker"] = ["Baneros Banditos", "SpaceAngels"];
@@ -238,18 +246,7 @@ tabellen["gegenspielerverhalten"] = ["Beschützen aktiv die Zielperson/Gegenstan
     "Sind Feinde des Auftraggebers und versuchen, über die Charaktere an diesen heranzukommen.",
     "Verfolgen die Charaktere, um ihnen den Gegenstand/Zielperson wegzuschnappen."];
 
-tabellen["zwischenfallweltraum"] = ["Ein marodes Piratenschiff greift an.",
-    "Ein gut gerüstetes Patrouillenschiff will eine „Routinekontrolle“ durchführen.",
-    "Ein gut gerüstetes Patrouillenschiff will eine „Routinekontrolle“ durchführen, es sind aber doch stark gerüstete Piraten!",
-    "Die Charaktere geraten in ein Raumschlacht zwischen Piraten und Kriegsschiffen.",
-    "Ein Raumschiff intergalaktischer Sklavenjäger fängt das Raumschiff in seinem Traktorstrahl.",
-    "Rings um das Raumschiff taucht plötzlich ein dichter Meteoritengürtel auf.",
-    "Eine zufällige Macke des Raumschiffs wird aktiv.",
-    "Die Sensoren entdecken einen bis jetzt völlig unbekannten Planeten.",
-    "Ein kaum verständlicher Notruf kommt an.",
-    "Das Raumschiff gerät in einen Raumzeitwirbel und landet irgendwo und irgendwann in der Galaxis.",
-    "Der Hyperantrieb fällt aus.",
-    "Das Raumschiff gerät in einen spontan auftretenden Plasmasturm."];
+tabellen["zwischenfallweltraum"] = tabellen["existingRaumflugEreignisse"];
 
 tabellen["zwischenfallraumstation"] = ["Die künstliche Schwerkraft fällt aus.",
     "Schlägerei in einer Kneipe der Raumstation.",
@@ -294,8 +291,8 @@ tabellen["orte"] = ["Ruine auf einem bekannten Planeten [planetenwichtig]",
     "Mondbasis [planet_neu_or_wichtig]",
     "Planet in einer Sperrzone [planetneu]"],
 
-    tabellen["ortdetails"] = ["Heruntergekommene Bar", "Zwielichtiger Stadtteil", "Raumhafen", "Industrieanlage", "Piratenspelunke",
-        "Gut bewachter Unterschlupf", "Auf offener Straße", "Lagerhäuser", "Hochmoderner Zug", "Schutzbunker", "abgestürztes Raumschiff"];
+tabellen["ortdetails"] = ["Heruntergekommene Bar", "Zwielichtiger Stadtteil", "Raumhafen", "Industrieanlage", "Piratenspelunke",
+    "Gut bewachter Unterschlupf", "Auf offener Straße", "Lagerhäuser", "Hochmoderner Zug", "Schutzbunker", "abgestürztes Raumschiff"];
 
 tabellen["sektoren"] = ["Föderation", "Reich der Wagonen", "Sternenrepublik Neuasien", "Kahadrisches Reich", "Freihandelszone",
     "Trullimperium", "Neutrale Zone", "Samara", "unerforschter Sektor", "Glukorianisches Imperium", "Sektor D1", "Sektor D3"];

@@ -2,26 +2,38 @@
 layout: page
 permalink: /Zufallstabellen/Fehlfunktionen_von_Geräten
 title: Fehlfunktionen von Geräten
+sitedata:
+    GeraeteFehlfunktionen:
+        - "Rauch tritt aus"
+        - "Piepst und blinkt wild"
+        - "Wird unglaublich heiß"
+        - "Wird extrem kalt"
+        - "Vibriert stark"
+        - "Wackelkontakt"
+        - "Pfeift nervend"
+        - "Schmilzt"
+        - "Zerspringt in 1000 Teile"
+        - "Explodiert"
+        - "Rattert"
+        - "Klappert"
+        - "KI Eingebaut"
+        - "Unbekannter Ausnahmefehler"
 ---
 
 # Fehlfunktionen von Geräten
 
 Hier kann ausgewürfelt werden, was geschieht, wenn ein technisches Gerät kaputt geht.
 
+{% assign nrWoerter = page.sitedata.GeraeteFehlfunktionen.size %}
 <table>
 <thead>
-<tr><th>W10</th><th>Fehlfunktion</th></tr>
+<tr><th>W{{ nrWoerter }}</th><th>Fehlfunktion</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>Rauch tritt aus</td></tr>
-<tr><td>2</td><td>Piepst und blinkt wild</td></tr>
-<tr><td>3</td><td>Wird unglaublich heiß</td></tr>
-<tr><td>4</td><td>Wird extrem kalt</td></tr>
-<tr><td>5</td><td>Vibriert stark</td></tr>
-<tr><td>6</td><td>Wackelkontakt</td></tr>
-<tr><td>7</td><td>Pfeift nervend</td></tr>
-<tr><td>8</td><td>Schmilzt</td></tr>
-<tr><td>9</td><td>Zerspringt in 1000 Teile</td></tr>
-<tr><td>0</td><td>Explodiert</td></tr>
+{% assign i = 1 %}
+{% for wort in page.sitedata.GeraeteFehlfunktionen %}
+    <tr><td>{{ i }}</td><td>{{ wort }}</td></tr>
+    {% assign i = i | plus: 1 %}
+{% endfor %}
 </tbody>
 </table>

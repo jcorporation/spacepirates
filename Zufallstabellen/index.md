@@ -10,8 +10,7 @@ Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum vo
 
 ## Abenteuer
 
-- [1-Klick-Abenteuer]({{ site.baseurl }}/Zufallstabellen/Abenteuer/1-Klick-Abenteuer)
-  - [Abenteuertabellen]({{ site.baseurl }}/Zufallstabellen/Abenteuer/)
+- [1-Klick-Abenteuer]({{ site.baseurl }}/Zufallstabellen/1-Klick-Abenteuer)
 - [Beutegenerator]({{ site.baseurl }}/Zufallstabellen/Beute)
 - [Piratenklatsch]({{ site.baseurl }}/Zufallstabellen/Piratenklatsch)
 - [Raumschiffe]({{ site.baseurl }}/Zufallstabellen/Raumschiffe)
@@ -20,10 +19,6 @@ Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum vo
 ## Namen
 
 - [Namensgenerator]({{ site.baseurl }}/Zufallstabellen/Namensgenerator)
-- Zum händisch Auswürfeln
-  - [Charaktere]({{ site.baseurl }}/Zufallstabellen/Charakternamen)
-  - [Konzerne]({{ site.baseurl }}/Zufallstabellen/Konzernnamen)
-  - [Städte]({{ site.baseurl }}/Zufallstabellen/Städtenamen)
 
 ## Raumflug
 
