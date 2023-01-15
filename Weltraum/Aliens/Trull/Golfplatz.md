@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sternensystem
 permalink: /Weltraum/Aliens/Trull/Golfplatz
 title: 1. Interplanetarer Golfplatz
 sitedata:
