@@ -241,14 +241,14 @@ function doSearch(value, resultEl) {
         name = name.replace(/_/g, ' ');
         const crumbs = document.createElement('small');
         crumbs.classList.add('d-block');
-        crumbs.innerText = path.join(" › ").replace(/_/g, ' ');
+        crumbs.textContent = path.join(" › ").replace(/_/g, ' ');
         a.innerText = name;
         a.appendChild(crumbs);
         a.href = match; 
         a.classList.add('list-group-item');
         resultEl.appendChild(a);
         i++;
-        if (i > 9) {
+        if (i > 19) {
             break;
         }
     }
