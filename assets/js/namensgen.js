@@ -1,65 +1,65 @@
 var namensgen = {};
 
 namensgen.generate = function () {
-    var w = document.getElementById('type').value;
-    var z = document.getElementById('anzahl').value;
-    var a = '';
-    switch(w) {
-        case 'konzern':
-            for (var i = 0; i < z; i++) {
+    const w = document.getElementById('type').value;
+    const z = document.getElementById('anzahl').value;
+    const out = document.getElementById("namensgenout");
+    out.textContent = '';
+    for (let i = 0; i < z; i++) {
+        const item = document.createElement('div');
+        item.classList.add('list-group-item');
+        
+        switch(w) {
+            case 'konzern':
                 if (randgen.randNr(2) > 0) {
-                    a += randgen.randTable(tabellen.konzernprefix) + " " + randgen.randTable(tabellen.konzernnamen) + "<br/>";
+                    item.innerHTML = randgen.randTable(tabellen.konzernprefix) + " " +
+                        randgen.randTable(tabellen.konzernnamen);
                 } else {
-                    a += randgen.randTable(tabellen.konzernnamen) + " " + randgen.randTable(tabellen.konzernsuffix) + "<br/>";
+                    item.innerHTML = randgen.randTable(tabellen.konzernnamen) + " " +
+                        randgen.randTable(tabellen.konzernsuffix);
                 }
-            }
-            break;
-        case 'planet':
-            for (var i = 0; i < z; i++) {
-                a += randgen.parser(randgen.randTable(tabellen.planetenprefix)) + " " + randgen.parser(randgen.randTable(tabellen.planetennamen)) + " " + randgen.parser(randgen.randTable(tabellen.planetensuffix)) + "<br/>";
-            }
-            break;
-        case 'stadt':
-            for (var i = 0; i < z; i++) {
-                a += randgen.randTable(tabellen.staedtenamen) + randgen.randTable(tabellen.staedtesuffix) + "<br/>";
-            }
-            break;
-        case 'alien':
-            for (var i = 0; i < z; i++) {
-                a += randgen.randTable(tabellen.aliennamen) + randgen.randTable(tabellen.aliensuffix) + "<br/>";
-            }
-            break;
-        case 'foederationm':
-            for (var i = 0; i < z; i++) {
-                a += randgen.randTable(tabellen.foederationvormann) + " " + randgen.randTable(tabellen.foederationnachnamen) + "<br/>";
-            }
-            break;
-        case 'foederationw':
-            for (var i = 0; i < z; i++) {
-                a += randgen.randTable(tabellen.foederationvorweib) + " " + randgen.randTable(tabellen.foederationnachnamen) + "<br/>";
-            }
-            break;
-        case 'neuasienm':
-            for (var i = 0; i < z; i++) {
-                a += randgen.randTable(tabellen.neuchinanachnamen) + " " + randgen.randTable(tabellen.neuchinavormann) + "<br/>";
-            }
-            break;
-        case 'neuasienw':
-            for (var i = 0; i < z; i++) {
-                a += randgen.randTable(tabellen.neuchinanachnamen) + " " + randgen.randTable(tabellen.neuchinavorweib) + "<br/>";
-            }
-            break;
-        case 'raumschiff':
-            for (var i = 0; i < z; i++) {
+                break;
+            case 'planet':
+                item.innerHTML = randgen.parser(randgen.randTable(tabellen.planetenprefix)) + " " +
+                    randgen.parser(randgen.randTable(tabellen.planetennamen)) + " " +
+                    randgen.parser(randgen.randTable(tabellen.planetensuffix));
+                break;
+            case 'stadt':
+                item.innerHTML = randgen.randTable(tabellen.staedtenamen) +
+                    randgen.randTable(tabellen.staedtesuffix);
+                break;
+            case 'alien':
+                item.innerHTML = randgen.randTable(tabellen.aliennamen) +
+                    randgen.randTable(tabellen.aliensuffix);
+                break;
+            case 'foederationm':
+                item.innerHTML = randgen.randTable(tabellen.foederationvormann) + " " +
+                    randgen.randTable(tabellen.foederationnachnamen);
+                break;
+            case 'foederationw':
+                item.innerHTML = randgen.randTable(tabellen.foederationvorweib) + " " +
+                    randgen.randTable(tabellen.foederationnachnamen);
+                break;
+            case 'neuasienm':
+                item.innerHTML = randgen.randTable(tabellen.neuchinanachnamen) + " " +
+                    randgen.randTable(tabellen.neuchinavormann);
+                break;
+            case 'neuasienw':
+                item.innerHTML = randgen.randTable(tabellen.neuchinanachnamen) + " " +
+                    randgen.randTable(tabellen.neuchinavorweib);
+                break;
+            case 'raumschiff':
                 if (randgen.randNr(2) > 0) {
-                    a += randgen.randTable(tabellen.raumschiffprefixe) + " " + randgen.randTable(tabellen.raumschiffnamen) + "<br/>";
+                    item.innerHTML = randgen.randTable(tabellen.raumschiffprefixe) + " " +
+                        randgen.randTable(tabellen.raumschiffnamen);
                 } else {
-                    a += randgen.randTable(tabellen.raumschiffnamen) + " " + randgen.parser(randgen.randTable(tabellen.raumschiffsuffixe)) + "<br/>";
+                    item.innerHTML = randgen.randTable(tabellen.raumschiffnamen) + " " +
+                        randgen.parser(randgen.randTable(tabellen.raumschiffsuffixe));
                 }
-            }
-            break;
+                break;
+        }
+        out.appendChild(item);
     }
-    document.getElementById("namensgenout").innerHTML = a;
 }
 
 //init

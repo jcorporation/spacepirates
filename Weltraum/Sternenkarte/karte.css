@@ -2,9 +2,8 @@
     cursor: pointer;
 }
 
-#infopanel,
 #kartenpanel {
-    height: calc(100vH - 2rem);
+    height: calc(100vH - 0.5rem);
 }
 
 #kartentoolbar {
@@ -36,4 +35,8 @@
 
 #infoTab h5 {
     font-size: 1rem;
+}
+
+#searchTabResult a {
+    padding-left: 0;
 }

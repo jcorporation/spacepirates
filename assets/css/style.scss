@@ -3,11 +3,24 @@
 
 {% include_relative bootstrap.min.css %}
 
+html {
+  --bs-dropdown-divider-bg: #ced4da;
+  --bs-btn-hover-bg: #ffcc00;
+  --bs-btn-active-bg: #ffcc00;
+  --bs-btn-hover-border-color: #dfb300;
+  --bs-btn-active-border-color: #dfb300;
+}
+
 body {
   background-color: #ececec;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+}
+
+.offcanvas .dropdown-item:hover,
+.offcanvas .list-group-item:hover {
+  background-color: #343a40 !important;
 }
 
 a {
@@ -110,37 +123,23 @@ main ul {
 }
 
 .page-link:hover,
-.btn-yellow {
+.btn-yellow,
+.btn-yellow:hover
+.btn-yellow.active {
   color: #212529;
   background-color: #ffcc00;
-  border-color: #dfb300;
-}
-
-.btn-yellow.active {
-  background-color: #dfb300;
+  border-color: #dfb300 !important;
 }
 
 @font-face {
-  font-family: 'Material Icons';
-  font-style: normal;
-  font-weight: 400;
-  src: url(/assets/MaterialIcons-Regular.woff2) format('woff2');
+  font-family: 'Bootstrap Icons';
+  src: url(/assets/bootstrap-icons.woff2) format('woff2');
 }
 
 .mi {
-  font-family: 'Material Icons';
-  font-weight: normal;
-  font-style: normal;
+  font-family: 'Bootstrap Icons';
   font-size: 1.2rem;
   line-height: 1;
-  text-transform: none;
-  letter-spacing: normal;
-  word-wrap: normal;
-  white-space: nowrap;
-  direction: ltr;
-  vertical-align: top;
-  text-rendering: optimizeLegibility;
-  font-feature-settings: 'liga';
 }
 
 .bg-spielregeln {
@@ -241,10 +240,6 @@ a#totop:hover {
   opacity: 0.6;
 }
 
-#searchResult > a {
-  background-color: #fc0;
-}
-
 .tbl-collapsed {
   display: inline-block;
 }
@@ -261,4 +256,17 @@ img.max-w {
 figcaption {
   font-style: italic;
   text-align: center;
+}
+
+#searchResult a,
+#searchResult a:hover {
+  color: inherit;
+}
+
+[data-bs-theme="dark"] {
+  color: #f8f9fa;
+}
+
+#inputSearch {
+  color: #212529;
 }

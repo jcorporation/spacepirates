@@ -140,9 +140,9 @@ function cbSearchInitialized() {
 
 const inputSearch = document.getElementById('inputSearch');
 const searchResult = document.getElementById('searchResult');
-const btnSearch = document.getElementById('btnSearch');
-if (btnSearch !== null) {
-    btnSearch.parentNode.addEventListener('shown.bs.dropdown', function() {
+const searchMenu = document.getElementById('search-menu');
+if (searchMenu !== null) {
+    searchMenu.addEventListener('shown.bs.offcanvas', function() {
         if (cbSearchInitialized() === false) {
             inputSearch.setAttribute('disabled', 'disabled');
             inputSearch.setAttribute('placeholder','Wird initializiert...');
@@ -162,6 +162,10 @@ if (btnSearch !== null) {
 }
 
 function doSearch(value, resultEl) {
+    if (value.length == 0) {
+        resultEl.textContent = '';
+        return;
+    }
     // normalize searchstring
     value = value.toLowerCase().replace(/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#\{\}]/g, '');
     value = value.replace(/[üöäßÜÖÄ]/, function(m) {

@@ -95,6 +95,8 @@ karte.clickHandler = function(event) {
 }
 
 karte.getInfo = async function(text, link) {
+    BSN.Modal.getInstance(document.getElementById('infopanel')).show();
+
     const result = doSearch(text, document.getElementById('searchTabResult'));
     if (link === null) {
         link = result[0];

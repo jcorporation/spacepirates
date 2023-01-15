@@ -16,12 +16,11 @@ title: Namensgenerator
         <option value="stadt">Städte</option>
         <option value="raumschiff">Raumschiffe</option>
     </select>
-    <input type="text" value="20" id="anzahl" class="form-control"/>
+    <input type="text" value="10" id="anzahl" class="form-control"/>
     <button class="btn btn-yellow" id="generate">Generieren</button>
 </div>
 
-<div id="namensgenout" class="card p-2 mt-2">
-</div>
+<div id="namensgenout" class="list-group mt-2"></div>
 
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>

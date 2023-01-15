@@ -53,7 +53,7 @@ randgen.array2html = function(table, dst) {
                 div.title = 'Klicken um die Tabelle auszuklappen';
                 const span = document.createElement('span');
                 span.classList.add('btn', 'btn-yellow', 'btn-sm', 'mi');
-                span.innerText = 'shuffle_on';
+                span.innerHTML = '&#xF5AA;';
                 span.addEventListener('click', function(event) {
                     event.target.parentNode.classList.toggle('tbl-collapsed');
                 }, false);

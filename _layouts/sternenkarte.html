@@ -9,11 +9,42 @@
     <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
     <link rel="alternate" type="application/rss+xml"  href="{{ site.baseurl }}/feed.xml" title="{{ site.title }}">
   </head>
-  <body class="p-3">
-    <main class="container-fluid">
+  <body class="p-1 bg-yellow">
+    <main class="container-fluid p-0">
       {{ content }}
     </main>
+    <div class="modal modal-lg fade" id="infopanel" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header bg-yellow pb-0">
+            <ul class="nav nav-tabs border-bottom-0">
+              <li class="nav-item">
+                <a class="nav-link link-dark active" href="#infoTab" data-bs-toggle="tab">Info</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link link-dark" href="#searchTab" data-bs-toggle="tab">Suche</a>
+              </li>
+            </ul>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <div class="tab-content">
+              <div class="tab-pane active show" id="infoTab">
+                Auf die Beschriftung klicken, um weitere Informationen zu erhalten.
+              </div>
+              <div class="tab-pane" id="searchTab">
+                <div class="list-group list-group-flush" id="searchTabResult">
+                  <div class="list-group-item">Auf die Beschriftung klicken, um zu suchen.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <script src="{{ site.baseurl }}/assets/js/bootstrap-native.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/default.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/Weltraum/Sternenkarte/karte.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/Weltraum/Sternenkarte/sternenkarte.js"></script>
   </body>
 </html>

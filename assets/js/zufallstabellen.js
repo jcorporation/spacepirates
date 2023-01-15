@@ -665,14 +665,14 @@ tabellen["piratenklatsch"] = ["<table><tbody>" +
     "<tr><th>Vertraulichkeit</th><td>[vertraulichkeit]</td></tr>" +
     "</tbody></table>"];
 
-tabellen["abenteuer"] = ["<h2>Auftrag</h2>" +
+tabellen["abenteuer"] = ["<h3>Auftrag</h3>" +
     "<table>" +
     "<tr><th>Auftrag</th><td>[auftraege]</td></tr>" +
     "<tr><th>Auftraggeber</th><td>[auftraggeber]</td></tr>" +
     "<tr><th>Auftragserteilung</th><td>[auftragserteilung]</td></tr>" +
     "<tr><th>Belohnung</th><td>[belohnung]</td></tr>" +
     "</table>" +
-    "<h2>Schwierigkeiten</h2>" +
+    "<h3 class='mt-3'>Schwierigkeiten</h3>" +
     "<table>" +
     "<tr><th>Hürde</th><td>[huerden]</td></tr>" +
     "<tr><th>Haken an der Sache</th><td>[haken]</td></tr>" +

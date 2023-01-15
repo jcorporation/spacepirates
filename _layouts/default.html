@@ -9,38 +9,47 @@
     <link rel="alternate" type="application/rss+xml"  href="{{ site.baseurl }}/feed.xml" title="{{ site.title }}">
   </head>
   <body>
+    <div data-bs-theme="dark" class="offcanvas offcanvas-start" tabindex="-1" id="main-menu">
+      <div class="offcanvas-header">
+        <img src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates" width="230">
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+      </div>
+      <div class="offcanvas-body p-0">
+        <a class="dropdown-item py-2 px-3" href="{{ site.baseurl }}/Aktuelles/"><span class="mi me-3">&#xF588;</span>Aktuelles</a>
+        <a class="dropdown-item py-2 px-3" href="{{ site.baseurl }}/Kontakt"><span class="mi me-3">&#xF4DB;</span>Kontakt</a>
+        <a class="dropdown-item py-2 px-3" href="{{ site.baseurl }}/Publikationen/"><span class="mi me-3">&#xF194;</span>Publikationen</a>
+        <hr class="dropdown-divider my-2"/>
+        <a class="dropdown-item py-2 px-3" href="{{ site.baseurl }}/Spielregeln/"><span class="mi me-3">&#xF3E2;</span>Spielregeln</a>
+        <a class="dropdown-item py-2 px-3" href="{{ site.baseurl }}/Weltraum/"><span class="mi me-3">&#xF845;</span>Weltraum</a>
+        <a class="dropdown-item py-2 px-3" href="{{ site.baseurl }}/Weltraum/Sternenkarte/"><span class="mi me-3">&#xF47F;</span>Sternenkarte</a>
+        <a class="dropdown-item py-2 px-3" href="{{ site.baseurl }}/Abenteuer/"><span class="mi me-3">&#xF2D1;</span>Abenteuer</a>
+        <hr class="dropdown-divider my-2"/>
+        <a class="dropdown-item py-2 px-3" href="{{ site.baseurl }}/Zufallstabellen/"><span class="mi me-3">&#xF544;</span>Zufallstabellen</a>
+        <a class="dropdown-item py-2 px-3" href="{{ site.baseurl }}/Ideenhalde/"><span class="mi me-3">&#xF675;</span>Ideenhalde</a>
+      </div>
+    </div>
+    <div data-bs-theme="dark" class="offcanvas offcanvas-end" tabindex="-1" id="search-menu">
+      <div class="offcanvas-header">
+        <input type="text" class="form-control mb-2" placeholder="Suchen" id="inputSearch"/>
+      </div>
+      <div class="offcanvas-body p-0">
+        <div class="list-group list-group-flush" id="searchResult"></div>
+      </div>
+    </div>
     <header class="navbar navbar-expand-sm navbar-dark bg-sterne">
       <nav class="container-xxl flex-column flex-wrap flex-md-nowrap pt-3">
         <a class="navbar-brand p-0 mb-4" href="{{ site.baseurl }}/">
           <img src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates" width="398" height="93">
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbar">
-          <div class="navbar-nav flex-grow-1">
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Aktuelles/">Aktuelles</a>
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Spielregeln/">Spielregeln</a>
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Weltraum/">Weltraum</a>
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Abenteuer/">Abenteuer</a>
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Publikationen/">Publikationen</a>
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Kontakt">Kontakt</a>
-          </div>
-        </div>
       </nav>
     </header>
     <header class="navbar navbar-expand-md py-2 mb-2 bg-yellow">
       <div class="container-xxl flex-nowrap">
-        <nav class="breadcrumb flex-wrap mb-0 justify-content-start">
+        <button id="btnMainMenu" data-bs-toggle="offcanvas" data-bs-target="#main-menu" class="btn btn-sm btn-yellow border-0 mi me-2">&#xF479;</button>
+        <nav class="breadcrumb flex-wrap flex-grow-1 mb-0 justify-content-start">
           {% include breadcrumbs.md %}
         </nav>
-        <div class="btn-group dropdown">
-          <button id="btnSearch" data-bs-toggle="dropdown" class="btn btn-sm btn-yellow border-0 mi">search</button>
-          <div class="dropdown-menu dropdown-menu-end p-2 bg-yellow" id="dropdownSearch">
-            <input type="text" class="form-control mb-2" placeholder="Suche" id="inputSearch"/>
-            <div class="list-group" id="searchResult"></div>
-          </div>
-        </div>
+        <button id="btnSearch" data-bs-toggle="offcanvas" data-bs-target="#search-menu" class="btn btn-sm btn-yellow border-0 mi ms-2">&#xF52A;</button>
       </div>
     </header>
     <div class="container-xxl py-2 flex-grow-1">
