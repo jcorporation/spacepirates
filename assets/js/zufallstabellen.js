@@ -179,11 +179,17 @@ tabellen["auftragserteilung"] = ["Durch verstohlenen Boten, der die Charaktere z
 
 tabellen["beutetyp"] = ["Handfeuerwaffe", "Raumschiffwaffe", "Energieerzeuger", "Küchengerät", "Raumschiffantrieb", "Schutzschild", "Zeitmaschine",
     "Unterhaltungsgerät", "Mikrochip"];
+
 tabellen["beutestatus"] = ["geheim", "illegal", "extrem selten", "unbekannt", "einzig existierendes Exemplar"];
+
 tabellen["dokumententyp"] = ["Geheimdienstunterlagen der [aliens]", "Blaupausen von [beutetyp]", "Beweisfotos", "Entwurf", "Geheimformel", "Schatzkarte"];
+
 tabellen["materieverhalten"] = ["intelligent", "aggressiv", "instinktverhalten", "freundschaftlich", "anhänglich"];
+
 tabellen["materie"] = ["Gestein", "Blut", "Pflanze", "Erde", "Gas", "Schleim", "Viren", "Microben", "Haare"];
-tabellen["bedeutung"] = ["religiös", "politisch"];
+
+tabellen["bedeutung"] = ["religiös", "politisch", "esoterisch"];
+
 tabellen["kisteninhalt"] = ["Kleidung", "Elektronikersatzteile", "Schrott", "keinem Inhalt", "lebenden Tieren", "Gestein"];
 
 tabellen["beute"] = ["Uraltes Alienartefakt der [aliens], [beutetyp]", "Gegenstand von Bedeutung - [bedeutung] der Alienrasse [aliens]",
