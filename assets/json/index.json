@@ -947,7 +947,6 @@
     "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 2,
     "/Weltraum/Verrückte_Wissenschaftler": 2,
     "/Weltraum/Weltraumphänomene/SpaceSchnee": 2,
-    "/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung": 2,
     "/collections/_Piratencrews/Tatjana_Molotowa": 2,
     "/Abenteuer/Blumenkind/Konfliktnetz": 1,
     "/Abenteuer/Blumenkind/SWIP": 1,
@@ -956,7 +955,8 @@
     "/Abenteuer/Buschraub/SWIP": 1,
     "/Abenteuer/Buschraub/Sperrzone": 1,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 1
   },
   "aufgefangen": {
     "/Abenteuer/Raumschiffdungeon/Sektoren/Drache": 1,
@@ -986,7 +986,6 @@
     "/Abenteuer/Ideen/SpaceNinjas": 2,
     "/Abenteuer/Weihnachten/": 2,
     "/Abenteuer/Zeitraub/Nachforschungen": 2,
-    "/Zufallstabellen/1-Klick-Abenteuer": 2,
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Ende": 1,
     "/Abenteuer/Buschraub/Eris": 1,
@@ -996,7 +995,8 @@
     "/Abenteuer/Ideen/Aufträge_auf_der_Mimen-Mission": 1,
     "/Abenteuer/Ideen/SpaceWorms": 1,
     "/Abenteuer/Neutritiumklau/Auftrag": 1,
-    "/Abenteuer/Rache_des_Akamachi-Clans/": 1
+    "/Abenteuer/Rache_des_Akamachi-Clans/": 1,
+    "/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler": 1
   },
   "auftraggeber": {
     "/Abenteuer/Zeitraub/Übersicht": 26,
@@ -1125,16 +1125,25 @@
     "/Abenteuer/Der_große_Fang/Danach": 1
   },
   "auswirkungen": {
-    "/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen": 76,
-    "/Abenteuer/Neutritiumklau/Pipeline": 1,
-    "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 1
+    "/Zufallstabellen/Auswirkungen_der_Raumzeitverschiebung": 76,
+    "/Zufallstabellen/Auswirkungen_der_Unwahrscheinlichkeitszone": 76,
+    "/Zufallstabellen/Auswirkungen_eines_Ionensturms": 76,
+    "/Zufallstabellen/": 3,
+    "/Abenteuer/Neutritiumklau/Pipeline": 1
   },
-  "auswirkungen von weltraumphaenomenen": {
-    "/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen": 126,
+  "auswirkungen der raumzeitverschiebung": {
+    "/Zufallstabellen/Auswirkungen_der_Raumzeitverschiebung": 125,
+    "/Zufallstabellen/": 1
+  },
+  "auswirkungen der unwahrscheinlichkeitszone": {
+    "/Zufallstabellen/Auswirkungen_der_Unwahrscheinlichkeitszone": 126,
+    "/Zufallstabellen/": 1
+  },
+  "auswirkungen eines ionensturms": {
+    "/Zufallstabellen/Auswirkungen_eines_Ionensturms": 126,
     "/Zufallstabellen/": 1
   },
   "auswuerfeln": {
-    "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 25,
     "/Zufallstabellen/Techsprech": 25,
     "/Spielregeln/Die_Piratencrew/Übersicht": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 1
@@ -1492,8 +1501,8 @@
   },
   "beute": {
     "/Spielregeln/Spielleiter/Kampagnen/Beute": 128,
-    "/Zufallstabellen/Beute": 5,
-    "/Abenteuer/Der_große_Fang/Proxima_Sigma": 1
+    "/Abenteuer/Der_große_Fang/Proxima_Sigma": 1,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Nebel": 1
   },
   "beutegenerator": {
     "/Zufallstabellen/Beute": 125,
@@ -4255,8 +4264,7 @@
     "/Abenteuer/Laborratten/": 1
   },
   "haken": {
-    "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 1,
-    "/Zufallstabellen/1-Klick-Abenteuer": 1
+    "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 1
   },
   "halb": {
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 1,
@@ -5014,10 +5022,14 @@
   },
   "ionensturm": {
     "/Weltraum/Weltraumphänomene/Ionensturm": 276,
-    "/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen": 25
+    "/Zufallstabellen/Auswirkungen_eines_Ionensturms": 1
   },
   "ionensturm_ki": {
     "/Weltraum/Weltraumphänomene/Ionensturm": 1
+  },
+  "ionensturms": {
+    "/Zufallstabellen/Auswirkungen_eines_Ionensturms": 76,
+    "/Zufallstabellen/": 1
   },
   "irgendwann": {
     "/Abenteuer/Blumenkind/Blumenkind": 1,
@@ -6460,7 +6472,6 @@
     "/Abenteuer/Ideen/SpaceNinjas": 25
   },
   "manuell auswuerfeln": {
-    "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 25,
     "/Zufallstabellen/Techsprech": 25
   },
   "mao": {
@@ -7069,9 +7080,6 @@
   },
   "neutritiums": {
     "/Abenteuer/Neutritiumklau/Pipeline": 25
-  },
-  "neutritiumstrahlung": {
-    "/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen": 25
   },
   "neutritumlager": {
     "/Abenteuer/Neutritiumklau/Auftrag": 1
@@ -8282,7 +8290,7 @@
     "/Abenteuer/": 1
   },
   "piratenklatsch": {
-    "/Zufallstabellen/Piratenklatsch": 125,
+    "/Zufallstabellen/Piratenklatsch": 126,
     "/Zufallstabellen/": 1
   },
   "piratenmacken": {
@@ -8463,7 +8471,6 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Dinosaurier": 2,
     "/Weltraum/Politische_Lage/": 2,
     "/Weltraum/Sektoren/": 2,
-    "/Zufallstabellen/Piratenklatsch": 2,
     "/Zufallstabellen/Sternensysteme": 2,
     "/collections/_Sekten/Heavensgate": 2,
     "/Abenteuer/Blumenkind/": 1,
@@ -8951,8 +8958,8 @@
   },
   "raumhafen": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 27,
-    "/Zufallstabellen/Piratenklatsch": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
+    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "raumkaempfe": {
     "/Spielregeln/Raumschiffe/Raumkämpfe": 26,
@@ -9112,7 +9119,7 @@
   },
   "raumzeitverschiebung": {
     "/Weltraum/Weltraumphänomene/Raumzeitverschiebung": 278,
-    "/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen": 25,
+    "/Zufallstabellen/Auswirkungen_der_Raumzeitverschiebung": 102,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 4,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 3,
@@ -9129,7 +9136,8 @@
     "/Abenteuer/Zeitraub/Übersicht": 1,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 1,
     "/Weltraum/Neutrale_Zone/Javar_3": 1,
-    "/Weltraum/Politische_Lage/": 1
+    "/Weltraum/Politische_Lage/": 1,
+    "/Zufallstabellen/": 1
   },
   "rauschmittel": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 127,
@@ -9183,8 +9191,7 @@
     "/Spielregeln/Die_Piratencrew/Hintergrund": 10
   },
   "rechter": {
-    "/Abenteuer/Halloween/Vampir-Planet": 25,
-    "/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung": 1
+    "/Abenteuer/Halloween/Vampir-Planet": 25
   },
   "rechts ist links": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 10
@@ -9390,7 +9397,6 @@
   "rosa": {
     "/Abenteuer/Ideen/Rosa_Loch": 78,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
-    "/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung": 2,
     "/Abenteuer/Der_große_Fang/Danach": 1
   },
   "rosa loch": {
@@ -9843,8 +9849,7 @@
     "/Abenteuer/Der_große_Fang/": 1
   },
   "schwierigkeiten": {
-    "/Abenteuer/Zeitraub/Übersicht": 25,
-    "/Zufallstabellen/1-Klick-Abenteuer": 1
+    "/Abenteuer/Zeitraub/Übersicht": 25
   },
   "scrabnambu": {
     "/Weltraum/Neutrale_Zone/Scrabnambu": 276,
@@ -10372,7 +10377,6 @@
     "/Weltraum/SpaceRocker/Rockbands": 2,
     "/Weltraum/Weltraumphänomene/Katpar-Wurmloch": 2,
     "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 2,
-    "/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung": 2,
     "/collections/_Weltraumtiere/SpaceQuallen": 2,
     "/Abenteuer/Blumenkind/Doradus": 1,
     "/Abenteuer/Blumenkind/Konfliktnetz": 1,
@@ -10441,7 +10445,8 @@
     "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren": 1
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren": 1,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 1
   },
   "sing": {
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 75,
@@ -11599,7 +11604,7 @@
     "/Abenteuer/Buschraub/JCTech_IAG": 1
   },
   "techsprech": {
-    "/Zufallstabellen/Techsprech": 125,
+    "/Zufallstabellen/Techsprech": 126,
     "/Weltraum/Technologie/": 1,
     "/Zufallstabellen/": 1
   },
@@ -12122,8 +12127,8 @@
   },
   "unwahrscheinlichkeitszone": {
     "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 276,
+    "/Zufallstabellen/Auswirkungen_der_Unwahrscheinlichkeitszone": 77,
     "/Abenteuer/Schatzjagd/Reise": 27,
-    "/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen": 25,
     "/Abenteuer/": 1
   },
   "ureinwohner": {
@@ -12775,11 +12780,6 @@
     "/Spielregeln/Die_Piratencrew/Charaktere": 1,
     "/Weltraum/": 1
   },
-  "weltraumphaenomenen": {
-    "/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen": 76,
-    "/Spielregeln/Was_ist_SpacePirates": 1,
-    "/Weltraum/Weltraumphänomene/": 1
-  },
   "weltraumpolizei": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": 28,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 27
@@ -13017,9 +13017,8 @@
   },
   "wort": {
     "/Zufallstabellen/Techsprech": 84,
-    "/Zufallstabellen/Fehlfunktionen_von_Geräten": 2,
-    "/Zufallstabellen/KI-Eigenschaften": 2,
-    "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 1
+    "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 1,
+    "/Weltraum/Konzerne/Spacewood-Klinik/": 1
   },
   "worte": {
     "/Abenteuer/Weihnachten_II/Einstieg": 1
@@ -13327,8 +13326,7 @@
     "/Abenteuer/": 1
   },
   "zufallstabellen": {
-    "/Zufallstabellen/": 136,
-    "/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen": 1
+    "/Zufallstabellen/": 136
   },
   "zukunft": {
     "/Weltraum/Historie": 25,
