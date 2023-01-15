@@ -248,7 +248,7 @@ function doSearch(value, resultEl) {
         a.classList.add('list-group-item');
         resultEl.appendChild(a);
         i++;
-        if (i > 19) {
+        if (i > 49) {
             break;
         }
     }
