@@ -10,7 +10,12 @@ title: Aktuelles
   <div class="col">
     <div class="card h-100 clickable">
       <div class="card-header bg-yellow"><a class="link-dark text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
-      <div class="card-body">{{ post.excerpt }}</div>
+      <div class="card-body">
+        {% if post.image %}
+          <img src="{{ site.baseurl }}{{ post.image }}" class="float-start me-4 mb-4" style="max-width: 10rem;"/>
+        {% endif %}
+        {{ post.excerpt }}
+      </div>
       <div class="card-footer"><small>Geschrieben am {{ post.date | date: "%d.%m.%Y" }}</small></div>
     </div>
   </div>
