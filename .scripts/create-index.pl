@@ -392,6 +392,10 @@ for my $filename (sort @files) {
                 _log("End of frontmatter");
                 last;
             }
+            if ($line =~ /permalink:\s+\/(.+)$/) {
+                # permalink
+                $filename = $1;
+            }
             if ($line =~ /\s*([^:]+):\s+(.+)$/) {
                 # simple key / value
                 $key = $1;
