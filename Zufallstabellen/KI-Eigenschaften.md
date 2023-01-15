@@ -21,16 +21,4 @@ sitedata:
 
 Hier kann ausgewürfelt werden, wie sich eine KI gegenüber den Spielercharakteren verhält.
 
-{% assign nrWoerter = page.sitedata.KiEigenschaften.size %}
-<table>
-<thead>
-<tr><th>W{{ nrWoerter }}</th><th>Eigenschaft</th></tr>
-</thead>
-<tbody>
-{% assign i = 1 %}
-{% for wort in page.sitedata.KiEigenschaften %}
-    <tr><td>{{ i }}</td><td>{{ wort }}</td></tr>
-    {% assign i = i | plus: 1 %}
-{% endfor %}
-</tbody>
-</table>
+{% include zufallstabelle.md table="existingKiEigenschaften" %}

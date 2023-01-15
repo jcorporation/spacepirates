@@ -1,5 +1,30 @@
 const randgen = {};
 
+randgen.generate = function(target) {
+    const table = target.getAttribute('data-table');
+    const count = Number(target.previousElementSibling.value);
+    const out = document.getElementById(table + 'Out');
+    out.innerText = '';
+    for (let i = 0; i < count; i++) {
+        const item = document.createElement('div');
+        item.classList.add('list-group-item');
+        item.innerHTML = randgen.parser(randgen.randTable(tabellen[table]));
+        out.appendChild(item);
+    }
+}
+
+randgen.init = function() {
+    const btn = document.querySelector('[data-id="generate-btn"]');
+    btn.addEventListener('click', function (event) {
+        randgen.generate(event.target);
+    }, false);
+}
+
+randgen.start = function() {
+    const btn = document.querySelector('[data-id="generate-btn"]');
+    randgen.generate(btn);
+}
+
 randgen.array2html = function(table, dst) {
     const j = table.length;
     const tbl = document.createElement('table');

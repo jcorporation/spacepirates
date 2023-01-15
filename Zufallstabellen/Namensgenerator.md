@@ -4,9 +4,8 @@ permalink: /Zufallstabellen/Namensgenerator
 title: Namensgenerator
 ---
 
-<div class="row">
-    <div class="col">
-        <select id="type" class="form-select">
+<div class="input-group" style="max-width: 50rem">
+    <select id="type" class="form-select">
         <option value="alien">Aliens</option>
         <option value="foederationm">Föderation - männlich</option>
         <option value="foederationw">Föderation - weiblich</option>
@@ -16,14 +15,9 @@ title: Namensgenerator
         <option value="planet">Planeten</option>
         <option value="stadt">Städte</option>
         <option value="raumschiff">Raumschiffe</option>
-        </select>
-    </div>
-    <div class="col">
-        <input type="text" value="20" id="anzahl" class="form-control"/>
-    </div>
-    <div class="col">
-        <button class="btn btn-yellow" id="generate">Generieren</button>
-    </div>
+    </select>
+    <input type="text" value="20" id="anzahl" class="form-control"/>
+    <button class="btn btn-yellow" id="generate">Generieren</button>
 </div>
 
 <div id="namensgenout" class="card p-2 mt-2">

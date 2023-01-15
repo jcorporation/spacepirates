@@ -22,7 +22,9 @@ Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum vo
 
 ## Raumflug
 
-- [Auswirkungen von Weltraumphänomenen]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen)
+- [Auswirkungen der Raumzeitverschiebung]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_der_Raumzeitverschiebung)
+- [Auswirkungen der Unwahrscheinlichkeitszone]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_der_Unwahrscheinlichkeitszone)
+- [Auswirkungen eines Ionensturms]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_eines_Ionensturms)
 - [Ereignisse bei einem Raumflug]({{ site.baseurl }}/Zufallstabellen/Ereignisse_bei_einem_Raumflug)
 - [Sternensysteme]({{ site.baseurl }}/Zufallstabellen/Sternensysteme)
 

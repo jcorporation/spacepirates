@@ -39,21 +39,4 @@ sitedata:
 
 Diese Zufallstabelle kann genutzt werden um einen Raumflug interessanter zu gestalten.
 
-<button class="btn btn-yellow" id="generate">Generieren</button>
-
-<div id="raumflugOut" class="card p-2 mt-2"></div>
-
-***
-
-## Manuell auswürfeln
-
-<div id="raumflugTable"></div>
-
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/raumflug-ereignisse.js"></script>
-
-<script>
-randgen.array2html(tabellen["existingRaumflugEreignisse"], document.getElementById('raumflugTable'));
-</script>
+{% include zufallstabelle.md table="existingRaumflugEreignisse" %}

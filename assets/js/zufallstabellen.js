@@ -404,7 +404,19 @@ tabellen["gal_bewohnt"] = ["[bewohner]", "Keine Bewohner", "[bewohner]"];
 tabellen["techlevel"] = ["Steinzeit", "Antike", "Mittelalter", "Industriezeitalter", "Computerzeitalter", "Raumfahrt im eigenen Sternensystem", "FTL-Technologie",
     "FTL-Technologie", "FTL-Technologie", "FTL-Technologie", "Weit Überlegen", "Renaissance"];
 
-tabellen["raumschiffe"] = ["kleines Handelsschiff: [raumschiffe_ware]", "großes Handelsschiff: [raumschiffe_ware]", "großer Schlachtkreuzer", "kleines Militärschiff",
+tabellen["raumschiffe"] = ["<table>" +
+    "<tbody>" +
+    "<tr><th>Name</th><td>[raumschiffe_namen]</td></tr>" +
+    "<tr><th>Raumschiff</th><td>[raumschiffe_typen]</td></tr>" +
+    "<tr><th>Eigentümer</th><td>[raumschiffe_owner]</td></tr>" +
+    "<tr><th>Besatzung</th><td>[raumschiffe_besatzung]</td></tr>" +
+    "<tr><th>Besonderes</th><td>[raumschiffe_besonderheit]</td></tr>" +
+    "</tbody>" +
+    "</table>"];
+
+tabellen["raumschiffe_namen"] = ["[raumschiffprefixe] [raumschiffnamen]", "[raumschiffnamen] [raumschiffsuffixe]"]
+
+tabellen["raumschiffe_typen"] = ["kleines Handelsschiff: [raumschiffe_ware]", "großes Handelsschiff: [raumschiffe_ware]", "großer Schlachtkreuzer", "kleines Militärschiff",
     "kleines Forschungsschiff", "großes Forschungsschiff", "kleines Urlaubsschiff", "großes Urlaubsschiff", "Bergbauschiff", "Jahrmarktschiff", "Agrarschiff"];
 
 tabellen["raumschiffe_owner"] = ["Föderation", "Sternenrepublik Neuasien", "Trull", "Spaceamazonen", "Kahadrier", "Samnesen", "Wagone", "Streifanier", "Spacepear", "Syoner",
@@ -642,3 +654,33 @@ tabellen["neutritiumstrahlung"] = ["Es wächst ein zusätzliches Gliedmaß an ei
 tabellen["farben"] = ["rot", "blau", "grün", "schwarz", "lila", "rosa", "flieder", "pink", "weiß"];
 tabellen["w4gliedmassen"] = ["Arm", "Arm", "Bein", "Bein", "Schwanz"];
 tabellen["w6gliedmassen"] = ["Linker Arm", "Rechter Arm", "Linkes Bein", "Rechtes Bein"];
+
+tabellen["techsprech"] = ["[existingTechsprechWort1] [existingTechsprechWort2]-[existingTechsprechWort3]"];
+
+tabellen["piratenklatsch"] = ["<table><tbody>" +
+    "<tr><th>Gerücht</th><td>[geruechte]</td></tr>" +
+    "<tr><th>Quelle</th><td>[quelle]</td></tr>" +
+    "<tr><th>Wahrheitsgehalt</th><td>[wahrheit]</td></tr>" +
+    "<tr><th>Alter</th><td>[alter]</td></tr>" +
+    "<tr><th>Vertraulichkeit</th><td>[vertraulichkeit]</td></tr>" +
+    "</tbody></table>"];
+
+tabellen["abenteuer"] = ["<h2>Auftrag</h2>" +
+    "<table>" +
+    "<tr><th>Auftrag</th><td>[auftraege]</td></tr>" +
+    "<tr><th>Auftraggeber</th><td>[auftraggeber]</td></tr>" +
+    "<tr><th>Auftragserteilung</th><td>[auftragserteilung]</td></tr>" +
+    "<tr><th>Belohnung</th><td>[belohnung]</td></tr>" +
+    "</table>" +
+    "<h2>Schwierigkeiten</h2>" +
+    "<table>" +
+    "<tr><th>Hürde</th><td>[huerden]</td></tr>" +
+    "<tr><th>Haken an der Sache</th><td>[haken]</td></tr>" +
+    "<tr><th>Gegenspieler</th><td>[gegenspieler], [gegenspielerverhalten]</td></tr>" +
+    "<tr><th>Zwischenfälle</th><td>" +
+        "<ul>" +
+            "<li>Im Weltraum: [zwischenfallweltraum]</li>" +
+            "<li>Auf einer Raumstation: [zwischenfallraumstation]</li>" +
+            "<li>Auf einem Planeten: [zwischenfallplanet]</li>" +
+        "</td></tr>" +
+    "</table>"];

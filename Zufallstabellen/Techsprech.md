@@ -102,10 +102,7 @@ sitedata:
 
 Jedes technische Artefakt besteht aus drei Worten, Beispiele wären der Molekulare Quanten-Kollektor, die äußerst praktische Mobile Holo-Schatzkarte und natürlich der für jeden Spacepiraten unverzichtbare Persönliche Aarrrr-Roboter!
 
-<button class="btn btn-yellow" id="generate">Generieren</button>
-
-<div id="techsprechout" class="card p-2 mt-2">
-</div>
+{% include zufallstabelle.md table="techsprech" count=10 manual=false %}
 
 ***
 
@@ -171,7 +168,3 @@ Einfach einen W30 auf jede der drei Tabellen würfeln.
 ***
 
 **Autor:** Peter alias Joni
-
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/techsprech.js"></script>
