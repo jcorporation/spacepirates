@@ -25,38 +25,38 @@
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
   "13": {
-    "Name": "Schwerkraft fällt aus",
-    "Beschreibung": "Die künstliche Schwerkraft fällt aus, &minus;1 auf alle Proben.",
-    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
-  },
-  "14": {
     "Name": "Rechts ist Links",
     "Beschreibung": "Das Raumschiff vertauscht rechts mit links, &minus;1 auf alle Proben.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
-  "15": {
+  "14": {
     "Name": "Piepsstimmen",
     "Beschreibung": "Der Heliumanteil der Luft nimmt schlagartig zu, alle reden bis zur Behebung der Macke mit piepsiger Stimme.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
-  "16": {
+  "15": {
     "Name": "Tropenwetter",
     "Beschreibung": "Die Temperatur und die Luftfeuchtigkeit nehmen tropische Ausmaße an, alle Instrumente beschlagen, &minus;1 auf alle Proben.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
-  "17": {
+  "16": {
     "Name": "Hanfwachstum",
     "Beschreibung": "Überall im Raumschiff wächst illegaler und sehr hartnäckiger Hanf, &minus;1 auf alle Proben",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
-  "18": {
+  "17": {
     "Name": "Kinoabend",
     "Beschreibung": "Der Schiffscomputer veranstaltet ganz spontan einen Videoabend, alle Videoverbindungen zeigen nur noch Stummfilme.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
-  "19": {
+  "18": {
     "Name": "Türen zu",
     "Beschreibung": "Alle Türen im Raumschiff verschließen sich und lassen sich nicht mehr öffnen, auch nicht durch gutes Zureden.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "19": {
+    "Name": "Stabilisatoren versagen",
+    "Beschreibung": "Das Raumschiff dreht sich wild in alle Richtungen, so dass der Crew schlecht wird, &minus;1 auf alle Proben.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
   "2": {
@@ -65,18 +65,18 @@
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
   "20": {
-    "Name": "Stabilisatoren versagen",
-    "Beschreibung": "Das Raumschiff dreht sich wild in alle Richtungen, so dass der Crew schlecht wird, &minus;1 auf alle Proben.",
-    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
-  },
-  "21": {
     "Name": "Antiquierte Technik",
     "Beschreibung": "Alle Teile, die der Tech gerade benutzen will, sind so uralt, dass er sie kaum zu bedienen weiß, &minus;1 auf alle TECH Proben.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
-  "22": {
+  "21": {
     "Name": "Schwerkraft verdoppelt sich",
     "Beschreibung": "Die künstliche Schwerkraft verdoppelt sich, &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "22": {
+    "Name": "Schwerkraft fällt aus",
+    "Beschreibung": "Die künstliche Schwerkraft fällt aus, &minus;1 auf alle Proben.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
   "23": {
@@ -147,6 +147,26 @@
   "35": {
     "Name": "Klappert",
     "Beschreibung": "Irgendwas klappert im Schiff, keine Ahnung was und wo, aber es ist unheimlich nervig, &minus;1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "36": {
+    "Name": "Stromschwankungen",
+    "Beschreibung": "Stromschwankungen führen zu allen (un-)möglichen Fehlfunktionen, -1 auf alle Proben.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "37": {
+    "Name": "Debugmodus",
+    "Beschreibung": "Der Raumschiff wechselt in den Debugmodus, alle Konsolen spucken unendliche viele binäre Daten aus und alles arbeitet nur noch halb so schnell.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "38": {
+    "Name": "Statische Entladungen",
+    "Beschreibung": "Auf einmal ist wirklich alles statisch geladen, der Crew stehen sprichwörtlich alle Haare zu Berge.",
+    "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
+  },
+  "39": {
+    "Name": "Chaos",
+    "Beschreibung": "Überall herrscht absolutes Chaos, woher kommt auf einmal diese Unordnung? -1 auf alle Proben, da niemand mehr etwas findet.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken"
   },
   "4": {

@@ -30,8 +30,6 @@ sitedata:
           Beschreibung: Die Frontscheibe ist beschlagen, das Raumschiff fliegt mit halber Geschwindigkeit in eine zufällige Richtung.
         - Name: FTL macht Wupp
           Beschreibung: Der FTL macht nur noch WUPP und funktioniert nicht mehr.
-        - Name: Schwerkraft fällt aus
-          Beschreibung: Die künstliche Schwerkraft fällt aus, &minus;1 auf alle Proben.
         - Name: Rechts ist Links
           Beschreibung: Das Raumschiff vertauscht rechts mit links, &minus;1 auf alle Proben.
         - Name: Piepsstimmen
@@ -50,6 +48,8 @@ sitedata:
           Beschreibung: Alle Teile, die der Tech gerade benutzen will, sind so uralt, dass er sie kaum zu bedienen weiß, &minus;1 auf alle TECH Proben.
         - Name: Schwerkraft verdoppelt sich
           Beschreibung: Die künstliche Schwerkraft verdoppelt sich, &minus;1 auf alle Proben.
+        - Name: Schwerkraft fällt aus
+          Beschreibung: Die künstliche Schwerkraft fällt aus, &minus;1 auf alle Proben.
         - Name: Schluckauf des Hyperkerns
           Beschreibung: Das Raumschiff zockelt alle 2 Stunden 1 Lichtjahr voran und ist sonst bewegungslos.
         - Name: Knopf klemmt
@@ -76,6 +76,14 @@ sitedata:
           Beschreibung: Die Systeme sind überhitzt, sogar der Kapitänssitz glüht schon fast. Das Schiff muss alle <span class="dice">1W20</span> Minuten 1W6 Minuten abkühlen.
         - Name: Klappert
           Beschreibung: Irgendwas klappert im Schiff, keine Ahnung was und wo, aber es ist unheimlich nervig, &minus;1 auf alle Proben.
+        - Name: Stromschwankungen
+          Beschreibung: Stromschwankungen führen zu allen (un-)möglichen Fehlfunktionen, -1 auf alle Proben.
+        - Name: Debugmodus
+          Beschreibung: Der Raumschiff wechselt in den Debugmodus, alle Konsolen spucken unendliche viele binäre Daten aus und alles arbeitet nur noch halb so schnell.
+        - Name: Statische Entladungen
+          Beschreibung: Auf einmal ist wirklich alles statisch geladen, der Crew stehen sprichwörtlich alle Haare zu Berge.
+        - Name: Chaos
+          Beschreibung: Überall herrscht absolutes Chaos, woher kommt auf einmal diese Unordnung? -1 auf alle Proben, da niemand mehr etwas findet.
 ---
 
 # Raumschiffmacken
@@ -88,6 +96,10 @@ Ein Schiff kann jede Macke nur einmal und maximal 10 Macken besitzen. Zeigen die
 Erst Macken machen ein Raumschiff zu einem individuellen Fortbewegungsmittel. Sie verleihen ihm einen eigenen Charme. Piraten sind daher oftmals stolz auf die Macken ihres Raumschiffs.
 {% endcapture %}
 {% include anmerkung.md title="Raumschiffmacken" body=include_body %}
+
+{% include zufallstabelle.md table="existingRaumschiffmacken" count=10 manual=false auto=false %}
+
+***
 
 {% assign nrMacken = page.sitedata.Raumschiffmacken.size %}
 <table>

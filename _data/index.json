@@ -456,6 +456,7 @@
     "/Weltraum/Technologie/": 3,
     "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 3,
     "/Abenteuer/Der_große_Fang/Reise": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Weltraum/Neutrale_Zone/Scrabnambu": 2,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 2,
@@ -1815,6 +1816,11 @@
   "chamberlain": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 27
   },
+  "chaos": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11,
+    "/Weltraum/Aliens/Glukorianer/Glutulhu/Glutulhu": 2,
+    "/Abenteuer/Gefangen_im_SpaceSchnee/": 1
+  },
   "chaplin": {
     "/Weltraum/Promis": 2,
     "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet": 1
@@ -1988,8 +1994,8 @@
   "crew": {
     "/Spielregeln/Raumschiffe/Raumkämpfe": 28,
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 3,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 3,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
     "/Abenteuer/Der_große_Fang/Reise": 1
   },
   "cyberaffen": {
@@ -2100,6 +2106,9 @@
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 1,
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 1,
     "/Weltraum/Aliens/Streifanier/Streif": 1
+  },
+  "debugmodus": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11
   },
   "den busch finden": {
     "/Abenteuer/Buschraub/Nova_Ceti": 25
@@ -2730,6 +2739,10 @@
   },
   "entgegengesetzte": {
     "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 1
+  },
+  "entladungen": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 1,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 1
   },
   "entschluesselung": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 25,
@@ -4265,9 +4278,9 @@
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 1
   },
   "halb": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 1,
-    "/Abenteuer/Gefangen_im_SpaceSchnee/": 1,
-    "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 1
+    "/Abenteuer/Gefangen_im_SpaceSchnee/": 1
   },
   "halfway": {
     "/Weltraum/Piraten/Treffpunkte/Halfway": 288,
@@ -6329,7 +6342,6 @@
   "macke": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 5,
     "/Abenteuer/Dungeonplanet/Einstieg": 4,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 4,
     "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 3,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
     "/Spielregeln/Raumschiffe/Macken": 2,
@@ -7378,7 +7390,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 25
   },
   "noch": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 6,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 7,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 6,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 5,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 5,
@@ -7507,8 +7519,8 @@
     "/Weltraum/SpaceMafia/": 1
   },
   "nur": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 9,
     "/Spielregeln/Konflikte/Konfliktszenen": 9,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 8,
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 7,
     "/Weltraum/Promis": 7,
     "/Abenteuer/": 6,
@@ -8656,7 +8668,7 @@
     "/Spielregeln/Raumschiffe/Raumflüge": 27,
     "/Abenteuer/Schatzjagd/Einstieg": 25,
     "/Abenteuer/Weihnachten/Santa_24": 25,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 12,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 14,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 7,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 4,
     "/Spielregeln/Raumschiffe/Macken": 3,
@@ -8985,7 +8997,7 @@
     "/Abenteuer/Zeitraub/Auftrag": 28,
     "/Abenteuer/Zeitraub_II/Javar_3": 27,
     "/Spielregeln/Die_Piratencrew/Übersicht": 25,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 12,
     "/Abenteuer/Laborratten/Einstieg": 7,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 6,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 6,
@@ -9803,6 +9815,7 @@
   "schnell": {
     "/Weltraum/Aliens/Raptorianer/": 3,
     "/Weltraum/Weltraumphänomene/Raumzeitverschiebung": 3,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 2,
     "/Weltraum/Piraten/Treffpunkte/Halfway": 2,
@@ -11142,6 +11155,9 @@
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 2,
     "/Abenteuer/Halloween/": 1
   },
+  "statische entladungen": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 10
+  },
   "statisten": {
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 27,
     "/Abenteuer/Ideen/Aufträge_auf_der_Mimen-Mission": 1,
@@ -11328,6 +11344,9 @@
   },
   "strohrumraum": {
     "/Abenteuer/Dungeonplanet/Ebene1": 27
+  },
+  "stromschwankungen": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11
   },
   "stummfilmplanet": {
     "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet": 286,
@@ -11936,6 +11955,7 @@
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 2,
     "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 2,
     "/Weltraum/Konzerne/Better_Than_Broadcast": 2,
     "/Weltraum/Konzerne/Universe_Broadcast": 2,
