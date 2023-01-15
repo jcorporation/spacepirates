@@ -37,11 +37,4 @@ sitedata:
 
 Allen Wahrscheinlichkeitsrechnungen zum Trotz gibt es sie: die Unwahrscheinlichkeitszone. Hier sind alle Wahrscheinlichkeiten aufgehoben, umgekehrt, wahrscheinlich und unwahrscheinlich zugleich. Die Wahrscheinlichkeitsrechnung und somit die Quantenphysik versagen. Was unwahrscheinlich scheint, existiert hier und was wahrscheinlich ist, wird hier nicht sein. So unwahrscheinlich es klingt, so wahrscheinlich ist es dort.
 
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-
-<div id="unwahrscheinlichkeitszoneTable"></div>
-<script>
-randgen.array2html(tabellen["unwahrscheinlichkeitszone"], document.getElementById('unwahrscheinlichkeitszoneTable'));
-</script>
+{% include zufallstabelle.md table="unwahrscheinlichkeitszone" %}

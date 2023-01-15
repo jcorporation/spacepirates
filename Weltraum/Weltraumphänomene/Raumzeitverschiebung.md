@@ -31,11 +31,4 @@ Innerhalb einer Raumzeitverschiebung sind die Gesetze der Kausalität teilweise 
 
 Auf [Javar 3]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Javar_3) gibt es eine von vielen Forschungsstationen, die die Raumzeitverschiebung untersuchen.
 
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-
-<div id="raumzeitverschiebungTable"></div>
-<script>
-randgen.array2html(tabellen["raumzeitverschiebung"], document.getElementById('raumzeitverschiebungTable'));
-</script>
+{% include zufallstabelle.md table="raumzeitverschiebung" %}

@@ -26,11 +26,4 @@ sitedata:
 
 Ein Ionensturm ist ein elektromagnetischer Sturm, der alle elektrischen Geräte außer Betrieb setzen oder sogar zerstören kann. Ionenstürmen sind, trotz ihres Namens, ortsfeste Phänomene, die in ihrer Stärke und Größe extrem schnell variieren. Sie sind aber dennoch extrem gefährlich und legen so ziemlich jedes Schiff innerhalb von Sekunden lahm. Dafür leuchten sie aber in einem schönen blau.
 
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-
-<div id="ionensturmTable"></div>
-<script>
-randgen.array2html(tabellen["ionensturm"], document.getElementById('ionensturmTable'));
-</script>
+{% include zufallstabelle.md table="ionensturm" %}
