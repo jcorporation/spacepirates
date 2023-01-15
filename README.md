@@ -1,6 +1,4 @@
-[![pages-build-deployment](https://github.com/jcorporation/spacepirates/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jcorporation/spacepirates/actions/workflows/pages/pages-build-deployment)
-[![test](https://github.com/jcorporation/spacepirates/actions/workflows/test.yml/badge.svg)](https://github.com/jcorporation/spacepirates/actions/workflows/test.yml)
-[![create-data](https://github.com/jcorporation/spacepirates/actions/workflows/create-data.yml/badge.svg)](https://github.com/jcorporation/spacepirates/actions/workflows/create-data.yml)
+[![Deploy Jekyll site to Pages](https://github.com/jcorporation/spacepirates/actions/workflows/deploy.yml/badge.svg)](https://github.com/jcorporation/spacepirates/actions/workflows/deploy.yml)
 
 # SpacePirates
 

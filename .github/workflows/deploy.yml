@@ -26,26 +26,53 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # Build job
-  build:
+  # Create data job
+  createdata:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
+      - name: Create the data files
+        run: .scripts/update.sh
+
+      - name: Add, commit and push
+        uses: EndBug/add-and-commit@v9.1.1
+        with:
+          add: _data/ assets/json/
+          message: Update data files
+          push: true
+  
+  # Check job
+  test:
+    runs-on: ubuntu-latest
+    needs: createdata
+    steps:
+      - name: check
+        run: .scripts/check.sh
+
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    needs: test
+    steps:
       - name: Setup Ruby
         uses: ruby/setup-ruby@ee2113536afb7f793eed4ce60e8d3b26db912da4 # v1.127.0
         with:
           ruby-version: '3.0' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
+
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
