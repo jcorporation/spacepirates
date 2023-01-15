@@ -27,7 +27,10 @@ karte.init = function() {
     karte.y2 = 0;
     karte.zoomlevel = 1;
     karte.funclevel = 'info';
-    // add event handlers    
+    // add event handlers
+    document.getElementById('homeBtn').addEventListener('click', function() {
+        window.location.href = 'https://spacepirates.jcgames.de/';
+    }, false);
     document.getElementById('zoomOutBtn').addEventListener('click', function(event) {
         karte.prevent(event);
         karte.zoom('out', 1.1);

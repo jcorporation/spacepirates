@@ -49,7 +49,7 @@ tabellen["auseinandersetzung"] = ["kriegerischen", "politischen", "handelspoliti
 
 tabellen["bau"] = ["Raumschiff", "Raumstation", "Forschungsstation"];
 
-tabellen["weltraumort"] = ["[planet_neu_or_wichtig]", "[bekannteweltraumphaenomene]", "[sektoren]", "[raumstationen]"];
+tabellen["weltraumort"] = ["[planet_neu_or_wichtig]", "[existingWeltraumphaenomene]", "[sektoren]", "[raumstationen]"];
 
 tabellen["vernichtungsgrund"] = ["Explosion durch defekte Energieversorgung", "Kollision mit einem großen Meteoriten", "Sabotage durch [verbrecher]",
     "Plötzlich auftretendes Weltraumphänomen: [weltraumphaenomen]", "Angriff/Überfall von [partei]", "Fehlgeschlagenes Experiment"];
