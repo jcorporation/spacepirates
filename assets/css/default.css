@@ -53,7 +53,7 @@ p {
 
 .bg-sterne {
   background-color: black;
-  background-image: url("{{ site.baseurl }}/assets/images/sterne.jpg");
+  background-image: url("/assets/images/sterne.jpg");
 }
 
 .bg-yellow {
@@ -134,43 +134,43 @@ main ul {
 }
 
 .bg-spielregeln {
-  background-image: url("{{ site.baseurl }}/assets/images/startseite0.jpg");
+  background-image: url("/assets/images/startseite0.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-weltraum {
-  background-image: url("{{ site.baseurl }}/assets/images/sternenkarte-quadrat.png");
+  background-image: url("/assets/images/sternenkarte-quadrat.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-abenteuer {
-  background-image: url("{{ site.baseurl }}/assets/images/startseite1.jpg");
+  background-image: url("/assets/images/startseite1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-publikationen {
-  background-image: url("{{ site.baseurl }}/assets/images/startseite3.jpg");
+  background-image: url("/assets/images/startseite3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-zufallstabellen {
-  background-image: url("{{ site.baseurl }}/assets/images/bg-zufallstabellen.png");
+  background-image: url("/assets/images/bg-zufallstabellen.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-ideenhalde {
-  background-image: url("{{ site.baseurl }}/assets/images/bg-ideenhalde.png");
+  background-image: url("/assets/images/bg-ideenhalde.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-startunes {
-  background-image: url("{{ site.baseurl }}/assets/images/bg-startunes.png");
+  background-image: url("/assets/images/bg-startunes.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
