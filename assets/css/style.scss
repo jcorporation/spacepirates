@@ -3,14 +3,6 @@
 
 {% include_relative bootstrap.min.css %}
 
-html {
-  --bs-dropdown-divider-bg: #ced4da;
-  --bs-btn-hover-bg: #ffcc00;
-  --bs-btn-active-bg: #ffcc00;
-  --bs-btn-hover-border-color: #dfb300;
-  --bs-btn-active-border-color: #dfb300;
-}
-
 body {
   background-color: #ececec;
   display: flex;
