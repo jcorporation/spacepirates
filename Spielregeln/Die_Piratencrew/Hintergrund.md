@@ -106,16 +106,4 @@ Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben, aber übertr
 
 ### Piratenmacken
 
-{% assign nrMacken = page.sitedata.Piratenmacken.size %}
-<table>
-<thead>
-<tr><th>W{{ nrMacken }}</th><th>Macke</th></tr>
-</thead>
-<tbody>
-{% assign i = 1 %}
-{% for macke in page.sitedata.Piratenmacken %}
-    <tr><td>{{ i }}</td><td>{{ macke }}</td></tr>
-    {% assign i = i | plus: 1 %}
-{% endfor %}
-</tbody>
-</table>
+{% include zufallstabelle.md table="existingPiratenmacken" count=2 manual=true auto=false %}
