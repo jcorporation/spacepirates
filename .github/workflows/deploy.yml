@@ -1,10 +1,4 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Update, check and deploy site
 
 on:
   # Runs on pushes targeting the default branch
@@ -26,36 +20,26 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # Create data job
-  createdata:
+  # Build job
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Create the data files
         run: .scripts/update.sh
 
-      - name: Add, commit and push
+      - name: Update repository
         uses: EndBug/add-and-commit@v9.1.1
         with:
           add: _data/ assets/json/
           message: Update data files
           push: true
-  
-  # Check job
-  test:
-    runs-on: ubuntu-latest
-    needs: createdata
-    steps:
-      - name: check
+
+      - name: Check site
         run: .scripts/check.sh
 
-  # Build job
-  build:
-    runs-on: ubuntu-latest
-    needs: test
-    steps:
       - name: Setup Ruby
         uses: ruby/setup-ruby@ee2113536afb7f793eed4ce60e8d3b26db912da4 # v1.127.0
         with:
