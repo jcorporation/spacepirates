@@ -107,6 +107,7 @@
     "/Spielregeln/Raumschiffe/Raumkämpfe": 6,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 5,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 5,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 5,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 5,
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 5,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 5,
@@ -119,7 +120,6 @@
     "/Abenteuer/SpaceDrache/Spuren": 4,
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 4,
     "/Abenteuer/Zeitraub/Überfall": 4,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 4,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 4,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 4,
     "/Weltraum/Promis": 4,
@@ -758,8 +758,8 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 25
   },
   "auch": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 9,
     "/Weltraum/Händler_und_Halunken": 9,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 7,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 7,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 7,
     "/Weltraum/Promis": 7,
@@ -820,7 +820,6 @@
     "/Abenteuer/Wagonian_Wedding/Einleitung": 3,
     "/Abenteuer/Zeitraub/Auftrag": 3,
     "/Abenteuer/Zeitraub_II/Auftragserteilung": 3,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 3,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 3,
     "/Spielregeln/Raumschiffe/Macken": 3,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 3,
@@ -899,6 +898,9 @@
     "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 2,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren": 2,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
@@ -955,9 +957,7 @@
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Ende": 1,
     "/Abenteuer/Buschraub/SWIP": 1,
-    "/Abenteuer/Buschraub/Sperrzone": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+    "/Abenteuer/Buschraub/Sperrzone": 1
   },
   "aufgefangen": {
     "/Abenteuer/Raumschiffdungeon/Sektoren/Drache": 1,
@@ -1096,6 +1096,11 @@
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Abenteuer/Buschraub/Nova_Ceti": 1
   },
+  "ausruestungslisten": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/": 26,
+    "/Spielregeln/": 1,
+    "/Spielregeln/Die_Piratencrew/": 1
+  },
   "ausschreibung": {
     "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 76,
     "/Abenteuer/SpaceDrache/": 1,
@@ -1148,6 +1153,9 @@
     "/Zufallstabellen/Techsprech": 25,
     "/Spielregeln/Die_Piratencrew/Übersicht": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 1
+  },
+  "autopilot spielt verrueckt": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11
   },
   "avantgardia": {
     "/Weltraum/Freihandelszone/System_der_Träume/Avantgardia": 276,
@@ -3591,6 +3599,11 @@
   "gateland": {
     "/Weltraum/Militär": 151
   },
+  "gebrauchte raumschiffe": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 26,
+    "/Abenteuer/Ideen/Stars_und_Sternchen": 1,
+    "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia": 1
+  },
   "gebrauchten": {
     "/Spielregeln/Die_Piratencrew/": 1,
     "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 1,
@@ -3791,13 +3804,14 @@
     "/Weltraum/Aliens/Glukorianer/": 21
   },
   "gibt": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 6,
     "/Spielregeln/Konflikte/Konfliktszenen": 6,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 4,
     "/Weltraum/Händler_und_Halunken": 4,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 4,
     "/Abenteuer/Zeitraub/Bauteil": 3,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 3,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Diverses": 3,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 3,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 3,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 3,
     "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
@@ -3815,8 +3829,8 @@
     "/Abenteuer/SpaceDrache/Spuren": 2,
     "/Abenteuer/Zeitraub/Auftrag": 2,
     "/Abenteuer/Zeitraub/Überfall": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 2,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
     "/Weltraum/Aliens/SpaceWorms/": 2,
@@ -4627,6 +4641,7 @@
   },
   "hightech": {
     "/Weltraum/Konzerne/China_Space": 11,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 1
   },
   "hildegard": {
@@ -4764,7 +4779,7 @@
     "/Weltraum/Technologie/Raumschiffe": 25,
     "/Abenteuer/Die_Karte_nach_Atlantis/Rebellen": 2,
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 2,
-    "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 1
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 1
   },
   "hyperkern": {
     "/Weltraum/Technologie/Techtalk": 26
@@ -5435,9 +5450,9 @@
     "/Spielregeln/Raumschiffe/Raumkämpfe": 15,
     "/Spielregeln/Konflikte/Konfliktszenen": 11,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 8,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 8,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 7,
     "/Abenteuer/Dungeonplanet/Ebene1": 6,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 6,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 6,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 5,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 5,
     "/Weltraum/Händler_und_Halunken": 5,
@@ -5489,6 +5504,7 @@
     "/Abenteuer/Weihnachten_II/Santa_24": 2,
     "/Abenteuer/Zeitraub/Auftrag": 2,
     "/Abenteuer/Zeitraub_II/Javar_3": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
     "/Spielregeln/Konflikte/Einfache_Konflikte": 2,
     "/Spielregeln/Raumschiffe/Wartung": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Ausrüstung": 2,
@@ -5726,6 +5742,11 @@
   },
   "klappert": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11
+  },
+  "kleidung": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 128,
+    "/Abenteuer/Die_Eisgalaxis/": 1,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1
   },
   "kleiner": {
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 2,
@@ -6230,11 +6251,6 @@
   "linker und rechter turm": {
     "/Abenteuer/Halloween/Vampir-Planet": 25
   },
-  "links": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
-    "/Abenteuer/Halloween/Vampir-Planet": 1,
-    "/Weltraum/Technologie/": 1
-  },
   "lion plant": {
     "/Weltraum/Aliens/Trull/Golfplatz": 152,
     "/Abenteuer/Ideen/Golfplatz": 1
@@ -6330,7 +6346,7 @@
     "/Spielregeln/Die_Piratencrew/Hintergrund": 1
   },
   "macht": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 12,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 2,
     "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 2,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
@@ -6918,7 +6934,7 @@
   },
   "negatritiumstrahlung": {
     "/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung": 76,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 1,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 1,
     "/Weltraum/Technologie/": 1
   },
   "negatronenkarabiner": {
@@ -7115,7 +7131,6 @@
     "/Abenteuer/Buschraub/Bahir": 6,
     "/Abenteuer/Zeitraub/Überfall": 6,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 6,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 6,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 6,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 6,
     "/Weltraum/Technologie/Techtalk": 6,
@@ -7126,6 +7141,7 @@
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 5,
     "/Abenteuer/Halloween/Station": 5,
     "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 5,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 5,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 5,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 5,
     "/Abenteuer/Blumenkind/SpaceHippies": 4,
@@ -7204,6 +7220,7 @@
     "/Abenteuer/Zeitraub/Bauteil": 2,
     "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 2,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Spielregeln/Raumschiffe/Macken": 2,
@@ -7302,8 +7319,7 @@
     "/Abenteuer/Weihnachten/Treffpunkt": 1,
     "/Abenteuer/Weihnachten_II/Einstieg": 1,
     "/Abenteuer/Weihnachten_II/Santa_24": 1,
-    "/Abenteuer/Zeitraub/Ende": 1,
-    "/Abenteuer/Zeitraub_II/Auftragserteilung": 1
+    "/Abenteuer/Zeitraub/Ende": 1
   },
   "niels": {
     "/Weltraum/Promis": 175,
@@ -7524,17 +7540,16 @@
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 7,
     "/Weltraum/Promis": 7,
     "/Abenteuer/": 6,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 6,
     "/Weltraum/Weltraumtiere": 6,
     "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 5,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 5,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 5,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 5,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 5,
     "/Weltraum/Technologie/Techtalk": 5,
     "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 4,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 4,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 4,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 4,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 4,
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 4,
@@ -7553,6 +7568,7 @@
     "/Abenteuer/Zeitraub/Überfall": 3,
     "/Abenteuer/Zeitraub_II/Javar_3": 3,
     "/Spielregeln/Abenteuer/": 3,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 3,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 3,
     "/Spielregeln/Raumschiffe/Macken": 3,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 3,
@@ -7592,6 +7608,7 @@
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
     "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
@@ -7717,8 +7734,7 @@
     "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Gefängnisebenen": 1,
     "/Weltraum/Freihandelszone/D4E20": 1,
     "/Weltraum/Freihandelszone/Space-Steuerfahnder/": 1,
-    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Hauptquartier": 1,
-    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": 1
+    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Hauptquartier": 1
   },
   "oberschwester hildegard": {
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 179
@@ -7909,7 +7925,7 @@
     "/Weltraum/Menschen/Föderation/Pandar_5": 160
   },
   "panzerungen": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 25,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 26,
     "/Weltraum/Technologie/": 1
   },
   "papagei": {
@@ -8018,8 +8034,8 @@
   },
   "personen": {
     "/Weltraum/Übersicht_der_bekannten_Personen": 75,
-    "/Abenteuer/Ideen/SpaceWorms": 1,
-    "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 1
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
+    "/Abenteuer/Ideen/SpaceWorms": 1
   },
   "pessach": {
     "/Weltraum/Menschen/Föderation/Pessach_4": 78,
@@ -8668,7 +8684,7 @@
     "/Spielregeln/Raumschiffe/Raumflüge": 27,
     "/Abenteuer/Schatzjagd/Einstieg": 25,
     "/Abenteuer/Weihnachten/Santa_24": 25,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 14,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 13,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 7,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 4,
     "/Spielregeln/Raumschiffe/Macken": 3,
@@ -8982,7 +8998,7 @@
     "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 1
   },
   "raumschiff": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 159,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 186,
     "/Weltraum/Technologie/Raumschiffe": 128,
     "/Zufallstabellen/Raumschiffe": 127,
     "/Spielregeln/Raumschiffe/": 126,
@@ -8997,7 +9013,7 @@
     "/Abenteuer/Zeitraub/Auftrag": 28,
     "/Abenteuer/Zeitraub_II/Javar_3": 27,
     "/Spielregeln/Die_Piratencrew/Übersicht": 25,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 12,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11,
     "/Abenteuer/Laborratten/Einstieg": 7,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 6,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 6,
@@ -9202,9 +9218,6 @@
   },
   "rechter": {
     "/Abenteuer/Halloween/Vampir-Planet": 25
-  },
-  "rechts ist links": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 10
   },
   "reed": {
     "/Weltraum/Promis": 176,
@@ -9619,6 +9632,7 @@
   "schadenspunkte": {
     "/Spielregeln/Raumschiffe/Wartung": 4,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 3,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
     "/Abenteuer/Buschraub/Nova_Ceti": 1
   },
   "schaeden": {
@@ -9949,6 +9963,7 @@
     "/Abenteuer/Zeitraub/Bauteil": 2,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
     "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Raumschiffe/Wartung": 2,
@@ -10260,7 +10275,7 @@
   },
   "sind": {
     "/Weltraum/Technologie/": 13,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 10,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 11,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 8,
     "/Abenteuer/Halloween/Station": 8,
     "/Abenteuer/Halloween/Vampir-Planet": 7,
@@ -10285,7 +10300,6 @@
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 4,
     "/Abenteuer/Ostern/Einstieg": 4,
     "/Abenteuer/Zeitraub_II/Javar_3": 4,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 4,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 4,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 4,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 4,
@@ -10312,6 +10326,7 @@
     "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": 3,
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 3,
     "/Abenteuer/Weihnachten_II/Santa_24": 3,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 3,
     "/Spielregeln/Was_ist_SpacePirates": 3,
     "/Weltraum/Aliens/Glukorianer/": 3,
     "/Weltraum/Aliens/Kahadrier/": 3,
@@ -10354,6 +10369,7 @@
     "/Abenteuer/Zeitraub/Auftrag": 2,
     "/Abenteuer/Zeitraub_II/Auftragserteilung": 2,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 2,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 2,
@@ -10457,8 +10473,7 @@
     "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 1,
     "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren": 1
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde": 1
   },
   "sing": {
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 75,
@@ -10555,7 +10570,6 @@
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 3,
     "/Weltraum/Promis": 3,
     "/Abenteuer/Buschraub/Nova_Ceti": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 2,
     "/Weltraum/Aliens/SpaceWorms/BigBong/SWIP": 2,
     "/Weltraum/Aliens/Wagonen/Wagonische_Sprache": 2,
@@ -10571,7 +10585,8 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1,
     "/Abenteuer/Halloween/Station": 1,
-    "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 1
+    "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 1,
+    "/Abenteuer/Rache_des_Akamachi-Clans/": 1
   },
   "sonderrechtszone": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/": 79,
@@ -10876,7 +10891,7 @@
     "/Weltraum/Aliens/Samnesen/Sperrzone": 126
   },
   "spezialkleidung": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 25
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 25
   },
   "spezialwaffen": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 25
@@ -10967,6 +10982,7 @@
     "/Spielregeln/Was_ist_SpacePirates": 26
   },
   "spielt": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11,
     "/Spielregeln/Was_ist_SpacePirates": 3,
     "/Weltraum/SpaceRocker/Rockbands": 2,
     "/Abenteuer/Laborratten/Railroading/Hafen": 1
@@ -12172,7 +12188,7 @@
   },
   "vakuum": {
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 1,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 1,
     "/Weltraum/Sekten/Kinder_der_Sternenleere": 1
   },
   "vampir": {
@@ -12303,6 +12319,7 @@
     "/Spielregeln/Die_Piratencrew/Hintergrund": 1
   },
   "verrueckt": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 2,
     "/Abenteuer/Ostern/VzFvO": 2,
     "/Abenteuer/": 1
@@ -12466,7 +12483,7 @@
     "/Weltraum/Freihandelszone/Währungen_und_Banken": 125
   },
   "waffen": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 135,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 136,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen": 125,
     "/Weltraum/Technologie/": 28,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 3,
@@ -12818,8 +12835,8 @@
   },
   "wendigkeit": {
     "/Spielregeln/Raumschiffe/Raumkämpfe": 3,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 1,
-    "/Abenteuer/Spritprobleme/Neutritiumpipeline": 1
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 1
   },
   "wendung": {
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 26
@@ -12966,6 +12983,7 @@
     "/Abenteuer/Buschraub/Bahir": 1
   },
   "will": {
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 3,
     "/Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission": 3,
     "/Abenteuer/": 2,
     "/Abenteuer/Buschraub/Einstieg": 2,
@@ -12974,7 +12992,6 @@
     "/Abenteuer/SpaceDrache/John_Marric": 2,
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 2,
     "/Abenteuer/Zeitraub/Auftrag": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
@@ -13194,6 +13211,7 @@
     "/Abenteuer/Halloween/Nebelmaschine": 1,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 1,
     "/Spielregeln/Konflikte/": 1,
     "/Spielregeln/Konflikte/Einfache_Konflikte": 1
   },
