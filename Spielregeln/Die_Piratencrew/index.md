@@ -15,6 +15,7 @@ Dieser Abschnitt beschreibt die Erstellung von Charakteren. Hier finden sich auc
 - [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/)
   - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen)
   - [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände)
+  - [Kleidung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung)
   - [Rauschmittel]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel)
   - [Raumschiffe]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/)
     - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen)

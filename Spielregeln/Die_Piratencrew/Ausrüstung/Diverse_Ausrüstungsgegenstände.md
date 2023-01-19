@@ -8,12 +8,29 @@ title: Diverse Ausrüstungsgegenstände
 
 Hier sind nur wichtige und interessante Ausrüstungsgegenstände aufgeführt. Alltagsdinge, die keine Boni geben und nicht unbedingt Voraussetzung für eine Tätigkeit sind, müssen von den Charakteren nicht gekauft werden. Daher reicht es z.B. aus, wenn der Tech ein Universalwerkzeug – Tech kauft, ein normales Universalwerkzeug benötigt er nicht.
 
+## Piratiges
+
+| Piratiges | Bonus | Kosten |
+| --------- | :---: | -----: |
+| Cyberaugenklappe | Infrarotsicht | 200 |
+| Cyber-Kopftuch | keinen | 250 |
+| Multitool-Hakenhand | P+1 auf Tech | 550 |
+| Multitool-Hakenhand PRO | P+1 auf Tech, P+1 auf Pilot | 1.600 |
+| Cyber-Piratenhut | keinen | 1.000 |
+| Rum | keinen | 0 |
+| Schmuggel-Hakenhand | keinen | 300 |
+
+- Das **Cyber-Kopftuch** ist extrem robust, mit ihm kann man sogar Raumschiffe abschleppen.
+- Der **Cyber-Piratenhut** integriert einen Höchstleistungscomputer im Hut.
+- **Rum** ist in piratenüblichen Mengen kostenlos, ansonsten fallen 20 UC pro Fass an.
+- Die **Schmuggel-Hakenhand** hat ein integriertes Versteck.
+
 ## Diverses
 
 Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 
 | Ausrüstungsgegenstand | Bonus | Kosten |
-| --------------------- | ----- | -----: |
+| --------------------- | :---: | -----: |
 | Anti-Schwerkraft-Spray je 100 ml | je nach Anwendung | 1.000 |
 | Antigrav-Sänfte | je nach Anwendung | 2.000 |
 | Antiphotonentaschenlampe | je nach Anwendung | 450 |
@@ -46,29 +63,12 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 - Die **Teleobjektivcam** ist eine Systemcamera mit einem extrem leistungsstarken Teleobjektiv.
 - Das **Überwachungsset** besteht aus kleinen Wanzen, die Ton und Bild per Funk übertragen.
 
-## Piratiges
-
-| Piratiges | Bonus | Kosten |
-| --------- | ----- | -----: |
-| Cyberaugenklappe | Infrarotsicht | 200 |
-| Cyber-Kopftuch | keinen | 250 |
-| Multitool-Hakenhand | P+1 auf Tech | 550 |
-| Multitool-Hakenhand PRO | P+1 auf Tech, P+1 auf Pilot | 1.600 |
-| Cyber-Piratenhut | keinen | 1.000 |
-| Rum | keinen | 0 |
-| Schmuggel-Hakenhand | keinen | 300 |
-
-- Das **Cyber-Kopftuch** ist extrem robust, mit ihm kann man sogar Raumschiffe abschleppen.
-- Der **Cyber-Piratenhut** integriert einen Höchstleistungscomputer im Hut.
-- **Rum** ist in piratenüblichen Mengen kostenlos, ansonsten fallen 20 UC pro Fass an.
-- Die **Schmuggel-Hakenhand** hat ein integriertes Versteck.
-
 ## Cyberhaustiere
 
 Cyberhaustiere sind der neueste Schrei unter den Möchtegernpiraten, alte Piratenveteranen runzeln darüber natürlich nur die Stirn.
 
 | Cyberpapagei | Bonus | Kosten |
-| ------------ | ----- | -----: |
+| ------------ | :---: | -----: |
 | Cyberpapagei | keinen | 0 |
 | Diktierpapagei | keinen | 100 |
 | Medipapagei | Voraussetzung für medizinische Versorgung | 300 |
@@ -79,7 +79,7 @@ Cyberhaustiere sind der neueste Schrei unter den Möchtegernpiraten, alte Pirate
 - Der **Spionagepapagei** ist mit allerhand Sensoren ausgestattet und ist daher ideal für Spionageeinsätze geeignet.
 
 | Cyberafke | Bonus | Kosten |
-| --------- | ----- | -----: |
+| --------- | :---: | -----: |
 | Cyberafke | keinen | 0 |
 | Kochafke | keinen | 100 |
 | Mediafke | Voraussetzung für medizinische Versorgung | 300 |
@@ -87,35 +87,3 @@ Cyberhaustiere sind der neueste Schrei unter den Möchtegernpiraten, alte Pirate
 
 - Cyberafken sind kleinen, niedlichen Affen nachempfunden.
 - Der **Spionageafke** ist mit allerhand Sensoren ausgestattet und ist daher ideal für Spionageeinsätze geeignet.
-
-## Spezialkleidung
-
-| Kleidung | Bonus | Kosten |
-| -------- | ----- | -----: |
-| Meteoritenfeste Lederjacke | keinen | 500 |
-| Ninjaanzug | P+1 | 500 |
-| Strahlenschutzanzug | keinen | 500 |
-| Weltraumschutzanzug | keinen | 500 |
-| Spaceskin&trade; Dextrosynth | keinen | 3.500 |
-| Strahlenschutzsonnenbrille | keinen | 500 |
-| Exoskelett | P+2 | 4.000 |
-
-- Der **Strahlenschutzanzug** schützt vor jeglicher Strahlung, insbesondere vor der tödlichen Negatritiumstrahlung.
-- Ein **Weltraumschutzanzug** schützt vor Vakuum, Kälte und Hitze und kann CO<sup>2</sup> in atembare Luft verwandeln.
-- Der **Spaceskin&trade; Dextrosynth** ist die High-Tech-Variante des Weltraumschutzanzuges, er wandelt zudem Ausscheidungen in frisches Wasser und Dextrose um.
-- Das **Exoskelett** verleiht dem Träger enorme Kräfte, daher erhält er P+2 auf SÖLDNER.
-- Die **meteoritenfeste Lederjacke** aus echtem Meteorkrakenleder schützt den Träger vor sämtlichen Weltraumgefahren (außer Strahlung).
-- Die **Strahlenschutzsonnenbrille** schützt nicht nur die Augen, sondern den gesamten Träger vor sämtlichen Arten schädlicher Strahlen.
-- Der typische, schwarze **Ninjaanzug** gibt einen Bonus von +1 auf alle heimlichen Tätigkeiten, wie verstecken oder beschatten.
-
-## Panzerungen
-
-| Panzerung | Bonus | Kosten |
-| --------- | ----- | -----: |
-| Leichte Panzerung | Z+1 | 1.500 |
-| Sturmpanzer | Z+2 | 3.000 |
-| Personenschild | Z+3 | 7.000 |
-
-- **Leichte Panzerung** kann unter der Kleidung getragen werden, es gibt auch Kleidung, in die ein leichter Panzer eingearbeitet ist.
-- **Sturmpanzer** sind immer sichtbar und erinnern an die Polizeiausrüstung des 20. Jahrhunderts.
-- Das **Personenschild** umgibt den Träger mit einem leicht schillernden Schild.

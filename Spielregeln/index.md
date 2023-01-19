@@ -23,6 +23,7 @@ Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um
 - [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/)
   - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen)
   - [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände)
+  - [Kleidung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung)
   - [Rauschmittel]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel)
   - [Raumschiffe]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/)
 - [Beispielpiraten]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Beispielpiraten)

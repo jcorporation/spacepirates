@@ -16,8 +16,11 @@ Jeder Charakter startet mit 3.000 UC, von denen er sich Ausrüstung und Waffen k
 
 - **Startgeld:** 3.000 UC
 
+## Ausrüstungslisten
+
 - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen)
 - [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände)
+- [Kleidung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung)
 - [Rauschmittel]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel)
 
 {% capture include_body %}

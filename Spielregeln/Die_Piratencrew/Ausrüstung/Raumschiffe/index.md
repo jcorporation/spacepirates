@@ -6,7 +6,11 @@ title: Raumschiffe
 
 # Raumschiffe
 
-Wie das Raumschiff genau aussieht, bleibt natürlich den Spielern überlassen. Da sich die Piratencrew wohl kein neues Raumschiff leisten kann, können alle Raumschiffe und das gesamte Zubehör gebraucht erworben werden. Gebrauchte Raumschiffe und Zubehör kostet nur die Hälfte des Neupreises. Im Gegenzug haben gebrauchte Raumschiffe ein paar unbedeutende Nachteile:
+Wie das Raumschiff genau aussieht, bleibt natürlich den Spielern überlassen. Es kann z. B. ein aufgemotztes Proll-Raumschiff sein oder auch ein Schrottkahn mit guten inneren Werten, je nachdem wie sich die Piratengruppe nach außen präsentieren will.
+
+## Gebrauchte Raumschiffe
+
+Da sich die Piratencrew wohl kein neues Raumschiff leisten kann, können alle Raumschiffe und das gesamte Zubehör gebraucht erworben werden. Gebrauchte Raumschiffe und Zubehör kostet nur die Hälfte des Neupreises. Im Gegenzug haben gebrauchte Raumschiffe ein paar unbedeutende Nachteile:
 
 - 2 zufällige Macken
 - &minus;1 auf Zuverlässigkeit
@@ -33,23 +37,18 @@ Das Raumschiff sollte zumindest mit folgenden Dingen ausgestattet sein:
 
 ## Verfügbare Raumschiffe
 
-<table>
-<thead>
-<tr><th>Raumschiff</th><th>FTL</th><th>Wendigkeit</th><th>Zuverlässigkeit</th><th>Personen</th><th>Schadenspunkte</th><th>Kosten</th></tr>
-</thead>
-<tbody>
-<tr><td>Spacebike</td><td>-</td><td>4</td><td>0</td><td>2</td><td>4</td><td>10.000</td></tr>
-<tr><td>SpaceChopper</td><td>1</td><td>4</td><td>1</td><td>2</td><td>5</td><td>18.000</td></tr>
-<tr><td>Raumjäger</td><td>-</td><td>3</td><td>1</td><td>3</td><td>8</td><td>14.000</td></tr>
-<tr><td>Spaceflitzer</td><td>1</td><td>2</td><td>1</td><td>4</td><td>12</td><td>18.000</td></tr>
-<tr><td>Frachter</td><td>1</td><td>-1</td><td>2</td><td>20</td><td>24</td><td>20.000</td></tr>
-<tr><td>Hypergleiter</td><td>1</td><td>1</td><td>2</td><td>6</td><td>12</td><td>24.000</td></tr>
-<tr><td>Hyperjumper</td><td>2</td><td>2</td><td>1</td><td>4</td><td>12</td><td>30.000</td></tr>
-<tr><td>Hyperschiff</td><td>2</td><td>0</td><td>3</td><td>10</td><td>24</td><td>36.000</td></tr>
-<tr><td>Transportschiff</td><td>2</td><td>-2</td><td>3</td><td>100</td><td>48</td><td>50.000</td></tr>
-<tr><td>Luxusjumper</td><td>2</td><td>3</td><td>3</td><td>2</td><td>12</td><td>60.000</td></tr>
-</tbody>
-</table>
+| Raumschiff | FTL | Wendigkeit | Zuverlässigkeit | Personen | Schadenspunkte | Kosten |
+| ---------- | :-: | :--------: | :-------------: | :------: | :------------: | -----: |
+| Spacebike | - | 4 | 0 | 2 | 4 | 10.000 |
+| SpaceChopper | 1 | 4 | 1 | 2 | 5 | 18.000 |
+| Raumjäger | - | 3 | 1 | 3 | 8 | 14.000 |
+| Spaceflitzer | 1 | 2 | 1 | 4 | 12 | 18.000 |
+| Frachter | 1 | -1 | 2 | 20 | 24 | 20.000 |
+| Hypergleiter | 1 | 1 | 2 | 6 | 12 | 24.000 |
+| Hyperjumper | 2 | 2 | 1 | 4 | 12 | 30.000 |
+| Hyperschiff | 2 | 0 | 3 | 10 | 24 | 36.000 |
+| Transportschiff | 2 | -2 | 3 | 100 | 48 | 50.000 |
+| Luxusjumper | 2 | 3 | 3 | 2 | 12 | 60.000 |
 
 - Der **Luxusjumper** ist ein auf edel getrimmter Hyperjumper inklusive Edelkombüse, holzvertäfelten Kabinen und goldumrahmten Instrumenten.
 

@@ -6,6 +6,8 @@ title: Sensoren
 
 # Sensoren
 
+Jedes Raumschiff sollte mindestens über **Standardsensoren** verfügen, die zur Navigation und zur Landung gebraucht werden.
+
 | Sensor | Reichweite | Kosten |
 | ------ | ---------- | -----: |
 | Standard | nächster Planet | 6.000 |
@@ -15,7 +17,6 @@ title: Sensoren
 | Militär | Sternensystem | 32.000 |
 | FTL | Sternensystem | 50.000 |
 
-- Jedes Raumschiff sollte mindestens über **Standardsensoren** verfügen, die zur Navigation und zur Landung gebraucht werden.
 - Die **Kurz- und Langstrecken-Sensoren** erweitern die Reichweite der Standardsensoren, liefern aber kaum mehr Daten.
 - Die **Forschungssensoren** liefern erheblich genauere Daten über Planeten und andere Himmelskörper.
 - **Militärische Sensoren** liefern auch Details über gegnerische Raumschiffe mit aktiven Schilden. Mehrere Sensorentypen können kombiniert werden.

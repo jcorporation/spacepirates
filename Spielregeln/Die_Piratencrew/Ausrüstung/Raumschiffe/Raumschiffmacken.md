@@ -30,8 +30,6 @@ sitedata:
           Beschreibung: Die Frontscheibe ist beschlagen, das Raumschiff fliegt mit halber Geschwindigkeit in eine zufällige Richtung.
         - Name: FTL macht Wupp
           Beschreibung: Der FTL macht nur noch WUPP und funktioniert nicht mehr.
-        - Name: Rechts ist Links
-          Beschreibung: Das Raumschiff vertauscht rechts mit links, &minus;1 auf alle Proben.
         - Name: Piepsstimmen
           Beschreibung: Der Heliumanteil der Luft nimmt schlagartig zu, alle reden bis zur Behebung der Macke mit piepsiger Stimme.
         - Name: Tropenwetter
@@ -77,13 +75,15 @@ sitedata:
         - Name: Klappert
           Beschreibung: Irgendwas klappert im Schiff, keine Ahnung was und wo, aber es ist unheimlich nervig, &minus;1 auf alle Proben.
         - Name: Stromschwankungen
-          Beschreibung: Stromschwankungen führen zu allen (un-)möglichen Fehlfunktionen, -1 auf alle Proben.
+          Beschreibung: Stromschwankungen führen zu allen (un-)möglichen Fehlfunktionen, &minus;1 auf alle Proben.
         - Name: Debugmodus
           Beschreibung: Der Raumschiff wechselt in den Debugmodus, alle Konsolen spucken unendliche viele binäre Daten aus und alles arbeitet nur noch halb so schnell.
         - Name: Statische Entladungen
           Beschreibung: Auf einmal ist wirklich alles statisch geladen, der Crew stehen sprichwörtlich alle Haare zu Berge.
         - Name: Chaos
-          Beschreibung: Überall herrscht absolutes Chaos, woher kommt auf einmal diese Unordnung? -1 auf alle Proben, da niemand mehr etwas findet.
+          Beschreibung: Überall herrscht absolutes Chaos, woher kommt auf einmal diese Unordnung? &minus;1 auf alle Proben, da niemand mehr etwas findet.
+        - Name: Autopilot spielt verrückt
+          Beschreibung: Der Autopilot spielt verrückt und macht was er will, vertauscht Rechts mit Links, usw., &minus;1 auf alle PILOT-Proben.
 ---
 
 # Raumschiffmacken

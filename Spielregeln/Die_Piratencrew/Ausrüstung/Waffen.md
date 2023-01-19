@@ -11,28 +11,28 @@ Es gibt alle möglichen und unmöglichen Waffen. Die billigen geben keinen Bonus
 ## Fernkampfwaffen
 
 | Waffe | Bonus | Kosten |
-| ----- | ----- | -----: |
-| Shuriken | P+0 | 50 |
-| Revolver | P+0 | 200 |
-| Gewehr | P+0 | 400 |
-| Rauchbomben | P+0 | 600 |
-| Laserpistole | P+0 | 800 |
-| Minilaserpistole | P+0 | 1.200 |
-| Ionisierter Wurfdolch | P+1 | 400 |
+| ----- | :---: | -----: |
+| Shuriken | keinen | 400 |
+| Revolver | keinen | 400 |
+| Gewehr | keinen | 400 |
+| Laserpistole | keinen | 400 |
+| Rauchbomben | keinen | 600 |
+| Minilaserpistole | keinen | 800 |
+| Ionisierter Wurfdolch | P+1 | 1.200 |
 | Laserbogen | P+1 | 1.200 |
 | Lasergewehr | P+1 | 1.200 |
-| Shurikenwerfer | P+1 | 1.500 |
+| Shurikenwerfer | P+1 | 1.200 |
+| Laserdegen | P+1 | 1.800 |
 | Plasmagewehr | P+2 | 2.000 |
-| Laserdegen | P+1 | 2.500 |
 | Tachyonenpistole | P+2 | 4.000 |
-| Negatronenwerfer | P+3 | 5.000 |
+| Negatronenwerfer | P+3 | 6.000 |
 
 - **Shuriken** sind Wurfsterne, die bevorzugt von Ninjas eingesetzt werden.
 - **Revolver** und **Gewehre** haben sich nicht viel weiterentwickelt und sind solide wie eh und je.
 - **Rauchbomben** nebeln alles in einem Umkreis von 10 m um die Explosion ein, weshalb alle Proben in diesem Gebiet einen Malus von &minus;1 erleiden.
 - **Laserwaffen** gibt es in allen möglichen Ausführungen und auch in Pistolengröße. Die Farbe des Lasers hat nichts mehr mit der Stärke zu tun und hängt daher einzig vom Geschmack des Besitzers ab.
 - Die **Minilaserpistole** ist eine miniaturisierte Laserpistole im schicken Design, die in jede Hand- oder Jackentasche passt.
-- Der **Laserdegen** kombiniert einen Degen mit einer Laserpistole und sieht dementsprechend seltsam aus.
+- Der **Laserdegen** kombiniert einen Degen mit einer Laserpistole und sieht dementsprechend seltsam aus. Er gibt den Bonus auch im Nahkampf.
 - **Shurikenwerfer** schleudern zielgenau Shurikens aus ihrem Magazin.
 - Das **Plasmagewehr** verschießt flüssiges Plasma, das brennbare Materialien entzündet und alles andere schmilzt.
 - **Tachyonenpistolen** sind sehr effektive Waffen, da sie als einzige Waffen ihre Ladung schneller als das Licht abschießen.
@@ -41,29 +41,29 @@ Es gibt alle möglichen und unmöglichen Waffen. Die billigen geben keinen Bonus
 ## Nahkampfwaffen
 
 | Nahkampfwaffe | Bonus | Kosten |
-| ------------- | ----- | -----: |
-| Entermesser | P+0 | 50 |
-| Krummsäbel | P+0 | 200 |
-| Ninjaschwert | P+0 | 200 |
-| Cyberholzfuß | P+1 | 300 |
-| Hakenhand | P+1 | 300 |
-| Laser-Nunchaku | P+1 | 450 |
-| Laserschwert | P+1 | 600 |
-| Vibrosäbel | P+1 | 900 |
+| ------------- | :---: | -----: |
+| Entermesser | keinen | 100 |
+| Krummsäbel | keinen | 100 |
+| Ninjaschwert | keinen | 100 |
+| Cyberholzfuß | P+1 | 350 |
+| Cyberhakenhand | P+1 | 350 |
+| Laser-Nunchaku | P+1 | 350 |
+| Laserschwert | P+1 | 350 |
+| Vibrosäbel | P+1 | 350 |
 | Rauchwerfer | P+1 | 2.000 |
 | Ionisierte Axt | P+2 | 2.500 |
 | Laserwanderstab | P+2 | 2.500 |
 
 - Der **Cyberholzfuß** und die **Hakenhand** ersetzen die normalen Gliedmaßen.
 - **Laser-Nunchakus** bestehen aus zwei stabförmigen Energiezellen, die mit einer Art Laserstrahl verbunden sind.
-- **Vibrosäbel** sind elegante Piratensäbel, deren Klinge leicht vibriert, wodurch sie mehr Schaden verursachen.
+- **Vibrosäbel** sind elegante Piratensäbel, deren Klinge extrem schnell vibriert, wodurch sie mehr Schaden verursachen.
 - Der **Rauchwerfer** funktioniert im Prinzip wie ein Feuerwerfer, nur dass er dichte, benebelnde Rauchschwaden ausspuckt, weshalb alle Proben in dem getroffenen Gebiet einen Malus von &minus;1 erleiden.
 - **Ionisierte Äxte** sind zum einen besonders scharf, weshalb sie fast jedes Material durchdringen können, und stumpfen zum anderen nicht ab.
 
 ## Spezialwaffen
 
 | Waffe | Bonus | Kosten | Kurzbeschreibung |
-| ----- | ----- | -----: | ---------------- |
+| ----- | :---: | -----: | ---------------- |
 | Eis-Ionenblaster „Onkel Frost“ | P+2 | 3.500 |   |
 | Glukorianischer Minifizierer | P+2 | 10.000 | Schrumpft das Opfer auf 10 % bis 50 % |
 | Kybernetischer Energie-Peitschenschwanz | P+1 | 2.000 |   |
