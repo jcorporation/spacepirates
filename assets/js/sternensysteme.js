@@ -1,3 +1,5 @@
+"use strict";
+
 const galaxygen = {};
 
 galaxygen.generate = function () {

@@ -1,5 +1,6 @@
 ---
 ---
+"use strict";
 
 tabellen["rsmacken"] = tabellen["existingRaumschiffmacken"];
 

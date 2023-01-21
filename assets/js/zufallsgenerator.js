@@ -1,3 +1,5 @@
+"use strict";
+
 const randgen = {};
 
 randgen.generate = function(target) {

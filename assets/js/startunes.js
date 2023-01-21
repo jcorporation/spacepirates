@@ -1,3 +1,5 @@
+"use strict";
+
 const startunes = {};
 
 startunes.songName = '';

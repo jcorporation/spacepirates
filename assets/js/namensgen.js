@@ -1,3 +1,5 @@
+"use strict";
+
 const namensgen = {};
 
 namensgen.generate = function () {

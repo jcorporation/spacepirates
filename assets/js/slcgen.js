@@ -1,3 +1,5 @@
+"use strict";
+
 const slcgen = {};
 
 slcgen.isduplicate = function(t, r) {

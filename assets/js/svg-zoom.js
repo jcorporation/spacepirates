@@ -1,3 +1,5 @@
+"use strict";
+
 function zoomSVG() {
     const card = document.getElementsByClassName('card-svg')[0];
     const image = card.getElementsByTagName('img')[0];
