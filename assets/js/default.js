@@ -11,30 +11,94 @@ for (const box of clickBoxes) {
     }
 }
 
-// horizontal scrollable tables
-const tables = document.getElementsByTagName('table');
+// enhance tables
+const tables = document.querySelectorAll('table');
 for (const table of tables) {
-    if (table.parentNode.classList.contains('tbl-collapsed')) {
-        randomTable(table);
-        continue;
+    if (table.parentNode.classList.contains('tbl-collapsed') === false) {
+        const div = document.createElement('div');
+        div.classList.add('table-responsive', 'mb-3');
+        table.parentNode.insertBefore(div, table);
+        div.appendChild(table);
     }
-    const div = document.createElement('div');
-    div.classList.add('table-responsive', 'mb-3');
-    table.parentNode.insertBefore(div, table);
-    div.appendChild(table);
-    randomTable(table);
+    if (randomTable(table) === false) {
+        sortTable(table);
+    }
 }
 
-// dice
+function getParent(el, parentNodeName) {
+    while (el.nodeName !== parentNodeName) {
+        if (el.parentNode !== null) {
+            el = el.parentNode;
+        }
+        else {
+            break;
+        }
+    }
+    return el;
+}
+
+function sortTable(table) {
+    const firstRow = table.querySelector('tr');
+    const th = firstRow.querySelectorAll('th');
+    if (th.length < 2) {
+        return false;
+    }
+    firstRow.classList.add('clickable');
+    firstRow.addEventListener('click', function(event) {
+        const firstRow = getParent(event.target, 'TR');
+        const table = getParent(event.target, 'TABLE');
+        const tbody = table.querySelector('tbody');
+        const cols = firstRow.querySelectorAll('th');
+        let colNr;
+        let desc = false;
+        for (let i = 0, j = cols.length; i < j; i++) {
+            if (cols[i] === event.target) {
+                colNr = i;
+                const dataSort = cols[i].getAttribute('data-sort');
+                if (dataSort === null ||
+                    dataSort === 'desc')
+                {
+                    cols[i].setAttribute('data-sort', 'asc');
+                    desc = false;
+                }
+                else {
+                    cols[i].setAttribute('data-sort', 'desc');
+                    desc = true;
+                }
+            }
+            else {
+                cols[i].removeAttribute('data-sort');
+            }
+        }
+        const rowArray = [];
+        const rows = table.querySelector('tbody').querySelectorAll('tr');
+        for (let i = 0, j = rows.length; i < j; i++) {
+            rowArray.push(rows[i]);
+        }
+        rowArray.sort(function(a, b) {
+            const t1 = a.querySelectorAll('td')[colNr].textContent;
+            const t2 = b.querySelectorAll('td')[colNr].textContent;
+            return t1.localeCompare(t2, 'de', { ignorePunctuation: true, numeric: true });
+        });
+        if (desc === true) {
+            rowArray.reverse();
+        }
+        for (let i = 0, j = rowArray.length; i < j; i++) {
+            tbody.appendChild(rowArray[i]);
+        }
+    }, false);
+    return true;
+}
+
 function randomTable(table) {
     const firstRow = table.querySelector('tr');
     const th = firstRow.querySelector('th');
-    if (th === undefined) {
-        return;
+    if (th === null) {
+        return false;
     }
     const tmp = th.textContent.match(/^W(\d+)$/);
     if (tmp === null) {
-        return;
+        return false;
     }
     firstRow.classList.add('clickable');
     firstRow.addEventListener('click', function() {
@@ -46,8 +110,10 @@ function randomTable(table) {
         const r = Math.floor(Math.random() * rows.length);
         rows[r].classList.add('selected');
     }, false);
+    return true;
 }
 
+// dice tags
 const dices = document.getElementsByClassName('dice');
 for (const dice of dices) {
     dice.classList.add('btn', 'btn-sm', 'btn-yellow');
@@ -97,7 +163,7 @@ function rollDice(el) {
     }
 }
 
-//search
+// search
 let searchIndex = null;
 let stompWords = null;
 
