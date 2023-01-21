@@ -1,4 +1,4 @@
-var namensgen = {};
+const namensgen = {};
 
 namensgen.generate = function () {
     const w = document.getElementById('type').value;

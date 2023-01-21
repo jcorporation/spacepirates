@@ -1,4 +1,4 @@
-var startunes = {};
+const startunes = {};
 
 startunes.songName = '';
 startunes.songEl = document.getElementById('startunessong');
@@ -11,11 +11,11 @@ for (let i = 0; i < startunes.songButtons.length; i++) {
     }, false);
 }
 
-startunes.audioEl.addEventListener('canplay',function(event) {
+startunes.audioEl.addEventListener('canplay', function() {
     startunes.songEl.textContent = 'Spiele: ' + startunes.songName;
 }, false);
 
-startunes.play=function(link,event) {
+startunes.play = function(link, event) {
     event.preventDefault();
     event.stopPropagation();
     const audioEl = document.createElement('source');

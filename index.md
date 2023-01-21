@@ -21,25 +21,25 @@ SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedre
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="carousel-item text-center active">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite0.jpg">
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite0.jpg"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite1.jpg">
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite1.jpg"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite2.jpg">
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite2.jpg"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite3.jpg">
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite3.jpg"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite4.jpg">
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite4.jpg"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite5.jpg">
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite5.jpg"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite6.jpg">
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite6.jpg"/>
     </div>
   </div>
 

@@ -25,7 +25,7 @@ for (const table of tables) {
         firstRow.title = 'Klick: würfeln';
     }
     else if (sortTable(table) === true) {
-        firstRow.title = 'Klick: sortieren';;
+        firstRow.title = 'Klick: sortieren';
     }
     if (filterTable(table) === true) {
         firstRow.title = firstRow.title += '\nRechts Klick: filtern';
@@ -52,28 +52,33 @@ function filterTable(table) {
     }
     firstRow.addEventListener('contextmenu', function(event) {
         event.preventDefault();
-        const inputEl = event.target.querySelector('input');
-        if (inputEl !== null) {
-            inputEl.remove();
-            showAllRows(table);
-            return;
-        }
-        const firstRow = table.querySelector('tr');
-        const inputs = firstRow.querySelectorAll('input');
-        for (let i = 0, j = inputs.length; i < j; i++) {
-            inputs[i].remove();
-        }
-        showAllRows(table);
-        const input = document.createElement('input');
-        input.placeholder = 'Filtern';
-        input.classList.add('filter-table');
-        event.target.appendChild(input);
-        input.focus();
-        input.addEventListener('keyup', function(ev) {
-            filterRows(ev);
-        }, false);
+        showHideFilter(event);
     }, false);
     return true;
+}
+
+function showHideFilter(event) {
+    const table = getParent(event.target, 'TABLE');
+    const inputEl = event.target.querySelector('input');
+    if (inputEl !== null) {
+        inputEl.remove();
+        showAllRows(table);
+        return;
+    }
+    const firstRow = table.querySelector('tr');
+    const inputs = firstRow.querySelectorAll('input');
+    for (let i = 0, j = inputs.length; i < j; i++) {
+        inputs[i].remove();
+    }
+    showAllRows(table);
+    const input = document.createElement('input');
+    input.placeholder = 'Filtern';
+    input.classList.add('filter-table');
+    event.target.appendChild(input);
+    input.focus();
+    input.addEventListener('keyup', function(ev) {
+        filterRows(ev);
+    }, false);
 }
 
 function showAllRows(table) {
@@ -115,49 +120,53 @@ function sortTable(table) {
     }
     firstRow.classList.add('clickable');
     firstRow.addEventListener('click', function(event) {
-        const firstRow = getParent(event.target, 'TR');
-        const table = getParent(event.target, 'TABLE');
-        const tbody = table.querySelector('tbody');
-        const cols = firstRow.querySelectorAll('th');
-        let colNr;
-        let desc = false;
-        for (let i = 0, j = cols.length; i < j; i++) {
-            if (cols[i] === event.target) {
-                colNr = i;
-                const dataSort = cols[i].getAttribute('data-sort');
-                if (dataSort === null ||
-                    dataSort === 'desc')
-                {
-                    cols[i].setAttribute('data-sort', 'asc');
-                    desc = false;
-                }
-                else {
-                    cols[i].setAttribute('data-sort', 'desc');
-                    desc = true;
-                }
-            }
-            else {
-                cols[i].removeAttribute('data-sort');
-            }
-        }
-        const rowArray = [];
-        const rows = table.querySelector('tbody').rows;
-        for (let i = 0, j = rows.length; i < j; i++) {
-            rowArray.push(rows[i]);
-        }
-        rowArray.sort(function(a, b) {
-            const t1 = a.querySelectorAll('td')[colNr].textContent;
-            const t2 = b.querySelectorAll('td')[colNr].textContent;
-            return t1.localeCompare(t2, 'de', { ignorePunctuation: true, numeric: true });
-        });
-        if (desc === true) {
-            rowArray.reverse();
-        }
-        for (let i = 0, j = rowArray.length; i < j; i++) {
-            tbody.appendChild(rowArray[i]);
-        }
+        sortRows(event);
     }, false);
     return true;
+}
+
+function sortRows(event) {
+    const firstRow = getParent(event.target, 'TR');
+    const table = getParent(event.target, 'TABLE');
+    const tbody = table.querySelector('tbody');
+    const cols = firstRow.querySelectorAll('th');
+    let colNr;
+    let desc = false;
+    for (let i = 0, j = cols.length; i < j; i++) {
+        if (cols[i] === event.target) {
+            colNr = i;
+            const dataSort = cols[i].getAttribute('data-sort');
+            if (dataSort === null ||
+                dataSort === 'desc')
+            {
+                cols[i].setAttribute('data-sort', 'asc');
+                desc = false;
+            }
+            else {
+                cols[i].setAttribute('data-sort', 'desc');
+                desc = true;
+            }
+        }
+        else {
+            cols[i].removeAttribute('data-sort');
+        }
+    }
+    const rowArray = [];
+    const rows = table.querySelector('tbody').rows;
+    for (let i = 0, j = rows.length; i < j; i++) {
+        rowArray.push(rows[i]);
+    }
+    rowArray.sort(function(a, b) {
+        const t1 = a.querySelectorAll('td')[colNr].textContent;
+        const t2 = b.querySelectorAll('td')[colNr].textContent;
+        return t1.localeCompare(t2, 'de', { ignorePunctuation: true, numeric: true });
+    });
+    if (desc === true) {
+        rowArray.reverse();
+    }
+    for (let i = 0, j = rowArray.length; i < j; i++) {
+        tbody.appendChild(rowArray[i]);
+    }
 }
 
 function randomTable(table) {
@@ -298,12 +307,12 @@ if (searchMenu !== null) {
 }
 
 function doSearch(value, resultEl) {
-    if (value.length == 0) {
+    if (value.length === 0) {
         resultEl.textContent = '';
         return;
     }
     // normalize searchstring
-    value = value.toLowerCase().replace(/['`´",;\.\-\?\!\(\)\:\[\]\|\&\/#\{\}]/g, '');
+    value = value.toLowerCase().replace(/['`´",;.-?!():[]|&\/#{}]/g, '');
     value = value.replace(/[üöäßÜÖÄ]/, function(m) {
         switch(m) {
             case 'ü': return 'ue';
@@ -316,12 +325,12 @@ function doSearch(value, resultEl) {
         }
     });
     // remove prefixes
-    let value_old;
+    let valueOld;
     do {
         // replace all prefixes
-        value_old = value;
+        valueOld = value;
         value = value.replace(/^\s*(aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|an|auf|der|die|das|ein|eine|\d+\.?)\s+/, '')
-    } while (value !== value_old)
+    } while (value !== valueOld)
     // stomp searchstring
     const stomp = stompWords[value];
     if (stomp !== undefined) {
@@ -345,7 +354,7 @@ function doSearch(value, resultEl) {
         }
     }
     // sort
-    var keys = Object.keys(matches);
+    const keys = Object.keys(matches);
     const sorted = keys.sort(function(a, b) {
         //primary sort by weight
         if (matches[a] < matches[b]) {

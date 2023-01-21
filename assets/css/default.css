@@ -44,7 +44,7 @@ p {
 }
 
 .card-svg .card-body {
-  max-height: 75vH;
+  max-height: 75vh;
 }
 
 .card-svg img {
@@ -93,7 +93,7 @@ tr.selected td {
   background-color: #fc0 !important;
 }
 
-tbody:not(:last-child) tr:last-child td{
+tbody:not(:last-child) tr:last-child td {
   border-bottom: 1px solid #ffcc00;
 }
 
@@ -115,7 +115,7 @@ main ul {
 
 .page-link:hover,
 .btn-yellow,
-.btn-yellow:hover
+.btn-yellow:hover,
 .btn-yellow.active {
   color: #212529;
   background-color: #ffcc00;
@@ -123,13 +123,13 @@ main ul {
 }
 
 @font-face {
-  font-family: 'Bootstrap Icons';
-  src: url(/assets/bootstrap-icons.woff2) format('woff2');
+  font-family: "Bootstrap Icons";
+  src: url("/assets/bootstrap-icons.woff2") format("woff2");
 }
 
 .mi {
-  font-family: 'Bootstrap Icons';
-  font-size: 1.0rem;
+  font-family: "Bootstrap Icons";
+  font-size: 1rem;
   line-height: 1;
 }
 
@@ -213,10 +213,10 @@ button:focus {
 }
 
 a#totop {
-  display:block;
+  display: block;
   width: 19px;
   height: 12px;
-  background-image: url(/assets/images/totop.png);
+  background-image: url("/assets/images/totop.png");
   text-decoration: none;
   opacity: 0.2;
 }
@@ -259,13 +259,13 @@ figcaption {
 th[data-sort="asc"]::before {
   content: "\F128";
   float: right;
-  font-family: 'Bootstrap Icons';
+  font-family: "Bootstrap Icons";
 }
 
 th[data-sort="desc"]::before {
   content: "\F148";
   float: right;
-  font-family: 'Bootstrap Icons';
+  font-family: "Bootstrap Icons";
 }
 
 input.filter-table {

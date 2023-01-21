@@ -104,7 +104,7 @@ randgen.parser = function(x) {
             if (!w[1]) {
                 w[1] = 1;
             }
-            for (var j = 0; j < w[1]; j++) {
+            for (let j = 0; j < w[1]; j++) {
                 e += 1 + randgen.randNr(w[2]);
             }
             u += e;

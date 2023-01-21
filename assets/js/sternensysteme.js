@@ -17,7 +17,7 @@ galaxygen.generate = function () {
         anzplaneten = randgen.randNr(10) + 1;
         groesse = (randgen.randNr(5) + anzplaneten) * 500;
     }
-    else if (optgroesse == "gross") {
+    else if (optgroesse === "gross") {
         anzplaneten = randgen.randNr(20) + 5;
         groesse = (randgen.randNr(12) + anzplaneten) * 500;
     }
@@ -38,7 +38,7 @@ galaxygen.generate = function () {
         if (bewohnbareplaneten > anzplaneten) { bewohnbareplaneten = anzplaneten; }
         document.getElementById('bewohnbar').textContent = "ja, " + bewohnbareplaneten + " Planeten";
     }
-    else if (optbewohnt == "nein") {
+    else if (optbewohnt === "nein") {
         bewohnbareplaneten = 0;
         document.getElementById('bewohnbar').textContent = "nein";
     }
