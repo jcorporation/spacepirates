@@ -37,7 +37,7 @@ jobs:
           message: Update data files
           push: true
 
-      - name: Check site
+      - name: Check source
         run: .scripts/check.sh
 
       - name: Setup Ruby
@@ -57,7 +57,7 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: install linters
+      - name: Install linters
         run: |
           sudo apt-get install -y npm
           npm install eslint --save-dev
@@ -65,7 +65,7 @@ jobs:
           npm install stylelint-config-standard --save-dev
           npm install htmlhint --save-dev
 
-      - name: lint js css html
+      - name: Lint js css html
         run: .scripts/check-site.sh
 
       - name: Upload artifact
