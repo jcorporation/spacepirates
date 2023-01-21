@@ -256,14 +256,18 @@ figcaption {
   color: #212529;
 }
 
-th[data-sort="asc"]::after {
+th[data-sort="asc"]::before {
   content: "\F128";
   float: right;
   font-family: 'Bootstrap Icons';
 }
 
-th[data-sort="desc"]::after {
+th[data-sort="desc"]::before {
   content: "\F148";
   float: right;
   font-family: 'Bootstrap Icons';
+}
+
+input.filter-table {
+  display: block;
 }

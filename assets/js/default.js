@@ -20,8 +20,15 @@ for (const table of tables) {
         table.parentNode.insertBefore(div, table);
         div.appendChild(table);
     }
-    if (randomTable(table) === false) {
-        sortTable(table);
+    const firstRow = table.querySelector('tr');
+    if (randomTable(table) === true) {
+        firstRow.title = 'Klick: würfeln';
+    }
+    else if (sortTable(table) === true) {
+        firstRow.title = 'Klick: sortieren';;
+    }
+    if (filterTable(table) === true) {
+        firstRow.title = firstRow.title += '\nRechts Klick: filtern';
     }
 }
 
@@ -35,6 +42,69 @@ function getParent(el, parentNodeName) {
         }
     }
     return el;
+}
+
+function filterTable(table) {
+    const firstRow = table.querySelector('tr');
+    const th = firstRow.querySelectorAll('th');
+    if (th.length < 2) {
+        return false;
+    }
+    firstRow.addEventListener('contextmenu', function(event) {
+        event.preventDefault();
+        const inputEl = event.target.querySelector('input');
+        if (inputEl !== null) {
+            inputEl.remove();
+            showAllRows(table);
+            return;
+        }
+        const firstRow = table.querySelector('tr');
+        const inputs = firstRow.querySelectorAll('input');
+        for (let i = 0, j = inputs.length; i < j; i++) {
+            inputs[i].remove();
+        }
+        showAllRows(table);
+        const input = document.createElement('input');
+        input.placeholder = 'Filtern';
+        input.classList.add('filter-table');
+        event.target.appendChild(input);
+        input.focus();
+        input.addEventListener('keyup', function(ev) {
+            filterRows(ev);
+        }, false);
+    }, false);
+    return true;
+}
+
+function showAllRows(table) {
+    const tbody = table.querySelector('tbody');
+    for (let i = 0, j = tbody.rows.length; i < j; i++) {
+        tbody.rows[i].classList.remove('d-none');
+    }
+}
+
+function filterRows(event) {
+    const filter = event.target.value.toLowerCase();
+    const firstRow = getParent(event.target, 'TR');
+    const cell = getParent(event.target, 'TH');
+    const cols = firstRow.querySelectorAll('th');
+    let colNr;
+    for (let i = 0, j = cols.length; i < j; i++) {
+        if (cols[i] === cell) {
+            colNr = i;
+            break;
+        }
+    }
+    const table = getParent(event.target, 'TABLE');
+    const tbody = table.querySelector('tbody');
+    for (let i = 0, j = tbody.rows.length; i < j; i++) {
+        if (tbody.rows[i].cells[colNr].textContent.toLowerCase().indexOf(filter) > -1) {
+            tbody.rows[i].classList.remove('d-none');
+        }
+        else {
+            tbody.rows[i].classList.add('d-none');
+        }
+    }
 }
 
 function sortTable(table) {
@@ -71,7 +141,7 @@ function sortTable(table) {
             }
         }
         const rowArray = [];
-        const rows = table.querySelector('tbody').querySelectorAll('tr');
+        const rows = table.querySelector('tbody').rows;
         for (let i = 0, j = rows.length; i < j; i++) {
             rowArray.push(rows[i]);
         }
