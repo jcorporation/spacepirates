@@ -14,7 +14,7 @@ Ende 2011 habe ich dann mit der Entwicklung von SpacePirates v2 begonnen, um die
 
 Danach wurde es um SpacePirates etwas ruhiger, aber ich war nicht weniger aktiv. Ich nutzte meine Zeit um aus den SpacePirates Regeln generische Regeln abzuleiten, so entstand Lite, das dann Anfang 2015 als Buch erschien. Zur RPC 2015 erschien aber nicht nur Lite, sondern auch 2 Sammelbände für SpacePirates: Ein Sammelband, der die fast ausverkauften Themenhefte und die nie gedruckten SP:Insider zusammenfasst und ein Buch mit 14 SpacePirates Abenteuern. Zur RPC 2016 habe ich dann eine neue Version des Grundregelwerks herausgebracht, das ganz auf den neuen Regeln von Lite beruht und damit SpacePirates noch erzählerischer und einfacher machte als es bereits war.
 
-So, das ist die 8-jährige Geschichte von SpacePirates. Ich danke allen Leuten, die zu SpacePirates beigetragen haben, allen Testspielern, Käufern und Kritikern, aber insbesondere auch bei [Belchion](http://belchion.rsp-blogs.de/), der unermüdliche Lektor und Kritiker, [Ionflux ](http://ionflux.org/de/)für die tollen Bilder der Rassen und Markus für die spacigen Titelbilder.
+So, das ist die 8-jährige Geschichte von SpacePirates. Ich danke allen Leuten, die zu SpacePirates beigetragen haben, allen Testspielern, Käufern und Kritikern, aber insbesondere auch bei [Belchion](http://belchion.rsp-blogs.de/), der unermüdliche Lektor und Kritiker, [Ionflux](http://ionflux.org/de/)für die tollen Bilder der Rassen und Markus für die spacigen Titelbilder.
 
 <table>
 <thead>

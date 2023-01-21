@@ -10,5 +10,3 @@ Die neueste Version der Vorschau auf SpacePirates v5 hat ein neues Cover bekomme
 Wie immer ist Feedback dazu herzlich willkommen.
 
 **[&raquo; SpacePirates V5]({{ site.baseurl }}/Spielregeln/)**
-
-

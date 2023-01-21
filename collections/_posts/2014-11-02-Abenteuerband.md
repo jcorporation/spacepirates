@@ -15,5 +15,3 @@ Die Abenteuer gibt es natürlich auch weiterhin als einzelne PDFs zum Download u
 </li>
 
 Momentan bin ich auch noch auf der Suche nach einem passenden Titelmotiv für den Abenteuerband, wenn du also eine Idee dafür hast, immer her damit. Natürlich ist auch Feedback zu den Abenteuern immer willkommen.
-
-

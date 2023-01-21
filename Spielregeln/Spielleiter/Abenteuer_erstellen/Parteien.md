@@ -11,6 +11,7 @@ In einem Abenteuer gibt es immer verschiedene Parteien mit unterschiedlichen Zie
 Parteien bestehen aus einem oder mehreren Spielleitercharakteren. Dabei hat jede Partei einen Anführer (Hauptcharakter), ein oder zwei wichtige Charaktere und einige Handlanger. Jede Partei bzw. Anführer sollte mit Motivationen und Zielen ausgestattet werden, damit du im Abenteuer anhand dieser auf die Aktionen der Spielercharaktere konsistent reagieren kannst. Aus den Motivationen und Zielen muss sich natürlich ein Konfliktpotenzial ableiten lassen, damit die Spielleitercharaktere und Spielercharaktere auch aufeinanderprallen. Wie unter [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere) beschrieben, solltest du die Werte und Ausrüstung der wichtigen Protagonisten niederschreiben.
 
 {% capture include_body %}
+
 - Welche anderen Parteien sind am Misslingen des Auftrags interessiert?
 - Welche Gegenspieler hat der Auftraggeber oder die Charaktere?
 - Welche andere Gruppe könnte genau derselbe Gegenstand interessieren?
@@ -18,6 +19,7 @@ Parteien bestehen aus einem oder mehreren Spielleitercharakteren. Dabei hat jede
 {% include hinweis.md title="Fragen um Parteien zu bestimmen" body=include_body %}
 
 {% capture include_body %}
+
 - andere Piratengruppe oder die SpaceNinjas
 - ein Konzern, Sekte oder Bande
 - eine Regierung, der Handelsrat oder eine fremde Alienrasse

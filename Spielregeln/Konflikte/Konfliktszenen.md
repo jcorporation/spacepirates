@@ -11,6 +11,7 @@ Eine Konfliktszene umfasst alle Handlungen aller Parteien innerhalb eines Konfli
 Sobald in einer Szene klar ist, wer die einzelnen Parteien sind und was das jeweilige Ziel ist, wird die siegreiche Partei bestimmt. Danach wird gemeinsam beschrieben, wie es genau dazu gekommen ist und dabei auch der Schaden verteilt. Im letzten Schritt werden eventuelle Konsequenzen abgehandelt.
 
 {% capture include_body %}
+
 - Kampf
 - Verfolgungsjagd
 - Wichtiger Handel
@@ -72,6 +73,7 @@ Zeigt der Würfel eine ungerade Zahl, so handelt es sich um einen Misserfolg, ze
 {% include hinweis.md title="Würfel" body=include_body %}
 
 {% capture include_body %}
+
 ##### Die Spieler würfeln:
 
 - Xenur würfelt mit seinem SÖLDNER-Profil (5) und gibt noch einen Piratenwürfel (+2 Würfel) aus, um Chen zu beeindrucken: (1 **2** 5 **6** **8** 9 **0**) = 4 Erfolge
@@ -142,6 +144,7 @@ Nun ist Xenurs Spieler wieder an der Reihe und so geht es weiter, bis alle gewor
 {% include todo.md title="Piratigere Beispiele" %}
 
 {% capture include_body %}
+
 ##### Erfolgswürfel
 
 - In einem Kampf trifft der Charakter den Waffenarm seines Gegners, der dadurch seine Waffe fallen lässt und daher zurückweichen muss und nun am Rand der Klippe steht.

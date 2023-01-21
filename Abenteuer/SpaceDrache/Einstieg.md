@@ -15,4 +15,3 @@ Es gibt zwei Varianten für den Einstieg in dieses Abenteuer:
 
 - **Zurück:** [Hintergrundinformationen]({{ site.baseurl }}/Abenteuer/SpaceDrache/Hintergrund)
 - **Weiter:** [John Marric]({{ site.baseurl }}/Abenteuer/SpaceDrache/John_Marric)
-

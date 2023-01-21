@@ -25,6 +25,7 @@ Damit sich der Spielleiter die Freunde der Charaktere nicht aus den Fingern saug
 Spieler können die Freunde ihrer Charaktere im Abenteuer nahezu jederzeit einbauen, normalerweise allerdings nur als Statisten. Wenn aktiv helfen soll, indem er z.B. wichtige Informationen liefert oder die Charaktere begleitet, kostet das einen Gummipunkt. Wenn der Spielleiter die Freunde ins Spiel bringt, kostet das selbstverständlich keine Gummipunkte.
 
 {% capture include_body %}
+
 - Alte Schulfreunde, haben nur selten Kontakt
 - Ist ein typischer kleiner Chinese und besitzt nur noch wenig Haare
 - Lebt in Kabukicho-Prime und leitet eine Ninja-Akademie des Akamachi-Clans

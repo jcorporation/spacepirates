@@ -25,4 +25,3 @@ Die Piraten erhalten von einem SpaceMafiosi den Auftrag, das große Ninja-Turnie
 ## Wirtschaftsspionage
 
 China Space entwickelt eine neue Tarntechnik, mit der neuchinesische Spione noch einfacher die Geheimnisse des Handelsrats stehlen könnten. Der würde diese Technik entsprechend gerne selbst in die Finger kriegen – lediglich um Abwehrmaßnahmen zu entwickeln, versteht sich. Offiziell lässt sich da aber nichts machen, weshalb der Handelsrat nun inoffiziell auf die Hilfe der SpacePirates zurückgreift. Werden sie bei dem Auftrag geschnappt, weiß der Handelsrat natürlich von nichts, aber der Auftrag ist einfach zu lohnend, um ihn einfach auszuschlagen.
-

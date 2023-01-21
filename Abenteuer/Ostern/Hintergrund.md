@@ -10,4 +10,4 @@ Die Vereinigung zur Förderung von Ostern, kurz-VzFvO, hat Dimensionsforscher en
 
 ***
 
-- ** Weiter:** [Einstieg]({{ site.baseurl }}/Abenteuer/Ostern/Einstieg)
+- **Weiter:** [Einstieg]({{ site.baseurl }}/Abenteuer/Ostern/Einstieg)

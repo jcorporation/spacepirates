@@ -10,6 +10,4 @@ Noch 7 Tage bis zum Abgabeschluss des SpacePirates Abenteuerwettbewerbs und ich 
 
 Idealerweise hat das Abenteuer um die vier A4 Seiten und kann in ein bis zwei Spielabenden durchgespielt werden. Ob es jetzt für abgebrühte Piratenanführer oder für Möchtegernpiraten ist, spielt keine Rolle. Natürlich könnt ihr auf das ganze Material zurückgreifen, das momentan online ist.
 
-	- **Abgabeschluss:** 17.07.2011 23:59:59
-
-
+- **Abgabeschluss:** 17.07.2011 23:59:59

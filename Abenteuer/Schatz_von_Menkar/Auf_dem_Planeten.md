@@ -59,7 +59,7 @@ Natürlich haben auch die Trull das Raumschiff der Charaktere beim Landeanflug e
 
 Das Raumschiff ist ein uralter Trullfrachter (für die Trull ist er natürlich hochmodern). Es ist stark zerstört und der Absturz hat eine große Schneise in den Dschungel gerissen, die gerade erst wieder zuwächst.
 
-Vor dem Raumschiff der Trull ist immer eine Wache stationiert. Die anderen Trull sind dabei das Raumschiff zu reparieren und die Minenarbeiter zu überwachen. 
+Vor dem Raumschiff der Trull ist immer eine Wache stationiert. Die anderen Trull sind dabei das Raumschiff zu reparieren und die Minenarbeiter zu überwachen.
 
 Auch innen ist das Raumschiff stark zerstört, überall sind zerstörte Konsolen und vieles ist nur notdürftig Repariert, aber der Neutritiumreaktor verrichtet noch seinen Dienst.
 

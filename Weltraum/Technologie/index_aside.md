@@ -1,4 +1,5 @@
 {% capture include_body %}
+
 - [Techtalk]({{ site.baseurl }}/Weltraum/Technologie/Techtalk)
 - [Techsprech Tabelle]({{ site.baseurl }}/Zufallstabellen/Techsprech)
 - [Neutritium-, Negatritium-Strahlung]({{ site.baseurl }}/Zufallstabellen/Neutritium-_Negatritium-Strahlung)

@@ -10,5 +10,3 @@ Der dritte SP:Insider SpaceRocker ist nun als PDF verfügbar. Er stellt die beid
 Viel Spaß beim Lesen!
 
 - **SpaceRocker**
-
-

@@ -153,4 +153,3 @@ Die Piraten bekommen von einem berüchtigten Händler ihren ersten Auftrag. Sie 
 Dies ist die Fortsetzung des Zeitraubabenteuers, in dem die Charaktere von Jangba beauftragt werden, Jangba zu berauben.
 
 - [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Zeitraub_II/)
-

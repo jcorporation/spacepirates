@@ -37,4 +37,3 @@ Ein Wurf auf Händler mit mindestens drei Erfolgen sorgt dafür, dass man den Ch
 </td><td>5000 UC</td></tr>
 </tbody>
 </table>
-

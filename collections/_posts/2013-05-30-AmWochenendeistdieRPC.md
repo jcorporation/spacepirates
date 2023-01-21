@@ -11,4 +11,3 @@ permalink: /Aktuelles/2013-05-30-AmWochenendeistdieRPC
 **Ihr findet mich, zusammen mit der Anduin und Ludus Leonis, in Halle 5.2, Gang B, Stand-Nr: 084**<br/>
 <br/>
 Zur RPC gibt es neben dem neuen Stars und Sternchen Themenheft auch exklusiv alle 3 erschienen SP:Insider zum selber falten.</p>
-

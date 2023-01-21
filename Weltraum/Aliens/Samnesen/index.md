@@ -29,6 +29,7 @@ Die Samnesen sind eine sehr wissbegierige Rasse und sehr auf Forschung und Wisse
 Seltsamerweise besitzen sie, trotz ihrer nahezu religiösen Hingabe an die Technik, eine demokratische Regierung. Diese weiß bei den Grenzstreitigkeiten mit dem Trullimperium ihre Wähler hinter sich, weshalb es in den letzten vierhundert Jahren auch keine Bewegung in diesem Konflikt gab. Derzeit kommt es nur vereinzelt zu Gefechten, die Beziehungen zwischen beiden Staaten sind aber eisig. Eine Kleinigkeit könnte ausreichen, um einen neuen Krieg auszulösen.
 
 {% capture include_body %}
+
 - [Sperrzone]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/Sperrzone)
 {% endcapture %}
 {% include sektorinfo.md data='Samara' extra=include_body%}

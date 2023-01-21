@@ -28,6 +28,7 @@ Aliens erhalten nach der Verteilung noch einen zusätzlichen Punkt im, ihrer Ras
 | Wagone | PILOT |
 
 {% capture include_body %}
+
 - 1, 2, 4, 5
 - 1, 3, 3, 5
 - 2, 2, 3, 5

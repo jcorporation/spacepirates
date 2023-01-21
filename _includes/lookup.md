@@ -10,7 +10,7 @@
             {% if phrase == word %}
                 {% assign match = 1 %}
                 {% break %}
-            {% endif %} 
+            {% endif %}
         {% endfor %}
     {% endif %}
     {% if match == 0 %}
@@ -45,6 +45,7 @@
         {% for uri in site.data.index[normalized] %}
             {% assign crumbs = uri[0] | split: '/' %}
             {% assign title = crumbs | join: " › " | remove_first: " › " %}
+            {% assign title = title | replace: "_", " " %}
             <a title="{{ title }}" data-lookup="{{ normalized }}" href="{{ uri[0] }}">{{ include.data }}</a>
             {% break %}
         {% endfor %}
@@ -58,6 +59,7 @@
             {% if page.permalink != uri[0] %}
                 {% assign crumbs = uri[0] | split: '/' %}
                 {% assign title = crumbs | join: " › " | remove_first: " › " %}
+                {% assign title = title | replace: "_", " " %}
                 <li><a title="{{ title }}" href="{{ uri[0] }}">{{ crumbs | last | replace: "_", " " }}</a></li>
             {% endif %}
         {% endfor %}

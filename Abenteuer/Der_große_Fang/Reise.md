@@ -25,5 +25,6 @@ Durch den Flug durch das Lila-Loch schimmert das Piratenschiff dauerhaft in alle
 Die Ninjas schaffen es mit einer 60%igen Wahrscheinlichkeit durch das Lila-Loch.
 
 ***
+
 - **Zurück:** [Beim alten Chinesen]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Chinese)
 - **Weiter:** [Proxima Sigma]({{ site.baseurl }}/Abenteuer/Der_große_Fang/Proxima_Sigma)

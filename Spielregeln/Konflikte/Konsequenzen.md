@@ -26,6 +26,7 @@ Es gibt bei SpacePirates keine Regel, die den Tod eines Charakters herbeiführt.
 {% include todo.md title="Konsequenz Beispiele" %}
 
 {% capture include_body %}
+
 ##### HÄNDLER Konsequenzen
 
 - der Charakter hat einen neuen Feind

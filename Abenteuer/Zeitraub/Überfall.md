@@ -56,7 +56,7 @@ Hier ein paar Möglichkeiten, wie die Piraten den Transport überfallen können,
 ### Auf der Route
 
 - **Platzierung von Minen auf der Route:** Dadurch muss das Transportschiff den FTL-Flug beenden, wird schon etwas beschädigt und kann dann von den Piraten angegriffen und geentert werden. Minen können entweder auf Two-Eyed-Jack eingekauft, oder auch aus Torpedos gebaut werden. Minen verursachen 1W4 Schadenspunkte, die nicht von Schilden aufgehalten werden.
-- **Asteroiden: **Durch Ausgabe eines Piratenpunkts kann auf der Flugroute ein Asteroidengürtel erschaffen werden, durch den das Transportschiff fliegen muss. Hier können die Piraten auf das Transportschiff lauern, da es hier langsam durchmanövrieren muss und die Piraten mit ihrem kleineren Schiff einen taktischen Vorteil besitzen.
+- **Asteroiden:** Durch Ausgabe eines Piratenpunkts kann auf der Flugroute ein Asteroidengürtel erschaffen werden, durch den das Transportschiff fliegen muss. Hier können die Piraten auf das Transportschiff lauern, da es hier langsam durchmanövrieren muss und die Piraten mit ihrem kleineren Schiff einen taktischen Vorteil besitzen.
 - **Vortäuschen einer Panne:** Die Charaktere täuschen auf der geplanten Route des Transportschiffs eine Panne ihres Raumschiffs vor. Wenn das Transportschiff den FTL-Flug verlässt, könnten die Piraten das Transportschiff angreifen oder sich auf das Transportschiff bringen lassen, um dann dort insgeheim oder durch Enterung an die Kiste zu gelangen. Die Panne sollte aber schon realistisch wirken.
 
 ### Vor Javar 3

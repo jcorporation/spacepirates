@@ -9,5 +9,3 @@ permalink: /Aktuelles/2012-01-31-BigBong-Theorie
 <br/>
 Die Teestuben mit den besten und abgefahrendsten Spacedrogen gehören natürlich den dauerberauschten SpaceWorms, die in einem Traum von Tausendundeiner Nacht leben und auf dem Basar stets die besten Preise erzielen. Aber passt auf, dass ihr bei ihrem Versuch, die nächste Bewusstseinsebene zu erreichen, nicht versehentlich in eine andere Dimension fallt&hellip;</p>
 All das könnt ihr jetzt in der vollständigen 1.0 Version des BigBong-Theorie Themenhefts erleben!
-
-

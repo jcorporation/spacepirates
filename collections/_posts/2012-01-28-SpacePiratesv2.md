@@ -20,5 +20,3 @@ Ein besonderes Augenmerk habe ich auf die beiden Abschnitte &bdquo;SpacePirates 
 Komplett neu ist der Abschnitt Abenteuerdesign für SpacePirates, der den Abenteuerverlauf im alten Regelwerk ersetzt. Hier versuche ich zu erklären, wie der geneigte Spielleiter ein typisches SpacePirates Abenteuer kreieren kann, gebe hoffentlich Tipps aus der Praxis und helfe einige typische Fallstricke zu vermeiden.
 
 SpacePirates v2 ist also kein komplett neues Spiel, sondern das Endprodukt aus progressiven Verbesserung, die ich im Laufe der letzten 1,5 Jahre in meine Version von SpacePirates zu spielen eingeflossen sind. Alle Änderungen sind aus praxisnahen Erfahrungen heraus entstanden und absolut keine theoretischen Überlegungen.
-
-

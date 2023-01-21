@@ -9,5 +9,3 @@ permalink: /Aktuelles/2011-12-11-AtlantervsSpaceamazonen
 <br/>
 Trefft auf die kriegerischen Spaceamazonen, die einen uralten Konflikt mit den zurückgezogenen, aber mindestens genauso gefährlichen Atlantern austragen. Wagt euch in ein episches Abenteuer, in dem ihr Atlantis, den verschollenen Planeten der Atlanter, finden könnt. Vorher müsst ihr euch aber mit Spaceamazonen und Rebellen auseinandersetzten, die Karte entschlüsseln und ein uraltes, legendäres Wesen überwinden. Dafür winken euch aber Ruhm, Artefakte und ein noch besserer Platz auf dem Holo-Highscore.</p>
 All das könnt ihr jetzt in der vollständigen 1.0 Version des Atlanter vs Spaceamazonen Themenhefts erleben!
-
-

@@ -37,6 +37,15 @@ jobs:
           message: Update data files
           push: true
 
+      - name: Install linters
+        run: |
+          sudo apt-get install -y npm
+          npm install eslint --save-dev
+          npm install stylelint --save-dev
+          npm install stylelint-config-standard --save-dev
+          npm install htmlhint --save-dev
+          npm install markdownlint-cli --save-dev
+
       - name: Check source
         run: .scripts/check.sh
 
@@ -56,14 +65,6 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-
-      - name: Install linters
-        run: |
-          sudo apt-get install -y npm
-          npm install eslint --save-dev
-          npm install stylelint --save-dev
-          npm install stylelint-config-standard --save-dev
-          npm install htmlhint --save-dev
 
       - name: Lint js css html
         run: .scripts/check-site.sh

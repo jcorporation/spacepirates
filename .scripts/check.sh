@@ -26,6 +26,7 @@ check_title() {
     fi
 }
 
+echo "Checking titles, links and permalinks"
 while read -r F
 do
     [ "$F" = "./README.md" ] && continue
@@ -44,5 +45,11 @@ do
     # check title
     check_title "$F"
 done < <(find ./ -name \*.md)
+
+echo "Checking markdown"
+if ! npx markdownlint-cli "**/*.md"
+then
+    rc=1
+fi
 
 exit $rc

@@ -32,4 +32,3 @@ Kaum ist das Gespenst verschwunden, wird das Raumschiff von 12 SpaceKürbissen a
 
 - **Zurück:** [Hintergrund]({{ site.baseurl }}/Abenteuer/Halloween/Hintergrund)
 - **Weiter:** [Nebel erkunden]({{ site.baseurl }}/Abenteuer/Halloween/Nebel)
-

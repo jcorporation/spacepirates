@@ -10,5 +10,3 @@ Für den SpacePirates Abenteuerband sind jetzt auch die Tipps und Ideen zum Spie
 Im ersten Teil geht es darum, wie man Gegenspieler und Freunde der Charaktere einsetzen kann um Abenteuer persönlicher zu gestalten. Im zweiten Teil gibt es Hinweise, wie man mit erbeuteter Ware und Ausrüstung umgeht.
 
 **Kampagnen mit SpacePirates**
-
-

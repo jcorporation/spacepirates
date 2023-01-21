@@ -22,4 +22,3 @@ Die KI wird natürlich alles in ihrer Macht stehende unternehmen um die Charakte
 
 - **Zurück:** [Auf der Station]({{ site.baseurl }}/Abenteuer/Halloween/Station)
 - **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Halloween/Ende)
-

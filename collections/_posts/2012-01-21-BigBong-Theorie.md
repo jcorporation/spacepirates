@@ -10,5 +10,3 @@ Die Vorschau auf das BigBong-Theorie Themenheft ist nun auf stolze 32 Seiten ang
 ### Buschraub
 
 Die Piraten bekommen von einem Strohmann der SWIP den Auftrag einen extrem seltenen Busch zu besorgen, der auf einem Planeten in einer Sperrzone wächst. Aber es ist natürlich nicht so einfach den Busch zu besorgen und was will das SWIP mit dem Busch? Aber nicht nur die SWIP ist auf der Suche, sondern auch die JCTech IAG.
-
-

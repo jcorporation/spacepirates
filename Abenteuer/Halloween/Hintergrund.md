@@ -10,7 +10,7 @@ Xergul ist einer der wenigen renommierten kahadrischen Wissenschaftler. Sein For
 
 An Halloween aber hat sich die KI der Raumstation selbständig gemacht und alle Bewohner außer ihm getötet. Er wird schon lange Zeit im Labortrakt gefangen gehalten, wie lang genau, weiß er garnicht mehr, da die Zeit innerhalb des Nebels stehen geblieben zu sein scheint und jeder Tag Halloween ist.
 
-Der Halloween-Planet waren früher von ganz normalen Menschen niedrigeren Technologielevels bewohnt, auch der Nebel existierte nicht. Bis die Glukorianer kamen und auf den kleinen Planeten (der zufällig die Form eines Halloween-Kürbisses hatte) in der Nähe ihre Station errichteten. Die Glukorianer haben auch die SpaceKürbisse gebaut um mit ihnen und der gigantischen Nebelmaschine im Inneren des Planeten ein Stück ewiges Halloween zu erschaffen. 
+Der Halloween-Planet waren früher von ganz normalen Menschen niedrigeren Technologielevels bewohnt, auch der Nebel existierte nicht. Bis die Glukorianer kamen und auf den kleinen Planeten (der zufällig die Form eines Halloween-Kürbisses hatte) in der Nähe ihre Station errichteten. Die Glukorianer haben auch die SpaceKürbisse gebaut um mit ihnen und der gigantischen Nebelmaschine im Inneren des Planeten ein Stück ewiges Halloween zu erschaffen.
 
 Durch den Nebel sind die Bewohner des Planeten zu dem mutiert was sie jetzt sind: Geister, Zombies und Vampire. Aber auch die Glukorianer konnten sich von ihrem selbst erschaffenen Nebel nicht schützen und sind selbst zu Geistern geworden, die jetzt ruhelos innerhalb des Nebels spuken.
 

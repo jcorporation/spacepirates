@@ -13,4 +13,3 @@ Zwar verabscheuen die SpaceWorms dreckige Planeten, aber sie kommen trotzdem nic
 Auf den Agrarplaneten bauen die SpaceWorms keineswegs Lebensmittel an, wie man vermuten könnte. Auf den riesigen Feldern dieser mediterranen Planeten werden ausschließlich Rauschmittel angepflanzt, verarbeitet und mittels großer Transportschiffe zu den SpaceWorm-Raumstationen transportiert.
 
 Auf den Planeten arbeiten vornehmlich Menschen, die dort gute Lebensumstände und eine leistungsgerechte Bezahlung vorfinden, auch das mediterrane Klima zieht den ein oder anderen Arbeiter auf die Agrarplaneten der SpaceWorms. Überall auf den Planeten gibt es kleine Arbeitersiedlungen, die sich selbst verwalten und jedem Arbeiter alles bieten, was er zur Entspannung nach einem harten Arbeitstag braucht.
-

@@ -11,7 +11,7 @@ title: Piraten
 
 In SpacePirates gibt es natürlich auch Piraten, sonst wäre der Titel ein klein wenig irreführend. Die Piraten von SpacePirates sind meist in der Nähe der Freihandelszone und der Neutralen Zone unterwegs. Sie führen ein abenteuerliches Leben, besitzen keinen festen Wohnsitz und verbringen den Großteil ihrer Zeit auf ihrem Piratenschiff oder auf zwielichtigen Planeten. Sie haben ihren eigenen Ehrenkodex und versuchen vor allem, Piratenruhm und Geld anzuhäufen. Viele Piraten sind auch schon auf die Suche nach außerirdischen Artefakten gegangen und haben sich unter die Kolonisten neuer Planeten gemischt.
 
-Der ganze Stolz eines Piraten ist sein Piratenschiff. Meist sind es ausgemusterte ältere Schiffe, die aufgemotzt wurden. Sie besitzen häufig ein paar Macken, sind aber immer noch vollends weltraumtauglich und eine Gefahr für jedes normale Handelsschiff. 
+Der ganze Stolz eines Piraten ist sein Piratenschiff. Meist sind es ausgemusterte ältere Schiffe, die aufgemotzt wurden. Sie besitzen häufig ein paar Macken, sind aber immer noch vollends weltraumtauglich und eine Gefahr für jedes normale Handelsschiff.
 
 Die Piratengruppen haben sich aus den versprengten Flotten nach dem großen Sternenkrieg gebildet. Alleingelassen von der Regierung, mit Raumschiffen und Waffen, verdienten sie ihren Lebensunterhalt durch Plünderungen und Überfälle. Wegen der Gründung des Handelsrates und zunehmender Verfolgung mussten sich die Piraten etwas zurückziehen und gründeten geheime Piratentreffpunkte. Auch mussten sie die Plünderungen und großen Überfälle aufgeben und verlegten sich mehr und mehr auf Söldnerdienste, kleinere Überfälle und Intrigen.
 

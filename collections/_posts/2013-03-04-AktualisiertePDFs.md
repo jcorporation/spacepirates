@@ -10,4 +10,3 @@ permalink: /Aktuelles/2013-03-04-AktualisiertePDFs
 Es gibt auch ein [brandneues PDF]({{ site.baseurl }}/Publikationen/), das jetzt die Ausrüstung und Raumschiffe aus dem Grundregelwerk und den Themenheften vereint.<br/>
 <br/>
 **Zu den [Downloads]({{ site.baseurl }}/Publikationen/)**</p>
-

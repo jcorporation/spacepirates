@@ -9,6 +9,7 @@ title: Einfache Konflikte
 Wenn die obige Vorgehensweise für einen Konflikt zu aufwendig erscheint und die Details keine Rolle spielen, kann auch ein einfacher Konflikt ausgeführt werden.
 
 {% capture include_body %}
+
 - das Aufbrechen einer gesicherten Tür
 - das Reparieren eines Raumschiffs
 - die Suche nach nützlichen Informationen im Starnet

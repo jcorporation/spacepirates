@@ -22,5 +22,5 @@ Sobald sich die Charaktere einigermaßen orientiert haben, zieht auch schon ein 
 
 ***
 
-- **Zurück: **[Railroading auf dem Schiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/)
-- **Weiter: **[Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Schatzinsel)
+- **Zurück:**[Railroading auf dem Schiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/)
+- **Weiter:**[Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Schatzinsel)

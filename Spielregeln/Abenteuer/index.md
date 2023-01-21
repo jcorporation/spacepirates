@@ -16,6 +16,7 @@ Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es 
 - [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)
 
 {% capture include_body %}
+
 - ihren Charakter zu spielen, also ihn aktiv handeln zu lassen und mit den anderen Charakteren und Spielleitercharakteren zu interagieren.
 - den Hintergrund des Charakters und seine Merkmale in das Abenteuer einzubringen.
 - zu versuchen das Abenteuer voranzubringen, anstatt nur auf das Geschehen im Abenteuer zu reagieren.
@@ -24,6 +25,7 @@ Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es 
 {% include hinweis.md title="Aufgabe der Spieler ist es …" body=include_body %}
 
 {% capture include_body %}
+
 - das Abenteuer gut vorzubereiten und auf die Charaktere zuzuschneiden.
 - das Abenteuer anziehend und spannend für die Spieler zu gestalten.
 - die Spielleitercharaktere selbständig und intelligent, im Rahmen ihrer Möglichkeiten, agieren und auf die Handlungen der Charaktere reagieren zu lassen.

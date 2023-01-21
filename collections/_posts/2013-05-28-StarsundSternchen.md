@@ -17,5 +17,3 @@ farbiger, celophanierter Umschlag<br/>
 100g Offsetpapier weiß<br/>
 24 Seiten s/w</p>
 **Preis:** 5 &euro; +1 &euro; Versandkosten
-
-

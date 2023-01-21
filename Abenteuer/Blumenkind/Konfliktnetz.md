@@ -12,7 +12,7 @@ title: Konfliktnetz
 
 {% include zoomsvg.md data="/assets/images/abenteuer/blumenkind/cweb-web.svg" %}
 
-[Erklärung eines Konfliktnetzes]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien) 
+[Erklärung eines Konfliktnetzes]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien)
 
 ***
 

@@ -27,4 +27,3 @@ Auf dem Planeten Doradus war der Anbau von Hanf verboten. Findige Hippies konstr
 
 ***
 Dieses Abenteuer basiert auf der SpacePirates-Mission für [Battlemap Heroes](http://ludus-leonis.com/battlemap-heroes/).
-

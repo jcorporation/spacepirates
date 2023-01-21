@@ -12,5 +12,3 @@ Feedback nehme ich natürlich über alle bekannten [Kanäle]({{ site.baseurl }}/
 **[&raquo; zu SpacePirates &ndash; Ahoi Landratten!]({{ site.baseurl }}/Spielregeln/)**
 
 **[&raquo; Vorschau herunterladen]({{ site.baseurl }}/Publikationen/)**
-
-

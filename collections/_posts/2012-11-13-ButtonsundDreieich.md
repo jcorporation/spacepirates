@@ -11,4 +11,3 @@ Pünktlich zur Dreieich-Con am kommenden Wochenende gibt es jetzt auch wieder di
 Am Samstag um 19:00 Uhr biete ich zudem eine Runde SpacePirates an. Wie üblich werde ich spontan entscheiden, was für ein Abenteuer ich leiten werde.
 
 </div>
-

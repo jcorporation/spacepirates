@@ -29,6 +29,7 @@
         {% if link %}
             {% assign crumbs = link | remove_first: "/" | split: '/' %}
             {% assign title = crumbs | join: " › " %}
+            {% assign title = title | replace: "_", " " %}
             <a title="{{ title }}" href="{{ link }}">{{ text }}</a>
         {% else %}
             {{ text }}

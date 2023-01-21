@@ -111,7 +111,9 @@ Jedes technische Artefakt besteht aus drei Worten, Beispiele wären der Molekula
 Einfach einen W30 auf jede der drei Tabellen würfeln.
 
 {% capture include_col1 %}
+
 ### 1. Wort
+
 {% assign nrWoerter = page.sitedata.TechsprechWort1.size %}
 <table>
 <thead>
@@ -128,6 +130,7 @@ Einfach einen W30 auf jede der drei Tabellen würfeln.
 {% endcapture %}
 
 {% capture include_col2 %}
+
 ### 2. Wort
 
 {% assign nrWoerter = page.sitedata.TechsprechWort2.size %}
@@ -146,6 +149,7 @@ Einfach einen W30 auf jede der drei Tabellen würfeln.
 {% endcapture %}
 
 {% capture include_col3 %}
+
 ### 3. Wort
 
 {% assign nrWoerter = page.sitedata.TechsprechWort3.size %}

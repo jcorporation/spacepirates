@@ -9,4 +9,4 @@ Der Sudden Dice Podcast spielt ab und an SpacePirates und veröffentlicht die
 Folgen natürlich auch auf ihrer Seite. Ich habe mich beim Hören immer
 köstlich amüsiert, also hör doch auch einmal rein!
 
-- [Sudden Dice SpacePirates ](https://suddendice.de/gmscreen/podcasts/space-pirates/)
+- [Sudden Dice SpacePirates](https://suddendice.de/gmscreen/podcasts/space-pirates/)

@@ -13,4 +13,3 @@ Die wagonische Prinzessin Lea hat Gerüchte von dem Drachen gehört und ist mit 
 ***
 
 - **Weiter:** [Einstieg]({{ site.baseurl }}/Abenteuer/SpaceDrache/Einstieg)
-

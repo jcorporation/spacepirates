@@ -5,6 +5,7 @@ title: Wagonian Wedding
 ---
 
 # Wagonian Wedding
+
 ## Die royale Hochzeit der Wagonen
 
 Prinzessin Lea, das „Juwel von Xawang“ und Tochter von Kronprinz Wagonion, soll endlich unter die Haube gebracht werden. Eine große Feier ist angekündigt, gekrönte und ungekrönte Häupter aus der gesamten Galaxie sind eingeladen. UBC hat sich die Exklusivrechte gesichert und ihren Starreporter Rupert Sailman-Eggbird mit Assistentin Daisy Klick als Berichterstatter entsandt.
