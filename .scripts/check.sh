@@ -34,6 +34,7 @@ do
     [[ "$F" =~ ^./_site.* ]] && continue
     [[ "$F" =~ .*_aside.md$ ]] && continue
     [[ "$F" =~ ^./collections/.* ]] && continue
+    [[ "$F" =~ ^./node_modules/.* ]] && continue
 
     # check links
     if ! .scripts/check-links.pl "$F"
