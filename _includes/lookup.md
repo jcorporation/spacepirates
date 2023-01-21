@@ -22,7 +22,7 @@
 {% assign normalized = normalized | remove_first: " " %}
 
 {% assign chars = "'`´,;.-?!():[]|&/#{}" | split: "" %}
-{% assign normalized = normalized | remove: char '"' %}
+{% assign normalized = normalized | remove: '"' %}
 {% assign normalized = normalized | replace: 'ö', 'oe' %}
 {% assign normalized = normalized | replace: 'ü', 'ue' %}
 {% assign normalized = normalized | replace: 'ä', 'ae' %}
@@ -30,10 +30,11 @@
 {% assign normalized = normalized | replace: 'Ü', 'ue' %}
 {% assign normalized = normalized | replace: 'Ä', 'ae' %}
 {% assign normalized = normalized | replace: 'ß', 'ss' %}
-{% assign normalized = normalized | replace: '&', 'und' %}
 {% for char in chars %}
     {% assign normalized = normalized | remove: char %}
 {% endfor %}
+{% assign normalized = normalized | replace: '   ', ' ' %}
+{% assign normalized = normalized | replace: '  ', ' ' %}
 
 {% if site.data.index_stompkeys[normalized] %}
     {% assign normalized = site.data.index_stompkeys[normalized] %}
@@ -44,11 +45,11 @@
         {% for uri in site.data.index[normalized] %}
             {% assign crumbs = uri[0] | split: '/' %}
             {% assign title = crumbs | join: " › " | remove_first: " › " %}
-            <a title="{{ title }}" href="{{ uri[0] }}">{{ include.data }}</a>
+            <a title="{{ title }}" data-lookup="{{ normalized }}" href="{{ uri[0] }}">{{ include.data }}</a>
             {% break %}
         {% endfor %}
     {% else %}
-        {{ include.data }}
+        <span data-lookup="{{ normalized }}">{{ include.data }}</span>
     {% endif %}
 {% else %}
     <ul data-lookup="{{ normalized }}">

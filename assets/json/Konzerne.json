@@ -176,7 +176,7 @@
     "Niederlassungen": "",
     "Link": "/Weltraum/Konzerne/Rabbit_Inc"
   },
-  "Raumschiff_und_Co_": {
+  "Raumschiff_und_Co": {
     "Name": "Raumschiff & Co.",
     "Besitzer": "Interstellarer Finanzinvestor Mind Group",
     "Geschaeftsfuehrer": "",
@@ -186,7 +186,7 @@
       "Kozel 5",
       "Stratum Nova"
     ],
-    "Link": "/Weltraum/Konzerne/Raumschiff_und_Co_"
+    "Link": "/Weltraum/Konzerne/Raumschiff_und_Co"
   },
   "S_I_E__Robotermanufaktur": {
     "Name": "S.I.E. Robotermanufaktur",

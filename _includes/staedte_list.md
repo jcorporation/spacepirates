@@ -6,4 +6,4 @@
         <li>{% include printlink.md data=Name link=Link %}</li>
     {% endif %}
 {% endfor %}
-</li>
+</ul>

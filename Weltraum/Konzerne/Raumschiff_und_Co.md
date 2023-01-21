@@ -1,10 +1,10 @@
 ---
 layout: konzern
-permalink: /Weltraum/Konzerne/Raumschiff_und_Co_
+permalink: /Weltraum/Konzerne/Raumschiff_und_Co
 title: Raumschiff & Co.
 sitedata:
     Konzerne:
-        Raumschiff_und_Co_:
+        Raumschiff_und_Co:
             Name: "Raumschiff & Co."
             Besitzer: "Interstellarer Finanzinvestor Mind Group"
             Geschaeftsfuehrer: ""

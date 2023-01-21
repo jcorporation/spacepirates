@@ -3159,7 +3159,7 @@
   "finanzinvestor": {
     "/Weltraum/Konzerne/Mind_Group": 11,
     "/Weltraum/Konzerne/Yellow_Stone_Group": 11,
-    "/Weltraum/Konzerne/Raumschiff_und_Co_": 1
+    "/Weltraum/Konzerne/Raumschiff_und_Co": 1
   },
   "finden": {
     "/Abenteuer/Buschraub/Nova_Ceti": 26,
@@ -6722,7 +6722,7 @@
   },
   "mind group": {
     "/Weltraum/Konzerne/Mind_Group": 276,
-    "/Weltraum/Konzerne/Raumschiff_und_Co_": 1
+    "/Weltraum/Konzerne/Raumschiff_und_Co": 1
   },
   "ming": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/": 151
@@ -8554,7 +8554,7 @@
     "/Weltraum/Konzerne/Captain_Rogers": 1,
     "/Weltraum/Konzerne/Fedspex": 1,
     "/Weltraum/Konzerne/Omatic_Enterprise": 1,
-    "/Weltraum/Konzerne/Raumschiff_und_Co_": 1,
+    "/Weltraum/Konzerne/Raumschiff_und_Co": 1,
     "/Weltraum/Konzerne/Trullisch_Ost-Galaktische_Compagnie": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 1,
@@ -8959,7 +8959,7 @@
     "/Weltraum/Technologie/Starnet-Sendungen": 26
   },
   "raumfahrtkonzern": {
-    "/Weltraum/Konzerne/Raumschiff_und_Co_": 10,
+    "/Weltraum/Konzerne/Raumschiff_und_Co": 10,
     "/Weltraum/Konzerne/SpaceResearch": 10
   },
   "raumfkaempfe": {
@@ -9002,7 +9002,7 @@
     "/Weltraum/Technologie/Raumschiffe": 128,
     "/Zufallstabellen/Raumschiffe": 127,
     "/Spielregeln/Raumschiffe/": 126,
-    "/Weltraum/Konzerne/Raumschiff_und_Co_": 78,
+    "/Weltraum/Konzerne/Raumschiff_und_Co": 78,
     "/Spielregeln/Raumschiffe/Macken": 77,
     "/Spielregeln/Raumschiffe/Wartung": 76,
     "/Weltraum/Technologie/": 36,
@@ -9061,7 +9061,7 @@
     "/Abenteuer/Blumenkind/": 1
   },
   "raumschiff co": {
-    "/Weltraum/Konzerne/Raumschiff_und_Co_": 276,
+    "/Weltraum/Konzerne/Raumschiff_und_Co": 276,
     "/Weltraum/Menschen/Föderation/Sisbert": 2,
     "/Weltraum/Konzerne/Mind_Group": 1
   },
@@ -10489,7 +10489,7 @@
   },
   "sisbert": {
     "/Weltraum/Menschen/Föderation/Sisbert": 276,
-    "/Weltraum/Konzerne/Raumschiff_und_Co_": 11
+    "/Weltraum/Konzerne/Raumschiff_und_Co": 11
   },
   "sishabar": {
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 25

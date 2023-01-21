@@ -1,6 +1,6 @@
 {%if include.link %}
     {% assign crumbs = include.link | remove_first: "/" | split: '/' %}
-    {% assign title = crumbs | join: " › " %}   
+    {% assign title = crumbs | join: " › " %}
     {% if include.data[1] %}
         {% assign text = include.data | join: ", " %}
     {% else %}
@@ -10,7 +10,8 @@
 {% elsif include.type %}
     {% for text in include.data %}
         {% assign key = text | replace: ' ', '_' %}
-        {% assign key = key | remove: char '"' %}
+        {% assign key = key | remove: '.' %}
+        {% assign key = key | remove: '"' %}
         {% assign key = key | replace: 'ö', 'oe' %}
         {% assign key = key | replace: 'ü', 'ue' %}
         {% assign key = key | replace: 'ä', 'ae' %}
