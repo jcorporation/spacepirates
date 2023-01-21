@@ -47,7 +47,7 @@ do
 done < <(find ./ -name \*.md)
 
 echo "Checking markdown"
-if ! npx markdownlint-cli -i "./node_modules/" "**/*.md"
+if ! npx markdownlint-cli -i "node_modules/**" "**/*.md"
 then
     rc=1
 fi
