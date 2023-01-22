@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff
+permalink: /Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff
 title: Das alte Bandraumschiff
+order: 05
 ---
 
 # Das alte Bandraumschiff
@@ -48,5 +49,5 @@ Das Raumschiff ist natürlich am meisten wert, aber richtige Fans lassen für fo
 
 ***
 
-- **Zurück:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende)
+- **Zurück:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation)
+- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende)

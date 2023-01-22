@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie
+permalink: /Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie
 title: Trauerzeremonie
+order: 02
 ---
 
 # Trauerzeremonie
@@ -38,5 +39,5 @@ Die SpaceAngels werden den Charakteren auflauern, um die goldene Schallplatte zu
 
 ***
 
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg)
-- **Weiter:** [Auf Scrabnambu]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu)
+- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg)
+- **Weiter:** [Auf Scrabnambu]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu)

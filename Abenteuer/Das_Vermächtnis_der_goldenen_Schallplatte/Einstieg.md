@@ -1,7 +1,8 @@
 ---
 layout: aside
-permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg
+permalink: /Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg
 title: Einstieg
+order: 01
 ---
 
 # Einstieg
@@ -66,4 +67,4 @@ Innerhalb des Kartons liegt ein Standardschreiben der wagonischen Anwaltskanzlei
 
 ***
 
-- **Weiter:** [Trauerzeremonie]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie)
+- **Weiter:** [Trauerzeremonie]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie)

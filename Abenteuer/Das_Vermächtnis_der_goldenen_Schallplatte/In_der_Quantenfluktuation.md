@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation
+permalink: /Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation
 title: In der Quantenfluktuation
+order: 04
 ---
 
 # In der Quantenfluktuation
@@ -71,5 +72,5 @@ Ein glukorianisches Forschungsschiff hält sich illegal in der Quantenfluktuatio
 
 ***
 
-- **Zurück:** [Auf Scrabnambu]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu)
-- **Weiter:** [Das alte Bandraumschiff]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff)
+- **Zurück:** [Auf Scrabnambu]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu)
+- **Weiter:** [Das alte Bandraumschiff]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff)

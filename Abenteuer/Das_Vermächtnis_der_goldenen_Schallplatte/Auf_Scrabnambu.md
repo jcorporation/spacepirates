@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu
+permalink: /Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu
 title: Auf Scrabnambu
+order: 03
 ---
 
 # Auf Scrabnambu
@@ -33,5 +34,5 @@ Die Geister der Crashing Meteorits können nicht mit, Quantenfluktuationen lasse
 
 ***
 
-- **Zurück:** [Trauerzeremonie]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie)
-- **Weiter:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation)
+- **Zurück:** [Trauerzeremonie]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie)
+- **Weiter:** [In der Quantenfluktuation]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation)

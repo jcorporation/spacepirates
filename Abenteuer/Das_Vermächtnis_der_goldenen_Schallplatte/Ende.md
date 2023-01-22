@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende
+permalink: /Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende
 title: Ende
+order: 06
 ---
 
 # Ende
@@ -18,4 +19,4 @@ Danach gilt es dem Wunsch der Geister der Crashing Meteorits nachzukommen und di
 
 ***
 
-- **Zurück:** [Das alte Bandraumschiff]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff)
+- **Zurück:** [Das alte Bandraumschiff]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff)
