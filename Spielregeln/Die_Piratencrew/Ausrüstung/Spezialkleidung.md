@@ -1,14 +1,12 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung
+permalink: /Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung
 title: Kleidung
 ---
 
-# Kleidung
+# Spezialkleidung
 
 Hier sind nur wirklich nützliche Kleidungsstücke aufgeführt, wie bereits gesagt muss keine alltägliche Kleidung und auch das Piratenballkleid nicht gekauft werden.
-
-## Spezialkleidung
 
 | Kleidung | Bonus | Kosten |
 | -------- | :---: | -----: |

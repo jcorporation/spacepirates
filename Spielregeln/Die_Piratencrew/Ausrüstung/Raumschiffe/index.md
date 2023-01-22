@@ -30,7 +30,7 @@ Das Raumschiff sollte zumindest mit folgenden Dingen ausgestattet sein:
 - Einen FTL-Antrieb, sonst können die Piraten nur auf einer Raumstation abhängen.
 - Zumindest kleine Schilde.
 - Sensoren, Standardsensoren reichen meist aus.
-- Pro gutem Söldner eine Waffe. Besser nur eine Waffe mit hohem Schadensmodifikator als zwei Waffen mit einem niedrigen.
+- Pro gutem Söldner eine Waffe.
 - Eine Enterschleuse ist sehr praktisch, sonst benötigt man zum Entern Raumanzüge.
 {% endcapture %}
 {% include hinweis.md title="Tipps zum Kauf eines Raumschiffs" body=include_body %}
