@@ -10,9 +10,23 @@ randgen.generate = function(target) {
     for (let i = 0; i < count; i++) {
         const item = document.createElement('div');
         item.classList.add('list-group-item');
-        item.innerHTML = randgen.parser(randgen.randTable(tabellen[table]));
+        while (item.innerHTML === '' ||
+               randgen.isDuplicate(out, item) === true)
+        {
+            item.innerHTML = randgen.parser(randgen.randTable(tabellen[table]));
+        }
         out.appendChild(item);
     }
+}
+
+randgen.isDuplicate = function(out, item) {
+    const existing = out.querySelectorAll('.list-group-item');
+    for (let i = 0, j = existing.length; i < j; i++) {
+        if (existing[i].innerHTML === item.innerHTML) {
+            return true;
+        }
+    }
+    return false;
 }
 
 randgen.init = function() {
