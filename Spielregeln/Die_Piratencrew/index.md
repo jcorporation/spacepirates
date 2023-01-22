@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/
 title: Die Piratencrew
+order: /010
 ---
 
 # Die Piratencrew

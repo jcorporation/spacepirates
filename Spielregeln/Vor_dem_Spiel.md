@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Vor_dem_Spiel
 title: Vor dem Spiel
+order: /003
 ---
 
 # Vor dem Spiel

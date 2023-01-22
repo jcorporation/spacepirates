@@ -2,6 +2,7 @@
 layout: aside
 permalink: /Spielregeln/Spielmaterial
 title: Was wird alles zum Spielen benötigt?
+order: /001
 ---
 
 # Was wird alles zum Spielen benötigt?

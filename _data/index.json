@@ -25,7 +25,6 @@
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 80,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 78,
     "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 77,
-    "/Spielregeln/Was_ist_SpacePirates": 32,
     "/Spielregeln/": 31,
     "/Spielregeln/Vor_dem_Spiel": 27,
     "/Zufallstabellen/": 25,
@@ -85,14 +84,14 @@
     "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Abenteuer/": 1,
     "/Abenteuer/Blumenkind/Blumenkind": 1,
     "/Abenteuer/Halloween/Zentrum": 1,
     "/Abenteuer/SpaceDrache/Ende": 1,
     "/Abenteuer/Zeitraub_II/Javar_3": 1,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 1,
-    "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 1
+    "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 1,
+    "/Spielregeln/Spielleiter/Kampagnen/Beute": 1
   },
   "aber": {
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 10,
@@ -163,8 +162,8 @@
     "/Abenteuer/Buschraub/Eris": 2,
     "/Abenteuer/Buschraub/JCTech_IAG": 2,
     "/Abenteuer/Buschraub/Nachforschungen": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 2,
     "/Abenteuer/Der_große_Fang/Danach": 2,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 2,
@@ -193,6 +192,7 @@
     "/Abenteuer/Weihnachten/Treffpunkt": 2,
     "/Abenteuer/Weihnachten_II/Einstieg": 2,
     "/Abenteuer/Zeitraub_II/Auftragserteilung": 2,
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 2,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
@@ -235,8 +235,8 @@
     "/Abenteuer/Buschraub/Einstieg": 1,
     "/Abenteuer/Buschraub/Ende": 1,
     "/Abenteuer/Buschraub/Syoner": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Der_große_Fang/Chinese": 1,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 1,
     "/Abenteuer/Der_große_Fang/Reise": 1,
@@ -286,15 +286,14 @@
     "/Abenteuer/Zeitraub/Übersicht": 1,
     "/Abenteuer/Zeitraub_II/Ereignisse": 1,
     "/Abenteuer/Zeitraub_II/Reise": 1,
+    "/Ideenhalde/Bewohner/Glos": 1,
+    "/Ideenhalde/Bewohner/Haustiere": 1,
+    "/Ideenhalde/Weltraumphänomene": 1,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren": 1,
-    "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 1,
-    "/Spielregeln/Die_Piratencrew/Charaktere": 1,
-    "/Spielregeln/Konflikte/": 1,
-    "/Spielregeln/Raumschiffe/Raumflüge": 1
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren": 1
   },
   "ablauf": {
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 75,
@@ -324,7 +323,7 @@
     "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 1
   },
   "abspielen der schallplatte": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 26
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 26
   },
   "abuxabi": {
     "/Weltraum/Aliens/SpaceWorms/AbuXabi/": 286,
@@ -439,6 +438,9 @@
   "alice": {
     "/Abenteuer/Blumenkind/SpaceHippies": 27
   },
+  "alienhaustiere": {
+    "/Ideenhalde/Bewohner/Haustiere": 25
+  },
   "aliens": {
     "/Weltraum/Aliens/": 132,
     "/Weltraum/": 25,
@@ -461,27 +463,27 @@
     "/Weltraum/Neutrale_Zone/Scrabnambu": 2,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 2,
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "alles gut": {
     "/Abenteuer/Zeitraub/Ende": 25,
     "/Abenteuer/Der_große_Fang/Reise": 1
   },
   "alte": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 77,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 77,
     "/Abenteuer/Der_große_Fang/Chinese": 77,
     "/Abenteuer/Ideen/SpaceNinjas": 25,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 5,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 3,
     "/Abenteuer/Halloween/Vampir-Planet": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
     "/Abenteuer/Der_große_Fang/Reise": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 2,
     "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 2,
     "/Abenteuer/Schatzjagd/Einstieg": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/": 2,
     "/Abenteuer/Blumenkind/Doradus": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1,
     "/Abenteuer/Der_große_Fang/": 1,
     "/Abenteuer/Der_große_Fang/Einstieg": 1,
     "/Abenteuer/Der_große_Fang/SpaceNinjas": 1,
@@ -490,9 +492,9 @@
     "/Abenteuer/Halloween/Station": 1
   },
   "alte bandraumschiff": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 75,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 75,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1
   },
   "alxambra": {
     "/Weltraum/Aliens/SpaceWorms/AlXambra/": 285,
@@ -527,7 +529,7 @@
     "/Weltraum/Weltraumtiere": 2,
     "/Abenteuer/": 1,
     "/Abenteuer/Buschraub/JCTech_IAG": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Nebel": 1,
@@ -630,7 +632,7 @@
   },
   "anwaltskanzlei": {
     "/Weltraum/Konzerne/Drojar_und_Partner": 11,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "anzapfen": {
     "/Abenteuer/Neutritiumklau/Pipeline": 76,
@@ -639,6 +641,11 @@
   },
   "anzapfen der neutritiumpipeline": {
     "/Abenteuer/Neutritiumklau/Pipeline": 125
+  },
+  "aquarianer": {
+    "/Ideenhalde/Bewohner/Aquarianer": 126,
+    "/Ideenhalde/Bewohner/": 1,
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 1
   },
   "arena": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 25,
@@ -804,7 +811,7 @@
     "/Weltraum/SpaceNinjas/Clans/": 4,
     "/Abenteuer/Buschraub/Bahir": 3,
     "/Abenteuer/Buschraub/JCTech_IAG": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 3,
     "/Abenteuer/Die_Eisgalaxis/": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Nebel": 3,
@@ -856,8 +863,8 @@
     "/Abenteuer/Buschraub/Einstieg": 2,
     "/Abenteuer/Buschraub/Nachforschungen": 2,
     "/Abenteuer/Buschraub/Nova_Ceti": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Abenteuer/Der_große_Fang/Portal": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung": 2,
@@ -894,15 +901,16 @@
     "/Abenteuer/Weihnachten_II/Santa_24": 2,
     "/Abenteuer/Zeitraub/Bauteil": 2,
     "/Abenteuer/Zeitraub/Nachforschungen": 2,
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 2,
     "/Spielregeln/Abenteuer/": 2,
     "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 2,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 2,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
     "/Spielregeln/Die_Piratencrew/Übersicht": 2,
     "/Spielregeln/Konflikte/Einfache_Konflikte": 2,
@@ -956,8 +964,7 @@
     "/Abenteuer/Blumenkind/SWIP": 1,
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Ende": 1,
-    "/Abenteuer/Buschraub/SWIP": 1,
-    "/Abenteuer/Buschraub/Sperrzone": 1
+    "/Abenteuer/Buschraub/SWIP": 1
   },
   "aufgefangen": {
     "/Abenteuer/Raumschiffdungeon/Sektoren/Drache": 1,
@@ -1058,6 +1065,10 @@
     "/Abenteuer/Weihnachten/Auftrag": 1,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 1
   },
+  "auratus": {
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 76,
+    "/Ideenhalde/Bewohner/Aquarianer": 1
+  },
   "ausnahmefehler": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2
   },
@@ -1076,7 +1087,6 @@
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
     "/Spielregeln/Spielleiter/Kampagnen/": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1,
     "/Abenteuer/Zeitraub/Nachforschungen": 1,
     "/Abenteuer/Zeitraub/Überfall": 1,
@@ -1085,7 +1095,8 @@
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 1,
     "/Spielregeln/Spielleiter/Kampagnen/Beute": 1,
     "/Weltraum/Aliens/Trull/": 1,
-    "/Weltraum/Händler_und_Halunken": 1
+    "/Weltraum/Händler_und_Halunken": 1,
+    "/Weltraum/Konzerne/Hired_Guns": 1
   },
   "ausruestung kaufen": {
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 25,
@@ -1206,27 +1217,27 @@
   },
   "banditos": {
     "/Weltraum/SpaceRocker/Baneros_Banditos/": 78,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 3,
     "/Weltraum/Weltraumphänomene/BadPlanets": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "bandraumschiff": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 79,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 79,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1
   },
   "baneros": {
     "/Weltraum/SpaceRocker/Baneros_Banditos/": 78,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 3,
     "/Weltraum/Weltraumphänomene/BadPlanets": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "baneros banditos": {
     "/Weltraum/SpaceRocker/Baneros_Banditos/": 277,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 3,
     "/Weltraum/Weltraumphänomene/BadPlanets": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "bang": {
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 26,
@@ -1373,7 +1384,7 @@
     "/Weltraum/Händler_und_Halunken": 2,
     "/Weltraum/Technologie/": 2,
     "/Weltraum/Technologie/Starnet": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 1,
@@ -1440,7 +1451,7 @@
     "/Abenteuer/Halloween/Station": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
   },
   "berechnet": {
     "/Abenteuer/Laborratten/Lösung": 1,
@@ -1522,6 +1533,14 @@
     "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 25,
     "/Abenteuer/Halloween/Xergul": 1
   },
+  "bewohner": {
+    "/Ideenhalde/Bewohner/": 126,
+    "/Ideenhalde/Bewohner/Aquarianer": 25,
+    "/Weltraum/Sektoren/E1/Epsilon_Canabis": 3,
+    "/Abenteuer/Halloween/Hintergrund": 2,
+    "/Weltraum/Aliens/Wagonen/Terra_20CAD": 2,
+    "/Abenteuer/Blumenkind/": 1
+  },
   "beziehungen": {
     "/Weltraum/Aliens/Raptorianer/": 25,
     "/Weltraum/Händler_und_Halunken": 2,
@@ -1563,7 +1582,7 @@
     "/Abenteuer/Buschraub/Nachforschungen": 2,
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 2,
     "/Abenteuer/Blumenkind/SpaceHippies": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
     "/Weltraum/Aliens/SpaceWorms/": 1,
     "/Weltraum/Aliens/SpaceWorms/BigBong/SWIP": 1,
     "/Weltraum/Aliens/SpaceWorms/Raumstationen": 1
@@ -1613,6 +1632,14 @@
     "/Weltraum/Technologie/Starnet": 1,
     "/Zufallstabellen/Fehlfunktionen_von_Geräten": 1
   },
+  "blitz": {
+    "/Ideenhalde/Weltraumphänomene": 26,
+    "/Abenteuer/Buschraub/Sperrzone": 1,
+    "/Abenteuer/Halloween/Vampir-Planet": 1
+  },
+  "bloobs": {
+    "/Ideenhalde/Bewohner/Haustiere": 26
+  },
   "blue rai": {
     "/Weltraum/Händler_und_Halunken": 177
   },
@@ -1660,7 +1687,7 @@
     "/Weltraum/Zurückgebliebene_Planeten": 1
   },
   "brennen": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
     "/Abenteuer/Neutritiumklau/Pipeline": 1,
     "/Weltraum/Technologie/Techtalk": 1
   },
@@ -1715,12 +1742,6 @@
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 1,
     "/Weltraum/Konzerne/Better_Than_Broadcast": 1
   },
-  "buch": {
-    "/Spielregeln/Was_ist_SpacePirates": 26,
-    "/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung": 5,
-    "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 3,
-    "/Spielregeln/Vor_dem_Spiel": 1
-  },
   "buchs": {
     "/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung": 25
   },
@@ -1749,13 +1770,13 @@
   },
   "burial": {
     "/Weltraum/Aliens/Wagonen/Burial_Planet": 76,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "burial planet": {
     "/Weltraum/Aliens/Wagonen/Burial_Planet": 275,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "busch": {
     "/Abenteuer/Buschraub/Nova_Ceti": 28,
@@ -1810,6 +1831,14 @@
   "carotin": {
     "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 26
   },
+  "carrassius": {
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 76,
+    "/Ideenhalde/Bewohner/Aquarianer": 1
+  },
+  "carrassius auratus": {
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 126,
+    "/Ideenhalde/Bewohner/Aquarianer": 1
+  },
   "cecily blazerpolo": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 175,
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
@@ -1838,7 +1867,6 @@
     "/Spielregeln/Die_Piratencrew/Charaktere": 80,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 76,
     "/Abenteuer/Blumenkind/Woodstock": 52,
-    "/Spielregeln/Was_ist_SpacePirates": 33,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 31,
     "/Spielregeln/Vor_dem_Spiel": 28,
     "/Spielregeln/Konflikte/Konfliktszenen": 14,
@@ -1849,8 +1877,8 @@
     "/Abenteuer/": 6,
     "/Abenteuer/Laborratten/Railroading/Hafen": 6,
     "/Spielregeln/Abenteuer/": 6,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 5,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 5,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 5,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 5,
     "/Abenteuer/Halloween/Vampir-Planet": 5,
     "/Abenteuer/Laborratten/Railroading/Schatzinsel": 5,
@@ -1858,7 +1886,7 @@
     "/Abenteuer/Zeitraub/Auftrag": 5,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 5,
     "/Abenteuer/Blumenkind/Einstieg": 4,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 4,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 4,
     "/Abenteuer/Halloween/Station": 4,
     "/Abenteuer/Laborratten/Einstieg": 4,
     "/Abenteuer/Laborratten/Railroading/Sturm": 4,
@@ -1868,8 +1896,8 @@
     "/Spielregeln/Konflikte/Konsequenzen": 4,
     "/Abenteuer/Blumenkind/Blumenkind": 3,
     "/Abenteuer/Buschraub/Eris": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 3,
     "/Abenteuer/Ideen/Aufträge_auf_der_Mimen-Mission": 3,
     "/Abenteuer/Laborratten/Dahinter": 3,
     "/Abenteuer/Laborratten/Lösung": 3,
@@ -2124,6 +2152,14 @@
   "den spaceworms": {
     "/Weltraum/Aliens/SpaceWorms/": 25
   },
+  "denta": {
+    "/Ideenhalde/Orte/Denta_4": 77,
+    "/Ideenhalde/Orte/": 1
+  },
+  "denta 4": {
+    "/Ideenhalde/Orte/Denta_4": 127,
+    "/Ideenhalde/Orte/": 1
+  },
   "deprimiert": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11,
     "/Weltraum/Technologie/": 1
@@ -2151,7 +2187,6 @@
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 1
   },
   "dieses": {
-    "/Spielregeln/Was_ist_SpacePirates": 26,
     "/Abenteuer/": 4,
     "/Abenteuer/Dungeonplanet/Ebene1": 4,
     "/Abenteuer/Blumenkind/Blumenkind": 2,
@@ -2170,10 +2205,8 @@
     "/Abenteuer/Blumenkind/Woodstock": 1,
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Sperrzone": 1,
-    "/Abenteuer/Der_große_Fang/": 1
-  },
-  "dieses buch": {
-    "/Spielregeln/Was_ist_SpacePirates": 26
+    "/Abenteuer/Der_große_Fang/": 1,
+    "/Abenteuer/Die_Eisgalaxis/": 1
   },
   "dimension": {
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 25,
@@ -2197,7 +2230,7 @@
   "dinge": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 2,
     "/Abenteuer/Blumenkind/Woodstock": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "dino": {
     "/Weltraum/Aliens/Raptorianer/Dino_Burger": 76,
@@ -2238,11 +2271,11 @@
   "diverses": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Diverses": 125,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 25,
-    "/Spielregeln/Die_Piratencrew/": 1
+    "/Spielregeln/": 1
   },
   "dizalo": {
     "/Weltraum/Händler_und_Halunken": 28,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1
   },
   "doc": {
@@ -2305,7 +2338,7 @@
   "download": {
     "/Abenteuer/Blumenkind/": 25,
     "/Abenteuer/Buschraub/": 25,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 25,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 25,
     "/Abenteuer/Der_große_Fang/": 25,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 25,
     "/Abenteuer/Dungeonplanet/": 25,
@@ -2381,11 +2414,11 @@
   },
   "drojar": {
     "/Weltraum/Konzerne/Drojar_und_Partner": 77,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "drojar und partner": {
     "/Weltraum/Konzerne/Drojar_und_Partner": 276,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "dschungelplanet": {
     "/Weltraum/Technologie/Starnet-Sendungen": 26,
@@ -2420,6 +2453,9 @@
     "/Abenteuer/Dungeonplanet/": 126,
     "/Abenteuer/": 26,
     "/Weltraum/Sektoren/D0/DU-3864366": 1
+  },
+  "dunkler materie sturm": {
+    "/Ideenhalde/Weltraumphänomene": 25
   },
   "durchfuehren": {
     "/Abenteuer/Ideen/SpaceNinjas": 1
@@ -2499,14 +2535,14 @@
   },
   "eigene": {
     "/Abenteuer/Blumenkind/SpaceHippies": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
     "/Abenteuer/Ostern/Lösung": 1
   },
   "eigenen": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 2,
     "/Abenteuer/Dungeonplanet/Einstieg": 2,
     "/Weltraum/Weltraumphänomene/Raumzeitverschiebung": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
   },
   "eigenschaft einer ki": {
     "/Zufallstabellen/KI-Eigenschaften": 25
@@ -2592,7 +2628,7 @@
     "/Abenteuer/SpaceDrache/Einstieg": 126,
     "/Abenteuer/Blumenkind/Einstieg": 125,
     "/Abenteuer/Buschraub/Einstieg": 125,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 125,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 125,
     "/Abenteuer/Der_große_Fang/Einstieg": 125,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 125,
     "/Abenteuer/Dungeonplanet/Einstieg": 125,
@@ -2612,7 +2648,7 @@
   },
   "eintreffen": {
     "/Abenteuer/Blumenkind/Woodstock": 50,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 1
   },
   "eisgalaxis": {
@@ -2659,7 +2695,7 @@
   "ende": {
     "/Abenteuer/SpaceDrache/Ende": 126,
     "/Abenteuer/Buschraub/Ende": 125,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 125,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 125,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 125,
     "/Abenteuer/Halloween/Ende": 125,
     "/Abenteuer/Schatz_von_Menkar/Ende": 125,
@@ -2672,8 +2708,8 @@
     "/Abenteuer/Buschraub/Einstieg": 1,
     "/Abenteuer/Buschraub/Nachforschungen": 1,
     "/Abenteuer/Buschraub/Nova_Ceti": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1
@@ -2762,9 +2798,9 @@
     "/Abenteuer/Buschraub/Bahir": 37
   },
   "erbe": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 25,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 25,
     "/Abenteuer/": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1
   },
   "erdaehnlich": {
     "/Weltraum/Neutrale_Zone/Woodstock": 11,
@@ -2829,7 +2865,6 @@
     "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 75,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 27,
     "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Abenteuer/Zeitraub_II/": 1
   },
   "ereignisse bei einem raumflug": {
@@ -2860,13 +2895,13 @@
     "/Spielregeln/Raumschiffe/Raumflüge": 2,
     "/Spielregeln/Raumschiffe/Wartung": 2,
     "/Abenteuer/Buschraub/Bahir": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
   },
   "erfolgen": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 3,
     "/Abenteuer/Buschraub/Bahir": 2,
     "/Abenteuer/Buschraub/JCTech_IAG": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 2,
     "/Abenteuer/Halloween/Nebelmaschine": 2,
@@ -2886,8 +2921,7 @@
   },
   "erfolgswuerfel": {
     "/Spielregeln/Konflikte/Konfliktszenen": 26,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 25,
-    "/Spielregeln/Was_ist_SpacePirates": 1
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 25
   },
   "erfordert": {
     "/Abenteuer/Weihnachten_II/Santa_24": 25,
@@ -2921,8 +2955,8 @@
   },
   "erleben": {
     "/Spielregeln/": 25,
-    "/Spielregeln/Was_ist_SpacePirates": 5,
-    "/Abenteuer/Laborratten/": 1
+    "/Abenteuer/Laborratten/": 1,
+    "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 1
   },
   "erlischt": {
     "/Abenteuer/Halloween/Vampir-Planet": 1,
@@ -2935,7 +2969,6 @@
   "erschaffen": {
     "/Spielregeln/Vor_dem_Spiel": 26,
     "/Spielregeln/Die_Piratencrew/Charaktere": 3,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 1
   },
   "erste": {
@@ -3010,8 +3043,8 @@
     "/Abenteuer/Blumenkind/SWIP": 1,
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Nachforschungen": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
     "/Abenteuer/Der_große_Fang/Danach": 1,
     "/Abenteuer/Der_große_Fang/SpaceNinjas": 1,
     "/Abenteuer/Die_Eisgalaxis/": 1,
@@ -3025,7 +3058,7 @@
     "/Weltraum/Piraten/Treffpunkte/": 27,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
     "/Abenteuer/Schatzjagd/Einstieg": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "eysgul zankat": {
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 151
@@ -3063,7 +3096,7 @@
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 3,
     "/Abenteuer/Buschraub/Nova_Ceti": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "falls die charaktere frueher als die swip eintreffen": {
     "/Abenteuer/Blumenkind/Woodstock": 25
@@ -3181,7 +3214,7 @@
     "/Abenteuer/Blumenkind/Woodstock": 1,
     "/Abenteuer/Buschraub/Dimensionsriss": 1,
     "/Abenteuer/Buschraub/Eris": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "firmenzentrale": {
     "/Abenteuer/Ostern/Rabbit_Inc": 25
@@ -3297,7 +3330,7 @@
   "forschungsschiff": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff": 76,
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
   },
   "forschungsstation": {
     "/Abenteuer/Buschraub/Nova_Ceti": 26,
@@ -3314,7 +3347,10 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 25,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 2,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
+  },
+  "fraktale regenboegen": {
+    "/Ideenhalde/Weltraumphänomene": 25
   },
   "frau": {
     "/Weltraum/Technologie/Starnet-Sendungen": 26,
@@ -3342,10 +3378,6 @@
     "/Abenteuer/Die_Eisgalaxis/": 2,
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 2,
     "/Abenteuer/Buschraub/Bahir": 1
-  },
-  "freies": {
-    "/Spielregeln/Die_Piratencrew/Beispielpiraten": 1,
-    "/Spielregeln/Was_ist_SpacePirates": 1
   },
   "freihandelszone": {
     "/Weltraum/Freihandelszone/": 278,
@@ -3468,7 +3500,6 @@
     "/Abenteuer/Ostern/Rabbit_Inc": 4,
     "/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen": 4,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 4,
-    "/Spielregeln/Was_ist_SpacePirates": 4,
     "/Weltraum/Aliens/Raptorianer/": 4,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 4,
     "/Weltraum/Technologie/Raumschiffe": 4,
@@ -3656,7 +3687,6 @@
   "geht": {
     "/Spielregeln/Konflikte/Konfliktszenen": 3,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 3,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 2,
     "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 2,
     "/Abenteuer/": 1
@@ -3666,12 +3696,12 @@
   },
   "geister": {
     "/Abenteuer/Halloween/Nebel": 27,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
   },
   "geistergroupies": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 26
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 26
   },
   "geistern": {
     "/Abenteuer/Halloween/Nebel": 25,
@@ -3690,8 +3720,8 @@
   },
   "gelassen": {
     "/Abenteuer/Buschraub/Eris": 1,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 1,
-    "/Weltraum/Freihandelszone/": 1
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 1,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 1
   },
   "gelegenheit": {
     "/Abenteuer/Buschraub/Syoner": 1,
@@ -3715,7 +3745,7 @@
   "genuegend": {
     "/Spielregeln/Spielmaterial": 2,
     "/Abenteuer/Blumenkind/Doradus": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "geraet": {
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
@@ -3791,7 +3821,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Roboter": 10
   },
   "gewinnen": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Abenteuer/": 1
   },
@@ -3814,8 +3844,8 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 3,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 3,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
     "/Abenteuer/Dungeonplanet/Ebene1": 2,
     "/Abenteuer/Halloween/Station": 2,
     "/Abenteuer/Halloween/Vampir-Planet": 2,
@@ -3829,8 +3859,8 @@
     "/Abenteuer/SpaceDrache/Spuren": 2,
     "/Abenteuer/Zeitraub/Auftrag": 2,
     "/Abenteuer/Zeitraub/Überfall": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 2,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
     "/Weltraum/Aliens/SpaceWorms/": 2,
@@ -3903,10 +3933,14 @@
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 25,
     "/Abenteuer/Schatzjagd/Einstieg": 1
   },
+  "glos": {
+    "/Ideenhalde/Bewohner/Glos": 77,
+    "/Ideenhalde/Bewohner/": 1
+  },
   "glueck": {
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 26,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "glukorianer": {
     "/Weltraum/Aliens/Glukorianer/": 280,
@@ -3922,7 +3956,7 @@
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Danach": 2,
     "/Weltraum/Militär": 2,
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
     "/Abenteuer/Die_Eisgalaxis/": 1,
     "/Abenteuer/Halloween/Nebel": 1,
     "/Abenteuer/Halloween/Station": 1,
@@ -3936,7 +3970,7 @@
     "/Weltraum/Aliens/Glukorianer/": 1
   },
   "glukorianerschiff": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 26,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 26,
     "/Abenteuer/Laborratten/Einstieg": 1,
     "/Abenteuer/Weihnachten/Eskorte": 1
   },
@@ -3978,15 +4012,15 @@
     "/Abenteuer/Pizza_für_Jonas_Wagner/Einstieg": 1
   },
   "goldene": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 3,
     "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 2,
     "/Abenteuer/": 1
   },
   "goldenen": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 76,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 76,
     "/Abenteuer/": 25,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "goldener": {
     "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 1
@@ -4050,7 +4084,7 @@
   },
   "greift": {
     "/Abenteuer/": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Die_Eisgalaxis/": 1
   },
   "grey": {
@@ -4177,10 +4211,11 @@
     "/Abenteuer/Buschraub/Einstieg": 3,
     "/Abenteuer/Buschraub/Ende": 3,
     "/Abenteuer/Buschraub/Nova_Ceti": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 3,
     "/Abenteuer/Der_große_Fang/Chinese": 3,
     "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 3,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 3,
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 3,
     "/Weltraum/Aliens/Raptorianer/": 3,
     "/Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission": 3,
     "/Weltraum/Piraten/": 3,
@@ -4189,7 +4224,7 @@
     "/Abenteuer/Blumenkind/Blumenkind": 2,
     "/Abenteuer/Blumenkind/Doradus": 2,
     "/Abenteuer/Blumenkind/SpaceHippies": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
     "/Abenteuer/Der_große_Fang/Einstieg": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": 2,
     "/Abenteuer/Dungeonplanet/Einstieg": 2,
@@ -4431,7 +4466,7 @@
     "/Weltraum/Piraten/Treffpunkte/Freeport": 3,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 3,
     "/Abenteuer/Buschraub/Eris": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 2,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 2,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 2,
@@ -4457,6 +4492,7 @@
     "/Abenteuer/Zeitraub/Marmonen": 2,
     "/Abenteuer/Zeitraub_II/Ereignisse": 2,
     "/Abenteuer/Zeitraub_II/Javar_3": 2,
+    "/Ideenhalde/Weltraumphänomene": 2,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 2,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 2,
@@ -4533,7 +4569,7 @@
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma": 10,
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Kappa": 10,
     "/Weltraum/Rebellen/Alastor": 10,
-    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Hauptquartier": 1
+    "/Ideenhalde/Bewohner/Aquarianer": 1
   },
   "hauptstaedte": {
     "/Weltraum/Aliens/Wagonen/Terra_20CAD": 1
@@ -4541,6 +4577,11 @@
   "hausmeister": {
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 188,
     "/Weltraum/Konzerne/Spacewood-Klinik/Klinikgebäude": 1
+  },
+  "haustiere": {
+    "/Ideenhalde/Bewohner/Haustiere": 126,
+    "/Ideenhalde/Bewohner/": 1,
+    "/Weltraum/Rebellen/Alastor": 1
   },
   "havariertes": {
     "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 1
@@ -4599,7 +4640,7 @@
     "/Abenteuer/": 3,
     "/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung": 3,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1
   },
   "herkuleskraut": {
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Roboterfressende_Pflanzen": 26
@@ -4641,7 +4682,7 @@
   },
   "hightech": {
     "/Weltraum/Konzerne/China_Space": 11,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 1,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 1
   },
   "hildegard": {
@@ -4808,6 +4849,9 @@
     "/Abenteuer/Buschraub/Sperrzone": 1,
     "/Weltraum/Freihandelszone/Handelsrat": 1
   },
+  "ideenhalde": {
+    "/Ideenhalde/": 135
+  },
   "ihrem": {
     "/Weltraum/Händler_und_Halunken": 3,
     "/Weltraum/Weltraumphänomene/Raumzeitverschiebung": 3,
@@ -4822,8 +4866,8 @@
     "/Weltraum/Piraten/Treffpunkte/Freeport": 2,
     "/Abenteuer/": 1,
     "/Abenteuer/Buschraub/Nova_Ceti": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Die_Eisgalaxis/": 1,
     "/Abenteuer/Dungeonplanet/Ebene2": 1,
     "/Abenteuer/Halloween/": 1,
@@ -5001,6 +5045,10 @@
   "instrumente blinken": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11
   },
+  "intelligente spezies": {
+    "/Ideenhalde/Bewohner/": 25,
+    "/Ideenhalde/Bewohner/Aquarianer": 1
+  },
   "intelligenten": {
     "/Abenteuer/Neutritiumklau/Transportschiff": 1,
     "/Weltraum/Aliens/Atlanter/": 1,
@@ -5012,6 +5060,7 @@
     "/Weltraum/Weltraumphänomene/": 1
   },
   "interessante": {
+    "/Ideenhalde/Orte/": 76,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 75,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten": 75,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 50,
@@ -5023,6 +5072,7 @@
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 1
   },
   "interessante orte": {
+    "/Ideenhalde/Orte/": 125,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 50
   },
   "interessante persoenlichkeiten": {
@@ -5087,12 +5137,12 @@
   },
   "iyani": {
     "/Weltraum/Händler_und_Halunken": 28,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1
   },
   "iyani dizalo": {
     "/Weltraum/Händler_und_Halunken": 177,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1
   },
   "jaaved": {
@@ -5104,7 +5154,7 @@
     "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen": 26,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
     "/Abenteuer/Schatzjagd/Einstieg": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "jacks": {
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 26
@@ -5254,7 +5304,6 @@
     "/Spielregeln/Die_Piratencrew/Übersicht": 2,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 2,
     "/Weltraum/Aliens/Romaha/": 2,
     "/Weltraum/Aliens/SpaceWorms/Raumstationen": 2,
@@ -5425,7 +5474,7 @@
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 1
   },
   "kalt": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
     "/Abenteuer/Die_Eisgalaxis/": 1,
     "/Weltraum/Aliens/SpaceYetis/": 1
   },
@@ -5467,7 +5516,7 @@
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 4,
     "/Weltraum/Technologie/": 4,
     "/Abenteuer/Buschraub/Bahir": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Nebel": 3,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 3,
@@ -5504,7 +5553,7 @@
     "/Abenteuer/Weihnachten_II/Santa_24": 2,
     "/Abenteuer/Zeitraub/Auftrag": 2,
     "/Abenteuer/Zeitraub_II/Javar_3": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 2,
     "/Spielregeln/Konflikte/Einfache_Konflikte": 2,
     "/Spielregeln/Raumschiffe/Wartung": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Ausrüstung": 2,
@@ -5744,7 +5793,7 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11
   },
   "kleidung": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 128,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 103,
     "/Abenteuer/Die_Eisgalaxis/": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1
   },
@@ -5849,7 +5898,6 @@
     "/Spielregeln/Konflikte/Einfache_Konflikte": 80,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 31,
     "/Spielregeln/Konflikte/Konfliktszenen": 4,
-    "/Spielregeln/Was_ist_SpacePirates": 4,
     "/Spielregeln/": 3,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 3,
     "/Abenteuer/Raumschiffdungeon/Hintergrund": 2,
@@ -5858,19 +5906,17 @@
     "/Weltraum/Historie": 2,
     "/Weltraum/Politische_Lage/": 2,
     "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Der_große_Fang/Reise": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner": 1,
-    "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 1
+    "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": 1,
+    "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 1
   },
   "konflikte aufloesen": {
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 25
-  },
-  "konfliktloesung": {
-    "/Spielregeln/Was_ist_SpacePirates": 25
   },
   "konfliktnetz": {
     "/Abenteuer/Blumenkind/Konfliktnetz": 125,
@@ -5932,9 +5978,9 @@
     "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 1
   },
   "konzert": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 27,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 27,
     "/Weltraum/SpaceRocker/Rockbands": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "koordinaten": {
     "/Abenteuer/Schatz_von_Menkar/Koordinaten": 76,
@@ -5973,7 +6019,7 @@
     "/Weltraum/Aliens/Spaceamazonen/": 25
   },
   "kriegsschiff": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 28,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 28,
     "/Abenteuer/Laborratten/Dahinter": 2,
     "/Weltraum/Aliens/Kahadrier/": 1
   },
@@ -6140,8 +6186,8 @@
     "/Abenteuer/Buschraub/JCTech_IAG": 1,
     "/Abenteuer/Buschraub/Nova_Ceti": 1,
     "/Abenteuer/Buschraub/SWIP": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 1
   },
   "laster": {
@@ -6193,6 +6239,7 @@
     "/Abenteuer/Der_große_Fang/Danach": 26
   },
   "leidet": {
+    "/Ideenhalde/Bewohner/Glos": 1,
     "/Spielregeln/Konflikte/Konsequenzen": 1,
     "/Weltraum/Technologie/Techtalk": 1
   },
@@ -6256,8 +6303,7 @@
     "/Abenteuer/Ideen/Golfplatz": 1
   },
   "lite": {
-    "/Spielregeln/": 1,
-    "/Spielregeln/Was_ist_SpacePirates": 1
+    "/Spielregeln/": 1
   },
   "liu": {
     "/Abenteuer/Schatzjagd/Einstieg": 52,
@@ -6271,14 +6317,14 @@
     "/Abenteuer/Ideen/Rosa_Loch": 78,
     "/Weltraum/Weltraumphänomene/Weißes_Loch": 77,
     "/Weltraum/Weltraumphänomene/Schwarzes_Loch": 76,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 26,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 26,
     "/Abenteuer/Der_große_Fang/Reise": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": 2,
     "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 2,
     "/Weltraum/Piraten/Treffpunkte/Halfway": 2,
     "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
     "/Abenteuer/Die_Eisgalaxis/": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 1,
@@ -6322,14 +6368,14 @@
     "/Weltraum/Sektoren/D1/Ennos": 150,
     "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 80,
     "/Abenteuer/Die_Eisgalaxis/": 6,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Abenteuer/Laborratten/Railroading/Hafen": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "los mochis": {
     "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 297,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 1
   },
   "ltr": {
     "/Weltraum/Konzerne/LTR": 276,
@@ -6353,7 +6399,7 @@
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 2,
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
   },
   "macke": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 5,
@@ -6373,7 +6419,6 @@
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
     "/Spielregeln/Raumschiffe/": 2,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Abenteuer/Dungeonplanet/Einstieg": 1
   },
   "macken von raumschiffen": {
@@ -6471,6 +6516,7 @@
     "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 2,
     "/Abenteuer/Schatzjagd/Reise": 2,
     "/Abenteuer/SpaceDrache/Spuren": 2,
+    "/Ideenhalde/Weltraumphänomene": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
@@ -6554,9 +6600,9 @@
     "/Spielregeln/Die_Piratencrew/Hintergrund": 1
   },
   "materie": {
+    "/Ideenhalde/Weltraumphänomene": 27,
     "/Abenteuer/Raumschiffdungeon/Hintergrund": 1,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/": 1,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Supernova": 1
+    "/Abenteuer/Raumschiffdungeon/Sektoren/": 1
   },
   "maud": {
     "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Königin_Maud": 77
@@ -6675,7 +6721,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 2,
     "/Weltraum/Neutrale_Zone/Doradus": 2,
     "/Weltraum/Politische_Lage/": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "meteoritenguertel": {
     "/Weltraum/Weltraumphänomene/Brabengürtel": 10,
@@ -6738,8 +6784,7 @@
   },
   "misserfolgswuerfel": {
     "/Spielregeln/Konflikte/Konfliktszenen": 26,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 26,
-    "/Spielregeln/Was_ist_SpacePirates": 1
+    "/Spielregeln/Raumschiffe/Raumkämpfe": 26
   },
   "misslungenen": {
     "/Spielregeln/Raumschiffe/Raumflüge": 25
@@ -6749,15 +6794,15 @@
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/Mitglieder": 125,
     "/Weltraum/Freihandelszone/Handelsrat": 25,
     "/Weltraum/SpaceMafia/": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "mitgliedsreiche": {
     "/Weltraum/Freihandelszone/Handelsrat": 25
   },
   "mochis": {
     "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 247,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 1
   },
   "modebewusst": {
     "/Spielregeln/Die_Piratencrew/Hintergrund": 1
@@ -6862,7 +6907,7 @@
   "naehe": {
     "/Abenteuer/Der_große_Fang/Chinese": 10,
     "/Abenteuer/Buschraub/Nova_Ceti": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Abenteuer/Ideen/Rosa_Loch": 2,
     "/Abenteuer/Neutritiumklau/Lager": 2,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 2,
@@ -6934,7 +6979,7 @@
   },
   "negatritiumstrahlung": {
     "/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung": 76,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 1,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 1,
     "/Weltraum/Technologie/": 1
   },
   "negatronenkarabiner": {
@@ -6999,7 +7044,7 @@
     "/Weltraum/Technologie/": 1
   },
   "neuasiatisches kriegsschiff": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 27
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 27
   },
   "neuasien": {
     "/Weltraum/Freihandelszone/Währungen_und_Banken": 176,
@@ -7044,7 +7089,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Roboter": 3,
     "/Weltraum/SpaceNinjas/": 2,
     "/Weltraum/SpaceNinjas/Clans/": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Dinosaurier": 1,
     "/Weltraum/SpaceNinjas/Clans/Akamachi-Clan": 1,
@@ -7136,7 +7181,7 @@
     "/Weltraum/Technologie/Techtalk": 6,
     "/Abenteuer/": 5,
     "/Abenteuer/Buschraub/Nova_Ceti": 5,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 5,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 5,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 5,
     "/Abenteuer/Halloween/Station": 5,
@@ -7149,7 +7194,6 @@
     "/Abenteuer/Halloween/Vampir-Planet": 4,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 4,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 4,
-    "/Spielregeln/Was_ist_SpacePirates": 4,
     "/Weltraum/Technologie/Raumschiffe": 4,
     "/Abenteuer/Blumenkind/Blumenkind": 3,
     "/Abenteuer/Buschraub/Einstieg": 3,
@@ -7184,8 +7228,8 @@
     "/Weltraum/Weltraumtiere": 3,
     "/Abenteuer/Blumenkind/SWIP": 2,
     "/Abenteuer/Buschraub/Sperrzone": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
     "/Abenteuer/Der_große_Fang/Chinese": 2,
     "/Abenteuer/Der_große_Fang/Danach": 2,
     "/Abenteuer/Der_große_Fang/Einstieg": 2,
@@ -7218,10 +7262,12 @@
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 2,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 2,
     "/Abenteuer/Zeitraub/Bauteil": 2,
+    "/Ideenhalde/Bewohner/Glos": 2,
+    "/Ideenhalde/Weltraumphänomene": 2,
     "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 2,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Spielregeln/Raumschiffe/Macken": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze": 2,
@@ -7267,7 +7313,7 @@
     "/Abenteuer/Buschraub/Ende": 1,
     "/Abenteuer/Buschraub/JCTech_IAG": 1,
     "/Abenteuer/Buschraub/Syoner": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 1,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": 1,
@@ -7318,8 +7364,7 @@
     "/Abenteuer/Weihnachten/Eskorte": 1,
     "/Abenteuer/Weihnachten/Treffpunkt": 1,
     "/Abenteuer/Weihnachten_II/Einstieg": 1,
-    "/Abenteuer/Weihnachten_II/Santa_24": 1,
-    "/Abenteuer/Zeitraub/Ende": 1
+    "/Abenteuer/Weihnachten_II/Santa_24": 1
   },
   "niels": {
     "/Weltraum/Promis": 175,
@@ -7411,7 +7456,7 @@
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 5,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 5,
     "/Weltraum/Technologie/": 5,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 4,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 4,
     "/Abenteuer/Zeitraub/Auftrag": 4,
     "/Weltraum/Händler_und_Halunken": 4,
     "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": 4,
@@ -7432,7 +7477,7 @@
     "/Abenteuer/": 2,
     "/Abenteuer/Blumenkind/SpaceHippies": 2,
     "/Abenteuer/Buschraub/Eris": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 2,
     "/Abenteuer/Dungeonplanet/Einstieg": 2,
     "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 2,
@@ -7480,12 +7525,12 @@
     "/Abenteuer/Schatz_von_Menkar/Ende": 1
   },
   "not": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 26,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 26,
     "/Abenteuer/Buschraub/Eris": 1,
     "/Abenteuer/Spritprobleme/Weltraumpfleger": 1
   },
   "notruf": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
     "/Abenteuer/Zeitraub/Überfall": 1
   },
   "nova": {
@@ -7558,7 +7603,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 4,
     "/Weltraum/SpaceNinjas/": 4,
     "/Abenteuer/Buschraub/Nova_Ceti": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 3,
     "/Abenteuer/Der_große_Fang/Chinese": 3,
     "/Abenteuer/Dungeonplanet/Einstieg": 3,
     "/Abenteuer/Halloween/Vampir-Planet": 3,
@@ -7569,7 +7614,6 @@
     "/Abenteuer/Zeitraub_II/Javar_3": 3,
     "/Spielregeln/Abenteuer/": 3,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 3,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 3,
     "/Spielregeln/Raumschiffe/Macken": 3,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 3,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 3,
@@ -7605,18 +7649,20 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 2,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 2,
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 2,
+    "/Ideenhalde/Weltraumphänomene": 2,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
     "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Spielregeln/Konflikte/Konsequenzen": 2,
     "/Spielregeln/Raumschiffe/Wartung": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Beute": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Weltraum/Aliens/Atlanter/Atlantis": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Danach": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Glutulhu": 2,
@@ -7648,8 +7694,8 @@
     "/Abenteuer/Buschraub/JCTech_IAG": 1,
     "/Abenteuer/Buschraub/Nachforschungen": 1,
     "/Abenteuer/Buschraub/SWIP": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
     "/Abenteuer/Der_große_Fang/Danach": 1,
     "/Abenteuer/Der_große_Fang/Portal": 1,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 1,
@@ -7733,8 +7779,7 @@
     "/Weltraum/Freihandelszone/Beta_Prison/": 1,
     "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Gefängnisebenen": 1,
     "/Weltraum/Freihandelszone/D4E20": 1,
-    "/Weltraum/Freihandelszone/Space-Steuerfahnder/": 1,
-    "/Weltraum/Freihandelszone/Space-Steuerfahnder/Hauptquartier": 1
+    "/Weltraum/Freihandelszone/Space-Steuerfahnder/": 1
   },
   "oberschwester hildegard": {
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 179
@@ -7875,7 +7920,9 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 25
   },
   "orte": {
-    "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 51
+    "/Ideenhalde/Orte/": 76,
+    "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 51,
+    "/Ideenhalde/": 1
   },
   "osterhase zurueckschicken": {
     "/Abenteuer/Ostern/Lösung": 25
@@ -7925,7 +7972,7 @@
     "/Weltraum/Menschen/Föderation/Pandar_5": 160
   },
   "panzerungen": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 26,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 26,
     "/Weltraum/Technologie/": 1
   },
   "papagei": {
@@ -7954,7 +8001,7 @@
     "/Spielregeln/Raumschiffe/Raumkämpfe": 29,
     "/Spielregeln/Konflikte/Einfache_Konflikte": 3,
     "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
     "/Weltraum/Politische_Lage/": 2,
@@ -7963,19 +8010,19 @@
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 1,
     "/Spielregeln/Spielleiter/": 1,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 1,
-    "/Spielregeln/Was_ist_SpacePirates": 1,
     "/Weltraum/Historie": 1,
     "/Weltraum/Konzerne/Drojar_und_Partner": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/": 1,
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/": 1,
-    "/Weltraum/Neutrale_Zone/Kappa_Gamma/Geschichte": 1
+    "/Weltraum/Neutrale_Zone/Kappa_Gamma/Geschichte": 1,
+    "/Weltraum/SpaceMafia/Italienische_Mafia/": 1
   },
   "parteien und ziele": {
     "/Spielregeln/Konflikte/Konfliktszenen": 26
   },
   "partner": {
     "/Weltraum/Konzerne/Drojar_und_Partner": 226,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": 1
   },
   "passanten": {
@@ -8211,7 +8258,7 @@
     "/Abenteuer/Blumenkind/SpaceHippies": 1,
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Dimensionsriss": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 1,
@@ -8250,6 +8297,7 @@
     "/Abenteuer/Zeitraub/Nachforschungen": 1,
     "/Abenteuer/Zeitraub_II/Javar_3": 1,
     "/Abenteuer/Zeitraub_II/Reise": 1,
+    "/Ideenhalde/Bewohner/Haustiere": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 1,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 1,
@@ -8301,7 +8349,6 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 26,
     "/Spielregeln/": 26,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 3,
-    "/Spielregeln/Was_ist_SpacePirates": 3,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
     "/Abenteuer/Der_große_Fang/Danach": 1
   },
@@ -8396,6 +8443,7 @@
     "/Abenteuer/Zeitraub_II/Reise": 29,
     "/Weltraum/Sektoren/E1/Epsilon_Canabis": 29,
     "/Abenteuer/Halloween/Nebel": 28,
+    "/Ideenhalde/Orte/": 27,
     "/Weltraum/Aliens/Trull/Sigma_9": 27,
     "/Weltraum/Freihandelszone/System_der_Träume/": 27,
     "/Weltraum/Weltraumphänomene/BadPlanets": 27,
@@ -8512,9 +8560,9 @@
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Einstieg": 1,
     "/Abenteuer/Buschraub/Nova_Ceti": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Der_große_Fang/Portal": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1,
@@ -8536,6 +8584,8 @@
     "/Abenteuer/Zeitraub/": 1,
     "/Abenteuer/Zeitraub/Übersicht": 1,
     "/Abenteuer/Zeitraub_II/Javar_3": 1,
+    "/Ideenhalde/Orte/Denta_4": 1,
+    "/Ideenhalde/Weltraumphänomene": 1,
     "/Spielregeln/Die_Piratencrew/Charaktere": 1,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 1,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 1,
@@ -8782,17 +8832,17 @@
   },
   "quantenfischen": {
     "/Weltraum/Weltraumphänomene/Quantenfluktuation": 26,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
   },
   "quantenfischende wissenschaftler in not": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 25
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 25
   },
   "quantenfluktuation": {
     "/Weltraum/Weltraumphänomene/Quantenfluktuation": 278,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 79,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 79,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1
   },
   "quartiere": {
     "/Abenteuer/Halloween/Station": 26,
@@ -8984,8 +9034,8 @@
   },
   "raumhafen": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 27,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "raumkaempfe": {
     "/Spielregeln/Raumschiffe/Raumkämpfe": 26,
@@ -9008,7 +9058,7 @@
     "/Weltraum/Technologie/": 36,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 33,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 29,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 28,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 28,
     "/Abenteuer/Halloween/Einstieg": 28,
     "/Abenteuer/Zeitraub/Auftrag": 28,
     "/Abenteuer/Zeitraub_II/Javar_3": 27,
@@ -9039,7 +9089,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 3,
     "/Abenteuer/Buschraub/Bahir": 2,
     "/Abenteuer/Buschraub/Nova_Ceti": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 2,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 2,
     "/Abenteuer/Laborratten/": 2,
@@ -9087,7 +9137,7 @@
   "raumschiffmacken": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 126,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 26,
-    "/Spielregeln/Die_Piratencrew/": 1
+    "/Spielregeln/": 1
   },
   "raumschiffmackentabelle": {
     "/Spielregeln/Raumschiffe/Wartung": 1
@@ -9096,13 +9146,13 @@
     "/Weltraum/Weltraumphänomene/Ionensturm": 1
   },
   "raumschiffs": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 3,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 3,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 3,
     "/Abenteuer/": 2,
     "/Abenteuer/Halloween/Einstieg": 2,
     "/Abenteuer/Zeitraub/Überfall": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "raumschiffwaffen": {
     "/Spielregeln/Raumschiffe/Raumkämpfe": 1,
@@ -9160,10 +9210,10 @@
     "/Abenteuer/Weihnachten/Treffpunkt": 1,
     "/Abenteuer/Zeitraub/Nachforschungen": 1,
     "/Abenteuer/Zeitraub/Übersicht": 1,
+    "/Ideenhalde/Weltraumphänomene": 1,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 1,
     "/Weltraum/Neutrale_Zone/Javar_3": 1,
-    "/Weltraum/Politische_Lage/": 1,
-    "/Zufallstabellen/": 1
+    "/Weltraum/Politische_Lage/": 1
   },
   "rauschmittel": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": 127,
@@ -9228,8 +9278,11 @@
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 25,
     "/Spielregeln/Abenteuer/": 2,
     "/Spielregeln/Konflikte/": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 1
+  },
+  "regenboegen": {
+    "/Ideenhalde/Weltraumphänomene": 26,
+    "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkröte": 1
   },
   "regenerieren": {
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 27,
@@ -9307,7 +9360,7 @@
   },
   "reporter": {
     "/Weltraum/Promis": 10,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Schatz_von_Menkar/Koordinaten": 1
   },
   "restaurant": {
@@ -9380,15 +9433,15 @@
   },
   "rockband": {
     "/Weltraum/SpaceRocker/Rockbands": 21,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "rockbands": {
     "/Weltraum/SpaceRocker/Rockbands": 126,
     "/Weltraum/SpaceRocker/": 1
   },
   "rockerbanden": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 26,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 26,
     "/Weltraum/SpaceRocker/Rockbands": 1
   },
   "roger city": {
@@ -9400,13 +9453,6 @@
     "/Abenteuer/Ostern/Captain_Rogers": 77,
     "/Abenteuer/Ostern/Nachforschungen": 28,
     "/Abenteuer/Ideen/Stars_und_Sternchen": 1
-  },
-  "rollen": {
-    "/Spielregeln/Was_ist_SpacePirates": 26,
-    "/Spielregeln/Die_Piratencrew/Charaktere": 1
-  },
-  "rollenspiel": {
-    "/Spielregeln/Was_ist_SpacePirates": 1
   },
   "romaha": {
     "/Weltraum/Aliens/Romaha/": 278,
@@ -9626,8 +9672,8 @@
   },
   "schadensmodifikator": {
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen": 1
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen": 1,
+    "/Weltraum/Weltraumtiere": 1
   },
   "schadenspunkte": {
     "/Spielregeln/Raumschiffe/Wartung": 4,
@@ -9646,11 +9692,11 @@
     "/Spielregeln/Raumschiffe/Raumkämpfe": 1
   },
   "schallplatte": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 77,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 77,
     "/Abenteuer/": 26,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 26,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 26,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "schallwerfer": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 27
@@ -9670,7 +9716,7 @@
     "/Abenteuer/Der_große_Fang/Portal": 27,
     "/Abenteuer/Schatzjagd/Rand": 27,
     "/Abenteuer/Ideen/Spacewood-Klinik": 26,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 25,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 25,
     "/Abenteuer/Schatzjagd/": 2,
     "/Abenteuer/Der_große_Fang/": 1
   },
@@ -9732,7 +9778,7 @@
   },
   "schemen": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 30,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Rebellen": 1
   },
   "schiff": {
@@ -9751,7 +9797,7 @@
     "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 3,
     "/Abenteuer/Blumenkind/SWIP": 2,
     "/Abenteuer/Buschraub/SWIP": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
     "/Abenteuer/Der_große_Fang/Chinese": 2,
     "/Abenteuer/Laborratten/Dahinter": 2,
     "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 2,
@@ -9847,12 +9893,12 @@
   "schrottplatz": {
     "/Weltraum/Neutrale_Zone/Scrabnambu": 29,
     "/Weltraum/Händler_und_Halunken": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "schwarzes loch": {
     "/Weltraum/Weltraumphänomene/Schwarzes_Loch": 275,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 26,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 26,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
   },
   "schwarzweiss": {
     "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet": 1,
@@ -9878,12 +9924,12 @@
   },
   "scrabnambu": {
     "/Weltraum/Neutrale_Zone/Scrabnambu": 276,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 77,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 77,
     "/Weltraum/Verrückte_Wissenschaftler": 21,
     "/Weltraum/Händler_und_Halunken": 12,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1
   },
   "scrum": {
     "/Weltraum/Piraten/Treffpunkte/Freeport": 27,
@@ -9970,7 +10016,6 @@
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Weltraum/Aliens/Romaha/": 2,
     "/Weltraum/Aliens/Spaceamazonen/": 2,
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 2,
@@ -9992,7 +10037,7 @@
     "/Abenteuer/": 1,
     "/Abenteuer/Buschraub/Eris": 1,
     "/Abenteuer/Buschraub/Nova_Ceti": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1,
     "/Abenteuer/Der_große_Fang/Chinese": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 1,
     "/Abenteuer/Halloween/Nebel": 1,
@@ -10167,19 +10212,19 @@
     "/Abenteuer/Halloween/Nebel": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/": 2,
     "/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator": 2,
+    "/Ideenhalde/Weltraumphänomene": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
     "/Abenteuer/": 1,
     "/Abenteuer/Blumenkind/Blumenkind": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma": 1,
     "/Abenteuer/Der_große_Fang/SpaceNinjas": 1,
     "/Abenteuer/Halloween/Einstieg": 1,
     "/Abenteuer/Halloween/Zentrum": 1,
-    "/Abenteuer/Neutritiumklau/SpaceShell": 1,
-    "/Abenteuer/Raumschiffdungeon/": 1
+    "/Abenteuer/Neutritiumklau/SpaceShell": 1
   },
   "serius": {
     "/Weltraum/Freihandelszone/System_der_Träume/Serius_80": 77,
@@ -10327,7 +10372,6 @@
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 3,
     "/Abenteuer/Weihnachten_II/Santa_24": 3,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 3,
-    "/Spielregeln/Was_ist_SpacePirates": 3,
     "/Weltraum/Aliens/Glukorianer/": 3,
     "/Weltraum/Aliens/Kahadrier/": 3,
     "/Weltraum/Aliens/Samnesen/": 3,
@@ -10347,8 +10391,8 @@
     "/Weltraum/SpaceNinjas/Clans/": 3,
     "/Weltraum/Technologie/Starnet": 3,
     "/Abenteuer/Buschraub/JCTech_IAG": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 2,
     "/Abenteuer/Dungeonplanet/Einstieg": 2,
     "/Abenteuer/Laborratten/Lösung": 2,
@@ -10368,9 +10412,12 @@
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 2,
     "/Abenteuer/Zeitraub/Auftrag": 2,
     "/Abenteuer/Zeitraub_II/Auftragserteilung": 2,
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 2,
+    "/Ideenhalde/Bewohner/Haustiere": 2,
+    "/Ideenhalde/Weltraumphänomene": 2,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 2,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 2,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 2,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 2,
@@ -10413,9 +10460,9 @@
     "/Abenteuer/Buschraub/Eris": 1,
     "/Abenteuer/Buschraub/Sperrzone": 1,
     "/Abenteuer/Buschraub/Syoner": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Der_große_Fang/Chinese": 1,
     "/Abenteuer/Der_große_Fang/Danach": 1,
     "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": 1,
@@ -10469,11 +10516,9 @@
     "/Abenteuer/Zeitraub/Nachforschungen": 1,
     "/Abenteuer/Zeitraub/Überfall": 1,
     "/Abenteuer/Zeitraub_II/Ereignisse": 1,
-    "/Spielregeln/Abenteuer/": 1,
-    "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 1,
-    "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde": 1
+    "/Ideenhalde/Bewohner/": 1,
+    "/Ideenhalde/Bewohner/Aquarianer": 1,
+    "/Ideenhalde/Bewohner/Glos": 1
   },
   "sing": {
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 75,
@@ -10500,6 +10545,10 @@
   "sitze unbequem": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 10,
     "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 1
+  },
+  "slc": {
+    "/Ideenhalde/Bewohner/": 25,
+    "/Weltraum/Konzerne/S_I_E__Robotermanufaktur": 25
   },
   "slc mit verbindungen zur sie robotermanufaktur": {
     "/Weltraum/Konzerne/S_I_E__Robotermanufaktur": 25
@@ -10544,7 +10593,7 @@
   },
   "solange": {
     "/Abenteuer/Der_große_Fang/SpaceNinjas": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
     "/Abenteuer/Zeitraub/Überfall": 1
   },
   "solar eclipse": {
@@ -10647,14 +10696,14 @@
   "spaceangels": {
     "/Weltraum/SpaceRocker/SpaceAngels/": 277,
     "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place": 11,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 3,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 3,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 3,
     "/Abenteuer/": 1
   },
   "spacebikes": {
     "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 26,
     "/Weltraum/SpaceRocker/": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "spacecraft": {
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 26,
@@ -10705,6 +10754,10 @@
     "/Abenteuer/Blumenkind/Konfliktnetz": 3,
     "/Abenteuer/Blumenkind/": 1
   },
+  "spaceindianer": {
+    "/Ideenhalde/Bewohner/Spaceindianer": 126,
+    "/Ideenhalde/Bewohner/": 1
+  },
   "spacekuerbisse": {
     "/Abenteuer/Halloween/Einstieg": 26,
     "/Abenteuer/Halloween/Zentrum": 4,
@@ -10739,11 +10792,10 @@
     "/Abenteuer/Die_Eisgalaxis/": 1
   },
   "spacepirates": {
-    "/Spielregeln/Was_ist_SpacePirates": 83,
     "/Spielregeln/Spielleiter/Kampagnen/": 76,
     "/Weltraum/Historie": 6,
-    "/Spielregeln/": 3,
     "/Abenteuer/Ideen/SpaceNinjas": 2,
+    "/Spielregeln/": 2,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
@@ -10756,9 +10808,10 @@
     "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Königin_Maud": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 1,
-    "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 1
+    "/Ideenhalde/": 1,
+    "/Ideenhalde/Bewohner/": 1,
+    "/Ideenhalde/Bewohner/Haustiere": 1,
+    "/Ideenhalde/Orte/": 1
   },
   "spacepolizeirevier 23": {
     "/Weltraum/Piraten/Treffpunkte/Freeport": 26
@@ -10891,47 +10944,29 @@
     "/Weltraum/Aliens/Samnesen/Sperrzone": 126
   },
   "spezialkleidung": {
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 25
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 25,
+    "/Spielregeln/": 1,
+    "/Spielregeln/Die_Piratencrew/": 1
   },
   "spezialwaffen": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 25
+  },
+  "spezies": {
+    "/Ideenhalde/Bewohner/": 25,
+    "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 1,
+    "/Ideenhalde/Bewohner/Aquarianer": 1
   },
   "spiel": {
     "/Spielregeln/Vor_dem_Spiel": 76,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 3,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 3,
     "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Spielregeln/": 1
   },
   "spielen": {
     "/Spielregeln/Spielmaterial": 75,
     "/Abenteuer/": 1,
     "/Abenteuer/Blumenkind/Blumenkind": 1
-  },
-  "spieler": {
-    "/Spielregeln/Konflikte/Konfliktszenen": 38,
-    "/Spielregeln/Was_ist_SpacePirates": 29,
-    "/Spielregeln/Raumschiffe/Raumkämpfe": 25,
-    "/Spielregeln/Abenteuer/Ablauf_einer_Szene": 8,
-    "/Abenteuer/Weihnachten_II/Santa_24": 7,
-    "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 5,
-    "/Spielregeln/Abenteuer/": 5,
-    "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 3,
-    "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 3,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 3,
-    "/Spielregeln/Konflikte/Konsequenzen": 3,
-    "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 3,
-    "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": 2,
-    "/Spielregeln/Die_Piratencrew/Charaktere": 2,
-    "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
-    "/Spielregeln/Raumschiffe/Macken": 2,
-    "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 2,
-    "/Spielregeln/Spielleiter/Kampagnen/Ausrüstung": 2,
-    "/Spielregeln/Spielleiter/Kampagnen/Freunde": 2,
-    "/Spielregeln/Spielmaterial": 2,
-    "/Spielregeln/Vor_dem_Spiel": 2,
-    "/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator": 1
   },
   "spieler der piratencrew wuerfeln": {
     "/Spielregeln/Raumschiffe/Raumkämpfe": 25
@@ -10943,7 +10978,6 @@
     "/Spielregeln/Spielleiter/": 125,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 39,
     "/Spielregeln/Konflikte/Konfliktszenen": 37,
-    "/Spielregeln/Was_ist_SpacePirates": 29,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 28,
     "/Spielregeln/": 26,
     "/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung": 25,
@@ -10959,7 +10993,8 @@
     "/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler": 1,
     "/Abenteuer/Weihnachten_II/": 1,
     "/Abenteuer/Zeitraub/Überfall": 1,
-    "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 1
+    "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": 1,
+    "/Spielregeln/Die_Piratencrew/Charakterwerte": 1
   },
   "spielleiter wuerfelt fuer die 3 moechtegernschlaeger soeldner 3 zaehigkeit 2": {
     "/Spielregeln/Konflikte/Konfliktszenen": 25
@@ -10978,12 +11013,10 @@
     "/Spielregeln/": 1
   },
   "spielregeln": {
-    "/Spielregeln/": 136,
-    "/Spielregeln/Was_ist_SpacePirates": 26
+    "/Spielregeln/": 136
   },
   "spielt": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 11,
-    "/Spielregeln/Was_ist_SpacePirates": 3,
     "/Weltraum/SpaceRocker/Rockbands": 2,
     "/Abenteuer/Laborratten/Railroading/Hafen": 1
   },
@@ -11113,7 +11146,7 @@
   },
   "starillu": {
     "/Weltraum/Konzerne/StarIllu": 276,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 1
   },
   "stark": {
@@ -11123,7 +11156,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 2,
     "/Abenteuer/Neutritiumklau/Lager": 2,
     "/Weltraum/Aliens/Samnesen/Nova_Ceti": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 1
   },
   "starnet": {
     "/Weltraum/Technologie/Starnet": 130,
@@ -11373,11 +11406,12 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 3,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "sturm": {
     "/Abenteuer/Laborratten/Railroading/Sturm": 101,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen": 27,
+    "/Ideenhalde/Weltraumphänomene": 26,
     "/Abenteuer/Laborratten/Railroading/": 2,
     "/Abenteuer/Laborratten/Railroading/Schatzinsel": 2,
     "/Abenteuer/Laborratten/": 1
@@ -11386,9 +11420,9 @@
     "/Abenteuer/Laborratten/Railroading/Sturm": 25
   },
   "style": {
+    "/Spielregeln/": 1,
     "/Spielregeln/Die_Piratencrew/": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 1
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1
   },
   "stylezubehoer": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": 125,
@@ -11577,7 +11611,7 @@
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": 5,
     "/Spielregeln/Raumschiffe/Macken": 4,
     "/Spielregeln/Raumschiffe/Wartung": 4,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
     "/Abenteuer/Der_große_Fang/Einstieg": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner": 2,
     "/Abenteuer/Dungeonplanet/Ebene1": 2,
@@ -11691,6 +11725,11 @@
     "/Abenteuer/Pizza_für_Jonas_Wagner/": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/": 1
   },
+  "tiere": {
+    "/Ideenhalde/Bewohner/": 25,
+    "/Abenteuer/Der_große_Fang/Danach": 1,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 1
+  },
   "tierschutzorganisation": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 11
   },
@@ -11755,15 +11794,15 @@
     "/Abenteuer/Neutritiumklau/Auftrag": 1
   },
   "trauerzeremonie": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 126,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 4,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 126,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 4,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 1
   },
   "treffen": {
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 3,
     "/Abenteuer/Buschraub/Einstieg": 2,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1
   },
   "treffpunkt": {
     "/Abenteuer/Weihnachten/Treffpunkt": 126,
@@ -11895,7 +11934,7 @@
     "/Weltraum/Piraten/Treffpunkte/": 27,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
     "/Abenteuer/Schatzjagd/Einstieg": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "two eyed jack": {
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 554,
@@ -11903,7 +11942,7 @@
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 11,
     "/Weltraum/Händler_und_Halunken": 10,
     "/Abenteuer/Schatzjagd/Einstieg": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1
   },
   "twoeyedjack": {
     "/Abenteuer/Weihnachten/Auftrag": 4,
@@ -11943,7 +11982,6 @@
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Spielregeln/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
-    "/Spielregeln/Was_ist_SpacePirates": 2,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 2,
     "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 2,
     "/Weltraum/Aliens/SpaceWorms/": 2,
@@ -11968,7 +12006,7 @@
     "/Abenteuer/Zeitraub/Nachforschungen": 26
   },
   "ueberall": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 2,
     "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": 2,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 2,
@@ -12054,7 +12092,7 @@
   },
   "ueblichen": {
     "/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen": 75,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 1
   },
   "umfeld der koenigsfamilie": {
@@ -12149,6 +12187,9 @@
   "universumsfall": {
     "/Weltraum/Raumstationen/Saloniki": 26
   },
+  "universumsriss": {
+    "/Ideenhalde/Weltraumphänomene": 26
+  },
   "untergegangenes zwergenreich": {
     "/Abenteuer/Raumschiffdungeon/Sektoren/Drache": 25
   },
@@ -12188,7 +12229,7 @@
   },
   "vakuum": {
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 1,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 1,
     "/Weltraum/Sekten/Kinder_der_Sternenleere": 1
   },
   "vampir": {
@@ -12311,7 +12352,7 @@
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 1
   },
   "vermaechtnis der goldenen schallplatte": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/": 76,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": 76,
     "/Abenteuer/": 25
   },
   "vernarrt": {
@@ -12357,7 +12398,7 @@
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 25
   },
   "verschluckt": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Ende": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": 1,
     "/Abenteuer/Dungeonplanet/Ebene2": 1
   },
@@ -12384,7 +12425,7 @@
     "/Spielregeln/Die_Piratencrew/Hintergrund": 1
   },
   "vertreiben": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
     "/Abenteuer/Neutritiumklau/Lager": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Dinosaurier": 1
   },
@@ -12437,7 +12478,7 @@
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 1
   },
   "vorhanden": {
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1
   },
@@ -12491,8 +12532,8 @@
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Supernova": 2,
+    "/Spielregeln/": 2,
     "/Spielregeln/Die_Piratencrew/": 2,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": 2,
     "/Spielregeln/Raumschiffe/Raumkämpfe": 2,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": 2,
     "/Weltraum/SpaceNinjas/": 2,
@@ -12502,7 +12543,7 @@
     "/Abenteuer/Wagonian_Wedding/Einleitung": 1,
     "/Abenteuer/Weihnachten/Santa_24": 1,
     "/Abenteuer/Zeitraub/Überfall": 1,
-    "/Spielregeln/": 1
+    "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": 1
   },
   "waffenproblem": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 10
@@ -12552,7 +12593,7 @@
   "wagonen": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": 76,
     "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 75,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 2,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Abenteuer/SpaceDrache/": 2,
     "/Abenteuer/SpaceDrache/Prinzessin_Lea": 2,
     "/Weltraum/Aliens/Wagonen/": 2,
@@ -12627,10 +12668,6 @@
     "/Spielregeln/Raumschiffe/Raumkämpfe": 25,
     "/Spielregeln/Konflikte/Einfache_Konflikte": 1
   },
-  "was ist spacepirates": {
-    "/Spielregeln/Was_ist_SpacePirates": 125,
-    "/Spielregeln/": 1
-  },
   "was tun mit dem pergament": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung": 25
   },
@@ -12641,7 +12678,8 @@
   "wasserplanet": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Ozeanus_5": 11,
     "/Weltraum/Aliens/Glukorianer/Ghultar": 10,
-    "/Weltraum/Neutrale_Zone/Doradus": 10
+    "/Weltraum/Neutrale_Zone/Doradus": 10,
+    "/Ideenhalde/Bewohner/Aquarianer": 1
   },
   "wasserschaden": {
     "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": 10
@@ -12816,9 +12854,9 @@
     "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 10
   },
   "weltraumphaenomene": {
+    "/Ideenhalde/Weltraumphänomene": 125,
     "/Weltraum/Weltraumphänomene/": 125,
-    "/Spielregeln/Die_Piratencrew/Charaktere": 1,
-    "/Weltraum/": 1
+    "/Ideenhalde/": 1
   },
   "weltraumpolizei": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": 28,
@@ -12830,8 +12868,8 @@
   },
   "weltraumtiere": {
     "/Weltraum/Weltraumtiere": 127,
-    "/Abenteuer/Spritprobleme/Weltraumpfleger": 1,
-    "/Weltraum/": 1
+    "/Ideenhalde/Bewohner/Weltraumtiere": 126,
+    "/Abenteuer/Spritprobleme/Weltraumpfleger": 1
   },
   "wendigkeit": {
     "/Spielregeln/Raumschiffe/Raumkämpfe": 3,
@@ -12927,7 +12965,7 @@
   "wesentlich": {
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 2,
     "/Abenteuer/Buschraub/Nova_Ceti": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "wesir": {
     "/Abenteuer/Blumenkind/SWIP": 23,
@@ -12970,7 +13008,7 @@
     "/Abenteuer/Buschraub/Einstieg": 1,
     "/Abenteuer/Buschraub/Nachforschungen": 1,
     "/Abenteuer/Buschraub/Nova_Ceti": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Einstieg": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Der_große_Fang/Chinese": 1
   },
   "wikinger": {
@@ -13033,12 +13071,15 @@
   },
   "wissenschaftler": {
     "/Weltraum/Verrückte_Wissenschaftler": 79,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 27,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 27,
     "/Abenteuer/Halloween/Station": 2,
     "/Abenteuer/Laborratten/Dahinter": 2,
     "/Abenteuer/SpaceDrache/Ende": 2,
     "/Abenteuer/SpaceDrache/John_Marric": 2,
     "/Abenteuer/Halloween/Hintergrund": 1
+  },
+  "wissenschaftlergoldfische": {
+    "/Ideenhalde/Bewohner/Aquarianer": 1
   },
   "woanders": {
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 10
@@ -13048,6 +13089,9 @@
   },
   "wohnung": {
     "/Abenteuer/Buschraub/Eris": 26
+  },
+  "wolfsmond": {
+    "/Ideenhalde/Weltraumphänomene": 25
   },
   "woodstock": {
     "/Weltraum/Neutrale_Zone/Woodstock": 278,
@@ -13128,7 +13172,7 @@
     "/Weltraum/Konzerne/ImmoTrade": 20,
     "/Weltraum/Konzerne/Drojar_und_Partner": 10,
     "/Abenteuer/Wagonian_Wedding/": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1
   },
   "xenur barslan": {
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 27,
@@ -13206,12 +13250,12 @@
     "/Abenteuer/Blumenkind/Blumenkind": 2,
     "/Abenteuer/Weihnachten_II/Santa_24": 2,
     "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": 2,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Halloween/Nebel": 1,
     "/Abenteuer/Halloween/Nebelmaschine": 1,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 1,
     "/Spielregeln/Die_Piratencrew/Ausrüstung/": 1,
-    "/Spielregeln/Die_Piratencrew/Ausrüstung/Kleidung": 1,
+    "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": 1,
     "/Spielregeln/Konflikte/": 1,
     "/Spielregeln/Konflikte/Einfache_Konflikte": 1
   },
@@ -13242,7 +13286,7 @@
   "zeigt": {
     "/Spielregeln/Konflikte/Konfliktszenen": 4,
     "/Abenteuer/": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
   },
   "zeit laeuft rueckwaerts": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 1
@@ -13259,6 +13303,9 @@
     "/Abenteuer/Blumenkind/Zeitleiste": 125,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
     "/Abenteuer/Blumenkind/": 1
+  },
+  "zeitloser blitz": {
+    "/Ideenhalde/Weltraumphänomene": 25
   },
   "zeitmaschine": {
     "/Abenteuer/Zeitraub_II/Javar_3": 29,
@@ -13283,6 +13330,9 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl": 125,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 26,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 1
+  },
+  "zeitwelle": {
+    "/Ideenhalde/Weltraumphänomene": 25
   },
   "zeno": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Zeno": 287,
@@ -13414,7 +13464,7 @@
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 2,
     "/Weltraum/Promis": 2,
     "/Abenteuer/Blumenkind/Blumenkind": 1,
-    "/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/Trauerzeremonie": 1,
+    "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Die_Eisgalaxis/": 1
   },
   "zweite": {

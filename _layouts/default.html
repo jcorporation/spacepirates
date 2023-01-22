@@ -40,6 +40,15 @@
         <div class="list-group list-group-flush" id="searchResult"></div>
       </div>
     </div>
+    <div data-bs-theme="dark" class="offcanvas offcanvas-end" tabindex="-1" id="sitemap-menu">
+      <div class="offcanvas-header">
+        <h5>Sitemap</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+      </div>
+      <div class="offcanvas-body p-0">
+        {% include sitemap.html %}
+      </div>
+    </div>
     <header class="navbar navbar-expand-sm navbar-dark bg-sterne">
       <nav class="container-xxl flex-column flex-wrap flex-md-nowrap pt-3">
         <a class="navbar-brand p-0 mb-4" href="{{ site.baseurl }}/">
@@ -68,7 +77,7 @@
           </a>
         </div>
         <div>
-          <a title="Nach oben" id="totop" href="#top"></a>
+          {% include navigate.md data=page.permalink %}
         </div>
       </nav>
     </footer>

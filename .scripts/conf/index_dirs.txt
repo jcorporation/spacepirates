@@ -2,6 +2,7 @@ Abenteuer
 Spielregeln
 Weltraum
 Zufallstabellen
+Ideenhalde
 collections/_Piratencrews
 collections/_Sekten
 collections/_Weltraumtiere

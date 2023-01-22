@@ -35,6 +35,12 @@ then
     done
 fi
 
+#create sitemap
+if ! .scripts/create-sitemap.sh
+then
+    exit 1
+fi
+
 #validate and copy to assets folder
 for F in "$DATADIR/"*.json
 do

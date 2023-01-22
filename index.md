@@ -52,7 +52,7 @@ SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedre
 </div>
 <div class="row bg-yellow g-0 text-center rounded-bottom mb-3">
   <div class="col clickable border-end p-2">
-      <a href="{{ site.baseurl }}/Spielregeln/Was_ist_SpacePirates" class="link-dark">Was ist SpacePirates?</a>
+      <a href="{{ site.baseurl }}/Was_ist_SpacePirates" class="link-dark">Was ist SpacePirates?</a>
   </div>
   <div class="col clickable border-end p-2">
       <a href="{{ site.baseurl }}/Aktuelles/" class="link-dark">Aktuelles</a>

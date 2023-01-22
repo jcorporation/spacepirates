@@ -212,19 +212,6 @@ button:focus {
   border-color: black !important;
 }
 
-a#totop {
-  display: block;
-  width: 19px;
-  height: 12px;
-  background-image: url("/assets/images/totop.png");
-  text-decoration: none;
-  opacity: 0.2;
-}
-
-a#totop:hover {
-  opacity: 0.6;
-}
-
 .tbl-collapsed {
   display: inline-block;
 }
@@ -270,4 +257,38 @@ th[data-sort="desc"]::before {
 
 input.filter-table {
   display: block;
+}
+
+ul.sitemap,
+ul.sitemap ul {
+  list-style-type: none;
+}
+
+ul.sitemap li {
+  margin-top: 0.5rem;
+}
+
+ul.sitemap ul {
+  display:none;
+}
+
+a.sm-expand {
+  font-family: "Bootstrap Icons";
+  font-size: 1rem;
+  line-height: 1;
+  text-decoration: none;
+  margin-right: 0.6rem;
+}
+
+ul.sitemap a {
+  color: #e9ecef;
+}
+
+.offcanvas-body > ul {
+  padding-left: 1rem;
+}
+
+.sm-current > a {
+  color: #ffcc00 !important;
+  text-decoration: none;
 }

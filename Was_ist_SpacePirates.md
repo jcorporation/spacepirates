@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /Spielregeln/Was_ist_SpacePirates
+permalink: /Was_ist_SpacePirates
 title: Was ist SpacePirates?
+order: /000
 ---
 
 # Was ist SpacePirates?
