@@ -27,7 +27,8 @@ Cabriokit (für 1 Macke ertauscht)</td></tr>
 6. KI eingebaut<br/>
 7. keine<br/>
 8. keine<br/>
-9. keine</td></tr>
+9. keine<br/>
+10. keine</td></tr>
 </tbody>
 </table>
 
