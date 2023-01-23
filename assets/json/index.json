@@ -23,9 +23,9 @@
     "/Spielregeln/Abenteuer_erleben/Abenteuer/": 135,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 82,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 80,
+    "/Spielregeln/Abenteuer_erleben/": 79,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 78,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": 77,
-    "/Spielregeln/Abenteuer_erleben/": 54,
     "/Spielregeln/": 31,
     "/Spielregeln/Vor_dem_Spiel": 27,
     "/Zufallstabellen/": 25,
@@ -44,7 +44,7 @@
     "/Abenteuer/Blumenkind/": 1
   },
   "abenteuer erleben": {
-    "/Spielregeln/Abenteuer_erleben/": 100,
+    "/Spielregeln/Abenteuer_erleben/": 125,
     "/Spielregeln/": 25
   },
   "abenteuer erstellen": {
@@ -2955,7 +2955,7 @@
     "/Abenteuer/Halloween/Einstieg": 1
   },
   "erleben": {
-    "/Spielregeln/Abenteuer_erleben/": 50,
+    "/Spielregeln/Abenteuer_erleben/": 75,
     "/Spielregeln/": 25,
     "/Abenteuer/Laborratten/": 1
   },
@@ -8358,7 +8358,6 @@
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 28,
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 26,
     "/Spielregeln/": 26,
-    "/Spielregeln/Abenteuer_erleben/": 25,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 3,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
     "/Abenteuer/Der_grosse_Fang/Danach": 1
