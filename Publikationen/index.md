@@ -261,7 +261,7 @@ Dies ist die erste Version von SpacePirates.
                     </div>
                     <div class="col">
                         <p>Die erste Version des SpacePirates Grundregelwerks.</p>
-                        <p>DIN A5 Hardcover, 130 Seiten</p>
+                        <p>DIN A5 Softcover, 130 Seiten</p>
                         <p>Preis: ausverkauft</p>
                     </div>
                 </div>
