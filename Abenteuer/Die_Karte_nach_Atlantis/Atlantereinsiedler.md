@@ -67,4 +67,4 @@ Zwar ist Kritias verrückt und verwirrt, erkennt aber die Karte augenblicklich u
 ***
 
 - **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
-- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung)
+- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung)

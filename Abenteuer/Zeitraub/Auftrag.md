@@ -91,5 +91,5 @@ Jangba wird den Charakteren bei ihrem Auftrag nicht weiter unter die Arme greife
 
 ***
 
-- **Zurück:** [Übersicht]({{ site.baseurl }}/Abenteuer/Zeitraub/Übersicht)
+- **Zurück:** [Übersicht]({{ site.baseurl }}/Abenteuer/Zeitraub/Uebersicht)
 - **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Zeitraub/Nachforschungen)

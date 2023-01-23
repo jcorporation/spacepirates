@@ -58,7 +58,7 @@
     "Hauptstadt": "",
     "Besiedelung": "Filmsets",
     "Politisches": "Filmplanet",
-    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Avantgardia"
+    "Link": "/Weltraum/Freihandelszone/System_der_Traeume/Avantgardia"
   },
   "Beta_Prison": {
     "Name": "Beta Prison",
@@ -91,7 +91,7 @@
     "Hauptstadt": "",
     "Besiedelung": "weiße Paläste",
     "Politisches": "Filmplanet",
-    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Bollywood"
+    "Link": "/Weltraum/Freihandelszone/System_der_Traeume/Bollywood"
   },
   "Brarbragroz": {
     "Name": "Brarbragroz",
@@ -157,7 +157,7 @@
     "Hauptstadt": "",
     "Besiedelung": "Filmsets",
     "Politisches": "Filmplanet",
-    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Der_Rote_Planet"
+    "Link": "/Weltraum/Freihandelszone/System_der_Traeume/Der_Rote_Planet"
   },
   "Doradus": {
     "Name": "Doradus",
@@ -190,7 +190,7 @@
     "Hauptstadt": "Brüssel",
     "Besiedelung": "durchschnittlich, mit vielen Städten",
     "Politisches": "Heimatplanet der Menschen",
-    "Link": "/Weltraum/Menschen/Föderation/Erde"
+    "Link": "/Weltraum/Menschen/Foederation/Erde"
   },
   "Ghultar": {
     "Name": "Ghultar",
@@ -234,7 +234,7 @@
     "Hauptstadt": "",
     "Besiedelung": "Filmstudios",
     "Politisches": "Filmplanet",
-    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Hollywood"
+    "Link": "/Weltraum/Freihandelszone/System_der_Traeume/Hollywood"
   },
   "Javar_3": {
     "Name": "Javar 3",
@@ -289,7 +289,7 @@
     "Hauptstadt": "",
     "Besiedelung": "Bergarbeitersiedlungen",
     "Politisches": "Eigentum von SpaceShell",
-    "Link": "/Weltraum/Menschen/Föderation/Katpar"
+    "Link": "/Weltraum/Menschen/Foederation/Katpar"
   },
   "Keas": {
     "Name": "Keas",
@@ -377,7 +377,7 @@
     "Hauptstadt": "-",
     "Besiedelung": "Konzernplanet",
     "Politisches": "Hauptstandort der JCTech IAG",
-    "Link": "/Weltraum/Menschen/Föderation/Omar"
+    "Link": "/Weltraum/Menschen/Foederation/Omar"
   },
   "Omatic": {
     "Name": "Omatic",
@@ -388,7 +388,7 @@
     "Hauptstadt": "Konzernzentrale",
     "Besiedelung": "Konzernplanet",
     "Politisches": "Omatic Enterprise",
-    "Link": "/Weltraum/Menschen/Föderation/Omatic"
+    "Link": "/Weltraum/Menschen/Foederation/Omatic"
   },
   "Omega_10": {
     "Name": "Omega 10",
@@ -421,7 +421,7 @@
     "Hauptstadt": "Pandar City",
     "Besiedelung": "wenige Städte",
     "Politisches": "",
-    "Link": "/Weltraum/Menschen/Föderation/Pandar_5"
+    "Link": "/Weltraum/Menschen/Foederation/Pandar_5"
   },
   "Pessach_4": {
     "Name": "Pessach 4",
@@ -432,7 +432,7 @@
     "Hauptstadt": "Rabbit City",
     "Besiedelung": "große Fabriken",
     "Politisches": "Yellow Stone Group",
-    "Link": "/Weltraum/Menschen/Föderation/Pessach_4"
+    "Link": "/Weltraum/Menschen/Foederation/Pessach_4"
   },
   "Proxima_Sigma_II": {
     "Name": "Proxima Sigma II",
@@ -476,7 +476,7 @@
     "Hauptstadt": "",
     "Besiedelung": "Filmsets",
     "Politisches": "Filmplanet",
-    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Sandalien"
+    "Link": "/Weltraum/Freihandelszone/System_der_Traeume/Sandalien"
   },
   "Santa_24": {
     "Name": "Santa 24",
@@ -509,7 +509,7 @@
     "Hauptstadt": "",
     "Besiedelung": "Filmsets",
     "Politisches": "Filmplanet",
-    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Serius_80"
+    "Link": "/Weltraum/Freihandelszone/System_der_Traeume/Serius_80"
   },
   "Sisbert": {
     "Name": "Sisbert",
@@ -520,7 +520,7 @@
     "Hauptstadt": "",
     "Besiedelung": "Konzernplanet",
     "Politisches": "Eigentum Raumschiff & Co",
-    "Link": "/Weltraum/Menschen/Föderation/Sisbert"
+    "Link": "/Weltraum/Menschen/Foederation/Sisbert"
   },
   "Stratum_Nova": {
     "Name": "Stratum Nova",
@@ -553,7 +553,7 @@
     "Hauptstadt": "",
     "Besiedelung": "Filmsets",
     "Politisches": "Filmplanet",
-    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet"
+    "Link": "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet"
   },
   "Terra_20CAD": {
     "Name": "Terra 20CAD",
@@ -597,7 +597,7 @@
     "Hauptstadt": "keine",
     "Besiedelung": "kleine Siedlungen",
     "Politisches": "keine politischen Beziehungen",
-    "Link": "/Weltraum/Weltraumphänomene/Halloween-Nebel"
+    "Link": "/Weltraum/Weltraumphaenomene/Halloween-Nebel"
   },
   "Windsor_Planet": {
     "Name": "Windsor Planet",

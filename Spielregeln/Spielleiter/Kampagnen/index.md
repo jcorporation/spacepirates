@@ -11,4 +11,4 @@ Dieses Kapitel beschäftigt sich mit Tipps zum Gestalten und Leiten von kurzen K
 - [Gegenspieler der Charaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Gegenspieler)
 - [Freunde der Charaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Freunde)
 - [Beute]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Beute)
-- [Ausrüstung]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Ausrüstung)
+- [Ausrüstung]({{ site.baseurl }}/Spielregeln/Spielleiter/Kampagnen/Ausruestung)

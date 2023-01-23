@@ -15,7 +15,7 @@ Der größte Feind des Ninjas ist immer noch der Ninja (und natürlich Piraten, 
 Neben den sechs großen Ninja-Clans, die hier vorgestellt werden, gibt es auch noch dutzende kleinere Ninja-Clans, die aber oft so schnell wieder verschwinden, wie sie aufgetaucht sind und auch von den großen Ninja-Clans nicht wirklich ernst genommen werden, da sie jeden Clan, der nicht mindestens schon 1000 Jahre existiert als kurze Modeerscheinung abtun.
 
 - [Akamachi-Clan]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/Akamachi-Clan)
-- [Clan der Schildkröte]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkröte)
+- [Clan der Schildkröte]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkroete)
 - [Goemon-Ishikawa-Highschool]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/Goemon-Ishikawa-Highschool)
 - [Hashimara-Clan]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/Hashimara-Clan)
 - [Hattori-Hanzo-Akademie]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/Hattori-Hanzo-Akademie)

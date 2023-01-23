@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/Charaktere
 title: Die Charaktere
+order: /001
 ---
 
 # Die Charaktere

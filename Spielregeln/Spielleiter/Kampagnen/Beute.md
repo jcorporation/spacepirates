@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Spielleiter/Kampagnen/Beute
 title: Beute
+order: /002
 ---
 
 # Beute

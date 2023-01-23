@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Spielleiter/Kampagnen/Gegenspieler
 title: Gegenspieler der Charaktere
+order: /000
 ---
 
 # Gegenspieler der Charaktere

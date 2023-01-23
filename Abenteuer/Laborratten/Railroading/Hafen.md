@@ -32,4 +32,4 @@ Bei Sonnenaufgang steht die Hinrichtung der Charaktere an, sie sollen am Galgen 
 ***
 
 - **Zurück:** [Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Schatzinsel)
-- **Weiter:** [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Lösung)
+- **Weiter:** [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Loesung)

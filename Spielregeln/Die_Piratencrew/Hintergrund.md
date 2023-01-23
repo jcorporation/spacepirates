@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/Hintergrund
 title: Hintergrund
+order: /002
 sitedata:
     Piratenmacken:
         - extrem bürokratisch

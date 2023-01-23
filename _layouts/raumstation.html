@@ -9,13 +9,14 @@ layout: default
   <aside class="col col-xl-4 pe-0">
     {% assign name = page.title | replace: " ", "_" %}
     {% assign name = name | remove: "." %}
+    {% assign name = name | remove: '"' %}
     {% assign name = name | replace: "ß", "ss" %}
     {% assign name = name | replace: "ä", "ae" %}
     {% assign name = name | replace: "ö", "oe" %}
-    {% assign name = name | replace: "ü", "ae" %}
+    {% assign name = name | replace: "ü", "ue" %}
     {% assign name = name | replace: "Ä", "ae" %}
-    {% assign name = name | replace: "Ö", "ae" %}
-    {% assign name = name | replace: "Ü", "ae" %}
+    {% assign name = name | replace: "Ö", "oe" %}
+    {% assign name = name | replace: "Ü", "ue" %}
     {% assign data = page.sitedata.Raumstationen[name] %}
     {% include raumstation.md data=data %}
   </aside>

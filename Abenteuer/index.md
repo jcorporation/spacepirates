@@ -2,6 +2,7 @@
 layout: page
 permalink: /Abenteuer/
 title: Abenteuer
+order: /003
 ---
 
 # Abenteuer
@@ -26,13 +27,13 @@ Die Piraten bekommen von einem Strohmann der SWIP den Auftrag einen extrem selte
 
 Einer der Charaktere erbt eine goldene Schallplatte von seinem Onkel Nic Jäger, er war das letzte noch lebende Mitglied der Kultband Crashing Meteorits. Das Erbe muss mehr als nur einen ideellen Wert habe, dann auf einmal ist die SpaceRocker-Bande SpaceAngels hinter den Charakteren her.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/)
 
 ## Der große Fang
 
 Eine geheimnisvolle Schatzkarte zeigt einen unbekannten Bereich der Galaxis. Die Karte will entziffert werden und anschließend geht es daran den Schatz zu bergen. Bei dem Schatz handelt es sich um den mysteriösen „großen Fang“. Neben einem dreiköpfigen Affen bekommen auch SpaceNinjas ihren Auftritt.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Der_große_Fang/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Der_grosse_Fang/)
 
 ## Die Eisgalaxis
 
@@ -86,7 +87,7 @@ Es ist demnächst Ostern, es warten ein paar erholsame Feiertag auf die Piraten,
 
 Die Piraten kommen zufällig in den Besitz einer Spezial-Pizza des Hashimara-Clans und werden nun von den anderen Ninja-Clans deswegen verfolgt. Für die Piraten stellt sich die Frage: Was ist das für ein Gegenstand und warum sind alle Ninjas des Universum dahinter her?
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Pizza_für_Jonas_Wagner/)
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Pizza_fuer_Jonas_Wagner/)
 
 ## Rache des Akamachi-Clans
 

@@ -17,13 +17,13 @@ Sein Plan ist so simpel wie abgehoben: Die Piraten müssen lediglich den „Ster
 Natürlich ist Hein Mono nicht der Einzige, der die Hochzeit zu seinen Gunsten ausnutzen will…
 
 - [(Selbst-)Darsteller]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Selbstdarsteller)
-- [Konfliktübersicht]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Konfliktübersicht)
+- [Konfliktübersicht]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Konfliktuebersicht)
 - [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Einleitung)
 - [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam)
-- [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler)
+- [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler)
 - [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam)
 - [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone)
-- [Auftritt: Die üblichen Verdächtigen]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen)
+- [Auftritt: Die üblichen Verdächtigen]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen)
 - [Auftritt: Special Effects für alle!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle)
 
 ## Download

@@ -11,7 +11,7 @@ Die Charaktere kommen in den Besitz der Schatzkarte, die zum legendären Schatz 
 ## Inhalt
 
 - [Der Einstieg]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Einstieg)
-- [Die Schläger]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Schläger)
+- [Die Schläger]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Schlaeger)
 - [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Koordinaten)
 - [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch)
 - [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten)

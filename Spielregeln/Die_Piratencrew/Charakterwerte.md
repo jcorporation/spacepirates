@@ -2,13 +2,14 @@
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/Charakterwerte
 title: Charakterwerte
+order: /003
 ---
 
 # Charakterwerte
 
 ## Profile
 
-Die Fähigkeiten des Charakters werden durch die vier Profile HÄNDLER, PILOT, SÖLDNER und TECH definiert. Umso höher der Profilwert ist, umso besser ist der Charakter in Fertigkeiten dieses Bereichs. Der Profilwert bestimmt die Anzahl an Würfel, die bei einem Konflikt geworfen werden (siehe [Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/)).
+Die Fähigkeiten des Charakters werden durch die vier Profile HÄNDLER, PILOT, SÖLDNER und TECH definiert. Umso höher der Profilwert ist, umso besser ist der Charakter in Fertigkeiten dieses Bereichs. Der Profilwert bestimmt die Anzahl an Würfel, die bei einem Konflikt geworfen werden (siehe [Konflikte]({{ site.baseurl }}/Spielregeln/Abenteuer_erleben/Konflikte/)).
 
 Bei der Charaktererschaffung dürfen 12 Punkte auf die Profile verteilt werden. Jedem Profil muss mindestens ein Punkt zugeordnet werden, kein Profil darf um mehr als zwei Punkte vom nächsthöheren oder nächstniedrigeren Profil abweichen. Die maximal mögliche Spezialisierung bei der Charaktererschaffung ist daher 1, 2, 4, 5.
 
@@ -73,7 +74,7 @@ Konsequenzen sind Nachteile des Charakters, die ausgespielt werden müssen, aber
 
 ## Holo-Highscore-Punkte
 
-Jeder Charakter beginnt als Möchtegernpirat mit 0 Holo-Highscore-Punkten (HHP). HHP sammelt man, indem man Abenteuer durchlebt. Sie dienen dazu, den Charakter mit der Zeit besser werden zu lassen. Mehr Informationen zu HHP findest du im Abschnitt „[Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)“.
+Jeder Charakter beginnt als Möchtegernpirat mit 0 Holo-Highscore-Punkten (HHP). HHP sammelt man, indem man Abenteuer durchlebt. Sie dienen dazu, den Charakter mit der Zeit besser werden zu lassen. Mehr Informationen zu HHP findest du im Abschnitt „[Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer)“.
 
 ## Piratenwürfel
 

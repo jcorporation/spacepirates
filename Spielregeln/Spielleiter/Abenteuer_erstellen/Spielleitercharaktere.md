@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere
 title: Spielleitercharaktere
+order: /003
 ---
 
 # Spielleitercharaktere

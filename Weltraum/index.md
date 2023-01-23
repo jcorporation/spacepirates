@@ -2,13 +2,14 @@
 layout: page
 permalink: /Weltraum/
 title: Weltraum
+order: /002
 ---
 
 {% capture include_col1 %}
 
 # Weltraum
 
-Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die [Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/). Hier kann man nichts von der Unendlichkeit des Weltraums erahnen, denn ihr Zentrum besteht aus zehn dicht gedrängten Sternensystemen. Daher ist die Freihandelszone das Zentrum des Handels, der [Politik]({{ site.baseurl }}/Weltraum/Politische_Lage/) und Kultur im bekannten Universum, auch wenn die [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Föderation/) das nicht wahrhaben will. Hier sind Händler noch Händler, Intrigen noch Intrigen und [Piraten]({{ site.baseurl }}/Weltraum/Piraten/) noch frei. Genau diese Freihandelszone ist der Mittelpunkt der [Abenteuer]({{ site.baseurl }}/Abenteuer/) von SpacePirates.
+Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die [Freihandelszone]({{ site.baseurl }}/Weltraum/Freihandelszone/). Hier kann man nichts von der Unendlichkeit des Weltraums erahnen, denn ihr Zentrum besteht aus zehn dicht gedrängten Sternensystemen. Daher ist die Freihandelszone das Zentrum des Handels, der [Politik]({{ site.baseurl }}/Weltraum/Politische_Lage/) und Kultur im bekannten Universum, auch wenn die [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/) das nicht wahrhaben will. Hier sind Händler noch Händler, Intrigen noch Intrigen und [Piraten]({{ site.baseurl }}/Weltraum/Piraten/) noch frei. Genau diese Freihandelszone ist der Mittelpunkt der [Abenteuer]({{ site.baseurl }}/Abenteuer/) von SpacePirates.
 {% endcapture %}
 
 {% capture include_col2 %}
@@ -29,18 +30,18 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 - [Historie]({{ site.baseurl }}/Weltraum/Historie)
 - [Aktuelle politische Lage]({{ site.baseurl }}/Weltraum/Politische_Lage/)
 - [Weltraumtiere]({{ site.baseurl }}/Weltraum/Weltraumtiere)
-- [Weltraumphänomene]({{ site.baseurl }}/Weltraum/Weltraumphänomene/)
+- [Weltraumphänomene]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/)
 - [Planeten und Sternensysteme]({{ site.baseurl }}/Weltraum/Planeten_und_Sternensysteme)
-- [Zurückgebliebene Planeten]({{ site.baseurl }}/Weltraum/Zurückgebliebene_Planeten)
+- [Zurückgebliebene Planeten]({{ site.baseurl }}/Weltraum/Zurueckgebliebene_Planeten)
 - [Raumstationen]({{ site.baseurl }}/Weltraum/Raumstationen/)
-- [Städte]({{ site.baseurl }}/Weltraum/Städte)
+- [Städte]({{ site.baseurl }}/Weltraum/Staedte)
 {% endcapture %}
 
 {% capture include_col2 %}
 
 ## Menschen
 
-- [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)
+- [Föderation]({{ site.baseurl }}/Weltraum/Menschen/Foederation/)
 - [Sternenrepublik Neuasien]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/)
 
 ## Aliens
@@ -72,12 +73,12 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 - [SpaceRocker]({{ site.baseurl }}/Weltraum/SpaceRocker/)
 - [Promis]({{ site.baseurl }}/Weltraum/Promis)
 - [Konzerne]({{ site.baseurl }}/Weltraum/Konzerne/)
-- [Händler und Halunken]({{ site.baseurl }}/Weltraum/Händler_und_Halunken)
-- [Verrückte Wissenschaftler]({{ site.baseurl }}/Weltraum/Verrückte_Wissenschaftler)
+- [Händler und Halunken]({{ site.baseurl }}/Weltraum/Haendler_und_Halunken)
+- [Verrückte Wissenschaftler]({{ site.baseurl }}/Weltraum/Verrueckte_Wissenschaftler)
 - [Sekten]({{ site.baseurl }}/Weltraum/Sekten/)
-- [Militär]({{ site.baseurl }}/Weltraum/Militär)
-- [Übersicht der bekannten Personen]({{ site.baseurl }}/Weltraum/Übersicht_der_bekannten_Personen)
-- [Übersicht der Organisationen]({{ site.baseurl }}/Weltraum/Übersicht_der_Organisationen)
+- [Militär]({{ site.baseurl }}/Weltraum/Militaer)
+- [Übersicht der bekannten Personen]({{ site.baseurl }}/Weltraum/Uebersicht_der_bekannten_Personen)
+- [Übersicht der Organisationen]({{ site.baseurl }}/Weltraum/Uebersicht_der_Organisationen)
 {% endcapture %}
 
 {% include columns3.md col1=include_col1 col2=include_col2 col3=include_col3 %}

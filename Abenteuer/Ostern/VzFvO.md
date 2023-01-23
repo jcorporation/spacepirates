@@ -47,4 +47,4 @@ Hier wird von den entführten Forschern an noch mächtigeren Sonden gearbeitet u
 ***
 
 - **Zurück:** [Sonden]({{ site.baseurl }}/Abenteuer/Ostern/Sonden)
-- **Weiter:** [Lösungsmöglichkeiten]({{ site.baseurl }}/Abenteuer/Ostern/Lösung)
+- **Weiter:** [Lösungsmöglichkeiten]({{ site.baseurl }}/Abenteuer/Ostern/Loesung)

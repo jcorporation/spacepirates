@@ -54,4 +54,4 @@ Entweder die Charaktere überwältigen die Glukorianer auf ihrem eigenen Schiff 
 
 ***
 
-- **Zurück:** [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Lösung)
+- **Zurück:** [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Loesung)

@@ -29,7 +29,7 @@ Der gesamte Planet ist radioaktiv verstrahlt, was bei der ohnehin kargen einheim
 
 ## Das Gefängnis
 
-- [Das Gefängnis]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/)
-  - [Gefängnisebenen]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Gefängnisebenen)
-  - [Personal]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal)
-  - [Insassen]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen)
+- [Das Gefängnis]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/)
+  - [Gefängnisebenen]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Gefaengnisebenen)
+  - [Personal]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Personal)
+  - [Insassen]({{ site.baseurl }}/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen)

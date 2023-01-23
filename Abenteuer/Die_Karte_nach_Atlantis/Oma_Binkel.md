@@ -32,4 +32,4 @@ Wenn die Piraten anstatt zu Oma Binkel zu fahren, ihr Glück auf dem Schrottplat
 ***
 
 - **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
-- **Weiter:** [Giftmüllentsorgung]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung)
+- **Weiter:** [Giftmüllentsorgung]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung)

@@ -12,7 +12,7 @@
     "Rasse": "SpaceWorm",
     "Kategorie": "Kneipenbesitzer",
     "Wohnort": "BigBong",
-    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten"
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten"
   },
   "Achmed": {
     "Name": "Achmed",
@@ -20,7 +20,7 @@
     "Kategorie": "Händler",
     "Wohnort": "BigBong",
     "Position": "",
-    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten"
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten"
   },
   "Adaxes_Karu": {
     "Name": "Adaxes Karu",
@@ -145,7 +145,7 @@
     ],
     "Wohnort": "Two Eyed Jack",
     "Position": "Kneipenbesitzer",
-    "Link": "/Weltraum/Händler_und_Halunken"
+    "Link": "/Weltraum/Haendler_und_Halunken"
   },
   "Bob": {
     "Name": "Bob",
@@ -176,7 +176,7 @@
     "HAENDLER": 6,
     "Zaehigkeit": 2,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Chester_Gateland": {
     "Name": "Chester Gateland",
@@ -184,7 +184,7 @@
     "Kategorie": "Militär",
     "Position": "Bekannter Kapitän des großen Trullschiffes Gateland.",
     "Wohnort": "Trullmania",
-    "Link": "/Weltraum/Militär"
+    "Link": "/Weltraum/Militaer"
   },
   "Cyril_Karpow": {
     "Name": "Cyril Karpow",
@@ -208,7 +208,7 @@
     "HAENDLER": 6,
     "Zaehigkeit": 2,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Dar_Balga": {
     "Name": "Dar Balga",
@@ -302,7 +302,7 @@
     "Kategorie": "Arzt",
     "Wohnort": "Sampuk",
     "Position": "",
-    "Link": "/Abenteuer/Der_große_Fang/Danach"
+    "Link": "/Abenteuer/Der_grosse_Fang/Danach"
   },
   "Dr__von_Nofeld": {
     "Name": "Dr. von Nofeld",
@@ -332,7 +332,7 @@
     "HAENDLER": 6,
     "Zaehigkeit": 2,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Edward_Bakutha": {
     "Name": "Edward Bakutha",
@@ -343,7 +343,7 @@
     ],
     "Position": "Leiter eines Forschungsteams des galaktischen Handelsrats.",
     "Wohnort": "Javar 3",
-    "Link": "/Weltraum/Verrückte_Wissenschaftler"
+    "Link": "/Weltraum/Verrueckte_Wissenschaftler"
   },
   "Eris": {
     "Name": "Eris",
@@ -360,7 +360,7 @@
     "HAENDLER": "4",
     "PILOT": "2",
     "Zaehigkeit": "2",
-    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten"
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten"
   },
   "Eysgul_Zankat": {
     "Name": "Eysgul Zankat",
@@ -434,7 +434,7 @@
     "HAENDLER": 6,
     "Zaehigkeit": 2,
     "Bewaffnung": "Laserpistole (WB 0)",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Gordon_Green": {
     "Name": "Gordon Green",
@@ -479,7 +479,7 @@
     ],
     "Wohnort": "Oyster-Cluster",
     "Position": "",
-    "Link": "/Weltraum/Händler_und_Halunken"
+    "Link": "/Weltraum/Haendler_und_Halunken"
   },
   "Hari_Jambal": {
     "Name": "Hari Jambal",
@@ -487,7 +487,7 @@
     "Kategorie": "Militär",
     "Position": "Admiral der Flotte Neuasiens.",
     "Wohnort": "Neuchina",
-    "Link": "/Weltraum/Militär"
+    "Link": "/Weltraum/Militaer"
   },
   "Harrison_Welch": {
     "Name": "Harrison Welch",
@@ -534,7 +534,7 @@
     "HAENDLER": 4,
     "Zaehigkeit": 4,
     "Bewaffnung": "Laserpistole (WB 0)",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Hemla": {
     "Name": "Hemla",
@@ -579,7 +579,7 @@
     "Zaehigkeit": "4",
     "Bewaffnung": "keine",
     "Position": "",
-    "Link": "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen"
+    "Link": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen"
   },
   "Ivy": {
     "Name": "Tsagul",
@@ -596,7 +596,7 @@
     ],
     "Wohnort": "Scrabnambu",
     "Position": "",
-    "Link": "/Weltraum/Händler_und_Halunken"
+    "Link": "/Weltraum/Haendler_und_Halunken"
   },
   "Jacqueline_Nenot": {
     "Name": "Jacqueline Nenot",
@@ -639,7 +639,7 @@
     "TECH": 7,
     "PILOT": 6,
     "HAENDLER": 9,
-    "Link": "/Weltraum/Händler_und_Halunken"
+    "Link": "/Weltraum/Haendler_und_Halunken"
   },
   "Javier_Moretti": {
     "Name": "Javier Moretti",
@@ -672,14 +672,14 @@
     "HAENDLER": "6",
     "Zaehigkeit": "4",
     "Bewaffnung": "Laserpistole: WB 0",
-    "Link": "/Weltraum/Verrückte_Wissenschaftler"
+    "Link": "/Weltraum/Verrueckte_Wissenschaftler"
   },
   "Jonas_Wagner": {
     "Name": "Jonas Wagner",
     "Rasse": "Neuasiat",
     "Kategorie": "Konzernchef",
     "Wohnort": "Kabukicho-Prime",
-    "Link": "/Weltraum/Konzerne/S_I_E__Robotermanufaktur"
+    "Link": "/Weltraum/Konzerne/S_I_E_Robotermanufaktur"
   },
   "Kaethe_von_Wagonien": {
     "Name": "Käthe von Wagonien",
@@ -696,14 +696,14 @@
     "HAENDLER": 6,
     "Zaehigkeit": 2,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Kalif_Kulwa": {
     "Name": "Kalif Kulwa",
     "Rasse": "SpaceWorm",
     "Kategorie": "Kalif",
     "Wohnort": "BigBong",
-    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten"
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten"
   },
   "Kalif_Rashad": {
     "Name": "Kalif Rashad",
@@ -726,7 +726,7 @@
     "Kategorie": "Händler",
     "Wohnort": "BigBong",
     "Position": "",
-    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten"
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten"
   },
   "Knecht_Ruprecht": {
     "Name": "Knecht Ruprecht",
@@ -756,7 +756,7 @@
     "HAENDLER": 8,
     "Zaehigkeit": 4,
     "Bewaffnung": "Wagonisches Zepter (WB 1",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Kritias": {
     "Name": "Kritias",
@@ -780,7 +780,7 @@
     "HAENDLER": 7,
     "Zaehigkeit": 4,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Kuster_Beaton": {
     "Name": "Kuster Beaton",
@@ -812,7 +812,7 @@
     "HAENDLER": 7,
     "Zaehigkeit": 2,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Larry_Stanton": {
     "Name": "Larry Stanton",
@@ -884,7 +884,7 @@
     "HAENDLER": 6,
     "Zaehigkeit": 4,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Lucy_Anderson": {
     "Name": "Lucy Anderson",
@@ -923,7 +923,7 @@
     "HAENDLER": 6,
     "Zaehigkeit": 2,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Marko_Saltvalley": {
     "Name": "Marko Saltvalley",
@@ -953,7 +953,7 @@
     "Kategorie": "Militär",
     "Wohnort": "Beta Prison",
     "Position": "",
-    "Link": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal"
+    "Link": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Personal"
   },
   "Melinda_Gomez": {
     "Name": "Melinda Gomez",
@@ -963,7 +963,7 @@
     ],
     "Wohnort": "Pandar 5",
     "Position": "",
-    "Link": "/Weltraum/Händler_und_Halunken"
+    "Link": "/Weltraum/Haendler_und_Halunken"
   },
   "Melonen-Wagoner_Chaplin": {
     "Name": "Melonen-Wagoner Chaplin",
@@ -978,7 +978,7 @@
     "Rasse": "Neuasiat",
     "Kategorie": "Einsiedler",
     "Wohnort": "Stummfilm-Planet",
-    "Link": "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet"
+    "Link": "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet"
   },
   "Naztur": {
     "Name": "Naztur",
@@ -992,7 +992,7 @@
     "Rasse": "Mensch",
     "Kategorie": "Händler",
     "Wohnort": "BigBong",
-    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten"
+    "Link": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten"
   },
   "Noh_Frut": {
     "Name": "Noh Frut",
@@ -1061,7 +1061,7 @@
     "Kategorie": "Verbrecher",
     "Wohnort": "Beta Prison",
     "Position": "",
-    "Link": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen"
+    "Link": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen"
   },
   "Prinz_Bruno_Morphium": {
     "Name": "Prinz Bruno Morphium",
@@ -1078,7 +1078,7 @@
     "HAENDLER": 4,
     "Zaehigkeit": 4,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Prinzessin_Lea": {
     "Name": "Prinzessin Lea",
@@ -1095,7 +1095,7 @@
     "HAENDLER": 8,
     "Zaehigkeit": 4,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Professor_Robotto": {
     "Name": "Professor Robotto",
@@ -1106,7 +1106,7 @@
     ],
     "Position": "",
     "Wohnort": "Scrabnambu",
-    "Link": "/Weltraum/Verrückte_Wissenschaftler"
+    "Link": "/Weltraum/Verrueckte_Wissenschaftler"
   },
   "Rachel_Springs": {
     "Name": "Rachel Springs",
@@ -1114,7 +1114,7 @@
     "Kategorie": "Militär",
     "Position": "Eine ranghohe Generalin der Föderationsflotte.",
     "Wohnort": "Erde",
-    "Link": "/Weltraum/Militär"
+    "Link": "/Weltraum/Militaer"
   },
   "Randul_Zac": {
     "Name": "Randul Zac",
@@ -1124,7 +1124,7 @@
     ],
     "Wohnort": "Keas",
     "Position": "",
-    "Link": "/Weltraum/Händler_und_Halunken"
+    "Link": "/Weltraum/Haendler_und_Halunken"
   },
   "Raul_Reitner": {
     "Name": "Raul Reitner",
@@ -1162,7 +1162,7 @@
     "HAENDLER": 6,
     "Zaehigkeit": 2,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Sabrwal": {
     "Name": "Sabrwal",
@@ -1174,7 +1174,7 @@
     ],
     "Position": "Assistent von Professor Robotto",
     "Wohnort": "Scrabnambu",
-    "Link": "/Weltraum/Verrückte_Wissenschaftler"
+    "Link": "/Weltraum/Verrueckte_Wissenschaftler"
   },
   "Scharxu": {
     "Name": "Scharxu",
@@ -1185,7 +1185,7 @@
     ],
     "Wohnort": "Freihandelszone",
     "Position": "",
-    "Link": "/Weltraum/Händler_und_Halunken"
+    "Link": "/Weltraum/Haendler_und_Halunken"
   },
   "Schmidtz": {
     "Name": "Schmidtz",
@@ -1227,7 +1227,7 @@
     "Kategorie": "Ninja",
     "Wohnort": "Einsiedlerplanet in der Nähe von Freeport",
     "Position": "",
-    "Link": "/Abenteuer/Der_große_Fang/Chinese"
+    "Link": "/Abenteuer/Der_grosse_Fang/Chinese"
   },
   "Simone_de_Montfort": {
     "Name": "Simone de Montfort",
@@ -1257,7 +1257,7 @@
     "Rasse": "Neuasiat",
     "Kategorie": "Konzernchef",
     "Wohnort": "Kabukicho-Prime",
-    "Link": "/Weltraum/Konzerne/S_I_E__Robotermanufaktur"
+    "Link": "/Weltraum/Konzerne/S_I_E_Robotermanufaktur"
   },
   "Takahashi_Ning": {
     "Name": "Takahashi Ning",
@@ -1268,7 +1268,7 @@
     ],
     "Wohnort": "Neuchina",
     "Position": "",
-    "Link": "/Weltraum/Händler_und_Halunken"
+    "Link": "/Weltraum/Haendler_und_Halunken"
   },
   "Tanaka_Mao": {
     "Name": "Tanaka Mao",
@@ -1342,7 +1342,7 @@
     "Kategorie": "Militär",
     "Position": "Ein korrupter Hauptmann der Flotte des Galaktischen Handelsrats.",
     "Wohnort": "Neusirius",
-    "Link": "/Weltraum/Militär"
+    "Link": "/Weltraum/Militaer"
   },
   "Weihnachtsmann": {
     "Name": "Weihnachtsmann",
@@ -1388,7 +1388,7 @@
     "HAENDLER": 4,
     "Zaehigkeit": 2,
     "Bewaffnung": "keine",
-    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie"
+    "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
   },
   "Xergul": {
     "Name": "Xergul",
@@ -1404,7 +1404,7 @@
     "PILOT": "4",
     "HAENDLER": "6",
     "Zaehigkeit": "4",
-    "Link": "/Weltraum/Verrückte_Wissenschaftler"
+    "Link": "/Weltraum/Verrueckte_Wissenschaftler"
   },
   "Xia_Xu": {
     "Name": "Xia Xu",
@@ -1426,7 +1426,7 @@
     "Kategorie": "Ninja",
     "Wohnort": "Kabukicho-Prime",
     "Position": "Ninja Großmeister",
-    "Link": "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkröte"
+    "Link": "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkroete"
   },
   "Yin-Yang-Yong": {
     "Name": "Yin-Yang-Yong",

@@ -4,56 +4,56 @@
     "Sektor": "Neutrale Zone",
     "Beschreibung": "Aggressive, lebende Planeten",
     "Politisches": "Heimat der SpaceRocker Baneros Banditos",
-    "Link": "/Weltraum/Weltraumphänomene/BadPlanets"
+    "Link": "/Weltraum/Weltraumphaenomene/BadPlanets"
   },
   "Brabenguertel": {
     "Name": "Brabengürtel",
     "Sektor": "Freihandelszone",
     "Beschreibung": "Meteoritengürtel",
     "Politisches": "Beliebtes Piratenversteck",
-    "Link": "/Weltraum/Weltraumphänomene/Brabengürtel"
+    "Link": "/Weltraum/Weltraumphaenomene/Brabenguertel"
   },
   "Dimensionsriss": {
     "Name": "Dimensionsriss",
     "Sektor": "Samara",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Dimensionsriss"
+    "Link": "/Weltraum/Weltraumphaenomene/Dimensionsriss"
   },
   "Ghomin-Nebel": {
     "Name": "Ghomin-Nebel",
     "Sektor": "Freihandelszone",
     "Beschreibung": "",
     "Politisches": "Piratenversteck",
-    "Link": "/Weltraum/Weltraumphänomene/Ghomin-Nebel"
+    "Link": "/Weltraum/Weltraumphaenomene/Ghomin-Nebel"
   },
   "Grosser_Spiralnebel_von_Trull": {
     "Name": "Großer Spiralnebel von Trull",
     "Sektor": "Trullimperium",
     "Beschreibung": "",
     "Politisches": "Hauptstützpunkt der Rebellen",
-    "Link": "/Weltraum/Weltraumphänomene/Großer_Spiralnebel_von_Trull"
+    "Link": "/Weltraum/Weltraumphaenomene/Grosser_Spiralnebel_von_Trull"
   },
   "Halloween-Nebel": {
     "Name": "Halloween-Nebel",
     "Sektor": "Sektor D1",
     "Beschreibung": "",
     "Politisches": "Piratenversteck",
-    "Link": "/Weltraum/Weltraumphänomene/Halloween-Nebel"
+    "Link": "/Weltraum/Weltraumphaenomene/Halloween-Nebel"
   },
   "Ionensturm": {
     "Name": "Ionensturm",
     "Sektor": "Reich der Wagonen",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Ionensturm"
+    "Link": "/Weltraum/Weltraumphaenomene/Ionensturm"
   },
   "Katpar-Wurmloch": {
     "Name": "Katpar-Wurmloch",
     "Sektor": "Föderation",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Katpar-Wurmloch"
+    "Link": "/Weltraum/Weltraumphaenomene/Katpar-Wurmloch"
   },
   "Lila_Loecher_und_Plasmaregenbogen": {
     "Name": "Lila Löcher und Plasmaregenbogen",
@@ -63,28 +63,28 @@
     ],
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen"
+    "Link": "/Weltraum/Weltraumphaenomene/Lila_Loecher_und_Plasmaregenbogen"
   },
   "Negrewz-Nebel": {
     "Name": "Negrewz-Nebel",
     "Sektor": "Sektor D1",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Negrewz-Nebel"
+    "Link": "/Weltraum/Weltraumphaenomene/Negrewz-Nebel"
   },
   "Oyster-Cluster": {
     "Name": "Oyster-Cluster",
     "Sektor": "Sektor B0",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Oyster-Cluster"
+    "Link": "/Weltraum/Weltraumphaenomene/Oyster-Cluster"
   },
   "Plasmasturm": {
     "Name": "Plasmasturm",
     "Sektor": "Sternenrepublik Neuasien",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Plasmasturm"
+    "Link": "/Weltraum/Weltraumphaenomene/Plasmasturm"
   },
   "Quantenfluktuation": {
     "Name": "Quantenfluktuation",
@@ -94,62 +94,62 @@
     ],
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Quantenfluktuation"
+    "Link": "/Weltraum/Weltraumphaenomene/Quantenfluktuation"
   },
   "Raumzeitverschiebung": {
     "Name": "Raumzeitverschiebung",
     "Sektor": "Neutrale Zone",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung"
+    "Link": "/Weltraum/Weltraumphaenomene/Raumzeitverschiebung"
   },
   "Schwarzes_Loch": {
     "Name": "Schwarzes Loch",
     "Sektor": "Samara",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Schwarzes_Loch"
+    "Link": "/Weltraum/Weltraumphaenomene/Schwarzes_Loch"
   },
   "Sombreronebel": {
     "Name": "Sombreronebel",
     "Sektor": "Trullimperium",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Sombreronebel"
+    "Link": "/Weltraum/Weltraumphaenomene/Sombreronebel"
   },
   "SpaceSchnee": {
     "Name": "SpaceSchnee",
     "Sektor": "",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/SpaceSchnee"
+    "Link": "/Weltraum/Weltraumphaenomene/SpaceSchnee"
   },
   "Spacewood-Forest": {
     "Name": "Spacewood-Forest",
     "Sektor": "Sektor A4",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Spacewood-Forest"
+    "Link": "/Weltraum/Weltraumphaenomene/Spacewood-Forest"
   },
   "Unwahrscheinlichkeitszone": {
     "Name": "Unwahrscheinlichkeitszone",
     "Sektor": "Sektor D1",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone"
+    "Link": "/Weltraum/Weltraumphaenomene/Unwahrscheinlichkeitszone"
   },
   "Weihnachts-Wurmloch": {
     "Name": "Weihnachts-Wurmloch",
     "Sektor": "Neutrale Zone",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Weihnachts-Wurmloch"
+    "Link": "/Weltraum/Weltraumphaenomene/Weihnachts-Wurmloch"
   },
   "Weißes_Loch": {
     "Name": "Weißes Loch",
     "Sektor": "Reich der Wagonen",
     "Beschreibung": "",
     "Politisches": "",
-    "Link": "/Weltraum/Weltraumphänomene/Weißes_Loch"
+    "Link": "/Weltraum/Weltraumphaenomene/Weisses_Loch"
   }
 }

@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien
 title: Parteien
+order: /002
 ---
 
 # Parteien

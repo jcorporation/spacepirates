@@ -18,7 +18,7 @@ Es ist möglich, die Karte mit einem Computerprogramm zu entschlüsseln. Entspre
 
 - [Oma Binkel]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel)
 - [Zombierechner]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner)
-- [Universität]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Universität)
+- [Universität]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Universitaet)
 
 ### Einen Atlanter fragen
 
@@ -30,4 +30,4 @@ Natürlich könnte man auch einen Atlanter bitten, die Schrift für einen zu ent
 ***
 
 - **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Einstieg)
-- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung)
+- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung)

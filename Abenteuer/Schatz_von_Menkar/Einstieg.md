@@ -42,5 +42,5 @@ Diese Sternenkonstellation tritt nur alle tausend Jahre auf und die Charaktere h
 
 ***
 
-- **Weiter:** [Die Schläger]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Schläger)
+- **Weiter:** [Die Schläger]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Schlaeger)
 - **Weiter:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Koordinaten)

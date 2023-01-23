@@ -15,4 +15,4 @@ Mithilfe seiner Geliebten Cecily Blazer-Polo will er als Sir Hat den Dieb stelle
 ***
 
 - **Zurück:** [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Einleitung)
-- **Weiter:** [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler)
+- **Weiter:** [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler)

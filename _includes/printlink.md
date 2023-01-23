@@ -1,6 +1,18 @@
 {%if include.link %}
     {% assign crumbs = include.link | remove_first: "/" | split: '/' %}
-    {% assign title = crumbs | join: " › " %}
+
+    {% assign link = "/" %}
+    {% assign title = "" %}
+    {% for l in crumbs %}
+        {% if forloop.last %}
+            {% assign link = link | append: l %}
+            {% assign title = title | append: site.data.sitemap[link].title %}
+        {% else %}
+            {% assign link = link | append: l | append: "/" %}
+            {% assign title = title | append: site.data.sitemap[link].title | append: " › " %}
+        {% endif %}
+    {% endfor %}
+
     {% if include.data[1] %}
         {% assign text = include.data | join: ", " %}
     {% else %}
@@ -28,8 +40,16 @@
         {% assign link = site.data[include.type][key].Link %}
         {% if link %}
             {% assign crumbs = link | remove_first: "/" | split: '/' %}
-            {% assign title = crumbs | join: " › " %}
-            {% assign title = title | replace: "_", " " %}
+            {% assign clink = "/" %}
+            {% assign title = "" %}
+            {% for l in crumbs %}
+                {% if forloop.last %}
+                    {% assign title = title | append: site.data.sitemap[link].title %}
+                {% else %}
+                    {% assign clink = clink | append: l | append: "/" %}
+                    {% assign title = title | append: site.data.sitemap[clink].title | append: " › " %}
+                {% endif %}
+            {% endfor %}
             <a title="{{ title }}" href="{{ link }}">{{ text }}</a>
         {% else %}
             {{ text }}

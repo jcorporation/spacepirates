@@ -19,7 +19,7 @@ Wie das weitere Vorgehen ist, hängt stark von deiner Arbeitsweise ab. Für ein 
 ## Abenteuerelemente
 
 - [Verlauf]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf)
-- [Schauplätze]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze)
+- [Schauplätze]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplaetze)
 - [Parteien]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien)
 - [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere)
 

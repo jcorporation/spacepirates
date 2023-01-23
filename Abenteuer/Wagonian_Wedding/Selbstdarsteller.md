@@ -19,7 +19,7 @@ sitedata:
 
 # (Selbst-)Darsteller
 
-- [Wagonische Königsfamilie]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie)
+- [Wagonische Königsfamilie]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie)
 
 ## Dr. von Nofeld
 

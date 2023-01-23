@@ -1,18 +1,18 @@
 {
   "0": {
     "Name": "Der Schiffscomputer spielt verrückt solange das Raumschiff im Sturm ist: -2 auf alle Raumschiffproben",
-    "Link": "/Weltraum/Weltraumphänomene/Ionensturm"
+    "Link": "/Weltraum/Weltraumphaenomene/Ionensturm"
   },
   "1": {
     "Name": "Eine, im Sturm lebende KI, bemächtigt sich des Raumschiffs. Sie hat eigene Ziele und kann jeden Befehl der Crew überschreiben (TECH-Probe oder HÄNDLER-Probe mit 7 Erfolgen um die KI zu vertreiben).",
-    "Link": "/Weltraum/Weltraumphänomene/Ionensturm"
+    "Link": "/Weltraum/Weltraumphaenomene/Ionensturm"
   },
   "2": {
     "Name": "Die Piraten treffen auf eine, im Sturm lebende und aus Ionen bestehende, Lebensform. Die KI [ionensturm_ki]",
-    "Link": "/Weltraum/Weltraumphänomene/Ionensturm"
+    "Link": "/Weltraum/Weltraumphaenomene/Ionensturm"
   },
   "3": {
     "Name": "Der Schildgenerator und die Raumschiffwaffen brennen durch (TECH-Probe mit 5 Erfolgen um den Schaden zu beheben).",
-    "Link": "/Weltraum/Weltraumphänomene/Ionensturm"
+    "Link": "/Weltraum/Weltraumphaenomene/Ionensturm"
   }
 }

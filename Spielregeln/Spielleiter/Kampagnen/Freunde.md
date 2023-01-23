@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Spielleiter/Kampagnen/Freunde
 title: Freunde der Charaktere
+order: /001
 ---
 
 # Freunde der Charaktere

@@ -15,4 +15,4 @@ Jeder Spieler erschafft seinen Charakter, dies geschieht gemeinsam, damit alle C
 
 ## 2. Abenteuer vorbereiten oder erstellen
 
-Dieser Teil liegt vollständig in der Verantwortung des Spielleiters. Er nimmt entweder ein fertiges Abenteuer oder schreibt ein eigenes. Hinweise, wie man dies am besten tut, finden sich im Kapitel „[Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/)“ weiter hinten im Buch.
+Dieser Teil liegt vollständig in der Verantwortung des Spielleiters. Er nimmt entweder ein fertiges Abenteuer oder schreibt ein eigenes. Hinweise, wie man dies am besten tut, finden sich im Kapitel „[Abenteuer]({{ site.baseurl }}/Spielregeln/Spielleiter/)“ weiter hinten im Buch.

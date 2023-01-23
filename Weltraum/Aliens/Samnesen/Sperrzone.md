@@ -11,7 +11,7 @@ Natürlich ist die Sperrzone gesichert; rund um die Sperrzone befinden sich in k
 ## In der Sperrzone
 
 - Planet: [Nova Ceti]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/Nova_Ceti)
-- Phänomen: [Dimensionsriss]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Dimensionsriss)
+- Phänomen: [Dimensionsriss]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/Dimensionsriss)
 
 ## Raumbojen
 

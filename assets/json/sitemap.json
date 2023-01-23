@@ -186,141 +186,141 @@
   "/Abenteuer/Buschraub/Syoner": {
     "prev": "/Abenteuer/Buschraub/SWIP",
     "firstInDir": false,
-    "next": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/",
+    "next": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/",
     "lastInDir": true,
     "parent": "/Abenteuer/Buschraub/",
     "title": "Syoner"
   },
-  "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/": {
+  "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/": {
     "prev": "/Abenteuer/Buschraub/Syoner",
     "firstInDir": true,
-    "next": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg",
+    "next": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Einstieg",
     "lastInDir": true,
     "parent": "/Abenteuer/",
     "title": "Das Vermächtnis der goldenen Schallplatte"
   },
-  "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg": {
-    "prev": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/",
+  "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Einstieg": {
+    "prev": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/",
     "firstInDir": true,
-    "next": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie",
+    "next": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie",
     "lastInDir": false,
-    "parent": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/",
+    "parent": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/",
     "title": "Einstieg"
   },
-  "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie": {
-    "prev": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Einstieg",
+  "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie": {
+    "prev": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Einstieg",
     "firstInDir": false,
-    "next": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu",
+    "next": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Auf_Scrabnambu",
     "lastInDir": false,
-    "parent": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/",
+    "parent": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/",
     "title": "Trauerzeremonie"
   },
-  "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": {
-    "prev": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Trauerzeremonie",
+  "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": {
+    "prev": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie",
     "firstInDir": false,
-    "next": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation",
+    "next": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation",
     "lastInDir": false,
-    "parent": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/",
+    "parent": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/",
     "title": "Auf Scrabnambu"
   },
-  "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": {
-    "prev": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Auf_Scrabnambu",
+  "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": {
+    "prev": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Auf_Scrabnambu",
     "firstInDir": false,
-    "next": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff",
+    "next": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff",
     "lastInDir": false,
-    "parent": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/",
+    "parent": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/",
     "title": "In der Quantenfluktuation"
   },
-  "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": {
-    "prev": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation",
+  "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": {
+    "prev": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation",
     "firstInDir": false,
-    "next": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende",
+    "next": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Ende",
     "lastInDir": false,
-    "parent": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/",
+    "parent": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/",
     "title": "Das alte Bandraumschiff"
   },
-  "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende": {
-    "prev": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff",
+  "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Ende": {
+    "prev": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff",
     "firstInDir": false,
-    "next": "/Abenteuer/Der_große_Fang/",
+    "next": "/Abenteuer/Der_grosse_Fang/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/",
+    "parent": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/",
     "title": "Ende"
   },
-  "/Abenteuer/Der_große_Fang/": {
-    "prev": "/Abenteuer/Das_Vermächtnis_der_goldenen_Schallplatte/Ende",
+  "/Abenteuer/Der_grosse_Fang/": {
+    "prev": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Ende",
     "firstInDir": true,
-    "next": "/Abenteuer/Der_große_Fang/Chinese",
+    "next": "/Abenteuer/Der_grosse_Fang/Chinese",
     "lastInDir": true,
     "parent": "/Abenteuer/",
     "title": "Der große Fang"
   },
-  "/Abenteuer/Der_große_Fang/Chinese": {
-    "prev": "/Abenteuer/Der_große_Fang/",
+  "/Abenteuer/Der_grosse_Fang/Chinese": {
+    "prev": "/Abenteuer/Der_grosse_Fang/",
     "firstInDir": true,
-    "next": "/Abenteuer/Der_große_Fang/Danach",
+    "next": "/Abenteuer/Der_grosse_Fang/Danach",
     "lastInDir": false,
-    "parent": "/Abenteuer/Der_große_Fang/",
+    "parent": "/Abenteuer/Der_grosse_Fang/",
     "title": "Beim alten Chinesen"
   },
-  "/Abenteuer/Der_große_Fang/Danach": {
-    "prev": "/Abenteuer/Der_große_Fang/Chinese",
+  "/Abenteuer/Der_grosse_Fang/Danach": {
+    "prev": "/Abenteuer/Der_grosse_Fang/Chinese",
     "firstInDir": false,
-    "next": "/Abenteuer/Der_große_Fang/Einstieg",
+    "next": "/Abenteuer/Der_grosse_Fang/Einstieg",
     "lastInDir": false,
-    "parent": "/Abenteuer/Der_große_Fang/",
+    "parent": "/Abenteuer/Der_grosse_Fang/",
     "title": "Danach"
   },
-  "/Abenteuer/Der_große_Fang/Einstieg": {
-    "prev": "/Abenteuer/Der_große_Fang/Danach",
+  "/Abenteuer/Der_grosse_Fang/Einstieg": {
+    "prev": "/Abenteuer/Der_grosse_Fang/Danach",
     "firstInDir": false,
-    "next": "/Abenteuer/Der_große_Fang/Portal",
+    "next": "/Abenteuer/Der_grosse_Fang/Portal",
     "lastInDir": false,
-    "parent": "/Abenteuer/Der_große_Fang/",
+    "parent": "/Abenteuer/Der_grosse_Fang/",
     "title": "Einstieg"
   },
-  "/Abenteuer/Der_große_Fang/Portal": {
-    "prev": "/Abenteuer/Der_große_Fang/Einstieg",
+  "/Abenteuer/Der_grosse_Fang/Portal": {
+    "prev": "/Abenteuer/Der_grosse_Fang/Einstieg",
     "firstInDir": false,
-    "next": "/Abenteuer/Der_große_Fang/Proxima_Sigma",
+    "next": "/Abenteuer/Der_grosse_Fang/Proxima_Sigma",
     "lastInDir": false,
-    "parent": "/Abenteuer/Der_große_Fang/",
+    "parent": "/Abenteuer/Der_grosse_Fang/",
     "title": "Das Portal"
   },
-  "/Abenteuer/Der_große_Fang/Proxima_Sigma": {
-    "prev": "/Abenteuer/Der_große_Fang/Portal",
+  "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": {
+    "prev": "/Abenteuer/Der_grosse_Fang/Portal",
     "firstInDir": false,
-    "next": "/Abenteuer/Der_große_Fang/Proxima_Sigma_II",
+    "next": "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II",
     "lastInDir": false,
-    "parent": "/Abenteuer/Der_große_Fang/",
+    "parent": "/Abenteuer/Der_grosse_Fang/",
     "title": "Proxima Sigma"
   },
-  "/Abenteuer/Der_große_Fang/Proxima_Sigma_II": {
-    "prev": "/Abenteuer/Der_große_Fang/Proxima_Sigma",
+  "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": {
+    "prev": "/Abenteuer/Der_grosse_Fang/Proxima_Sigma",
     "firstInDir": false,
-    "next": "/Abenteuer/Der_große_Fang/Reise",
+    "next": "/Abenteuer/Der_grosse_Fang/Reise",
     "lastInDir": false,
-    "parent": "/Abenteuer/Der_große_Fang/",
+    "parent": "/Abenteuer/Der_grosse_Fang/",
     "title": "Proxima Sigma II"
   },
-  "/Abenteuer/Der_große_Fang/Reise": {
-    "prev": "/Abenteuer/Der_große_Fang/Proxima_Sigma_II",
+  "/Abenteuer/Der_grosse_Fang/Reise": {
+    "prev": "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II",
     "firstInDir": false,
-    "next": "/Abenteuer/Der_große_Fang/SpaceNinjas",
+    "next": "/Abenteuer/Der_grosse_Fang/SpaceNinjas",
     "lastInDir": false,
-    "parent": "/Abenteuer/Der_große_Fang/",
+    "parent": "/Abenteuer/Der_grosse_Fang/",
     "title": "Die Reise nach Proxima Sigma"
   },
-  "/Abenteuer/Der_große_Fang/SpaceNinjas": {
-    "prev": "/Abenteuer/Der_große_Fang/Reise",
+  "/Abenteuer/Der_grosse_Fang/SpaceNinjas": {
+    "prev": "/Abenteuer/Der_grosse_Fang/Reise",
     "firstInDir": false,
     "next": "/Abenteuer/Die_Eisgalaxis/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Der_große_Fang/",
+    "parent": "/Abenteuer/Der_grosse_Fang/",
     "title": "SpaceNinjas"
   },
   "/Abenteuer/Die_Eisgalaxis/": {
-    "prev": "/Abenteuer/Der_große_Fang/SpaceNinjas",
+    "prev": "/Abenteuer/Der_grosse_Fang/SpaceNinjas",
     "firstInDir": true,
     "next": "/Abenteuer/Die_Karte_nach_Atlantis/",
     "lastInDir": false,
@@ -378,12 +378,12 @@
   "/Abenteuer/Die_Karte_nach_Atlantis/Ende": {
     "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg",
     "firstInDir": false,
-    "next": "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung",
+    "next": "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung",
     "lastInDir": false,
     "parent": "/Abenteuer/Die_Karte_nach_Atlantis/",
     "title": "Ende"
   },
-  "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung": {
+  "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": {
     "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Ende",
     "firstInDir": false,
     "next": "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen",
@@ -392,7 +392,7 @@
     "title": "Giftmüllentsorgung"
   },
   "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": {
-    "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Giftmüllentsorgung",
+    "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung",
     "firstInDir": false,
     "next": "/Abenteuer/Die_Karte_nach_Atlantis/Nebel",
     "lastInDir": false,
@@ -418,13 +418,21 @@
   "/Abenteuer/Die_Karte_nach_Atlantis/Rebellen": {
     "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel",
     "firstInDir": false,
-    "next": "/Abenteuer/Die_Karte_nach_Atlantis/Universität",
+    "next": "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung",
     "lastInDir": false,
     "parent": "/Abenteuer/Die_Karte_nach_Atlantis/",
     "title": "Rebellen"
   },
-  "/Abenteuer/Die_Karte_nach_Atlantis/Universität": {
+  "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": {
     "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Rebellen",
+    "firstInDir": false,
+    "next": "/Abenteuer/Die_Karte_nach_Atlantis/Universitaet",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Die_Karte_nach_Atlantis/",
+    "title": "Übersetzung des Pergaments"
+  },
+  "/Abenteuer/Die_Karte_nach_Atlantis/Universitaet": {
+    "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung",
     "firstInDir": false,
     "next": "/Abenteuer/Die_Karte_nach_Atlantis/Weg",
     "lastInDir": false,
@@ -432,7 +440,7 @@
     "title": "Universität"
   },
   "/Abenteuer/Die_Karte_nach_Atlantis/Weg": {
-    "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Universität",
+    "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Universitaet",
     "firstInDir": false,
     "next": "/Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl",
     "lastInDir": false,
@@ -450,21 +458,13 @@
   "/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner": {
     "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl",
     "firstInDir": false,
-    "next": "/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Die_Karte_nach_Atlantis/",
-    "title": "Zombierechner"
-  },
-  "/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung": {
-    "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner",
-    "firstInDir": false,
     "next": "/Abenteuer/Dungeonplanet/",
     "lastInDir": true,
     "parent": "/Abenteuer/Die_Karte_nach_Atlantis/",
-    "title": "Übersetzung des Pergaments"
+    "title": "Zombierechner"
   },
   "/Abenteuer/Dungeonplanet/": {
-    "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung",
+    "prev": "/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner",
     "firstInDir": true,
     "next": "/Abenteuer/Dungeonplanet/Ebene1",
     "lastInDir": true,
@@ -602,45 +602,45 @@
   "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": {
     "prev": "/Abenteuer/Ideen/",
     "firstInDir": true,
-    "next": "/Abenteuer/Ideen/Aufträge_auf_der_Mimen-Mission",
+    "next": "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission",
     "lastInDir": false,
     "parent": "/Abenteuer/Ideen/",
     "title": "Atlanter vs Spaceamazonen"
   },
-  "/Abenteuer/Ideen/Aufträge_auf_der_Mimen-Mission": {
+  "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": {
     "prev": "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen",
     "firstInDir": false,
-    "next": "/Abenteuer/Ideen/Die_Affäre_um_Roboter_4711",
+    "next": "/Abenteuer/Ideen/Die_Affaere_um_Roboter_4711",
     "lastInDir": false,
     "parent": "/Abenteuer/Ideen/",
     "title": "Aufträge auf der Mimen-Mission"
   },
-  "/Abenteuer/Ideen/Die_Affäre_um_Roboter_4711": {
-    "prev": "/Abenteuer/Ideen/Aufträge_auf_der_Mimen-Mission",
+  "/Abenteuer/Ideen/Die_Affaere_um_Roboter_4711": {
+    "prev": "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission",
     "firstInDir": false,
-    "next": "/Abenteuer/Ideen/Dysonsphäre",
+    "next": "/Abenteuer/Ideen/Dysonsphaere",
     "lastInDir": false,
     "parent": "/Abenteuer/Ideen/",
     "title": "Die Affäre um Roboter 4711"
   },
-  "/Abenteuer/Ideen/Dysonsphäre": {
-    "prev": "/Abenteuer/Ideen/Die_Affäre_um_Roboter_4711",
+  "/Abenteuer/Ideen/Dysonsphaere": {
+    "prev": "/Abenteuer/Ideen/Die_Affaere_um_Roboter_4711",
     "firstInDir": false,
-    "next": "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Königin_Maud",
+    "next": "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Koenigin_Maud",
     "lastInDir": false,
     "parent": "/Abenteuer/Ideen/",
     "title": "Dysonsphäre"
   },
-  "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Königin_Maud": {
-    "prev": "/Abenteuer/Ideen/Dysonsphäre",
+  "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Koenigin_Maud": {
+    "prev": "/Abenteuer/Ideen/Dysonsphaere",
     "firstInDir": false,
     "next": "/Abenteuer/Ideen/Golfplatz",
     "lastInDir": false,
     "parent": "/Abenteuer/Ideen/",
-    "title": "Gilgamesch und die Diamanten der Königin Maud"
+    "title": "Gilgamesch und die Diamanten der Koenigin Maud"
   },
   "/Abenteuer/Ideen/Golfplatz": {
-    "prev": "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Königin_Maud",
+    "prev": "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Koenigin_Maud",
     "firstInDir": false,
     "next": "/Abenteuer/Ideen/Rosa_Loch",
     "lastInDir": false,
@@ -738,12 +738,12 @@
   "/Abenteuer/Laborratten/Einstieg": {
     "prev": "/Abenteuer/Laborratten/Dahinter",
     "firstInDir": false,
-    "next": "/Abenteuer/Laborratten/Lösung",
+    "next": "/Abenteuer/Laborratten/Loesung",
     "lastInDir": false,
     "parent": "/Abenteuer/Laborratten/",
     "title": "Einstieg"
   },
-  "/Abenteuer/Laborratten/Lösung": {
+  "/Abenteuer/Laborratten/Loesung": {
     "prev": "/Abenteuer/Laborratten/Einstieg",
     "firstInDir": false,
     "next": "/Abenteuer/Neutritiumklau/",
@@ -752,7 +752,7 @@
     "title": "Lösung"
   },
   "/Abenteuer/Neutritiumklau/": {
-    "prev": "/Abenteuer/Laborratten/Lösung",
+    "prev": "/Abenteuer/Laborratten/Loesung",
     "firstInDir": true,
     "next": "/Abenteuer/Neutritiumklau/Auftrag",
     "lastInDir": true,
@@ -826,12 +826,12 @@
   "/Abenteuer/Ostern/Hintergrund": {
     "prev": "/Abenteuer/Ostern/Einstieg",
     "firstInDir": false,
-    "next": "/Abenteuer/Ostern/Lösung",
+    "next": "/Abenteuer/Ostern/Loesung",
     "lastInDir": false,
     "parent": "/Abenteuer/Ostern/",
     "title": "Hintergrund"
   },
-  "/Abenteuer/Ostern/Lösung": {
+  "/Abenteuer/Ostern/Loesung": {
     "prev": "/Abenteuer/Ostern/Hintergrund",
     "firstInDir": false,
     "next": "/Abenteuer/Ostern/Nachforschungen",
@@ -840,7 +840,7 @@
     "title": "Lösungsmöglichkeiten"
   },
   "/Abenteuer/Ostern/Nachforschungen": {
-    "prev": "/Abenteuer/Ostern/Lösung",
+    "prev": "/Abenteuer/Ostern/Loesung",
     "firstInDir": false,
     "next": "/Abenteuer/Ostern/Rabbit_Inc",
     "lastInDir": false,
@@ -866,45 +866,45 @@
   "/Abenteuer/Ostern/VzFvO": {
     "prev": "/Abenteuer/Ostern/Sonden",
     "firstInDir": false,
-    "next": "/Abenteuer/Pizza_für_Jonas_Wagner/",
+    "next": "/Abenteuer/Pizza_fuer_Jonas_Wagner/",
     "lastInDir": true,
     "parent": "/Abenteuer/Ostern/",
     "title": "Vereinigung zur Förderung von Ostern - VzFvO"
   },
-  "/Abenteuer/Pizza_für_Jonas_Wagner/": {
+  "/Abenteuer/Pizza_fuer_Jonas_Wagner/": {
     "prev": "/Abenteuer/Ostern/VzFvO",
     "firstInDir": true,
-    "next": "/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung",
+    "next": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung",
     "lastInDir": true,
     "parent": "/Abenteuer/",
     "title": "Pizza für Jonas Wagner"
   },
-  "/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung": {
-    "prev": "/Abenteuer/Pizza_für_Jonas_Wagner/",
+  "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": {
+    "prev": "/Abenteuer/Pizza_fuer_Jonas_Wagner/",
     "firstInDir": true,
-    "next": "/Abenteuer/Pizza_für_Jonas_Wagner/Einstieg",
+    "next": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg",
     "lastInDir": false,
-    "parent": "/Abenteuer/Pizza_für_Jonas_Wagner/",
+    "parent": "/Abenteuer/Pizza_fuer_Jonas_Wagner/",
     "title": "Auflösung"
   },
-  "/Abenteuer/Pizza_für_Jonas_Wagner/Einstieg": {
-    "prev": "/Abenteuer/Pizza_für_Jonas_Wagner/Auflösung",
+  "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg": {
+    "prev": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung",
     "firstInDir": false,
-    "next": "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen",
+    "next": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen",
     "lastInDir": false,
-    "parent": "/Abenteuer/Pizza_für_Jonas_Wagner/",
+    "parent": "/Abenteuer/Pizza_fuer_Jonas_Wagner/",
     "title": "Einstieg"
   },
-  "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen": {
-    "prev": "/Abenteuer/Pizza_für_Jonas_Wagner/Einstieg",
+  "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": {
+    "prev": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg",
     "firstInDir": false,
     "next": "/Abenteuer/Rache_des_Akamachi-Clans/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Pizza_für_Jonas_Wagner/",
+    "parent": "/Abenteuer/Pizza_fuer_Jonas_Wagner/",
     "title": "Nachforschungen"
   },
   "/Abenteuer/Rache_des_Akamachi-Clans/": {
-    "prev": "/Abenteuer/Pizza_für_Jonas_Wagner/Nachforschungen",
+    "prev": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen",
     "firstInDir": true,
     "next": "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag",
     "lastInDir": true,
@@ -1074,12 +1074,12 @@
   "/Abenteuer/Schatz_von_Menkar/Koordinaten": {
     "prev": "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch",
     "firstInDir": false,
-    "next": "/Abenteuer/Schatz_von_Menkar/Schläger",
+    "next": "/Abenteuer/Schatz_von_Menkar/Schlaeger",
     "lastInDir": false,
     "parent": "/Abenteuer/Schatz_von_Menkar/",
     "title": "Bei den Koordinaten"
   },
-  "/Abenteuer/Schatz_von_Menkar/Schläger": {
+  "/Abenteuer/Schatz_von_Menkar/Schlaeger": {
     "prev": "/Abenteuer/Schatz_von_Menkar/Koordinaten",
     "firstInDir": false,
     "next": "/Abenteuer/Schatzjagd/",
@@ -1088,7 +1088,7 @@
     "title": "Die Schläger"
   },
   "/Abenteuer/Schatzjagd/": {
-    "prev": "/Abenteuer/Schatz_von_Menkar/Schläger",
+    "prev": "/Abenteuer/Schatz_von_Menkar/Schlaeger",
     "firstInDir": true,
     "next": "/Abenteuer/Schatzjagd/Einstieg",
     "lastInDir": true,
@@ -1274,21 +1274,21 @@
   "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": {
     "prev": "/Abenteuer/Wagonian_Wedding/",
     "firstInDir": true,
-    "next": "/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler",
+    "next": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler",
     "lastInDir": false,
     "parent": "/Abenteuer/Wagonian_Wedding/",
     "title": "Auftritt: Der Spion, der aus dem Weltall kam"
   },
-  "/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler": {
+  "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler": {
     "prev": "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam",
     "firstInDir": false,
-    "next": "/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen",
+    "next": "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen",
     "lastInDir": false,
     "parent": "/Abenteuer/Wagonian_Wedding/",
     "title": "Auftritt: Der Teufel trägt Bäämler"
   },
-  "/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Der_Teufel_trägt_Bäämler",
+  "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler",
     "firstInDir": false,
     "next": "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone",
     "lastInDir": false,
@@ -1296,7 +1296,7 @@
     "title": "Auftritt: Die üblichen Verdächtigen"
   },
   "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Die_üblichen_Verdächtigen",
+    "prev": "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen",
     "firstInDir": false,
     "next": "/Abenteuer/Wagonian_Wedding/Einleitung",
     "lastInDir": false,
@@ -1306,12 +1306,12 @@
   "/Abenteuer/Wagonian_Wedding/Einleitung": {
     "prev": "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone",
     "firstInDir": false,
-    "next": "/Abenteuer/Wagonian_Wedding/Konfliktübersicht",
+    "next": "/Abenteuer/Wagonian_Wedding/Konfliktuebersicht",
     "lastInDir": false,
     "parent": "/Abenteuer/Wagonian_Wedding/",
     "title": "Einleitung: Hein the Mono"
   },
-  "/Abenteuer/Wagonian_Wedding/Konfliktübersicht": {
+  "/Abenteuer/Wagonian_Wedding/Konfliktuebersicht": {
     "prev": "/Abenteuer/Wagonian_Wedding/Einleitung",
     "firstInDir": false,
     "next": "/Abenteuer/Wagonian_Wedding/Selbstdarsteller",
@@ -1320,7 +1320,7 @@
     "title": "Konfliktübersicht"
   },
   "/Abenteuer/Wagonian_Wedding/Selbstdarsteller": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Konfliktübersicht",
+    "prev": "/Abenteuer/Wagonian_Wedding/Konfliktuebersicht",
     "firstInDir": false,
     "next": "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam",
     "lastInDir": false,
@@ -1482,29 +1482,29 @@
   "/Abenteuer/Zeitraub/Nachforschungen": {
     "prev": "/Abenteuer/Zeitraub/Marmonen",
     "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub/Überfall",
+    "next": "/Abenteuer/Zeitraub/Uebersicht",
     "lastInDir": false,
     "parent": "/Abenteuer/Zeitraub/",
     "title": "Nachforschungen"
   },
-  "/Abenteuer/Zeitraub/Überfall": {
+  "/Abenteuer/Zeitraub/Uebersicht": {
     "prev": "/Abenteuer/Zeitraub/Nachforschungen",
     "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub/Übersicht",
+    "next": "/Abenteuer/Zeitraub/Überfall",
     "lastInDir": false,
     "parent": "/Abenteuer/Zeitraub/",
-    "title": "Überfall"
+    "title": "Übersicht"
   },
-  "/Abenteuer/Zeitraub/Übersicht": {
-    "prev": "/Abenteuer/Zeitraub/Überfall",
+  "/Abenteuer/Zeitraub/Überfall": {
+    "prev": "/Abenteuer/Zeitraub/Uebersicht",
     "firstInDir": false,
     "next": "/Abenteuer/Zeitraub_II/",
     "lastInDir": true,
     "parent": "/Abenteuer/Zeitraub/",
-    "title": "Übersicht"
+    "title": "Überfall"
   },
   "/Abenteuer/Zeitraub_II/": {
-    "prev": "/Abenteuer/Zeitraub/Übersicht",
+    "prev": "/Abenteuer/Zeitraub/Überfall",
     "firstInDir": true,
     "next": "/Abenteuer/Zeitraub_II/Auftragserteilung",
     "lastInDir": true,
@@ -1570,12 +1570,12 @@
   "/Ideenhalde/Bewohner/Aquarianer": {
     "prev": "/Ideenhalde/Bewohner/",
     "firstInDir": true,
-    "next": "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus",
+    "next": "/Ideenhalde/Bewohner/Aquarianer_Carrassius_Auratus",
     "lastInDir": false,
     "parent": "/Ideenhalde/Bewohner/",
     "title": "Aquarianer"
   },
-  "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus": {
+  "/Ideenhalde/Bewohner/Aquarianer_Carrassius_Auratus": {
     "prev": "/Ideenhalde/Bewohner/Aquarianer",
     "firstInDir": false,
     "next": "/Ideenhalde/Bewohner/Glos",
@@ -1584,7 +1584,7 @@
     "title": "Carrassius Auratus"
   },
   "/Ideenhalde/Bewohner/Glos": {
-    "prev": "/Ideenhalde/Bewohner/Aquarianer_carrassiusauratus",
+    "prev": "/Ideenhalde/Bewohner/Aquarianer_Carrassius_Auratus",
     "firstInDir": false,
     "next": "/Ideenhalde/Bewohner/Haustiere",
     "lastInDir": false,
@@ -1626,12 +1626,12 @@
   "/Ideenhalde/Orte/Denta_4": {
     "prev": "/Ideenhalde/Orte/",
     "firstInDir": true,
-    "next": "/Ideenhalde/Weltraumphänomene",
+    "next": "/Ideenhalde/Weltraumphaenomene",
     "lastInDir": true,
     "parent": "/Ideenhalde/Orte/",
     "title": "Denta 4"
   },
-  "/Ideenhalde/Weltraumphänomene": {
+  "/Ideenhalde/Weltraumphaenomene": {
     "prev": "/Ideenhalde/Orte/Denta_4",
     "firstInDir": true,
     "next": "/Spielregeln/",
@@ -1640,7 +1640,7 @@
     "title": "Weltraumphänomene"
   },
   "/Spielregeln/": {
-    "prev": "/Ideenhalde/Weltraumphänomene",
+    "prev": "/Ideenhalde/Weltraumphaenomene",
     "firstInDir": true,
     "next": "/Spielregeln/Spielmaterial",
     "lastInDir": true,
@@ -1658,117 +1658,269 @@
   "/Spielregeln/Vor_dem_Spiel": {
     "prev": "/Spielregeln/Spielmaterial",
     "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/",
+    "next": "/Spielregeln/Abenteuer_erleben/",
     "lastInDir": false,
     "parent": "/Spielregeln/",
     "title": "Vor dem Spiel"
   },
-  "/Spielregeln/Die_Piratencrew/": {
+  "/Spielregeln/Abenteuer_erleben/": {
     "prev": "/Spielregeln/Vor_dem_Spiel",
     "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/",
+    "next": "/Spielregeln/Abenteuer_erleben/Abenteuer/",
+    "lastInDir": true,
+    "parent": "/Spielregeln/",
+    "title": "Abenteuer erleben"
+  },
+  "/Spielregeln/Abenteuer_erleben/Abenteuer/": {
+    "prev": "/Spielregeln/Abenteuer_erleben/",
+    "firstInDir": true,
+    "next": "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer",
+    "lastInDir": true,
+    "parent": "/Spielregeln/Abenteuer_erleben/",
+    "title": "Abenteuer"
+  },
+  "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Abenteuer/",
+    "firstInDir": true,
+    "next": "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Abenteuer_erleben/Abenteuer/",
+    "title": "Vor dem Abenteuer"
+  },
+  "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer",
+    "firstInDir": false,
+    "next": "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Abenteuer_erleben/Abenteuer/",
+    "title": "Gliederung des Abenteuers"
+  },
+  "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers",
+    "firstInDir": false,
+    "next": "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Abenteuer_erleben/Abenteuer/",
+    "title": "Ablauf einer Szene"
+  },
+  "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene",
+    "firstInDir": false,
+    "next": "/Spielregeln/Abenteuer_erleben/Konflikte/",
+    "lastInDir": true,
+    "parent": "/Spielregeln/Abenteuer_erleben/Abenteuer/",
+    "title": "Nach dem Abenteuer"
+  },
+  "/Spielregeln/Abenteuer_erleben/Konflikte/": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer",
+    "firstInDir": true,
+    "next": "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte",
+    "lastInDir": true,
+    "parent": "/Spielregeln/Abenteuer_erleben/",
+    "title": "Konflikte"
+  },
+  "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Konflikte/",
+    "firstInDir": true,
+    "next": "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Abenteuer_erleben/Konflikte/",
+    "title": "Einfache Konflikte"
+  },
+  "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte",
+    "firstInDir": false,
+    "next": "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Abenteuer_erleben/Konflikte/",
+    "title": "Konfliktszenen"
+  },
+  "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen",
+    "firstInDir": false,
+    "next": "/Spielregeln/Abenteuer_erleben/Raumschiffe/",
+    "lastInDir": true,
+    "parent": "/Spielregeln/Abenteuer_erleben/Konflikte/",
+    "title": "Konsequenzen"
+  },
+  "/Spielregeln/Abenteuer_erleben/Raumschiffe/": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen",
+    "firstInDir": true,
+    "next": "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken",
+    "lastInDir": true,
+    "parent": "/Spielregeln/Abenteuer_erleben/",
+    "title": "Raumschiffe"
+  },
+  "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Raumschiffe/",
+    "firstInDir": true,
+    "next": "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Abenteuer_erleben/Raumschiffe/",
+    "title": "Macken von Raumschiffen"
+  },
+  "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken",
+    "firstInDir": false,
+    "next": "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Abenteuer_erleben/Raumschiffe/",
+    "title": "Raumflüge"
+  },
+  "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege",
+    "firstInDir": false,
+    "next": "/Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Abenteuer_erleben/Raumschiffe/",
+    "title": "Raumfkämpfe"
+  },
+  "/Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/",
+    "lastInDir": true,
+    "parent": "/Spielregeln/Abenteuer_erleben/Raumschiffe/",
+    "title": "Wartung von Raumschiffen"
+  },
+  "/Spielregeln/Die_Piratencrew/": {
+    "prev": "/Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung",
+    "firstInDir": true,
+    "next": "/Spielregeln/Die_Piratencrew/Uebersicht",
     "lastInDir": true,
     "parent": "/Spielregeln/",
     "title": "Die Piratencrew"
   },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/": {
+  "/Spielregeln/Die_Piratencrew/Uebersicht": {
     "prev": "/Spielregeln/Die_Piratencrew/",
     "firstInDir": true,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/",
+    "next": "/Spielregeln/Die_Piratencrew/Charaktere",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/",
+    "title": "Übersicht der Charaktererschaffung"
+  },
+  "/Spielregeln/Die_Piratencrew/Charaktere": {
+    "prev": "/Spielregeln/Die_Piratencrew/Uebersicht",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Hintergrund",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/",
+    "title": "Die Charaktere"
+  },
+  "/Spielregeln/Die_Piratencrew/Hintergrund": {
+    "prev": "/Spielregeln/Die_Piratencrew/Charaktere",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Charakterwerte",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/",
+    "title": "Hintergrund"
+  },
+  "/Spielregeln/Die_Piratencrew/Charakterwerte": {
+    "prev": "/Spielregeln/Die_Piratencrew/Hintergrund",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/",
+    "title": "Charakterwerte"
+  },
+  "/Spielregeln/Die_Piratencrew/Ausruestung/": {
+    "prev": "/Spielregeln/Die_Piratencrew/Charakterwerte",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen",
     "lastInDir": true,
     "parent": "/Spielregeln/Die_Piratencrew/",
     "title": "Ausrüstung"
   },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/",
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/",
     "firstInDir": true,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Diverses",
-    "lastInDir": true,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/",
-    "title": "Raumschiffe"
-  },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Diverses": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/",
-    "firstInDir": true,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken",
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses",
     "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/",
-    "title": "Diverses"
-  },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Diverses",
-    "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/",
-    "title": "Raumschiffmacken"
-  },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Raumschiffmacken",
-    "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/",
-    "title": "Schilde"
-  },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Schilde",
-    "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/",
-    "title": "Sensoren"
-  },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Sensoren",
-    "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/",
-    "title": "Style-Zubehör"
-  },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Style-Zubehör",
-    "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände",
-    "lastInDir": true,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/",
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/",
     "title": "Waffen"
   },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Raumschiffe/Waffen",
-    "firstInDir": true,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel",
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Spezialkleidung",
     "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/",
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/",
     "title": "Diverse Ausrüstungsgegenstände"
   },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Diverse_Ausrüstungsgegenstände",
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Spezialkleidung": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses",
     "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung",
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Rauschmittel",
     "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/",
-    "title": "Rauschmittel"
-  },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Rauschmittel",
-    "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/",
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/",
     "title": "Kleidung"
   },
-  "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Spezialkleidung",
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Rauschmittel": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Spezialkleidung",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/",
+    "title": "Rauschmittel"
+  },
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Rauschmittel",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen",
+    "lastInDir": true,
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/",
+    "title": "Raumschiffe"
+  },
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
+    "firstInDir": true,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
+    "title": "Waffen"
+  },
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
+    "title": "Schilde"
+  },
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
+    "title": "Sensoren"
+  },
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
+    "title": "Diverses"
+  },
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses",
+    "firstInDir": false,
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
+    "title": "Style-Zubehör"
+  },
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer",
     "firstInDir": false,
     "next": "/Spielregeln/Die_Piratencrew/Beispielpiraten",
     "lastInDir": true,
-    "parent": "/Spielregeln/Die_Piratencrew/Ausrüstung/",
-    "title": "Waffen"
+    "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
+    "title": "Raumschiffmacken"
   },
   "/Spielregeln/Die_Piratencrew/Beispielpiraten": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausrüstung/Waffen",
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken",
     "firstInDir": true,
     "next": "/Spielregeln/Die_Piratencrew/Beispielraumschiff",
     "lastInDir": false,
@@ -1778,253 +1930,109 @@
   "/Spielregeln/Die_Piratencrew/Beispielraumschiff": {
     "prev": "/Spielregeln/Die_Piratencrew/Beispielpiraten",
     "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Charaktere",
-    "lastInDir": false,
+    "next": "/Spielregeln/Spielleiter/",
+    "lastInDir": true,
     "parent": "/Spielregeln/Die_Piratencrew/",
     "title": "Beispielraumschiff"
   },
-  "/Spielregeln/Die_Piratencrew/Charaktere": {
-    "prev": "/Spielregeln/Die_Piratencrew/Beispielraumschiff",
-    "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Charakterwerte",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/",
-    "title": "Die Charaktere"
-  },
-  "/Spielregeln/Die_Piratencrew/Charakterwerte": {
-    "prev": "/Spielregeln/Die_Piratencrew/Charaktere",
-    "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Hintergrund",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/",
-    "title": "Charakterwerte"
-  },
-  "/Spielregeln/Die_Piratencrew/Hintergrund": {
-    "prev": "/Spielregeln/Die_Piratencrew/Charakterwerte",
-    "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Übersicht",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Die_Piratencrew/",
-    "title": "Hintergrund"
-  },
-  "/Spielregeln/Die_Piratencrew/Übersicht": {
-    "prev": "/Spielregeln/Die_Piratencrew/Hintergrund",
-    "firstInDir": false,
-    "next": "/Spielregeln/Abenteuer/",
-    "lastInDir": true,
-    "parent": "/Spielregeln/Die_Piratencrew/",
-    "title": "Übersicht der Charaktererschaffung"
-  },
-  "/Spielregeln/Abenteuer/": {
-    "prev": "/Spielregeln/Die_Piratencrew/Übersicht",
-    "firstInDir": true,
-    "next": "/Spielregeln/Abenteuer/Ablauf_einer_Szene",
-    "lastInDir": true,
-    "parent": "/Spielregeln/",
-    "title": "Abenteuer"
-  },
-  "/Spielregeln/Abenteuer/Ablauf_einer_Szene": {
-    "prev": "/Spielregeln/Abenteuer/",
-    "firstInDir": true,
-    "next": "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Abenteuer/",
-    "title": "Ablauf einer Szene"
-  },
-  "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers": {
-    "prev": "/Spielregeln/Abenteuer/Ablauf_einer_Szene",
-    "firstInDir": false,
-    "next": "/Spielregeln/Abenteuer/Nach_dem_Abenteuer",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Abenteuer/",
-    "title": "Gliederung des Abenteuers"
-  },
-  "/Spielregeln/Abenteuer/Nach_dem_Abenteuer": {
-    "prev": "/Spielregeln/Abenteuer/Gliederung_des_Abenteuers",
-    "firstInDir": false,
-    "next": "/Spielregeln/Abenteuer/Vor_dem_Abenteuer",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Abenteuer/",
-    "title": "Nach dem Abenteuer"
-  },
-  "/Spielregeln/Abenteuer/Vor_dem_Abenteuer": {
-    "prev": "/Spielregeln/Abenteuer/Nach_dem_Abenteuer",
-    "firstInDir": false,
-    "next": "/Spielregeln/Konflikte/",
-    "lastInDir": true,
-    "parent": "/Spielregeln/Abenteuer/",
-    "title": "Vor dem Abenteuer"
-  },
-  "/Spielregeln/Konflikte/": {
-    "prev": "/Spielregeln/Abenteuer/Vor_dem_Abenteuer",
-    "firstInDir": true,
-    "next": "/Spielregeln/Konflikte/Einfache_Konflikte",
-    "lastInDir": true,
-    "parent": "/Spielregeln/",
-    "title": "Konflikte"
-  },
-  "/Spielregeln/Konflikte/Einfache_Konflikte": {
-    "prev": "/Spielregeln/Konflikte/",
-    "firstInDir": true,
-    "next": "/Spielregeln/Konflikte/Konfliktszenen",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Konflikte/",
-    "title": "Einfache Konflikte"
-  },
-  "/Spielregeln/Konflikte/Konfliktszenen": {
-    "prev": "/Spielregeln/Konflikte/Einfache_Konflikte",
-    "firstInDir": false,
-    "next": "/Spielregeln/Konflikte/Konsequenzen",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Konflikte/",
-    "title": "Konfliktszenen"
-  },
-  "/Spielregeln/Konflikte/Konsequenzen": {
-    "prev": "/Spielregeln/Konflikte/Konfliktszenen",
-    "firstInDir": false,
-    "next": "/Spielregeln/Raumschiffe/",
-    "lastInDir": true,
-    "parent": "/Spielregeln/Konflikte/",
-    "title": "Konsequenzen"
-  },
-  "/Spielregeln/Raumschiffe/": {
-    "prev": "/Spielregeln/Konflikte/Konsequenzen",
-    "firstInDir": true,
-    "next": "/Spielregeln/Raumschiffe/Macken",
-    "lastInDir": true,
-    "parent": "/Spielregeln/",
-    "title": "Raumschiffe"
-  },
-  "/Spielregeln/Raumschiffe/Macken": {
-    "prev": "/Spielregeln/Raumschiffe/",
-    "firstInDir": true,
-    "next": "/Spielregeln/Raumschiffe/Raumflüge",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Raumschiffe/",
-    "title": "Macken von Raumschiffen"
-  },
-  "/Spielregeln/Raumschiffe/Raumflüge": {
-    "prev": "/Spielregeln/Raumschiffe/Macken",
-    "firstInDir": false,
-    "next": "/Spielregeln/Raumschiffe/Raumkämpfe",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Raumschiffe/",
-    "title": "Raumflüge"
-  },
-  "/Spielregeln/Raumschiffe/Raumkämpfe": {
-    "prev": "/Spielregeln/Raumschiffe/Raumflüge",
-    "firstInDir": false,
-    "next": "/Spielregeln/Raumschiffe/Wartung",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Raumschiffe/",
-    "title": "Raumfkämpfe"
-  },
-  "/Spielregeln/Raumschiffe/Wartung": {
-    "prev": "/Spielregeln/Raumschiffe/Raumkämpfe",
-    "firstInDir": false,
-    "next": "/Spielregeln/Spielleiter/",
-    "lastInDir": true,
-    "parent": "/Spielregeln/Raumschiffe/",
-    "title": "Wartung von Raumschiffen"
-  },
   "/Spielregeln/Spielleiter/": {
-    "prev": "/Spielregeln/Raumschiffe/Wartung",
+    "prev": "/Spielregeln/Die_Piratencrew/Beispielraumschiff",
     "firstInDir": true,
-    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/",
+    "next": "/Spielregeln/Spielleiter/Abenteuer_vorbereiten",
     "lastInDir": true,
     "parent": "/Spielregeln/",
     "title": "Spielleiter"
   },
-  "/Spielregeln/Spielleiter/Abenteuer_erstellen/": {
+  "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": {
     "prev": "/Spielregeln/Spielleiter/",
     "firstInDir": true,
-    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien",
+    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/",
+    "lastInDir": false,
+    "parent": "/Spielregeln/Spielleiter/",
+    "title": "Abenteuer vorbereiten"
+  },
+  "/Spielregeln/Spielleiter/Abenteuer_erstellen/": {
+    "prev": "/Spielregeln/Spielleiter/Abenteuer_vorbereiten",
+    "firstInDir": false,
+    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf",
     "lastInDir": true,
     "parent": "/Spielregeln/Spielleiter/",
     "title": "Abenteuer erstellen"
   },
-  "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": {
+  "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": {
     "prev": "/Spielregeln/Spielleiter/Abenteuer_erstellen/",
     "firstInDir": true,
-    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze",
+    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplaetze",
     "lastInDir": false,
     "parent": "/Spielregeln/Spielleiter/Abenteuer_erstellen/",
-    "title": "Parteien"
+    "title": "Verlauf"
   },
-  "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze": {
-    "prev": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien",
+  "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplaetze": {
+    "prev": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf",
     "firstInDir": false,
-    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere",
+    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien",
     "lastInDir": false,
     "parent": "/Spielregeln/Spielleiter/Abenteuer_erstellen/",
     "title": "Schauplätze"
   },
-  "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": {
-    "prev": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze",
+  "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": {
+    "prev": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplaetze",
     "firstInDir": false,
-    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf",
+    "next": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere",
     "lastInDir": false,
     "parent": "/Spielregeln/Spielleiter/Abenteuer_erstellen/",
-    "title": "Spielleitercharaktere"
+    "title": "Parteien"
   },
-  "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": {
-    "prev": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere",
+  "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": {
+    "prev": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien",
     "firstInDir": false,
     "next": "/Spielregeln/Spielleiter/Kampagnen/",
     "lastInDir": true,
     "parent": "/Spielregeln/Spielleiter/Abenteuer_erstellen/",
-    "title": "Verlauf"
+    "title": "Spielleitercharaktere"
   },
   "/Spielregeln/Spielleiter/Kampagnen/": {
-    "prev": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf",
+    "prev": "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere",
     "firstInDir": true,
-    "next": "/Spielregeln/Spielleiter/Kampagnen/Ausrüstung",
+    "next": "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler",
     "lastInDir": true,
     "parent": "/Spielregeln/Spielleiter/",
     "title": "Kampagnen mit SpacePirates"
   },
-  "/Spielregeln/Spielleiter/Kampagnen/Ausrüstung": {
+  "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": {
     "prev": "/Spielregeln/Spielleiter/Kampagnen/",
     "firstInDir": true,
-    "next": "/Spielregeln/Spielleiter/Kampagnen/Beute",
-    "lastInDir": false,
-    "parent": "/Spielregeln/Spielleiter/Kampagnen/",
-    "title": "Ausrüstung"
-  },
-  "/Spielregeln/Spielleiter/Kampagnen/Beute": {
-    "prev": "/Spielregeln/Spielleiter/Kampagnen/Ausrüstung",
-    "firstInDir": false,
     "next": "/Spielregeln/Spielleiter/Kampagnen/Freunde",
     "lastInDir": false,
     "parent": "/Spielregeln/Spielleiter/Kampagnen/",
-    "title": "Beute"
+    "title": "Gegenspieler der Charaktere"
   },
   "/Spielregeln/Spielleiter/Kampagnen/Freunde": {
-    "prev": "/Spielregeln/Spielleiter/Kampagnen/Beute",
+    "prev": "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler",
     "firstInDir": false,
-    "next": "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler",
+    "next": "/Spielregeln/Spielleiter/Kampagnen/Beute",
     "lastInDir": false,
     "parent": "/Spielregeln/Spielleiter/Kampagnen/",
     "title": "Freunde der Charaktere"
   },
-  "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": {
+  "/Spielregeln/Spielleiter/Kampagnen/Beute": {
     "prev": "/Spielregeln/Spielleiter/Kampagnen/Freunde",
     "firstInDir": false,
-    "next": "/Spielregeln/Spielleiter/Abenteuer_vorbereiten",
-    "lastInDir": true,
+    "next": "/Spielregeln/Spielleiter/Kampagnen/Ausruestung",
+    "lastInDir": false,
     "parent": "/Spielregeln/Spielleiter/Kampagnen/",
-    "title": "Gegenspieler der Charaktere"
+    "title": "Beute"
   },
-  "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": {
-    "prev": "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler",
-    "firstInDir": true,
+  "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": {
+    "prev": "/Spielregeln/Spielleiter/Kampagnen/Beute",
+    "firstInDir": false,
     "next": "/Weltraum/",
     "lastInDir": true,
-    "parent": "/Spielregeln/Spielleiter/",
-    "title": "Abenteuer vorbereiten"
+    "parent": "/Spielregeln/Spielleiter/Kampagnen/",
+    "title": "Ausrüstung"
   },
   "/Weltraum/": {
-    "prev": "/Spielregeln/Spielleiter/Abenteuer_vorbereiten",
+    "prev": "/Spielregeln/Spielleiter/Kampagnen/Ausruestung",
     "firstInDir": true,
     "next": "/Weltraum/Aliens/",
     "lastInDir": true,
@@ -2306,21 +2314,21 @@
   "/Weltraum/Aliens/SpaceWorms/BigBong/": {
     "prev": "/Weltraum/Aliens/SpaceWorms/AlXambra/",
     "firstInDir": false,
-    "next": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten",
+    "next": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten",
     "lastInDir": true,
     "parent": "/Weltraum/Aliens/SpaceWorms/",
     "title": "BigBong"
   },
-  "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten": {
+  "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten": {
     "prev": "/Weltraum/Aliens/SpaceWorms/BigBong/",
     "firstInDir": true,
-    "next": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten",
+    "next": "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten",
     "lastInDir": false,
     "parent": "/Weltraum/Aliens/SpaceWorms/BigBong/",
     "title": "Interessante Lokalitäten"
   },
-  "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten": {
-    "prev": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitäten",
+  "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten": {
+    "prev": "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten",
     "firstInDir": false,
     "next": "/Weltraum/Aliens/SpaceWorms/BigBong/SWIP",
     "lastInDir": false,
@@ -2328,7 +2336,7 @@
     "title": "Interessante Persönlichkeiten"
   },
   "/Weltraum/Aliens/SpaceWorms/BigBong/SWIP": {
-    "prev": "/Weltraum/Aliens/SpaceWorms/BigBong/Persönlichkeiten",
+    "prev": "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten",
     "firstInDir": false,
     "next": "/Weltraum/Aliens/SpaceWorms/Raumstationen",
     "lastInDir": true,
@@ -2458,12 +2466,12 @@
   "/Weltraum/Aliens/Wagonen/Terra_20CAD": {
     "prev": "/Weltraum/Aliens/Wagonen/Sperrzone",
     "firstInDir": false,
-    "next": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie",
+    "next": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie",
     "lastInDir": false,
     "parent": "/Weltraum/Aliens/Wagonen/",
     "title": "Terra 20CAD"
   },
-  "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie": {
+  "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": {
     "prev": "/Weltraum/Aliens/Wagonen/Terra_20CAD",
     "firstInDir": false,
     "next": "/Weltraum/Aliens/Wagonen/Wagonische_Sprache",
@@ -2472,7 +2480,7 @@
     "title": "Wagonische Königsfamilie"
   },
   "/Weltraum/Aliens/Wagonen/Wagonische_Sprache": {
-    "prev": "/Weltraum/Aliens/Wagonen/Wagonische_Königsfamilie",
+    "prev": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie",
     "firstInDir": false,
     "next": "/Weltraum/Aliens/Wagonen/Windsor_Planet",
     "lastInDir": false,
@@ -2506,45 +2514,45 @@
   "/Weltraum/Freihandelszone/Beta_Prison/": {
     "prev": "/Weltraum/Freihandelszone/",
     "firstInDir": true,
-    "next": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/",
+    "next": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/",
     "lastInDir": true,
     "parent": "/Weltraum/Freihandelszone/",
     "title": "Beta Prison"
   },
-  "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/": {
+  "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/": {
     "prev": "/Weltraum/Freihandelszone/Beta_Prison/",
     "firstInDir": true,
-    "next": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Gefängnisebenen",
+    "next": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Gefaengnisebenen",
     "lastInDir": true,
     "parent": "/Weltraum/Freihandelszone/Beta_Prison/",
     "title": "Gefängnis"
   },
-  "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Gefängnisebenen": {
-    "prev": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/",
+  "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Gefaengnisebenen": {
+    "prev": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/",
     "firstInDir": true,
-    "next": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen",
+    "next": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen",
     "lastInDir": false,
-    "parent": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/",
+    "parent": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/",
     "title": "Gefängnisebenen"
   },
-  "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen": {
-    "prev": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Gefängnisebenen",
+  "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen": {
+    "prev": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Gefaengnisebenen",
     "firstInDir": false,
-    "next": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal",
+    "next": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Personal",
     "lastInDir": false,
-    "parent": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/",
+    "parent": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/",
     "title": "Insassen"
   },
-  "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal": {
-    "prev": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Insassen",
+  "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Personal": {
+    "prev": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen",
     "firstInDir": false,
     "next": "/Weltraum/Freihandelszone/Beta_Prison/Tierwelt",
     "lastInDir": true,
-    "parent": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/",
+    "parent": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/",
     "title": "Personal"
   },
   "/Weltraum/Freihandelszone/Beta_Prison/Tierwelt": {
-    "prev": "/Weltraum/Freihandelszone/Beta_Prison/Gefängnis/Personal",
+    "prev": "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Personal",
     "firstInDir": true,
     "next": "/Weltraum/Freihandelszone/Space-Steuerfahnder/",
     "lastInDir": true,
@@ -2570,85 +2578,85 @@
   "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar": {
     "prev": "/Weltraum/Freihandelszone/Space-Steuerfahnder/Hauptquartier",
     "firstInDir": false,
-    "next": "/Weltraum/Freihandelszone/System_der_Träume/",
+    "next": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "lastInDir": true,
     "parent": "/Weltraum/Freihandelszone/Space-Steuerfahnder/",
     "title": "Leila Scharjar"
   },
-  "/Weltraum/Freihandelszone/System_der_Träume/": {
+  "/Weltraum/Freihandelszone/System_der_Traeume/": {
     "prev": "/Weltraum/Freihandelszone/Space-Steuerfahnder/Leila_Scharjar",
     "firstInDir": true,
-    "next": "/Weltraum/Freihandelszone/System_der_Träume/Avantgardia",
+    "next": "/Weltraum/Freihandelszone/System_der_Traeume/Avantgardia",
     "lastInDir": true,
     "parent": "/Weltraum/Freihandelszone/",
     "title": "System der Träume"
   },
-  "/Weltraum/Freihandelszone/System_der_Träume/Avantgardia": {
-    "prev": "/Weltraum/Freihandelszone/System_der_Träume/",
+  "/Weltraum/Freihandelszone/System_der_Traeume/Avantgardia": {
+    "prev": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "firstInDir": true,
-    "next": "/Weltraum/Freihandelszone/System_der_Träume/Bollywood",
+    "next": "/Weltraum/Freihandelszone/System_der_Traeume/Bollywood",
     "lastInDir": false,
-    "parent": "/Weltraum/Freihandelszone/System_der_Träume/",
+    "parent": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "title": "Avantgardia"
   },
-  "/Weltraum/Freihandelszone/System_der_Träume/Bollywood": {
-    "prev": "/Weltraum/Freihandelszone/System_der_Träume/Avantgardia",
+  "/Weltraum/Freihandelszone/System_der_Traeume/Bollywood": {
+    "prev": "/Weltraum/Freihandelszone/System_der_Traeume/Avantgardia",
     "firstInDir": false,
-    "next": "/Weltraum/Freihandelszone/System_der_Träume/Der_Rote_Planet",
+    "next": "/Weltraum/Freihandelszone/System_der_Traeume/Der_Rote_Planet",
     "lastInDir": false,
-    "parent": "/Weltraum/Freihandelszone/System_der_Träume/",
+    "parent": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "title": "Bollywood"
   },
-  "/Weltraum/Freihandelszone/System_der_Träume/Der_Rote_Planet": {
-    "prev": "/Weltraum/Freihandelszone/System_der_Träume/Bollywood",
+  "/Weltraum/Freihandelszone/System_der_Traeume/Der_Rote_Planet": {
+    "prev": "/Weltraum/Freihandelszone/System_der_Traeume/Bollywood",
     "firstInDir": false,
-    "next": "/Weltraum/Freihandelszone/System_der_Träume/Hollywood",
+    "next": "/Weltraum/Freihandelszone/System_der_Traeume/Hollywood",
     "lastInDir": false,
-    "parent": "/Weltraum/Freihandelszone/System_der_Träume/",
+    "parent": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "title": "Der Rote Planet"
   },
-  "/Weltraum/Freihandelszone/System_der_Träume/Hollywood": {
-    "prev": "/Weltraum/Freihandelszone/System_der_Träume/Der_Rote_Planet",
+  "/Weltraum/Freihandelszone/System_der_Traeume/Hollywood": {
+    "prev": "/Weltraum/Freihandelszone/System_der_Traeume/Der_Rote_Planet",
     "firstInDir": false,
-    "next": "/Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission",
+    "next": "/Weltraum/Freihandelszone/System_der_Traeume/Mimen-Mission",
     "lastInDir": false,
-    "parent": "/Weltraum/Freihandelszone/System_der_Träume/",
+    "parent": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "title": "Hollywood"
   },
-  "/Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission": {
-    "prev": "/Weltraum/Freihandelszone/System_der_Träume/Hollywood",
+  "/Weltraum/Freihandelszone/System_der_Traeume/Mimen-Mission": {
+    "prev": "/Weltraum/Freihandelszone/System_der_Traeume/Hollywood",
     "firstInDir": false,
-    "next": "/Weltraum/Freihandelszone/System_der_Träume/Sandalien",
+    "next": "/Weltraum/Freihandelszone/System_der_Traeume/Sandalien",
     "lastInDir": false,
-    "parent": "/Weltraum/Freihandelszone/System_der_Träume/",
+    "parent": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "title": "Mimen-Mission"
   },
-  "/Weltraum/Freihandelszone/System_der_Träume/Sandalien": {
-    "prev": "/Weltraum/Freihandelszone/System_der_Träume/Mimen-Mission",
+  "/Weltraum/Freihandelszone/System_der_Traeume/Sandalien": {
+    "prev": "/Weltraum/Freihandelszone/System_der_Traeume/Mimen-Mission",
     "firstInDir": false,
-    "next": "/Weltraum/Freihandelszone/System_der_Träume/Serius_80",
+    "next": "/Weltraum/Freihandelszone/System_der_Traeume/Serius_80",
     "lastInDir": false,
-    "parent": "/Weltraum/Freihandelszone/System_der_Träume/",
+    "parent": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "title": "Sandalien"
   },
-  "/Weltraum/Freihandelszone/System_der_Träume/Serius_80": {
-    "prev": "/Weltraum/Freihandelszone/System_der_Träume/Sandalien",
+  "/Weltraum/Freihandelszone/System_der_Traeume/Serius_80": {
+    "prev": "/Weltraum/Freihandelszone/System_der_Traeume/Sandalien",
     "firstInDir": false,
-    "next": "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet",
+    "next": "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet",
     "lastInDir": false,
-    "parent": "/Weltraum/Freihandelszone/System_der_Träume/",
+    "parent": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "title": "Serius 80"
   },
-  "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet": {
-    "prev": "/Weltraum/Freihandelszone/System_der_Träume/Serius_80",
+  "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet": {
+    "prev": "/Weltraum/Freihandelszone/System_der_Traeume/Serius_80",
     "firstInDir": false,
     "next": "/Weltraum/Freihandelszone/D4E20",
     "lastInDir": true,
-    "parent": "/Weltraum/Freihandelszone/System_der_Träume/",
+    "parent": "/Weltraum/Freihandelszone/System_der_Traeume/",
     "title": "Stummfilm-Planet"
   },
   "/Weltraum/Freihandelszone/D4E20": {
-    "prev": "/Weltraum/Freihandelszone/System_der_Träume/Stummfilm-Planet",
+    "prev": "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet",
     "firstInDir": true,
     "next": "/Weltraum/Freihandelszone/Handelsrat",
     "lastInDir": false,
@@ -2698,12 +2706,12 @@
   "/Weltraum/Freihandelszone/Stratum_Nova": {
     "prev": "/Weltraum/Freihandelszone/Rigel_3",
     "firstInDir": false,
-    "next": "/Weltraum/Freihandelszone/Währungen_und_Banken",
+    "next": "/Weltraum/Freihandelszone/Waehrungen_und_Banken",
     "lastInDir": false,
     "parent": "/Weltraum/Freihandelszone/",
     "title": "Stratum Nova"
   },
-  "/Weltraum/Freihandelszone/Währungen_und_Banken": {
+  "/Weltraum/Freihandelszone/Waehrungen_und_Banken": {
     "prev": "/Weltraum/Freihandelszone/Stratum_Nova",
     "firstInDir": false,
     "next": "/Weltraum/Konzerne/",
@@ -2712,7 +2720,7 @@
     "title": "Währungen und Banken"
   },
   "/Weltraum/Konzerne/": {
-    "prev": "/Weltraum/Freihandelszone/Währungen_und_Banken",
+    "prev": "/Weltraum/Freihandelszone/Waehrungen_und_Banken",
     "firstInDir": true,
     "next": "/Weltraum/Konzerne/Spacewood-Klinik/",
     "lastInDir": true,
@@ -2818,12 +2826,12 @@
   "/Weltraum/Konzerne/JCTech_IAG": {
     "prev": "/Weltraum/Konzerne/ImmoTrade",
     "firstInDir": false,
-    "next": "/Weltraum/Konzerne/Keith__Brown_and_Stanton",
+    "next": "/Weltraum/Konzerne/Keith_Brown_and_Stanton",
     "lastInDir": false,
     "parent": "/Weltraum/Konzerne/",
     "title": "JCTech IAG"
   },
-  "/Weltraum/Konzerne/Keith__Brown_and_Stanton": {
+  "/Weltraum/Konzerne/Keith_Brown_and_Stanton": {
     "prev": "/Weltraum/Konzerne/JCTech_IAG",
     "firstInDir": false,
     "next": "/Weltraum/Konzerne/LTR",
@@ -2832,7 +2840,7 @@
     "title": "Keith, Brown and Stanton"
   },
   "/Weltraum/Konzerne/LTR": {
-    "prev": "/Weltraum/Konzerne/Keith__Brown_and_Stanton",
+    "prev": "/Weltraum/Konzerne/Keith_Brown_and_Stanton",
     "firstInDir": false,
     "next": "/Weltraum/Konzerne/Mind_Group",
     "lastInDir": false,
@@ -2882,12 +2890,12 @@
   "/Weltraum/Konzerne/Raumschiff_und_Co": {
     "prev": "/Weltraum/Konzerne/Rabbit_Inc",
     "firstInDir": false,
-    "next": "/Weltraum/Konzerne/S_I_E__Robotermanufaktur",
+    "next": "/Weltraum/Konzerne/S_I_E_Robotermanufaktur",
     "lastInDir": false,
     "parent": "/Weltraum/Konzerne/",
     "title": "Raumschiff & Co."
   },
-  "/Weltraum/Konzerne/S_I_E__Robotermanufaktur": {
+  "/Weltraum/Konzerne/S_I_E_Robotermanufaktur": {
     "prev": "/Weltraum/Konzerne/Raumschiff_und_Co",
     "firstInDir": false,
     "next": "/Weltraum/Konzerne/SeeYou",
@@ -2896,7 +2904,7 @@
     "title": "S.I.E. Robotermanufaktur"
   },
   "/Weltraum/Konzerne/SeeYou": {
-    "prev": "/Weltraum/Konzerne/S_I_E__Robotermanufaktur",
+    "prev": "/Weltraum/Konzerne/S_I_E_Robotermanufaktur",
     "firstInDir": false,
     "next": "/Weltraum/Konzerne/SpaceResearch",
     "lastInDir": false,
@@ -2978,77 +2986,77 @@
   "/Weltraum/Menschen/": {
     "prev": "/Weltraum/Konzerne/Yellow_Stone_Group",
     "firstInDir": true,
-    "next": "/Weltraum/Menschen/Föderation/",
+    "next": "/Weltraum/Menschen/Foederation/",
     "lastInDir": true,
     "parent": "/Weltraum/",
     "title": "Menschen"
   },
-  "/Weltraum/Menschen/Föderation/": {
+  "/Weltraum/Menschen/Foederation/": {
     "prev": "/Weltraum/Menschen/",
     "firstInDir": true,
-    "next": "/Weltraum/Menschen/Föderation/Erde",
+    "next": "/Weltraum/Menschen/Foederation/Erde",
     "lastInDir": true,
     "parent": "/Weltraum/Menschen/",
     "title": "Föderation"
   },
-  "/Weltraum/Menschen/Föderation/Erde": {
-    "prev": "/Weltraum/Menschen/Föderation/",
+  "/Weltraum/Menschen/Foederation/Erde": {
+    "prev": "/Weltraum/Menschen/Foederation/",
     "firstInDir": true,
-    "next": "/Weltraum/Menschen/Föderation/Katpar",
+    "next": "/Weltraum/Menschen/Foederation/Katpar",
     "lastInDir": false,
-    "parent": "/Weltraum/Menschen/Föderation/",
+    "parent": "/Weltraum/Menschen/Foederation/",
     "title": "Erde"
   },
-  "/Weltraum/Menschen/Föderation/Katpar": {
-    "prev": "/Weltraum/Menschen/Föderation/Erde",
+  "/Weltraum/Menschen/Foederation/Katpar": {
+    "prev": "/Weltraum/Menschen/Foederation/Erde",
     "firstInDir": false,
-    "next": "/Weltraum/Menschen/Föderation/Omar",
+    "next": "/Weltraum/Menschen/Foederation/Omar",
     "lastInDir": false,
-    "parent": "/Weltraum/Menschen/Föderation/",
+    "parent": "/Weltraum/Menschen/Foederation/",
     "title": "Katpar"
   },
-  "/Weltraum/Menschen/Föderation/Omar": {
-    "prev": "/Weltraum/Menschen/Föderation/Katpar",
+  "/Weltraum/Menschen/Foederation/Omar": {
+    "prev": "/Weltraum/Menschen/Foederation/Katpar",
     "firstInDir": false,
-    "next": "/Weltraum/Menschen/Föderation/Omatic",
+    "next": "/Weltraum/Menschen/Foederation/Omatic",
     "lastInDir": false,
-    "parent": "/Weltraum/Menschen/Föderation/",
+    "parent": "/Weltraum/Menschen/Foederation/",
     "title": "Omar"
   },
-  "/Weltraum/Menschen/Föderation/Omatic": {
-    "prev": "/Weltraum/Menschen/Föderation/Omar",
+  "/Weltraum/Menschen/Foederation/Omatic": {
+    "prev": "/Weltraum/Menschen/Foederation/Omar",
     "firstInDir": false,
-    "next": "/Weltraum/Menschen/Föderation/Pandar_5",
+    "next": "/Weltraum/Menschen/Foederation/Pandar_5",
     "lastInDir": false,
-    "parent": "/Weltraum/Menschen/Föderation/",
+    "parent": "/Weltraum/Menschen/Foederation/",
     "title": "Omatic"
   },
-  "/Weltraum/Menschen/Föderation/Pandar_5": {
-    "prev": "/Weltraum/Menschen/Föderation/Omatic",
+  "/Weltraum/Menschen/Foederation/Pandar_5": {
+    "prev": "/Weltraum/Menschen/Foederation/Omatic",
     "firstInDir": false,
-    "next": "/Weltraum/Menschen/Föderation/Pessach_4",
+    "next": "/Weltraum/Menschen/Foederation/Pessach_4",
     "lastInDir": false,
-    "parent": "/Weltraum/Menschen/Föderation/",
+    "parent": "/Weltraum/Menschen/Foederation/",
     "title": "Pandar 5"
   },
-  "/Weltraum/Menschen/Föderation/Pessach_4": {
-    "prev": "/Weltraum/Menschen/Föderation/Pandar_5",
+  "/Weltraum/Menschen/Foederation/Pessach_4": {
+    "prev": "/Weltraum/Menschen/Foederation/Pandar_5",
     "firstInDir": false,
-    "next": "/Weltraum/Menschen/Föderation/Sisbert",
+    "next": "/Weltraum/Menschen/Foederation/Sisbert",
     "lastInDir": false,
-    "parent": "/Weltraum/Menschen/Föderation/",
+    "parent": "/Weltraum/Menschen/Foederation/",
     "title": "Pessach 4"
   },
-  "/Weltraum/Menschen/Föderation/Sisbert": {
-    "prev": "/Weltraum/Menschen/Föderation/Pessach_4",
+  "/Weltraum/Menschen/Foederation/Sisbert": {
+    "prev": "/Weltraum/Menschen/Foederation/Pessach_4",
     "firstInDir": false,
     "next": "/Weltraum/Menschen/Sternenrepublik_Neuasien/",
     "lastInDir": true,
-    "parent": "/Weltraum/Menschen/Föderation/",
+    "parent": "/Weltraum/Menschen/Foederation/",
     "title": "Sisbert"
   },
   "/Weltraum/Menschen/Sternenrepublik_Neuasien/": {
-    "prev": "/Weltraum/Menschen/Föderation/Sisbert",
+    "prev": "/Weltraum/Menschen/Foederation/Sisbert",
     "firstInDir": true,
     "next": "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/",
     "lastInDir": true,
@@ -3402,12 +3410,12 @@
   "/Weltraum/Sekten/Marmonen": {
     "prev": "/Weltraum/Sekten/Kinder_der_Sternenleere",
     "firstInDir": false,
-    "next": "/Weltraum/Sekten/Vereinigung_zur_Förderung_von_Ostern",
+    "next": "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern",
     "lastInDir": false,
     "parent": "/Weltraum/Sekten/",
     "title": "Marmonen"
   },
-  "/Weltraum/Sekten/Vereinigung_zur_Förderung_von_Ostern": {
+  "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern": {
     "prev": "/Weltraum/Sekten/Marmonen",
     "firstInDir": false,
     "next": "/Weltraum/Sekten/Verfechter_der_Nacktheit",
@@ -3416,7 +3424,7 @@
     "title": "Vereinigung zur Förderung von Ostern"
   },
   "/Weltraum/Sekten/Verfechter_der_Nacktheit": {
-    "prev": "/Weltraum/Sekten/Vereinigung_zur_Förderung_von_Ostern",
+    "prev": "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern",
     "firstInDir": false,
     "next": "/Weltraum/Sekten/Weltraumpfleger",
     "lastInDir": false,
@@ -3706,12 +3714,12 @@
   "/Weltraum/SpaceNinjas/Clans/Akamachi-Clan": {
     "prev": "/Weltraum/SpaceNinjas/Clans/",
     "firstInDir": true,
-    "next": "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkröte",
+    "next": "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkroete",
     "lastInDir": false,
     "parent": "/Weltraum/SpaceNinjas/Clans/",
     "title": "Akamachi-Clan"
   },
-  "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkröte": {
+  "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkroete": {
     "prev": "/Weltraum/SpaceNinjas/Clans/Akamachi-Clan",
     "firstInDir": false,
     "next": "/Weltraum/SpaceNinjas/Clans/Goemon-Ishikawa-Highschool",
@@ -3720,7 +3728,7 @@
     "title": "Clan der Schildkröte"
   },
   "/Weltraum/SpaceNinjas/Clans/Goemon-Ishikawa-Highschool": {
-    "prev": "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkröte",
+    "prev": "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkroete",
     "firstInDir": false,
     "next": "/Weltraum/SpaceNinjas/Clans/Hashimara-Clan",
     "lastInDir": false,
@@ -3842,205 +3850,205 @@
   "/Weltraum/Technologie/Techtalk": {
     "prev": "/Weltraum/Technologie/Starnet-Sendungen",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/",
+    "next": "/Weltraum/Weltraumphaenomene/",
     "lastInDir": true,
     "parent": "/Weltraum/Technologie/",
     "title": "Techtalk"
   },
-  "/Weltraum/Weltraumphänomene/": {
+  "/Weltraum/Weltraumphaenomene/": {
     "prev": "/Weltraum/Technologie/Techtalk",
     "firstInDir": true,
-    "next": "/Weltraum/Weltraumphänomene/BadPlanets",
+    "next": "/Weltraum/Weltraumphaenomene/BadPlanets",
     "lastInDir": true,
     "parent": "/Weltraum/",
     "title": "Weltraumphänomene"
   },
-  "/Weltraum/Weltraumphänomene/BadPlanets": {
-    "prev": "/Weltraum/Weltraumphänomene/",
+  "/Weltraum/Weltraumphaenomene/BadPlanets": {
+    "prev": "/Weltraum/Weltraumphaenomene/",
     "firstInDir": true,
-    "next": "/Weltraum/Weltraumphänomene/Brabengürtel",
+    "next": "/Weltraum/Weltraumphaenomene/Brabenguertel",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "BadPlanets"
   },
-  "/Weltraum/Weltraumphänomene/Brabengürtel": {
-    "prev": "/Weltraum/Weltraumphänomene/BadPlanets",
+  "/Weltraum/Weltraumphaenomene/Brabenguertel": {
+    "prev": "/Weltraum/Weltraumphaenomene/BadPlanets",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Dimensionsriss",
+    "next": "/Weltraum/Weltraumphaenomene/Dimensionsriss",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Brabengürtel"
   },
-  "/Weltraum/Weltraumphänomene/Dimensionsriss": {
-    "prev": "/Weltraum/Weltraumphänomene/Brabengürtel",
+  "/Weltraum/Weltraumphaenomene/Dimensionsriss": {
+    "prev": "/Weltraum/Weltraumphaenomene/Brabenguertel",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Ghomin-Nebel",
+    "next": "/Weltraum/Weltraumphaenomene/Ghomin-Nebel",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Dimensionsriss"
   },
-  "/Weltraum/Weltraumphänomene/Ghomin-Nebel": {
-    "prev": "/Weltraum/Weltraumphänomene/Dimensionsriss",
+  "/Weltraum/Weltraumphaenomene/Ghomin-Nebel": {
+    "prev": "/Weltraum/Weltraumphaenomene/Dimensionsriss",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Großer_Spiralnebel_von_Trull",
+    "next": "/Weltraum/Weltraumphaenomene/Grosser_Spiralnebel_von_Trull",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Ghomin-Nebel"
   },
-  "/Weltraum/Weltraumphänomene/Großer_Spiralnebel_von_Trull": {
-    "prev": "/Weltraum/Weltraumphänomene/Ghomin-Nebel",
+  "/Weltraum/Weltraumphaenomene/Grosser_Spiralnebel_von_Trull": {
+    "prev": "/Weltraum/Weltraumphaenomene/Ghomin-Nebel",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Halloween-Nebel",
+    "next": "/Weltraum/Weltraumphaenomene/Halloween-Nebel",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Großer Spiralnebel von Trull"
   },
-  "/Weltraum/Weltraumphänomene/Halloween-Nebel": {
-    "prev": "/Weltraum/Weltraumphänomene/Großer_Spiralnebel_von_Trull",
+  "/Weltraum/Weltraumphaenomene/Halloween-Nebel": {
+    "prev": "/Weltraum/Weltraumphaenomene/Grosser_Spiralnebel_von_Trull",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Ionensturm",
+    "next": "/Weltraum/Weltraumphaenomene/Ionensturm",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Halloween-Nebel"
   },
-  "/Weltraum/Weltraumphänomene/Ionensturm": {
-    "prev": "/Weltraum/Weltraumphänomene/Halloween-Nebel",
+  "/Weltraum/Weltraumphaenomene/Ionensturm": {
+    "prev": "/Weltraum/Weltraumphaenomene/Halloween-Nebel",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Katpar-Wurmloch",
+    "next": "/Weltraum/Weltraumphaenomene/Katpar-Wurmloch",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Ionensturm"
   },
-  "/Weltraum/Weltraumphänomene/Katpar-Wurmloch": {
-    "prev": "/Weltraum/Weltraumphänomene/Ionensturm",
+  "/Weltraum/Weltraumphaenomene/Katpar-Wurmloch": {
+    "prev": "/Weltraum/Weltraumphaenomene/Ionensturm",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen",
+    "next": "/Weltraum/Weltraumphaenomene/Lila_Loecher_und_Plasmaregenbogen",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Katpar-Wurmloch"
   },
-  "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen": {
-    "prev": "/Weltraum/Weltraumphänomene/Katpar-Wurmloch",
+  "/Weltraum/Weltraumphaenomene/Lila_Loecher_und_Plasmaregenbogen": {
+    "prev": "/Weltraum/Weltraumphaenomene/Katpar-Wurmloch",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Negrewz-Nebel",
+    "next": "/Weltraum/Weltraumphaenomene/Negrewz-Nebel",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Lila Löcher und Plasmaregenbogen"
   },
-  "/Weltraum/Weltraumphänomene/Negrewz-Nebel": {
-    "prev": "/Weltraum/Weltraumphänomene/Lila_Löcher_und_Plasmaregenbogen",
+  "/Weltraum/Weltraumphaenomene/Negrewz-Nebel": {
+    "prev": "/Weltraum/Weltraumphaenomene/Lila_Loecher_und_Plasmaregenbogen",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Oyster-Cluster",
+    "next": "/Weltraum/Weltraumphaenomene/Oyster-Cluster",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Negrewz-Nebel"
   },
-  "/Weltraum/Weltraumphänomene/Oyster-Cluster": {
-    "prev": "/Weltraum/Weltraumphänomene/Negrewz-Nebel",
+  "/Weltraum/Weltraumphaenomene/Oyster-Cluster": {
+    "prev": "/Weltraum/Weltraumphaenomene/Negrewz-Nebel",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Plasmasturm",
+    "next": "/Weltraum/Weltraumphaenomene/Plasmasturm",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Oyster-Cluster"
   },
-  "/Weltraum/Weltraumphänomene/Plasmasturm": {
-    "prev": "/Weltraum/Weltraumphänomene/Oyster-Cluster",
+  "/Weltraum/Weltraumphaenomene/Plasmasturm": {
+    "prev": "/Weltraum/Weltraumphaenomene/Oyster-Cluster",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Quantenfluktuation",
+    "next": "/Weltraum/Weltraumphaenomene/Quantenfluktuation",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Plasmasturm"
   },
-  "/Weltraum/Weltraumphänomene/Quantenfluktuation": {
-    "prev": "/Weltraum/Weltraumphänomene/Plasmasturm",
+  "/Weltraum/Weltraumphaenomene/Quantenfluktuation": {
+    "prev": "/Weltraum/Weltraumphaenomene/Plasmasturm",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung",
+    "next": "/Weltraum/Weltraumphaenomene/Raumzeitverschiebung",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Quantenfluktuation"
   },
-  "/Weltraum/Weltraumphänomene/Raumzeitverschiebung": {
-    "prev": "/Weltraum/Weltraumphänomene/Quantenfluktuation",
+  "/Weltraum/Weltraumphaenomene/Raumzeitverschiebung": {
+    "prev": "/Weltraum/Weltraumphaenomene/Quantenfluktuation",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Schwarzes_Loch",
+    "next": "/Weltraum/Weltraumphaenomene/Schwarzes_Loch",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Raumzeitverschiebung"
   },
-  "/Weltraum/Weltraumphänomene/Schwarzes_Loch": {
-    "prev": "/Weltraum/Weltraumphänomene/Raumzeitverschiebung",
+  "/Weltraum/Weltraumphaenomene/Schwarzes_Loch": {
+    "prev": "/Weltraum/Weltraumphaenomene/Raumzeitverschiebung",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Sombreronebel",
+    "next": "/Weltraum/Weltraumphaenomene/Sombreronebel",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Schwarzes Loch"
   },
-  "/Weltraum/Weltraumphänomene/Sombreronebel": {
-    "prev": "/Weltraum/Weltraumphänomene/Schwarzes_Loch",
+  "/Weltraum/Weltraumphaenomene/Sombreronebel": {
+    "prev": "/Weltraum/Weltraumphaenomene/Schwarzes_Loch",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/SpaceSchnee",
+    "next": "/Weltraum/Weltraumphaenomene/SpaceSchnee",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Sombreronebel"
   },
-  "/Weltraum/Weltraumphänomene/SpaceSchnee": {
-    "prev": "/Weltraum/Weltraumphänomene/Sombreronebel",
+  "/Weltraum/Weltraumphaenomene/SpaceSchnee": {
+    "prev": "/Weltraum/Weltraumphaenomene/Sombreronebel",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Spacewood-Forest",
+    "next": "/Weltraum/Weltraumphaenomene/Spacewood-Forest",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "SpaceSchnee"
   },
-  "/Weltraum/Weltraumphänomene/Spacewood-Forest": {
-    "prev": "/Weltraum/Weltraumphänomene/SpaceSchnee",
+  "/Weltraum/Weltraumphaenomene/Spacewood-Forest": {
+    "prev": "/Weltraum/Weltraumphaenomene/SpaceSchnee",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone",
+    "next": "/Weltraum/Weltraumphaenomene/Unwahrscheinlichkeitszone",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Spacewood-Forest"
   },
-  "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone": {
-    "prev": "/Weltraum/Weltraumphänomene/Spacewood-Forest",
+  "/Weltraum/Weltraumphaenomene/Unwahrscheinlichkeitszone": {
+    "prev": "/Weltraum/Weltraumphaenomene/Spacewood-Forest",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Weihnachts-Wurmloch",
+    "next": "/Weltraum/Weltraumphaenomene/Weihnachts-Wurmloch",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Unwahrscheinlichkeitszone"
   },
-  "/Weltraum/Weltraumphänomene/Weihnachts-Wurmloch": {
-    "prev": "/Weltraum/Weltraumphänomene/Unwahrscheinlichkeitszone",
+  "/Weltraum/Weltraumphaenomene/Weihnachts-Wurmloch": {
+    "prev": "/Weltraum/Weltraumphaenomene/Unwahrscheinlichkeitszone",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphänomene/Weißes_Loch",
+    "next": "/Weltraum/Weltraumphaenomene/Weisses_Loch",
     "lastInDir": false,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Weihnachts-Wurmloch"
   },
-  "/Weltraum/Weltraumphänomene/Weißes_Loch": {
-    "prev": "/Weltraum/Weltraumphänomene/Weihnachts-Wurmloch",
+  "/Weltraum/Weltraumphaenomene/Weisses_Loch": {
+    "prev": "/Weltraum/Weltraumphaenomene/Weihnachts-Wurmloch",
     "firstInDir": false,
-    "next": "/Weltraum/Historie",
+    "next": "/Weltraum/Haendler_und_Halunken",
     "lastInDir": true,
-    "parent": "/Weltraum/Weltraumphänomene/",
+    "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Weißes Loch"
   },
-  "/Weltraum/Historie": {
-    "prev": "/Weltraum/Weltraumphänomene/Weißes_Loch",
+  "/Weltraum/Haendler_und_Halunken": {
+    "prev": "/Weltraum/Weltraumphaenomene/Weisses_Loch",
     "firstInDir": true,
-    "next": "/Weltraum/Händler_und_Halunken",
-    "lastInDir": false,
-    "parent": "/Weltraum/",
-    "title": "Historie"
-  },
-  "/Weltraum/Händler_und_Halunken": {
-    "prev": "/Weltraum/Historie",
-    "firstInDir": false,
-    "next": "/Weltraum/Militär",
+    "next": "/Weltraum/Historie",
     "lastInDir": false,
     "parent": "/Weltraum/",
     "title": "Händler und Halunken"
   },
-  "/Weltraum/Militär": {
-    "prev": "/Weltraum/Händler_und_Halunken",
+  "/Weltraum/Historie": {
+    "prev": "/Weltraum/Haendler_und_Halunken",
+    "firstInDir": false,
+    "next": "/Weltraum/Militaer",
+    "lastInDir": false,
+    "parent": "/Weltraum/",
+    "title": "Historie"
+  },
+  "/Weltraum/Militaer": {
+    "prev": "/Weltraum/Historie",
     "firstInDir": false,
     "next": "/Weltraum/Planeten_und_Sternensysteme",
     "lastInDir": false,
@@ -4048,7 +4056,7 @@
     "title": "Militär"
   },
   "/Weltraum/Planeten_und_Sternensysteme": {
-    "prev": "/Weltraum/Militär",
+    "prev": "/Weltraum/Militaer",
     "firstInDir": false,
     "next": "/Weltraum/Promis",
     "lastInDir": false,
@@ -4058,21 +4066,37 @@
   "/Weltraum/Promis": {
     "prev": "/Weltraum/Planeten_und_Sternensysteme",
     "firstInDir": false,
-    "next": "/Weltraum/Städte",
+    "next": "/Weltraum/Staedte",
     "lastInDir": false,
     "parent": "/Weltraum/",
     "title": "Promis"
   },
-  "/Weltraum/Städte": {
+  "/Weltraum/Staedte": {
     "prev": "/Weltraum/Promis",
     "firstInDir": false,
-    "next": "/Weltraum/Verrückte_Wissenschaftler",
+    "next": "/Weltraum/Uebersicht_der_bekannten_Personen",
     "lastInDir": false,
     "parent": "/Weltraum/",
     "title": "Städte"
   },
-  "/Weltraum/Verrückte_Wissenschaftler": {
-    "prev": "/Weltraum/Städte",
+  "/Weltraum/Uebersicht_der_bekannten_Personen": {
+    "prev": "/Weltraum/Staedte",
+    "firstInDir": false,
+    "next": "/Weltraum/Uebersicht_der_Organisationen",
+    "lastInDir": false,
+    "parent": "/Weltraum/",
+    "title": "Übersicht der bekannten Personen"
+  },
+  "/Weltraum/Uebersicht_der_Organisationen": {
+    "prev": "/Weltraum/Uebersicht_der_bekannten_Personen",
+    "firstInDir": false,
+    "next": "/Weltraum/Verrueckte_Wissenschaftler",
+    "lastInDir": false,
+    "parent": "/Weltraum/",
+    "title": "Übersicht der Organisationen"
+  },
+  "/Weltraum/Verrueckte_Wissenschaftler": {
+    "prev": "/Weltraum/Uebersicht_der_Organisationen",
     "firstInDir": false,
     "next": "/Weltraum/Weltraumtiere",
     "lastInDir": false,
@@ -4080,39 +4104,23 @@
     "title": "Verrückte Wissenschaftler"
   },
   "/Weltraum/Weltraumtiere": {
-    "prev": "/Weltraum/Verrückte_Wissenschaftler",
+    "prev": "/Weltraum/Verrueckte_Wissenschaftler",
     "firstInDir": false,
-    "next": "/Weltraum/Zurückgebliebene_Planeten",
+    "next": "/Weltraum/Zurueckgebliebene_Planeten",
     "lastInDir": false,
     "parent": "/Weltraum/",
     "title": "Weltraumtiere"
   },
-  "/Weltraum/Zurückgebliebene_Planeten": {
+  "/Weltraum/Zurueckgebliebene_Planeten": {
     "prev": "/Weltraum/Weltraumtiere",
-    "firstInDir": false,
-    "next": "/Weltraum/Übersicht_der_bekannten_Personen",
-    "lastInDir": false,
-    "parent": "/Weltraum/",
-    "title": "Zurückgebliebene Planeten"
-  },
-  "/Weltraum/Übersicht_der_bekannten_Personen": {
-    "prev": "/Weltraum/Zurückgebliebene_Planeten",
-    "firstInDir": false,
-    "next": "/Weltraum/Übersicht_der_Organisationen",
-    "lastInDir": false,
-    "parent": "/Weltraum/",
-    "title": "Übersicht der bekannten Personen"
-  },
-  "/Weltraum/Übersicht_der_Organisationen": {
-    "prev": "/Weltraum/Übersicht_der_bekannten_Personen",
     "firstInDir": false,
     "next": "/Zufallstabellen/",
     "lastInDir": true,
     "parent": "/Weltraum/",
-    "title": "Übersicht der Organisationen"
+    "title": "Zurückgebliebene Planeten"
   },
   "/Zufallstabellen/": {
-    "prev": "/Weltraum/Übersicht_der_Organisationen",
+    "prev": "/Weltraum/Zurueckgebliebene_Planeten",
     "firstInDir": true,
     "next": "/Zufallstabellen/1-Klick-Abenteuer",
     "lastInDir": true,
@@ -4162,12 +4170,12 @@
   "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": {
     "prev": "/Zufallstabellen/Beute",
     "firstInDir": false,
-    "next": "/Zufallstabellen/Fehlfunktionen_von_Geräten",
+    "next": "/Zufallstabellen/Fehlfunktionen_von_Geraeten",
     "lastInDir": false,
     "parent": "/Zufallstabellen/",
     "title": "Ereignisse bei einem Raumflug"
   },
-  "/Zufallstabellen/Fehlfunktionen_von_Geräten": {
+  "/Zufallstabellen/Fehlfunktionen_von_Geraeten": {
     "prev": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug",
     "firstInDir": false,
     "next": "/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung",
@@ -4176,7 +4184,7 @@
     "title": "Fehlfunktionen von Geräten"
   },
   "/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung": {
-    "prev": "/Zufallstabellen/Fehlfunktionen_von_Geräten",
+    "prev": "/Zufallstabellen/Fehlfunktionen_von_Geraeten",
     "firstInDir": false,
     "next": "/Zufallstabellen/KI-Eigenschaften",
     "lastInDir": false,

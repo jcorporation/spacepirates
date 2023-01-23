@@ -12,7 +12,7 @@ Dieser Konzern ist auf Ostermerchandise spezialisiert und produziert nur Produkt
 
 ## Pessach 4
 
-Um [Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Pessach_4) kreist eine [Sonde des Osterhasen])({{ site.baseurl }}/Abenteuer/Ostern/Sonden)), diese fällt aber beim ersten Blick nicht auf, da um jeden Planeten irgendwelche Satelliten kreisen. Die Piraten dürfen aber eine Sensorenprobe (TECH) ablegen, wenn sie auf irgendwelche Besonderheiten achten. Bei 3 Erfolgen entdecken sie die ungewöhnliche Sonde.
+Um [Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Pessach_4) kreist eine [Sonde des Osterhasen])({{ site.baseurl }}/Abenteuer/Ostern/Sonden)), diese fällt aber beim ersten Blick nicht auf, da um jeden Planeten irgendwelche Satelliten kreisen. Die Piraten dürfen aber eine Sensorenprobe (TECH) ablegen, wenn sie auf irgendwelche Besonderheiten achten. Bei 3 Erfolgen entdecken sie die ungewöhnliche Sonde.
 
 Schon bei der Ankunft auf Pessach 4 ist klar, dass die Leute hier osterverrückt sind. Die Piraten werden sogar bei offiziellen Funksprüchen mit „Frohe Ostern“ begrüßt und mit „Gesegnetes Osterfest“ verabschiedet.
 

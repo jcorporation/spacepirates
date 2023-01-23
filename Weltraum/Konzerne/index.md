@@ -14,4 +14,4 @@ Die großen Handelsunternehmen sind für die abgelegenen Kolonialplaneten Fluch 
 
 ## Banken
 
-- Die [größten Banken]({{ site.baseurl }}/Weltraum/Freihandelszone/Währungen_und_Banken)
+- Die [größten Banken]({{ site.baseurl }}/Weltraum/Freihandelszone/Waehrungen_und_Banken)

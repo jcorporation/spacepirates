@@ -12,16 +12,16 @@ Falls die Hippies die Entführung von Ocean Sunflower mitbekommen, werden sie ih
 
 Jeder SpaceHippie ist mit einer Flower-Power-Pistole ausgestattet, eine normale Laserpistole mit einem regenbogenfarbenen Laserstrahl und die bei jedem Schuss ein lautes spaciges Geräusch produziert.
 
-<table data-order="cols" data-type="slc">
+<table>
 <caption>SpaceHippies</caption>
 <thead>
 <tr><th>Name</th><th>Rasse</th><th>Kategorie</th><th>Wohnort</th></tr>
 </thead>
 <tbody>
-<tr><td>Alice</td><td>[Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/)</td><td>Hippie</td><td>VW-Bus</td></tr>
-<tr><td>Brandon</td><td>[Wagone]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/)</td><td>Hippie</td><td>VW-Bus</td></tr>
-<tr><td>Melody</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td><td>Hippie</td><td>VW-Bus</td></tr>
-<tr><td>Oliver</td><td>[Mensch]({{ site.baseurl }}/Weltraum/Menschen/Föderation/)</td><td>Hippie</td><td>VW-Bus</td></tr>
+<tr><td>Alice</td><td>Trull</td><td>Hippie</td><td>VW-Bus</td></tr>
+<tr><td>Brandon</td><td>Wagone</td><td>Hippie</td><td>VW-Bus</td></tr>
+<tr><td>Melody</td><td>Mensch</td><td>Hippie</td><td>VW-Bus</td></tr>
+<tr><td>Oliver</td><td>Mensch</td><td>Hippie</td><td>VW-Bus</td></tr>
 </tbody>
 </table>
 

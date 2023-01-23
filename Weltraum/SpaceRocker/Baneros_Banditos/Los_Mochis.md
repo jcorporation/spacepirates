@@ -30,11 +30,11 @@ sitedata:
 
 # Los Mochis
 
-Los Mochis ist die Stammkneipe der Baneros Banditos. Sie befindet sich auf einem kleinen Planeten in der Nähe der [BadPlanets]({{ site.baseurl }}/Weltraum/Weltraumphänomene/), der nach der Kneipe benannt ist. Es ist ein sonst unbewohnter Steppenplanet mit 3 Monden. Die Kneipe erinnert stark an mexikanische Bars des früheren Wilden Westens, mit Schwingtüren, einem angegliederten Bordell und einer endlos langen Theke. Los Mochis wird von Ivy betrieben.
+Los Mochis ist die Stammkneipe der Baneros Banditos. Sie befindet sich auf einem kleinen Planeten in der Nähe der [BadPlanets]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/), der nach der Kneipe benannt ist. Es ist ein sonst unbewohnter Steppenplanet mit 3 Monden. Die Kneipe erinnert stark an mexikanische Bars des früheren Wilden Westens, mit Schwingtüren, einem angegliederten Bordell und einer endlos langen Theke. Los Mochis wird von Ivy betrieben.
 
 ## Ivy
 
-Ivy ist eine echte Mexikanerin. Außerdem ist sie hübsch anzusehen, mixt die besten und härtesten Cocktails des Universums und kann auch in einer Kneipenschlägerei ordentlich austeilen. Es wird gemunkelt, dass sie früher einmal eine Ninjagroßmeisterin des [Clans der Schildkröte]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkröte) war und wegen eines Verrates verstoßen wurde. Aber darauf spricht man sie besser nicht an.
+Ivy ist eine echte Mexikanerin. Außerdem ist sie hübsch anzusehen, mixt die besten und härtesten Cocktails des Universums und kann auch in einer Kneipenschlägerei ordentlich austeilen. Es wird gemunkelt, dass sie früher einmal eine Ninjagroßmeisterin des [Clans der Schildkröte]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkroete) war und wegen eines Verrates verstoßen wurde. Aber darauf spricht man sie besser nicht an.
 
 ## Ricardos SpaceBikes
 

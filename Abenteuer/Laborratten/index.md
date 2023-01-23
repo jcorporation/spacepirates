@@ -19,7 +19,7 @@ Im Inneren des fremden Raumschiffs finden sich die Charaktere in einem Holodeck 
   - [Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Sturm)
   - [Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Schatzinsel)
   - [Hafen]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Hafen)
-- [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Lösung)
+- [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Loesung)
 - [Dahinter]({{ site.baseurl }}/Abenteuer/Laborratten/Dahinter)
 
 ## Download

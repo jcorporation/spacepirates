@@ -21,7 +21,7 @@ sitedata:
 
 # Halfway
 
-Der bekannte Piratentreffpunkt „Halfway“ versteckt sich im Asteroidengürtel, welcher das [Weiße Loch]({{ site.baseurl }}/Weltraum/Weltraumphänomene/Weißes_Loch) im Trullimperium umkreist. Genau genommen ist es keine richtige Raumstation, sondern eine Sammlung unterschiedlichster Gebäude, die sich innerhalb des Antivakuumkraftfeldgenerators von Jacksons Bar angesiedelt haben – schließlich müsste man sonst mangels Atmosphäre ständig in Raumanzügen herumlaufen, was doch eher lästig ist. Heute ist es beinahe ein Dorf, in dem man Piraten, Huren, Söldner und sonstiges Gesindel findet.
+Der bekannte Piratentreffpunkt „Halfway“ versteckt sich im Asteroidengürtel, welcher das [Weiße Loch]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/Weisses_Loch) im Trullimperium umkreist. Genau genommen ist es keine richtige Raumstation, sondern eine Sammlung unterschiedlichster Gebäude, die sich innerhalb des Antivakuumkraftfeldgenerators von Jacksons Bar angesiedelt haben – schließlich müsste man sonst mangels Atmosphäre ständig in Raumanzügen herumlaufen, was doch eher lästig ist. Heute ist es beinahe ein Dorf, in dem man Piraten, Huren, Söldner und sonstiges Gesindel findet.
 
 Ursprünglich sollte auf Halfway eine Forschungsstation gebaut werden. Dieses Vorhaben wurde aber aufgrund von Sicherheitsbedenken in Bezug auf das Weiße Loch aufgegeben. Der Materiestrom des Weißen Loches und seine intensive Strahlung stören selbst robuste Instrumente, weshalb eine Landung auf Halfway immer auch ein Glücksspiel ist. Glücksritter und Kriminelle nehmen es mit der Sicherheit nicht ganz so genau, weshalb sie die angefangene Raumstation bedenkenlos übernommen haben.
 

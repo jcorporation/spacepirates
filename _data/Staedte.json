@@ -18,7 +18,7 @@
     "Planet": "Erde",
     "Groesse": "Millionenstadt",
     "Kategorie": "Hauptstadt",
-    "Link": "/Weltraum/Menschen/Föderation/Erde"
+    "Link": "/Weltraum/Menschen/Foederation/Erde"
   },
   "Foodtopia": {
     "Name": "Foodtopia",
@@ -102,14 +102,14 @@
     "Planet": "Pandar 5",
     "Größe": "Großstadt",
     "Kategorie": "Hauptstadt",
-    "Link": "/Weltraum/Menschen/Föderation/Pandar_5"
+    "Link": "/Weltraum/Menschen/Foederation/Pandar_5"
   },
   "Rabbit_City": {
     "Name": "Rabbit City",
     "Planet": "Pessach 4",
     "Größe": "Millionenstadt",
     "Kategorie": "Hauptstadt",
-    "Link": "/Weltraum/Menschen/Föderation/Pessach_4"
+    "Link": "/Weltraum/Menschen/Foederation/Pessach_4"
   },
   "Roger_City": {
     "Name": "Roger City",

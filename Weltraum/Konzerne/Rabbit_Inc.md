@@ -16,7 +16,7 @@ sitedata:
 
 # Rabbit Inc
 
-Rabbit Inc gehört der Finanzinvestoren [Yellow Stone Group]({{ site.baseurl }}/Weltraum/Konzerne/Yellow_Stone_Group) und ist mit ihrer Zentrale auf [Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Föderation/Pessach_4) beheimatet. Der Konzernvorstand ist aber von Mitgliedern der Sekte VzFvO (Vereinigung zur Förderung von Ostern) durchdrungen. Rabbit Inc wird faktisch von ihnen kontrolliert.
+Rabbit Inc gehört der Finanzinvestoren [Yellow Stone Group]({{ site.baseurl }}/Weltraum/Konzerne/Yellow_Stone_Group) und ist mit ihrer Zentrale auf [Pessach 4]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Pessach_4) beheimatet. Der Konzernvorstand ist aber von Mitgliedern der Sekte VzFvO (Vereinigung zur Förderung von Ostern) durchdrungen. Rabbit Inc wird faktisch von ihnen kontrolliert.
 
 Dieser Konzern ist auf Ostermerchandise spezialisiert und produziert nur Produkte für Ostern.
 

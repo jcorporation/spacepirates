@@ -27,5 +27,5 @@ Am 19. Tag entdeckt ein Spaceamzonen-Raumschiff die Überreste der antiken Space
 
 ***
 
-- **Zurück:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Übersetzung)
+- **Zurück:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung)
 - **Weiter:** [Der Weg nach Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Weg)

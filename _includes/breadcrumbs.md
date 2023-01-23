@@ -7,7 +7,13 @@
         {{ page.title }}
     {% endif %}
   {% else %}
-  <span>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</span>
-    <a class="breadcrumb-item link-dark text-decoration-none" href="{% assign crumb_limit = forloop.index | plus: 1 %}{{site.baseurl}}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'_',' '}}</a>
+    <span>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</span>
+    {% assign link = "" %}
+    {% assign crumb_limit = forloop.index | plus: 1 %}
+    {% for l in crumbs limit: crumb_limit %}
+      {% assign link = link | append: l | append: "/" %}
+    {% endfor %}
+    {% assign title = site.data.sitemap[link].title %}
+    <a class="breadcrumb-item link-dark text-decoration-none" href="{{ site.baseurl }}{{ link }}">{{ title }}</a>
   {% endif %}
 {% endfor %}

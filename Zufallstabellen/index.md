@@ -2,6 +2,7 @@
 layout: page
 permalink: /Zufallstabellen/
 title: Zufallstabellen
+order: /004
 ---
 
 # Zufallstabellen
@@ -30,7 +31,7 @@ Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum vo
 
 ## Technik
 
-- [Fehlfunktionen von Geräten]({{ site.baseurl }}/Zufallstabellen/Fehlfunktionen_von_Geräten)
+- [Fehlfunktionen von Geräten]({{ site.baseurl }}/Zufallstabellen/Fehlfunktionen_von_Geraeten)
 - [Folgen von Neutritium-, Negatritium-Strahlung]({{ site.baseurl }}/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung)
 - [KI-Eigenschaften]({{ site.baseurl }}/Zufallstabellen/KI-Eigenschaften)
 - [Techsprech]({{ site.baseurl }}/Zufallstabellen/Techsprech)
