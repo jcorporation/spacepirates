@@ -25,7 +25,7 @@ sitemap.showNode = function(node) {
 
 sitemap.hideNode = function(node) {
     node.removeAttribute('data-expanded');
-    node.innerHTML = '&#xF4FD;;';
+    node.innerHTML = '&#xF4FD;';
     node.parentNode.lastElementChild.style.display = 'none';
 }
 
