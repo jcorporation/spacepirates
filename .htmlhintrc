@@ -1,5 +1,5 @@
 {
-    "doctype-first": true,
+    "doctype-first": false,
     "doctype-html5": true,
     "head-script-disabled": true,
     "style-disabled": true,

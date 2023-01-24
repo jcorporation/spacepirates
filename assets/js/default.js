@@ -1,5 +1,19 @@
 "use strict";
 
+// helper functions
+function getParent(el, parentNodeName) {
+    while (el.nodeName !== parentNodeName) {
+        if (el.parentNode !== null) {
+            el = el.parentNode;
+        }
+        else {
+            break;
+        }
+    }
+    return el;
+}
+
+// sitemap
 const sitemap = {};
 
 sitemap.showNode = function(node) {
@@ -14,7 +28,7 @@ sitemap.hideNode = function(node) {
     node.parentNode.lastElementChild.style.display = 'none';
 }
 
-sitemap.init = function() {
+sitemap.show = function() {
     sitemap.container = document.querySelector('.sitemap');
     sitemap.container.addEventListener('click', function(event) {
         if (event.target.classList.contains('sm-expand')) {
@@ -51,67 +65,50 @@ sitemap.fetch = async function() {
     try {
       const response = await fetch('/assets/html/sitemap.html');
       document.getElementById('sitemap-body').innerHTML = await response.text();
-      sitemap.init();
+      sitemap.show();
     }
     catch (err) {
       console.log(err);
     }
 }
 
-document.getElementById('sitemap-menu').addEventListener('show.bs.offcanvas', function() {
-    if (document.getElementById('sitemap-menu').querySelector('.sitemap') === null) {
-        sitemap.fetch();
-    }
-    else {
-        sitemap.showCurrent();
-    }
-}, false);
-
-// clickable event handler
-const clickBoxes = document.getElementsByClassName('clickable');
-for (const box of clickBoxes) {
-    const link = box.getElementsByTagName('a')[0];
-    if (link) {
-        box.addEventListener('click', function() {
-            link.click();
-        }, false);
-    }
+sitemap.init = function() {
+    document.getElementById('sitemap-menu').addEventListener('show.bs.offcanvas', function() {
+        if (document.getElementById('sitemap-menu').querySelector('.sitemap') === null) {
+            sitemap.fetch();
+        }
+        else {
+            sitemap.showCurrent();
+        }
+    }, false);
 }
 
 // enhance tables
-const tables = document.querySelectorAll('table');
-for (const table of tables) {
-    if (table.parentNode.classList.contains('tbl-collapsed') === false) {
-        const div = document.createElement('div');
-        div.classList.add('table-responsive', 'mb-3');
-        table.parentNode.insertBefore(div, table);
-        div.appendChild(table);
-    }
-    const firstRow = table.querySelector('tr');
-    if (randomTable(table) === true) {
-        firstRow.title = 'Klick: würfeln';
-    }
-    else if (sortTable(table) === true) {
-        firstRow.title = 'Klick: sortieren';
-    }
-    if (filterTable(table) === true) {
-        firstRow.title = firstRow.title += '\nRechts Klick: filtern';
+const tables = {};
+
+tables.init = function() {
+    tables.allTables = document.querySelectorAll('table');
+    for (const table of tables.allTables) {
+        if (table.parentNode.classList.contains('tbl-collapsed') === false) {
+            const div = document.createElement('div');
+            div.classList.add('table-responsive', 'mb-3');
+            table.parentNode.insertBefore(div, table);
+            div.appendChild(table);
+        }
+        const firstRow = table.querySelector('tr');
+        if (tables.randomTable(table) === true) {
+            firstRow.title = 'Klick: würfeln';
+        }
+        else if (tables.sortTable(table) === true) {
+            firstRow.title = 'Klick: sortieren';
+        }
+        if (tables.filterTable(table) === true) {
+            firstRow.title = firstRow.title += '\nRechts Klick: filtern';
+        }
     }
 }
 
-function getParent(el, parentNodeName) {
-    while (el.nodeName !== parentNodeName) {
-        if (el.parentNode !== null) {
-            el = el.parentNode;
-        }
-        else {
-            break;
-        }
-    }
-    return el;
-}
-
-function filterTable(table) {
+tables.filterTable = function(table) {
     const firstRow = table.querySelector('tr');
     const th = firstRow.querySelectorAll('th');
     if (th.length < 2) {
@@ -119,17 +116,17 @@ function filterTable(table) {
     }
     firstRow.addEventListener('contextmenu', function(event) {
         event.preventDefault();
-        showHideFilter(event);
+        tables.showHideFilter(event);
     }, false);
     return true;
 }
 
-function showHideFilter(event) {
+tables.showHideFilter = function(event) {
     const table = getParent(event.target, 'TABLE');
     const inputEl = event.target.querySelector('input');
     if (inputEl !== null) {
         inputEl.remove();
-        showAllRows(table);
+        tables.showAllRows(table);
         return;
     }
     const firstRow = table.querySelector('tr');
@@ -137,25 +134,25 @@ function showHideFilter(event) {
     for (let i = 0, j = inputs.length; i < j; i++) {
         inputs[i].remove();
     }
-    showAllRows(table);
+    tables.showAllRows(table);
     const input = document.createElement('input');
     input.placeholder = 'Filtern';
     input.classList.add('filter-table');
     event.target.appendChild(input);
     input.focus();
     input.addEventListener('keyup', function(ev) {
-        filterRows(ev);
+        tables.filterRows(ev);
     }, false);
 }
 
-function showAllRows(table) {
+tables.showAllRows = function(table) {
     const tbody = table.querySelector('tbody');
     for (let i = 0, j = tbody.rows.length; i < j; i++) {
         tbody.rows[i].classList.remove('d-none');
     }
 }
 
-function filterRows(event) {
+tables.filterRows = function(event) {
     const filter = event.target.value.toLowerCase();
     const firstRow = getParent(event.target, 'TR');
     const cell = getParent(event.target, 'TH');
@@ -179,7 +176,7 @@ function filterRows(event) {
     }
 }
 
-function sortTable(table) {
+tables.sortTable = function(table) {
     const firstRow = table.querySelector('tr');
     const th = firstRow.querySelectorAll('th');
     if (th.length < 2) {
@@ -187,12 +184,12 @@ function sortTable(table) {
     }
     firstRow.classList.add('clickable');
     firstRow.addEventListener('click', function(event) {
-        sortRows(event);
+        tables.sortRows(event);
     }, false);
     return true;
 }
 
-function sortRows(event) {
+tables.sortRows = function(event) {
     const firstRow = getParent(event.target, 'TR');
     const table = getParent(event.target, 'TABLE');
     const tbody = table.querySelector('tbody');
@@ -236,7 +233,7 @@ function sortRows(event) {
     }
 }
 
-function randomTable(table) {
+tables.randomTable = function(table) {
     const firstRow = table.querySelector('tr');
     const th = firstRow.querySelector('th');
     if (th === null) {
@@ -260,20 +257,24 @@ function randomTable(table) {
 }
 
 // dice tags
-const dices = document.getElementsByClassName('dice');
-for (const dice of dices) {
-    dice.classList.add('btn', 'btn-sm', 'btn-yellow');
-    dice.addEventListener('click', function(event) {
-        if (event.target.classList.contains('dice')) {
-            rollDice(event.target);
-        }
-        else {
-            rollDice(event.target.parentNode);
-        }
-    }, false);
+const dice = {};
+
+dice.init = function() {
+    dice.dices = document.getElementsByClassName('dice');
+    for (const el of dice.dices) {
+        el.classList.add('btn', 'btn-sm', 'btn-yellow');
+        el.addEventListener('click', function(event) {
+            if (event.target.classList.contains('dice')) {
+                dice.roll(event.target);
+            }
+            else {
+                dice.roll(event.target.parentNode);
+            }
+        }, false);
+    }
 }
 
-function rollDice(el) {
+dice.roll = function(el) {
     const tmp = el.textContent.match(/(\d+)?W(\d+)(\+(\d+))?/);
     const a = tmp[1] === undefined ? 1: Number(tmp[1]);
     const w = Number(tmp[2]);
@@ -310,27 +311,29 @@ function rollDice(el) {
 }
 
 // search
-let searchIndex = null;
-let stompWords = null;
+const siteSearch = {};
 
-async function fetchJSON(dataFile, callback) {
+siteSearch.fetchJSON = async function(dataFile, callback) {
     try {
       const response = await fetch('/assets/json/' + dataFile + '.json');
       const data = await response.json();
-      cbFetchJSON(dataFile, data, callback);
+      siteSearch.cbFetchJSON(dataFile, data, callback);
     }
     catch (err) {
       console.log(err);
     }
 }
 
-function cbFetchJSON(dataFile, obj, callback) {
+siteSearch.cbFetchJSON = function(dataFile, obj, callback) {
     switch(dataFile) {
         case 'index':
-            searchIndex = obj;
+            siteSearch.searchIndex = obj;
             break;
         case 'index_stompkeys':
-            stompWords = obj;
+            siteSearch.stompWords = obj;
+            break;
+        case 'sitemap':
+            siteSearch.sitemap = obj;
             break;
     }
     if (callback !== null) {
@@ -338,42 +341,20 @@ function cbFetchJSON(dataFile, obj, callback) {
     }
 }
 
-function cbSearchInitialized() {
-    if (searchIndex !== null &&
-        stompWords !== null)
+siteSearch.cbSearchInitialized = function() {
+    if (siteSearch.searchIndex !== null &&
+        siteSearch.stompWords !== null &&
+        siteSearch.sitemap !== null)
     {
-        inputSearch.removeAttribute('disabled');
-        inputSearch.setAttribute('placeholder','Suchen');
-        inputSearch.focus();
+        siteSearch.inputSearch.removeAttribute('disabled');
+        siteSearch.inputSearch.setAttribute('placeholder','Suchen');
+        siteSearch.inputSearch.focus();
         return true;
     }
     return false;
 }
 
-const inputSearch = document.getElementById('inputSearch');
-const searchResult = document.getElementById('searchResult');
-const searchMenu = document.getElementById('search-menu');
-if (searchMenu !== null) {
-    searchMenu.addEventListener('shown.bs.offcanvas', function() {
-        if (cbSearchInitialized() === false) {
-            inputSearch.setAttribute('disabled', 'disabled');
-            inputSearch.setAttribute('placeholder','Wird initializiert...');
-            fetchJSON('index', cbSearchInitialized);
-            fetchJSON('index_stompkeys', cbSearchInitialized);
-        }
-    }, false);
-
-    inputSearch.addEventListener('click', function(event) {
-        // do not close dropdown
-        event.stopPropagation();
-    }, false);
-
-    inputSearch.addEventListener('keyup', function(event) {
-        doSearch(event.target.value, searchResult);
-    }, false);
-}
-
-function doSearch(value, resultEl) {
+siteSearch.doSearch = function(value, resultEl) {
     if (value.length === 0) {
         resultEl.textContent = '';
         return;
@@ -399,23 +380,23 @@ function doSearch(value, resultEl) {
         value = value.replace(/^\s*(aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|an|auf|der|die|das|ein|eine|\d+\.?)\s+/, '')
     } while (value !== valueOld)
     // stomp searchstring
-    const stomp = stompWords[value];
+    const stomp = siteSearch.stompWords[value];
     if (stomp !== undefined) {
         value = stomp;
     }
     // search
     const matches = {};
-    for (const key in searchIndex) {
+    for (const key in siteSearch.searchIndex) {
         if (key.indexOf(value) === 0) {
             const bump = key === value ? 50 : 0;
-            for (const uri in searchIndex[key]) {
+            for (const uri in siteSearch.searchIndex[key]) {
                 if (matches[uri]) {
-                    if (matches[uri] < searchIndex[key][uri]) {
-                        matches[uri] = searchIndex[key][uri] + bump;
+                    if (matches[uri] < siteSearch.searchIndex[key][uri]) {
+                        matches[uri] = siteSearch.searchIndex[key][uri] + bump;
                     }
                 }
                 else {
-                    matches[uri] = searchIndex[key][uri] + bump;
+                    matches[uri] = siteSearch.searchIndex[key][uri] + bump;
                 }
             }
         }
@@ -444,17 +425,10 @@ function doSearch(value, resultEl) {
     let i = 0;
     for (const match of sorted) {
         const a = document.createElement('a');
-        const path = match.split('/');
-        path.shift();
-        let name = path.pop();
-        if (name === '') {
-            name = path.pop();
-        }
-        name = name.replace(/_/g, ' ');
         const crumbs = document.createElement('small');
         crumbs.classList.add('d-block');
-        crumbs.textContent = path.join(" › ").replace(/_/g, ' ');
-        a.innerText = name;
+        crumbs.textContent = siteSearch.createCrumb(match);
+        a.innerText = siteSearch.sitemap[match].title;
         a.appendChild(crumbs);
         a.href = match; 
         a.classList.add('list-group-item');
@@ -471,4 +445,64 @@ function doSearch(value, resultEl) {
         resultEl.appendChild(div);
     }
     return sorted;
+}
+
+siteSearch.createCrumb = function(match) {
+    const path = match.split('/');
+    path.shift();
+    path.pop();
+    let crumb = '';
+    let link = '/';
+    const lastIdx = path.length - 1;
+    for (let i = 0; i <= lastIdx; i++) {
+        link += path[i] + '/';
+        crumb += siteSearch.sitemap[link].title + (i < lastIdx ? ' › ' : '');
+    }
+    return crumb;
+}
+
+siteSearch.init = function() {
+    siteSearch.searchIndex = null;
+    siteSearch.stompWords = null;
+    siteSearch.sitemap = null;
+    siteSearch.inputSearch = document.getElementById('inputSearch');
+    siteSearch.searchResult = document.getElementById('searchResult');
+    siteSearch.searchMenu = document.getElementById('search-menu');
+    if (siteSearch.searchMenu !== null) {
+        siteSearch.searchMenu.addEventListener('shown.bs.offcanvas', function() {
+            if (siteSearch.cbSearchInitialized() === false) {
+                siteSearch.inputSearch.setAttribute('disabled', 'disabled');
+                siteSearch.inputSearch.setAttribute('placeholder','Wird initializiert...');
+                siteSearch.fetchJSON('index', siteSearch.cbSearchInitialized);
+                siteSearch.fetchJSON('index_stompkeys', siteSearch.cbSearchInitialized);
+                siteSearch.fetchJSON('sitemap', siteSearch.cbSearchInitialized);
+            }
+        }, false);
+
+        siteSearch.inputSearch.addEventListener('click', function(event) {
+            // do not close dropdown
+            event.stopPropagation();
+        }, false);
+
+        siteSearch.inputSearch.addEventListener('keyup', function(event) {
+            siteSearch.doSearch(event.target.value, siteSearch.searchResult);
+        }, false);
+    }
+}
+
+//init all
+dice.init();
+sitemap.init();
+siteSearch.init();
+tables.init();
+
+// clickable event handler
+const clickBoxes = document.getElementsByClassName('clickable');
+for (const box of clickBoxes) {
+    const link = box.getElementsByTagName('a')[0];
+    if (link) {
+        box.addEventListener('click', function() {
+            link.click();
+        }, false);
+    }
 }
