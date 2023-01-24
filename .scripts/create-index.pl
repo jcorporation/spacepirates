@@ -335,7 +335,7 @@ sub add_uri {
 sub parse_value {
     my $key = $_[0];
     my $value = $_[1];
-    my $filename = $_[2];
+    my $permalink = $_[2];
     # default score for frontmatter
     my $inc = 1;
     for my $keyword (sort keys %keywords) {
@@ -352,7 +352,7 @@ sub parse_value {
                 $inc = 175;
             }
             _log("\"$key\" eq \"$keyword\": inc $inc");
-            add_uri($keyword, $inc, $filename);
+            add_uri($keyword, $inc, $permalink);
         }
         elsif ($value =~ /\b$keyword\b/) {
             if ($key eq "title") {
@@ -363,13 +363,28 @@ sub parse_value {
                 $inc = 75;
             }
             _log("\"$key\" matches \"$keyword\": inc $inc");
-            add_uri($keyword, $inc, $filename);
+            add_uri($keyword, $inc, $permalink);
         }
     }
 }
 
+sub get_permalink {
+    my $filename = $_[0];
+    my $permalink = $filename;
+    open $fh, $filename or die "Error opening $filename";
+    while (my $line = <$fh>) {
+        if ($line =~ /permalink:\s+\/(.+)$/) {
+            # permalink
+            $permalink = $1;
+        }
+    }
+    close $fh;
+    return $permalink;
+}
+
 # index files
 for my $filename (sort @files) {
+    my $permalink = get_permalink($filename);
     open $fh, $filename or die "Error opening $filename";
     if (defined($debug)) {
         _log("Parsing \"$filename\"");
@@ -392,10 +407,6 @@ for my $filename (sort @files) {
                 _log("End of frontmatter");
                 last;
             }
-            if ($line =~ /permalink:\s+\/(.+)$/) {
-                # permalink
-                $filename = $1;
-            }
             if ($line =~ /\s*([^:]+):\s+(.+)$/) {
                 # simple key / value
                 $key = $1;
@@ -415,7 +426,7 @@ for my $filename (sort @files) {
                 $value = "";
             }
             if ($key ne "" and $value ne "") {
-                parse_value($key, $value, $filename);
+                parse_value($key, $value, $permalink);
             }
         }
     }
@@ -440,7 +451,7 @@ for my $filename (sort @files) {
         for my $keyword (sort keys %keywords) {
             if ($line =~ /\b$keyword\b/) {
                 _log("Matched \"$keyword\": inc $inc");
-                add_uri($keyword, $inc, $filename);
+                add_uri($keyword, $inc, $permalink);
             }
         }
     }
