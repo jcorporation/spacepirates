@@ -42,7 +42,7 @@ $pages{"/"}{path} = "/";
 $pages{"/"}{parent} = "";
 $pages{"/"}{order} = "0";
 
-open my $sitemap, ">_includes/sitemap.html"  or die "Error opening _includes/sitemap.html";
+open my $sitemap, ">assets/html/sitemap.html"  or die "Error opening _includes/sitemap.html";
 my @flows = ();
 sub print_sitemap {
     my $key = $_[0];

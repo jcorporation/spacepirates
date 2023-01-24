@@ -2,21 +2,6 @@
 
 const sitemap = {};
 
-sitemap.container = document.querySelector('.sitemap');
-
-sitemap.container.addEventListener('click', function(event) {
-    if (event.target.classList.contains('sm-expand')) {
-        if (event.target.getAttribute('data-expanded') === 'true') {
-            sitemap.hideNode(event.target);
-        }
-        else {
-            sitemap.showNode(event.target);
-        }
-        event.preventDefault();
-        event.stopPropagation();
-    }
-}, false);
-
 sitemap.showNode = function(node) {
     node.setAttribute('data-expanded', 'true');
     node.innerHTML = '&#xF2E9;';
@@ -30,13 +15,28 @@ sitemap.hideNode = function(node) {
 }
 
 sitemap.init = function() {
+    sitemap.container = document.querySelector('.sitemap');
+    sitemap.container.addEventListener('click', function(event) {
+        if (event.target.classList.contains('sm-expand')) {
+            if (event.target.getAttribute('data-expanded') === 'true') {
+                sitemap.hideNode(event.target);
+            }
+            else {
+                sitemap.showNode(event.target);
+            }
+            event.preventDefault();
+            event.stopPropagation();
+        }
+    }, false);
+    sitemap.showCurrent();
+}
+
+sitemap.showCurrent = function() {
     const path = decodeURI(window.location.pathname).replace(/[^\w]/g, '_').replace(/__/g, '_');
     let site = sitemap.container.querySelector('#sitemap-' + path);
     site.classList.add('sm-current');
 
-    while (site.style.display !== 'block' &&
-        site.nodeName !== 'DIV')
-    {
+    while (site.nodeName !== 'DIV') {
         if (site.nodeName === 'UL') {
             const ex = site.previousElementSibling;
             if (ex) {
@@ -47,7 +47,25 @@ sitemap.init = function() {
     }
 }
 
-sitemap.init();
+sitemap.fetch = async function() {
+    try {
+      const response = await fetch('/assets/html/sitemap.html');
+      document.getElementById('sitemap-body').innerHTML = await response.text();
+      sitemap.init();
+    }
+    catch (err) {
+      console.log(err);
+    }
+}
+
+document.getElementById('sitemap-menu').addEventListener('show.bs.offcanvas', function() {
+    if (document.getElementById('sitemap-menu').querySelector('.sitemap') === null) {
+        sitemap.fetch();
+    }
+    else {
+        sitemap.showCurrent();
+    }
+}, false);
 
 // clickable event handler
 const clickBoxes = document.getElementsByClassName('clickable');
