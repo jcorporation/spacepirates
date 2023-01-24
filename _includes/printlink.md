@@ -1,24 +1,10 @@
 {%if include.link %}
-    {% assign crumbs = include.link | remove_first: "/" | split: '/' %}
-
-    {% assign link = "/" %}
-    {% assign title = "" %}
-    {% for l in crumbs %}
-        {% if forloop.last %}
-            {% assign link = link | append: l %}
-            {% assign title = title | append: site.data.sitemap[link].title %}
-        {% else %}
-            {% assign link = link | append: l | append: "/" %}
-            {% assign title = title | append: site.data.sitemap[link].title | append: " › " %}
-        {% endif %}
-    {% endfor %}
-
     {% if include.data[1] %}
         {% assign text = include.data | join: ", " %}
     {% else %}
         {% assign text = include.data %}
     {%endif %}
-    <a title="{{ title }}" href="{{ include.link }}">{{ text }}</a>
+    {% include printlink_title.md link=include.link text=text %}
 {% elsif include.type %}
     {% for text in include.data %}
         {% assign key = text | replace: ' ', '_' %}
@@ -39,18 +25,7 @@
 
         {% assign link = site.data[include.type][key].Link %}
         {% if link %}
-            {% assign crumbs = link | remove_first: "/" | split: '/' %}
-            {% assign clink = "/" %}
-            {% assign title = "" %}
-            {% for l in crumbs %}
-                {% if forloop.last %}
-                    {% assign title = title | append: site.data.sitemap[link].title %}
-                {% else %}
-                    {% assign clink = clink | append: l | append: "/" %}
-                    {% assign title = title | append: site.data.sitemap[clink].title | append: " › " %}
-                {% endif %}
-            {% endfor %}
-            <a title="{{ title }}" href="{{ link }}">{{ text }}</a>
+            {% include printlink_title.md link=link text=text %}
         {% else %}
             {{ text }}
         {% endif %}

@@ -3124,8 +3124,7 @@
     "/Abenteuer/Weihnachten/Weihnachtsmann": 1
   },
   "faruk der sternenfahrer": {
-    "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 176,
-    "/collections/_Piratencrews/Faruk_der_Sternenfahrer": 10
+    "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 186
   },
   "faruk_der_sternenfahrer": {
     "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 100
@@ -3291,7 +3290,7 @@
     "/Abenteuer/": 1
   },
   "foerderung": {
-    "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern": 77,
+    "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern": 78,
     "/Abenteuer/Ostern/VzFvO": 76,
     "/Abenteuer/Ostern/": 1
   },
@@ -4591,8 +4590,7 @@
     "/Weltraum/Militaer": 26
   },
   "heavensgate": {
-    "/Weltraum/Sekten/Heavensgate": 277,
-    "/collections/_Sekten/Heavensgate": 10
+    "/Weltraum/Sekten/Heavensgate": 287
   },
   "hehler": {
     "/Spielregeln/Spielleiter/Kampagnen/Beute": 27,
@@ -5772,13 +5770,12 @@
     "/Weltraum/Freihandelszone/Kozel_5": 187
   },
   "kinder": {
-    "/Weltraum/Sekten/Kinder_der_Sternenleere": 78,
+    "/Weltraum/Sekten/Kinder_der_Sternenleere": 79,
     "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 1,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Danach": 1
   },
   "kinder der sternenleere": {
-    "/Weltraum/Sekten/Kinder_der_Sternenleere": 277,
-    "/collections/_Sekten/Kinder_der_Sternenleere": 10
+    "/Weltraum/Sekten/Kinder_der_Sternenleere": 287
   },
   "kinoabend": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 10
@@ -6562,7 +6559,7 @@
     "/Zufallstabellen/Techsprech": 25
   },
   "mao": {
-    "/Weltraum/Piraten/Piratencrews/Tanaka_Mao": 78,
+    "/Weltraum/Piraten/Piratencrews/Tanaka_Mao": 79,
     "/Abenteuer/Rache_des_Akamachi-Clans/": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 1
   },
@@ -6573,10 +6570,9 @@
     "/Weltraum/Konzerne/SeeYou": 150
   },
   "marmonen": {
-    "/Weltraum/Sekten/Marmonen": 278,
+    "/Weltraum/Sekten/Marmonen": 288,
     "/Abenteuer/Zeitraub/Marmonen": 155,
     "/Abenteuer/Zeitraub_II/Auftragserteilung": 25,
-    "/collections/_Sekten/Marmonen": 10,
     "/Abenteuer/Zeitraub/": 1
   },
   "marric": {
@@ -6741,9 +6737,8 @@
     "/Weltraum/Sekten/Weltraumpfleger": 1
   },
   "meteorkraken": {
-    "/Weltraum/Weltraumtiere": 151,
+    "/Weltraum/Weltraumtiere": 161,
     "/Abenteuer/Schatzjagd/Rand": 26,
-    "/collections/_Weltraumtiere/Meteorkraken": 10,
     "/Abenteuer/Schatzjagd/Einstieg": 1
   },
   "metzlodrom": {
@@ -6836,8 +6831,7 @@
     "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet": 151
   },
   "molotowa": {
-    "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa": 80,
-    "/collections/_Piratencrews/Tatjana_Molotowa": 1
+    "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa": 81
   },
   "mond": {
     "/Weltraum/Promis": 176,
@@ -6890,8 +6884,7 @@
     "/Abenteuer/Halloween/Nebel": 26
   },
   "mykoniden": {
-    "/Weltraum/Weltraumtiere": 152,
-    "/collections/_Weltraumtiere/Mykoniden": 10
+    "/Weltraum/Weltraumtiere": 162
   },
   "mypagetitle": {
     "/Abenteuer/Ideen/": 1
@@ -6910,8 +6903,7 @@
     "/Abenteuer/Weihnachten_II/Santa_24": 25
   },
   "nackheit": {
-    "/Weltraum/Sekten/Verfechter_der_Nacktheit": 1,
-    "/collections/_Sekten/Verfechter_der_Nacktheit": 1
+    "/Weltraum/Sekten/Verfechter_der_Nacktheit": 2
   },
   "nacktheit": {
     "/Weltraum/Sekten/Verfechter_der_Nacktheit": 102
@@ -7941,7 +7933,7 @@
   },
   "ostern": {
     "/Abenteuer/Ostern/": 127,
-    "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern": 78,
+    "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern": 79,
     "/Abenteuer/Ostern/VzFvO": 76,
     "/Abenteuer/": 26,
     "/Abenteuer/Ostern/Rabbit_Inc": 4,
@@ -9401,8 +9393,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 1
   },
   "riesenweltraumhamster": {
-    "/Weltraum/Weltraumtiere": 152,
-    "/collections/_Weltraumtiere/Riesen-Weltraumhamster": 10
+    "/Weltraum/Weltraumtiere": 162
   },
   "rigel 3": {
     "/Weltraum/Freihandelszone/Rigel_3": 287
@@ -10696,9 +10687,8 @@
     "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Koenigin_Maud": 1
   },
   "spaceameisen": {
-    "/Weltraum/SpaceAmeisen": 152,
+    "/Weltraum/SpaceAmeisen": 162,
     "/Abenteuer/Spritprobleme/Spaceameisen": 127,
-    "/collections/_Weltraumtiere/Spaceameisen": 10,
     "/Abenteuer/Blumenkind/Blumenkind": 1
   },
   "spaceangels": {
@@ -10737,8 +10727,7 @@
     "/Abenteuer/SpaceDrache/John_Marric": 25
   },
   "spaceeiswuermer": {
-    "/Weltraum/Weltraumtiere": 152,
-    "/collections/_Weltraumtiere/Space-Eiswuermer": 10
+    "/Weltraum/Weltraumtiere": 162
   },
   "spaceeiswurm": {
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 27,
@@ -10829,8 +10818,7 @@
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 1
   },
   "spacequallen": {
-    "/Weltraum/SpaceQuallen": 151,
-    "/collections/_Weltraumtiere/SpaceQuallen": 10
+    "/Weltraum/SpaceQuallen": 161
   },
   "spaceresearch": {
     "/Weltraum/Konzerne/SpaceResearch": 277
@@ -11238,8 +11226,7 @@
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 25
   },
   "sternenfahrer": {
-    "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 176,
-    "/collections/_Piratencrews/Faruk_der_Sternenfahrer": 10
+    "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 186
   },
   "sternenkarte": {
     "/Weltraum/Sternenkarte/": 110,
@@ -11247,8 +11234,7 @@
     "/Abenteuer/Blumenkind/": 1
   },
   "sternenleere": {
-    "/Weltraum/Sekten/Kinder_der_Sternenleere": 228,
-    "/collections/_Sekten/Kinder_der_Sternenleere": 10
+    "/Weltraum/Sekten/Kinder_der_Sternenleere": 238
   },
   "sternenrepublik": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/": 79,
@@ -11300,8 +11286,7 @@
     "/Zufallstabellen/Sternensysteme": 25
   },
   "sternenwale": {
-    "/Weltraum/Weltraumtiere": 151,
-    "/collections/_Weltraumtiere/Sternenwale": 10,
+    "/Weltraum/Weltraumtiere": 161,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 1
   },
   "sternenwaljagd": {
@@ -11573,14 +11558,14 @@
     "/Weltraum/Haendler_und_Halunken": 175
   },
   "tanaka": {
-    "/Weltraum/Piraten/Piratencrews/Tanaka_Mao": 79,
+    "/Weltraum/Piraten/Piratencrews/Tanaka_Mao": 80,
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 28,
     "/Abenteuer/Rache_des_Akamachi-Clans/": 1
   },
   "tanaka mao": {
-    "/Weltraum/Piraten/Piratencrews/Tanaka_Mao": 277,
-    "/collections/_Piratencrews/Tanaka_Mao": 10,
-    "/Abenteuer/Rache_des_Akamachi-Clans/": 1
+    "/Weltraum/Piraten/Piratencrews/Tanaka_Mao": 287,
+    "/Abenteuer/Rache_des_Akamachi-Clans/": 1,
+    "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 1
   },
   "tanaka mei": {
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 177
@@ -11598,8 +11583,7 @@
     "/Abenteuer/Spritprobleme/": 1
   },
   "tatjana molotowa": {
-    "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa": 276,
-    "/collections/_Piratencrews/Tatjana_Molotowa": 10
+    "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa": 286
   },
   "tatjana molotowa die graefin": {
     "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa": 25
@@ -12304,22 +12288,20 @@
     "/Weltraum/Konzerne/Vereinigte_Nahrungsmittel_eG": 151
   },
   "vereinigung": {
-    "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern": 77,
+    "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern": 78,
     "/Abenteuer/Ostern/VzFvO": 76,
     "/Abenteuer/Ostern/": 1
   },
   "vereinigung zur foerderung von ostern": {
-    "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern": 276,
+    "/Weltraum/Sekten/Vereinigung_zur_Foerderung_von_Ostern": 286,
     "/Abenteuer/Ostern/VzFvO": 76,
-    "/collections/_Sekten/Vereinigung_zur_Foerderung_von_Ostern": 10,
     "/Abenteuer/Ostern/": 1
   },
   "vereinigung zur foerderung von ostern vzfvo": {
     "/Abenteuer/Ostern/VzFvO": 125
   },
   "verfechter der nackheit": {
-    "/Weltraum/Sekten/Verfechter_der_Nacktheit": 150,
-    "/collections/_Sekten/Verfechter_der_Nacktheit": 10
+    "/Weltraum/Sekten/Verfechter_der_Nacktheit": 160
   },
   "verfechter der nacktheit": {
     "/Weltraum/Sekten/Verfechter_der_Nacktheit": 152
@@ -12826,15 +12808,13 @@
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung": 1
   },
   "weltraumkaefer": {
-    "/Weltraum/Weltraumtiere": 152,
+    "/Weltraum/Weltraumtiere": 162,
     "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 30,
-    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 10,
-    "/collections/_Weltraumtiere/Weltraumkaefer": 10
+    "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 10
   },
   "weltraumpfleger": {
-    "/Weltraum/Sekten/Weltraumpfleger": 278,
+    "/Weltraum/Sekten/Weltraumpfleger": 288,
     "/Abenteuer/Spritprobleme/Weltraumpfleger": 129,
-    "/collections/_Sekten/Weltraumpfleger": 10,
     "/Weltraum/SpaceRocker/Rockbands": 2,
     "/Abenteuer/Spritprobleme/": 1
   },
@@ -12872,8 +12852,7 @@
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 27
   },
   "weltraumspinnen": {
-    "/Weltraum/Weltraumtiere": 151,
-    "/collections/_Weltraumtiere/Weltraumspinnen": 10
+    "/Weltraum/Weltraumtiere": 161
   },
   "weltraumtiere": {
     "/Weltraum/Weltraumtiere": 127,
@@ -13276,8 +13255,7 @@
     "/Abenteuer/Laborratten/Railroading/Hafen": 1
   },
   "zamtor": {
-    "/Weltraum/Piraten/Piratencrews/Zamtor": 277,
-    "/collections/_Piratencrews/Zamtor": 10,
+    "/Weltraum/Piraten/Piratencrews/Zamtor": 287,
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 1
   },

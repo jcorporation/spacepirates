@@ -43,10 +43,8 @@
 {% if include.mode == "first" %}
     {%if site.data.index[normalized] %}
         {% for uri in site.data.index[normalized] %}
-            {% assign crumbs = uri[0] | split: '/' %}
-            {% assign title = crumbs | join: " › " | remove_first: " › " %}
-            {% assign title = title | replace: "_", " " %}
-            <a title="{{ title }}" data-lookup="{{ normalized }}" href="{{ uri[0] }}">{{ include.data }}</a>
+            {% assign luri = uri[0] %}
+            {% include printlink_title.md link=luri text=include.data %}
             {% break %}
         {% endfor %}
     {% else %}
@@ -57,10 +55,8 @@
     {%if site.data.index[normalized] %}
         {% for uri in site.data.index[normalized] %}
             {% if page.permalink != uri[0] %}
-                {% assign crumbs = uri[0] | split: '/' %}
-                {% assign title = crumbs | join: " › " | remove_first: " › " %}
-                {% assign title = title | replace: "_", " " %}
-                <li><a title="{{ title }}" href="{{ uri[0] }}">{{ crumbs | last | replace: "_", " " }}</a></li>
+                {% assign luri = uri[0] %}
+                <li>{% include printlink_title.md link=luri %}</li>
             {% endif %}
         {% endfor %}
     {% else %}
