@@ -68,6 +68,9 @@ jobs:
 
       - name: Lint js css html
         run: .scripts/check-site.sh
+      
+      - name: Minify json
+        run: .scripts/minify.sh
 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
