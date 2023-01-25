@@ -15,6 +15,8 @@ Bei der Charaktererschaffung dürfen 12 Punkte auf die Profile verteilt werden. 
 
 Aliens erhalten nach der Verteilung noch einen zusätzlichen Punkt im, ihrer Rasse zugeordneten, Profil. Dadurch kann der Abstand zum nächstniedrigeren Profil auf 3 Punkte ansteigen.
 
+{% include table.md caption="Bonusprofile" %}
+
 | Alienrasse | Profil |
 | ---------- | ------ |
 | Kahadrier | SÖLDNER |
