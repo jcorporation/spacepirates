@@ -241,6 +241,7 @@ figcaption {
 
 #inputSearch {
   color: #212529;
+  background-color: #e9ecef;
 }
 
 th[data-sort="asc"]::before {
@@ -270,6 +271,7 @@ ul.sitemap li {
 
 ul.sitemap ul {
   display: none;
+  padding-left: 1.6rem;
 }
 
 a.sm-expand {
@@ -282,6 +284,11 @@ a.sm-expand {
 
 ul.sitemap a {
   color: #e9ecef;
+  text-decoration: none;
+}
+
+ul.sitemap {
+  padding-left: 1rem;
 }
 
 .offcanvas-body > ul {
@@ -291,4 +298,21 @@ ul.sitemap a {
 .sm-current > a {
   color: #ffcc00 !important;
   text-decoration: none;
+}
+
+.yellow a,
+.yellow a:hover {
+  color: #212529;
+  background-color: #ffc107;
+  border-color: #dfb300 !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #212529;
+  background-color: #ffcc00;
+}
+
+.nav-link,
+.nav-link:hover {
+  color: #ffcc00;
 }

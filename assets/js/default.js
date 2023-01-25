@@ -49,6 +49,9 @@ sitemap.showCurrent = function() {
     const path = decodeURI(window.location.pathname).replace(/[^\w]/g, '_').replace(/__/g, '_');
     let site = sitemap.container.querySelector('#sitemap-' + path);
     site.classList.add('sm-current');
+    if (site.firstChild.classList.contains('sm-expand')) {
+        sitemap.showNode(site.firstChild);
+    }
 
     while (site.nodeName !== 'DIV') {
         if (site.nodeName === 'UL') {
@@ -73,8 +76,8 @@ sitemap.fetch = async function() {
 }
 
 sitemap.init = function() {
-    document.getElementById('sitemap-menu').addEventListener('show.bs.offcanvas', function() {
-        if (document.getElementById('sitemap-menu').querySelector('.sitemap') === null) {
+    document.getElementById('main-menu').addEventListener('show.bs.offcanvas', function() {
+        if (document.getElementById('main-menu').querySelector('.sitemap') === null) {
             sitemap.fetch();
         }
         else {
@@ -476,27 +479,25 @@ siteSearch.init = function() {
     siteSearch.sitemap = null;
     siteSearch.inputSearch = document.getElementById('inputSearch');
     siteSearch.searchResult = document.getElementById('searchResult');
-    siteSearch.searchMenu = document.getElementById('search-menu');
-    if (siteSearch.searchMenu !== null) {
-        siteSearch.searchMenu.addEventListener('shown.bs.offcanvas', function() {
-            if (siteSearch.cbSearchInitialized() === false) {
-                siteSearch.inputSearch.setAttribute('disabled', 'disabled');
-                siteSearch.inputSearch.setAttribute('placeholder','Wird initializiert...');
-                siteSearch.fetchJSON('index', siteSearch.cbSearchInitialized);
-                siteSearch.fetchJSON('index_stompkeys', siteSearch.cbSearchInitialized);
-                siteSearch.fetchJSON('sitemap', siteSearch.cbSearchInitialized);
-            }
-        }, false);
 
-        siteSearch.inputSearch.addEventListener('click', function(event) {
-            // do not close dropdown
-            event.stopPropagation();
-        }, false);
+    document.getElementById('main-menu').addEventListener('show.bs.offcanvas', function() {
+        if (siteSearch.cbSearchInitialized() === false) {
+            siteSearch.inputSearch.setAttribute('disabled', 'disabled');
+            siteSearch.inputSearch.setAttribute('placeholder','Wird initializiert...');
+            siteSearch.fetchJSON('index', siteSearch.cbSearchInitialized);
+            siteSearch.fetchJSON('index_stompkeys', siteSearch.cbSearchInitialized);
+            siteSearch.fetchJSON('sitemap', siteSearch.cbSearchInitialized);
+        }
+    }, false);
 
-        siteSearch.inputSearch.addEventListener('keyup', function(event) {
-            siteSearch.doSearch(event.target.value, siteSearch.searchResult);
-        }, false);
-    }
+    siteSearch.inputSearch.addEventListener('click', function(event) {
+        // do not close dropdown
+        event.stopPropagation();
+    }, false);
+
+    siteSearch.inputSearch.addEventListener('keyup', function(event) {
+        siteSearch.doSearch(event.target.value, siteSearch.searchResult);
+    }, false);
 }
 
 //init all
