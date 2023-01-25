@@ -307,7 +307,8 @@ ul.sitemap {
   border-color: #dfb300 !important;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
   color: #212529;
   background-color: #ffcc00;
 }
