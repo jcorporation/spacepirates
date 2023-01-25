@@ -89,11 +89,20 @@ const tables = {};
 tables.init = function() {
     tables.allTables = document.querySelectorAll('table');
     for (const table of tables.allTables) {
+        const caption = table.previousElementSibling.classList.contains('table-caption')
+            ? table.previousElementSibling.textContent
+            : '';
         if (table.parentNode.classList.contains('tbl-collapsed') === false) {
             const div = document.createElement('div');
             div.classList.add('table-responsive', 'mb-3');
             table.parentNode.insertBefore(div, table);
             div.appendChild(table);
+        }
+        if (caption !== '') {
+            const c = document.createElement('caption');
+            c.textContent = caption;
+            table.insertAdjacentElement('afterbegin', c);
+            table.parentNode.previousElementSibling.remove();
         }
         const firstRow = table.querySelector('tr');
         if (tables.randomTable(table) === true) {
