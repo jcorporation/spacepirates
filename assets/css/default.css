@@ -228,6 +228,7 @@ img.max-w {
 figcaption {
   font-style: italic;
   text-align: center;
+  font-size: 0.9rem;
 }
 
 #searchResult a,

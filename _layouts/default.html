@@ -4,16 +4,18 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/bootstrap.min.css"/>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/default.css"/>
-    <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon"/>
-    <link rel="alternate" type="application/rss+xml"  href="{{ site.baseurl }}/feed.xml" title="{{ site.title }}"/>
+    <link href="{{ site.baseurl }}/assets/bootstrap-icons.woff2" rel="preload" type="font/woff2" as="font" crossorigin="anonymous"/>
+    <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="{{ site.baseurl }}/assets/css/default.css" rel="stylesheet" type="text/css"/>
+    <link href="{{ site.baseurl }}/assets/images/appicon-192.png" rel="apple-touch-icon"/>
+    <link href="{{ site.baseurl }}/assets/images/appicon-192.png" rel="icon"/>
+    <link href="{{ site.baseurl }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.title }}"/>
   </head>
   <body>
     <div data-bs-theme="dark" class="offcanvas offcanvas-start" tabindex="-1" id="main-menu">
       <div class="offcanvas-header mb-3">
         <div class="w-100 text-center">
-          <img src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates" width="230"/>
+          <img width="230" src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates"/>
           <button type="button" class="btn-close btn-close-white float-end" data-bs-dismiss="offcanvas"></button>
           <nav class="nav nav-pills nav-justified mt-4">
             <a class="nav-link mi active" data-bs-toggle="tab" href="#tab-menu" title="Menu">&#xF479;</a>
@@ -52,7 +54,7 @@
     </div>
     <header class="navbar bg-sterne">
       <a class="my-3 mx-auto" href="{{ site.baseurl }}/">
-        <img class="mw-100 h-auto" src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates" width="398" height="93"/>
+        <img src="{{ site.baseurl }}/assets/images/logo.png" width="398" height="93" class="mw-100 h-auto" alt="SpacePirates"/>
       </a>
     </header>
     <header class="navbar navbar-expand py-2 mb-2 bg-yellow">
@@ -74,7 +76,7 @@
         <div></div>
         <div>
           <a class="p-2" href="https://www.jcgames.de/">
-            <img width="103" height="47" src="{{ site.baseurl }}/assets/images/jcgames-logo.png"/>
+            <img src="{{ site.baseurl }}/assets/images/jcgames-logo.png" width="103" height="47" alt="jcgames"/>
           </a>
         </div>
         <div>
