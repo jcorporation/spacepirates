@@ -10,7 +10,7 @@ Indem du dich zu SpacePirates äußerst, trägst du zur Entwicklung bei. Durch d
 
 Zur Kontaktaufnahme stehen dir folgende Möglichkeiten zur Verfügung:
 
-- Poste einen Beitrag ins [Forum](http://tanelorn.net/.php/board,225.0.html)
+- Poste einen Beitrag ins [Forum](https://www.tanelorn.net/index.php?board=368.0)
 - Schreibe eine eMail an: [mail@jcgames.de](mailto:mail@jcgames.de)
 - [Tanelorn Discord](https://discord.com/channels/493858616902811648/) (Nick: jcorporation)
 
