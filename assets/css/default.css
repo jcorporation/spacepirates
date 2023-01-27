@@ -109,6 +109,10 @@ main ul {
   list-style-type: square;
 }
 
+aside img {
+  max-width: 100%;
+}
+
 .breadcrumb > span {
   margin-top: -0.1rem;
 }
@@ -319,31 +323,43 @@ ul.sitemap {
   color: #ffcc00;
 }
 
+#top-bar {
+  border-bottom: 1rem solid #e9ecec;
+}
+
 @media (min-width: 1680px) {
   #main-menu-btn {
     display: none !important;
   }
+
   .container-xxl {
     max-width: 1680px;
   }
+
   .offcanvas {
     transform: none !important;
     transition: none;
     visibility: visible;
     position: sticky;
+    top: 4rem !important;
     height: 100%;
     border-radius: 0.5rem;
-    margin-right: 1.5rem;
+    margin-right: 3rem;
+    min-width: var(--bs-offcanvas-width);
+    overflow: hidden;
+    max-height: calc(100vh - 8rem);
   }
+
   .offcanvas-header img,
   .offcanvas-header .btn-close {
     display: none;
   }
+
   .offcanvas nav {
     margin-top: 0 !important;
   }
+
   .offcanvas-body {
     padding-bottom: 0.5rem !important;
   }
-
 }
