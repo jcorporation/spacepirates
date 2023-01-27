@@ -13,11 +13,11 @@ Hier sind nur wichtige und interessante Ausrüstungsgegenstände aufgeführt. Al
 
 | Piratiges | Bonus | Kosten |
 | --------- | :---: | -----: |
-| Cyberaugenklappe | Infrarotsicht | 200 |
+| Cyber-Augenklappe | Infrarotsicht | 200 |
 | Cyber-Kopftuch | keinen | 250 |
+| Cyber-Piratenhut | keinen | 1.000 |
 | Multitool-Hakenhand | P+1 auf Tech | 550 |
 | Multitool-Hakenhand PRO | P+1 auf Tech, P+1 auf Pilot | 1.600 |
-| Cyber-Piratenhut | keinen | 1.000 |
 | Rum | keinen | 0 |
 | Schmuggel-Hakenhand | keinen | 300 |
 
@@ -39,9 +39,9 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 | Einweg Liebeslippenstift | je nach Anwendung | 600 |
 | Elektronischer Dietrich | P+1 für Schlösser knacken | 450 |
 | Ganzkörperschleier | je nach Anwendung | 1.000 |
+| Handscanner | je nach Anwendung | 4.500 |
 | Intergalaxy S9000 Smartphone | P+1 auf Informationsbeschaffung | 150 |
 | Jetpack | je nach Anwendung | 2.000 |
-| Handscanner | je nach Anwendung | 4.500 |
 | MediKit – Standard | Voraussetzung für medizinische Versorgung | 300 |
 | MediKit – Expert | P+1 für medizinische Proben | 450 |
 | Stimmverändernder Kaugummi (10er-Pack) | je nach Anwendung | 100 |
