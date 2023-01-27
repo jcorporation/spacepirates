@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  background-color: #ececec;
+  background-color: #e9ecec;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -317,4 +317,33 @@ ul.sitemap {
 .nav-link,
 .nav-link:hover {
   color: #ffcc00;
+}
+
+@media (min-width: 1680px) {
+  #main-menu-btn {
+    display: none !important;
+  }
+  .container-xxl {
+    max-width: 1680px;
+  }
+  .offcanvas {
+    transform: none !important;
+    transition: none;
+    visibility: visible;
+    position: sticky;
+    height: 100%;
+    border-radius: 0.5rem;
+    margin-right: 1.5rem;
+  }
+  .offcanvas-header img,
+  .offcanvas-header .btn-close {
+    display: none;
+  }
+  .offcanvas nav {
+    margin-top: 0 !important;
+  }
+  .offcanvas-body {
+    padding-bottom: 0.5rem !important;
+  }
+
 }

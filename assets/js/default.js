@@ -76,7 +76,7 @@ sitemap.fetch = async function() {
 }
 
 sitemap.init = function() {
-    document.getElementById('main-menu').addEventListener('show.bs.offcanvas', function() {
+    document.getElementById('nav-sitemap').addEventListener('show.bs.tab', function() {
         if (document.getElementById('main-menu').querySelector('.sitemap') === null) {
             sitemap.fetch();
         }
@@ -480,7 +480,7 @@ siteSearch.init = function() {
     siteSearch.inputSearch = document.getElementById('inputSearch');
     siteSearch.searchResult = document.getElementById('searchResult');
 
-    document.getElementById('main-menu').addEventListener('show.bs.offcanvas', function() {
+    document.getElementById('nav-search').addEventListener('show.bs.tab', function() {
         if (siteSearch.cbSearchInitialized() === false) {
             siteSearch.inputSearch.setAttribute('disabled', 'disabled');
             siteSearch.inputSearch.setAttribute('placeholder','Wird initializiert...');
