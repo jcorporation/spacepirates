@@ -327,6 +327,10 @@ ul.sitemap {
   border-bottom: 1rem solid #e9ecec;
 }
 
+.form-control:focus {
+  border-color: #ffcc00;
+}
+
 @media (min-width: 1680px) {
   #main-menu-btn {
     display: none !important;
@@ -348,6 +352,8 @@ ul.sitemap {
     min-width: var(--bs-offcanvas-width);
     overflow: hidden;
     max-height: calc(100vh - 8rem);
+    background-color: #ced4da;
+    color: #212529;
   }
 
   .offcanvas-header img,
@@ -361,5 +367,26 @@ ul.sitemap {
 
   .offcanvas-body {
     padding-bottom: 0.5rem !important;
+  }
+
+  .nav-pills .nav-link,
+  ul.sitemap a {
+    color: #212529;
+  }
+
+  .list-group-item {
+    background-color: transparent;
+  }
+
+  .offcanvas .dropdown-item:hover, .offcanvas .list-group-item:hover {
+    background-color: var(--bs-gray-400) !important;
+  }
+
+  .dropdown-divider {
+    border-top: 1px solid #212529;
+  }
+
+  li.sm-current > a {
+    color: #dfb300 !important;
   }
 }
