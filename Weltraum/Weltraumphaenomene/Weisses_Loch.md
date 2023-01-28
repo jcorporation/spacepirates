@@ -5,7 +5,7 @@ title: Weißes Loch
 
 sitedata:
     Weltraumphaenomene:
-        Weißes_Loch:
+        Weisses_Loch:
             Name: "Weißes Loch"
             Sektor: "Reich der Wagonen"
             Beschreibung: ""

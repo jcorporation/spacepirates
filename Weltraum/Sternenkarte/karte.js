@@ -10,12 +10,16 @@ karte.prevent = function(ev) {
 
 karte.init = function() {
     // fetch search data
-    if (searchIndex === null) {
-        fetchJSON('index', karte.cbInitialized);
+    if (siteSearch.searchIndex === null) {
+        siteSearch.fetchJSON('index', karte.cbInitialized);
         document.getElementById('kartenpanel').style.opacity = '0.2';
     }
-    if (stompWords === null) {
-        fetchJSON('index_stompkeys', karte.cbInitialized);
+    if (siteSearch.stompWords === null) {
+        siteSearch.fetchJSON('index_stompkeys', karte.cbInitialized);
+        document.getElementById('kartenpanel').style.opacity = '0.2';
+    }
+    if (siteSearch.sitemap === null) {
+        siteSearch.fetchJSON('sitemap', karte.cbInitialized);
         document.getElementById('kartenpanel').style.opacity = '0.2';
     }
     // set defaults
@@ -66,8 +70,9 @@ karte.init = function() {
 }
 
 karte.cbInitialized = function() {
-    if (searchIndex !== null &&
-        stompWords !== null)
+    if (siteSearch.searchIndex !== null &&
+        siteSearch.stompWords !== null &&
+        siteSearch.sitemap !== null)
     {
         document.getElementById('kartenpanel').style.opacity = '1';
     }
@@ -100,7 +105,7 @@ karte.clickHandler = function(event) {
 karte.getInfo = async function(text, link) {
     BSN.Modal.getInstance(document.getElementById('infopanel')).show();
 
-    const result = doSearch(text, document.getElementById('searchTabResult'));
+    const result = siteSearch.doSearch(text, document.getElementById('searchTabResult'));
     if (link === null) {
         link = result[0];
     }
