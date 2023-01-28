@@ -16,7 +16,7 @@ order: /004
 | Edel-Kombüse | 5.000 |
 | EHB-Auspuff | 2.000 |
 | Entertainmentsystem | 8.000 |
-| Flauschwürfel | 50 |
+| Flauschwürfel | 10 |
 | Holoflagge | 1.000 |
 | Hologrammemitter | 10.000 |
 | Komfortable Kabine pro Person | 1.000 |
@@ -24,12 +24,11 @@ order: /004
 | Meteorkrakenlederüberzug | 30.000 |
 | Notaus-Knopf | 1.000 |
 | Panorama-Dachfenster | 3.000 |
-| Putzroboter | 4.000 |
 | Rallystreifen | 500 |
 | Rumdestille | 4.000 |
 | Schiffs-KI | 10.000 |
 | Stereoanlage mit EHB-System | 2.000 |
-| Wackeldackel | 50 |
+| Wackeldackel | 10 |
 
 - **Antiphotonen-Schild:** Eingeschaltet löscht es alle Photonen aus, die das Raumschiff treffen, schwärzer kann kein Raumschiff werden.
 - **Cabriokit:** Teile der Schiffshülle werden durch dauerhafte Anti-Vakuum-Kraftfelder ersetzt.

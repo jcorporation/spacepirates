@@ -12,5 +12,6 @@ Schilde schützen das Raumschiff vor Schadenspunkten und sind überlebenswichtig
 | Schild | Schildwert | Kosten |
 | ------ | ---------- | -----: |
 | kleiner Schild | 4 | 12.000 |
+| mittlerer Schild | 8 | 16.000 |
 | großer Schild | 8 | 20.000 |
 | Militärschild | 16 | 50.000 |

@@ -30,6 +30,7 @@ Das Raumschiff sollte zumindest mit folgenden Dingen ausgestattet sein:
 - Einen FTL-Antrieb, sonst können die Piraten nur auf einer Raumstation abhängen.
 - Zumindest kleine Schilde.
 - Sensoren, Standardsensoren reichen meist aus.
+- FTL-Funk
 - Pro gutem Söldner eine Waffe.
 - Eine Enterschleuse ist sehr praktisch, sonst benötigt man zum Entern Raumanzüge.
 {% endcapture %}
