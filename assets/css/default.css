@@ -1,13 +1,16 @@
 html {
-  --bs-dropdown-divider-bg: #ced4da;
-  --bs-btn-hover-bg: #ffcc00;
-  --bs-btn-active-bg: #ffcc00;
-  --bs-btn-hover-border-color: #dfb300;
-  --bs-btn-active-border-color: #dfb300;
+  --sp-orange: #ffcc00;
+  --sp-orange-dark: #dfb300;
+  --sp-yellow: var(--bs-yellow);
+  --bs-dropdown-divider-bg: var(--bs-gray-400);
+  --bs-btn-hover-bg: var(--sp-orange);
+  --bs-btn-active-bg: var(--sp-orange);
+  --bs-btn-hover-border-color: var(--sp-orange-dark);
+  --bs-btn-active-border-color: var(--sp-orange-dark);
 }
 
 body {
-  background-color: #e9ecec;
+  background-color: var(--bs-gray-200);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -15,15 +18,15 @@ body {
 
 .offcanvas .dropdown-item:hover,
 .offcanvas .list-group-item:hover {
-  background-color: #343a40 !important;
+  background-color: var(--bs-gray-800) !important;
 }
 
 a {
-  color: #555;
+  color: var(--bs-gray-700);
 }
 
 a:hover {
-  color: #555;
+  color: var(--bs-gray-700);
   text-decoration: none;
 }
 
@@ -57,7 +60,7 @@ p {
 }
 
 .bg-yellow {
-  background-color: #fc0;
+  background-color: var(--sp-orange);
 }
 
 table {
@@ -71,17 +74,17 @@ caption {
 caption,
 tfoot td,
 th {
-  background-color: #fc0;
+  background-color: var(--sp-orange);
   color: black;
   padding: 0.3rem 0.5rem;
-  border: 1px solid #ececec;
+  border: 1px solid var(--bs-gray-200);
   font-weight: normal;
 }
 
 td {
   background-color: white;
   padding: 0.3rem 0.5rem;
-  border: 1px solid #ececec;
+  border: 1px solid var(--bs-gray-200);
 }
 
 td > ul:last-child,
@@ -90,11 +93,11 @@ td > p:last-child {
 }
 
 tr.selected td {
-  background-color: #fc0 !important;
+  background-color: var(--sp-orange) !important;
 }
 
 tbody:not(:last-child) tr:last-child td {
-  border-bottom: 1px solid #ffcc00;
+  border-bottom: 1px solid var(--sp-orange);
 }
 
 .card-body p:last-child {
@@ -121,9 +124,9 @@ aside img {
 .btn-yellow,
 .btn-yellow:hover,
 .btn-yellow.active {
-  color: #212529;
-  background-color: #ffcc00;
-  border-color: #dfb300 !important;
+  color: var(--bs-gray-900);
+  background-color: var(--sp-orange);
+  border-color: var(--sp-orange-dark) !important;
 }
 
 @font-face {
@@ -197,7 +200,7 @@ button:focus {
 }
 
 .diceresult {
-  background-color: #f8f9fa;
+  background-color: var(--bs-gray-100);
   padding: 0.2rem;
   margin-left: 0.5rem;
   border-radius: 0.2rem;
@@ -241,12 +244,12 @@ figcaption {
 }
 
 [data-bs-theme="dark"] {
-  color: #f8f9fa;
+  color: var(--bs-gray-100);
 }
 
 #inputSearch {
-  color: #212529;
-  background-color: #e9ecef;
+  color: var(--bs-gray-900);
+  background-color: var(--bs-gray-200);
 }
 
 th[data-sort="asc"]::before {
@@ -288,7 +291,7 @@ a.sm-expand {
 }
 
 ul.sitemap a {
-  color: #e9ecef;
+  color: var(--bs-gray-200);
   text-decoration: none;
 }
 
@@ -301,34 +304,34 @@ ul.sitemap {
 }
 
 .sm-current > a {
-  color: #ffcc00 !important;
+  color: var(--sp-orange) !important;
   text-decoration: none;
 }
 
 .yellow a,
 .yellow a:hover {
-  color: #212529;
-  background-color: #ffc107;
-  border-color: #dfb300 !important;
+  color: var(--bs-gray-900);
+  background-color: var(--sp-yellow);
+  border-color: var(--sp-orange-dark) !important;
 }
 
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #212529;
-  background-color: #ffcc00;
+  color: var(--bs-gray-900);
+  background-color: var(--sp-orange);
 }
 
 .nav-link,
 .nav-link:hover {
-  color: #ffcc00;
+  color: var(--sp-orange);
 }
 
 #top-bar {
-  border-bottom: 1rem solid #e9ecec;
+  border-bottom: 1rem solid var(--bs-gray-200);
 }
 
 .form-control:focus {
-  border-color: #ffcc00;
+  border-color: var(--sp-orange);
 }
 
 @media (min-width: 1200px) {
@@ -367,7 +370,7 @@ ul.sitemap {
     overflow: hidden;
     max-height: calc(100vh - 8rem);
     background-color: transparent;
-    color: #212529;
+    color: var(--bs-gray-900);
   }
 
   .offcanvas-header img,
@@ -380,21 +383,21 @@ ul.sitemap {
   }
 
   .offcanvas-header {
-    background-color: #ced4da;
+    background-color: var(--bs-gray-300);
     border-top-left-radius: 0.5rem;
     border-top-right-radius: 0.5rem;
   }
 
   .offcanvas-body {
     padding-bottom: 0.5rem !important;
-    background-color: #ced4da;
+    background-color: var(--bs-gray-300);
     border-bottom-left-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
   }
 
   .nav-pills .nav-link,
   ul.sitemap a {
-    color: #212529;
+    color: var(--bs-gray-900);
   }
 
   .list-group-item {
@@ -407,10 +410,10 @@ ul.sitemap {
   }
 
   .dropdown-divider {
-    border-top: 1px solid #212529;
+    border-top: 1px solid var(--bs-gray-900);
   }
 
   li.sm-current > a {
-    color: #dfb300 !important;
+    color: var(--sp-orange-dark) !important;
   }
 }
