@@ -331,7 +331,21 @@ ul.sitemap {
   border-color: #ffcc00;
 }
 
-@media (min-width: 1680px) {
+@media (min-width: 1200px) {
+  aside > table {
+    width: 100%;
+  }
+}
+
+@media (max-width: 1399px) {
+  .offcanvas {
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 1400px) {
   #main-menu-btn {
     display: none !important;
   }
@@ -345,14 +359,14 @@ ul.sitemap {
     transition: none;
     visibility: visible;
     position: sticky;
+    left: unset !important;
     top: 4rem !important;
     height: 100%;
-    border-radius: 0.5rem;
-    margin-right: 3rem;
-    min-width: var(--bs-offcanvas-width);
+    min-width: unset;
+    width: 25% !important;
     overflow: hidden;
     max-height: calc(100vh - 8rem);
-    background-color: #ced4da;
+    background-color: transparent;
     color: #212529;
   }
 
@@ -365,8 +379,17 @@ ul.sitemap {
     margin-top: 0 !important;
   }
 
+  .offcanvas-header {
+    background-color: #ced4da;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+  }
+
   .offcanvas-body {
     padding-bottom: 0.5rem !important;
+    background-color: #ced4da;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
   }
 
   .nav-pills .nav-link,
@@ -378,7 +401,8 @@ ul.sitemap {
     background-color: transparent;
   }
 
-  .offcanvas .dropdown-item:hover, .offcanvas .list-group-item:hover {
+  .offcanvas .dropdown-item:hover,
+  .offcanvas .list-group-item:hover {
     background-color: var(--bs-gray-400) !important;
   }
 

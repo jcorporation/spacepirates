@@ -5132,7 +5132,7 @@
     "/Weltraum/Rebellen/": 1
   },
   "ivy": {
-    "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 27
+    "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 177
   },
   "iyani": {
     "/Weltraum/Haendler_und_Halunken": 28,
@@ -9374,6 +9374,10 @@
   "rezeptraub": {
     "/Abenteuer/Ideen/SpaceWorms": 25
   },
+  "ricardo": {
+    "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 151,
+    "/Weltraum/SpaceRocker/Baneros_Banditos/": 1
+  },
   "ricardos spacebikes": {
     "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 25
   },
@@ -9591,7 +9595,6 @@
   },
   "samnese": {
     "/Weltraum/Aliens/Samnesen/": 452,
-    "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 151,
     "/Weltraum/Promis": 44,
     "/Weltraum/Haendler_und_Halunken": 24,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 21,
@@ -9609,7 +9612,8 @@
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 1,
     "/Abenteuer/Zeitraub/Auftrag": 1,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 1,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 1
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 1,
+    "/Weltraum/": 1
   },
   "samnesischer schockstrahler": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 26
@@ -11904,8 +11908,7 @@
     "/Abenteuer/Neutritiumklau/SpaceShell": 25
   },
   "tsagul": {
-    "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place": 177,
-    "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 150
+    "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place": 177
   },
   "tueren zu": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 10

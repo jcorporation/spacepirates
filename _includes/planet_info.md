@@ -1,4 +1,4 @@
-<div class="card mb-3">
+<div class="card mb-3" data-info="{{ include.data }}">
     <div class="card-header bg-yellow text-dark">Städte, Konzerne und SLC auf diesem Planeten</div>
     <div class="card-body">
         <h5>Städte</h5>

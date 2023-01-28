@@ -2,23 +2,21 @@
 layout: default
 ---
 
-<div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">
-  <main class="col col-xl-8">
-    {{ content }}
-    {% include planetinfo.md data=page.title %}
-  </main>
-  <aside class="col col-xl-4 pe-0">
-    {% assign name = page.title | replace: " ", "_" %}
-    {% assign name = name | remove: "." %}
-    {% assign name = name | remove: '"' %}
-    {% assign name = name | replace: "ß", "ss" %}
-    {% assign name = name | replace: "ä", "ae" %}
-    {% assign name = name | replace: "ö", "oe" %}
-    {% assign name = name | replace: "ü", "ue" %}
-    {% assign name = name | replace: "Ä", "ae" %}
-    {% assign name = name | replace: "Ö", "oe" %}
-    {% assign name = name | replace: "Ü", "ue" %}
-    {% assign data = page.sitedata.Planeten[name] %}
-    {% include planet.md data=data %}
-  </aside>
-</div>
+<main class="col col-xl-8 col-xxl-6">
+  {{ content }}
+  {% include planet_info.md data=page.title %}
+</main>
+<aside class="col col-xl-4 col-xxl-3 pe-0">
+  {% assign name = page.title | replace: " ", "_" %}
+  {% assign name = name | remove: "." %}
+  {% assign name = name | remove: '"' %}
+  {% assign name = name | replace: "ß", "ss" %}
+  {% assign name = name | replace: "ä", "ae" %}
+  {% assign name = name | replace: "ö", "oe" %}
+  {% assign name = name | replace: "ü", "ue" %}
+  {% assign name = name | replace: "Ä", "ae" %}
+  {% assign name = name | replace: "Ö", "oe" %}
+  {% assign name = name | replace: "Ü", "ue" %}
+  {% assign data = page.sitedata.Planeten[name] %}
+  {% include planet.md data=data %}
+</aside>
