@@ -16,12 +16,12 @@ sitedata:
             Politisches: "SpaceRocker"
     Slc:
         Ivy:
-            Name: "Tsagul"
+            Name: "Ivy"
             Rasse: "Mensch"
             Kategorie: "SpaceRocker"
             Wohnort: "Los Mochis"
         Ricardo:
-            Name: "Samnese"
+            Name: "Ricardo"
             Rasse: "Mensch"
             Kategorie: "SpaceRocker"
             Wohnort: "Los Mochis"
@@ -30,7 +30,7 @@ sitedata:
 
 # Los Mochis
 
-Los Mochis ist die Stammkneipe der Baneros Banditos. Sie befindet sich auf einem kleinen Planeten in der Nähe der [BadPlanets]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/), der nach der Kneipe benannt ist. Es ist ein sonst unbewohnter Steppenplanet mit 3 Monden. Die Kneipe erinnert stark an mexikanische Bars des früheren Wilden Westens, mit Schwingtüren, einem angegliederten Bordell und einer endlos langen Theke. Los Mochis wird von Ivy betrieben.
+Los Mochis ist die Stammkneipe der Baneros Banditos. Sie befindet sich auf einem kleinen Planeten in der Nähe der [BadPlanets]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/BadPlanets), der nach der Kneipe benannt ist. Es ist ein sonst unbewohnter Steppenplanet mit 3 Monden. Die Kneipe erinnert stark an mexikanische Bars des früheren Wilden Westens, mit Schwingtüren, einem angegliederten Bordell und einer endlos langen Theke. Los Mochis wird von Ivy betrieben.
 
 ## Ivy
 
