@@ -13,6 +13,7 @@ Bei einem ihrer Beutezüge gelangen die Piraten in den Besitz einer „Spezial-P
 - [Einstieg]({{ site.baseurl }}/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg)
 - [Nachforschungen]({{ site.baseurl }}/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen)
 - [Auflösung]({{ site.baseurl }}/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung)
+- [Zusammenfassung]({{ site.baseurl }}/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung)
 
 ## Download
 

@@ -4,8 +4,6 @@ permalink: /Weltraum/Aliens/
 title: Aliens
 ---
 
-
-
 In SpacePirates gibt es jede Menge unterschiedlicher Alienrassen. Viele sind grundsätzlich freundlich gesonnen, manche skeptisch und manche erstaunlich wenige feindselig, aber es gibt auch bösartige Aliens.
 
 - [Atlanter]({{ site.baseurl }}/Weltraum/Aliens/Atlanter/) – die weißen Aliens
