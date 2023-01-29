@@ -33,7 +33,7 @@ karte.init = function() {
     karte.funclevel = 'info';
     // add event handlers
     document.getElementById('homeBtn').addEventListener('click', function() {
-        window.location.href = 'https://spacepirates.jcgames.de/';
+        window.location.href = window.location.protocol + '//' + window.location.host + '/';
     }, false);
     document.getElementById('zoomOutBtn').addEventListener('click', function(event) {
         karte.prevent(event);
