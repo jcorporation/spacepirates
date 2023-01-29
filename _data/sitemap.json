@@ -4242,13 +4242,37 @@
   "/Ideenhalde/Weltraumphaenomene": {
     "prev": "/Ideenhalde/Orte/Denta_4",
     "firstInDir": true,
-    "next": "/Freies_Rollenspiel",
+    "next": "/Publikationen/",
     "lastInDir": true,
     "parent": "/Ideenhalde/",
     "title": "Weltraumphänomene"
   },
-  "/Freies_Rollenspiel": {
+  "/Publikationen/": {
     "prev": "/Ideenhalde/Weltraumphaenomene",
+    "firstInDir": true,
+    "next": "/StarTunes/",
+    "lastInDir": false,
+    "parent": "/",
+    "title": "Publikationen"
+  },
+  "/StarTunes/": {
+    "prev": "/Publikationen/",
+    "firstInDir": false,
+    "next": "/StarTunes/Lyrics",
+    "lastInDir": true,
+    "parent": "/",
+    "title": "StarTunes"
+  },
+  "/StarTunes/Lyrics": {
+    "prev": "/StarTunes/",
+    "firstInDir": true,
+    "next": "/Freies_Rollenspiel",
+    "lastInDir": true,
+    "parent": "/StarTunes/",
+    "title": "StarTunes Lyrics"
+  },
+  "/Freies_Rollenspiel": {
+    "prev": "/StarTunes/Lyrics",
     "firstInDir": true,
     "next": "/Kontakt",
     "lastInDir": false,

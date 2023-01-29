@@ -3,6 +3,8 @@ Spielregeln
 Weltraum
 Zufallstabellen
 Ideenhalde
+Publikationen
+StarTunes
 collections/_Piratencrews
 collections/_Sekten
 collections/_Weltraumtiere
