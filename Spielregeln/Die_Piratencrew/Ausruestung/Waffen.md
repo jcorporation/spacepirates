@@ -5,8 +5,6 @@ title: Waffen
 order: /000
 ---
 
-
-
 Es gibt alle möglichen und unmöglichen Waffen. Die billigen geben keinen Bonuswürfel, da sie oft recht einfach gefertigt und nur etwas zu bunt lackiert sind. Je höher der Bonus, umso besser ist die Waffe. In einem Kampf kann immer nur eine Waffe genutzt werden. Natürlich können Fernkampfwaffen auch im Nahkampf als Prügel benutzt werden, geben dann aber keinen Bonus.
 
 ## Fernkampfwaffen
@@ -30,7 +28,7 @@ Es gibt alle möglichen und unmöglichen Waffen. Die billigen geben keinen Bonus
 
 - **Shuriken** sind Wurfsterne, die bevorzugt von Ninjas eingesetzt werden.
 - **Revolver** und **Gewehre** haben sich nicht viel weiterentwickelt und sind solide wie eh und je.
-- **Rauchbomben** nebeln alles in einem Umkreis von 10 m um die Explosion ein, weshalb alle Proben in diesem Gebiet einen Malus von &minus;1 erleiden.
+- **Rauchbomben** nebeln alles in einem Umkreis von 10 m um die Explosion ein (es muss ein Erfolg ausgegeben werden, um sinnvoll zu handeln).
 - **Laserwaffen** gibt es in allen möglichen Ausführungen und auch in Pistolengröße. Die Farbe des Lasers hat nichts mehr mit der Stärke zu tun und hängt daher einzig vom Geschmack des Besitzers ab.
 - Die **Minilaserpistole** ist eine miniaturisierte Laserpistole im schicken Design, die in jede Hand- oder Jackentasche passt.
 - Der **Laserdegen** kombiniert einen Degen mit einer Laserpistole und sieht dementsprechend seltsam aus. Er gibt den Bonus auch im Nahkampf.
