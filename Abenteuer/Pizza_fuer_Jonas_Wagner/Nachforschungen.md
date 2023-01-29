@@ -32,36 +32,36 @@ Die Ninjas von der Hattori-Hanzo-Akademie wissen, dass im Pizzatransporter ein g
 
 Im StarNet, über Kontakte oder in Ninja-Dokus lassen sich weitere Informationen auftreiben. Hierzu sind jeweils Proben auf HÄNDLER erforderlich. Für eine erfolgreiche Probe gibt es immer alle angegebenen Informationen, wenn mehrere Piraten ähnlich erfolgreiche Proben ablegen, sollten die Wissensbrocken aufgeteilt werden, damit jeder Pirat etwas zum Gelingen beisteuert.
 
-**1 Erfolg**
+#### 1 Erfolg
 
 - Der Hashimara-Clan beherrscht angeblich das Pizzerliefergewerbe.
 - Die Goemon-Ishikawa-Highschool hasst die Hattori-Hanzo-Akademie, ihre Schüler sind zudem als schlecht erzogene und gemeingefährliche Gören bekannt.
 - Die Hattori-Hanzo-Akademie gilt als elitärster und exklusivster Ninja-Clan, sie betreibt angeblich mehrere hochklassige Golfplätze.
 - Ninjas sind sehr traditionsbewusst, weshalb uralte Schriften einen hohen Wert für sie haben.
 
-**2 Erfolge**
+#### 2 Erfolge
 
 - Angeblich wurde vor Kurzem während eines Angriffs der Goemon-Ishikawa-Highschool eine uralte Schriftrolle aus den Archiven der Hattori-Hanzo-Akademie gestohlen. Gerüchten zufolge soll aber der Hashimara-Clan für den Diebstahl verantwortlich sein.
 - Der Name „Jonas Wagner“ taucht häufiger im Zusammenhang mit dem Kauf alter asiatischer Schriftrollen auf. Aus dem Namen lassen sich aber keinerlei Rückschlüsse auf eine reale Person ziehen, es handelt sich vermutlich um das Pseudonym eines exzentrischen reichen Sammlers.
 - Hu Xing gilt als die Koryphäe für altasiatische Schriftrollen. Er wohnt als Einsiedler auf Kabukicho-Prime.
 
-**3 Erfolge**
+#### 3 Erfolge
 
 - Gerüchten zufolge soll es sich bei dem vor kurzem gestohlenen Buch um das letzte Exemplar einer Anleitung für die ultimative Ninjutsu-Technik handeln. Der Clan, der diese Technik beherrscht, würde zum unangefochtenen Herrscher über alle Ninjas. Bisher ist es aber keinem Clan gelungen, sowohl Buch als auch Schlüssel gleichzeitig in seinen Besitz zu bringen.
 
-**4 Erfolge**
+#### 4 Erfolge
 
 - Der Hashimara-Clan soll derzeit im Besitz des Schlüssels sein.
 
-**5 Erfolge**
+#### 5 Erfolge
 
 - Im geschützten Bereich eines Ninja-Forums beschwert sich Pizzaboy99 darüber, dass er seine Kunden in letzter Zeit keine heißen Pizzen mehr liefern könne. Das läge nur daran, dass seine Vorgesetzten ständig einen gewissen „JW“ vorziehen würden, obwohl der nie Sachen bestellt, die heiß ankommen müssen.
 
-**6 Erfolge**
+#### 6 Erfolge
 
 - Bei der Kombination mehrerer gecrackter Überweisungs-Datenbanken in Kombination mit geschickten Suchbegriffen fällt auf, dass es deutlich überwahrscheinliche Übereinstimmungen zwischen Kontenbewegungen eines der leitenden Angestellten in der S.I.E. Robotermanufaktur und den Zahlungen von „Jonas Wagner“ gibt.
 
-**7 Erfolge**
+#### 7 Erfolge
 
 - In einem Spionageforum wird derzeit heiß diskutiert, was zu tun sei, wenn Maulwürfe die Standfestigkeit von Pizzafabriken bedrohen. Es scheint vor allem ein Problem zu sein, sie im größtenteils überdeckten Gelände zu finden.
 

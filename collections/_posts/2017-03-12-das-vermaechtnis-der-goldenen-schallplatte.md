@@ -13,4 +13,4 @@ Einer der Charaktere erbt eine goldene Schallplatte von seinem Onkel Nic Jäger,
 
 Viel Spaß mit dem Abenteuer.
 
-**[zum Abenteuer]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/)**
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Das_Vermächtniss_der_goldenen_Schallplatte/)

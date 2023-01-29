@@ -9,4 +9,4 @@ Dies ist ein Beitrag zum Karneval der Rollenspielblogs zum Thema Zufallstabellen
 
 In SpacePirates gibt es mit der Raumzeitverschiebung und der Unwahrscheinlichkeitszone zwei große Weltraumphänomene. Nachdem die Zufallstabellen für Auswirkungen dieser seit Ewigkeiten im Wiki halbfertig daherdümpelten, habe ich den momentanen RSP-Karneval als Anlass genommen sie fertigzustellen. Wie von SpacePirates zu erwarten, sind einige der Ergebnisse nicht ganz ernst zu nehmen und ich konnte endlich irgendwo die rosa Flamingos unterbringen.
 
-**[zum Generator]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen)**
+- [zum Generator]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen)

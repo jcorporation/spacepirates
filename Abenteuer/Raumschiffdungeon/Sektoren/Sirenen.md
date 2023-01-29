@@ -4,8 +4,6 @@ permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Sirenen
 title: Sirenen
 ---
 
-
-
 - **Wurmlochdemodulatorteil:** Parabolantenne
 
 In diesem Sektor umschließt eine durchsichtige Kuppel einen gewaltigen Ozean, sozusagen ein gigantisches Meerwasseraquarium. Inmitten des Ozeans befindet sich eine hübsche grüne Insel, der einzige lebensfreundliche Ort in diesem Sektor. Zutritt zur Kuppel gewährt eine 4 × 4 m große Schleuse, welche zu einem Kai am Rande des Ozeans führt. Dort liegt ein verlassenes Segelboot vor Anker. Da das Raumschiff beim besten Willen nicht durch die Schleuse passt, gelangen die Piraten Wohl oder Übel nur mit dem Boot zur Insel.
@@ -55,9 +53,7 @@ Aufgrund des betörenden Gesangs wollen die Piraten dies aber nur, wenn sie aus 
 
 Die Sendeantenne des Wurmlochdemodulators steht in der Mitte des Dorfes. Sie pulsiert leicht. Eine TECH-Probe mit 3 Erfolgen ergibt, dass die Antenne den betörenden Gesang der Sirenen verstärkt.
 
-### Sirenen
-
-Es sind 8 Sirenen im Dorf.
+Es sind 8 Sirenen im Dorf:
 
 - Aglaophonos (Anführerin)
 - Himeropa

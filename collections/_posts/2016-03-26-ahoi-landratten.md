@@ -11,6 +11,5 @@ Zudem hat SpacePirates v5 nun den Untertitel &bdquo;Ahoi Landratten&ldquo; bekom
 
 Feedback nehme ich natürlich über alle bekannten [Kanäle]({{ site.baseurl }}/Kontakt) gerne entgegen.
 
-**[&raquo; zu SpacePirates &ndash; Ahoi Landratten!]({{ site.baseurl }}/Spielregeln/)**
-
-**[&raquo; Vorschau herunterladen]({{ site.baseurl }}/Publikationen/)**
+- [zu SpacePirates &ndash; Ahoi Landratten!]({{ site.baseurl }}/Spielregeln/)
+- [Vorschau herunterladen]({{ site.baseurl }}/Publikationen/)

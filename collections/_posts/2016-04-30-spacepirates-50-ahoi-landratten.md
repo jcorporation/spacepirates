@@ -9,6 +9,5 @@ Es ist vollbracht, im Downloadbereich befindet sich nun die finale SpacePirates-
 
 Feedback nehme ich natürlich über alle bekannten [Kanäle]({{ site.baseurl }}/Kontakt) gerne entgegen.
 
-**[&raquo; zum Regelwerk]({{ site.baseurl }}/Spielregeln/)**
-
-**[&raquo; Herunterladen]({{ site.baseurl }}/Publikationen/)**
+- [zum Regelwerk]({{ site.baseurl }}/Spielregeln/)
+- [Herunterladen]({{ site.baseurl }}/Publikationen/)
