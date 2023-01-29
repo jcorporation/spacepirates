@@ -5,8 +5,6 @@ title: Charakterwerte
 order: /003
 ---
 
-
-
 ## Profile
 
 Die Fähigkeiten des Charakters werden durch die vier Profile HÄNDLER, PILOT, SÖLDNER und TECH definiert. Umso höher der Profilwert ist, umso besser ist der Charakter in Fertigkeiten dieses Bereichs. Der Profilwert bestimmt die Anzahl an Würfel, die bei einem Konflikt geworfen werden (siehe [Konflikte]({{ site.baseurl }}/Spielregeln/Abenteuer_erleben/Konflikte/)).
