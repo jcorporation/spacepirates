@@ -2359,10 +2359,18 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 25,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 1
   },
+  "erfolg": {
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 27,
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 14,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 6,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 6,
+    "/Abenteuer/Weihnachten/Santa_24": 4,
+    "/Abenteuer/Die_Eisgalaxis/": 1
+  },
   "erfolge": {
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 151,
     "/Abenteuer/Weihnachten_II/Santa_24": 51,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 19,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 7,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 7,
     "/Abenteuer/Halloween/Station": 5,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 5,
@@ -8760,7 +8768,7 @@
     "/Abenteuer/Laborratten/Dahinter": 25
   },
   "sirenen": {
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen": 182,
+    "/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen": 157,
     "/Abenteuer/Raumschiffdungeon/": 1
   },
   "sisbert": {
