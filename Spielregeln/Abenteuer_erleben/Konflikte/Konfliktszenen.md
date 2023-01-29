@@ -142,21 +142,19 @@ Nun ist Xenurs Spieler wieder an der Reihe und so geht es weiter, bis alle gewor
 {% endcapture %}
 {% include beispiel.md title="Beispiel zur Konfliktszenenbeschreibung" body=include_body %}
 
-{% include todo.md title="Piratigere Beispiele" %}
-
 {% capture include_body %}
 
 ##### Erfolgswürfel
 
-- In einem Kampf trifft der Charakter den Waffenarm seines Gegners, der dadurch seine Waffe fallen lässt und daher zurückweichen muss und nun am Rand der Klippe steht.
-- In einem Wettrennen springt die Lachgaseinspritzung wieder an, das eigene Fahrzeug holt auf und kann das gegnerische Fahrzeug auf die Gegenfahrbahn drängen, das dann dem Gegenverkehr ausweichen muss.
-- In einer Actionszene bricht ein großer Felsbrocken ab, der genau zwischen die beiden Parteien fällt und so den Spielercharakteren wichtige Sekunden gibt sich neu zu ordnen oder zu fliehen.
+- In einem Kampf trifft der Charakter den Waffenarm seines Gegners, der dadurch seine Waffe fallen lässt und daher zurückweichen muss und nun am Rand eines Kraftfeldes steht.
+- In einem Wettrennen springt der Turbo wieder an, das eigene Raumschiff holt auf und kann das gegnerische Raumschiff in einen Meteoritengürtel drängen, das nun den Meteoriten ausweichen muss.
+- In einer Actionszene explodiert eine Energieleitung, die genau zwischen den beiden Parteien verläuft, und gibt den Spielerfiguren wichtige Sekunden, um sich neu zu organisieren oder zu fliehen.
 
 ##### Misserfolgswürfel
 
-- Der Charakter zerstört eine antike Vase, weil er auf einen überraschenden Angriff eines Gegners reagieren muss. Oder weil die sabotierten Dielen unter ihm nachgeben und er dadurch das Gleichgewicht verliert.
-- In einem Wettrennen übersieht der Charakter fast ein Hindernis, da er geblendet wird. Er reißt das Lenkrad herum, die Reifen quietschen während das Fahrzeug schleudert und das gegnerische Fahrzeug kann einen großen Abstand gewinnen.
-- In einer Actionszene versteckt sich der Charakter hinter einer Säule, lehnt sich dagegen und betätigt dabei einen Schalter, der die Flutlichtanlage einschaltet und den Charakter nun in grelles Licht taucht.
+- Der Charakter zerstört ein altes Alienartefakt, weil er auf einen überraschenden Angriff eines Gegners reagieren muss. Oder weil die sabotierten Dielen unter ihm nachgeben und er dadurch das Gleichgewicht verliert.
+- In einem Wettrennen übersieht der Charakter beinahe ein Hindernis, da er geblendet wird. Der Pilot reißt das Steuer herum, das Raumschiff gerät ins Trudeln, weil die Stabilisatoren versagen, und das gegnerische Raumschiff kann einen großen Vorsprung herausfahren.
+- In einer Actionszene versteckt sich der Charakter hinter einer Computerkonsole, lehnt sich dagegen und betätigt dabei einen Schalter, der die Flutlichtanlage einschaltet und den Charakter nun in grelles Licht taucht.
 
 {% endcapture %}
 {% include hinweis.md title="Tipps für den Einsatz von Erfolgs- und Misserfolgswürfeln" body=include_body %}
