@@ -640,8 +640,8 @@
   },
   "ausruestungsgegenstaende": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": 51,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
-    "/Abenteuer/Buschraub/Nova_Ceti": 1
+    "/Abenteuer/Buschraub/Nova_Ceti": 1,
+    "/Abenteuer/Laborratten/Railroading/Sturm": 1
   },
   "ausruestungslisten": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/": 26,
@@ -675,6 +675,7 @@
     "/Zufallstabellen/Auswirkungen_der_Unwahrscheinlichkeitszone": 51,
     "/Zufallstabellen/Auswirkungen_eines_Ionensturms": 51,
     "/Zufallstabellen/": 3,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Abenteuer/Neutritiumklau/Pipeline": 1
   },
   "auswirkungen der raumzeitverschiebung": {
@@ -1325,9 +1326,9 @@
     "/StarTunes/": 1
   },
   "bzw": {
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 4,
     "/Abenteuer/Buschraub/Nova_Ceti": 2,
     "/Abenteuer/Halloween/Nebelmaschine": 2,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Abenteuer/Buschraub/JCTech_IAG": 1
   },
@@ -3191,7 +3192,6 @@
   "gewinnen": {
     "/StarTunes/Lyrics": 4,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Abenteuer/": 1
   },
   "ghominnebel": {
@@ -3204,7 +3204,7 @@
     "/Weltraum/Aliens/Glukorianer/": 21
   },
   "gibt": {
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 6,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 5,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": 4,
     "/Weltraum/Haendler_und_Halunken": 4,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 4,
@@ -5711,7 +5711,7 @@
   "meteoritenguertel": {
     "/Weltraum/Weltraumphaenomene/Brabenguertel": 10,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg": 1,
-    "/Weltraum/Sekten/Weltraumpfleger": 1
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 1
   },
   "meteorkraken": {
     "/Weltraum/Weltraumtiere": 161,
@@ -6524,7 +6524,7 @@
   },
   "partei": {
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 108,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 67,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 66,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 29,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 3,
     "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 3,
@@ -7276,11 +7276,11 @@
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": 2,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 2,
     "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 1,
-    "/Abenteuer/Halloween/Nebel": 1
+    "/Abenteuer/Halloween/Nebel": 1,
+    "/Abenteuer/Ostern/Sonden": 1
   },
   "probeast": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 176
@@ -7629,6 +7629,7 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/Nazis": 2,
     "/Abenteuer/Schatzjagd/Reise": 2,
     "/Abenteuer/Zeitraub/Überfall": 2,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren": 2,
     "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 2,
@@ -9040,7 +9041,6 @@
     "/Weltraum/Haendler_und_Halunken": 3,
     "/Abenteuer/Ideen/SpaceNinjas": 2,
     "/Spielregeln/": 2,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
     "/Spielregeln/Spielmaterial": 2,
@@ -9053,7 +9053,8 @@
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 1,
     "/Ideenhalde/": 1,
-    "/Ideenhalde/Bewohner/": 1
+    "/Ideenhalde/Bewohner/": 1,
+    "/Ideenhalde/Bewohner/Haustiere": 1
   },
   "spacepirates ahoi landratten": {
     "/Publikationen/": 26
@@ -9232,7 +9233,7 @@
   "spielleiter": {
     "/Spielregeln/Spielleiter/": 100,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 39,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 37,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 36,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 28,
     "/Spielregeln/": 26,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 9,
@@ -9321,7 +9322,8 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1
   },
   "stabilisatoren versagen": {
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 10
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 10,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 1
   },
   "stadt": {
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 31,
@@ -9776,7 +9778,7 @@
     "/Abenteuer/Laborratten/Railroading/Schatzinsel": 52,
     "/Abenteuer/Laborratten/Railroading/Sturm": 51,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 28,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 5,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 6,
     "/Abenteuer/Laborratten/Railroading/": 3,
     "/Abenteuer/Laborratten/Einstieg": 2,
     "/Abenteuer/Der_grosse_Fang/Einstieg": 1
