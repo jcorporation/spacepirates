@@ -131,10 +131,6 @@ aside img {
   max-width: 100%;
 }
 
-.breadcrumb > span {
-  margin-top: -0.1rem;
-}
-
 .page-link:hover,
 .btn-yellow,
 .btn-yellow:hover,
@@ -346,6 +342,10 @@ ul.sitemap {
   border-bottom: 1rem solid var(--bs-gray-200);
 }
 
+#top-bar > div {
+  min-height: 2rem;
+}
+
 .form-control:focus {
   border-color: var(--sp-orange);
 }
@@ -415,12 +415,12 @@ ul.sitemap {
     border-bottom-right-radius: 0.5rem;
   }
 
-  .nav-pills .nav-link,
-  ul.sitemap a {
+  .offcanvas .nav-pills .nav-link,
+  .offcanvas ul.sitemap a {
     color: var(--bs-gray-900);
   }
 
-  .list-group-item {
+  .offcanvas .list-group-item {
     background-color: transparent;
   }
 
@@ -429,11 +429,11 @@ ul.sitemap {
     background-color: var(--bs-gray-400) !important;
   }
 
-  .dropdown-divider {
+  .offcanvas .dropdown-divider {
     border-top: 1px solid var(--bs-gray-900);
   }
 
-  li.sm-current > a {
+  .offcanvas li.sm-current > a {
     color: var(--sp-orange-dark) !important;
   }
 }
