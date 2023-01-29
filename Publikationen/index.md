@@ -2,9 +2,8 @@
 layout: page
 permalink: /Publikationen/
 title: Publikationen
+icon: "&#xF194;"
 ---
-
-
 
 Damit niemand die Katze im Sack kaufen muss, gibt es alle SpacePirates Publikationen als kostenlose PDF. Die Bücher können direkt bei mir per Mail an [mail@jcgames.de](mailto:mail@jcgames.de) erstanden werden.
 

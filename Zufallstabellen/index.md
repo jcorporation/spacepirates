@@ -2,10 +2,9 @@
 layout: page
 permalink: /Zufallstabellen/
 title: Zufallstabellen
+icon: "&#xF544;"
 order: /004
 ---
-
-
 
 Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum von SpacePirates spontan mit Leben zu füllen.
 

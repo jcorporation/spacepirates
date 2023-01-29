@@ -26,6 +26,12 @@ h1 {
   margin-bottom: 1rem;
 }
 
+h1 > span.mi {
+  font-size: calc(1.375rem + 1.5vw);
+  vertical-align: sub;
+  margin-right: 0.8rem;
+}
+
 .offcanvas .dropdown-item:hover,
 .offcanvas .list-group-item:hover {
   background-color: var(--bs-gray-800) !important;
@@ -142,6 +148,7 @@ aside img {
 @font-face {
   font-family: "Bootstrap Icons";
   src: url("/assets/bootstrap-icons.woff2") format("woff2");
+  font-display: block;
 }
 
 .mi {

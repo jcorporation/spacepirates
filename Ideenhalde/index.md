@@ -2,10 +2,9 @@
 layout: page
 permalink: /Ideenhalde/
 title: Ideenhalde
+icon: "&#xF675;"
 order: /005
 ---
-
-
 
 Dies hier ist eine wirre Sammlung für mögliche neue SpacePirates Inhalte.
 

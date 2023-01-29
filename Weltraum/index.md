@@ -2,6 +2,7 @@
 layout: page
 permalink: /Weltraum/
 title: Weltraum
+icon: "&#xF845;"
 order: /002
 ---
 

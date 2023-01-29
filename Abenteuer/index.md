@@ -2,10 +2,9 @@
 layout: page
 permalink: /Abenteuer/
 title: Abenteuer
+icon: "&#xF2D1;"
 order: /003
 ---
-
-
 
 Hier gibt es vorgefertigte Abenteuer und Abenteuerideen für SpacePirates.
 
