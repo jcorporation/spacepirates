@@ -148,7 +148,7 @@ Nun ist Xenurs Spieler wieder an der Reihe und so geht es weiter, bis alle gewor
 
 - In einem Kampf trifft der Charakter den Waffenarm seines Gegners, der dadurch seine Waffe fallen lässt und daher zurückweichen muss und nun am Rand eines Kraftfeldes steht.
 - In einem Wettrennen springt der Turbo wieder an, das eigene Raumschiff holt auf und kann das gegnerische Raumschiff in einen Meteoritengürtel drängen, das nun den Meteoriten ausweichen muss.
-- In einer Actionszene explodiert eine Energieleitung, die genau zwischen den beiden Parteien verläuft, und gibt den Spielerfiguren wichtige Sekunden, um sich neu zu organisieren oder zu fliehen.
+- In einer Actionszene explodiert eine Energieleitung, die genau zwischen den beiden Parteien verläuft, und gibt den Spielercharakteren wichtige Sekunden, um sich neu zu organisieren oder zu fliehen.
 
 ##### Misserfolgswürfel
 
