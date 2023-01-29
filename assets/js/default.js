@@ -237,8 +237,8 @@ tables.sortRows = function(event) {
         rowArray.push(rows[i]);
     }
     rowArray.sort(function(a, b) {
-        const t1 = a.querySelectorAll('td')[colNr].textContent;
-        const t2 = b.querySelectorAll('td')[colNr].textContent;
+        const t1 = a.querySelectorAll('td')[colNr].textContent.replace('.', '');
+        const t2 = b.querySelectorAll('td')[colNr].textContent.replace('.', '');
         return t1.localeCompare(t2, 'de', { ignorePunctuation: true, numeric: true });
     });
     if (desc === true) {
