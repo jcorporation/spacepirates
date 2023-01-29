@@ -4,7 +4,7 @@ permalink: /Spielregeln/Die_Piratencrew/Beispielpiraten
 title: Beispielpiraten
 ---
 
-# Beispielpiraten
+
 
 ## Oliver G. Stardust
 

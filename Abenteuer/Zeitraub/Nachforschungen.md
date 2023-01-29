@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub/Nachforschungen
 title: Nachforschungen
 ---
 
-# Nachforschungen
+
 
 Nachdem die Piraten wieder auf ihrem Schiff sind oder vielleicht nach Two-Eyed-Jack zurückkehren, können sie sich die Informationen auf dem Chip ansehen und vielleicht auch noch etwas Informationen zum Transportschiff und Javar 3 herausfinden.
 

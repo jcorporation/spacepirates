@@ -4,7 +4,7 @@ permalink: /Abenteuer/Buschraub/Nachforschungen
 title: Nachforschungen
 ---
 
-# Nachforschungen
+
 
 Der Busch scheint wirklich selten zu sein, jedenfalls gibt es sogar im Starnet kaum Informationen zu dieser Pflanzengattung. Einzig in dubiosen Foren finden sich ein paar Gerüchte über den Busch. Um diese zu finden, ist eine Händlerprobe notwendig.
 

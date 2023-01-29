@@ -5,7 +5,7 @@ title: Ablauf einer Szene
 order: /002
 ---
 
-# Ablauf einer Szene
+
 
 ## Szenenstart
 

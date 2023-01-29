@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Heimatplanet der Streifanier"
 ---
 
-# Streif
+
 
 Streif ist eine einzige, große Felswüste. Zwischen den riesigen Gebirgszügen liegt eine karge Landschaft, die nur von wenigen Flüssen durchzogen ist, aber an deren Ufern die Natur aufblüht.
 

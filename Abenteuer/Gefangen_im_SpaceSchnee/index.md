@@ -46,7 +46,7 @@ sitedata:
             Zaehigkeit: "4"
 ---
 
-# Gefangen im SpaceSchnee
+
 
 Die Piraten fliehen gerade vor der Weltraumpolizei, als sie plötzlich in einer Schneewehe stecken bleiben. Sauerei! Im Weltraum schneit es doch gar nicht! Egal, sämtlichen Beschwerden und Startversuchen zum Trotz steckt das Raumschiff in einer Schneewehe fest, aber nicht nur die Piraten sind hier gestrandet.
 

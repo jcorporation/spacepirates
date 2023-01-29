@@ -29,7 +29,7 @@ sitedata:
             Politisches: "Hauptplanet der Eisgalaxis"
 ---
 
-# Eisgalaxis
+
 
 Die Eisgalaxis besteht aus 12 Eisplaneten, die um eine helle, aber kalte Sonne kreisen. Daher ist sie die ideale Heimat der SpaceYetis. Der Hauptplanet ist Glacor auf dem auch das Schloss von Fürst Los ist.
 

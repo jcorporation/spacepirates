@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Botschaftsplanet der Kahadrier"
 ---
 
-# Keas
+
 
 Keas wurde von den [Kahadriern]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/) nach dem Vorbild ihres Heimatplaneten ausgewählt. Auf Keas ist es genauso frostig wie auf Kahadria und der größte Teil des Planeten besteht aus Eiswüsten und zugefrorenen Ozeanen. Deshalb sind die Städte auch größtenteils unterirdisch angelegt. Dies führt dazu, dass Keas bei den meisten Politikern nicht sonderlich beliebt ist und die Kahadrier unter sich bleiben können.
 

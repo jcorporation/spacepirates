@@ -13,7 +13,7 @@ sitedata:
             Niederlassungen: ""
 ---
 
-# Vereinigte Nahrungsmittel eG
+
 
 Die Geschichte der Vereinigten Nahrungsmittel eG reicht weit in die Vergangenheit von China zurück, sie wurde schon lange vor der Besiedelung des Weltraums gegründet und erlebte seither diverse Berg- und Talfahrten. Sie war lange Zeit ein chinesisches Staatsunternehmen, wurde aber schließlich für Angehörige der Sternenrepublik Neuasien geöffnet. Heute firmiert sie offiziell als Genossenschaft ohne Staatsbeteiligung, an der jeder Kolonialist und Kolonialfahrer einen Anteil hält. Trotzdem haben die gewöhnlichen Mitglieder praktisch keinen Einfluss auf die Geschäftsführung, da die Gouverneure normalerweise ebenfalls einen Anteil halten – einen pro Kolonisten in ihren Kolonien, wohlgemerkt.
 

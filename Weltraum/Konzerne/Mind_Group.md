@@ -13,6 +13,6 @@ sitedata:
             Niederlassungen: ""
 ---
 
-# Mind Group
+
 
 Mind Group ist ein Finanzinvestor. Unter anderem gehört [Raumschiff & Co.]({{ site.baseurl }}/Weltraum/Konzerne/Raumschiff_und_Co) zu diesem Konzern.

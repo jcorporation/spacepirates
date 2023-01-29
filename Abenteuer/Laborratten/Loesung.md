@@ -4,7 +4,7 @@ permalink: /Abenteuer/Laborratten/Loesung
 title: Lösung
 ---
 
-# Lösung
+
 
 Spätestens nach dem ersten Durchlauf der Szenen sollten offensichtliche Lösungshinweise eingebaut werden.
 

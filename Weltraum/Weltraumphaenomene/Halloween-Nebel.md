@@ -29,7 +29,7 @@ sitedata:
 
 ---
 
-# Halloween-Nebel
+
 
 Der Halloween-Nebel ist recht dicht, so dass die Sensoren des Raumschiffs nur eine sehr geringe Reichweite haben und auch der Funkverkehr scheint durch den Nebel gestört zu sein. Zudem versagt der FTL-Antrieb innerhalb des Nebels. Ohne FTL-Antrieb braucht ein Raumschiff etwa eine Woche um aus dem Nebel herauszukommen. Innerhalb des Nebels herrscht eine gedrückte Stimmung, alle Lichter scheinen gedimmt und auch alle Geräusche klingen dumpfer als normal.
 

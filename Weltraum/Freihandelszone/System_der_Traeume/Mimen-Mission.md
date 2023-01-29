@@ -11,7 +11,7 @@ sitedata:
             Politisches: "Unabhängig"
 ---
 
-# Die SdT-Station oder: „Die Mimen-Mission“
+
 
 Die Mimen-Mission ist eine Raumstation, die den Gasplaneten „Requisite 001“ umkreist, den äußersten Planeten des Systems der Träume. Der Name Requisite 001 rührt daher, dass er als einziger Planet seines Typs im System oft für Hintergrundaufnahmen herhalten muss. Gasplaneten in Filmproduktionen neigen deswegen überproportional oft dazu, blassgrün zu sein und einen Äquatordurchmesser von genau 131.455 Kilometern zu haben.
 

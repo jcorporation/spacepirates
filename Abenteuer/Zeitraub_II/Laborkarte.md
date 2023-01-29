@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub_II/Laborkarte
 title: Karte des Labors
 ---
 
-# Karte des Labors
+
 
 <img alt="Laborplan" src="{{ site.baseurl }}/assets/images/abenteuer/zeitraub2/laborplan.png" />
 

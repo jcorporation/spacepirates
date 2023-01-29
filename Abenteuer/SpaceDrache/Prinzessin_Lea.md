@@ -4,7 +4,7 @@ permalink: /Abenteuer/SpaceDrache/Prinzessin_Lea
 title: Prinzessin Lea
 ---
 
-# Prinzessin Lea
+
 
 Prinzessin Lea ist gar nicht entführt worden. Sie ist eine wunderhübsche, 18-jährige wagonische Prinzessin, die kein Faible für Bürokratie hat. Sie wollte ihrem bürokratischen Elternhaus und der wagonischen Bürokratie endlich entkommen und hat daher die Entführung und ihren Tod vorgetäuscht, daher ist sie gar nicht so begeistert, falls die Piraten sie retten wollen.
 

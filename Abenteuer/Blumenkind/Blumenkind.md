@@ -4,7 +4,7 @@ permalink: /Abenteuer/Blumenkind/Blumenkind
 title: Die Blumenkind
 ---
 
-# Die Blumenkind
+
 
 Die Form der Blumenkind erinnert an ein Hanf-Blatt: Sieben linsenförmige, viktorianische Palmenhäuser laufen an einem Punkt zusammen. Die feinmaschige Stahlkonstruktion verhindert ein Scannen der Station: Die Sensoren zeigen lediglich „viel Leben“ an.
 

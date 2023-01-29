@@ -18,7 +18,7 @@ sitedata:
             Politisches: "Heimatplanet der Spaceamazonen"
 ---
 
-# Amazon
+
 
 Amazon ist die Heimatwelt der Spaceamazonen. Der Beschreibung nach entspricht sie exakt dem Heimatplaneten der Atlanter. Keine lebende Spaceamazone weiß, ob ihr Heimatplanet (noch) existiert, aber jede glaubt unbeirrbar daran, am Ende eines ruhmreichen Lebens dorthin zu gelangen.
 

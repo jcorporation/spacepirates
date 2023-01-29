@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Botschaftsplanet der Trull"
 ---
 
-# Kozel 5
+
 
 Die Trull haben sich Kozel 5 ausgesucht, weil er ihrem Heimatplaneten ähnelt. Sie fühlen sich eben auf Wüstenplaneten am wohlsten. Im Gegensatz zu Trullmania, dem Heimatplaneten der Trull, besitzt Kozel 5 mit Kilru eine Millionstadt, die das Zentrum des Handels und des Planeten ist.
 

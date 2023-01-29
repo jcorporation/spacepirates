@@ -15,7 +15,7 @@ sitedata:
             Niederlassungen: ""
 ---
 
-# Federal Space Exploration Company
+
 
 Die Federal Space Exploration Company, kurz FedSpex, liebevoll auch Federal Space Exploitation Company benannt, ist das derzeit größte Handelskonsortium im bekannten Universum. Die Verwaltungszentrale sitzt in der Stadt Den Nieuw Haag auf Neusirius, offizieller Firmensitz ist nach wie vor das irdische Titusville.
 

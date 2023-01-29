@@ -4,7 +4,7 @@ permalink: /Weltraum/Technologie/Techtalk
 title: Techtalk
 ---
 
-# Techtalk
+
 
 Der Techtalk bietet aufschlußreiche Einblicke in die Physik und Technik von SpacePirates und ist nicht nur für Techs interessant.
 

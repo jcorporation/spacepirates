@@ -4,7 +4,7 @@ permalink: /Abenteuer/SpaceDrache/
 title: SpaceDrache
 ---
 
-# SpaceDrache
+
 
 Ein SpaceDrache treibt sein Unwesen im Universum. Er hat die wagonische Prinzessin Lea entführt und unter anderem auch ein wertvolles Drachenei von John Marric geraubt.
 

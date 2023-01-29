@@ -13,7 +13,7 @@ sitedata:
             Kategorie: Rockband
 ---
 
-# Rockbands
+
 
 Wer wirklich hart ist, pfeift auf Britney S. Pears und hört Industrialrock und Spacemetall. Die ganz coolen besuchen sogar Konzerte, auch wenn das lebensgefährlich ist. Überzeugter Anhänger einer Rockband zu sein ist wie eine Religion. Anhänger der härtesten Rockbands liefern sich regelmäßig Kämpfe und es geht immer nur darum, welche Band jetzt härteren Rock spielt.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten
 title: Auf dem Planeten
 ---
 
-# Auf dem Planeten
+
 
 Der Planet besteht zum großen Teil aus dichtem Dschungel und großen Ozeanen. Etwas von der Energiesignatur entfernt gibt es aber eine kleine Lichtung auf der man landen kann. Ganz in der Nähe befindet sich auch ein hoher Berg.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Laborratten/Railroading/Sturm
 title: "Szene 1: Der Sturm"
 ---
 
-# Szene 1: Der Sturm
+
 
 Die Charaktere finden sie sich auf einer altertümlichen Kogge wieder, die mitten auf einem azurblauen Meer treibt. Ihre Segel sind vom Wind gefüllt, hoch am Mast weht eine Piratenflagge und am Steuerrad steht ein typischer Kapitän des 17. Jahrhunderts mit Holzfuß, Papagei und Kopftuch.
 

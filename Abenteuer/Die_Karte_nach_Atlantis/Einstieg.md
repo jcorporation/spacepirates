@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Einstieg
 title: Einstieg
 ---
 
-# Einstieg
+
 
 Die Piraten sind mit ihrem Schiff gerade in der Nähe der Raumzeitverschiebung unterwegs, als rings um sie her plötzlich mehrere Schiffe auftauchen und in gigantischen Feuerbällen explodieren. Glücklicherweise halten die Schilde des Piratenschiffs, weshalb lediglich die Sensoren für einige Sekunden geblendet werden. Nachdem sich das Blickfeld klärt, sehen die Piraten die Wracks einiger Dutzend altertümlicher Raumschiffe rings um sich durchs All treiben.
 

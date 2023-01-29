@@ -15,7 +15,7 @@ sitedata:
             Politisches: "Filmplanet"
 ---
 
-# Der Rote Planet
+
 
 Der Rote Planet trägt seinen Namen wegen der vielen Pannensamtvorhänge und Nachtleuchten in Rot- und Rosatönen, die ihn für den Beobachter in anderen Teilen des Systems der Träume in verruchtem Rot erscheinen lassen. Zwei pralle, weiche Monde, bekannt als die Doppel-D-Körbchen, umkreisen ihn.
 

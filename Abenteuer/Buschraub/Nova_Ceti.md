@@ -4,7 +4,7 @@ permalink: /Abenteuer/Buschraub/Nova_Ceti
 title: Auf Nova Ceti
 ---
 
-# Auf Nova Ceti
+
 
 Nova Ceti sieht auf den ersten Blick aus wie ein gewöhnlicher, stark bewaldeter und unbewohnter Planet. Auf ihm ist es immer hell, da er auf der einen Seite von einer Sonne und von der anderen Seite vom Dimensionsriss beleuchtet wird.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Der_grosse_Fang/Proxima_Sigma
 title: Proxima Sigma
 ---
 
-# Proxima Sigma
+
 
 Nach der Reise ins Proxima Sigma System verändert sich die Anzeige der Schatzkarte durch den dreiköpfigen Affen. Weitere Einzelheiten werden sichtbar und deuten auf den zweiten Planeten des Systems als vorläufiges Ziel der Reise hin. Das System besteht aus zehn Gasriesen, nur der zweitinnerste Planet des Systems Proxima Sigma ist ein schroffer Wüstenplanet. Genau auf diesen Planeten ist das große rote X gewandert. Aber die Sensoren zeigen noch einen weiteren Planeten an, der nicht auf der Karte verzeichnet ist.
 

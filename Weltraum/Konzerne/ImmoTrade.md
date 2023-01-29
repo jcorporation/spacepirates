@@ -19,7 +19,7 @@ sitedata:
             Handelsniederlassungen: "keine"
 ---
 
-# ImmoTrade
+
 
 ImmoTrade ist ein großer Immobilienkonzern, der neben Häusern auch ganze Planeten und Monde verkauft. Sein Motto lautet: „Spekulation ist, wenn man einen Planeten kauft, der noch gar nicht entdeckt wurde.“ Daher ist ImmoTrade bei der Erforschung neuer Sternensysteme immer mit dabei, um sich die schönsten Planeten zu sichern. Dies gelingt aber nur, da ImmoTrade enorme Summen für Schmiergelder aufwendet.
 

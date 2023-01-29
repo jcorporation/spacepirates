@@ -4,7 +4,7 @@ permalink: /Abenteuer/Wagonian_Wedding/Einleitung
 title: "Einleitung: Hein the Mono"
 ---
 
-# Einleitung: Hein the Mono
+
 
 Im „Crown and Spacebike“ herrscht, wie immer, Hochbetrieb. Kein Wunder, handelt es sich doch eine der beliebtesten Themen-Pubs in Urkalath. Außerdem haben sich viele Touristen und Glücksritter auf dem Planeten eingefunden, da die Hochzeit von Prinzessin Lea und Prinz Bruno bevorsteht.
 

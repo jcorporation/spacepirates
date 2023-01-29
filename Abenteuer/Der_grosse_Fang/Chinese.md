@@ -12,7 +12,7 @@ sitedata:
             Position: ""
 ---
 
-# Beim alten Chinesen
+
 
 Die Reise zum Einsiedler Shizo Phren verläuft unspektakulär. Die Charaktere werden aber von den SpaceNinjas verfolgt, falls sie den Peilsender nicht entdeckt haben. Kurz nach den Piraten kommen der Ninja-Spaceflitzer aus dem FTL-Flug. Die Ninjas aktivieren sofort ihr Tarnschild, so dass 4 Erfolge (inklusive Erschwernis) für eine Sensorenprobe benötigt werden um den Ninja-Spaceflitzer zu entdecken.
 

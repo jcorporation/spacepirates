@@ -16,7 +16,7 @@ sitedata:
             Kategorie: Ninja-Clan
 ---
 
-# Hattori-Hanzo-Akademie
+
 
 Wenn man den Werbeprospekten glauben darf, ist die Hattori-Hanzo-Akademie die elitärste Ausbildungsstätte für Ninjas überhaupt und ihre Ausbildung so hart, dass nur einer von zehn Schülern sie überlebt. Die Schule festigt diesen Ruf zusätzlich, indem sie einige der gepflegtesten und schwierigsten Golfplätze Kabukicho-Primes betreibt. Entsprechend begehrt (und teuer) sind ihre Ninjas bei vielen Auftraggebern, auch wenn in Wirklichkeit die meisten Schüler an unnötigen, wirren und vor allem rein theoretischen Ankreuztests scheitern (und anschließend quicklebendig zur Goemon-Ishikawa-Highschool wechseln). Die Akademie wird seit ihrer Gründung vom „unsterblichen“ Hattori Hanzo geleitet, da jedes Clanoberhaupt diesen Namen annimmt.
 

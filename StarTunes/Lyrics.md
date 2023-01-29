@@ -4,7 +4,7 @@ permalink: /StarTunes/Lyrics
 title: StarTunes Lyrics
 ---
 
-# StarTunes Lyrics
+
 
 Hier die Lyrics zu den beiden StarTunes-Liedern, falls ihr mitsingen wollt.
 

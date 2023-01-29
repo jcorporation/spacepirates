@@ -5,7 +5,7 @@ title: Spielregeln
 order: /001
 ---
 
-# Spielregeln
+
 
 Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um die Piratencrew, darin wird beschrieben, wie die Spieler in wenigen Minuten ihre Charaktere und ihr Raumschiff erschaffen können. Auch die Ausrüstungslisten befinden sich hier. Im zweiten Teil geht es um den Ablauf eines Abenteuers und wie Konflikte aufgelöst werden können, egal ob es sich um einen Handel, eine Kneipenschlägerei oder einen Raumschiffkampf handelt. Abschließend wird noch erklärt, wie der Spielleiter Abenteuer vorbereiten und eigene Abenteuer schreiben kann.
 

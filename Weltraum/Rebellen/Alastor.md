@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Rebellen"
 ---
 
-# Alastor
+
 
 Alastor ist der geheime Hauptsitz der Rebellen. Dieser Planet liegt inmitten des [Spiralnebels von Trull]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/Grosser_Spiralnebel_von_Trull) am Rand der Neutralen Zone. Es ist ein Dschungelplanet, auf dem es immer feucht und heiß ist. Die komplett mit Dschungel bedeckten Landmassen liegen zwischen riesigen azurblauen Ozeanen. Aber weder der Dschungel noch der Ozean sind so idyllisch, wie sie aussehen: Überall leben gefährliche Tiere, die Haie wie Haustiere aussehen lassen.
 

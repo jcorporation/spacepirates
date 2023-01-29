@@ -12,7 +12,7 @@ sitedata:
             Position: ""
 ---
 
-# Auf Woodstock
+
 
 - Details zu [Woodstock]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Woodstock)
 

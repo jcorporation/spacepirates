@@ -4,7 +4,7 @@ permalink: /Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler
 title: "Auftritt: Der Teufel trägt Bäämler"
 ---
 
-# Auftritt: Der Teufel trägt Bäämler
+
 
 Giorgio Bäämler ist ein Genie. Leider wissen das noch immer nicht alle, aber das wird sich schon bald ändern. (Besonders die Glukorianer widersetzen sich seinen Missionierungsversuchen vehement).
 

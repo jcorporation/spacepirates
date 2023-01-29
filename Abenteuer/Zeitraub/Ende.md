@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub/Ende
 title: Ende
 ---
 
-# Ende
+
 
 Je nach Erfolg der Charaktere und Entscheidungen der Spieler kann das Abenteuer auf zwei Weisen enden.
 

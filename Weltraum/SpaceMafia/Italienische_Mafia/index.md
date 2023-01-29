@@ -9,7 +9,7 @@ sitedata:
             Kategorie: Mafia
 ---
 
-# Italienische Mafia
+
 
 Die italienische Mafia verkauft mittlerweile Gebrauchtraumschiffe, da sie von den SpaceNinjas aus dem Pizzahandel verdrängt wurde. Daher besteht eine Feindschaft zwischen diesen beiden Gruppierungen, jeder große Mafiaboss hat den SpaceNinjas Rache geschworen. Natürlich bleibt es nicht bei Racheschwüren. Die italienische Mafia überfällt häufig harmlose Pizzaboten der SpaceNinjas, die wiederum regelmäßig Gebrauchtwagen der Mafia stehlen. Der Konflikt zwischen beiden Parteien eskaliert zunehmend, wofür natürlich jede Seite der jeweils anderen die Verantwortung zuschiebt.
 

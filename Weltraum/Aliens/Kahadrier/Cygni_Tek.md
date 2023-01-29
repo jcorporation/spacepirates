@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Konzernplanet von Cygni Tek"
 ---
 
-# Cygni Tek
+
 
 Auf Cygni Tek ist die Konzernzentrale von [Captain Rogers]({{ site.baseurl }}/Weltraum/Konzerne/Captain_Rogers), dem größten Rumhersteller des Universums.
 

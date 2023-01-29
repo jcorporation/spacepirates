@@ -4,7 +4,7 @@ permalink: /Abenteuer/Blumenkind/Doradus
 title: Auf Doradus
 ---
 
-# Auf Doradus
+
 
 - Details zu [Doradus]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Doradus)
 

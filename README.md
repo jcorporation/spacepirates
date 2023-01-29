@@ -1,6 +1,6 @@
 [![Deploy Jekyll site to Pages](https://github.com/jcorporation/spacepirates/actions/workflows/deploy.yml/badge.svg)](https://github.com/jcorporation/spacepirates/actions/workflows/deploy.yml)
 
-# SpacePirates
+
 
 Das ist das Repository für die Webpräsenz von SpacePirates.
 

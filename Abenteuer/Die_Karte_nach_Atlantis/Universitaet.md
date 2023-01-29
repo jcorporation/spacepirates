@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Universitaet
 title: Universität
 ---
 
-# Universität
+
 
 Jede Universität ist sehr daran interessiert, die Schrift zu entschlüsseln, entsprechend werden die Piraten sogar dafür bezahlt, dass sie das Pergament zur Verfügung stellen (2000 UC für das Original, immerhin 500 UC für eine Kopie).
 

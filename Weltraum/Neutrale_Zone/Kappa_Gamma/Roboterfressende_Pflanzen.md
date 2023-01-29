@@ -4,7 +4,7 @@ permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/Roboterfressende_Pflanzen
 title: Roboterfressende Pflanzen
 ---
 
-# Roboterfressende Pflanzen
+
 
 Auf dem Planeten gibt es keine Tiere, dafür hat sich die Flora den neuen Gegebenheiten angepasst: Die roboterfressenden Pflanzen betreiben ihre Fotosynthese jetzt mittels Radioaktivität und sind dementsprechend gefährlich.
 

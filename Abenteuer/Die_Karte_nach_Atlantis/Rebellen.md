@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Rebellen
 title: Rebellen
 ---
 
-# Rebellen
+
 
 Die Rebellen haben die „Kopie“ des Spaceamazonen-Schiffs gefunden, es sind die Schemen, die die Piraten gesehen haben (und umgekehrt). Ihre Anführerin ist die Spaceamazone Eriboea, welche bei ihren Schwestern in Ungnade gefallen ist. Sie erkennt die Karte schnell als solche und hofft, ehrenhaft zu den Amazonen zurückkehren zu können, wenn sie Atlantis findet und der Amazonenkönigin dessen Koordinaten übergibt. Sie nutzt die Verbindung der Rebellen zu aufmüpfigen Studentenvereinigungen, um eine Übersetzung der Karte zu erhalten.
 

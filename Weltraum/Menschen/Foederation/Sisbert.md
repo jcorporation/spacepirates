@@ -15,6 +15,6 @@ sitedata:
             Politisches: "Eigentum Raumschiff & Co"
 ---
 
-# Sisbert
+
 
 Sisbert ist im Besitz von [Raumschiff &amp; Co ]({{ site.baseurl }}/Weltraum/Konzerne/Raumschiff_und_Co) und besitzt gigantische, geostationäre Raumhäfen.

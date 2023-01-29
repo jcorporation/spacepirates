@@ -21,7 +21,7 @@ sitedata:
                 - "Stratum Nova"
 ---
 
-# Omatic Enterprise
+
 
 Omatic Enterprise ist die Firma hinter der in der ganzen Galaxis sehr bekannten Omatic-Produktreihe. Jeder hat schon einmal einen Kaffee aus dem berühmten BistrOmatic 5000 getrunken, der idealen Kaffeemaschine für jede Bar. Neben Kaffeemaschinen stellt Omatic Waffen, Raumschiffe und alle möglichen Gebrauchsgegenstände her. An der Herstellung von unmöglichen Gegenständen arbeitete gerade eine intergalaktische Forschertruppe, die zu einem großen Teil aus einer samnesischen Abordnung besteht.
 

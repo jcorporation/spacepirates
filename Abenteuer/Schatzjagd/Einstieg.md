@@ -4,7 +4,7 @@ permalink: /Abenteuer/Schatzjagd/Einstieg
 title: Einstieg
 ---
 
-# Einstieg
+
 
 Wie immer treiben sich die Piraten auf Two Eyed Jack herum. Sie haben gerade bei einem Glücksspiel eine Schatzkarte, die zu einem versteckten Schatz führen soll, gewonnen. Kaum haben die Piraten die Karte in ihrem Besitz, wird dem Tech relativ schnell klar, dass für die Entschlüsselung der digitalen Schatzkarte zwei Schlüssel notwendig sind.
 

@@ -12,7 +12,7 @@ sitedata:
             Kategorie: Hauptstadt
 ---
 
-# Kappa
+
 
 Die Kappa-KI und ihre Anhänger leben auf dem gleichnamigen Kontinent. Unter Kappa hat sich eine barbarische Robotergesellschaft entwickelt, in der das Recht des Stärkeren zählt. Daher werden die Roboter immer größer, besser gepanzert und besser bewaffnet. Es gibt große Arenen, in denen sich Gladiatoren-Roboter mit ihren Lasern und Greifern gegenseitig vernichten und wo die Sieger als Helden gefeiert werden. Fehlkonstruktionen werden gnadenlos aussortiert und ins Exil geschickt. Die Kappa-Kultur hat sich dem kapitalistischen Werten immer größer, immer besser und immer schneller verschrieben, so dass für schwache und unproduktive Roboter kein Platz in dieser Gesellschaft existiert.
 

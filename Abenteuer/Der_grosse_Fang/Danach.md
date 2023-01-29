@@ -18,7 +18,7 @@ sitedata:
             Position: ""
 ---
 
-# Danach
+
 
 Hier gibt es noch ein paar Ideen, was nach dem Bergen des Syonerleichnams geschehen kann und wo ihn die Piraten gewinnbringend verkaufen können, damit sich der große Fang für die Piraten auch gelohnt hat.
 

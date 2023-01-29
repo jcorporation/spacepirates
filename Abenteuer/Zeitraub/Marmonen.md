@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub/Marmonen
 title: Marmonen
 ---
 
-# Marmonen
+
 
 Die Marmonen-Gruppe besteht aus vier menschlichen Fanatikern um die vierzig, die allesamt altmodische, schwarz-marmorierte Anzüge mit dazu passenden Hüten tragen. Zudem besitzt jeder von ihnen einen gepflegten Vollbart. Sie sind gegen die allgegenwärtige Technik, insbesondere gegen experimentelle Technik wie Zeitmaschinen. Sie sind überzeugt, die Zeitmaschine werde nicht nur die Menschheit ruinieren, sondern auch das Universum zerstören. Sie sind natürlich alle tief religiös und jeder trägt ein kleines Gebetsbuch bei sich, aus dem sie gerne rezitieren.
 

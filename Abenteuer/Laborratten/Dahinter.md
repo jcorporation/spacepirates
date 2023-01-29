@@ -4,7 +4,7 @@ permalink: /Abenteuer/Laborratten/Dahinter
 title: Dahinter
 ---
 
-# Dahinter
+
 
 Sobald die Charaktere dem Hologramm entflohen sind, können sie das restliche Raumschiff erkunden oder eben wieder zurück auf ihr Schiff, das immer noch angedockt ist.
 

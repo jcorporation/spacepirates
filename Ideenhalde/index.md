@@ -5,7 +5,7 @@ title: Ideenhalde
 order: /005
 ---
 
-# Ideenhalde
+
 
 Dies hier ist eine wirre Sammlung für mögliche neue SpacePirates Inhalte.
 

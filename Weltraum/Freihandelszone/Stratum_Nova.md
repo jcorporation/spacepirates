@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Sitz des galaktischen Handelsrates"
 ---
 
-# Stratum Nova
+
 
 Auf Stratum Nova ist der galaktische Handelsrat ansässig, der früher unscheinbare Wüstenplanet ist somit das Machtzentrum der Freihandelszone geworden. Auf Stratum Nova laufen alle Fäden zusammen, er gilt als einer der betriebsamsten Planeten des Universums. Vor der Einrichtung des galaktischen Handelsrates war der Planet kaum bewohnt, mittlerweile befinden sich auf diesem Wüstenplaneten einige sehr große Städte mit gigantischen Raumhäfen. Jeder Politiker, der etwas auf sich hält, will nach Stratum Nova, um mehr Macht zu bekommen, um die Interessen seiner Wähler durchzusetzen.
 

@@ -15,7 +15,7 @@ sitedata:
             Politisches: "Gefängnisplanet"
 ---
 
-# Beta Prison
+
 
 Beta Prison ist das größte und sicherste Hochsicherheitsgefängnis im bekannten Universum. Es befindet sich auf dem gleichnamigen Planeten, der am Rande der Freihandelszone, an der Grenze zum kahadrischen Reich zu finden ist. Um das Sternensystem dieses Planeten ist eine Sperrzone eingerichtet, die auch regelmäßig patrouilliert wird.
 

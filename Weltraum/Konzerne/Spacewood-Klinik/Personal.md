@@ -67,7 +67,7 @@ sitedata:
             Position: "Arzt"
 ---
 
-# Klinikpersonal
+
 
 Die Klinik hat natürlich Hunderte Angestellte, Praktikanten, Studenten und Auszubildende. Hier werden aber nur die wichtigsten und prägendsten Persönlichkeiten der Spacewood-Klinik vorgestellt.
 

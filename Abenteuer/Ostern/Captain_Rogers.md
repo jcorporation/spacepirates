@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ostern/Captain_Rogers
 title: Captain Rogers
 ---
 
-# Captain Rogers
+
 
 Captain Rogers hat quasi das Monopol auf Rum und ist auf dem Planeten Cygni Tek im kahadrischen Reich beheimatet.
 

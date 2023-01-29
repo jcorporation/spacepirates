@@ -4,7 +4,7 @@ permalink: /Abenteuer/Blumenkind/
 title: Blumenkind
 ---
 
-# Blumenkind
+
 
 Auf dem Planeten Doradus war der Anbau von Hanf verboten. Findige Hippies konstruierten deshalb die „Blumenkind“, ein automatisiertes Glashausraumschiff, um die Pflanze legal im All anzubauen. Leider kam es nach der Jungfernfahrt zu einem Atomkrieg, der die Bewohner Doradus auslöschte.
 

@@ -10,7 +10,7 @@ sitedata:
             Heimatplanet: Trullmania
 ---
 
-# SpaceYetis
+
 
 - [Eisgalaxis]({{ site.baseurl }}/Weltraum/Aliens/SpaceYetis/Eisgalaxis)
 

@@ -4,7 +4,7 @@ permalink: /Weltraum/Neutrale_Zone/Kappa_Gamma/Geschichte
 title: Geschichte
 ---
 
-# Geschichte
+
 
 Die Roboter von Kappa Gamma haben notgedrungen eine eigene Gesellschaft gebildet, nachdem sich die eigentlichen Bewohner des Planeten aus dem Staub gemacht haben und einen nuklear verseuchten Planeten hinterlassen haben. Wie auch andere Roboter waren die Roboter von Kappa Gamma für bestimmte Tätigkeiten gebaut worden, so dass sie auf einmal überflüssig waren. Dies wäre nicht so schlimm gewesen, wenn bei vielen Robotern nicht ein paar Schaltkreise durchgebrannt wären und sie dadurch ein eigenes Wesen entwickelt hätten. So entstand ein Planet voller deprimierter und intelligenter Roboter, die sich nur schwer aufraffen konnten, ihren Tätigkeiten nachzugehen, da es eh sinnlos ist.
 

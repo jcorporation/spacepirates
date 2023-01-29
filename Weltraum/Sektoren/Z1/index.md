@@ -9,7 +9,7 @@ sitedata:
             Hauptplanet: ""
 ---
 
-# Sektor Z1
+
 
 Der Sektor Z1 ist noch nahezu unerforscht.
 

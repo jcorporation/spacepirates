@@ -4,7 +4,7 @@ permalink: /Abenteuer/Dungeonplanet/Ebene2
 title: Ebene 2
 ---
 
-# Ebene 2
+
 
 ## Zürich
 

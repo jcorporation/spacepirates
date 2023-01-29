@@ -21,7 +21,7 @@ sitedata:
             Politisches: ""
 ---
 
-# Pandar 5
+
 
 Pandar 5 ist ein erdähnlicher Planet am Rande der Föderationen. Er besitzt ein mildes Klima und ist oft Ausgangspunkt für Forschungsmissionen in die Sperrzone um [Terra 20CAD]({{ site.baseurl }}/Weltraum/Zurueckgebliebene_Planeten).
 

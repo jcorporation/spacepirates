@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub/Bauteil
 title: Das Bauteil
 ---
 
-# Das Bauteil
+
 
 Falls die Piraten die Kiste öffnen (TECH-Probe mit 3 Erfolgen, um sie unauffällig zu öffnen) entdecken sie ein seltsam aussehendes, zylindrisches Teil, das die gesamte Kiste ausfüllt. Um die Achse sind viele, sehr kompliziert aussehende Teile angeordnet. Einige davon blinken, das Teil scheint in Betrieb oder im Bereitschaftsmodus zu sein.
 

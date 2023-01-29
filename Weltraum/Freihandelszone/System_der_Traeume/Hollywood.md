@@ -15,7 +15,7 @@ sitedata:
             Politisches: "Filmplanet"
 ---
 
-# Hollywood
+
 
 Ein saturnmäßiger Ring aus Raumstaubpartikeln umkreist diesen Himmelskörper. Auf dem Ring sind riesige blinkende und weit ins All hinein sichtbare Buchstaben befestigt, die seinen Namen bilden: „Planet Hollywood“. Auf dem Planet Hollywood haben sich die modernsten Filmstudios des gesamten Systems der Träume angesiedelt. Hier wird beliebtes Popcorn-, Action- und Mainstream-Kino geschaffen für die 5D-Kinosäle in den gewaltigen Gigaplexraumschiffen. Weil Gigaplexkinos schneller als das Licht reisen, kommt es zu Raumzeitkrümmungen und relativistischen Effekten, die gewitzte Regisseure als Spezialeffekte in ihre Filme einbauen. Das allein wäre nur „4 D“, als „5 D“ gelten dann Filme, bei denen zusätzlich vibrierende Kinosessel und Windmaschinen zum Einsatz kommen.
 

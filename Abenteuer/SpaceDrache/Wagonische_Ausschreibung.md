@@ -4,7 +4,7 @@ permalink: /Abenteuer/SpaceDrache/Wagonische_Ausschreibung
 title: Wagonische Ausschreibung
 ---
 
-# Wagonische Ausschreibung
+
 
 Vor einigen Monaten wurde Prinzessin Lea, die einzige Tochter der wagonischen Königsfamilie, entführt. Natürlich haben sie sofort alles Wagonen mögliche getan und eine Ausschreibung nach Paragraph 28 GzBvPoP (Gesetz zur Befreiung von Prinzessinnen oder Prinzen) veranlasst. In einem gewaltigen Bürokratieakt sind die Ausschreibungsunterlagen schon nach 3 Monaten fertiggestellt und genehmigt worden, so dass sie gerade jetzt eingesehen werden können.
 

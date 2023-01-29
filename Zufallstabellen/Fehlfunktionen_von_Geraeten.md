@@ -20,7 +20,7 @@ sitedata:
         - "Unbekannter Ausnahmefehler"
 ---
 
-# Fehlfunktionen von Geräten
+
 
 Hier kann ausgewürfelt werden, was geschieht, wenn ein technisches Gerät kaputt geht.
 

@@ -9,7 +9,7 @@ sitedata:
             Kategorie: Mafia
 ---
 
-# Kahadrische Mafia
+
 
 Die kahadrische Mafia konzentriert sich auf den von ihr kontrollierten Feinkostgroßhandel. Ihre Spezialität ist der Schmuggel von illegalen und extrem süchtig machenden Tintenfischkringeln. Da die kahadrische Mafia immer nur frische Ware liefert, besitzt sie in allen bekannten Sektoren Niederlassungen und Lagerhäuser. Zudem verfügt sie eine große Flotte von schnellen kleineren und mittelgroßen Frachtschiffen, um die Ware immer pünktlich auszuliefern. Sogar die SpaceNinjas sind Kunden der kahadrischen Mafia, denn nirgends bekommt man frischere Meeresfrüchte und Fisch. Als Freund des Feindes ist die kahadrische Mafia damit ein Feind der Italiener, welche auch regelmäßig Feinkostfrachtschiffe ausrauben, um an frische Meeresfrüchte für ihre Spaghetti del Mare zu kommen.
 

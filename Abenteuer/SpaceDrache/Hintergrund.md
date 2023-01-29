@@ -4,7 +4,7 @@ permalink: /Abenteuer/SpaceDrache/Hintergrund
 title: Hintergrundinformationen
 ---
 
-# Hintergrundinformationen
+
 
 Der SpaceDrache ist von Marric, einem verrückten Wissenschaftler, erschaffen worden um das Universum zu unterwerfen. Der Drache hat ein Ei gelegt und ist mit diesem ausgebüchst.
 

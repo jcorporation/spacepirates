@@ -16,7 +16,7 @@ sitedata:
             Politisches: keine politischen Beziehungen
 ---
 
-# Woodstock
+
 
 Der Planet Woodstock ist erdähnlich und war lange Zeit unbewohnt, bis die Hippies ihn entdeckten. Da er in der Neutralen Zone liegt, ist er politisch unbeeinflusst und das Klima ist ideal um Hanf, Marihuana und andere Rauschmittel anzubauen.
 

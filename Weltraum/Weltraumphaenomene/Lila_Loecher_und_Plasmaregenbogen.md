@@ -16,7 +16,7 @@ sitedata:
             Politisches: ""
 ---
 
-# Lila Löcher und Plasmaregenbogen
+
 
 Lila Löcher sind das wohl farbenprächtigste und romantischste Phänomen des Universums. Sie treten immer paarweise auf und die beiden Partner sind stets mit einem schillernden Plasmaregenbogen verbunden. Sie sind daher ein beliebtes Ziel für die Flitterwochen. Schiffe, die durch den Plasmaregenbogen fliegen, schimmern anschließend dauerhaft in allen Spektralfarben.
 

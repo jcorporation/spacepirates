@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Glukorianer"
 ---
 
-# Ennos
+
 
 Der Planet Ennos ist ein Kolonialplanet der Glukorianer und erst vor kurzem plötzlich aufgetaucht.
 

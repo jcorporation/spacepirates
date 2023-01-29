@@ -12,7 +12,7 @@ sitedata:
             Politisches: ""
 ---
 
-# Weihnachts-Wurmloch
+
 
 Das temporäre Weihnachts-Wurmloch öffnet sich zur Weihnachtszeit, also vom 1. Advent bis zum 2. Weihnachtsfeiertag. Hinter dem Wurmloch liegt der Planet [Santa 24]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Santa_24).
 

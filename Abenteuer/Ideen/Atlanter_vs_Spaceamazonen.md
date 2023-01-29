@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/Atlanter_vs_Spaceamazonen
 title: Atlanter vs Spaceamazonen
 ---
 
-# Atlanter vs Spaceamazonen
+
 
 Dies ist eine kleine Sammlung von Abenteuerideen, die im Dunstkreis der Atlanter und Spaceamazonen spielen. Sie können entweder in bestehende Abenteuer als Nebenstrang eingefügt oder zu eigenständigen Abenteuern ausgearbeitet werden.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ostern/
 title: Ostern
 ---
 
-# Ostern
+
 
 Es ist demnächst Ostern, es warten ein paar erholsame Feiertage auf die Piraten, aber wo ist der ganze Rum geblieben? Und wieso befinden sich in den ganzen Rumkisten nur noch Ostereier?
 

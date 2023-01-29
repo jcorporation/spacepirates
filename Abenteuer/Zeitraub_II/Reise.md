@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub_II/Reise
 title: Reise nach Javar 3
 ---
 
-# Reise nach Javar 3
+
 
 Javar 3 liegt knapp 53 Lichtjahre vom Brabengürtel entfernt. Die Reise dauert somit mit einem FTL1-Antrieb 53 Stunden.
 

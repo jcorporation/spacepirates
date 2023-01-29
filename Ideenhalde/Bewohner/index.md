@@ -4,7 +4,7 @@ permalink: /Ideenhalde/Bewohner/
 title: Bewohner
 ---
 
-# Bewohner
+
 
 Auf dieser Seite sind Ideen für zusätzliche Bewohner des SpacePirates Universums gesammelt.
 

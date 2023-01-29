@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/Spacewood-Klinik
 title: Spacewood-Klinik
 ---
 
-# Spacewood-Klinik
+
 
 ## Eingeliefert
 

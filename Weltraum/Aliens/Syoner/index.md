@@ -4,7 +4,7 @@ permalink: /Weltraum/Aliens/Syoner/
 title: Syoner
 ---
 
-# Syoner
+
 
 - **Heimatuniversum:** unbekannt
 

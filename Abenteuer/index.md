@@ -5,7 +5,7 @@ title: Abenteuer
 order: /003
 ---
 
-# Abenteuer
+
 
 Hier gibt es vorgefertigte Abenteuer und Abenteuerideen für SpacePirates.
 

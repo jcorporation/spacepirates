@@ -4,7 +4,7 @@ permalink: /Freies_Rollenspiel
 title: Freies Rollenspiel
 ---
 
-# Freies Rollenspiel
+
 
 SpacePirates ist ein freies Rollenspiel; das heißt, dass es vom Autor selber vertrieben wird, ohne Unterstützung durch einen Verlag. Das PDF kann kostenlos [heruntergeladen]({{ site.baseurl }}/Publikationen/), benutzt und weitergegeben werden ([Lizenz]({{ site.baseurl }}/Kontakt)). Die gedruckte Version wird direkt vom Autor [vertrieben]({{ site.baseurl }}/Publikationen/).
 

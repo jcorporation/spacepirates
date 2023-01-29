@@ -17,7 +17,7 @@ sitedata:
             Politisches: ""
 ---
 
-# AlXambra
+
 
 Die AlXambra-Raumstation liegt gleich neben dem Spiralnebel von Trull im trullischen Sektor. Der Kalif Rashad pflegt intensive Handelsbeziehungen mit den Trull.
 

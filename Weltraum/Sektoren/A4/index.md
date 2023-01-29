@@ -9,7 +9,7 @@ sitedata:
             Hauptplanet: ""
 ---
 
-# Sektor A4
+
 
 Der Sektor A4 ist noch nahezu unerforscht.
 

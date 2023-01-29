@@ -4,7 +4,7 @@ permalink: /Abenteuer/Buschraub/Dimensionsriss
 title: Dimensionsriss
 ---
 
-# Dimensionsriss
+
 
 Nun gilt es einen Dimensionsriss zu finden. In den offiziellen Sternenkarten ist leider keine verzeichnet. Aber die Charaktere wären keine Piraten, wenn sie keine Kontakte zu Informationshändler hätten, die solche Informationen liebend gern verkaufen.
 

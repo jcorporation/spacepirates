@@ -17,7 +17,7 @@ sitedata:
             Heimatplanet: "Sampuk"
 ---
 
-# Samnesen
+
 
 - **Heimatplanet:** [Sampuk]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/Sampuk)
 - **Reich:** Samara

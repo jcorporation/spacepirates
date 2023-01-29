@@ -15,6 +15,6 @@ sitedata:
             Politisches: "Forschungsplanet"
 ---
 
-# Trianguli Sup 2
+
 
 Der Planet Trianguli Sup 2 ist ein Kolonieplanet der Samnesen. Von hier aus erforschen sie die Unwahrscheinlichkeitszone.

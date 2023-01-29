@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Sirenen
 title: Sirenen
 ---
 
-# Sirenen
+
 
 - **Wurmlochdemodulatorteil:** Parabolantenne
 

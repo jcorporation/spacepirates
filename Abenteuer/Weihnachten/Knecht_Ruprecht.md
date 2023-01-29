@@ -17,7 +17,7 @@ sitedata:
             Bewaffnung: "Laserrute: P+2"
 ---
 
-# Knecht Ruprecht
+
 
 Knecht Ruprecht lebt auch auf Santa 24. Er ist ein Glukorianer, trägt einen schwarzen, angeklebten Bart und ist in eine braune, grobe Kutte gehüllt und hat die Nase voll von Weihnachten, weil immer alle Angst vor ihm haben. Daher will er das Weihnachtsfest mit seinen Bomben zerstören und hat daher eine kleine Allianz mit anderen Glukorianern geschmiedet.
 

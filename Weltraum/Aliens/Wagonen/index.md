@@ -14,7 +14,7 @@ sitedata:
             Heimatplanet: Xawang
 ---
 
-# Wagonen
+
 
 - **Heimatplanet:** [Xawang]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Xawang)
 - **Botschaftsplanet:** [D4E20]({{ site.baseurl }}/Weltraum/Freihandelszone/D4E20)

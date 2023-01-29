@@ -4,7 +4,7 @@ permalink: /Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen
 title: Glutulhus Erwachen
 ---
 
-# Glutulhus Erwachen
+
 
 Glutulhu regt sich seit Jahrtausenden des Schlafs wieder. Noch sind seine Tentakeln gelähmt, aber er weiß genau, dass jetzt seine Zeit gekommen ist. Die Zeit, die Emporkömmlinge niederzuschlagen und wieder über das ganze Universum zu herrschen.
 

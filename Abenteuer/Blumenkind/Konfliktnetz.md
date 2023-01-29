@@ -4,7 +4,7 @@ permalink: /Abenteuer/Blumenkind/Konfliktnetz
 title: Konfliktnetz
 ---
 
-# Konfliktnetz
+
 
 - Die SWIP wird mit niemanden zusammenarbeiten.
 - Die SpaceHippies sind froh, wenn sie überhaupt etwas abbekommen.

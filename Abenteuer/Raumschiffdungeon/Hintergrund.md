@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/Hintergrund
 title: Hintergrund
 ---
 
-# Hintergrund
+
 
 Der Dungeon ist ein Artefakt der Romaha, einer längst untergegangen Alienkultur, deren Stand der Technik dem heutigen weit überlegen ist. Ihre Technik wirkt selbst auf geniale Wissenschaftler oftmals wie Zauberei.
 

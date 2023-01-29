@@ -4,7 +4,7 @@ permalink: /Abenteuer/Weihnachten_II/Einstieg
 title: Einstieg
 ---
 
-# Einstieg
+
 
 Es ist etwas mehr als eine Woche vor Weihnachten. Die Piraten sind mit ihrem Schiff unterwegs, als sie eine Nachricht auf der Notfallfrequenz empfangen.
 

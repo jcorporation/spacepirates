@@ -11,7 +11,7 @@ sitedata:
             Wohnort: "Burger Prince"
 ---
 
-# Schlachtkreuzer
+
 
 ## Burger Prince
 

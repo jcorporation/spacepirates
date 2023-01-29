@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Heimatplanet der Atlanter"
 ---
 
-# Atlantis
+
 
 Atlantis heißt nicht nur die sagenumwobene, untergegangene Stadt auf der Erde, sondern auch der mittlerweile vernichtete Heimatplanet der Atlanter. Er war, wie die Erde, ein blauer Planet mit großen Ozeanen. Nur herrschte hier das Flair der Antike: weitläufige, weiße Städte, monumentale Marmortempel und Statuen, die die 7 Weltwunder wie kleines Spielzeug aussehen lassen. Leider wurde dieser Planet in der letzten großen Schlacht zwischen den Atlantern und den Spaceamazonen vernichtet. Immer wieder kommen Gerüchte auf, dass der Planet nicht vernichtet wurde, sondern in einen riesigen Dimensionsriss stürzte. Diese Gerüchte entsprechen in der Tat der Wahrheit. Nun suchen die überlebenden Atlanter eine Möglichkeit, ihren Planeten zu finden, um dort eine Ära des Friedens zu beginnen.
 

@@ -5,7 +5,7 @@ title: Einstieg
 order: 01
 ---
 
-# Einstieg
+
 
 Ein wagonischer Spacekurier liefert einem der Charaktere (dessen Onkel Nic Jäger war) einen übergroßen Karton, egal wo er sich gerade aufhält, denn die pünktliche Lieferung hat bei den Wagonen Tradition.
 

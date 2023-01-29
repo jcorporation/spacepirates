@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Bevölkerungsreichster Planet Neuasiens"
 ---
 
-# Zeno
+
 
 Zeno hat ein erdähnliches Klima, ist auch sonst angenehm und deshalb der bevölkerungsreichste Planet Neuasiens. Auch viele Funktionäre der KPNA besitzen hier einen Zweitwohnsitz. Dies hat dazu geführt, dass der Planet fast vollständig von armen Städten bedeckt ist, die mit der Zeit ineinander gewachsen sind.
 

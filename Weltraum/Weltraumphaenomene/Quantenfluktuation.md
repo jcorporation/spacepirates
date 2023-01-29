@@ -14,7 +14,7 @@ sitedata:
             Politisches: ""
 ---
 
-# Quantenfluktuation
+
 
 Innerhalb einer Quantenfluktuation bilden sich spontan Teilchen aus dem Nichts und lösen sich genauso schnell auch wieder auf. Hier kann für einen kleinen Augenblick einfach alles entstehen.
 

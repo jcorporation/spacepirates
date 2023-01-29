@@ -9,7 +9,7 @@ sitedata:
             Hauptplanet: ""
 ---
 
-# Sektor C0
+
 
 Der Sektor C0 ist noch nahezu unerforscht.
 

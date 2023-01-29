@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Neuasien"
 ---
 
-# Xinnua
+
 
 Xinnua ist der Propagandaplanet Neuasiens, hier gibt es nur eine Stadt für Funktionäre der KPNA und ansonsten Dschungel und blaue Ozeane.
 

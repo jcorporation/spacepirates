@@ -15,7 +15,7 @@ sitedata:
             Politisches: "keine politischen Beziehungen"
 ---
 
-# Doradus
+
 
 Doradus ist ein kleiner und unbedeutender Planet in der Neutralen Zone. Er besitzt eine atembare Atmosphäre und die Oberfläche besteht fast nur aus Wasser. Es gibt nur einen recht kleinen Kontinent mit etwa 100.000 km<sup>2</sup> Fläche.
 

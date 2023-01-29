@@ -4,7 +4,7 @@ permalink: /Abenteuer/Halloween/Nebel
 title: Nebel erkunden
 ---
 
-# Nebel erkunden
+
 
 In relativer Nähe des Piratenraumschiffs befinden sich ein Planet, der eine Erkundung wert sein könnten. Am interessantesten ist aber der kürbisförmige Planet im Zentrum des Nebels, der aber momentan außerhalb der Reichweite der stark eingeschränkt funktionierenden Sensoren liegt.
 

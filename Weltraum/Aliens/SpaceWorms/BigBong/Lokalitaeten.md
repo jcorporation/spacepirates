@@ -22,7 +22,7 @@ sitedata:
             Position: ""
 ---
 
-# Interessante Lokalitäten
+
 
 Natürlich hat eine außergewöhnliche Raumstation wie BigBong, neben den üblichen Einrichtungen, auch außergewöhnliche Lokalitäten. Da die Station einem Wurm gehört, sind Vögel allerdings strikt verboten, was auch für (Cyber-)Papageien gilt. Dafür findet man überall auf der Station Kaffeehäuser, in denen es neben Mokka und orientalischem Tee auch staubtrockenes Gebäck gibt.
 

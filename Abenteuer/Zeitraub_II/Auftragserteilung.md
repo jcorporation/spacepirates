@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub_II/Auftragserteilung
 title: Auftragserteilung
 ---
 
-# Auftragserteilung
+
 
 Jangba kommt 3 Tage aus der Zukunft und landet geplanterweise in Two-Eyed-Jack. Hier sucht er die Charaktere auf und bittet sie um Hilfe. Er erzählt ihnen die Geschichte, wie er kurz vor dem selbst verursachten Urknall durch die Zeitmaschine 2 Tage in die Vergangenheit flüchtete und bittet jetzt die Charaktere, ihm zu helfen, das Universum zu retten. Er kann den Charakteren an Bankautomaten Geld zur Verfügung stellen, das könnte aber der Jangba in der jetzigen Zeit merken. An Informationen hält Jangba alles zurück, womit er sich selbst belasten könnte. In der Not rückt er aber auch mit der vollen Wahrheit heraus.
 

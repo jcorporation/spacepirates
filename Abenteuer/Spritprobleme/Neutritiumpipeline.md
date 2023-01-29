@@ -4,7 +4,7 @@ permalink: /Abenteuer/Spritprobleme/Neutritiumpipeline
 title: Neutritiumpipeline
 ---
 
-# Neutritiumpipeline
+
 
 Die Neutritium-Pipeline ist knapp 1 Megameter vom Schiff der Piraten entfernt und natürlich mit einem Alarmsystem gesichert. Zudem kann die Pipeline nicht einfach angezapft werden, da das Neutritium bei der FTL-Geschwindigkeit explodieren und alles im Umkreis von &frac34; Lichtjahr zerstören würde. Dies ist aber automatisch jedem Charakter klar. Aber zum Glück der Charaktere befindet sich in etwa 3 Megameter Entfernung eine Pumpstation. Wenn diese deaktiviert wird, kann das Neutritium ohne Probleme abgepumpt werden. Aber natürlich wird dadurch ein Alarm ausgelöst.
 

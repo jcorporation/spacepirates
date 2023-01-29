@@ -4,7 +4,7 @@ permalink: /Zufallstabellen/Sternensysteme
 title: Sternensysteme
 ---
 
-# Sternensystemgenerator
+
 
 Dieser Zufallsgenerator generiert komplette Sternensysteme, entweder total zufällig oder auch mit ein paar Rahmenparameter.
 

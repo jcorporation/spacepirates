@@ -30,7 +30,7 @@ sitedata:
             Position: ""
 ---
 
-# Insassen
+
 
 In Beta Prison sitzen immer etwa Tausend Gefangene ein.
 

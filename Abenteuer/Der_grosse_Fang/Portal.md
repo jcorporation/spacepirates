@@ -4,7 +4,7 @@ permalink: /Abenteuer/Der_grosse_Fang/Portal
 title: Das Portal
 ---
 
-# Das Portal
+
 
 Das Ziel der Suche ist ein gut verschlossener Raum tief im Inneren des Raumschiffs. An einer Wand ist ein großes, offenes Tor montiert, das mit komischen Apparaten und Schriftzeichen versehen ist, das deaktiviert zu sein scheint. Ein Tech kann dieses Tor mit 4 Erfolgen in Betrieb nehmen. Danach schimmert die Luft zwischen dem Portal lila und man kann auch die Wand dahinter nicht mehr erkennen.
 

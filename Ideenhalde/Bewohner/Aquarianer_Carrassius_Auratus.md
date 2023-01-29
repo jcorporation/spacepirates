@@ -4,7 +4,7 @@ permalink: /Ideenhalde/Bewohner/Aquarianer_Carrassius_Auratus
 title: Carrassius Auratus
 ---
 
-# Carrassius Auratus
+
 
 Die Carrassius Auratus, im Volksmund nur Carrassianer genannt sind niedliche, kleine Goldfische. Sie sind geniale Wissenschaftler, aber meist auch mindestens so verrückt. Sie sind quasi der Archetyp des verrückten Wissenschaftlers.
 

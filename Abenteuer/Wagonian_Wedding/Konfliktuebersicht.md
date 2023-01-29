@@ -4,7 +4,7 @@ permalink: /Abenteuer/Wagonian_Wedding/Konfliktuebersicht
 title: Konfliktübersicht
 ---
 
-# Konfliktübersicht
+
 
 Hier eine Übersicht aller NSCs und deren Beziehungen zueinander.
 

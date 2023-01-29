@@ -9,7 +9,7 @@ sitedata:
             Hauptplanet: Stratum Nova
 ---
 
-# Freihandelszone
+
 
 Die Freihandelszone ist der Dreh- und Angelpunkt aller Abenteuer bei SpacePirates, ein Raum, in dem Geld gleich Macht und Macht gleich Geld ist. Hier hat jede Machtgruppe und Regierung einen Planeten oder eine Raumstation unter ihrer Kontrolle. Zusätzlich gibt es hier viele freie Raumstationen und Planeten. Die Freihandelszone, die 10 Sternensysteme umfasst, hat sich dadurch zum dichtbesiedeltsten Raum im Weltall entwickelt, einige sollen sogar schon Platzangst bekommen haben.
 

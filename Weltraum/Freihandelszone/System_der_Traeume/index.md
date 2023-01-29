@@ -13,7 +13,7 @@ sitedata:
             Politisches: "Zentrum der galaktischen Filmindustrie"
 ---
 
-# System der Träume
+
 
 Dieses opulente Sternensystem am Rande der Freihandelszone ist das Zentrum der galaktischen Filmindustrie. Im System der Träume arbeiten ehrgeizige Regisseure an neuen Holoblockbustern, um die Massen zu unterhalten. Drehbuch-Computer errechnen nach geheimen Algorithmen Folge um Folge beliebter Erfolgssitcoms. Nach der Arbeit treffen sich Produzenten und Schauspieler zu legendären Feten. Erfolg und Misserfolg liegen allerdings nirgendwo so nahe beieinander wie im System der Träume. Unzählige Möchtegern-Schauspieler sind froher Hoffnung hierher gestartet, nur um als Kamerahalter zu enden oder noch schlimmer – als Bettler auf der Mimen-Mission, der größten Raumstation des Systems der Träume.
 

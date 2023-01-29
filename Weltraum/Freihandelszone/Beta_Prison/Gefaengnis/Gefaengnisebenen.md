@@ -4,7 +4,7 @@ permalink: /Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Gefaengnisebenen
 title: Gefängnisebenen
 ---
 
-# Gefängnisebenen
+
 
 Das Gefängnis ist vertikal aufgebaut und unterteilt sich in verschiedene Ebenen. Diese verbinden kurze Verbindungstunnel miteinander, die starke Panzertüren und Selbstschussanlagen sichern.
 

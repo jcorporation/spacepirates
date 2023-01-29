@@ -4,7 +4,7 @@ permalink: /Abenteuer/Buschraub/Ende
 title: Ende
 ---
 
-# Ende
+
 
 Wenn es die Piraten geschafft haben, Vox Rubusch von Nova Ceti zu rauben, bieten sich ihnen drei Möglichkeiten, den Busch zu Geld zu machen.
 

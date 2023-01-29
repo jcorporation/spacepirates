@@ -21,7 +21,7 @@ sitedata:
             Politisches: "italienischen Mafia"
 ---
 
-# Nuova Sicilia
+
 
 Nuova Sicilia oder Neu Sizilien ist ein sizilianisch angehauchter Planet, der von der italienischen Mafia beherrscht wird. Er liegt mitten im Niemandsland zwischen der Föderation und der Freihandelszone, daher fühlt sich keine Behörde so richtig zuständig. Hier sitzen die großen Mafiabosse und lenken die Geschicke ihres Gebrauchtraumschiffhandels.
 

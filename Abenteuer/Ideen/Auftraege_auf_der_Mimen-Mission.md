@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission
 title: Aufträge auf der Mimen-Mission
 ---
 
-# Aufträge auf der Mimen-Mission
+
 
 Ein Wurf auf Händler mit mindestens drei Erfolgen sorgt dafür, dass man den Charakteren einen Auftrag von folgender Tabelle anbietet.
 

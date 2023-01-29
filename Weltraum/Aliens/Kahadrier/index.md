@@ -14,7 +14,7 @@ sitedata:
             Heimatplanet: "Kahadria"
 ---
 
-# Kahadrier
+
 
 - **Heimatplanet:** [Kahadria]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/Kahadria)
 - **Botschaftsplanet:** [Keas]({{ site.baseurl }}/Weltraum/Freihandelszone/Keas)

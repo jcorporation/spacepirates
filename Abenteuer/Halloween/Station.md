@@ -4,7 +4,7 @@ permalink: /Abenteuer/Halloween/Station
 title: Auf der Station
 ---
 
-# Auf der Station
+
 
 Auf der Station sind neben dem kahadrischen Wissenschaftler noch 10 Kahadriersöldner stationiert, die aber alle von der KI der Station getötet wurden. Die Leichen sind auf der gesamten Station verteilt und stark angefressen bzw. schon stärker verwest. Dementsprechend streng riecht es in den Gängen der Raumstation. Die Station ist verstaubt und voller Spinnweben. Auf dem Boden finden sich aber seltsame Fußabdrücke, die nicht zuzuordnen sind.
 

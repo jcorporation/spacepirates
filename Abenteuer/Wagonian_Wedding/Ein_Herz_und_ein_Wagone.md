@@ -4,7 +4,7 @@ permalink: /Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone
 title: "Auftritt: Ein Herz und ein Wagone"
 ---
 
-# Auftritt: Ein Herz und ein Wagone
+
 
 Königin Elisabeth war tatsächlich vor langer langer Zeit einmal verheiratet – aus dieser Ehe gingen Wagonion und Wigginot (Williberts Vater) hervor. Während Wigginot im Universum unterwegs ist, wartet Wagonion seit Jahren darauf, dass seine Mutter ihm endlich Platz auf dem Thron macht. Elisabeth denkt natürlich nicht daran, schließlich ist Regieren ihr Hobby.
 

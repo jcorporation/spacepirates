@@ -4,7 +4,7 @@ permalink: /Abenteuer/Neutritiumklau/Auftrag
 title: Auftragserteilung
 ---
 
-# Auftragserteilung
+
 
 Stan, der vertrauenswürdige Gebrauchtraumschiffhändler, von [Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack), hat einen Auftrag für die Charaktere. Sein Neutritiumlager ist schon fast leer und er braucht dringend Nachschub. Natürlich kann er von keiner offiziellen Stelle, wie z.B. von SpaceShell, Neutritium erwerben, da er es hier illegal in großen Mengen vertickt und man immer nur sehr kleine Mengen Neutritium einkaufen kann. Stan&rsquo;s olde Spacecraft Shoppe ist einer der wenigen Tankstellen, die an jeden Neutritium verkaufen, ohne irgendwelche Fragen zu stellen.
 

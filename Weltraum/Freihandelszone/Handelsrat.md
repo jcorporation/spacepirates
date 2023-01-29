@@ -23,7 +23,7 @@ sitedata:
             Wohnort: "Stratum Nova"
 ---
 
-# Galaktischer Handelsrat
+
 
 Der galaktische Handelsrat ist eine der mächtigsten Institutionen im Universum, manche behaupten, er sei sogar mächtiger als die Regierung der Föderation. Offiziell ist jedes Mitglied des Handelsrates seiner Regierung verpflichtet. Der Handelsrat ist auf [Stratum Nova]({{ site.baseurl }}/Weltraum/Freihandelszone/Stratum_Nova) inmitten der Freihandelszone beheimatet und wie quasi jede andere Organisation korrupt.
 

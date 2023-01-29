@@ -5,7 +5,7 @@ title: Freunde der Charaktere
 order: /001
 ---
 
-# Freunde der Charaktere
+
 
 Natürlich sollten die Charaktere nicht nur Gegner und Konkurrenten besitzen, sondern auch Freunde. Die besten Freunde trafen die Charaktere vermutlich nicht erst gestern, sondern schon vor einiger Zeit. Einige vielleicht sogar schon im Space-Sandkasten. Aber wie auch immer sie sich kennenlernten, die Freunde sollten den Piraten entweder den Weg ins Abenteuer erleichtern oder sie regelmäßig unterstützen können. Sie könnten eine ähnliche Laufbahn eingeschlagen haben, dann trifft man sich regelmäßig auf einer der Piratenstationen. Sie könnten für ein Unternehmen oder die Politik arbeiten und so den Piraten den Kontakt zur legalen Welt ermöglichen. Sie sollten aber kein unbedeutender Hintergrund sein. Ein Farmer auf einem abgelegenen Planeten wird höchstens einmalig in einem Abenteuer thematisiert werden, wenn überhaupt, und ist daher eine schlechte Wahl.
 

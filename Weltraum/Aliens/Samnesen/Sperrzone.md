@@ -4,7 +4,7 @@ permalink: /Weltraum/Aliens/Samnesen/Sperrzone
 title: Sperrzone in Samara
 ---
 
-# Sperrzone in Samara
+
 
 Natürlich ist die Sperrzone gesichert; rund um die Sperrzone befinden sich in kleinen Abständen kleine intelligente Raumbojen, die rot blinken. Die Sperrzone wird von einem gewaltigen Dimensionsriss dominiert
 

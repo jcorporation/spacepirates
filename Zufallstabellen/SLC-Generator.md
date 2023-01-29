@@ -4,7 +4,7 @@ permalink: /Zufallstabellen/SLC-Generator
 title: SLC-Generator
 ---
 
-# SLC-Generator
+
 
 Dieses Tool generiert zufällige Spielleiter-Charaktere, es hält sich an die Charaktererschaffungsregeln.
 

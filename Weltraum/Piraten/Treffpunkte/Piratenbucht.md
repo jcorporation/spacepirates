@@ -28,7 +28,7 @@ sitedata:
             Position: ""
 ---
 
-# Piratenbucht
+
 
 Die Piratenbucht ist ein bekannter Weltraumhafen und Piratentreffpunkt. Diese Raumstation hat eine Macke, so dass sie von Zeit zu Zeit einen unberechenbaren Raumzeitsprung ausführt. Zum Glück springt sie meist weiter im Raum als in der Zeit, aber es kann durchaus passieren, dass temporär zwei Piratenbuchten existieren.
 

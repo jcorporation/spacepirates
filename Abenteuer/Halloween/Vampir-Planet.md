@@ -17,7 +17,7 @@ sitedata:
 
 ---
 
-# Vampir-Planet
+
 
 Der Vampir-Planet ist auf dem Entwicklungsstand des 18. Jahrhundert der Erde. Auf dem Planeten ist es fast immer dunkel oder dämmrig, trotzdem existiert eine Pflanzenwelt, wie man sie von der Erde kennt. Die normale Bevölkerung ist verängstigt und wagt sich kaum auf die Straßen.
 

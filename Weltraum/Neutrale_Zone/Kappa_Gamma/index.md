@@ -16,7 +16,7 @@ sitedata:
             Politisches: keine politischen Beziehungen
 ---
 
-# Kappa Gamma
+
 
 Kappa Gamma liegt mitten in der neutralen Zone und zieht seine einsamen Kreise um einen hell orange leuchtenden Stern. Der Planet wird von den beiden Kontinenten Kappa und Gamma dominiert, die über zwei Landbrücken miteinander verbunden sind. Zwei Drittel der Planetenoberfläche sind von verseuchtem Wasser bedeckt. Auch die Landmassen sind nuklear verseucht und werden nur von Robotern bewohnt. Die Strahlung ist für jedes organische Wesen sofort tödlich, konnte aber den Robotern nichts anhaben.
 

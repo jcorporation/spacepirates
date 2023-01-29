@@ -13,6 +13,6 @@ sitedata:
 
 ---
 
-# Negrewz-Nebel
+
 
 Der Negrewz-Nebel ist ein eher kleines und ungefährliches Weltraumphänomen. Es funktionieren alle Instrumente, nur die Sensoren besitzen die halbe Reichweite.

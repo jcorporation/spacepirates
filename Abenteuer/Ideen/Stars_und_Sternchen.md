@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/Stars_und_Sternchen
 title: Stars und Sternchen
 ---
 
-# Stars und Sternchen
+
 
 Eine kleine Sammlung von Abenteuerideen, die im Dunstkreis der Stars und Sternchen spielen. Sie können entweder in bestehende Abenteuer als Nebenstrang eingefügt oder zu eigenständigen Abenteuern ausgearbeitet werden.
 

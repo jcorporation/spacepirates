@@ -5,7 +5,7 @@ title: Kleidung
 order: /002
 ---
 
-# Spezialkleidung
+
 
 Hier sind nur wirklich nützliche Kleidungsstücke aufgeführt, wie bereits gesagt muss keine alltägliche Kleidung und auch das Piratenballkleid nicht gekauft werden.
 

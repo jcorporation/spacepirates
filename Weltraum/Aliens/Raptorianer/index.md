@@ -10,7 +10,7 @@ sitedata:
             Heimatplanet: "Greeenhl"
 ---
 
-# Raptorianer
+
 
 - Heimatplanet: [Greeenhl]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Greeenhl)
 - [Dino Burger]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Dino_Burger)

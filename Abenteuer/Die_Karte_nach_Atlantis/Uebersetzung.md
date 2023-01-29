@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung
 title: Übersetzung des Pergaments
 ---
 
-# Übersetzung des Pergaments
+
 
 Der Computer und der Atlantereinsiedler übersetzen das Pergament wie folgt.
 

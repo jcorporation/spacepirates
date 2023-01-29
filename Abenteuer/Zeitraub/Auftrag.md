@@ -15,7 +15,7 @@ sitedata:
             Bewaffnung: "Laserpistole: Bonus 0"
 ---
 
-# Auftragserteilung
+
 
 ## Der Bote
 

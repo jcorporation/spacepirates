@@ -4,7 +4,7 @@ permalink: /Ideenhalde/Bewohner/Aquarianer
 title: Aquarianer
 ---
 
-# Aquarianer
+
 
 Die Heimatwelt der Aquarianer ist Aquarius, ein Wasserplanet, auf dem es ist weit und breit kein Festland gibt. Trotzdem haben sich auf Aquarius intelligente Spezies entwickelt, die gemeinhin als Aquarianer bezeichnet werden. Sie bereisen den Weltraum mit großen, runden Meeresschiffen und besiedeln auch andere Wasserplaneten. Da sich die Aquarianer aus unterschiedlichsten Wassertieren entwickelt haben, sind sie grundverschieden und auch weit davon entfernt als eine Einheit aufzutreten.
 

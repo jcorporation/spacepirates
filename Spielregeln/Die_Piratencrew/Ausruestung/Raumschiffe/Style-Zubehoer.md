@@ -5,7 +5,7 @@ title: Style-Zubehör
 order: /004
 ---
 
-# Style-Zubehör
+
 
 | Zubehör | Kosten |
 | ------- | -----: |

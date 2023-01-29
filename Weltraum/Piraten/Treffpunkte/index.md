@@ -4,7 +4,7 @@ permalink: /Weltraum/Piraten/Treffpunkte/
 title: Piratentreffpunkte
 ---
 
-# Piratentreffpunkte
+
 
 Natürlich besitzen die SpacePirates auch mehr oder minder geheime Treffpunkte. Hier werden nur die größten und bekanntesten aufgeführt, aber es gibt natürlich noch viel, viel mehr.
 

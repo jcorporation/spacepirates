@@ -59,7 +59,7 @@ sitedata:
             Zaehigkeit: "4"
 ---
 
-# Verrückte Wissenschaftler
+
 
 Hier werden die größten und verrücktesten Genies und Wissenschaftler des SpacePirates-Universums vorgestellt. Glücklicherweise sind die meisten so verwirrt und in ihre Arbeit vertieft, dass sie gar nicht auf die Idee kommen, die Weltherrschaft anzustreben, aber darauf verlassen sollte man sich natürlich nicht.
 

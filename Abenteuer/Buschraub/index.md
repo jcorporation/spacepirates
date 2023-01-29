@@ -4,7 +4,7 @@ permalink: /Abenteuer/Buschraub/
 title: Buschraub
 ---
 
-# Buschraub
+
 
 Die Piraten bekommen von einem Strohmann des SWIP den Auftrag, einen extrem seltenen Busch zu besorgen, der auf einem Planeten in einer Sperrzone wächst. Aber es ist natürlich nicht so einfach, den Busch zu besorgen, und vor allem: Was will das SWIP mit dem Busch? Aber nicht nur die SWIP ist auf der Suche, sondern auch die JCTech IAG.
 

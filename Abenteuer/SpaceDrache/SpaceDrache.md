@@ -4,7 +4,7 @@ permalink: /Abenteuer/SpaceDrache/SpaceDrache
 title: SpaceDrache
 ---
 
-# SpaceDrache
+
 
 Der SpaceDrache erinnert an einen typischen Drachen aus alten Fantasygeschichten. Er ist reptilienartig, besitzt vier Klauen, zwei mächtige Flügel und extrem harte Schuppen, denen eine normale Laserpistole nichts anhaben kann. Aber einige Teile an ihm sind nicht organisch, so dass er wie ein Drachencyborg aussieht. Die Klauen scheinen aus Metall zu sein und die typischen Schwachstellen eines Drachen sind mit Metallplatten geschützt, die kleinen Düsen an seinen Flügeln ermöglichen es ihm auch durch den luftleeren Raum zu fliegen. Der Drache ist intelligent, obwohl das Marric nicht beabsichtigt hatte, kann reden und er verfügt über ein extrem gutes Gehör.
 

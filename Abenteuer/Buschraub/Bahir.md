@@ -18,7 +18,7 @@ sitedata:
             Position: ""
 ---
 
-# Bahir
+
 
 Bahir ist nicht schwer zu finden, nur die Reise ist weit. Er lebt auf einem kleinen Mond im System Epsilon Canabis, das sich weit (100 Lichtjahre) hinter Freeport befindet.
 

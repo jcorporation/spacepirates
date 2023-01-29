@@ -4,7 +4,7 @@ permalink: /Ideenhalde/Orte/
 title: Interessante Orte
 ---
 
-# Interessante Orte
+
 
 Hier werden bemerkenswerte Orte des SpacePirates Universums gesammelt.
 

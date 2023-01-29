@@ -4,7 +4,7 @@ permalink: /Weltraum/Aliens/Atlanter/Stadtschiffe
 title: Stadtschiffe
 ---
 
-# Stadtschiffe
+
 
 Da die Atlanter sehr heimatverbunden sind, aber trotzdem das Universum erforschen wollten, haben sie die riesigen Stadtschiffe ersonnen. Für diese werden zumeist kleinere Kontinente oder größere Inseln aus Planeten herausgelöst und mit atlantischer Technik weltraumtauglich aufgerüstet. Auf der Oberseite eines Stadtschiffs befindet sich entsprechend eine natürliche Landschaft mit Weideflächen, Wäldern, Wasserflächen und der eigentlichen Stadt. Auf der Unterseite, die stets spitz zuläuft, befinden sich die technischen Anlagen, inklusive redundanter Antivakuumkraftfelder, Schutzschilde, Waffensysteme, Lebenserhaltung, Wetterkontrolle und natürlich des FTL-Antriebs.
 

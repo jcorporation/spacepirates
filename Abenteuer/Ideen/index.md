@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/
 title: Abenteuerideen
 ---
 
-# Abenteuerideen
+
 
 Hier sind Ideen gesammelt, die zu Abenteuer weiterentwickelt werden können.
 

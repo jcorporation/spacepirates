@@ -4,7 +4,7 @@ permalink: /Abenteuer/Blumenkind/SpaceHippies
 title: SpaceHippies
 ---
 
-# SpaceHippies
+
 
 Die SpaceHippies sind schon länger an der Blumenkind interessiert, konnten sie aber bisher noch nicht finden. Sie haben auch keine Ahnung, das Sunflower von Doradus kommt und den Schlüssel zur Blumenkind hat. Die Karte der Piraten ist ihre heißeste Spur.
 

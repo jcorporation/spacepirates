@@ -17,7 +17,7 @@ sitedata:
             Politisches: ""
 ---
 
-# AbuXabi
+
 
 AbuXabi ist die Raumstation von Oman, dem amtierenden Sultan der SpaceWorms. Diese Raumstation befindet sich in der Nähe des Katpar-Wurmlochs und ist die prächtigste aller SpaceWorm-Raumstationen.
 

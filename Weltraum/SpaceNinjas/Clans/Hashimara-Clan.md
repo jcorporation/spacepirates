@@ -16,7 +16,7 @@ sitedata:
             Kategorie: Ninja-Clan
 ---
 
-# Hashimara-Clan
+
 
 Die Hashimara gehören zu den größten und ältesten Clans. Zudem sind sie auch zum führenden Anbieter im Pizzagewerbe aufgestiegen, was wohl nicht nur durch ihre durchaus leckeren Pizzen zu begründen ist. Sie betreiben nicht nur Pizzafabriken, sondern auch einen Lieferservice, der sogar andere Pizzerien beliefert. Außerdem bieten sie die sehr beliebte Pizzabotenversicherung für Marktbegleiter an, manche nennen es auch Schutzgelderpressung. Ihre Pizzaboten sind natürlich nicht nur schnelle Radfahrer, die mit ihrem BMX auch jeden Wettkampf gewinnen würden, sondern auch ausgebildete Ninjas, die vom Fahrrad aus besser kämpfen als manch anderer auf festem Boden. In ihren Händen wird sogar eine Familienpizza zu einer tödlichen Waffe.
 

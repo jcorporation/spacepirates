@@ -34,7 +34,7 @@ sitedata:
             Niederlassungen: ""
 ---
 
-# Währungen und Banken
+
 
 ## Währung
 

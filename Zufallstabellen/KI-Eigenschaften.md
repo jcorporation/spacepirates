@@ -17,7 +17,7 @@ sitedata:
         - "Kommt nicht zum Punkt"
 ---
 
-# Eigenschaft einer KI
+
 
 Hier kann ausgewürfelt werden, wie sich eine KI gegenüber den Spielercharakteren verhält.
 

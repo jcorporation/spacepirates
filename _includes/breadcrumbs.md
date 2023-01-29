@@ -14,6 +14,9 @@
       {% assign link = link | append: l | append: "/" %}
     {% endfor %}
     {% assign title = site.data.sitemap[link].title %}
+    {% if title == null %}
+      {% assign title = crumb | replace: '_', ' ' %}
+    {% endif %}
     <a class="breadcrumb-item link-dark text-decoration-none" href="{{ site.baseurl }}{{ link }}">{{ title }}</a>
   {% endif %}
 {% endfor %}

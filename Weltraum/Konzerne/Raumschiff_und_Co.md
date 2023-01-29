@@ -15,6 +15,6 @@ sitedata:
                 - "Stratum Nova"
 ---
 
-# Raumschiff & Co.
+
 
 Raumschiff & Co. ist der größte Raumschiffhersteller der Föderation. Neben Raumschiffen entwickelt, produziert und vertreibt der Konzern auch Raumstationen und Habitate. Die Zentrale dieses intergalaktischen Konzerns liegt auf dem Planeten Sisbert, der sich in der Nähe der Freihandelszone befindet. Der Konzern hat mittlerweile den ganzen Planeten gekauft und agiert auf diesem wie eine Regierung. Raumschiff & Co. hat einen großen Einfluss auf den galaktischen Handelsrat und ist der offizielle Ausstatter der Föderationsflotte.

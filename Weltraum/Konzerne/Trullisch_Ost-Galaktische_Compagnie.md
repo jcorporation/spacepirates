@@ -13,7 +13,7 @@ sitedata:
             Niederlassungen: ""
 ---
 
-# Trullisch Ost-Galaktische Compagnie
+
 
 Die Trullisch Ost-Galaktische Compagnie war ursprünglich ein loser Zusammenschluss trullischer Händler, die mit abgelegenen Planeten und Stationen im östlichen Bereich der Galaxis handelten. Im Laufe der Zeit entwickelte sie sich allerdings zu einem straff organisierten Orden unter Führerschaft der trullischen Priesterschaft. Während der Zeit der Schismen konnte sich die Compagnie zwar aus der Abhängigkeit vom Klerus befreien, ist aber nach wie vor zur Hälfte Handelsunternehmen, zur Hälfte religiöser Orden.
 

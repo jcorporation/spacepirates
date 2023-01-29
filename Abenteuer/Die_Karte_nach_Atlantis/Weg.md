@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Weg
 title: Der Weg
 ---
 
-# Der Weg
+
 
 Die Karte führt die Piratencrew zu Koordinaten, die sich inmitten der Raumzeitverschiebung befindet. Fliegt das Raumschiff in diese, wird auf folgender Tabelle gewürfelt, um zu sehen, was geschieht.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Buschraub/Sperrzone
 title: Sperrzone
 ---
 
-# Sperrzone
+
 
 Die Sperrzone ist schnell gefunden, sie befindet sich zwischen dem Trullimperium und Samara an der Ecke zur neutralen Zone und hat einen Durchmesser von 25 Lichtjahren. Natürlich ist die Sperrzone gesichert; rund um die Sperrzone befinden sich in kleinen Abständen kleine intelligente Raumbojen, die rot blinken.
 

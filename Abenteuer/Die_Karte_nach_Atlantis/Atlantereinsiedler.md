@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler
 title: Atlantereinsiedler
 ---
 
-# Atlantereinsiedler
+
 
 Ein uralter verwirrter atlantischer Einsiedler namens Kritias soll auf dem kleinen Planeten Bharani 8 inmitten der BadPlanets leben. Dieser Planet ist über eine Hängebrücke mit einem größeren Dschungelmond verbunden, auf dem wilde Kannibalen leben.
 

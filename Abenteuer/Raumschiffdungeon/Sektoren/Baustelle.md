@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Baustelle
 title: Baustelle
 ---
 
-# Baustelle
+
 
 - **Wurmlochdemodulatorteil:** Modulationseinheit
 

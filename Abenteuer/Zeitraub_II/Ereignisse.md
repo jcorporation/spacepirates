@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub_II/Ereignisse
 title: Ereignisse
 ---
 
-# Ereignisse
+
 
 Das Abenteuer spielt nach dem Abenteuer „Zeitraub“. Die Charaktere haben das Zeitmaschinenteil gestohlen und bei Jangba abgeliefert. Da sie die Warnung der Marmonen nicht beachtet haben, sind diese verärgert.
 

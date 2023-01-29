@@ -5,7 +5,7 @@ title: Waffen
 order: /000
 ---
 
-# Waffen
+
 
 Je höher der Schadensmodifikator (kurz SM) ist, umso mehr Schaden verursacht die Waffe.
 

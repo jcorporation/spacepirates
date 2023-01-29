@@ -211,7 +211,7 @@ sitedata:
             Bewaffnung: keine
 ---
 
-# Wagonische Königsfamilie
+
 
 Die wagonische Königsfamilie ist die vermutlich älteste Monarchie der Galaxis. Seit 300 Jahren sitzt Königin Elisabeth auf dem wagonischen Thron und denkt gar nicht daran abzutreten, sie ist für ihr Alter auch noch erstaunlich robust und agil. Ihr legitimer Nachfolger ist Kronprinz Wagonion, der jetzt schon über 50 Jahre auf die Nachfolge wartet. Es gibt Gerüchte, er habe schon das eine oder andere unternommen, um den Rücktritt der Königin zu beschleunigen. Das Schmuckstück der Königsfamilie ist, neben den Kronjuwelen, Prinzessin Lea, die als eine der schönsten Wagonen des Universums gilt. Sie ist die typische, gelangweilte Prinzessin, die es nur nervt, dass ihr das halbe Universum zu Füßen liegt.
 

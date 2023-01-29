@@ -4,7 +4,7 @@ permalink: /Spielregeln/Abenteuer_erleben/Raumschiffe/
 title: Raumschiffe
 ---
 
-# Raumschiffe
+
 
 Dieser Abschnitt beschreibt die Besonderheiten von Raumflügen und -kämpfen und auch wie sich die Macken von gebrauchten Raumschiffen auswirken.
 

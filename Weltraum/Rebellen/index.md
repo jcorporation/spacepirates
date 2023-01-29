@@ -22,7 +22,7 @@ sitedata:
             Position: "Rebellenanführer"
 ---
 
-# Rebellen
+
 
 - [Alastor]({{ site.baseurl }}/Weltraum/Rebellen/Alastor)
 

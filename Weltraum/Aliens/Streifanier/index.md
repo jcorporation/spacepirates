@@ -10,7 +10,7 @@ sitedata:
             Heimatplanet: Streif
 ---
 
-# Streifanier
+
 
 - **Heimatplanet:** [Streif]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/Streif)
 

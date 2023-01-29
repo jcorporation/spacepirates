@@ -13,7 +13,7 @@ sitedata:
             Niederlassungen: ""
 ---
 
-# Spacewood-Klinik
+
 
 Die Spacewood-Klinik gilt als das mit Abstand beste Allgemeinklinikum im Universum, besonders die Chirurgie hat einen extrem guten Ruf. Die Klinik liegt inmitten des Spacewood-Forest am Rand des föderierten Sektors, ein Gebiet mit extrem vielen idyllischen Waldplaneten und mittlerweile ein Naturschutzgebiet.
 

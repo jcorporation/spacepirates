@@ -4,7 +4,7 @@ permalink: /Abenteuer/Buschraub/SWIP
 title: SWIP
 ---
 
-# SWIP
+
 
 Das SWIP ist der geheime Auftraggeber der Piraten und Herr Schmidtz nur ein Strohmann, allerdings weiß das SWIP nichts von seiner Nebenbeschäftigung bei der JCTech IAG.
 

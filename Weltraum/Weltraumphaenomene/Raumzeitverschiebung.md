@@ -23,7 +23,7 @@ sitedata:
         - "Außerhalb des Raumschiffs ist alles [W100] mal kleiner."
 ---
 
-# Raumzeitverschiebung
+
 
 Die Raumzeitverschiebung in der Neutralen Zone ist mit einem Umfang von 30 × 40 Lichtjahren die größte ihrer Art. Sie tauchte vor etwa 600 Jahren auf und wuchs anfangs dramatisch schnell, inzwischen hat sie sich aber stabilisiert. Sie leuchtet im gesamten messbaren Farbspektrum und schwemmt aus ihrem Zentrum unregelmäßig elektronischen Schrott an.
 

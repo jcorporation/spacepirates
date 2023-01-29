@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff
 title: Atlantisches Forschungsschiff
 ---
 
-# Atlantisches Forschungsschiff
+
 
 Angeblich sucht derzeit ein atlantisches Forschungsschiff nach Ruinen im Bereich der Bad Planets. Dieses ist genauso schwierig zu finden wie der Einsiedler.
 

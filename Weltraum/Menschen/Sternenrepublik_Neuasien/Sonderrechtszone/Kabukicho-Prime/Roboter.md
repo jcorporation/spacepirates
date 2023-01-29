@@ -10,7 +10,7 @@ sitedata:
             Kategorie: Gewerkschaft
 ---
 
-# Roboter
+
 
 Roboter sind in [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio) allgegenwärtig, ohne sie wäre die Stadt nicht sie selbst. Man sieht sie überall: Sie reinigen Straßen und Gehwege, bewachen Geschäfte, tragen Gepäck und Waren oder geben Auskunft. Die Roboterbegeisterung ist so groß, dass oftmals lebendige Arbeiter als Roboter verkleidet werden, wenn der Einsatz echter Roboter zu teuer wäre. Richtige Menschen sieht man eigentlich nur in Position, wo es auf Empathie oder gutes Aussehen ankommt.
 

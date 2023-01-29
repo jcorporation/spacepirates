@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Heimatplanet der Trull"
 ---
 
-# Trullmania
+
 
 Der Planet Trullmania besteht größtenteils aus Sand- und Felswüste sowie großen salzigen Ozeanen. Hier fühlen sich die Trull heimisch. Sie waren schon immer ein Nomaden- und Händlervolk und haben sich dieses Erbe auch in der modernen Zeit bewahrt. Auf ganz Trullmania sind kleine Städte und Raumhäfen verstreut. Klassische Nomaden gibt es auf dem Planeten nicht mehr, dafür aber viele interstellare Händler.
 

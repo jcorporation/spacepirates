@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Nazis
 title: Nazis
 ---
 
-# Nazis
+
 
 - **Wurmlochdemodulatorteil:** Sender
 

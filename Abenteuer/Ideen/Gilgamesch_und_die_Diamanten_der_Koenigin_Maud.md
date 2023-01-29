@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Koenigin_Maud
 title: Gilgamesch und die Diamanten der Koenigin Maud
 ---
 
-# Gilgamesch und die Diamanten der Königin Maud
+
 
 Wie wäre es, wenn die SpacePirates gegen fiese Skorpionmenschen von der SSP (Sumerian Space Ship) Gilgamesch antreten müssen, um die sagenhaften Diamanten von Königin Maud zu finden?
 

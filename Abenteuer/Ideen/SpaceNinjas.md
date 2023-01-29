@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/SpaceNinjas
 title: SpaceNinjas Abenteuerideen
 ---
 
-# SpaceNinjas Abenteuerideen
+
 
 Eine kleine Sammlung von Abenteuerideen, die im Dunstkreis der SpaceNinjas spielen. Sie können entweder in bestehende Abenteuer als Nebenstrang eingefügt oder zu eigenständigen Abenteuern ausgearbeitet werden.
 

@@ -18,7 +18,7 @@ sitedata:
             Position: ""
 ---
 
-# Der Einstieg
+
 
 Nachdem die Charaktere von einer längeren Reise ohne Starnet Zugang wieder auf Two-Eyed-Jack eintreffen, spricht sie der alternden Spacepear Piraten Noh Frut an. Er bietet ihnen einen Deal an. Er hat vor kurzem bei einem Glücksspiel die Karte zum legendären Schatz von Menkar gewonnen. Da er keine eigene Piratencrew mehr besitzt will er mit den Piraten auf sein letztes großes Abenteuer gehen. Er bietet die Hälfte des Schatzes als Heuer an. Der ursprüngliche Besitzer der Karte glaubt der alten Legende nicht und hat die Karte daher leichtfertig verspielt.
 

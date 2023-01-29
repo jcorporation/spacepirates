@@ -7,7 +7,7 @@ keyords:
 title: SpaceWorm-Improvement-Project
 ---
 
-# SpaceWorm-Improvement-Project
+
 
 Das SpaceWorm-Improvement-Project, oder kurz SWIP, ist ein langjähriges und extrem geheimes Projekt, das direkt dem Sultan untersteht und nur ihm berichtet. Ziel des Projekts ist es, durch den Einsatz von bewusstseinserweiternden Drogen die nächste Existenzstufe zu erreichen und so endlich mit den Syonern gleichzuziehen. Dazu wurde eine völlig neue Raumstation namens BigBong im Niemandsland des Universums erbaut. Die Zentrale des Projekts befindet sich im oberen Teil der Raumstation innerhalb des Palastes. Kalif Kulwa ist nicht nur Kalif, sondern auch der Leiter dieses hochgeheimen Projekts.
 

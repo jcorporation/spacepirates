@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub/Uebersicht
 title: Übersicht
 ---
 
-# Übersicht
+
 
 ## Der Auftrag
 

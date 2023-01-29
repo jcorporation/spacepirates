@@ -4,7 +4,7 @@ permalink: /Spielregeln/Spielleiter/Abenteuer_erstellen/
 title: Abenteuer erstellen
 ---
 
-# Abenteuer erstellen
+
 
 In diesem Kapitel geht es darum, wie man als Spielleiter am besten ein Abenteuer für SpacePirates erstellt und es niederschreibt. Wichtig dabei ist, dass man die Ergebnisse von Szenen offen lässt und mehrere Richtungen berücksichtigt, die das Abenteuer durch die Spielerideen und den Ausgang von Szenen nehmen kann. Natürlich wirst du beim Schreiben des Abenteuers nie alle Optionen berücksichtigen können, daher ist es wichtig eine Basis aufzubauen, auf der du im Spiel improvisieren kannst, und keine komplette Geschichte zu schreiben.
 

@@ -18,7 +18,7 @@ sitedata:
             Position: ""
 ---
 
-# Nachforschungen
+
 
 ## Informationen der angreifenden Ninjas
 

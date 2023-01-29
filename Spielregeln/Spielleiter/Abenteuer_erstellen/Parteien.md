@@ -5,7 +5,7 @@ title: Parteien
 order: /002
 ---
 
-# Parteien
+
 
 In einem Abenteuer gibt es immer verschiedene Parteien mit unterschiedlichen Zielen. Die Parteien sind das wichtigste in deinem Abenteuer, denn sie lassen es erst lebendig werden. Durch die Ziele der Parteien und ihre Handlungen ergeben sich im Abenteuer die Konflikte, die es erst spannend und aktionsreich werden lassen. Die wichtigste Partei ist natürlich immer die Gruppe der Spielercharaktere, um sie dreht sich das Abenteuer.
 

@@ -14,7 +14,7 @@ sitedata:
             Heimatplanet: Erde
 ---
 
-# Die Föderation
+
 
 - **Heimatplanet:** [Erde]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Erde)
 - **Botschaftsplanet:** [Neusirius]({{ site.baseurl }}/Weltraum/Freihandelszone/Neusirius)

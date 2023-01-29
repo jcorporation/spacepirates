@@ -4,7 +4,7 @@ permalink: /Weltraum/Aliens/Glukorianer/Glutulhu/Rache
 title: Glutulhus Rache
 ---
 
-# Glutulhus Rache
+
 
 Nachdem sich die Glukorianer zurückgezogen haben, um der zerstörerischen Implosion der Raumzeitverschiebung zu entgehen, kehren sie zurück und treffen seit Jahrtausenden erstmals wieder auf ihren Schöpfer Glutulhu. Das glukorianische Imperium hat sich seit gefühlter Ewigkeit auf dieses Treffen vorbereitet und überall warten gigantische Schlachtkreuzer mit bis an die Zähne bewaffneten Glukorianerkriegern darauf, in die Schlacht zu ziehen. Sie haben eine gewaltige Armee aufgebaut, die nur noch von Glutulhu selbst in den Schatten gestellt wird.
 

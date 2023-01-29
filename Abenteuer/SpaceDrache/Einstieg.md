@@ -4,7 +4,7 @@ permalink: /Abenteuer/SpaceDrache/Einstieg
 title: Einstieg
 ---
 
-# Einstieg
+
 
 Es gibt zwei Varianten für den Einstieg in dieses Abenteuer:
 

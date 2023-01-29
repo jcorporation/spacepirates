@@ -5,7 +5,7 @@ title: Schilde
 order: /001
 ---
 
-# Schilde
+
 
 Schilde schützen das Raumschiff vor Schadenspunkten und sind überlebenswichtig. Ein Raumschiff kann immer nur mit einem Schild ausgestattet sein.
 

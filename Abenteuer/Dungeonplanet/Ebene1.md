@@ -4,7 +4,7 @@ permalink: /Abenteuer/Dungeonplanet/Ebene1
 title: Ebene 1
 ---
 
-# Ebene 1
+
 
 <img alt="Dugeon Ebene 1" src="{{ site.baseurl }}/assets/images/abenteuer/dungeonplanet/ebene1-web.png"/>
 

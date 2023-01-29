@@ -4,7 +4,7 @@ permalink: /Weltraum/SpaceNinjas/
 title: SpaceNinjas
 ---
 
-# SpaceNinjas
+
 
 - [Ninja-Clans]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/)
 

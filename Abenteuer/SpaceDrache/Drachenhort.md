@@ -4,7 +4,7 @@ permalink: /Abenteuer/SpaceDrache/Drachenhort
 title: Drachenhort
 ---
 
-# Drachenhort
+
 
 Der Spacedrache hat sich zwischen dem weißen Loch und den Plasmastürmen einen Drachenhort eingerichtet. Dieser liegt auf dem 4. Planeten des Doppelsternensystems Sigma 9. Zwischen den Planeten treiben zerstörte Raumschiffe, sie sind angekokelt und zerfetzt.
 

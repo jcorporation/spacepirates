@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel
 title: Oma Binkel
 ---
 
-# Oma Binkel
+
 
 Oma Binkel ist eigentlich eine ganz normale alte Dame, die auf Free Port ein rustikales Caf&eacute; betreibt. Nebenberuflich ist sie aber auch eine der berüchtigsten Giftmüllschmugglerinnen der Galaxis. Entsprechend hat Beziehungen zu vielen Großunternehmen und daher bestimmt auch Möglichkeiten, etwas durchrechnen zu lassen. Allerdings ist sie eine skrupellose Geschäftsfrau, wenn sie einen Gefallen tut, verlangt sie einen größeren Gefallen als Gegenleistung.
 

@@ -4,7 +4,7 @@ permalink: /Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen
 title: Atlanter vs Spaceamazonen
 ---
 
-# Atlanter vs Spaceamazonen
+
 
 Die Feindschaft zwischen den Spaceamazonen und den Atlantern währt schon so lange, dass keine der beiden Parteien sich an eine Zeit des Friedens erinnern kann. Welcher Anlass zu diesem, scheinbar ewigen Krieg, geführt hat, ist in Vergessenheit geraten. Es gibt vereinzelte Gerüchte, dass ursprünglich die Atlanter und die Spaceamazonen friedlich auf demselben Planeten gewohnt haben, bis die Atlanter die Spaceamazonen zu Unrecht verbannt haben.
 

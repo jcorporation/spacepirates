@@ -26,7 +26,7 @@ sitedata:
             Position: ""
 ---
 
-# Neu-Neo-Tokio
+
 
 Neu-Neo-Tokio nimmt knapp ein Drittel der Landmasse [Kabukicho-Primes]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/) ein und ist damit die größte Stadt des Planeten und einer der größten Städte des Universums. Das Stadtbild wird von gigantischen Wolkenkratzern und neonfarbener Leuchtreklame dominiert, daneben gibt es aber auch Pagoden im traditionellen Stil. Die Stadt verändert ständig ihr Aussehen, was nicht nur an Immobilienspekulanten und Bauunternehmern liegt, sondern auch (und vor allem) an den regelmäßig einfallenden [Riesensauriern]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Dinosaurier). Zur Abwehr dieser Saurier werden bevorzugt [Riesenroboter]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Roboter) eingesetzt, für welche die Kabukichaner ein besonderes Faible hegen. (Wie zu erwarten gibt es Tausende von Möglichkeiten, auf den Ausgang des Kampfes zu wetten &ndash; und gelegentlich auch Versuche, die Wetten zu manipulieren&hellip;).
 

@@ -5,7 +5,7 @@ title: In der Quantenfluktuation
 order: 04
 ---
 
-# In der Quantenfluktuation
+
 
 In welche der beiden Quantenfluktuationen die Charaktere fliegen ist herzlich egal, da sie miteinander verschränkt sind und daher ohne Zeitverzug immer exakt das gleiche geschieht.
 

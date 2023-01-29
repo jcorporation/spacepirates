@@ -4,7 +4,7 @@ permalink: /Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg
 title: Einstieg
 ---
 
-# Einstieg
+
 
 Die Piraten durchstreifen gerade einen Meteoritengürtel in der Nähe der kapitalistischen Sonderrechtszone Neuasiens, also sie plötzlich aus zwei Richtungen unter Beschuss geraten. Zwei Spaceflitzer nähern sich aus entgegengesetzten Richtungen und feuern auf sie! Beim Ausweichversuch gerät das Piratenschiff zu allem Überfluss in den Weg eines Pizzalieferraumschiffs, welches daraufhin die Spur verliert, einen Meteoriten rammt und qualmend liegen bleibt.
 

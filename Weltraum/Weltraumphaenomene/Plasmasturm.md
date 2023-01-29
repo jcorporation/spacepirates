@@ -12,6 +12,6 @@ sitedata:
             Politisches: ""
 ---
 
-# Plasmasturm
+
 
 Plasmastürme sind gewaltige Stürme aus Plasma. Nur extrem geschützte Raumschiffe können auch nur in den Randbereich eines Plasmasturms vordringen, ohne sofort geschmolzen zu werden.

@@ -4,7 +4,7 @@ permalink: /Weltraum/Aliens/Glukorianer/Glutulhu/Glutulhu
 title: Glutulhu
 ---
 
-# Glutulhu
+
 
 Die Glukorianer ähneln Glutulhu stark, nur ist Glutulhu ungleich gewaltiger, größer als die Erde. Er ist von leicht durchscheinender schwarzer, extrem schleimiger Gestalt und seine unzähligen Tentakel können ganze Schlachtkreuzer und Planeten zermalmen. In seiner Nähe verdorrt jede Pflanze, selbst das Licht der Sterne wird von ihm verschluckt. Er verkörpert das pure Chaos.
 

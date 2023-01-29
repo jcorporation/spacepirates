@@ -21,7 +21,7 @@ sitedata:
 
 ---
 
-# Hells Place
+
 
 Mit Hells Place besitzen die [SpaceAngels]({{ site.baseurl }}/Weltraum/SpaceRocker/SpaceAngels/) ihre eigene Rockerkneipe im Asteroidengürtel des weißen Lochs. Ihr Logo prangt über dem Eingang der Kneipe, vor dem immer Dutzende von SpaceBikes stehen. Die Kneipe selber ist dunkel und miefig. Es läuft laute Rockmusik, zu der auf Podesten heiße Go-go-Girls ihre Hüften schwingen. Neben den Tischen und der Bar gibt es auch einige Billardtische, Flipper, Dartbretter und Spielautomaten. Die große Attraktion ist aber die Showbühne, auf der die kleine Rockband der SpaceAngels auftritt. Die Einrichtung ist stabil und rustikal, da auch innerhalb der [SpaceAngels]({{ site.baseurl }}/Weltraum/SpaceRocker/SpaceAngels/) kleinere Kneipenschlägereien an der Tagesordnung sind. Geführt wird die Bar von Tsagul.
 

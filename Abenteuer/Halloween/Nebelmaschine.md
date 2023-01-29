@@ -4,7 +4,7 @@ permalink: /Abenteuer/Halloween/Nebelmaschine
 title: Nebelmaschine
 ---
 
-# Nebelmaschine
+
 
 Die gigantische Nebelmaschine ist im Inneren des Planeten untergebracht. Es führen nur geheime Wartungsschächte bzw. die Öffnung des Mundes zu dieser Maschine. Allerdings ist es unklug über den Mund zur Maschine vorzudringen, da man unweigerlich im Inneren der Maschine landet.
 

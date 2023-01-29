@@ -4,7 +4,7 @@ permalink: /Abenteuer/Halloween/Zentrum
 title: Zentrum des Nebels
 ---
 
-# Zentrum des Nebels
+
 
 Im Zentrum des Nebels befindet sich eine Raumstation die in einen kleinen Planeten in der Form eines großen Halloweenkürbisses integriert ist. Von dieser Plattform aus starten auch die kleinen SpaceKürbisse, die den Piraten am Anfang des Abenteuers zugesetzt haben. Aus dem mit grotesken Zähnen besetzten Mund strömt ein dichter Nebel. Dies scheint die Quelle des Nebels zu sein.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/SpaceDrache/Ende
 title: Ende
 ---
 
-# Ende
+
 
 Es gibt einige Möglichkeiten wie das Ende des Abenteuers verlaufen kann, je nachdem wie sich die Charaktere entscheiden.
 

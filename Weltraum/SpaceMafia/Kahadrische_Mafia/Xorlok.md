@@ -21,7 +21,7 @@ sitedata:
             Politisches: "neutraler Planet"
 ---
 
-# Xorlok
+
 
 Xorlok liegt in einem dichten Nebel, in dem alle Sensoren versagen, im Bereich der BadPlanets. Daher ist er kaum zu finden, wenn man nicht seine genauen Koordinaten kennt. Xorlok ist ein tropischer Planet mit einer gigantischen Stadt gleichen Namens, die von der kahadrischen Mafia als Hauptstützpunkt gegründet worden ist. Da der Planet in einer politisch neutralen Zone liegt, hat er schnell auch andere finstere Gesellen angelockt, die vom Handelsrat gesucht werden. Aber nach wie vor wird er von der kahadrischen Mafia beherrscht. Xorlock ist der größte Umschlagplatz der verbotenen Tintenfischkringel, die hier auch produziert werden.
 

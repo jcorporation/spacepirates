@@ -23,7 +23,7 @@ sitedata:
             Kategorie: Verein
 ---
 
-# Kabukicho-Prime
+
 
 - [Neu-Neo-Tokio]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio)
 - [Dinosaurier]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Dinosaurier)

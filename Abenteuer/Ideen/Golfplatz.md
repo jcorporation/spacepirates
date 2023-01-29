@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/Golfplatz
 title: Golfplatz
 ---
 
-# Golfplatz
+
 
 Lion Plant plant die Erweiterung seines [interplanetaren Golfplatzes]({{ site.baseurl }}/Weltraum/Aliens/Trull/Golfplatz) und heuert die Piraten an, damit diese seine Expansionspläne unterstützen.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Laborratten/Einstieg
 title: Einstieg
 ---
 
-# Einstieg
+
 
 Die Charaktere entdecken im Trullimperium, in der Nähe der großen Plasmastürme, ein seltsames Raumschiff, dem wohl die Energie ausgegangen ist. Sie wären keine Piraten, wenn sie nicht nachschauen würden, ob man etwas wertvolles bergen kann.
 

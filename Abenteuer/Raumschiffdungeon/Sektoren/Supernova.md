@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Supernova
 title: Supernova
 ---
 
-# Supernova
+
 
 - **Wurmlochdemodulatorteil:** Parabolantenne
 

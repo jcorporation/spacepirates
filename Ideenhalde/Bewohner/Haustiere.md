@@ -4,7 +4,7 @@ permalink: /Ideenhalde/Bewohner/Haustiere
 title: Haustiere
 ---
 
-# Haustiere
+
 
 ## Alienhaustiere
 

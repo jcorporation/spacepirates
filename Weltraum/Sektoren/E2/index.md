@@ -9,7 +9,7 @@ sitedata:
             Hauptplanet: ""
 ---
 
-# Sektor E2
+
 
 Der Sektor E2 ist noch nahezu unerforscht.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Neutritiumklau/Pipeline
 title: Anzapfen der Neutritium-Pipeline
 ---
 
-# Anzapfen der Neutritium-Pipeline
+
 
 Es ist natürlich kein Problem die Pipeline zu finden und in ihre Nähe zu gelangen, da sie nur recht schwach bewacht wird und nur Wartungstrupps regelmäßig unterwegs sind. Ein Lichtjahr um die Pipeline herum sind regelmäßig Warnschilder mit automatischen Funksprüchen angebracht, die vor der Pipeline warnen. Die Pipeline selber ist auf allen vier Seiten mit roten Laserstreifen ausgestattet, damit niemand versehentlich dagegen fliegt. Alle 50 Lichtjahre sind Repeater-Pumpen angebracht um das Neutritium auf Geschwindigkeit zu halten. An diesen gibt es natürlich auch Wartungsschächte und Andockstationen für die Wartungsschiffe. Der restliche Pipelineabschnitt ist ein einfaches, glattes Rohr.
 

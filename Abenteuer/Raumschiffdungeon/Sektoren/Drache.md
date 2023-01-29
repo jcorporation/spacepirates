@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Drache
 title: Drache
 ---
 
-# Drache
+
 
 - **Wurmlochdemodulatorteil:** Modulationseinheit
 

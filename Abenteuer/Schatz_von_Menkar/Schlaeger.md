@@ -4,7 +4,7 @@ permalink: /Abenteuer/Schatz_von_Menkar/Schlaeger
 title: Die Schläger
 ---
 
-# Die Schläger
+
 
 Die sechs Schläger sind Samnesen und wie es sich für ein Kasino gehört in edlen Anzügen gekleidet. Ihr Anführer ist SM-400 und etwas kleiner, dafür aber umso fieser.
 

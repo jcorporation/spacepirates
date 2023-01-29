@@ -4,7 +4,7 @@ permalink: /Abenteuer/Weihnachten/Auftrag
 title: Auftrag
 ---
 
-# Auftrag
+
 
 Die Piraten befinden sich 5 Tage vor Weihnachten auf Two-Eyed-Jack. Die ganze Raumstation ist weihnachtlich geschmückt, aus allen Lautsprechern dröhnen die alten Weihnachtsklassiker. Auf dem stationseigenen Weihnachtsmarkt herrscht Trubel und überall wird mit Rum versetzter Glühwein feilgeboten. Sogar die leichten Damen tragen neckische Weihnachtsmannkostüme und die Papageien Rentierhörner. Überall stehen geschmückte, grell blinkende Weihnachtsbäume und kitschige Engel, Girlanden und Tannenzweige hängen von den Decken.
 

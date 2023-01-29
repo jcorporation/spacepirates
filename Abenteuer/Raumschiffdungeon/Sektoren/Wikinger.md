@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Wikinger
 title: Wikinger
 ---
 
-# Wikinger
+
 
 - **Wurmlochdemodulatorteil:** Sender
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Neutritiumklau/SpaceShell
 title: SpaceShell
 ---
 
-# SpaceShell
+
 
 SpaceShell hält das Quasimonopol auf Neutritium und ist das einzige Ziel in der Gegend um die geforderte Menge Neutritium zu erbeuten.
 

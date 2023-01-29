@@ -73,7 +73,7 @@ sitedata:
 
 ---
 
-# Händler und Halunken
+
 
 Natürlich gibt es in SpacePirates neben den großen Konzernen auch kleinere Händler und Halunken, mit denen die Piraten krumme Geschäfte abschließen können. Hier einige bekannte Halunken.
 

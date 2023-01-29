@@ -5,7 +5,7 @@ title: Beute
 order: /002
 ---
 
-# Beute
+
 
 Wie im Grundregelwerk angemerkt, bezahlen Händler für Beute nicht den vollen Preis, sondern maximal 20 % bis 30 % des Warenwerts. Je heißer die Ware ist, desto weniger werden die Charaktere dafür bekommen. Hehler lassen sich ihr Risiko gut bezahlen und die Piraten verfügen nur über wenige Möglichkeiten, ihre Ware loszuschlagen. Das ist aus Spielsicht optimal, da Millionäre wohl nicht lange Piraten blieben.
 

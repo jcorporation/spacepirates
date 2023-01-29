@@ -4,7 +4,7 @@ permalink: /Kontakt
 title: Kontakt
 ---
 
-# Kontakt
+
 
 Indem du dich zu SpacePirates äußerst, trägst du zur Entwicklung bei. Durch dein Feedback zeigst du Interesse an diesem Rollenspiel und motivierst mich, an diesem Projekt weiter zu arbeiten. Außerdem kannst du dadurch mitbestimmen, wie sich SpacePirates weiterentwickelt.
 

@@ -12,7 +12,7 @@ sitedata:
             Position: ""
 ---
 
-# Eris
+
 
 Eris wurde schon seit zwei Tagen nicht mehr gesehen. Er erschien weder auf der Arbeit noch in seinem Stammlokal Abodabi, das können die Charaktere durch etwas Herumfragen herausfinden. In der Tat wurde Eris vor zwei Tagen von Agenten der JCtech IAG aus seinem privaten Labor entführt.
 

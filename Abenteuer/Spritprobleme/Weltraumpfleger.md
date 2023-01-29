@@ -4,7 +4,7 @@ permalink: /Abenteuer/Spritprobleme/Weltraumpfleger
 title: Weltraumpfleger
 ---
 
-# Weltraumpfleger
+
 
 Ein Schiff der [Weltraumpfleger]({{ site.baseurl }}/Weltraum/Sekten/Weltraumpfleger) ist heimlich in das System eingedrungen, um zu überprüfen, ob SpaceShell sich an die Weltraumschutzrichtlinien hält, keine Weltraumtiere bedroht und die Pipeline ordnungsgemäß schützt. Sie nähern sich der Pipeline dabei niemals näher als 1,5 Megameter, sondern nutzen ihre Sensoren und eine Minisonde für die Untersuchung der Pipeline.
 

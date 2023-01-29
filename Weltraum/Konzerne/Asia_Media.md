@@ -13,7 +13,7 @@ sitedata:
             Niederlassungen: ""
 ---
 
-# Asia Media
+
 
 Asia Media (oder kurz AM) ist der größte Medienkonzern Kabukicho-Primes und sorgt mit ausgefeilten Ninja-Techniken dafür, dass das auch so bleibt. Gleichzeitig übernehmen sie im Staatsauftrag auch die Medienversorgung in der Sternenrepublik Neuasien. Im restlichen Weltall sind sie hingegen nur schlecht über Randbereichs-Frequenzen zu empfangen. Was sich aber in der nahen Zukunft durch eine aggressive Expansionspolitik ändern soll.
 

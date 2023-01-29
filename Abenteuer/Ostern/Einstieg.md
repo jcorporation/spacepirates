@@ -12,7 +12,7 @@ sitedata:
             Position: ""
 ---
 
-# Einstieg
+
 
 Die Piraten sind gerade mit ihrem Raumschiff gerade zu Gimis Bar unterwegs um dort die Osterfeiertage bei der großen Fiestas-el-Caribe Osterparty zu verbringen. Was gibt es schöneres als Ostern unter Palmen zu feiern und im Sand nach Rumostereiern zu suchen? Gimis Bar befindet sich gerade im Sektor der Föderation.
 

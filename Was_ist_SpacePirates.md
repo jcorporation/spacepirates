@@ -5,7 +5,7 @@ title: Was ist SpacePirates?
 order: /000
 ---
 
-# Was ist SpacePirates?
+
 
 SpacePirates ist ein Papier-und-Bleistift-Rollenspiel. Bei einem solchen Spiel geht es um das gemeinsame Erleben und Gestalten eines fiktiven Abenteuers, von dem vorab niemand weiß, was genau geschieht und wie es genau ausgehen wird. Daher sind die Fantasie, Spontanität und Improvisationskunst aller Beteiligten gefragt.
 

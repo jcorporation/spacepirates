@@ -16,7 +16,7 @@ sitedata:
 
 ---
 
-# Einstieg
+
 
 Die Charaktere wachen nach einer durchzechten Nacht, die in Gimis Bar begonnen hat, mit einem höllischen Kater auf. Niemand von ihnen weiß, wo sie gerade sind und wie zur Hölle sie überhaupt hierher gekommen sind. Sie liegen in einem orientalisch angehauchten Zimmer. Überall um sie herum liegen leere Rumflaschen und auf dem niedrigen Tisch in der Raummitte steht eine Bong. Sie müssen wohl eine höllische Party gefeiert und die Bong nicht ganz so gut vertragen haben.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/
 title: Raumschiffdungeon
 ---
 
-# Raumschiffdungeon
+
 
 Die Piraten reisen durchs All, als plötzlich die Sensoren ihres Raumschiffs verrückt spielen. Dadurch übersehen sie einen Ausläufer der Unwahrscheinlichkeitszone, die sie in die Mitte eines gigantischen Dungeons befördert. Hier gibt es viel zu entdecken, aber keinen einfachen Ausweg und große Gefahren.
 

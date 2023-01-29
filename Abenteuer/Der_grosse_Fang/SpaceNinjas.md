@@ -4,7 +4,7 @@ permalink: /Abenteuer/Der_grosse_Fang/SpaceNinjas
 title: SpaceNinjas
 ---
 
-# SpaceNinjas
+
 
 Die SpaceNinjas sind hinter dem Cyberaffen her um selber den großen Fang zu machen, die Piraten haben sie beim Überfall auf Ralle überrascht und nun sind die SpaceNinjas hinter den Piraten her, solange diese den Cyberaffen besitzen oder auf dem Weg zum großen Fang sind. Die SpaceNinjas können die Karte selber Entschlüsseln und benötigen keine Hilfe dazu.
 

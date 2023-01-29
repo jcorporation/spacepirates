@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Heimatplanet der Wagonen"
 ---
 
-# Xawang
+
 
 Xawang ist ein wunderschöner Planet mit einer einzigartigen Pflanzen- und Tierwelt. Da die Wagonen sich vegetarisch ernähren und zudem geborene Natur- und Tierschützer sind, ist der Planet in einem erstaunlich natürlichen Zustand, nicht zu vergleichen mit der Erde.
 

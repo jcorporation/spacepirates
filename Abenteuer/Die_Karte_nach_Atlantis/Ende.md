@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Ende
 title: Ende
 ---
 
-# Ende
+
 
 Wenn sich die Charaktere dazu entscheiden, den Atlantern die Karte zu überlassen, können sie auf Atlantis bleiben so lange sie wollen oder auch abreisen, wenn sie bereit sind, sich das Wissen über den Standort von Atlantis aus dem Gedächtnis löschen zu lassen.
 

@@ -17,7 +17,7 @@ sitedata:
             Bewaffnung: "keine"
 ---
 
-# Weihnachtsmann
+
 
 Der Weihnachtsmann sieht in der Tat so aus, wie man ihn sich vorstellt. Er hat einen dicken Bauch, einen langen grauen Bart und trägt das typische rot-weiße und kuschelige Weihnachtsmannkostüm. Sein Rufname ist einfach Santa.
 

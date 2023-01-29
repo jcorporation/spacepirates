@@ -9,7 +9,7 @@ sitedata:
             Hauptplanet: ""
 ---
 
-# Sektor D0
+
 
 Der Sektor D0 ist noch nahezu unerforscht.
 

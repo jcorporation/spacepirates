@@ -9,7 +9,7 @@ sitedata:
             Kategorie: SpaceRocker-Bande
 ---
 
-# Baneros Banditos
+
 
 Die Baneros Banditos sind eine lateinamerikanische Rockerbande. Oder vielmehr eine Rockerbande mit lateinamerikanischem Flair, denn ihr gehören alle möglichen Menschen und Außerirdischen an. Ihr Markenzeichen ist ihr übergroßer und farbenfroher Sombrero sowie ein übertriebener mexikanischer Akzent. Sie verdingen ihren Lebensunterhalt, in dem sie die gestrandeten und zerstörten Schiffe der BadPlanets plündern. Wobei nicht jedes Schiff freiwillig in die Bad Planets geflogen ist.
 

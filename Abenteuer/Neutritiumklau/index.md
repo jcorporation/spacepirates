@@ -4,7 +4,7 @@ permalink: /Abenteuer/Neutritiumklau/
 title: Neutritiumklau
 ---
 
-# Neutritiumklau
+
 
 Die Piraten werden von Stan beauftragt, eine nicht ganz unerhebliche Menge an Neutritium zu besorgen. Sie haben ein paar Alternativen an das Neutritium zu kommen. Sie können eine Neutritiumpipeline anzapfen, einen Tanker entführen oder ein Neutritiumlager überfallen. Alle drei Möglichkeiten sind natürlich nicht ungefährlich.
 

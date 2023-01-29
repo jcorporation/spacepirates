@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Nebel
 title: Nebel von Atlantis
 ---
 
-# Nebel von Atlantis
+
 
 Direkt vor dem Piratenraumschiff befindet sich der Nebel, in einiger Entfernung hinter ihnen die Raumzeitverschiebung. Sie scheinen in eine andere Zeit oder in einen weit entfernten Sektor katapultiert worden zu sein.
 

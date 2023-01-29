@@ -4,7 +4,7 @@ permalink: /Abenteuer/Weihnachten/
 title: Weihnachten
 ---
 
-# Weihnachten
+
 
 Die Piraten bekommen den Auftrag, den Weihnachtsmann sicher zur großen Weihnachtsfete auf Two-Eyed-Jack zu bringen. Natürlich ist der Auftrag nicht so einfach, wie er sich anhört, aber dafür ist die Weihnachtsfeier für die Piraten kostenlos.
 

@@ -5,7 +5,7 @@ title: Diverse Ausrüstungsgegenstände
 order: /001
 ---
 
-# Diverse Ausrüstungsgegenstände
+
 
 Hier sind nur wichtige und interessante Ausrüstungsgegenstände aufgeführt. Alltagsdinge, die keine Boni geben und nicht unbedingt Voraussetzung für eine Tätigkeit sind, müssen von den Charakteren nicht gekauft werden. Daher reicht es z.B. aus, wenn der Tech ein Universalwerkzeug – Tech kauft, ein normales Universalwerkzeug benötigt er nicht.
 

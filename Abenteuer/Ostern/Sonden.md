@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ostern/Sonden
 title: Sonden
 ---
 
-# Sonden
+
 
 Die Sonden sind die Verursacher des Osterwahnsinns auf den Planeten. Sie senden eine spezielle Strahlung aus, die alle Leute in einer Entfernung von 10.000 km langsam, aber sicher osterverrückt werden lässt.
 

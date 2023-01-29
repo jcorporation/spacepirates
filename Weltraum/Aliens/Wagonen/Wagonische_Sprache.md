@@ -4,7 +4,7 @@ permalink: /Weltraum/Aliens/Wagonen/Wagonische_Sprache
 title: Wagonisch
 ---
 
-# Wagonisch
+
 
 Wenn man bedenkt wie kompliziert die Bürokratie der Wagonen wirkt, ist *Wagonisch* erstaunlich leicht.
 

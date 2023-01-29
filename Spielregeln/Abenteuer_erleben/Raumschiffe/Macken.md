@@ -4,7 +4,7 @@ permalink: /Spielregeln/Abenteuer_erleben/Raumschiffe/Macken
 title: Macken von Raumschiffen
 ---
 
-# Macken von Raumschiffen
+
 
 Das Heimtückische an Macken ist es, dass sie nicht immer auftreten, sondern nur ab und an und fast immer zu einem recht ungünstigen Zeitpunkt. Dafür war das Raumschiff aber auch fast ein Schnäppchen.
 

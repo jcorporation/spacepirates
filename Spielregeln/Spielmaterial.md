@@ -5,7 +5,7 @@ title: Was wird alles zum Spielen benötigt?
 order: /001
 ---
 
-# Was wird alles zum Spielen benötigt?
+
 
 Für SpacePirates wird nicht vieles und auch nichts außergewöhnliches benötigt. Das komplette Material kann kostenlos heruntergeladen werden und Würfel sollten sich genügend finden lassen.
 

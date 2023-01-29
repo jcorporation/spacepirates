@@ -4,7 +4,7 @@ permalink: /Weltraum/Aliens/SpaceWorms/Raumstationen
 title: Raumstationen
 ---
 
-# Raumstationen
+
 
 Die Raumstationen der SpaceWorms besitzen alle die Form einer übergroßen Shisha und sind daher ein merkwürdiger Anblick im sonst so öden Weltraum. Sie befinden sich bevorzugt außerhalb von Sternensystemen, sind aber immer in der Nähe von Handelsrouten oder Handelsplaneten anzutreffen. Aus den Raumstationen quillt am oberen Ende ein dichter Rauch, der sich wie eine Wolke um die Raumstation legt und so An- und Abdockmanöver extrem schwierig macht, da der Rauch sogar die Sensoren behindert. Regeltechnisch bedeutet dies, dass das Andocken um 1 erschwert wird.
 

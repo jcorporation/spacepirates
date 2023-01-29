@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Botschaftsplanet der Föderation"
 ---
 
-# Neusirius
+
 
 Neusirius ist der Botschaftsplanet der Föderation und der Erde sehr ähnlich. Im Grunde findet man hier nichts, was es nicht auch auf der Erde gäbe. Er besitzt große Ozeane, einen blauen Himmel und gemäßigtes Klima. Es ist ein vollkommen durchschnittlicher Planet, der niemanden vom Hocker reißt. Die meist exzentrischen großen Händler meiden diesen langweiligen Planeten daher.
 

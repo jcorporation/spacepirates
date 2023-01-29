@@ -4,7 +4,7 @@ permalink: /Zufallstabellen/Beute
 title: Beutegenerator
 ---
 
-# Beutegenerator
+
 
 Dieses Tool generiert zufällige Gegenstände, die die Piraten erbeuten können.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Der_grosse_Fang/Einstieg
 title: Einstieg
 ---
 
-# Einstieg
+
 
 Die Piraten befinden sich im freien Raumhafen Freeport. Vielleicht haben sie eine Ladung geheimer Zutaten zu Oma Binkel gebracht, vielleicht hat aber auch etwas ganz anderes Sie nach Freeport verschlagen. In einem abgelegenen Teil des Raumhafens hören die Charaktere Kampflärm und einen Schrei, folgen sie den Geräuschen, entdecken sie einen toten Piraten, welcher kopfüber in einem Müllhaufen steckt. Bei dem Piraten handelt es sich um Rauhbein Ralle, aber scheinbar war jemand rauer als er. Er wurde getötet und ausgeraubt.
 

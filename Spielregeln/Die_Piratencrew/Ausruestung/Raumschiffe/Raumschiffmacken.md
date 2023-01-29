@@ -87,7 +87,7 @@ sitedata:
           Beschreibung: Der Autopilot spielt verrückt und macht was er will, vertauscht Rechts mit Links, usw., &minus;1 auf alle PILOT-Proben.
 ---
 
-# Raumschiffmacken
+
 
 Die Macken eines Raumschiffs werden zufällig bestimmt. Im Normalbetrieb (oder bei einer Probefahrt) treten die Macken nicht auf und auch der gewiefteste Tech sieht sie dem Schiff nicht an.
 

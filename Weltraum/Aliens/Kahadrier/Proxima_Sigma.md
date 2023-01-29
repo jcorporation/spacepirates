@@ -23,7 +23,7 @@ sitedata:
             Politisches: "Nur über das Lila Loch erreichbar"
 ---
 
-# Proxima Sigma
+
 
 Das System besteht aus zehn Gasriesen, nur der zweitinnerste Planet des Systems Proxima Sigma ist ein schroffer Wüstenplanet.
 

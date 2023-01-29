@@ -27,7 +27,7 @@ sitedata:
             Politisches: "Piratentreffpunkt"
 ---
 
-# Freeport
+
 
 Freeport ist ein freier Raumhafen am Rande der Unwahrscheinlichkeitszone, auf dem sich neben Piraten auch häufig Rebellen aufhalten. Im Gegensatz zu Two Eyed Jack lässt sich Freeport auch von großen Raumschiffen anlaufen und erinnert nicht ganz so stark an eine Müllhalde. Um seine politische Neutralität zu sichern und sich vor der Einflussnahme durch die Sternenstaaten (und große Piratenverbände) zu schützen, ist die Raumstation stark bewaffnet und unterhält eine fähige Söldnertruppe.
 

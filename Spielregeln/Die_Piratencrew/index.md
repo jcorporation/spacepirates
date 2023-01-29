@@ -5,7 +5,7 @@ title: Die Piratencrew
 order: /010
 ---
 
-# Die Piratencrew
+
 
 Dieser Abschnitt beschreibt die Erstellung von Charakteren. Hier finden sich auch die Ausrüstungslisten und die Regeln zum erstellen eines eigenen (gebrauchten) Raumschiffs.
 

@@ -13,7 +13,7 @@ sitedata:
             Position: ""
 ---
 
-# Kapitalistische Sonderrechtszone Neuasien
+
 
 In der kapitalistischen Sonderrechtszone [Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/) ist alles besser, freier, schneller, größer und kapitalistischer als in der Sternenrepublik Neuasien und den restlichen bekannten Sektoren. Hier wird nichts zensiert und reguliert, der Staat bezahlt einzig und allein die Nachtwächter &ndash; aber die braucht aufgrund der Leuchtreklame eigentlich niemand. Hier kann jeder Geschäftsmann seinen erzkapitalistischen Traum leben oder auch von jedem unbeachtet gnadenlos untergehen. Ausländische Firmen hatten es hier schon immer besonders schwer.
 

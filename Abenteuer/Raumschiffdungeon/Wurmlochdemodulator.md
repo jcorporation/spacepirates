@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/Wurmlochdemodulator
 title: Wurmlochdemodulator
 ---
 
-# Wurmlochdemodulator
+
 
 Die Piraten können den Dungeon nur verlassen, wenn sie einen Wurmlochdemodulator zusammensetzen. Dieser besteht aus drei Teilen, die im ganzen Dungeon verstreut sind. Jedes Teil gibt es zweimal, damit das Abenteuer nicht in einer Sackgasse endet, weil die Spieler etwas übersehen oder ihre Piraten an einer Hürde scheitern.
 

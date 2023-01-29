@@ -4,7 +4,7 @@ permalink: /Abenteuer/Schatzjagd/Rand
 title: Rand des Universums
 ---
 
-# Rand des Universums
+
 
 Der Rand des Universums ist ein faszinierender Anblick, der jeden gefangen hält. Das Universum scheint, einem Wasserfall ähnlich, in einen aus Nichts bestehenden Abgrund zu stürzen, um noch einmal kurz aufschäumend zu verschwinden.
 

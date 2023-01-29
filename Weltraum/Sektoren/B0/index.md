@@ -9,7 +9,7 @@ sitedata:
             Hauptplanet: ""
 ---
 
-# Sektor B0
+
 
 Der Sektor E4 ist noch nahezu unerforscht.
 

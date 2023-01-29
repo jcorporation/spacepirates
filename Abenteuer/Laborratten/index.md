@@ -4,7 +4,7 @@ permalink: /Abenteuer/Laborratten/
 title: Laborratten
 ---
 
-# Laborratten
+
 
 Die Charaktere entdecken mitten im Raum ein seltsames Raumschiff, dem wohl die Energie ausgegangen ist. Sie wären keine Piraten, wenn sie nicht nachschauen würden, ob man etwas wertvolles bergen kann…
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Neutritiumklau/Transportschiff
 title: Entführung eines Transportschiffs
 ---
 
-# Entführung eines Transportschiffs
+
 
 <table>
 <caption>Wartungsschiff</caption>

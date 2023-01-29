@@ -4,7 +4,7 @@ permalink: /Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukich
 title: Dinosaurier
 ---
 
-# Dinosaurier
+
 
 Dinosaurier sind auf [Kabukicho-Prime]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/) ein alltäglicher Anblick und vermutlich auch die einzige Tierart, die es mit der gigantischen Flora des Planeten aufnehmen kann. Es gibt sie in allen möglichen Arten, von Flugsauriern über fleischfressende Coelurosaurier bis hin zu pflanzenfressenden Sauropoden. Ganz wie die restliche Flora und Fauna sind aber auch die Dinosaurier wesentlich gefährlicher als anderswo, denn sie sind nicht nur größer als normale Dinosaurier, sondern können auch noch Plasma speien.
 

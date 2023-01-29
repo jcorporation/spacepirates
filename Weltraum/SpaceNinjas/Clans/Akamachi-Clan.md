@@ -16,7 +16,7 @@ sitedata:
             Kategorie: Ninja-Clan
 ---
 
-# Akamachi-Clan
+
 
 Die Akamachi gehören zu den kleineren und neueren Ninja-Clans. Wegen ihrer gut ausgebildeten und vor allem gut aussehenden Ninjas und ihres Faibles für Düfte sind sie allerdings trotzdem sehr berühmt. Bei ihren Attentaten hinterlassen sie stets eine bestimmte Duftnote und selbst ihre Rauchgranaten sind parfümiert. Der Clan betreibt in Neu-Neo-Tokio diverse Parfümerien und auch eigene Parfüm-Fabriken, die ins ganze Universum liefern. Wegen des Parfüms und ihres ausnahmslos guten Aussehens wird den Ninjas des Akamachi-Clans eine metro- bis homosexuelle Einstellung nachgesagt, mit der sie unter Ninjas des Öfteren aufgezogen werden. Es könnte aber auch an ihrem zwar wirkungsvollen, aber leicht tuntig wirkenden Kampfstil liegen.
 

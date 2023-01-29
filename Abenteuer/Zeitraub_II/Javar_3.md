@@ -4,7 +4,7 @@ permalink: /Abenteuer/Zeitraub_II/Javar_3
 title: Auf Javar 3
 ---
 
-# Auf Javar 3
+
 
 Auf dem Planeten befindet sich ein ganzer Trupp Söldner um Jangbas Forscher zu beschützen. Sie sind ziemlich mit den Affen beschäftigt, die immer wieder das Labor angreifen. Da Jangba wissenschaftlich interessiert ist, befindet er sich auch auf dem Planeten. Nicht alle Wissenschaftler arbeiten ganz freiwillig für Jangba.
 

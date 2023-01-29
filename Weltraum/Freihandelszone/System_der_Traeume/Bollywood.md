@@ -15,7 +15,7 @@ sitedata:
             Politisches: "Filmplanet"
 ---
 
-# Bollywood
+
 
 Der Planet Bollywood ist hoch spezialisiert. Hier werden ausschließlich extravagante, stundenlange, familiengerechte Liebesmusicals gedreht. Der ganze Planet ist dabei eine einzige riesige Stadt weißer Paläste, die als Studio dient und den Namen „Mumpitz“ trägt. Auf dem Planet Bollywood wird jährlich der Szenepreis „Bombi“ vergeben in den Kategorien „besonders exotisch“, „bunteste Tücher“, „zahlreichste Tanzeinlagen“ und „längste Überlänge“. Letztere Kategorie wird übrigens in anderem Zusammenhang auch auf dem Roten Planeten ausgelobt.
 

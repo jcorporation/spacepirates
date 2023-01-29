@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ostern/Nachforschungen
 title: Nachforschungen
 ---
 
-# Nachforschungen
+
 
 Hier ein paar Möglichkeiten, wie die Piraten auf die Spur des Osterhasen kommen, der hinter der ganzen Sache steckt.
 

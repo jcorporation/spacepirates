@@ -16,7 +16,7 @@ sitedata:
 
 ---
 
-# Neuchina
+
 
 Neuchina liegt am Rand des größten bekannten Plasmasturmfeldes. Obwohl diese Plasmastürme nachts ein tolles Schauspiel liefern, ist Neuchina keine Touristenhochburg, sondern der Hauptsitz des neuasiatischen Militärs.
 

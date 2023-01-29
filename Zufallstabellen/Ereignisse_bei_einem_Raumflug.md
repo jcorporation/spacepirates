@@ -35,7 +35,7 @@ sitedata:
         - Lagerkoller
 ---
 
-# Ereignisse bei einem Raumflug
+
 
 Diese Zufallstabelle kann genutzt werden um einen Raumflug interessanter zu gestalten.
 

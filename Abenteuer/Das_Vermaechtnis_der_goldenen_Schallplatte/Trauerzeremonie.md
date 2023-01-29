@@ -5,7 +5,7 @@ title: Trauerzeremonie
 order: 02
 ---
 
-# Trauerzeremonie
+
 
 Die Trauerzeremonie findet auf dem kleinen Friedhofsplaneten [Burial Planet]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Burial_Planet) in der Nähe von [Xawang]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Xawang) statt. Egal wo sich die Charaktere gerade aufhalten, sie haben gerade noch genügend Zeit, um pünktlich dort einzutreffen.
 

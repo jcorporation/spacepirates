@@ -4,7 +4,7 @@ permalink: /Abenteuer/Der_grosse_Fang/Reise
 title: Die Reise nach Proxima Sigma
 ---
 
-# Die Reise nach Proxima Sigma
+
 
 Es geht in das kahadrische Reich zum Lila-Loch. Hier gilt es einen Kurs direkt in das Loch zu programmieren und den konventionellen-Antrieb zu starten. Wenn alles gut geht, findet man sich nach der Reise im Proxima Sigma System, im Niemandsland des Universums, wieder. Je nachdem wie es beim alten Chinesen ausgegangen ist, könnten vor dem Lila-Loch, wieder die SpaceNinjas eingreifen.
 

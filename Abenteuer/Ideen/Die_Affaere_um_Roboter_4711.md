@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/Die_Affaere_um_Roboter_4711
 title: Die Affäre um Roboter 4711
 ---
 
-# Die Affäre um Roboter 4711
+
 
 Auf [Katpar]({{ site.baseurl }}/Weltraum/Menschen/Foederation/Katpar) boomt das Geschäft. SpaceShell baut dort das wertvolle, radioaktive Negatritium ab, das der Ausgangsstoff für Neutritium ist, das alle modernen Raumschiffe antreibt. Da Negatritium so stark radioaktiv ist, setzt SpaceShell Heerscharen von Robotern ein, um das Negatritium abzubauen. Dies ist billiger und sicherer, als Bergleute in Strahlenschutzanzügen auf dem gefährlichen Planeten Katpar operieren zu lassen.
 

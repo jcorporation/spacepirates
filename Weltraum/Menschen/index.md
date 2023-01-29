@@ -4,7 +4,7 @@ permalink: /Weltraum/Menschen/
 title: Menschen
 ---
 
-# Menschen
+
 
 Es gibt zwei große Sektoren der Menschen, die kapitalistische Föderation und die kommunistische Sternenrepublik Neuasien.
 

@@ -4,7 +4,7 @@ permalink: /Rezensionen
 title: Rezensionen, Vorstellungen und Spielberichte
 ---
 
-# Rezensionen, Vorstellungen und Spielberichte
+
 
 Hier sammle ich Rezensionen, Vorstellungen und Spielberichte zu SpacePirates.
 

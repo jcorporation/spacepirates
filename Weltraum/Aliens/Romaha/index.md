@@ -10,7 +10,7 @@ sitedata:
             Heimatplanet: ""
 ---
 
-# Romaha
+
 
 Es hat noch niemand einen Romaha getroffen, aber sie waren nachweislich schon im Universum unterwegs, lange bevor die heutigen Alienrassen ihre Heimatplaneten verließen. Es wird vermutet, dass diese großartige Alienkultur untergegangen sei, obwohl sich niemand erklären kann, was eine im ganzen Universum verbreitete Kultur auszulöschen vermag. Manche vermuten stattdessen, sie hätten diese Dimension verlassen und sich zu etwas Höherem entwickelt, einige behaupten sogar, die Romaha seien die Vorfahren der Syoner gewesen.
 

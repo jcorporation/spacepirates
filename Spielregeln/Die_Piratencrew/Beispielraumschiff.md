@@ -4,7 +4,7 @@ permalink: /Spielregeln/Die_Piratencrew/Beispielraumschiff
 title: Beispielraumschiff
 ---
 
-# Beispielraumschiff
+
 
 Dark Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nicht ganz so viel her und hat ein paar Macken; aber dafür stimmen die inneren Werte: Die Bewaffnung kann sich sehen lassen und aus dem Cabriodeck dröhnt der mächtige Hyperbass der eingebauten Stereoanlage.
 

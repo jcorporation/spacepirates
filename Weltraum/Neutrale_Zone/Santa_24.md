@@ -15,6 +15,6 @@ sitedata:
             Politisches: "Weihnachtsplanet"
 ---
 
-# Santa 24
+
 
 Es ist ein Eisplanet der schon vom Weltraum aus weihnachtlich aussieht, da er von einem großen Asteroidengürtel umgeben ist, der sehr stark an Lametta erinnert. Santa 24 kann nur zur Weihnachtszeit über das [Weihnachts-Wurmloch]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/Weihnachts-Wurmloch) erreicht werden.

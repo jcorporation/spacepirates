@@ -4,7 +4,7 @@ permalink: /Abenteuer/Raumschiffdungeon/Sektoren/
 title: Sektoren
 ---
 
-# Sektoren
+
 
 Jeder Sektor des Dungeons besteht aus einer Kugel mit einem Durchmesser von zehn Lichtjahren, eingefasst in energieabsorbierende und unzerstörbare Dunkle Materie. Sie reagiert mit keinem Material und sendet auch keine Strahlung aus und man muss aufpassen, dass man nicht einfach gegen sie fliegt, da sie die Sensoren nicht erfassen und einfach nichts anzeigen, was aber einem guten Tech oder Piloten seltsam genug vorkommt um vorsichtig zu sein.
 

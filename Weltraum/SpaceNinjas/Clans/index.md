@@ -4,7 +4,7 @@ permalink: /Weltraum/SpaceNinjas/Clans/
 title: Ninja-Clans
 ---
 
-# Ninja-Clans
+
 
 Traditionsbewusst, wie sie sind, organisieren sich Ninjas nach wie vor in Clans. Jeder Clan beherrscht sein eigenes Gebiet in Neu-Neo-Tokio, die meisten haben zudem noch geheime Ausbildungsklöster im umliegenden Dschungel. Von dort aus gehen sie nicht nur ihren klassischen Tätigkeiten wie Spionage oder Meuchelmord nach, sondern steuern auch die legalen Geschäfte, mit denen sie ihre wahren Absichten tarnen. Früher waren sie dabei vorrangig im Pizzagewerbe anzutreffen. Nachdem einige Firmen dazu übergegangen waren, aus Sicherheitsgründen sämtliche Pizzerien in ihrer Nähe zu bombardieren, haben sich die Ninjas aber auch andere Geschäftsfelder erschlossen.
 

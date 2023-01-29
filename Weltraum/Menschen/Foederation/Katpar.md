@@ -15,7 +15,7 @@ sitedata:
             Politisches: "Eigentum von SpaceShell"
 ---
 
-# Katpar
+
 
 Katpar ist ein öder, heißer Planet, der von rotem Sand und Fels bedeckt ist, hier wachsen nur sehr wenige, robuste Pflanzen. Die Atmosphäre ist zwar nicht giftig, aber auch nicht angenehm. Aufgrund der reichen Negatritiumvorkommen ist er aber dennoch ein begehrtes Ziel, denn in den von SpaceShell betriebenen Minen, Raffinerien und Bergarbeitersiedlungen können Bergarbeiter und Sicherheitspersonal gutes Geld verdienen.
 

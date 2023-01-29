@@ -4,7 +4,7 @@ permalink: /Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/
 title: Gefängnis
 ---
 
-# Das Gefängnis
+
 
 Die Gefängnistrakte befinden sich in den größten ehemaligen Minen. Die Bereiche, in denen sich Wächter aufhalten, wurden aufwendig gegen Negatritium abgeschirmt, was die Betreiber in Werbevideos auch gerne demonstrieren. Bei den Gefangenen verzichtete die Gesellschaft hingegen aus Gründen der Fürsorge auf diese Abschirmung. Der Pressesprecher betonte in anderem Zusammenhang, dass man schließlich niemandem einen unnötig langen Aufenthalt zumuten wolle. Da es sich beim Gefängnis um eine Sperrzone handelt und die Gefangenen keinen Besuch empfangen dürfen, gelang es bisher keinem Reporter, auf die Missstände aufmerksam zu machen.
 

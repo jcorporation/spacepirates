@@ -24,7 +24,7 @@ sitedata:
             Position: ""
 ---
 
-# Interessante Persönlichkeiten
+
 
 ## Kalif Kulwa
 

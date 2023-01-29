@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Eigentum der Samnesen"
 ---
 
-# Rigel 3
+
 
 Obwohl die Samnesen nicht Mitglied im Handelsrat sind, besitzen sie in der Freihandelszone einen Planeten. Rigel 3 ist, wie ihr Hauptplanet, ein verdammt heißer Felsplanet, aber im Gegensatz dazu sind hier die Vulkane noch aktiv, so dass alle Städte über der Planetenoberfläche schweben.
 

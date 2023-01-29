@@ -4,7 +4,7 @@ permalink: /Abenteuer/Wagonian_Wedding/
 title: Wagonian Wedding
 ---
 
-# Wagonian Wedding
+
 
 ## Die royale Hochzeit der Wagonen
 

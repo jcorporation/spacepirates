@@ -4,7 +4,7 @@ permalink: /Ideenhalde/Orte/Denta_4
 title: Denta 4
 ---
 
-# Denta 4
+
 
 Denta 4 ist ein Planet in Backenzahnform.
 

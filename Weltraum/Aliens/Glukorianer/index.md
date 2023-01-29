@@ -14,7 +14,7 @@ sitedata:
             Heimatplanet: Ghultar
 ---
 
-# Glukorianer
+
 
 - **Heimatplanet:** [Ghultar]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/Ghultar)
 - **Reich:** Glukorianisches Imperium

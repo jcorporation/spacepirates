@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/SpaceWorms
 title: SpaceWorms
 ---
 
-# SpaceWorms
+
 
 Dies ist eine kleine Sammlung von Abenteuerideen, die im Dunstkreis der SpaceWorms und BigBong spielen. Sie können entweder in bestehende Abenteuer als Nebenstrang eingefügt oder zu eigenständigen Abenteuern ausgearbeitet werden.
 

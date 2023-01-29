@@ -10,7 +10,7 @@ sitedata:
             Heimatplanet: "Amazon"
 ---
 
-# Spaceamazonen
+
 
 - **Heimatplanet:** [Amazon]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/Amazon)
 - [Konflikt der Atlanter und Spaceamazonen]({{ site.baseurl }}/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen)

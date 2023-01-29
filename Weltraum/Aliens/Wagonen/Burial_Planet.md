@@ -15,7 +15,7 @@ sitedata:
             Politisches: "Friedhofsplanet"
 ---
 
-# Burial Planet
+
 
 Der Planet besteht nur aus rauem Fels. An einem der Pole liegt der Raumhafen mit angeschlossenen Sälen und der Kirche. Ringsum sind große Gruften in den Fels geschlagen, in denen sich Normalsterbliche begraben lassen. Promis und Reiche lassen zu Lebzeiten prächtige Mausoleen errichten, auf die jeder Pharao neidisch wäre. Alle Gebäude werden aber vom Mausoleum der [Wagonis]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie) überragt, das per Dekret immer das höchste Gebäude sein wird.
 

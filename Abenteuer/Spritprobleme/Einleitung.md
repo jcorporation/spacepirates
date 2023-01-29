@@ -4,7 +4,7 @@ permalink: /Abenteuer/Spritprobleme/Einleitung
 title: Einleitung
 ---
 
-# Einleitung
+
 
 Die Piraten sind inmitten eines Sperrgebiets von SpaceShell gestrandet, weil ihr Neutritium-Tank leer ist – und nur Neutritiumreaktoren können ausreichend Energie für ein Raumschiff bereitstellen. Ihr Schiff ist praktisch lahmgelegt, die Energie reicht so gerade eben für die Lebenserhaltungssysteme. Zwar verläuft praktisch direkt vor ihrer Nase eine Neutritium-Pipeline, aber wie anzapfen? Ein Megameter ist im galaktischen Maßstab nicht weit, aber ohne funktionierendes Raumschiff trotzdem kaum zu überbrücken. (Manuell im Raumanzug würde es bei 30 km/h knapp 35 Stunden dauern). Zudem könnten jederzeit Patrouillen vorbeikommen und die Piraten aus dem Weltraum schießen, für einen Hilferuf per FTL-Funk reicht die Energie ohnehin nicht aus.
 

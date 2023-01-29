@@ -5,7 +5,7 @@ title: Schauplätze
 order: /001
 ---
 
-# Schauplätze
+
 
 Durch die Schauplätze des Abenteuers lernen die Spielercharaktere das Setting kennen. Also versuche Schauplätze zu erschaffen, die das typische Flair des Settings und seine Besonderheiten widerspiegeln. Ein Schauplatz muss nicht komplett ausgestaltet werden, lasse immer Platz für Spielerideen. Aber erschaffe immer einen interessanten Schauplatz, der zum Erkunden einlädt. In welcher Reihenfolge und ob ein Schauplatz im Abenteuer überhaupt auftaucht, hängt primär von den Aktionen der Spielercharaktere ab.
 

@@ -4,7 +4,7 @@ permalink: /Weltraum/Politische_Lage/
 title: Politische Lage
 ---
 
-# Politische Lage
+
 
 Die politische Lage im SpacePirates Universum ist verworren, sonst wäre es ja auch langweilig. Aber für Piraten und gewitzte Händler gilt ohnehin: je mehr Parteien, desto besser.
 

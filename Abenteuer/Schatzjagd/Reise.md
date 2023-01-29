@@ -4,7 +4,7 @@ permalink: /Abenteuer/Schatzjagd/Reise
 title: Reise zum Rand des Universums
 ---
 
-# Reise zum Rand des Universums
+
 
 Nachdem die Charaktere beide Schlüssel besitzen, können sie die Karte entschlüsseln. Der Schatz befindet sich am Rande des Universums auf einem Asteroiden, der einer typische Schatzinsel ähnelt. In der Karte sind auch die genauen Koordinaten des Schatzes vermerkt. Wenn man den Kurs eingibt, ergibt sich eine unendliche Reisedauer. Genau zu dieser Zeit drängt sich Xia Xu auf und will den Charakteren helfen, wenn sie einen Anteil am Schatz bekommt.
 

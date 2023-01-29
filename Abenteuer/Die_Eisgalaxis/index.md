@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Eisgalaxis/
 title: Die Eisgalaxis
 ---
 
-# Die Eisgalaxis
+
 
 Die Piraten sitzen gerade wie so oft bei (selbstverständlich je) einem Eimer Rum in der [Scrum Bar]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport), als sie ein dringender Hilferuf auf ihrem Pager erreicht.
 

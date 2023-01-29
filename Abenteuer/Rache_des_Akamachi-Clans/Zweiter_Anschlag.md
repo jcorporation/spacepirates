@@ -17,7 +17,7 @@ sitedata:
             Position: ""
 ---
 
-# Zweiter Anschlag
+
 
 Sollten die Piraten bei ihren Nachforschungen irgendwo ihre Telefonnummer hinterlassen, so werden sie nach einiger Zeit von einer Frau mit erotischer Stimme angerufen, die behauptet, den Piraten helfen zu können. Wenn man sie nach ihren Namen fragt, wird sie behaupten, sie heiße „Long Mei“.
 

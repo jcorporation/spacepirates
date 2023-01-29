@@ -4,7 +4,7 @@ permalink: /Abenteuer/Laborratten/Railroading/Schatzinsel
 title: "Szene 2: Schatzinsel"
 ---
 
-# Szene 2: Schatzinsel
+
 
 Die Charaktere finden sich durchnässt an einem malerischen Strand in der Südsee wieder, an den auch Einzelteile der Kogge aus der vorigen Szene angeschwemmt wurden. Anscheinend haben sie Schiffbruch erlitten und wurden zum Glück an diesen Strand angeschwemmt. Die Charaktere haben noch etwas Wasser im Mund, das nach Sherry schmeckt.
 

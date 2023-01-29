@@ -5,7 +5,7 @@ title: Diverses
 order: /003
 ---
 
-# Diverses
+
 
 Hier gibt es allerlei nützliches Zubehör für Raumschiffe.
 

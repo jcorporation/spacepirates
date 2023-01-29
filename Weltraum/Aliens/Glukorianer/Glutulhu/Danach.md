@@ -4,7 +4,7 @@ permalink: /Weltraum/Aliens/Glukorianer/Glutulhu/Danach
 title: Danach
 ---
 
-# Danach
+
 
 Glutulhu sonnt sich in seinem Erfolg. Er genießt die Zerstörung überall um ihn herum, während seine Kinder noch vereinzelte Armeesplittergruppen vergnügt durch das Universum jagen. Glutulhu ruft das neue Großglukorianische Imperium aus.
 
@@ -20,6 +20,6 @@ Hier spricht John Parker vom Widerstand. Bleibt mutig und voller Hoffnung, nur d
 {% endcapture %}
 {% include anmerkung.md title="Abgefangener Funkspruch, 1. März 4501" body=include_body %}
 
-# Weiter gehts
+
 
 Zwar ist das Universum nach diesem recht gewaltigen Metaplotevent nicht mehr so wie man es kennt und wesentlich düsterer angehaucht, aber es ist natürlich nicht das Ende der SpacePirates! Vielmehr ist es ein Neuanfang für neue abgedrehte Abenteuer im Kampf gegen Glutulhu und die Glukorianer.

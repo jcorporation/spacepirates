@@ -4,7 +4,7 @@ permalink: /Abenteuer/Dungeonplanet/Endkampf
 title: Endkampf
 ---
 
-# Endkampf
+
 
 Wenn die Piraten (hoffentlich mit Gold beladen) zum Raumschiff zurückkehren, kommt gerade ein feuerspeiender Drache um die Ecke geflogen. Zum Abschluss gibt es daher noch einen schicken Kampf zwischen dem Piratenschiff und dem Drachen. Dieser wird wie ein normaler Raumkampf abgehandelt.
 

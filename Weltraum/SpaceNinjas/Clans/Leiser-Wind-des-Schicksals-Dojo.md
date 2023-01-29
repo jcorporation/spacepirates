@@ -16,7 +16,7 @@ sitedata:
             Kategorie: Ninja-Clan
 ---
 
-# Leiser-Wind-des-Schicksals-Dojo
+
 
 Der Leise Wind des Schicksals ist kein Clan im herkömmlichen Sinne, vielmehr unterrichtet er seine Schüler per Videokursen im Fernstudium. Natürlich würde sich kein echter Ninja diese Videos jemals anschauen, weshalb auch die Angehörigen dieses Clans als qualitativ minderwertige Billig-Ninjas gelten. Es ist allerdings unklar, ob dies wirklich an mangelhaften Kampfkünsten liegt oder vielmehr daran, dass dies der einzige Ninja-Clan ist, der von einer Frau geleitet wird. Unabhängig davon hat der Clan ernormen Zulauf an Schülern und ist dank seiner allseits präsenten Starnet-Werbung extrem bekannt. Die Ninjas dieses Clans arbeiten oft als Kellner auf offiziellen Anlässen und versuchen so an geheime Informationen der Oberschicht heranzukommen.
 

@@ -19,7 +19,7 @@ sitedata:
             Niederlassungen: "Stratum Nova"
 ---
 
-# SpaceShell
+
 
 SpaceShell ist einer der großen Treibstoffkonzerne des Universums. Er besitzt viele stationäre und mobile Tankstationen im ganzen bekannten Universum. Sein größter Negatritiumabbauplanet, Katpar, liegt gleich neben dem bekannten Wurmloch und wird natürlich streng bewacht. SpaceShell besitzt ein Drittel aller bekannten Negatritiumvorkommen und konkurriert hart mit seinen Mitbewerbern um jedes neue Vorkommen. Nicht, dass Negatritium extrem selten wäre, aber es ist der einzige Stoff, aus dem Neutritium hergestellt werden kann, das quasi jedes Raumschiff mit Energie versorgt. Wie jede andere Aktiengesellschaft ist auch SpaceShell nur auf Umsatz- und Gewinnmaximierung aus.
 

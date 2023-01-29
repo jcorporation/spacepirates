@@ -13,7 +13,7 @@ sitedata:
             Heimatplanet: ""
 ---
 
-# SpaceWorms
+
 
 Wenn man einen SpaceWorm trifft, fühlt man sich sofort an 1 m große, aufrecht kriechende Würmer mit menschlichen Gesichtszügen und Armen erinnert. Sie tragen keine Kleidung außer einem Hut. Zudem wird man mit Sicherheit in Rauch gehüllt, denn SpaceWorms sind notorische Kettenraucher und paffen von Zigaretten über Zigarren, Pfeifen, Shishas zu Bongs einfach alles, worin man Tabak oder Rauschmittel verbrennen kann. Essen und Trinken sieht man sie nie, sie ernähren sich vom Tabakrauch, der auf andere Rassen stark berauschend wirkt.
 

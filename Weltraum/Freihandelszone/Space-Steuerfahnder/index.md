@@ -4,7 +4,7 @@ permalink: /Weltraum/Freihandelszone/Space-Steuerfahnder/
 title: Space-Steuerfahnder
 ---
 
-# Space-Steuerfahnder
+
 
 Space-Steuerfahnder (kurz SSF) sind, wie die [SpaceHawks]({{ site.baseurl }}/Weltraum/Militaer), eine (über-)harte Eliteeinheit des [galaktischen Handelsrats]({{ site.baseurl }}/Weltraum/Freihandelszone/Handelsrat). Sie kommen aber nicht in den großen Sternenkriegen zum Einsatz, sondern führen extrem wichtige Aufträge zum Schutz der Freihandelszone aus. Sie sind zugleich die Exekutive und Judikative, die die Handelsgesetze, innerhalb der Freihandelszone und an deren Grenzen, kontrolliert und durchsetzt. Dabei sind sie nicht die feinen, etwas introvertierten Herren in viel zu teuren Anzügen, die an deiner Tür klingeln, sondern die Herren, die in voller Kampfmontur die Schleusen deines Raumschiffs aufsprengen und mit gezücktem Negatronenwerfer &bdquo;Keine Bewegung! Galaktische Steuerfahndung!&ldquo; brüllen.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis
 title: Auf Atlantis
 ---
 
-# Auf Atlantis
+
 
 Sind die Charaktere in der Mitte des Nebels angelangt, so sind sie die Ersten, die nach tausend Jahren einen Blick auf Atlantis, den verschollenen Planeten, werfen können. Der Planet sieht beschaulich aus, auf der Südhalbkugel scheint ein Stück des Planeten zu fehlen.
 

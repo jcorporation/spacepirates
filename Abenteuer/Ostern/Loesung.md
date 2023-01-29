@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ostern/Loesung
 title: Lösungsmöglichkeiten
 ---
 
-# Lösungsmöglichkeiten
+
 
 Die Piraten müssen es schaffen die Sonden und Easter Egg zu zerstören und am besten den verrückten Osterhasen wieder in seine eigene Dimension zu befördern.
 

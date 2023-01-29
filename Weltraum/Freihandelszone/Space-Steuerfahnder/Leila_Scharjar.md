@@ -17,7 +17,7 @@ sitedata:
             Zaehigkeit: 4
 ---
 
-# Leila Scharjar
+
 
 Leila Scharjar, die Ministerin der Space-Steuerfahndung, vertritt die Wagonen im Handelsrat und ist dessen einziges weibliches Mitglied. Sie ist (für wagonische Verhältnisse) ausgesprochen charmant und trägt zu offiziellen Anlässen die traditionelle wagonisches Kleidung, eine weiße, extrem festsitzende Tunika, die ihre Figur betont.
 

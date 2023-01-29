@@ -22,7 +22,7 @@ sitedata:
             Kategorie: Hauptstadt
 ---
 
-# Sampuk
+
 
 Sampuk ist ein heißer Felsplanet, daher haben wohl auch die Samnesen ihr feuriges Temperament. Fast der ganze Planet besteht aus Fels, Gebirgen und aktiven Vulkanen. Es ist ein unangenehmer, fast schon an die christliche Hölle erinnernder Planet, der mit seinem rot leuchtenden Himmel und seinen drei Sonnen einfach nur heiß ist.
 

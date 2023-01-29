@@ -4,7 +4,7 @@ permalink: /Zufallstabellen/Raumschiffe
 title: Raumschiffe
 ---
 
-# Raumschiffe
+
 
 Dieser Zufallsgeneratoren generiert Raumschiffe, die interessante Zielobjekte für die Piraten sein können.
 

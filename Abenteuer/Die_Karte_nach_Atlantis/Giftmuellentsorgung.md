@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung
 title: Giftmüllentsorgung
 ---
 
-# Giftmüllentsorgung
+
 
 Den Giftmüll sollen die Piraten auf dem samnesischen Planeten Trianguli Sup 2 aufnehmen, der 18 Lichtjahre von Freeport entfernt ist, und in einem 50 Lichtjahre entfernten Schwarzen Loch entsorgen. Der Giftmüll besteht aus ein oder zwei großen Containern, je nachdem, wie gut die Piraten mit Oma Binkel verhandelt haben.
 

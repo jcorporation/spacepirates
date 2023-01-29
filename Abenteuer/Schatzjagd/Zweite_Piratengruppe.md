@@ -19,7 +19,7 @@ sitedata:
 
 ---
 
-# Zweite Piratengruppe
+
 
 ## Zweiter Schlüssel
 

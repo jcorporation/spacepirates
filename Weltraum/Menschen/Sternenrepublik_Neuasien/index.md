@@ -14,7 +14,7 @@ sitedata:
             Heimatplanet: Xinnua
 ---
 
-# Sternenrepublik Neuasien
+
 
 - **Heimatplanet:** [Xinnua]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Xinnua)
 - [Kapitalistische Sonderrechtszone Neuasiens]({{ site.baseurl }}/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/)

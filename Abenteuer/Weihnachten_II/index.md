@@ -4,7 +4,7 @@ permalink: /Abenteuer/Weihnachten_II/
 title: Weihnachten II
 ---
 
-# Weihnachten II
+
 
 Dieses Abenteuer kann als Fortsetzung zum ersten Weihnachtsabenteuer gespielt werden, es findet dann kurz vor der Weihnacht des folgenden Jahres statt. Es eignet sich aber auch als eigenständiges Abenteuer, wenn der Spielleiter einige zusätzliche Informationen einstreut.
 

@@ -18,7 +18,7 @@ sitedata:
             Position: ""
 ---
 
-# Personal
+
 
 Das Personal von Beta Prison besteht vornehmlich aus strafversetzten Soldaten und Beamten des Handelsrats. Freiwillig arbeitet hier niemand. In Beta Prison leisten etwa 100 Angestellte Dienst, wobei der Großteil aus Soldaten besteht.
 

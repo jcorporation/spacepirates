@@ -4,7 +4,7 @@ permalink: /Abenteuer/Laborratten/Railroading/Hafen
 title: "Szene 3: Hafen"
 ---
 
-# Szene 3: Hafen
+
 
 Die Charaktere finden sich inmitten einer typischen Hafenkneipe wieder und trinken Rum (der nach Sherry schmeckt). Überall sitzen angetrunkene Seeleute, ein Kapitän versucht gerade Leute für seine Mannschaft zu rekrutieren und Dirnen bieten ihre Dienste an. Es spielt ein alter Kerl auf seinen Akkordeon und singt dazu Seemannslieder. Die Stimmung ist daher ausgelassenen und die Betrunkenen grölen auch die Lieder mit.
 

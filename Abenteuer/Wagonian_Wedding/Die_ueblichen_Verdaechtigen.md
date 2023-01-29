@@ -4,7 +4,7 @@ permalink: /Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen
 title: "Auftritt: Die üblichen Verdächtigen"
 ---
 
-# Auftritt: Die üblichen Verdächtigen
+
 
 Neben den bereits erwähnten Gästen gibt es auf der Hochzeit noch zwei weitere Paare, die für Aufruhr sorgen können: Zum einen sind dies Leas Cousin Prinz Willibert und seine Frau Käthe, zum anderen der UBC-Adelsexperte Rupert Sailman-Eggbird und seine „Assistentin“ Daisy Klick.
 

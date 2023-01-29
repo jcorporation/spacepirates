@@ -17,7 +17,7 @@ sitedata:
             Bewaffnung: Laserpistole (WB 0)
 ---
 
-# (Selbst-)Darsteller
+
 
 - [Wagonische Königsfamilie]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie)
 

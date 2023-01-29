@@ -4,7 +4,7 @@ permalink: /Abenteuer/Der_grosse_Fang/Proxima_Sigma_II
 title: Proxima Sigma II
 ---
 
-# Proxima Sigma II
+
 
 Dieser karge Wüstenplanet ist das Ziel der Reise. Tiefe Schluchten ziehen sich durch die Oberfläche. Die Sonne brennt unerbittlich hernieder. Die Temperaturen erreichen locker 40-50 Grad Celsius. Aber er besitzt eine atembare Atmosphäre.
 

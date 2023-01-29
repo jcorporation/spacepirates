@@ -4,7 +4,7 @@ permalink: /Abenteuer/Weihnachten_II/Kabukicho-Prime
 title: Kabukicho-Prime
 ---
 
-# Kabukicho-Prime
+
 
 Auf Kabukicho-Prime müssen sich die Piraten Zutritt zur Fabrik verschaffen. Auf dem Fabrikschild ist eine angebissene Zuckerstange abgebildet. Die Wagonenwachen sind hier besser ausgebildet.
 

@@ -22,7 +22,7 @@ sitedata:
         - "ist gelangweilt und will eine interessante Geschichte hören, damit sie den Piraten hilft aus dem Sturm zu kommen."
 ---
 
-# Ionensturm
+
 
 Ein Ionensturm ist ein elektromagnetischer Sturm, der alle elektrischen Geräte außer Betrieb setzen oder sogar zerstören kann. Ionenstürmen sind, trotz ihres Namens, ortsfeste Phänomene, die in ihrer Stärke und Größe extrem schnell variieren. Sie sind aber dennoch extrem gefährlich und legen so ziemlich jedes Schiff innerhalb von Sekunden lahm. Dafür leuchten sie aber in einem schönen blau.
 

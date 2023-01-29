@@ -78,7 +78,7 @@ sitedata:
 
 ---
 
-# Two Eyed Jack
+
 
 Two Eyed Jack ist eine große und bekannte Raumstation im Brabengürtel. Der Brabengürtel befindet sich am Rande der Freihandelszone und ist nichts weiter als ein großer Asteroidengürtel. Hier trifft sich der Abschaum der Galaxis: Kopfgeldjäger, Piraten und Beamte. Dementsprechend sieht Two Eyed Jack auch aus. Sie erinnert mehr an einen großen Müllhaufen als an eine hochmoderne Raumstation.
 

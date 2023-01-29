@@ -5,7 +5,7 @@ title: Übersicht der Charaktererschaffung
 order: /000
 ---
 
-# Übersicht der Charaktererschaffung
+
 
 Die Crew benötigt mindestens einen Piloten, einen Tech und einen Söldner. Ein Kapitän und ein paar mehr Söldner können auch nicht schaden.
 

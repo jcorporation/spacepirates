@@ -11,7 +11,7 @@ sitedata:
             Politisches: ""
 ---
 
-# BigBong
+
 
 Die BigBong ist eine der seltsamsten Raumstationen im bekannten Universum und ein wahrer Blickfang im sonst so öden Weltraum hinter Siga Spaceport. Sie hat die Form einer übergroßen Shisha und ist innen wie außen mit Silber und orientalischen Fresken geschmückt. Aus ihrem oberen Teil quillt beständig ein dichter Rauch, der sich wie eine Wolke um die Station legt und nur langsam im Weltraum verflüchtigt. Der Rauch behindert nicht nur die Sicht, sondern stört auch die Wahrnehmung und Raumschiffsensoren, weshalb schon viele Raumschiffe BigBong rammten oder verfehlten. Obwohl die Raumstation außer der Rauchwolke über keinerlei Schutzmaßnahmen besitzt, wurde sie bisher nie erfolgreich angegriffen.
 

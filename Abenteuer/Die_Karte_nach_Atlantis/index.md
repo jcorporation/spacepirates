@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/
 title: Die Karte nach Atlantis
 ---
 
-# Die Karte nach Atlantis
+
 
 Die Charaktere kommen in den Besitz einer uralten Karte die den Weg nach Atlantis, dem sagenumwobenen Heimatplaneten der Atlanter, weisen soll. Zeitgleich kommen aber auch die Rebellen in den Besitz derselben Karte, da die Raumzeitverschiebung eine Quantenverschränkung verursacht hat, jetzt gilt es schneller zu sein als die Rebellen.
 

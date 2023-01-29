@@ -4,7 +4,7 @@ permalink: /Abenteuer/Weihnachten/Santa_24
 title: Santa 24
 ---
 
-# Santa 24
+
 
 Aus dem Wurmloch herausgekommen erblicken die Piraten direkt vor sich Santa 24. Es ist ein Eisplanet der schon vom Weltraum aus weihnachtlich aussieht, da er von einem großen Asteroidengürtel umgeben ist, der sehr stark an Lametta erinnert.
 

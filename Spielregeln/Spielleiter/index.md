@@ -5,7 +5,7 @@ title: Spielleiter
 order: /030
 ---
 
-# Spielleiter
+
 
 - [Abenteuer vorbereiten]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_vorbereiten)
 - [Abenteuer erstellen]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/)

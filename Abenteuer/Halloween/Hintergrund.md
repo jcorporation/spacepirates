@@ -4,7 +4,7 @@ permalink: /Abenteuer/Halloween/Hintergrund
 title: Hintergrund
 ---
 
-# Hintergrund
+
 
 Xergul ist einer der wenigen renommierten kahadrischen Wissenschaftler. Sein Forschungsgebiet ist das Übernatürliche in allen Ausprägungen. Ihn faszinieren besonders Vampirmythen. Daher hat er nicht gezögert eine Erkundungstruppe zusammenzustellen, nachdem er einen Geheimtipp von einem alten Freund bekommen hatte. Dabei ist er auf die verlassene Raumstation auf dem kürbisförmigen Planeten gestoßen und hat diese zu seiner Basis ausgebaut um den Nebel und den bewohnten Planeten zu erforschen.
 

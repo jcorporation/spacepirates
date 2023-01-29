@@ -13,6 +13,6 @@ sitedata:
 
 ---
 
-# Sombreronebel
+
 
 Der Sombreronebel leuchtet rot und besitzt einen gelben Rand. Von der richtigen Position aus, sieht er durchaus wie ein Sombrero aus.

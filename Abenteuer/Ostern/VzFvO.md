@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ostern/VzFvO
 title: Vereinigung zur Förderung von Ostern - VzFvO
 ---
 
-# Vereinigung zur Förderung von Ostern - VzFvO
+
 
 Die Sekte „Vereinigung zur Förderung von Ostern“ kurz VzFvO, folgt dem verrückt geworden Osterhasen bedingungslos. Ihr Ziel ist es endlich Ostern unter der normalen Bevölkerung wichtiger zu machen als Weihnachten. Da ihre Straßenprediger und Promotionsveranstaltungen der letzten Jahrzehnte keine bedeutenden Erfolge vorweisen können, haben sie sich entschlossen, zu einem radikaleren Mittel zu greifen.
 

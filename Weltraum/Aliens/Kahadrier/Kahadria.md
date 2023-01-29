@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Heimatplanet der Kahadrier"
 ---
 
-# Kahadria
+
 
 Kahadrias Umlaufbahn ist relativ weit von seiner Sonne entfernt, entsprechend steigen selbst tagsüber die Temperaturen nie über den Gefrierpunkt. Die Kahadrier haben sich aus diesem Grund in ihre Städte zurückgezogen, die teils unterirdisch angelegt oder in Berge integriert sind. Trotz modernster Technologie bauen die Kahadrier immer noch solche Städte.
 

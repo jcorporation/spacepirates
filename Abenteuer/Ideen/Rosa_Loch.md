@@ -4,7 +4,7 @@ permalink: /Abenteuer/Ideen/Rosa_Loch
 title: Rosa Loch
 ---
 
-# Rosa Loch
+
 
 Ein schnell wachsendes Rosa Loch bedroht die Stammkneipe der Piraten. Das rosa Loch färbt alles dauerhaft rosa, was in seinem Einflussgebiet liegt- und jeder weiß: rosa Rum ist ungenießbar!
 

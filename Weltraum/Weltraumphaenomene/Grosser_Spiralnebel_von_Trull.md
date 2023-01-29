@@ -12,6 +12,6 @@ sitedata:
             Politisches: "Hauptstützpunkt der Rebellen"
 ---
 
-# Großer Spiralnebel von Trull
+
 
 Dieser große Spiralnebel beherbergt in seinem Inneren ein kleines Sonnensystem. Der Nebel legt die Bordelektronik normaler Schiffe lahm und kann daher nur mit speziell geschirmten Schiffen durchflogen werden. Dies macht ihn zu einem idealen Versteck für den Hauptstützpunkt der [Rebellen]({{ site.baseurl }}/Weltraum/Rebellen/) [Alastor]({{ site.baseurl }}/Weltraum/Rebellen/Alastor).

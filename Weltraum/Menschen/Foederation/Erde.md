@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Heimatplanet der Menschen"
 ---
 
-# Erde
+
 
 Die Erde ist immer noch der Mittelpunkt menschlichen Lebens, obwohl sie sich am Arsch der Galaxis befindet. Jeder andere Planet wird nur als Außenposten oder Kolonie betrachtet. Auch die zentrale Regierung der Föderation befindet sich auf der Erde, genauer gesagt in Brüssel. Die Erde hat sich etwas vom Raubbau der früheren Generationen erholt und Probleme wie der Treibhauseffekt sind Geschichte. Rohstoffabbau wird auf der Erde nicht mehr betrieben und auch die Einwohnerzahl sank, als andere Planeten besiedelt wurden.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Schatzjagd/Erste_Piratengruppe
 title: Erste Piratengruppe
 ---
 
-# Erste Piratengruppe
+
 
 ## Erster Schlüssel: Alexa Reed
 

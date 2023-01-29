@@ -21,7 +21,7 @@ sitedata:
                 - "Stratum Nova"
 ---
 
-# JCTech IAG
+
 
 Die JCTech IAG (Intergalaktische-Aktien-Gesellschaft) ist ein gigantischer Technologie- und Pharmakonzern. Hauptaktionär mit 51 % der Aktien ist die Gründerfamilie Omar.
 

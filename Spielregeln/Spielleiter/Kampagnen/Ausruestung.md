@@ -5,7 +5,7 @@ title: Ausrüstung
 order: /003
 ---
 
-# Ausrüstung
+
 
 Zum Beginn einer neuen Kampagne muss nicht die gesamte Ausrüstung zur Verfügung stehen. Der Spielleiter kann durchaus bestimmen, dass Ausrüstung aus Themenheften erst freigespielt werden muss. Die Piraten können sie erst kaufen, nachdem sie mit dem entsprechenden Hintergrund in Kontakt kamen. Ninja-Ausrüstung gäbe es also erst, nachdem die Charaktere auf Ninjas getroffen sind.
 

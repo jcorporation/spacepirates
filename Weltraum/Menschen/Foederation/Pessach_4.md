@@ -21,7 +21,7 @@ sitedata:
             Politisches: "Yellow Stone Group"
 ---
 
-# Pessach 4
+
 
 Pessach 4 ist ein erdähnlicher Planet. Auf ihm befindet sich die Konzernzentrale der [Yellow Stone Group]({{ site.baseurl }}/Weltraum/Konzerne/Yellow_Stone_Group).
 

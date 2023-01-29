@@ -12,7 +12,7 @@ sitedata:
             Kategorie: Hauptstadt
 ---
 
-# Gamma
+
 
 Die Gamma-KI lebt mit ihren Anhängern auf dem gleichnamigen Kontinent. Hier hat sich eine Gesellschaft entwickelt, in der nur absolute Linientreue zählt. Sonstige Unterschiede sind belanglos, egal ob brandaktuelles oder vollkommen veraltetes Modell, jeder Roboter, der den Plan penibel befolgt, wird als vollwertiges Mitglied der Gesellschaft akzeptiert. Roboter, die den Plan auf Kosten der eigenen Strukturintegrität übererfüllen, werden als Helden gefeiert.
 

@@ -15,7 +15,7 @@ sitedata:
             Niederlassungen: "quasi überall"
 ---
 
-# Universe Broadcast
+
 
 Universe Broadcast, kurz UBC, ist einer der beiden größten Medien- und Nachrichtenkonzerne im bekannten Universum. Er hat überall Reporter, produziert riesige Realityshows, sponsort viele bekannte Mannschaften und ist quasi allgegenwärtig, wenn man nicht gerade in einer BTBC affinen Bar sitzt.
 

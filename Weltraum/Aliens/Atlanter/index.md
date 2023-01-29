@@ -10,7 +10,7 @@ sitedata:
             Heimatplanet: "Atlantis"
 ---
 
-# Atlanter
+
 
 - **Heimatplanet:** [Atlantis]({{ site.baseurl }}/Weltraum/Aliens/Atlanter/Atlantis)
 - [Stadtschiffe]({{ site.baseurl }}/Weltraum/Aliens/Atlanter/Stadtschiffe)

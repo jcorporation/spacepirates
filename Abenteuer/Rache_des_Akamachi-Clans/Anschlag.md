@@ -4,7 +4,7 @@ permalink: /Abenteuer/Rache_des_Akamachi-Clans/Anschlag
 title: Anschlag
 ---
 
-# Anschlag
+
 
 Die Piraten sitzen gerade gemütlich in einer Kneipe und lassen sich ihren Rum schmecken, als plötzlich eine Gruppe altertümlich gekleideter und nach Parfüm duftender Piraten die Bar betritt und sich betont unauffällig um den Tisch der Crew postiert. Ihre Gesichter sind allesamt mit schwarzen Masken getarnt. Seltsamerweise bestellen sie keinen Rum, sondern Sake, was beim Wirt einige Verwunderung auslöst. (Hier sollte den Spielern die Möglichkeit gegeben werden, dem Wirt aus der Patsche zu helfen. Wenn ihnen nichts einfällt, spendiert der Wirt einfach normalen Rum als „lokalen Spezial-Sake“).
 

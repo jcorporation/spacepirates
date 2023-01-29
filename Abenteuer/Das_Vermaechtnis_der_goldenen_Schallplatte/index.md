@@ -4,7 +4,7 @@ permalink: /Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/
 title: Das Vermächtnis der goldenen Schallplatte
 ---
 
-# Das Vermächtnis der goldenen Schallplatte
+
 
 Einer der Charaktere erbt eine goldene Schallplatte von seinem Onkel Nic Jäger, dem letzten lebenden Mitglied der Kultband Crashing Meteorits. Das Erbe muss mehr als nur ideellen Wert haben, denn auf einmal ist die SpaceRocker-Bande [SpaceAngels]({{ site.baseurl }}/Weltraum/SpaceRocker/SpaceAngels/) hinter den Charakteren her.
 

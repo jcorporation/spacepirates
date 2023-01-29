@@ -20,7 +20,7 @@ sitedata:
             Position: ""
 ---
 
-# 1. Interplanetarer Golfplatz
+
 
 Der erste interplanetare Golfplatz wurde von niemand Geringerem als Lion Plant gegründet, dem erfolgreichsten Golfer des Universums. Lion Plant stammt aus einer unbedeutenden Trullfamilie und hat mit dem größten Golfplatz auch gleich den teuersten Golfverein des Universums gegründet, so dass sich hier nur die Reichsten der Reichen tummeln. Neben den normalen Golf- und Minigolfplätzen gibt es auf diesem Golfplatz auch die einzige Megagolf-Anlage des Universums.
 

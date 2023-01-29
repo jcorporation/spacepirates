@@ -4,7 +4,7 @@ permalink: /Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung
 title: Auflösung
 ---
 
-# Auflösung
+
 
 Die Piraten selbst können wenig mit dem Buch anfangen, da sie dafür zunächst eine Ninja-Ausbildung durchlaufen müssten. Sobald sich herumspricht, dass sie es haben, sind zudem sämtliche Ninjas des Universums hinter ihnen her.
 
@@ -37,7 +37,7 @@ Shuriken: WB 0</td></tr>
 
 Wenn die Charaktere jemals wieder ihre Ruhe vor angreifenden Ninjas wollen, so müssen sie das Buch loswerden: Verkaufen, verschenken, zerstören oder vergraben und Schatzkarten streuen. Sowohl die Ninja-Clans als auch reiche Sammler bieten bis zu 20.000 UC für das Buch, wenn die Piraten das Buch verstecken, die Schatzkarte stückeln und die Stücke einzeln verkaufen, so können sie bis zu 25.000 UC verdienen.
 
-# Zusammenfassung für den Spielleiter
+
 
 Jonas Wagner ist ein machthungriger Manager in der [S.I.E. Robotermanufaktur]({{ site.baseurl }}/Weltraum/Konzerne/S_I_E_Robotermanufaktur), dessen wahrer Name unbekannt ist. Er hat den Hashimara-Clan unterwandert, um an den Schlüssel für die ultimative Kampf-Technik zu kommen. Nachdem er den Schlüssel in seinem Besitz hatte, bestach er Ninjas von der Goemon-Ishikawa-Highschool, um an einen bestimmten Tag die Hattori-Hanzo-Akademie anzugreifen. Im Chaos dieses Angriffs drangen dann die ihm getreuen Hashimara in die Archive ein, um die Schriftrolle zu stehlen. Der Diebstahl gelang, das Buch sollte per Pizzaboten vom Planeten geschmuggelt werden.
 

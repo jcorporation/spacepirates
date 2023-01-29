@@ -4,7 +4,7 @@ permalink: /Weltraum/Freihandelszone/Space-Steuerfahnder/Hauptquartier
 title: Hauptquartier
 ---
 
-# Hauptquartier
+
 
 Das Hauptquartier der Space-Steuerfahnder bildet einen eigenen Vorort von Taron City, der Hauptstadt [Stratum Novas]({{ site.baseurl }}/Weltraum/Freihandelszone/Stratum_Nova). Mit ihrer großen Mauer, dem sie umgebenden Kraftfeld und streng bewachten Sicherheitsschleusen erinnert sie an eine hermetisch abgeriegelte Kaserne. Normalsterbliche dürfen lediglich auf den Tag- und Nachtbriefkasten zugreifen, um dort ihre Steuererklärung, Widersprüche oder Nachweise einzuwerfen. Lediglich in Ausnahmefällen erhält man einen Termin innerhalb der Verwaltung, dies ist normalerweise ein sehr schlechtes Zeichen.
 

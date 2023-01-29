@@ -4,7 +4,7 @@ permalink: /Zufallstabellen/Auswirkungen_der_Unwahrscheinlichkeitszone
 title: Auswirkungen der Unwahrscheinlichkeitszone
 ---
 
-# Auswirkungen der Unwahrscheinlichkeitszone
+
 
 Diese Zufallstabelle generiert zufällige Auswirkungen der Unwahrscheinlichkeitszone.
 

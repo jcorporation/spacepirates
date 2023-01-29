@@ -15,7 +15,7 @@ sitedata:
             Politisches: "Filmplanet"
 ---
 
-# Sandalien
+
 
 Dieser relativ kleine Planet ist der sonnennächste Planet im System der Träume. Seine hervorstechendste Eigenschaft ist, dass eine Seite permanent der Scheinwerfer-Sonne zugewandt ist, während die andere in ewiger Dunkelheit liegt. Auf der hellen Seite ist es aufgrund der Dauerbelichtung sehr heiß, Sandalien ist dort von Steppen und Wüsten bedeckt. Auf der anderen Seite ist es logischerweise viel kälter und ewige Nacht. Es herrscht ein andauernder Windzug, der Fenster und Türen unheimlich klappern lässt.
 

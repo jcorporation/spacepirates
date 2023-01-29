@@ -4,7 +4,7 @@ permalink: /Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen
 title: Konfliktszenen
 ---
 
-# Konfliktszenen
+
 
 Eine Konfliktszene umfasst alle Handlungen aller Parteien innerhalb eines Konflikts. Eine Partei kann dabei aus mehreren Beteiligten bestehen und auch passive Hindernisse umfassen. Die Konfliktszene dreht sich immer um die Ziele der Parteien, nicht um einzelne Handlungen.
 

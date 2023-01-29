@@ -16,7 +16,7 @@ sitedata:
             Politisches: "Müllplanet"
 ---
 
-# Scrabnambu
+
 
 Scrabnambu ist ein felsiger und trister Planet in einer sonst verlassenen Gegend, dessen Himmel in allen Spektralfarben schimmert. Der unwirkliche Farbenschimmer wird von der nahen Raumzeitverschiebung verursacht. Scrabnambu wird auch als *der Schrottplanet* bezeichnet, in der Tat ist auf diesem Planeten der größte bekannte Schrottplatz des Universums ansässig.
 

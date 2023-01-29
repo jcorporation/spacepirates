@@ -15,6 +15,6 @@ sitedata:
             Politisches: "Omatic Enterprise"
 ---
 
-# Omatic
+
 
 Der Planet Omatic ist im Besitz von [Omatic Enterprise]({{ site.baseurl }}/Weltraum/Konzerne/Omatic_Enterprise).

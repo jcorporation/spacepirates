@@ -9,7 +9,7 @@ sitedata:
             Hauptplanet: ""
 ---
 
-# Sektor D1
+
 
 Der Sektor D1 ist nahezu unbewohnt, da er von der [Unwahrscheinlichkeitszone ]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/Unwahrscheinlichkeitszone)dominiert wird. In ihrer Nähe ist kein geordnetes Leben möglich, da ständig die unwahrscheinlichsten Dinge geschehen. Einzig der freie Raumhafen [Freeport]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport) ist im Sektor D1 angesiedelt.
 

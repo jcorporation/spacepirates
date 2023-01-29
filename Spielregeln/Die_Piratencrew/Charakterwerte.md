@@ -5,7 +5,7 @@ title: Charakterwerte
 order: /003
 ---
 
-# Charakterwerte
+
 
 ## Profile
 

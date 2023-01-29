@@ -5,7 +5,7 @@ title: Vor dem Spiel
 order: /003
 ---
 
-# Vor dem Spiel
+
 
 Vor dem Spiel erschaffen die Spieler gemeinsam ihre Charaktere und ein Raumschiff und der Spielleiter bereitet das Abenteuer vor. Wenn ein Fortsetzungsabenteuer ansteht, ist natürlich der erste Punkt schon abgehakt und der Spielleiter muss nur noch das Abenteuer vorbereiten, bevor es weitergehen kann.
 

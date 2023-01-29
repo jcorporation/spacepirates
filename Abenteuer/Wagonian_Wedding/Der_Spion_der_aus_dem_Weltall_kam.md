@@ -4,7 +4,7 @@ permalink: /Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam
 title: "Auftritt: Der Spion, der aus dem Weltall kam"
 ---
 
-# Auftritt: Der Spion, der aus dem Weltall kam
+
 
 Kronprinz Wagonion möchte seinem einzigen Kind die Hochzeit vermiesen, indem er den „Stern von Urkalath“ an sich nimmt. Er hat dazu den menschlichen Spion Dr. von Nofeld angeheuert, damit Wagonion sich nicht seine Hände schmutzig machen muss.
 

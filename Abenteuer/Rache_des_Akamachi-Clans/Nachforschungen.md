@@ -4,7 +4,7 @@ permalink: /Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen
 title: Nachforschungen
 ---
 
-# Nachforschungen
+
 
 Die Ninjas wissen nichts über den Hintergrund des Angriffs. Sie haben von ihrem Clanoberhaupt lediglich erfahren, dass sie die Crew verächtlich machen und möglichst aufmischen sollen. Sie sind per Anhalter auf der Station angekommen. Zurück nach Neu-Neo-Tokio wollten sie mit dem Schiff der Piraten fliegen.
 

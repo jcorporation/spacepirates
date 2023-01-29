@@ -15,7 +15,7 @@ sitedata:
             Politisches: "Mittelpunkt der Glutulhuverehrung"
 ---
 
-# Ghultar
+
 
 Ghultar ist komplett mit Salzwasser bedeckt, aus dem einst die Glukorianer emporgestiegen sind. Monsterwellen, die von den 13 Monden ausgelöst werden, machen den Planeten extrem gefährlich.
 

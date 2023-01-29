@@ -5,7 +5,7 @@ title: Zufallstabellen
 order: /004
 ---
 
-# Zufallstabellen
+
 
 Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum von SpacePirates spontan mit Leben zu füllen.
 

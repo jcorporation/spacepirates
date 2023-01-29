@@ -21,7 +21,7 @@ sitedata:
                 - Stratum Nova
 ---
 
-# SpaceResearch
+
 
 SpaceResearch war der Pionier der menschlichen intergalaktischen Raumfahrt, der Konzern hat die ersten FTL-Antriebe gebaut. Mittlerweile hat SpaceResearch seine marktbeherrschende Stellung im Raumschiffbau an Raumschiff &amp; Co. abtreten müssen. Der Konzern besitzt trotzdem noch einen nicht zu unterschätzenden Einfluss und vor allem eine der größten Flotten der Föderation.
 

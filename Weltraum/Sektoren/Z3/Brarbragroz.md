@@ -16,7 +16,7 @@ sitedata:
             Politisches: Zurückgebliebener Planet
 ---
 
-# Brarbragroz
+
 
 Brarbragroz ist eine sehr erdähnliche Welt, die von einer primitiven, humanoiden Rasse, den Brarbragrozianern, bewohnt wird. Die Brarbragrozianer ähneln Menschen stark, wenn man mal von der grünlichen Haut und den geschlitzten Pupillen absieht. Kulturell und technologisch sind sie aber noch viele tausend Jahre von der Menschheit entfernt. Der Planet ist übersät von vielen kleinen Königreichen, Fürstentümern, Stammesgebieten und Imperien. Die am Weitesten entwickelten befinden sich auf einer Kulturstufe, die etwa der Europas im 13. Jahrhundert entspricht, sehr viele Völker rangieren aber eher darunter.
 

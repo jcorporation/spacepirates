@@ -4,7 +4,7 @@ permalink: /Abenteuer/Schatz_von_Menkar/Ende
 title: Ende
 ---
 
-# Ende
+
 
 Wenn die Charaktere durch das Wurmloch zurückfliegen, sind dahinter nur einige Minuten vergangen und die ganzen Schaulustigen beobachten immer noch den Sombreronebel.
 

@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl
 title: Zeitstrahl
 ---
 
-# Zeitstrahl
+
 
 <table>
 <thead>

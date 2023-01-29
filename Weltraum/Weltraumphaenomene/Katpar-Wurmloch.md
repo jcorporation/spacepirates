@@ -12,7 +12,7 @@ sitedata:
             Politisches: ""
 ---
 
-# Katpar-Wurmloch
+
 
 Wurmlöcher verbinden weit auseinanderliegende Gegenden des Universums miteinander. Mit modernen Schiffen ist es problemlos möglich, sie zu durchfliegen. Fatalerweise sind Wurmlöcher aber instabil, weshalb ein Wurmloch niemals wieder zum gleichen Ort führt – was es auch unmöglich macht, den Austrittspunkt zu bestimmen, bevor man in das Wurmloch eintritt.
 

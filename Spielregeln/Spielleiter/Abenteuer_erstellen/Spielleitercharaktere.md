@@ -5,7 +5,7 @@ title: Spielleitercharaktere
 order: /003
 ---
 
-# Spielleitercharaktere
+
 
 Spielleitercharaktere werden bei SpacePirates in vier Kategorien aufgeteilt: Hauptcharaktere, wichtige Charaktere, Handlanger und Statisten. Nur die ersten drei besitzen Werte. Hauptcharaktere müssen am genauesten definiert sein, Statisten kaum.
 

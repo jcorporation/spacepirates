@@ -5,7 +5,7 @@ title: Verlauf
 order: /000
 ---
 
-# Verlauf
+
 
 Wie das Abenteuer genau verläuft, kann und soll vorab nicht geplant werden. Es ist nur eines sicher, es gibt einen Einstieg und ein Ende. Dazwischen liegen Szenen, die von den verschiedenen Parteien bestimmt werden und einige der vorbereiteten Schauplätze nutzen. Beim Schreiben eines Abenteuers ist es wichtig, keine genaue Reihenfolge der Szenen vorauszusetzen, das bringt dich im Abenteuer nur in die Bedrängnis, die Spielercharaktere in die richtige Richtung zu treiben. Stattdessen ist es viel einfacher auf die Aktionen der Spieler mit den richtigen Ereignissen und Aktionen der Spielleitercharaktere zu reagieren. Also plane den Verlauf und die Szenen des Abenteuers nicht zu genau, denn es wird eh anders verlaufen als du dir ausgemalt hast.
 

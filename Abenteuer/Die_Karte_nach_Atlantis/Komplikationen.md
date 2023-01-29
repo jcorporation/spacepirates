@@ -4,7 +4,7 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Komplikationen
 title: Komplikationen
 ---
 
-# Komplikationen
+
 
 Natürlich läuft kein Abenteuer ohne Komplikationen ab, so auch hier. Aber die Piraten können sich viel Ärger vom Hals halten, wenn sie umsichtig vorgehen.
 

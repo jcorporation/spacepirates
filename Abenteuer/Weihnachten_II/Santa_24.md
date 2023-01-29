@@ -4,7 +4,7 @@ permalink: /Abenteuer/Weihnachten_II/Santa_24
 title: Auf Santa 24
 ---
 
-# Auf Santa 24
+
 
 Im Santasystem angekommen können die Spieler Santa 24 problemlos anfliegen. Santa lebt natürlich am Nordpol dieses Eisplaneten. Die Anlage finden sie verändert vor - die große Fabrikhalle/Werkstatt ist auf allen Seiten mit Barrikaden aus Weihnachtsbäumen, Schlitten, Lametta und allerlei Kram blockiert. Neben der Halle steht jetzt ein hochmodernes Bürogebäude aus Stahl und Plexiglas (im Stil der 1980er). Die Barrikaden sind von Elfentrupps bemannt.
 

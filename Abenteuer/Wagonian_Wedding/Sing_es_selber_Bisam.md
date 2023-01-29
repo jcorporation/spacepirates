@@ -4,7 +4,7 @@ permalink: /Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam
 title: "Auftritt: Sing es selber, (Bi-)sam!"
 ---
 
-# Auftritt: Sing es selber, (Bi-)sam!
+
 
 Der einzige Gast auf der wagonischen Hochzeit, dem der „Stern von Urkalath“ schnurzpiepegal ist, der aber dennoch ein Geheimnis wahren möchte, ist das Popsternchen Dustin Bisam. Weil der eben so nett, knuddelig und harmlos aussieht, wird er überall im bekannten Universum gebucht und ist ein gern gesehener Gast. Seine Musik begeistert alle von 0 bis zum Höchstalter der jeweiligen Spezies.
 
