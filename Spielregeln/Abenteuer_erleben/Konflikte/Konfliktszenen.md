@@ -4,8 +4,6 @@ permalink: /Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen
 title: Konfliktszenen
 ---
 
-
-
 Eine Konfliktszene umfasst alle Handlungen aller Parteien innerhalb eines Konflikts. Eine Partei kann dabei aus mehreren Beteiligten bestehen und auch passive Hindernisse umfassen. Die Konfliktszene dreht sich immer um die Ziele der Parteien, nicht um einzelne Handlungen.
 
 Sobald in einer Szene klar ist, wer die einzelnen Parteien sind und was das jeweilige Ziel ist, wird die siegreiche Partei bestimmt. Danach wird gemeinsam beschrieben, wie es genau dazu gekommen ist und dabei auch der Schaden verteilt. Im letzten Schritt werden eventuelle Konsequenzen abgehandelt.
@@ -46,19 +44,22 @@ Passive Hindernisse besitzen wie Spielleitercharaktere einen Profilwert und eine
 
 ## Siegreiche Partei ermitteln
 
-1. **Profil:** Für jeden Beteiligten wird das passende Profil für den Konflikt gewählt. Wenn das Profil unklar ist, wird es vom Spielleiter festgelegt. Die Summe aus Profilwert und eventuellen Boni ergibt die Anzahl an Würfeln, die geworfen werden dürfen.
+1. **Profil:** Für jeden Beteiligten wird das passende Profil für den Konflikt gewählt. Wenn das Profil unklar ist, wird es vom Spielleiter festgelegt. Die Summe aus Profilwert und eventuellen Boni und Mali ergibt die Anzahl an Würfeln, die geworfen werden dürfen.
 2. **Piratenwürfel:** Jeder Spieler kann Piratenwürfel ausgeben, um die Anzahl der Würfel zu erhöhen. Pro investierten Piratenwürfel erhält man 2 Würfel.
 3. **Probe:** Jeder Spieler würfelt, lässt die Würfel vor sich liegen und zählt die Erfolge. Die Anzahl der Erfolge einer Partei werden addiert. Der Spielleiter macht dasselbe für seine Charaktere und passive Hindernisse.
 4. **Sieger ermitteln:** Die Partei mit mehr Erfolgen kann die Szene für sich entscheiden. Bei einem Patt gewinnt niemand und jede Partei erreicht nur einen Teil ihres Ziels.
 
 {% capture include_body %}
-Boni werden durch Ausrüstungsgegenstände gewährt, diese sollten die Spieler selber berücksichtigen. Wenn mehrere Ausrüstungsgegenstände eingesetzt werden, wird immer nur der Ausrüstungsgegenstand berücksichtigt, der den größten Bonus gibt.
+Boni und Mali erhöhen bzw. verringern die Anzahl der Würfel, mit denen gewürfelt werden darf.
 
-Andere Boni, z.B. durch günstige Umstände, vergibt der Spielleiter. Würde ein Umstand alle Parteien einen Bonus gewähren, kann er einfach ignoriert werden.
+Boni und Mali ergeben sich aus:
 
-Mali gibt es bei SpacePirates nicht. Statt einer Partei Mali zu geben, erhält die gegnerische Partei einen Bonus. Ausrüstungsgegenstände können durchaus negative Boni besitzen.
+- Ausrüstungsgegenstände (diese sollten die Spieler selber berücksichtigen). Wenn mehrere Ausrüstungsgegenstände eingesetzt werden, wird immer nur der Ausrüstungsgegenstand berücksichtigt, der den größten Bonus gibt.
+- Auswirkungen von Aktionen, dazu zählen z. B. die Auswirkungen von Raumschiffmacken.
+- Vorteilhafte bzw. ungünstige Umstände in der Szene. Würde ein Umstand alle Parteien einen Bonus oder Malus gewähren, kann er einfach ignoriert werden.
+
 {% endcapture %}
-{% include hinweis.md title="Boni" body=include_body %}
+{% include hinweis.md title="Boni und Mali" body=include_body %}
 
 {% capture include_body %}
 Kann der Spieler vor einer medizinischen, technischen oder wissenschaftlichen Probe mit einer Reihe Fremdbegriffe fachlich plausibel (es sollte gut und passend klingen) erklären, was der Charakter genau tut und warum es dadurch funktionieren muss, kann der Spielleiter einen Bonus auf den Wurf geben.
