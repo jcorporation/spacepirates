@@ -1,0 +1,21 @@
+<div class="col col-xl-12 col-xxl-9 pe-0">
+    <h1>{{ page.title }}</h1>
+    <div class="row row-cols-1 row-cols-xl-2 me-0">
+        <main class="col col-xl-8 pe-0">
+            {{ content }}
+            {% if content_data %}
+                {{ content_data }}
+            {% endif %}
+        </main>
+        <aside class="col col-xl-4 pe-0">
+            {% if aside_data %}
+                {{ aside_data }}
+            {% elsif page.aside %}
+                {% include_relative {{ page.aside }} %}
+            {% else %}
+                {% assign aside = page.name | replace: ".md", "_aside.md" %}
+                {% include_relative {{ aside }} %}
+            {% endif %}
+        </aside>
+    </div>
+</div>

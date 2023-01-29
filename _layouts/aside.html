@@ -2,14 +2,4 @@
 layout: default
 ---
 
-<main class="col col-xl-8 col-xxl-6">
-    {{ content }}
-</main>
-<aside class="col col-xl-4 col-xxl-3 pe-0">
-    {% if page.aside %}
-        {% include_relative {{ page.aside }} %}
-    {% else %}
-        {% assign aside = page.name | replace: ".md", "_aside.md" %}
-        {% include_relative {{ aside }} %}
-    {% endif %}
-</aside>
+{% include aside.html %}

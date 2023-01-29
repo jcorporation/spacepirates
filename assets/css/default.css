@@ -17,6 +17,15 @@ body {
   padding-top: 4rem;
 }
 
+h1 {
+  background-color: black;
+  background-image: url("/assets/images/sterne.jpg");
+  padding: 1rem;
+  color: var(--sp-orange);
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
+
 .offcanvas .dropdown-item:hover,
 .offcanvas .list-group-item:hover {
   background-color: var(--bs-gray-800) !important;
@@ -338,6 +347,9 @@ ul.sitemap {
 @media (min-width: 1200px) {
   aside > table {
     width: 100%;
+  }
+  aside {
+    padding-left: 2rem !important;
   }
 }
 
