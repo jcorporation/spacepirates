@@ -23,8 +23,6 @@ Es gibt bei SpacePirates keine Regel, die den Tod eines Charakters herbeiführt.
 {% endcapture %}
 {% include hinweis.md title="Tod eines Charakters" body=include_body %}
 
-{% include todo.md title="Konsequenz Beispiele" %}
-
 {% capture include_body %}
 
 ##### HÄNDLER Konsequenzen
@@ -34,8 +32,8 @@ Es gibt bei SpacePirates keine Regel, die den Tod eines Charakters herbeiführt.
 
 ##### PILOT Konsequenzen
 
-- TODO
-- TODO
+- Coolness Verlust
+- keine Nerven mehr
 
 ##### SÖLDNER Konsequenzen
 
@@ -44,6 +42,7 @@ Es gibt bei SpacePirates keine Regel, die den Tod eines Charakters herbeiführt.
 
 ##### TECH Konsequenzen
 
-- TODO
+- zittrige Hand
+- Sehschwäche
 {% endcapture %}
 {% include beispiel.md title="Beispiele für Konsequenzen" body=include_body %}
