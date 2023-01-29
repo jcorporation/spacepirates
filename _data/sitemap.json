@@ -3378,13 +3378,21 @@
   "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": {
     "prev": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg",
     "firstInDir": false,
-    "next": "/Abenteuer/Rache_des_Akamachi-Clans/",
-    "lastInDir": true,
+    "next": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung",
+    "lastInDir": false,
     "parent": "/Abenteuer/Pizza_fuer_Jonas_Wagner/",
     "title": "Nachforschungen"
   },
-  "/Abenteuer/Rache_des_Akamachi-Clans/": {
+  "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": {
     "prev": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen",
+    "firstInDir": false,
+    "next": "/Abenteuer/Rache_des_Akamachi-Clans/",
+    "lastInDir": true,
+    "parent": "/Abenteuer/Pizza_fuer_Jonas_Wagner/",
+    "title": "Zusammenfassung"
+  },
+  "/Abenteuer/Rache_des_Akamachi-Clans/": {
+    "prev": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung",
     "firstInDir": true,
     "next": "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag",
     "lastInDir": true,

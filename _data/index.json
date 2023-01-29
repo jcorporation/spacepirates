@@ -80,7 +80,6 @@
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 3,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 3,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 3,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 2,
     "/Spielregeln/": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 2,
@@ -90,11 +89,12 @@
     "/Abenteuer/": 1,
     "/Abenteuer/Blumenkind/Blumenkind": 1,
     "/Abenteuer/Halloween/Zentrum": 1,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 1,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": 1,
     "/Abenteuer/SpaceDrache/Ende": 1,
     "/Abenteuer/Zeitraub_II/Javar_3": 1,
     "/Spielregeln/Abenteuer_erleben/": 1,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1,
-    "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 1
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1
   },
   "ablauf": {
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 50,
@@ -3051,6 +3051,9 @@
     "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 2,
     "/Abenteuer/": 1
   },
+  "gehts": {
+    "/Weltraum/Aliens/Glukorianer/Glutulhu/Danach": 25
+  },
   "geister": {
     "/Abenteuer/Halloween/Nebel": 27,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 3,
@@ -3368,9 +3371,9 @@
   },
   "goemonishikawahighschool": {
     "/Weltraum/SpaceNinjas/Clans/Goemon-Ishikawa-Highschool": 252,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 3,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 3,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg": 1
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": 2,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 1
   },
   "goldene": {
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie": 3,
@@ -3727,8 +3730,7 @@
   "hashimaraclan": {
     "/Weltraum/SpaceNinjas/Clans/Hashimara-Clan": 251,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 4,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 2,
-    "/Weltraum/SpaceNinjas/": 1
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 1
   },
   "hashimoto": {
     "/Weltraum/SpaceNinjas/Clans/Hashimara-Clan": 151
@@ -3740,7 +3742,8 @@
   "hattorihanzoakademie": {
     "/Weltraum/SpaceNinjas/Clans/Hattori-Hanzo-Akademie": 252,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 8,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 4,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 2,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": 2,
     "/Weltraum/SpaceNinjas/Clans/Goemon-Ishikawa-Highschool": 2,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/": 1
   },
@@ -4459,18 +4462,16 @@
   "jonas": {
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/": 51,
     "/Abenteuer/": 25,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 2,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 2,
     "/Weltraum/Konzerne/S_I_E_Robotermanufaktur": 2,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg": 1
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 1
   },
   "jonas wagner": {
     "/Weltraum/Konzerne/S_I_E_Robotermanufaktur": 160,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/": 51,
     "/Abenteuer/": 25,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 2,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 2,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg": 1
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 1
   },
   "julian green": {
     "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen": 176
@@ -6183,8 +6184,8 @@
     "/Abenteuer/Der_grosse_Fang/Chinese": 53,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 30,
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 27,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 7,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 6,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 5,
     "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf": 4,
     "/Weltraum/SpaceNinjas/": 4,
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 3,
@@ -6192,14 +6193,14 @@
     "/Weltraum/SpaceNinjas/Clans/": 3,
     "/Abenteuer/Dungeonplanet/Ebene2": 2,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg": 2,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": 2,
     "/Weltraum/SpaceNinjas/Clans/Akamachi-Clan": 2,
     "/Abenteuer/": 1,
     "/Abenteuer/Der_grosse_Fang/Einstieg": 1,
     "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 1,
     "/Abenteuer/Der_grosse_Fang/Reise": 1,
     "/Abenteuer/Der_grosse_Fang/SpaceNinjas": 1,
-    "/Abenteuer/Dungeonplanet/": 1,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 1
+    "/Abenteuer/Dungeonplanet/": 1
   },
   "ninjas konnten den cyberaffen rauben": {
     "/Abenteuer/Der_grosse_Fang/Chinese": 25
@@ -6692,11 +6693,11 @@
     "/Weltraum/Piraten/Treffpunkte/Gimis_Bar": 10,
     "/StarTunes/Lyrics": 9,
     "/Abenteuer/Buschraub/Bahir": 8,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 8,
     "/Abenteuer/Zeitraub/Auftrag": 8,
     "/Abenteuer/Buschraub/Einstieg": 7,
     "/Abenteuer/Buschraub/Nova_Ceti": 7,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 7,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 7,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 6,
     "/Publikationen/": 6,
     "/Abenteuer/Der_grosse_Fang/Danach": 5,
@@ -6799,6 +6800,7 @@
     "/Abenteuer/Neutritiumklau/Auftrag": 1,
     "/Abenteuer/Ostern/": 1,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/": 1,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": 1,
     "/Abenteuer/Raumschiffdungeon/": 1,
     "/Abenteuer/Raumschiffdungeon/Einstieg": 1,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Baustelle": 1,
@@ -7094,7 +7096,7 @@
     "/Abenteuer/Neutritiumklau/Auftrag": 1,
     "/Abenteuer/Ostern/Hintergrund": 1,
     "/Abenteuer/Ostern/Sonden": 1,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 1,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/": 1,
     "/Abenteuer/Schatz_von_Menkar/": 1,
     "/Abenteuer/Schatz_von_Menkar/Ende": 1,
@@ -10810,9 +10812,8 @@
     "/Weltraum/Konzerne/S_I_E_Robotermanufaktur": 160,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/": 51,
     "/Abenteuer/": 25,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 2,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 2,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg": 1
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 1
   },
   "wagone": {
     "/Weltraum/Aliens/Wagonen/": 416,
@@ -10998,6 +10999,9 @@
   "weisses loch": {
     "/Weltraum/Weltraumphaenomene/Weisses_Loch": 250,
     "/Weltraum/Verrueckte_Wissenschaftler": 10
+  },
+  "weiter gehts": {
+    "/Weltraum/Aliens/Glukorianer/Glutulhu/Danach": 25
   },
   "weitere interessante orte": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 25
@@ -11561,6 +11565,10 @@
   },
   "zurueckschicken": {
     "/Abenteuer/Ostern/Loesung": 25
+  },
+  "zusammenfassung": {
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": 100,
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/": 1
   },
   "zwei": {
     "/Abenteuer/Buschraub/Eris": 3,
