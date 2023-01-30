@@ -125,6 +125,7 @@ karte.getInfo = async function(text, link) {
             main.setAttribute('class', '');
             document.getElementById('infoTab').appendChild(main);
             if (aside !== undefined) {
+                aside.setAttribute('class', '');
                 aside.classList.add('mt-2');
                 document.getElementById('infoTab').appendChild(aside);
             }
