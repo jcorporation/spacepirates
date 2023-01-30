@@ -262,9 +262,8 @@ tables.randomTable = function(table) {
     firstRow.classList.add('clickable');
     firstRow.addEventListener('click', function() {
         const rows = table.querySelector('tbody').rows;
-        const selectedRows = table.querySelectorAll('.selected');
-        for (let sel of selectedRows) {
-            sel.classList.remove('selected');
+        for (const row of rows) {
+            row.classList.remove('selected');
         }
         const r = Math.floor(Math.random() * rows.length);
         rows[r].classList.add('selected');
