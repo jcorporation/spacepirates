@@ -40,3 +40,11 @@
 #searchTabResult a {
     padding-left: 0;
 }
+
+#infoTab > aside {
+    padding-left: 0 !important;
+}
+
+#infoTab > main table {
+    margin-bottom: 1rem;
+}
