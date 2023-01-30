@@ -98,8 +98,6 @@ sitedata:
         - Schatzkarte
 ---
 
-
-
 Jedes technische Artefakt besteht aus drei Worten, Beispiele wären der Molekulare Quanten-Kollektor, die äußerst praktische Mobile Holo-Schatzkarte und natürlich der für jeden Spacepiraten unverzichtbare Persönliche Aarrrr-Roboter!
 
 {% include zufallstabelle.md table="techsprech" count=10 manual=false %}

@@ -35,8 +35,6 @@ sitedata:
         - Lagerkoller
 ---
 
-
-
 Diese Zufallstabelle kann genutzt werden um einen Raumflug interessanter zu gestalten.
 
 {% include zufallstabelle.md table="existingRaumflugEreignisse" %}

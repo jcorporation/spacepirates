@@ -33,8 +33,6 @@ sitedata:
         - "Poly der Bordpapagei gibt nicht nur nervige Wiederholungen eines nervigen Satzes wieder, sondern beteiligt sich am aktuellen Diskurs."
 ---
 
-
-
 Allen Wahrscheinlichkeitsrechnungen zum Trotz gibt es sie: die Unwahrscheinlichkeitszone. Hier sind alle Wahrscheinlichkeiten aufgehoben, umgekehrt, wahrscheinlich und unwahrscheinlich zugleich. Die Wahrscheinlichkeitsrechnung und somit die Quantenphysik versagen. Was unwahrscheinlich scheint, existiert hier und was wahrscheinlich ist, wird hier nicht sein. So unwahrscheinlich es klingt, so wahrscheinlich ist es dort.
 
-{% include zufallstabelle.md table="unwahrscheinlichkeitszone" %}
+{% include zufallstabelle.md table="unwahrscheinlichkeitszone" auto=false %}

@@ -67,7 +67,7 @@ sitemap.showCurrent = function() {
 sitemap.fetch = async function() {
     try {
       const response = await fetch('/assets/html/sitemap.html');
-      document.getElementById('sitemap-body').innerHTML = await response.text();
+      document.querySelector('#sitemap-body').innerHTML = await response.text();
       sitemap.show();
     }
     catch (err) {
@@ -75,13 +75,13 @@ sitemap.fetch = async function() {
     }
 }
 
-sitemap.init = function() {
-    const sitemapEl = document.getElementById('nav-sitemap');
+sitemap.init = function(scope) {
+    const sitemapEl = scope.querySelector('#nav-sitemap');
     if (sitemapEl === null) {
         return;
     }
     sitemapEl.addEventListener('show.bs.tab', function() {
-        if (document.getElementById('main-menu').querySelector('.sitemap') === null) {
+        if (scope.getElementById('main-menu').querySelector('.sitemap') === null) {
             sitemap.fetch();
         }
         else {
@@ -93,8 +93,8 @@ sitemap.init = function() {
 // enhance tables
 const tables = {};
 
-tables.init = function() {
-    tables.allTables = document.querySelectorAll('table');
+tables.init = function(scope) {
+    tables.allTables = scope.querySelectorAll('table');
     for (const table of tables.allTables) {
         const caption = table.previousElementSibling && table.previousElementSibling.classList.contains('table-caption')
             ? table.previousElementSibling.textContent
@@ -274,8 +274,8 @@ tables.randomTable = function(table) {
 // dice tags
 const dice = {};
 
-dice.init = function() {
-    dice.dices = document.getElementsByClassName('dice');
+dice.init = function(scope) {
+    dice.dices = scope.querySelectorAll('.dice');
     for (const el of dice.dices) {
         el.classList.add('btn', 'btn-sm', 'btn-yellow');
         el.addEventListener('click', function(event) {
@@ -476,17 +476,18 @@ siteSearch.createCrumb = function(match) {
     return crumb;
 }
 
-siteSearch.init = function() {
-    siteSearch.searchIndex = null;
-    siteSearch.stompWords = null;
-    siteSearch.sitemap = null;
-    siteSearch.inputSearch = document.getElementById('inputSearch');
-    siteSearch.searchResult = document.getElementById('searchResult');
-
-    const searchEl = document.getElementById('nav-search');
+siteSearch.init = function(scope) {
+    const searchEl = scope.querySelector('#nav-search');
     if (searchEl === null) {
         return;
     }
+
+    siteSearch.searchIndex = null;
+    siteSearch.stompWords = null;
+    siteSearch.sitemap = null;
+    siteSearch.inputSearch = scope.querySelector('#inputSearch');
+    siteSearch.searchResult = scope.querySelector('#searchResult');
+
     searchEl.addEventListener('show.bs.tab', function() {
         if (siteSearch.cbSearchInitialized() === false) {
             siteSearch.inputSearch.setAttribute('disabled', 'disabled');
@@ -508,18 +509,25 @@ siteSearch.init = function() {
 }
 
 //init all
-dice.init();
-sitemap.init();
-siteSearch.init();
-tables.init();
+function siteInit(scope) {
+    if (typeof randgen === 'object') {
+        randgen.init(scope);
+    }
+    dice.init(scope);
+    sitemap.init(scope);
+    siteSearch.init(scope);
+    tables.init(scope);
 
-// clickable event handler
-const clickBoxes = document.getElementsByClassName('clickable');
-for (const box of clickBoxes) {
-    const link = box.getElementsByTagName('a')[0];
-    if (link) {
-        box.addEventListener('click', function() {
-            link.click();
-        }, false);
+    // clickable event handler
+    const clickBoxes = document.querySelectorAll('.clickable');
+    for (const box of clickBoxes) {
+        const link = box.querySelector('a');
+        if (link) {
+            box.addEventListener('click', function() {
+                link.click();
+            }, false);
+        }
     }
 }
+
+siteInit(document);

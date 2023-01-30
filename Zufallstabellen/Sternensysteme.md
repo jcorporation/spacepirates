@@ -4,8 +4,6 @@ permalink: /Zufallstabellen/Sternensysteme
 title: Sternensysteme
 ---
 
-
-
 Dieser Zufallsgenerator generiert komplette Sternensysteme, entweder total zufällig oder auch mit ein paar Rahmenparameter.
 
 <table>
@@ -39,7 +37,7 @@ Dieser Zufallsgenerator generiert komplette Sternensysteme, entweder total zufä
 <h3>Planeten</h3>
 <ol id="planetenlist">
 </ol>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/sternensysteme.js"></script>
+<script src="{{ site.baseurl }}/assets/js/data_names.js"></script>
+<script src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
+<script src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
+<script src="{{ site.baseurl }}/assets/js/sternensysteme.js"></script>

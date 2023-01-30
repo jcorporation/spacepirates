@@ -20,8 +20,6 @@ sitedata:
         - "Unbekannter Ausnahmefehler"
 ---
 
-
-
 Hier kann ausgewürfelt werden, was geschieht, wenn ein technisches Gerät kaputt geht.
 
 {% include zufallstabelle.md table="existingGeraeteFehlfunktionen" %}

@@ -17,8 +17,6 @@ sitedata:
         - "Kommt nicht zum Punkt"
 ---
 
-
-
 Hier kann ausgewürfelt werden, wie sich eine KI gegenüber den Spielercharakteren verhält.
 
 {% include zufallstabelle.md table="existingKiEigenschaften" %}

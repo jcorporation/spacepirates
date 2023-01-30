@@ -45,6 +45,6 @@
     padding-left: 0 !important;
 }
 
-#infoTab > main table {
-    margin-bottom: 1rem;
+button.active {
+    background-color: var(--sp-orange-dark) !important;
 }

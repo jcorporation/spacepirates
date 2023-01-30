@@ -30,15 +30,20 @@ randgen.isDuplicate = function(out, item) {
 }
 
 randgen.init = function() {
-    const btn = document.querySelector('[data-id="generate-btn"]');
-    btn.addEventListener('click', function (event) {
-        randgen.generate(event.target);
-    }, false);
-}
-
-randgen.start = function() {
-    const btn = document.querySelector('[data-id="generate-btn"]');
-    randgen.generate(btn);
+    const randTables = document.querySelectorAll('[data-type="zufallstabelle"]');
+    for (const randTable of randTables) {
+        const tableName = randTable.getAttribute('data-table');
+        if (randTable.getAttribute('data-manual') !== 'false') {
+            randgen.array2html(tabellen[tableName], document.getElementById(tableName + 'Table'));
+        }
+        const btn = randTable.querySelector('button');
+        btn.addEventListener('click', function (event) {
+            randgen.generate(event.target);
+        }, false);
+        if (randTable.getAttribute('data-auto') !== 'false') {
+            randgen.generate(btn);
+        }
+    }
 }
 
 randgen.array2html = function(table, dst) {

@@ -22,7 +22,7 @@ title: Namensgenerator
 
 <div id="namensgenout" class="list-group mt-2"></div>
 
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/namensgen.js"></script>
+<script src="{{ site.baseurl }}/assets/js/data_names.js"></script>
+<script src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
+<script src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
+<script src="{{ site.baseurl }}/assets/js/namensgen.js"></script>
