@@ -107,7 +107,7 @@ td > p:last-child {
   margin-bottom: 0;
 }
 
-tr.selected td {
+tr.selected > td {
   background-color: var(--sp-orange) !important;
 }
 

@@ -96,7 +96,7 @@ const tables = {};
 tables.init = function() {
     tables.allTables = document.querySelectorAll('table');
     for (const table of tables.allTables) {
-        const caption = table.previousElementSibling.classList.contains('table-caption')
+        const caption = table.previousElementSibling && table.previousElementSibling.classList.contains('table-caption')
             ? table.previousElementSibling.textContent
             : '';
         if (table.parentNode.classList.contains('tbl-collapsed') === false) {
@@ -262,8 +262,8 @@ tables.randomTable = function(table) {
     firstRow.classList.add('clickable');
     firstRow.addEventListener('click', function() {
         const rows = table.querySelector('tbody').rows;
-        const sel = table.querySelector('.selected');
-        if (sel) {
+        const selectedRows = table.querySelectorAll('.selected');
+        for (let sel of selectedRows) {
             sel.classList.remove('selected');
         }
         const r = Math.floor(Math.random() * rows.length);
