@@ -48,7 +48,7 @@ sitedata:
             Zaehigkeit: 4
             Bewaffnung: keine
         Willibert_von_Wagonien:
-            Name: "Willibert von Wagonion"
+            Name: "Willibert von Wagonien"
             Rasse: "Wagone"
             Kategorie:
                 - "Promi"
