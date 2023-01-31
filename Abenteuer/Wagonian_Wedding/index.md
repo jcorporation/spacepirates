@@ -4,8 +4,6 @@ permalink: /Abenteuer/Wagonian_Wedding/
 title: Wagonian Wedding
 ---
 
-
-
 ## Die royale Hochzeit der Wagonen
 
 Prinzessin Lea, das „Juwel von Xawang“ und Tochter von Kronprinz Wagonion, soll endlich unter die Haube gebracht werden. Eine große Feier ist angekündigt, gekrönte und ungekrönte Häupter aus der gesamten Galaxie sind eingeladen. UBC hat sich die Exklusivrechte gesichert und ihren Starreporter Rupert Sailman-Eggbird mit Assistentin Daisy Klick als Berichterstatter entsandt.
@@ -20,7 +18,7 @@ Natürlich ist Hein Mono nicht der Einzige, der die Hochzeit zu seinen Gunsten a
 - [Konfliktübersicht]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Konfliktuebersicht)
 - [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Einleitung)
 - [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam)
-- [Auftritt: Der Teufel trägt Bäämler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler)
+- [Auftritt: Der Teufel trägt Bäämmler]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler)
 - [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam)
 - [Auftritt: Ein Herz und ein Wagone]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone)
 - [Auftritt: Die üblichen Verdächtigen]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen)

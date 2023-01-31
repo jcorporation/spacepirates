@@ -4,8 +4,6 @@ permalink: /Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen
 title: "Auftritt: Die üblichen Verdächtigen"
 ---
 
-
-
 Neben den bereits erwähnten Gästen gibt es auf der Hochzeit noch zwei weitere Paare, die für Aufruhr sorgen können: Zum einen sind dies Leas Cousin Prinz Willibert und seine Frau Käthe, zum anderen der UBC-Adelsexperte Rupert Sailman-Eggbird und seine „Assistentin“ Daisy Klick.
 
 Willibert und Käthe sind militante Umweltschützer – also sogar für wagonische Verhältnisse seltsam. Ihre Overalls bestehen aus selbst gestricktem, vollkommen recycelbarem Material und Willibert und Käthe versuchen ständig, ihren Onkel und ihre Cousine, davon zu überzeugen, eine ökologisch hundertprozentig verträgliche Trauung abzuhalten. So sollen die Gäste am besten in einer Fahrgemeinschaft anreisen, das Hochzeitskleid sollte biologisch abbaubar sein, ein fruktarisches Büffet ist eine weitere Idee der beiden. Außerdem hält sich Willibert für den besseren König, weil er den Wagonischen Punkt für galaktisches Recycling eingeführt hat.

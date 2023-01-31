@@ -4,8 +4,6 @@ permalink: /Abenteuer/Wagonian_Wedding/Special_Effects_für_alle
 title: "Auftritt: Special Effects für alle!"
 ---
 
-
-
 Wie es sich gehört, wird der „Stern von Urkalath“ natürlich streng bewacht. Zunächst einmal hängen überall Kameras, die dafür sorgen sollen, dass die Gäste sich sicher fühlen. Jeder Flügel des Schlosses hat einen Observationsraum, in dem rund um die Uhr zwei Wachen aufpassen. Diese Observationsräume sind selbstverständlich durch falsche Wände, Geheimtüren und Ähnliches getarnt.
 
 Dazu patrouillieren jeweils vier Kahadrier starke Trupps in regelmäßigen Abständen die Gänge. Selbstverständlich stoßen auch die Wachen auf ihre Prinzessin an, weshalb sie etwas beschwippst und nicht ganz so aufmerksam sind.

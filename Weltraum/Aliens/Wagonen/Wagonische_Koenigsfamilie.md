@@ -202,7 +202,7 @@ sitedata:
             Kategorie:
                 - "Promi"
             Wohnort: "Windsor Planet"
-            Position: "Bäämlers Muse"
+            Position: "Bäämmlers Muse"
             SOELDNER: 2
             TECH: 2
             PILOT: 4
@@ -210,8 +210,6 @@ sitedata:
             Zaehigkeit: 2
             Bewaffnung: keine
 ---
-
-
 
 Die wagonische Königsfamilie ist die vermutlich älteste Monarchie der Galaxis. Seit 300 Jahren sitzt Königin Elisabeth auf dem wagonischen Thron und denkt gar nicht daran abzutreten, sie ist für ihr Alter auch noch erstaunlich robust und agil. Ihr legitimer Nachfolger ist Kronprinz Wagonion, der jetzt schon über 50 Jahre auf die Nachfolge wartet. Es gibt Gerüchte, er habe schon das eine oder andere unternommen, um den Rücktritt der Königin zu beschleunigen. Das Schmuckstück der Königsfamilie ist, neben den Kronjuwelen, Prinzessin Lea, die als eine der schönsten Wagonen des Universums gilt. Sie ist die typische, gelangweilte Prinzessin, die es nur nervt, dass ihr das halbe Universum zu Füßen liegt.
 
@@ -227,17 +225,13 @@ Die wagonische Königsfamilie ist die vermutlich älteste Monarchie der Galaxis.
 
 {% include slc_profile.md data=page.sitedata.Slc.Koenigin_Elisabeth %}
 
-### Kronprinz Wagonion
-
-#### – der ewige Kronprinz
+### Kronprinz Wagonion – der ewige Kronprinz
 
 Wartet seit 50 Jahren darauf, dass seine Mutter endlich in Rente geht. Oder abdankt. Oder den Planeten auf einer geheimen Mission verlässt. Hauptsache, er darf endlich mal ans Ruder und dafür sorgen, dass die Dinge laufen, wie er sie für richtig hält. Sein Alter Ego, Sir Hat, ist eine Mischung aus Superschurke, Superheld und Supermuttersöhnchen.
 
 {% include slc_profile.md data=page.sitedata.Slc.Kronprinz_Wagonion %}
 
-### Prinzessin Lea
-
-#### – das „Juwel von Xawang“
+### Prinzessin Lea – das „Juwel von Xawang“
 
 Hält ihren Vater Wagonion für eine Schnarchnase, hat dafür aber ein gutes Verhältnis zu ihrer Großmutter. Lea ist keine typische Prinzessin, sie wäre am liebsten Space Piratin oder, noch besser, Thronfolgerin anstelle des Thronfolgers.
 
@@ -267,7 +261,7 @@ Leas Verlobter. Ein unbedeutender wagonischer Adliger, der nur deshalb mit Prinz
 
 ### Hein Mono
 
-Leas heimlicher Verlobter. Ein menschlicher Space Pirat, Vorbild für die Typen mit offenem Hemd auf den Titelbildern einschlägiger Romane: Mensch, Ende 20, leuchtend weiße Zähne, in leichten Welle gefönte dunkelblonde Haare. Zudem trägt er stets enge, schwarze Lederhosen, eine schwarze Lederweste und darunter ein halb zugeknöpftes weißes Hemd, was seine ausgesprochen männliche Brust zur Geltung kommen lässt. Außerdem ist er klug und gebildet. Leider ist er auch völlig mittellos, aber das muss ja niemand wissen.
+Leas heimlicher Verlobter. Ein menschlicher Space Pirat, Vorbild für die Typen mit offenem Hemd auf den Titelbildern einschlägiger Romane: Mensch, Ende 20, leuchtend weiße Zähne, in leichten Welle geföhnte dunkelblonde Haare. Zudem trägt er stets enge, schwarze Lederhosen, eine schwarze Lederweste und darunter ein halb zugeknöpftes weißes Hemd, was seine ausgesprochen männliche Brust zur Geltung kommen lässt. Außerdem ist er klug und gebildet. Leider ist er auch völlig mittellos, aber das muss ja niemand wissen.
 
 {% include slc_profile.md data=page.sitedata.Slc.Hein_Mono %}
 
@@ -279,7 +273,7 @@ Königlicher Modeschöpfer. Hat das Brautkleid der Prinzessin entworfen und häl
 
 ## Madame PlämPläm
 
-Eine berühmte Sängerin, Bäämlers Muse. Exaltierte Person, die ständig Outfit und Frisur wechselt. Es ist daher sehr schwer zu sagen, von welchem Planeten sie stammt. Sie könnte eine Glukorianerin sein. Oder ein Mann.
+Eine berühmte Sängerin, Bäämmlers Muse. Exaltierte Person, die ständig Outfit und Frisur wechselt. Es ist daher sehr schwer zu sagen, von welchem Planeten sie stammt. Sie könnte eine Glukorianerin sein. Oder ein Mann.
 
 {% include slc_profile.md data=page.sitedata.Slc.Madame_PlaemPlaem %}
 

@@ -17,8 +17,6 @@ sitedata:
             Bewaffnung: Laserpistole (WB 0)
 ---
 
-
-
 - [Wagonische Königsfamilie]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie)
 
 ## Dr. von Nofeld
