@@ -162,6 +162,13 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Bryce_Nilson": {
+    "Name": "Bryce Nilson",
+    "Rasse": "Mensch",
+    "Kategorie": "Politiker",
+    "Wohnort": "Stratum Nova",
+    "Link": "/Weltraum/Freihandelszone/Handelsrat"
+  },
   "Cecily_Blazer-Polo": {
     "Name": "Cecily Blazer-Polo",
     "Rasse": "Wagonin",
@@ -1389,6 +1396,13 @@
     "Zaehigkeit": 2,
     "Bewaffnung": "keine",
     "Link": "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie"
+  },
+  "Xerbar_Raxes": {
+    "Name": "Xerbar Raxes",
+    "Rasse": "Kahadrier",
+    "Kategorie": "Politiker",
+    "Wohnort": "Stratum Nova",
+    "Link": "/Weltraum/Freihandelszone/Handelsrat"
   },
   "Xergul": {
     "Name": "Xergul",
