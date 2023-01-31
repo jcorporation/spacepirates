@@ -1,0 +1,12 @@
+Konzerne.json
+Organisationen.json
+Piratenmacken.json
+Planeten.json
+Rassen.json
+Raumstationen.json
+Sektoren.json
+Slc.json
+Staedte.json
+Sternensysteme.json
+Weltraumphaenomene.json
+Weltraumtiere.json

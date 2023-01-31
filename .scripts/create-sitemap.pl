@@ -52,7 +52,7 @@ sub print_sitemap {
     $id =~ s/__/_/g;
     print $sitemap "<li id=\"sitemap-$id\">";
     print $sitemap "<a href=\"#\" class=\"sm-expand\">&#xF4FD;</a>" if $key =~ /\/$/;
-    print $sitemap "<a href=\"$pages{$key}{permalink}\" data-sort=\"$pages{$key}{order}\">$pages{$key}{title}</a>";
+    print $sitemap "<a href=\"$pages{$key}{permalink}\">$pages{$key}{title}</a>";
     print $sitemap "\n<ul>" if $key =~ /\/$/;
     for my $p (sort { fc($pages{$a}{order}) cmp fc($pages{$b}{order}) } keys %pages) {
         if ($pages{$p}{parent} eq $pages{$key}{permalink}) {

@@ -61,6 +61,7 @@ spacepears:spacepear
 spaceworms:spaceworm
 spiralnebels:spiralnebel
 stans:stan
+staedte:stadt
 sternwalen:sternenwale
 stratum novas:stratum nova
 streifianische:streifanier
@@ -71,6 +72,7 @@ unbekannten:unbekannt
 unbekannter:unbekannt
 universums:universum
 vereinigten:vereinigte
+vielen:viele
 wagonen:wagone
 wagonische:wagonen
 währungen:währung
@@ -80,3 +82,7 @@ würfeln:würfel
 würfelt:würfel
 yinyangyongs:yinyangyong
 zähigkeiten:zähigkeit
+spaceyetis:spaceyeti
+spacetrucker:spacetruck
+ninjas:ninja
+ninjaclans:ninjaclan

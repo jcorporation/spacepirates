@@ -106,12 +106,27 @@ sub get_uri {
     return "/".$uri;
 }
 
+sub to_lower {
+    my $str = lc($_[0]);
+    $str =~ s/Ü/ue/g;
+    $str =~ s/Ö/oe/g;
+    $str =~ s/Ä/ae/g;
+    return $str;
+}
+
 sub normalize {
-    my $kw = lc($_[0]);
-    # german umlauts
-    $kw =~ s/Ü/ue/g;
-    $kw =~ s/Ö/oe/g;
-    $kw =~ s/Ä/ae/g;
+    my $kw = $_[0];
+
+    if (defined($_[1])) {
+        # german umlauts
+        $kw =~ s/Ü/Ue/g;
+        $kw =~ s/Ö/Oe/g;
+        $kw =~ s/Ä/Ae/g;
+    }
+    else {
+        $kw = to_lower($kw);
+    }
+
     $kw =~ s/ü/ue/g;
     $kw =~ s/ö/oe/g;
     $kw =~ s/ä/ae/g;
@@ -170,12 +185,23 @@ sub add_keyphrase {
 
     # add full string
     if ($full eq "true") {
-        add_keyword($kw);
-        shift @kws;
+        #add only short full strings
+        my $count = $kw =~ tr/ //;
+        if (length($kw) > 25 or $count > 5) {
+            $full = "false";
+        }
+        if ($full eq "true") {
+            add_keyword($kw);
+            shift @kws;
+        }
     }
     # add single words
     for my $word (@kws) {
-        add_keyword($word);
+        if ($word =~ /^\p{Lu}/) {
+            # add only words with upper case first letter
+            $word = to_lower($word);
+            add_keyword($word);
+        }
     }
 }
 
@@ -290,20 +316,20 @@ sub parse_data {
     close $fh;
 }
 
+# read data files from which we grab keywords
+my @datafiles = ();
+open $fh, ".scripts/conf/index_datafiles.txt" or die "Error opening .scripts/conf/index_datafiles.txt";
+while (my $line = <$fh>) {
+    chomp($line);
+    push @datafiles, $line;
+}
+close $fh;
+
 # get keywords from _data
-opendir $dh, "_data" or die "Error in opening dir _data";
-while (my $filename = readdir($dh)) {
-    if ($filename =~ /^\./ ||
-        $filename eq "index.json" ||
-        $filename eq "data_synonyms.json" ||
-        $filename eq "index_stompkeys.json")
-    {
-        next;
-    }
+for my $filename (@datafiles) {
     print "Getting keywords from $filename\n";
     parse_data("_data/".$filename);
 }
-closedir $dh;
 
 # discovering keywords finished
 my $keywords_count = scalar keys %keywords;
