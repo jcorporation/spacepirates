@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: planet
 permalink: /Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet
 title: Stummfilm-Planet
 sitedata:
