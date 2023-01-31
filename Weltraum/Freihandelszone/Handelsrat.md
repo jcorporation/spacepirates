@@ -9,13 +9,11 @@ sitedata:
             Rasse: "Mensch"
             Kategorie: "Politiker"
             Wohnort: "Stratum Nova"
-    Slc:
         Xerbar_Raxes:
             Name: "Xerbar Raxes"
             Rasse: "Kahadrier"
             Kategorie: "Politiker"
             Wohnort: "Stratum Nova"
-    Slc:
         Adaxes_Karu:
             Name: "Adaxes Karu"
             Rasse: "Trull"
