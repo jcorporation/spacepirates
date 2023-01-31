@@ -1,6 +1,5 @@
 Konzerne.json
 Organisationen.json
-Piratenmacken.json
 Planeten.json
 Rassen.json
 Raumstationen.json

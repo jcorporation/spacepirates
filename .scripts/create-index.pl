@@ -151,7 +151,7 @@ sub normalize {
 
 sub remove_prefix {
     my $kw = $_[0];
-    while ($kw =~ s/^\s*(aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|an|auf|der|die|das|ein|eine|\d+\.?)\s+//gi) {
+    while ($kw =~ s/^\s*(aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|den|an|auf|der|die|das|ein|eine|\d+\.?)\s+//gi) {
         # replace all prefixes
     }
     return $kw;
@@ -180,7 +180,7 @@ sub add_keyphrase {
     }
 
     $kw = remove_prefix($kw);
-    $kw = normalize($kw);
+    $kw = normalize($kw, "case");
     my @kws = split /\s+/, $kw;
 
     # add full string
@@ -191,7 +191,8 @@ sub add_keyphrase {
             $full = "false";
         }
         if ($full eq "true") {
-            add_keyword($kw);
+            my $word = to_lower($kw);
+            add_keyword($word);
             shift @kws;
         }
     }
@@ -334,6 +335,11 @@ for my $filename (@datafiles) {
 # discovering keywords finished
 my $keywords_count = scalar keys %keywords;
 print "Discovered $keywords_count keywords\n";
+open $fh, ">_tmp/index_keywords.txt";
+for (sort keys %keywords) {
+    print $fh $_."\n";
+}
+close $fh;
 
 print "Indexing files\n";
 # add uri to index

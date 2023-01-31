@@ -3762,21 +3762,21 @@
   "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": {
     "prev": "/Abenteuer/Wagonian_Wedding/",
     "firstInDir": true,
-    "next": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler",
+    "next": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler",
     "lastInDir": false,
     "parent": "/Abenteuer/Wagonian_Wedding/",
     "title": "Auftritt: Der Spion, der aus dem Weltall kam"
   },
-  "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler": {
+  "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler": {
     "prev": "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam",
     "firstInDir": false,
     "next": "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen",
     "lastInDir": false,
     "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "Auftritt: Der Teufel trägt Bäämler"
+    "title": "Auftritt: Der Teufel trägt Bäämmler"
   },
   "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemler",
+    "prev": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler",
     "firstInDir": false,
     "next": "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone",
     "lastInDir": false,

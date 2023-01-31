@@ -376,7 +376,7 @@ siteSearch.doSearch = function(value, resultEl) {
     }
     // normalize searchstring
     value = value.toLowerCase().replace(/['`´",;.\-?!():[\]|&/#{}]/g, '');
-    value = value.replace(/[üöäßÜÖÄ]/, function(m) {
+    value = value.replace(/[üöäßÜÖÄ]/g, function(m) {
         switch(m) {
             case 'ü': return 'ue';
             case 'ö': return 'oe';
@@ -392,7 +392,7 @@ siteSearch.doSearch = function(value, resultEl) {
     do {
         // replace all prefixes
         valueOld = value;
-        value = value.replace(/^\s*(aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|an|auf|der|die|das|ein|eine|\d+\.?)\s+/, '')
+        value = value.replace(/^\s*(aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|den|an|auf|der|die|das|ein|eine|\d+\.?)\s+/, '')
     } while (value !== valueOld)
     // stomp searchstring
     const stomp = siteSearch.stompWords[value];

@@ -1,7 +1,7 @@
 {% assign phrases = include.data | downcase | split: " " %}
 
 {% assign normalized = "" %}
-{% assign words = "aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|an|auf|der|die|das|ein|eine" | split: "|" %}
+{% assign words = "aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|den|an|auf|der|die|das|ein|eine" | split: "|" %}
 {% assign start = 1 %}
 {% for phrase in phrases %}
     {% assign match = 0 %}
