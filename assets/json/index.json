@@ -7274,7 +7274,8 @@
   },
   "spaceindianer": {
     "/Ideenhalde/Bewohner/Spaceindianer": 101,
-    "/Ideenhalde/Bewohner/": 1
+    "/Ideenhalde/Bewohner/": 1,
+    "/Ideenhalde/Orte/": 1
   },
   "spacekuerbisse": {
     "/Abenteuer/Halloween/Einstieg": 26,
