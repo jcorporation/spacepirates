@@ -1668,12 +1668,12 @@
   },
   "einfache": {
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 51,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/": 3,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/": 2,
     "/Abenteuer/Neutritiumklau/Lager": 1
   },
   "einfache konflikte": {
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 101,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/": 3,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/": 2,
     "/Spielregeln/": 1
   },
   "eingang": {
@@ -3761,7 +3761,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 1
   },
   "konflikt": {
-    "/Spielregeln/Abenteuer_erleben/Konflikte/": 106,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/": 105,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 55,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 31,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 4,
@@ -3798,7 +3798,7 @@
   },
   "konfliktszenen": {
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 101,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/": 4,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/": 2,
     "/Spielregeln/": 1
   },
   "konfliktuebersicht": {
@@ -6280,7 +6280,6 @@
   "regeln": {
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 25,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/": 2,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/": 2,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 1
   },
   "regenboegen": {
