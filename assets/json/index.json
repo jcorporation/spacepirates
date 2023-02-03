@@ -6164,6 +6164,11 @@
   "raumschiffe gleiter": {
     "/Weltraum/Technologie/": 25
   },
+  "raumschiffkampf": {
+    "/Spielregeln/": 1,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 1,
+    "/Weltraum/Weltraumphaenomene/Quantenfluktuation": 1
+  },
   "raumschiffkapitaen": {
     "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 10
   },
