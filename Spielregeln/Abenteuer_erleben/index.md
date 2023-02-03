@@ -5,8 +5,6 @@ title: Abenteuer erleben
 order: /020
 ---
 
-
-
 Dieser Abschnitt beschreibt wie Abenteuer gegliedert sind, wie Konflikte aufgelöst werden können und auch wie der Raumkampf abgehandelt wird.
 
 - [Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer_erleben/Abenteuer/)

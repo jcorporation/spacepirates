@@ -4,8 +4,6 @@ permalink: /Rezensionen
 title: Rezensionen, Vorstellungen und Spielberichte
 ---
 
-
-
 Hier sammle ich Rezensionen, Vorstellungen und Spielberichte zu SpacePirates.
 
 - [Sudden Dice Podcast](https://suddendice.de/gmscreen/podcasts/space-pirates/)

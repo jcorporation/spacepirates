@@ -4,8 +4,6 @@ permalink: /Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege
 title: Raumflüge
 ---
 
-
-
 Raumflüge laufen im Normalfall unspektakulär ab, man rast einfach so durchs Weltall. Aber auch bei Raumflügen kann etwas am Schiff kaputtgehen. Bei jedem Start und Stopp eines Raumflugs ist ein Mackencheck nötig. Raumschiffe mit FTL-Antrieb erreichen eine Geschwindigkeit von bis zu zwei Lichtjahren in der Stunde.
 
 - **Maximalgeschwindigkeit:** 2 Lichtjahre / Stunde

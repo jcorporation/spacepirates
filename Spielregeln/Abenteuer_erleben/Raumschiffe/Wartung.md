@@ -4,8 +4,6 @@ permalink: /Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung
 title: Wartung von Raumschiffen
 ---
 
-
-
 Pro Punkt Schaden, den das Raumschiff erlitten hat, muss ein Tech es eine Stunde warten. Für die Wartung ist eine TECH-Probe erforderlich. Zur Wartung muss das Schiff irgendwo gelandet sein. Die Schwierigkeit der Probe kann von der unteren Tabelle abgelesen werden.
 
 | Erlittene Schadenspunkte | Benötigte Erfolge |

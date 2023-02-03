@@ -4,9 +4,7 @@ permalink: /Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte
 title: Einfache Konflikte
 ---
 
-
-
-Wenn die obige Vorgehensweise für einen Konflikt zu aufwendig erscheint und die Details keine Rolle spielen, kann auch ein einfacher Konflikt ausgeführt werden.
+Wenn Konfliktszenen für einen Konflikt zu aufwendig erscheint und die Details keine Rolle spielen, kann auch ein einfacher Konflikt ausgeführt werden.
 
 {% capture include_body %}
 

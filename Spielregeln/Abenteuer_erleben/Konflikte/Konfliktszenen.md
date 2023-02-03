@@ -160,6 +160,5 @@ Nun ist Xenurs Spieler wieder an der Reihe und so geht es weiter, bis alle gewor
 - Der Charakter zerstört ein altes Alienartefakt, weil er auf einen überraschenden Angriff eines Gegners reagieren muss. Oder weil die sabotierten Dielen unter ihm nachgeben und er dadurch das Gleichgewicht verliert.
 - In einem Wettrennen übersieht der Charakter beinahe ein Hindernis, da er geblendet wird. Der Pilot reißt das Steuer herum, das Raumschiff gerät ins Trudeln, weil die Stabilisatoren versagen, und das gegnerische Raumschiff kann einen großen Vorsprung herausfahren.
 - In einer Actionszene versteckt sich der Charakter hinter einer Computerkonsole, lehnt sich dagegen und betätigt dabei einen Schalter, der die Flutlichtanlage einschaltet und den Charakter nun in grelles Licht taucht.
-
 {% endcapture %}
 {% include hinweis.md title="Tipps für den Einsatz von Erfolgs- und Misserfolgswürfeln" body=include_body %}

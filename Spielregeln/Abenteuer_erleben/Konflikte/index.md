@@ -4,8 +4,6 @@ permalink: /Spielregeln/Abenteuer_erleben/Konflikte/
 title: Konflikte
 ---
 
-
-
 Bei SpacePirates gibt es zwei Möglichkeiten Konflikte zu lösen. Der Spielleiter entscheidet, welche der beiden Regeln zum Einsatz kommt.
 
 - [Konfliktszenen]({{ site.baseurl }}/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen) dienen dazu, Konflikte detailreich und erzählerisch aufzulösen.

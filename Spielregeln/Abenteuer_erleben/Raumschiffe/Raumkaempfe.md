@@ -4,8 +4,6 @@ permalink: /Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe
 title: Raumfkämpfe
 ---
 
-
-
 Bei Raumkämpfen wird die Gruppe unterteilt, es gibt genau einen Piloten, beliebig viele Schützen und beliebig viele Techs. Es wird ja gekämpft und nicht verhandelt.
 
 Ein Raumkampf wird wie eine Konfliktszene abgehandelt. Jedes beteiligte Raumschiff zählt dabei als eine Partei.
