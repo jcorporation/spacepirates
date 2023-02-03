@@ -10,8 +10,9 @@ Sobald in einer Szene klar ist, wer die einzelnen Parteien sind und was das jewe
 
 {% capture include_body %}
 
-- Kampf
-- Verfolgungsjagd
+- Kampf oder eine Kneipenschlägerei
+- [Raumschiffkampf]({{ site.baseurl }}/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe)
+- Verfolgungsjagd oder andere Actionszene
 - Wichtiger Handel
 - Einbruch
 {% endcapture %}
