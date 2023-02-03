@@ -1924,7 +1924,7 @@
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 178,
     "/Abenteuer/Weihnachten_II/Santa_24": 51,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 33,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 13,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 15,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 10,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 6,
     "/Abenteuer/Halloween/Station": 5,
@@ -2381,6 +2381,7 @@
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 28,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 6,
     "/Abenteuer/Dungeonplanet/Einstieg": 2,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Abenteuer/Blumenkind/Blumenkind": 1
   },
   "geheime forschungen": {
@@ -5797,11 +5798,11 @@
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": 2,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 2,
     "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 1,
-    "/Abenteuer/Halloween/Nebel": 1,
-    "/Abenteuer/Ostern/Sonden": 1
+    "/Abenteuer/Halloween/Nebel": 1
   },
   "probeast": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 176
