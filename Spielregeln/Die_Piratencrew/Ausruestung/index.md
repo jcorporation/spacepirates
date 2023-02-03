@@ -5,8 +5,6 @@ title: Ausrüstung
 order: /004
 ---
 
-
-
 Ausrüstung ist derjenige Besitz des Charakters, der relevant für Abenteuer ist oder die Persönlichkeit des Charakters unterstützt. Alltägliche Dinge, spielen bei SpacePirates keine Rolle. Alles, was auf einem typischen Piratenschiff vorhanden ist, und alles, was ein Pirat dabei haben könnte, ist automatisch verfügbar. Daher ist es nicht nötig, bei der Charaktererschaffung jede Kleinigkeit zu kaufen und im Abenteuer Stunden beim Einkauf zu vertrödeln.
 
 Kommt bei einem Konflikt ein Ausrüstungsgegenstand zum Einsatz, erhöht dessen Bonus temporär den Profilwert oder die Zähigkeit.

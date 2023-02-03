@@ -47,8 +47,6 @@ sitedata:
         - überkorrekt
 ---
 
-
-
 Der Hintergrund verleiht dem Charakter Individualität. Neben Rasse, Namen, Beschreibung und Verhalten, interessieren auch vergangene, prägende Ereignisse. Ob der Hintergrund ausformuliert oder in Stichpunkten notiert wird, bleibt jedem selber überlassen.
 
 {% capture include_body %}

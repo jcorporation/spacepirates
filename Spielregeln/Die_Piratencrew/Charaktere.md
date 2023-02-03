@@ -5,8 +5,6 @@ title: Die Charaktere
 order: /001
 ---
 
-
-
 {% capture include_body %}
 Die Charaktere sind Piraten und treiben sich in den zwielichtigen Bars und Kneipen des Universums herum, liefern sich Schlägereien mit anderen Piraten und knüpfen Kontakte zu halbseidenen Händlern, inoffiziellen Regierungsbeauftragten und undurchsichtigen Vereinigungen. Auf ihrer Jagd nach Ruhm und Reichtum führen sie, mit ihrem Piratenschiff voller seltsamer Macken, höchst illegale und wagemutige Aufträge durch, rauben Schiffe aus, liefern sich waghalsige Raumschlachten und entdecken neue Weltraumphänomene und Planeten. Trauen können sie niemandem, da jeder Auftraggeber und Handelspartner, der mit ihnen verkehrt, genauso verschlagen und geldgierig ist, wie sie selbst. Als wäre das nicht genug, werden sie natürlich auch vom Handelsrat und den Regierungen verfolgt und stehen in Konkurrenz mit vielen anderen Piraten.
 {% endcapture %}

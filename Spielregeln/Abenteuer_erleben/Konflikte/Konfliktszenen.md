@@ -57,7 +57,6 @@ Boni und Mali ergeben sich aus:
 - Ausrüstungsgegenstände (diese sollten die Spieler selber berücksichtigen). Wenn mehrere Ausrüstungsgegenstände eingesetzt werden, wird immer nur der Ausrüstungsgegenstand berücksichtigt, der den größten Bonus gibt.
 - Auswirkungen von Aktionen, dazu zählen z. B. die Auswirkungen von Raumschiffmacken.
 - Vorteilhafte bzw. ungünstige Umstände in der Szene. Würde ein Umstand alle Parteien einen Bonus oder Malus gewähren, kann er einfach ignoriert werden.
-
 {% endcapture %}
 {% include hinweis.md title="Boni und Mali" body=include_body %}
 
@@ -119,6 +118,11 @@ Bei einer Niederlage ist es sinnvoll, die Misserfolgswürfel am Ende auszugeben,
 Jeder Spieler sollte versuchen, einen Spannungsbogen aufzubauen und wenn möglich auf die Aktionen der anderen Charaktere einzugehen.
 {% endcapture %}
 {% include hinweis.md title="Aufteilung der Würfel" body=include_body %}
+
+{% capture include_body %}
+Wird in einer Konfliktszene eine Aktion ausgeführt, die dem Gegner einen Malus (egal wie hoch) einbringt, muss der Gegner einen zusätzlichen Erfolg einsetzen, um in seinem Zug einen Erfolg ausgeben zu dürfen. Wird er z.B. von einer Rauchbombe getroffen, muss er zwei Erfolge ausgeben, um zurückzuschießen, oder er kann einen Misserfolg ausgeben, um den negativen Effekt der Rauchbombe zu akzeptieren.
+{% endcapture %}
+{% include hinweis.md title="Mali innerhalb einer Konfliktszene" body=include_body %}
 
 {% capture include_body %}
 Nur weil eine Konfliktszene für die Spieler verloren geht, muss das nicht nur negative Folgen haben. Durch den geschickten Einsatz der Erfolgswürfel können wichtige Teilerfolge erzielt werden, die im Abenteuer noch wichtig werden können.

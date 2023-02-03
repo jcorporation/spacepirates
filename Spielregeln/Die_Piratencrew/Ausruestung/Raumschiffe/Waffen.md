@@ -19,7 +19,7 @@ Je höher der Schadensmodifikator (kurz SM) ist, umso mehr Schaden verursacht di
 | Tachyonenkanone | 2 | 2 | 48.000 |
 | Unobtaniumwerfer | 3 | 4 | 60.000 |
 
-- **Gravitationskanone:** Bei einem Treffer wird die Schwerkraft des Ziels für eine Kampfrunde aufgehoben (es muss ein Erfolg ausgegeben werden, um sinnvoll zu handeln).
+- **Gravitationskanone:** Bei einem Treffer wird die Schwerkraft des Ziels für eine Kampfrunde aufgehoben, &minus;1 auf alle Proben im getroffenen Raumschiff.
 - **Warptorpedo:** Warptorpedos werden mit FTL2-Geschwindigkeit abgefeuert.
 - **Tachyonenkanone:** Schießt schneller als das Licht (wie FTL8) und kann somit auch Schiffe treffen, die gerade mit FTL-Geschwindigkeit fliegen.
 - **Unobtaniumgeschosse** werden von den bekannten Schilden nicht aufgehalten.

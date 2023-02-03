@@ -28,7 +28,7 @@ Es gibt alle möglichen und unmöglichen Waffen. Die billigen geben keinen Bonus
 
 - **Shuriken** sind Wurfsterne, die bevorzugt von Ninjas eingesetzt werden.
 - **Revolver** und **Gewehre** haben sich nicht viel weiterentwickelt und sind solide wie eh und je.
-- **Rauchbomben** nebeln alles in einem Umkreis von 10 m um die Explosion ein (es muss ein Erfolg ausgegeben werden, um sinnvoll zu handeln).
+- **Rauchbomben** nebeln alles in einem Umkreis von 10 m um die Explosion ein, &minus;1 auf alle Proben im getroffenen Gebiet.
 - **Laserwaffen** gibt es in allen möglichen Ausführungen und auch in Pistolengröße. Die Farbe des Lasers hat nichts mehr mit der Stärke zu tun und hängt daher einzig vom Geschmack des Besitzers ab.
 - Die **Minilaserpistole** ist eine miniaturisierte Laserpistole im schicken Design, die in jede Hand- oder Jackentasche passt.
 - Der **Laserdegen** kombiniert einen Degen mit einer Laserpistole und sieht dementsprechend seltsam aus. Er gibt den Bonus auch im Nahkampf.
@@ -56,7 +56,7 @@ Es gibt alle möglichen und unmöglichen Waffen. Die billigen geben keinen Bonus
 - Der **Cyberholzfuß** und die **Hakenhand** ersetzen die normalen Gliedmaßen.
 - **Laser-Nunchakus** bestehen aus zwei stabförmigen Energiezellen, die mit einer Art Laserstrahl verbunden sind.
 - **Vibrosäbel** sind elegante Piratensäbel, deren Klinge extrem schnell vibriert, wodurch sie mehr Schaden verursachen.
-- Der **Rauchwerfer** funktioniert im Prinzip wie ein Feuerwerfer, nur dass er dichte, benebelnde Rauchschwaden ausspuckt, weshalb alle Proben in dem getroffenen Gebiet einen Malus von &minus;1 erleiden.
+- Der **Rauchwerfer** funktioniert im Prinzip wie ein Feuerwerfer, nur dass er dichte, benebelnde Rauchschwaden ausspuckt, &minus;1 auf alle Proben im getroffenen Gebiet.
 - **Ionisierte Äxte** sind zum einen besonders scharf, weshalb sie fast jedes Material durchdringen können, und stumpfen zum anderen nicht ab.
 
 ## Spezialwaffen
