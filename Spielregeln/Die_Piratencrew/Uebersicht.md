@@ -27,7 +27,7 @@ Die Crew benötigt mindestens einen Piloten, einen Tech und einen Söldner. Ein 
 
 ## Raumschiff erstellen
 
-1. Raumschiffwert: 13.000 + 5.000 × Gruppenmitglieder UC
+1. Raumschiffwert: 14.000 + 5.000 × Gruppenmitglieder UC
 2. Persönliches Startgeld kann auch verwendet werden.
 3. Optional: Stylezubehör gegen eine Macke eintauschen.
 4. Raumschiffmacken auswürfeln.

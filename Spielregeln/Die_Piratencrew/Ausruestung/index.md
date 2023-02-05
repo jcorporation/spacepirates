@@ -23,7 +23,7 @@ Jeder Charakter startet mit 3.000 UC, von denen er sich Ausrüstung und Waffen k
 - [Rauschmittel]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Rauschmittel)
 
 {% capture include_body %}
-Kathy schaut sich die Ausrüstungsliste an und sucht sich einen Laserdegen (1.500 UC), ein xPhone 3Gx (150 UC) und einen Diktierpapagei (100 UC) aus. So bleiben 1.250 UC übrig, die sie in das Raumschiff stecken kann.
+Kathy schaut sich die Ausrüstungsliste an und sucht sich einen Laserdegen (1.800 UC), ein xPhone 3Gx (150 UC) und einen Putzpapagei (100 UC) aus. So bleiben 950 UC übrig, die sie in das Raumschiff stecken oder auch selber behalten kann.
 {% endcapture %}
 {% include beispiel.md title="Beispiel zu Ausrüstung" body=include_body %}
 
@@ -33,7 +33,7 @@ Die gesamte Gruppe bekommt ein Raumschiff im Wert von 14.000 + 5.000 × Gruppenm
 
 Zu einem vernünftigen Piratenschiff gehören natürlich Bordkanonen, Sensoren, Schilde, ein spaciger Name und eine kurze Beschreibung.
 
-- **Raumschiffwert:** 13.000 + 5.000 × Gruppenmitglieder UC
+- **Raumschiffwert:** 14.000 + 5.000 × Gruppenmitglieder UC
 - [Raumschiffe]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/)
   - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen)
   - [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde)

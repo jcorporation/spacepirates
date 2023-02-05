@@ -5,8 +5,6 @@ title: Diverses
 order: /003
 ---
 
-
-
 Hier gibt es allerlei nützliches Zubehör für Raumschiffe.
 
 | Zubehör | Kosten |
@@ -25,6 +23,7 @@ Hier gibt es allerlei nützliches Zubehör für Raumschiffe.
 | Tuning Kit | 10.000 |
 | Turbo | 6.000 |
 | Versteckter Frachtraum | 4.000 |
+| Versteckter Frachtraum (noch besser versteckt) | 8.000 |
 
 - **Airbags** mindern den Aufprall, falls der fähige Pilot das Raumschiff mal wieder bruchlandet oder beim Andocken etwas ungenau ist. (Schaden wird um 2 Punkte reduziert)
 - Die **Einparkhilfe** gibt einen Bonus von 1 auf Lande- und An- und Abdockmöver.
@@ -35,7 +34,7 @@ Hier gibt es allerlei nützliches Zubehör für Raumschiffe.
 - Das **Tuning-Kit** erhöht die Wendigkeit des Raumschiffs um 1. Dieses Kit enthält diverse zusätzliche Steuerdüsen und verbessert die Aerodynamik des Raumschiffs. Die Rally-Streifen gehören natürlich auch zum Lieferumfang.
 - Der **tragende Lack** erhöht die Schadenspunkte um 4. Natürlich können mehrere Schichten davon aufgetragen werden, aber jede zusätzliche Schicht nach der ersten senkt die Wendigkeit um einen Punkt.
 - Der **Turbo** verdoppelt 1W8 Stunden lang den FTL-Antrieb (von FTL1 auf 2 und von FTL2 auf 4) und muss danach 10 Tage abkühlen. Mit den optional erhältlichen **Kühlrippen** hält der Turbo 1W12 Stunden durch.
-- Der **versteckte Frachtraum** wird bei einer Routinekontrolle nicht entdeckt.
+- Der **versteckte Frachtraum** wird bei einer Routinekontrolle nicht entdeckt. Der noch **besser verstecke Frachtraum** wird auch bei einer intensiveren Kontrolle nicht entdeckt.
 
 ## FTL-Funk
 

@@ -4,8 +4,6 @@ permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/
 title: Raumschiffe
 ---
 
-
-
 Wie das Raumschiff genau aussieht, bleibt natürlich den Spielern überlassen. Es kann z. B. ein aufgemotztes Proll-Raumschiff sein oder auch ein Schrottkahn mit guten inneren Werten, je nachdem wie sich die Piratengruppe nach außen präsentieren will.
 
 ## Gebrauchte Raumschiffe

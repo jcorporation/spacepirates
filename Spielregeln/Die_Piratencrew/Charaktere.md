@@ -14,7 +14,7 @@ Mit ihrem Charakter beeinflussen und gestalten die Spieler das Setting und insbe
 
 Der Charakter und seine Gruppe spielen eine wichtige Rolle im Setting und die zentralen Rollen in jedem Abenteuer, das sie erleben. Also versuche einen besonderen Charakter zu erschaffen.
 
-Jeder Spieler erschafft sich seinen eigenen Charakter. Die Charaktere bilden eine Mannschaft und sollten dementsprechend auch gemeinsam erschaffen werden. Die Spieler sollten einen Piloten, einen Tech und einen oder mehrere Bordschützen bestimmen. Auch ein Kapitän darf nicht fehlen, aber jeder auf dem Raumschiff hat gleich viel zu sagen, jedenfalls, wenn es nach den Regeln geht.
+Jeder Spieler erschafft sich seinen eigenen Charakter. Die Charaktere bilden eine Mannschaft und sollten dementsprechend auch gemeinsam erschaffen werden. Die Spieler sollten einen Piloten, einen Tech und einen oder mehrere Bordschützen bestimmen. Auch ein Kapitän darf nicht fehlen, aber jeder auf dem Raumschiff hat gleich viel zu sagen, jedenfalls, wenn es nach den Regeln geht. Meistens ist der Charaktere mit dem höchsten HÄNDLER-Profil der Kapitän.
 
 {% capture include_body %}
 Ihr spielt eine Piratencrew, also eine Gruppe, die zusammenarbeiten muss, wenn sie überleben, Schätze erbeuten und im Holo-Highscore aufsteigen will. Menschenscheue Einzelgänger, die nicht auf andere eingehen können, sind fehl am Platze, jeder muss hier seine Aufgabe erfüllen, egal ob als Kapitän, Pilot, Bordschütze oder Techniker des Schiffs.
