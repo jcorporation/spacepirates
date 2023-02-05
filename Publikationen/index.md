@@ -31,7 +31,7 @@ Dies wird die neue Version von SpacePirates, alle PDFs sind Previews. Der genaue
                 </div>
             </div>
             <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/sp-karte_2023-01-08.pdf">Kostenlos herunterladen</a>
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/sp-karte_2023-02-05.pdf">Kostenlos herunterladen</a>
             </div>
         </div>
     </div>
