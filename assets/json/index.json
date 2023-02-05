@@ -501,6 +501,7 @@
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 28,
     "/Spielregeln/Die_Piratencrew/Uebersicht": 26,
     "/Abenteuer/Weihnachten_II/Santa_24": 25,
+    "/Spielregeln/Die_Piratencrew/Beispielpiraten": 4,
     "/Weltraum/Militaer": 3,
     "/Spielregeln/": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 2,
@@ -514,8 +515,7 @@
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 1,
     "/Spielregeln/Spielleiter/Kampagnen/Beute": 1,
     "/Weltraum/Aliens/Trull/": 1,
-    "/Weltraum/Haendler_und_Halunken": 1,
-    "/Weltraum/Konzerne/Hired_Guns": 1
+    "/Weltraum/Haendler_und_Halunken": 1
   },
   "ausruestung kaufen": {
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 25,
@@ -817,6 +817,7 @@
   "bewaffnung": {
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 25,
     "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 25,
+    "/Spielregeln/Die_Piratencrew/Beispielpiraten": 4,
     "/Abenteuer/Halloween/Xergul": 1
   },
   "bewohner": {
@@ -4165,8 +4166,9 @@
   "macken": {
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": 77,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 29,
+    "/Spielregeln/Die_Piratencrew/Beispielpiraten": 4,
+    "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 4,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 3,
-    "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 3,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 2,
@@ -8072,9 +8074,9 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/": 2,
     "/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 2,
-    "/Spielregeln/Die_Piratencrew/Beispielpiraten": 2,
     "/Abenteuer/Buschraub/Bahir": 1,
-    "/Abenteuer/Der_grosse_Fang/Portal": 1
+    "/Abenteuer/Der_grosse_Fang/Portal": 1,
+    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 1
   },
   "tech konsequenzen": {
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": 25
