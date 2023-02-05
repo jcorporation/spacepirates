@@ -531,7 +531,7 @@ function siteInit(scope) {
 
     if ('serviceWorker' in navigator) {
         //add serviceworker
-        navigator.serviceWorker.register('sw.js', {scope: '/'}).then(function(registration) {
+        navigator.serviceWorker.register('/sw.js', {scope: '/'}).then(function(registration) {
             //Registration was successful
             registration.update();
         }, function(err) {
