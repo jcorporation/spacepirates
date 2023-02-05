@@ -27,9 +27,9 @@
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 5,
     "/Abenteuer/Rache_des_Akamachi-Clans/": 4,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 4,
+    "/Spielregeln/Spielleiter/Kampagnen/Freunde": 4,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 4,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 3,
-    "/Spielregeln/Spielleiter/Kampagnen/Freunde": 3,
     "/Abenteuer/Weihnachten_II/": 2,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
     "/Spielregeln/Spielleiter/": 2,
@@ -52,7 +52,7 @@
     "/Spielregeln/Spielleiter/": 1
   },
   "abenteueraufhaenger": {
-    "/Spielregeln/Spielleiter/Kampagnen/Freunde": 26
+    "/Spielregeln/Spielleiter/Kampagnen/Freunde": 25
   },
   "abenteuerelemente": {
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 25
@@ -1120,7 +1120,7 @@
     "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet": 1
   },
   "charakter": {
-    "/Spielregeln/Spielleiter/Kampagnen/Freunde": 57,
+    "/Spielregeln/Spielleiter/Kampagnen/Freunde": 56,
     "/Spielregeln/Die_Piratencrew/Charaktere": 55,
     "/Abenteuer/Blumenkind/Woodstock": 52,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 51,
