@@ -103,6 +103,7 @@ td {
 }
 
 td > ul:last-child,
+td > ol:last-child,
 td > p:last-child {
   margin-bottom: 0;
 }
