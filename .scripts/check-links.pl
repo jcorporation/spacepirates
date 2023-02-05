@@ -15,7 +15,7 @@ sub checklink {
         if ($file =~ /\/$/) {
             $file .= "index";
         }
-        if (not $file =~ /\.(pdf|png|jpg|svg|js)$/) {
+        if (not $file =~ /\.(pdf|webp|png|jpg|svg|js)$/) {
             $file .= ".md";
         }
         if ($file eq "Aktuelles/index.md") {
