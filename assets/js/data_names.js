@@ -302,6 +302,7 @@ tabellen["existingRaumstationen"] = [
   "AlXambra",
   "BigBong",
   "Dino Burger",
+  "Foo-Bar",
   "Freeport",
   "Gimis Bar",
   "Halfway",
@@ -664,6 +665,7 @@ tabellen["existingUnwahrscheinlichkeitsZoneEreignisse"] = [
 tabellen["existingWeltraumphaenomene"] = [
   "BadPlanets",
   "Brabengürtel",
+  "C3H6O2",
   "Dimensionsriss",
   "Ghomin-Nebel",
   "Großer Spiralnebel von Trull",

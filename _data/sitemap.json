@@ -1666,14 +1666,22 @@
   "/Weltraum/Piraten/Treffpunkte/": {
     "prev": "/Weltraum/Piraten/Piratencrews/Zamtor",
     "firstInDir": true,
-    "next": "/Weltraum/Piraten/Treffpunkte/Freeport",
+    "next": "/Weltraum/Piraten/Treffpunkte/Foo-Bar",
     "lastInDir": true,
     "parent": "/Weltraum/Piraten/",
     "title": "Piratentreffpunkte"
   },
-  "/Weltraum/Piraten/Treffpunkte/Freeport": {
+  "/Weltraum/Piraten/Treffpunkte/Foo-Bar": {
     "prev": "/Weltraum/Piraten/Treffpunkte/",
     "firstInDir": true,
+    "next": "/Weltraum/Piraten/Treffpunkte/Freeport",
+    "lastInDir": false,
+    "parent": "/Weltraum/Piraten/Treffpunkte/",
+    "title": "Foo-Bar"
+  },
+  "/Weltraum/Piraten/Treffpunkte/Freeport": {
+    "prev": "/Weltraum/Piraten/Treffpunkte/Foo-Bar",
+    "firstInDir": false,
     "next": "/Weltraum/Piraten/Treffpunkte/Gimis_Bar",
     "lastInDir": false,
     "parent": "/Weltraum/Piraten/Treffpunkte/",
@@ -2250,13 +2258,21 @@
   "/Weltraum/Weltraumphaenomene/Brabenguertel": {
     "prev": "/Weltraum/Weltraumphaenomene/BadPlanets",
     "firstInDir": false,
-    "next": "/Weltraum/Weltraumphaenomene/Dimensionsriss",
+    "next": "/Weltraum/Weltraumphaenomene/C3H6O2",
     "lastInDir": false,
     "parent": "/Weltraum/Weltraumphaenomene/",
     "title": "Brabengürtel"
   },
-  "/Weltraum/Weltraumphaenomene/Dimensionsriss": {
+  "/Weltraum/Weltraumphaenomene/C3H6O2": {
     "prev": "/Weltraum/Weltraumphaenomene/Brabenguertel",
+    "firstInDir": false,
+    "next": "/Weltraum/Weltraumphaenomene/Dimensionsriss",
+    "lastInDir": false,
+    "parent": "/Weltraum/Weltraumphaenomene/",
+    "title": "C3H6O2"
+  },
+  "/Weltraum/Weltraumphaenomene/Dimensionsriss": {
+    "prev": "/Weltraum/Weltraumphaenomene/C3H6O2",
     "firstInDir": false,
     "next": "/Weltraum/Weltraumphaenomene/Ghomin-Nebel",
     "lastInDir": false,

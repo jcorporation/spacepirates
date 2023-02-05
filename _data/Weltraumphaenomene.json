@@ -13,6 +13,13 @@
     "Politisches": "Beliebtes Piratenversteck",
     "Link": "/Weltraum/Weltraumphaenomene/Brabenguertel"
   },
+  "C3H6O2": {
+    "Name": "C3H6O2",
+    "Sektor": "Sektor Z2",
+    "Beschreibung": "",
+    "Politisches": "Piratenversteck",
+    "Link": "/Weltraum/Weltraumphaenomene/C3H6O2"
+  },
   "Dimensionsriss": {
     "Name": "Dimensionsriss",
     "Sektor": "Samara",

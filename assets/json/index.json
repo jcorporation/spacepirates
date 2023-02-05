@@ -1055,6 +1055,10 @@
   "bysa": {
     "/StarTunes/": 1
   },
+  "c3h6o2": {
+    "/Weltraum/Weltraumphaenomene/C3H6O2": 251,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 1
+  },
   "cafe": {
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 26
   },
@@ -2187,6 +2191,11 @@
     "/Abenteuer/Weihnachten_II/Santa_24": 25,
     "/Abenteuer/Buschraub/Einstieg": 1,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Das_alte_Bandraumschiff": 1
+  },
+  "foobar": {
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 251,
+    "/Weltraum/Piraten/Treffpunkte/": 27,
+    "/Weltraum/Weltraumphaenomene/C3H6O2": 1
   },
   "foodtopia": {
     "/Weltraum/Aliens/Raptorianer/Greeenhl": 186
@@ -5250,6 +5259,7 @@
     "/Abenteuer/": 11,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 11,
     "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 11,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 11,
     "/Abenteuer/Zeitraub/Überfall": 10,
     "/Weltraum/Piraten/Piratencrews/Tanaka_Mao": 10,
     "/Weltraum/Piraten/Piratencrews/Zamtor": 10,
@@ -5399,6 +5409,7 @@
     "/Weltraum/Freihandelszone/Handelsrat": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/": 1,
     "/Weltraum/Neutrale_Zone/Scrabnambu": 1,
+    "/Weltraum/Piraten/Treffpunkte/": 1,
     "/Weltraum/Raumstationen/Saloniki": 1,
     "/Weltraum/Rebellen/": 1,
     "/Weltraum/Sekten/": 1,
@@ -5459,6 +5470,7 @@
     "/Weltraum/Piraten/Treffpunkte/": 103,
     "/Weltraum/Piraten/Treffpunkte/Halfway": 11,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 11,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 10,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 10,
     "/Weltraum/Piraten/Treffpunkte/Gimis_Bar": 10,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 10,
@@ -6195,6 +6207,7 @@
     "/Weltraum/Neutrale_Zone/Siga_Spaceport": 11,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 11,
     "/Weltraum/Aliens/SpaceWorms/AlXambra/": 10,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 10,
     "/Weltraum/Piraten/Treffpunkte/Gimis_Bar": 10,
     "/Weltraum/Raumstationen/Saloniki": 10,
     "/Weltraum/SpaceRocker/SpaceAngels/Hells_Place": 10,
@@ -6959,7 +6972,9 @@
     "/Weltraum/Sektoren/Z1/": 251
   },
   "sektor z2": {
-    "/Weltraum/Sektoren/Z2/": 251
+    "/Weltraum/Sektoren/Z2/": 251,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 10,
+    "/Weltraum/Weltraumphaenomene/C3H6O2": 10
   },
   "sektor z3": {
     "/Weltraum/Sektoren/Z3/": 251,

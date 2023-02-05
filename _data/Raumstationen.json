@@ -27,6 +27,13 @@
     "Politisches": "",
     "Link": "/Weltraum/Aliens/Raptorianer/Dino_Burger"
   },
+  "Foo-Bar": {
+    "Name": "Foo-Bar",
+    "Sektor": "Sektor Z2",
+    "Bewohner": "Piraten",
+    "Politisches": "Piratentreffpunkt",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Foo-Bar"
+  },
   "Freeport": {
     "Name": "Freeport",
     "Sektor": "Sektor D1",
