@@ -5,9 +5,7 @@ title: Beute
 order: /002
 ---
 
-
-
-Wie im Grundregelwerk angemerkt, bezahlen Händler für Beute nicht den vollen Preis, sondern maximal 20 % bis 30 % des Warenwerts. Je heißer die Ware ist, desto weniger werden die Charaktere dafür bekommen. Hehler lassen sich ihr Risiko gut bezahlen und die Piraten verfügen nur über wenige Möglichkeiten, ihre Ware loszuschlagen. Das ist aus Spielsicht optimal, da Millionäre wohl nicht lange Piraten blieben.
+Wie bereits erwähnt, bezahlen Händler für Beute nicht den vollen Preis, sondern maximal 20 % bis 30 % des Warenwerts. Je heißer die Ware ist, desto weniger werden die Charaktere dafür bekommen. Hehler lassen sich ihr Risiko gut bezahlen und die Piraten verfügen nur über wenige Möglichkeiten, ihre Ware loszuschlagen. Das ist aus Spielsicht optimal, da Millionäre wohl nicht lange Piraten blieben.
 
 Den Charakteren hilft Beute, die sie selbst verwenden können, viel mehr als ein Goldschatz. Es macht meist auch keinen Sinn, jedes noch so kleine Raumschiff auszuschlachten. Zum einen ist der Platz auf ihrem Raumschiff begrenzt und zum anderen lässt sich mit Schiffsausstattung kaum Geld verdienen. Wenn die Zeit es erlaubt, sollten die Charaktere erbeutete Ausrüstungsgegenstände, zum Beispiel eine neue Negatronenkanone, lieber an ihrem Schiff montieren. Allerdings wird ihnen dafür während des Abenteuers oft die Zeit fehlen, da solche Arbeiten im Weltraum schwer zu bewältigen sind und durchaus mehrere Tage benötigen.
 

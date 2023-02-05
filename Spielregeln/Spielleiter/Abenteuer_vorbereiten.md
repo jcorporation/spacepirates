@@ -5,8 +5,6 @@ title: Abenteuer vorbereiten
 order: /000
 ---
 
-
-
 Für den Spielleiter beginnt das Spiel mit der Vorbereitung des Abenteuers. Dabei geht es nicht darum, es auswendig zu lernen, damit die Gruppe es Wort für Wort nachspielen kann. Das Abenteuer liefert vielmehr Schauplätze, Spielleitercharaktere und deren Motive sowie Ereignisse und einen Einstieg in das Abenteuer. Je besser du das Abenteuer vorbereitest, desto einfacher fällt es dir, das Abenteuer zu leiten und in seinem Rahmen zu improvisieren.
 
 Wenn du ein Abenteuer vorbereitest, frage dich immer, ob es zu den Spielercharakteren passt und ob sie einen Grund haben das Abenteuer zu erleben. Vielleicht musst du ein paar Details des Abenteuers anpassen, um es interessant für die Spielercharaktere zu machen. Am besten ist es, wenn einer der Spielercharaktere einen persönlichen Grund hat, um in das Abenteuer einzusteigen, aber ein passender Auftrag für die Gruppe ist auch stimmig.

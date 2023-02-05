@@ -5,8 +5,6 @@ title: Gegenspieler der Charaktere
 order: /000
 ---
 
-
-
 Gegenspieler sind ein gutes Mittel um noch mehr Spannung, durch Konkurrenzsituationen, in ein Abenteuer zu bringen. Gegenspieler sollten dazu natürlich immer wieder auftauchen, erwartet und unerwartet. Dafür kommen zwei Arten von Gegenspieler in Betracht, eine andere Piratencrew auf ähnlichem Machtniveau oder ein wesentlich mächtigerer Gegner.
 
 ## Andere Piratencrew
