@@ -10,7 +10,7 @@ Der Rand des Universums ist ein faszinierender Anblick, der jeden gefangen hält
 
 Am Rande dieses Universumfalls befindet sich ein Asteroidengürtel, in dem Weltraumkraken hausen und alle Schiffe angreifen, die in den Gürtel fliegen.
 
-<img alt="Karte" src="{{ site.baseurl }}/assets/images/abenteuer/schatzjagd/karte.png" />
+<img alt="Karte" src="{{ site.baseurl }}/assets/images/abenteuer/schatzjagd/karte.webp" />
 
 ## Meteorkraken
 

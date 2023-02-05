@@ -1,1 +1,1 @@
-<img alt="Glukorianer" src="{{ site.baseurl }}/assets/images/rassen/glukorianer.jpg" />
+<img alt="Glukorianer" src="{{ site.baseurl }}/assets/images/rassen/glukorianer.webp" />

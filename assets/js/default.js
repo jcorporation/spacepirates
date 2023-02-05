@@ -528,6 +528,17 @@ function siteInit(scope) {
             }, false);
         }
     }
+
+    if ('serviceWorker' in navigator) {
+        //add serviceworker
+        navigator.serviceWorker.register('sw.js', {scope: '/'}).then(function(registration) {
+            //Registration was successful
+            registration.update();
+        }, function(err) {
+            //Registration failed
+            console.error('ServiceWorker registration failed: ' + err);
+        });
+    }
 }
 
 siteInit(document);

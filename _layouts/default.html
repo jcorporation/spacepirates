@@ -3,12 +3,16 @@
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="theme-color" content="#ffcc00"/>  
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
+    <link href="{{ site.baseurl }}/spacepirates.webmanifest" rel="manifest" crossorigin="use-credentials"/>
     <link href="{{ site.baseurl }}/assets/bootstrap-icons.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous"/>
     <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="{{ site.baseurl }}/assets/css/default.css" rel="stylesheet" type="text/css"/>
-    <link href="{{ site.baseurl }}/assets/images/appicon-192.png" rel="apple-touch-icon"/>
-    <link href="{{ site.baseurl }}/assets/images/appicon-192.png" rel="icon"/>
+    <link href="{{ site.baseurl }}/assets/images/appicon-192.webp" rel="apple-touch-icon"/>
+    <link href="{{ site.baseurl }}/assets/images/appicon-192.webp" rel="icon"/>
     <link href="{{ site.baseurl }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.title }}"/>
   </head>
   <body>
@@ -28,7 +32,7 @@
         <div data-bs-theme="dark" class="offcanvas offcanvas-start col col-xxl-3" tabindex="-1" id="main-menu">
           <div class="offcanvas-header pb-4">
             <div class="w-100 text-center">
-              <img width="230" src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates"/>
+              <img width="230" src="{{ site.baseurl }}/assets/images/logo.webp" alt="SpacePirates"/>
               <button type="button" class="btn-close btn-close-white float-end" data-bs-dismiss="offcanvas"></button>
               <nav class="nav nav-pills nav-justified mt-4">
                 <a class="nav-link mi active" data-bs-toggle="tab" href="#tab-menu" title="Menu">&#xF479;</a>
@@ -73,7 +77,7 @@
         <div></div>
         <div>
           <a class="p-2" href="https://www.jcgames.de/">
-            <img src="{{ site.baseurl }}/assets/images/jcgames-logo.png" width="103" height="47" alt="jcgames"/>
+            <img src="{{ site.baseurl }}/assets/images/jcgames-logo.webp" width="103" height="47" alt="jcgames"/>
           </a>
         </div>
         <div>

@@ -5,7 +5,7 @@ title: Ein einfaches und erzählerisches Rollenspiel
 ---
 
 <div class="bg-sterne p-3 text-center mb-3 rounded-2">
-  <img src="{{ site.baseurl }}/assets/images/logo.png" width="398" height="93" class="mw-100 h-auto" alt="SpacePirates"/>
+  <img src="{{ site.baseurl }}/assets/images/logo.webp" width="398" height="93" class="mw-100 h-auto" alt="SpacePirates"/>
 </div>
 
 SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedrehtes Space-Opera-Rollenspiel um Piraten im [Weltraum]({{ site.baseurl }}/Weltraum/) im Stil der 1980er Zeichentrickserien und Comics. Es ist für einmalige Abenteuer oder kurze Kampagnen gedacht, das [Setting]({{ site.baseurl }}/Weltraum/) ist daher kompakt und die [Spielregeln]({{ site.baseurl }}/Spielregeln/) leicht zu erlernen, zudem ermutigt es die Spieler, die [Abenteuer]({{ site.baseurl }}/Abenteuer/) mitzugestalten.
@@ -23,25 +23,25 @@ SpacePirates ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und abgedre
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="carousel-item text-center active">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite0.jpg"/>
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite0.webp"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite1.jpg"/>
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite1.webp"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite2.jpg"/>
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite2.webp"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite3.jpg"/>
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite3.webp"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite4.jpg"/>
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite4.webp"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite5.jpg"/>
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite5.webp"/>
     </div>
     <div class="carousel-item text-center">
-      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite6.jpg"/>
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/images/startseite6.webp"/>
     </div>
   </div>
 

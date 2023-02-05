@@ -1,1 +1,1 @@
-<img alt="Kahadrier" src="{{ site.baseurl }}/assets/images/rassen/kahadrier.jpg" />
+<img alt="Kahadrier" src="{{ site.baseurl }}/assets/images/rassen/kahadrier.webp" />

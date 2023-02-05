@@ -176,6 +176,6 @@ Ursels Cafe ist berühmt für den leckeren selbst gebackenen Kuchen. Man kann be
 
 ## Karte
 
-<img alt="Erdgeschoss" src="{{ site.baseurl }}/assets/images/plaene/twoeyedjack-eg.png" />
+<img alt="Erdgeschoss" src="{{ site.baseurl }}/assets/images/plaene/twoeyedjack-eg.webp" />
 
-<img alt="Obergeschoss" src="{{ site.baseurl }}/assets/images/plaene/twoeyedjack-og.png" />
+<img alt="Obergeschoss" src="{{ site.baseurl }}/assets/images/plaene/twoeyedjack-og.webp" />

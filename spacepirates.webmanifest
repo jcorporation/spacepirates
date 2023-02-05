@@ -1,0 +1,23 @@
+{
+  "name": "SpacePirates",
+  "short_name": "SpacePirates",
+  "description": "SpacePirates ist ein freies und abgedrehtes Space-Opera-Rollenspiel um Piraten im Weltraum im Stil der 1980er Zeichentrickserien und Comics.",
+  "start_url": "/",
+  "background_color": "#212529",
+  "theme_color": "#ffcc00",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/images/appicon-192.webp",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/appicon-512.webp",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

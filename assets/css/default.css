@@ -18,7 +18,7 @@ body {
 
 h1 {
   background-color: black;
-  background-image: url("/assets/images/sterne.jpg");
+  background-image: url("/assets/images/sterne.webp");
   padding: 1rem;
   color: var(--sp-orange);
   border-radius: 0.5rem;
@@ -71,7 +71,7 @@ p {
 
 .bg-sterne {
   background-color: black;
-  background-image: url("/assets/images/sterne.jpg");
+  background-image: url("/assets/images/sterne.webp");
 }
 
 .bg-yellow {
@@ -153,43 +153,43 @@ aside img {
 }
 
 .bg-spielregeln {
-  background-image: url("/assets/images/startseite0.jpg");
+  background-image: url("/assets/images/startseite0.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-weltraum {
-  background-image: url("/assets/images/sternenkarte-quadrat.png");
+  background-image: url("/assets/images/sternenkarte-quadrat.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-abenteuer {
-  background-image: url("/assets/images/startseite1.jpg");
+  background-image: url("/assets/images/startseite1.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-publikationen {
-  background-image: url("/assets/images/startseite3.jpg");
+  background-image: url("/assets/images/startseite3.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-zufallstabellen {
-  background-image: url("/assets/images/bg-zufallstabellen.png");
+  background-image: url("/assets/images/bg-zufallstabellen.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-ideenhalde {
-  background-image: url("/assets/images/bg-ideenhalde.png");
+  background-image: url("/assets/images/bg-ideenhalde.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-startunes {
-  background-image: url("/assets/images/bg-startunes.png");
+  background-image: url("/assets/images/bg-startunes.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }

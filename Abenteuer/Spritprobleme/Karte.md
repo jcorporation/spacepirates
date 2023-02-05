@@ -6,7 +6,7 @@ title: Karte
 
 
 
-<img alt="Karte" src="{{ site.baseurl }}/assets/images/abenteuer/spritprobleme/karte.png" />
+<img alt="Karte" src="{{ site.baseurl }}/assets/images/abenteuer/spritprobleme/karte.webp" />
 
 ***
 

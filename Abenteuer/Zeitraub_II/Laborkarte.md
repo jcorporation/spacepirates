@@ -6,7 +6,7 @@ title: Karte des Labors
 
 
 
-<img alt="Laborplan" src="{{ site.baseurl }}/assets/images/abenteuer/zeitraub2/laborplan.png" />
+<img alt="Laborplan" src="{{ site.baseurl }}/assets/images/abenteuer/zeitraub2/laborplan.webp" />
 
 1. Alarmsensoren: Sobald jemand die Linien überschreitet, die die Sensoren miteinander verbinden, wird Alarm ausgelöst.
 2. Negatronenwerfer auf dem Flachdach des Labors

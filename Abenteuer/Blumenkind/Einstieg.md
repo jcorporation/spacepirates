@@ -22,7 +22,7 @@ Die Charaktere haben mehrere Möglichkeiten einen Schlüssel zur Blumenkind zu e
 
 ## Sternenkarte
 
-<img alt="Sternenkarte - Neutrale Zone" width="400" height="400" src="{{ site.baseurl }}/assets/images/abenteuer/blumenkind/sternenkarte-web.png"/>
+<img alt="Sternenkarte - Neutrale Zone" width="400" height="400" src="{{ site.baseurl }}/assets/images/abenteuer/blumenkind/sternenkarte-web.webp"/>
 
 ***
 

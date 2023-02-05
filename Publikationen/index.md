@@ -22,7 +22,7 @@ Dies wird die neue Version von SpacePirates, alle PDFs sind Previews. Der genaue
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev6.png" width="156" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev6.webp" width="156" height="140">
                     </div>
                     <div class="col">
                         <p>Die Sternenkarte des SpacePirates Universums.</p>
@@ -50,7 +50,7 @@ Dies ist die dritte Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv5.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv5.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Die fünfte Version (ok, eigentlich die dritte) des SpacePirates Grundregelwerks.</p>
@@ -70,7 +70,7 @@ Dies ist die dritte Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev5.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev5.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
@@ -90,7 +90,7 @@ Dies ist die dritte Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv5.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv5.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Der Piraten- und Raumschiffbogen als PDF.</p>
@@ -109,7 +109,7 @@ Dies ist die dritte Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img src="{{ site.baseurl }}/assets/images/thumbnails/startunes-cdbox.png" width="100" height="100">
+                        <img src="{{ site.baseurl }}/assets/images/thumbnails/startunes-cdbox.webp" width="100" height="100">
                     </div>
                     <div class="col">
                         <p>StarTunes in einer schicken CD-Box.</p>
@@ -148,7 +148,7 @@ Dies ist die zweite Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Die zweite Version des SpacePirates Grundregelwerks.</p>
@@ -168,7 +168,7 @@ Dies ist die zweite Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev2.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev2.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
@@ -188,7 +188,7 @@ Dies ist die zweite Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv2.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv2.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Der Piraten- und Raumschiffbogen als PDF.</p>
@@ -207,7 +207,7 @@ Dies ist die zweite Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/abenteuerband.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/abenteuerband.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Ein Sammelband mit 14 SpacePirates Abenteuern, die jeweils in 1-2 Abenden durchgespielt werden können.</p>
@@ -227,7 +227,7 @@ Dies ist die zweite Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/themenhefte.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/themenhefte.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Der Sammelband der Themenhefte SpaceNinjas, BigBong-Theorie, Atlanter vs. Spaceamazonen, Stars & Sternchen und der SP:Insider.</p>
@@ -256,7 +256,7 @@ Dies ist die erste Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv1.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv1.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Die erste Version des SpacePirates Grundregelwerks.</p>
@@ -276,7 +276,7 @@ Dies ist die erste Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv1.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv1.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Der Piraten- und Raumschiffbogen als PDF.</p>
@@ -295,7 +295,7 @@ Dies ist die erste Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev1.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/sternenkartev1.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
@@ -315,7 +315,7 @@ Dies ist die erste Version von SpacePirates.
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/spaceninjasv1.png" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/spaceninjasv1.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Das SpaceNinjas Themenheft.</p>

@@ -11,7 +11,7 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 {% endcapture %}
 
 {% capture include_col2 %}
-<a href="{{ site.baseurl }}/Weltraum/Sternenkarte/"><img class="max-w rounded-1" src="{{ site.baseurl }}/assets/images/sternenkarte-quadrat.png"/></a>
+<a href="{{ site.baseurl }}/Weltraum/Sternenkarte/"><img class="max-w rounded-1" src="{{ site.baseurl }}/assets/images/sternenkarte-quadrat.webp"/></a>
 {% endcapture %}
 
 {% include columns21.md col1=include_col1 col2=include_col2 %}

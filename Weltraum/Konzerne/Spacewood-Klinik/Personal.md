@@ -133,4 +133,4 @@ Dr. Engel ist ein typischer, naiver Assistenzarzt, der direkt von der Universit�
 
 ## Konfliktübersicht
 
-<img alt="Konfliktübersicht" src="{{ site.baseurl }}/assets/images/abenteuer/spacewoodklinik/cmap.png"/>
+<img alt="Konfliktübersicht" src="{{ site.baseurl }}/assets/images/abenteuer/spacewoodklinik/cmap.webp"/>

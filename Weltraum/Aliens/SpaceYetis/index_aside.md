@@ -1,1 +1,1 @@
-<img alt="SpaceYeti" src="{{ site.baseurl }}/assets/images/rassen/spaceyeti.jpg" />
+<img alt="SpaceYeti" src="{{ site.baseurl }}/assets/images/rassen/spaceyeti.webp" />

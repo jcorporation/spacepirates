@@ -6,7 +6,7 @@ title: Ebene 1
 
 
 
-<img alt="Dugeon Ebene 1" src="{{ site.baseurl }}/assets/images/abenteuer/dungeonplanet/ebene1-web.png"/>
+<img alt="Dugeon Ebene 1" src="{{ site.baseurl }}/assets/images/abenteuer/dungeonplanet/ebene1-web.webp"/>
 
 ## Raum 1: Der Eingang
 

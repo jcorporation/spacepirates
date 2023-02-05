@@ -2,7 +2,7 @@
 layout: post
 title: "Zufallstabellen"
 tag: SpacePirates
-image: /assets/images/bg-zufallstabellen.png
+image: /assets/images/bg-zufallstabellen.webp
 permalink: /Aktuelles/2023-01-14-Zufallstabellen
 ---
 

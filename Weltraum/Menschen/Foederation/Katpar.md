@@ -21,4 +21,4 @@ Katpar ist ein öder, heißer Planet, der von rotem Sand und Fels bedeckt ist, h
 
 Der Planet untersteht vollständig der Kontrolle von SpaceShell. Solange er die Steuern zahlt, lässt die Föderation ihm völlig freie Hand. Entsprechend erlässt SpaceShell auf diesem Planeten die Gesetze und der SpaceShell-Wachdienst stellt gleichzeitig Polizei, Ankläger und Richter.
 
-<img alt="Negatritiumabbau" src="{{ site.baseurl }}/assets/images/plaene/negatritiumabbau.png" />
+<img alt="Negatritiumabbau" src="{{ site.baseurl }}/assets/images/plaene/negatritiumabbau.webp" />

@@ -43,7 +43,7 @@ Es sind insgesamt 12 Glukorianerwächter in der Burg, die mit Laserpistolen bewa
 
 ### Burgplan
 
-<img alt="Burg" src="{{ site.baseurl }}/assets/images/abenteuer/weihnachten/burg.png" />
+<img alt="Burg" src="{{ site.baseurl }}/assets/images/abenteuer/weihnachten/burg.webp" />
 
 1. Türme mit Laserkanone
 2. Hauptturm mit Zugbrücke und 2 Laserkanonen
