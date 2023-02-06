@@ -20,3 +20,9 @@ Jeder Spieler erschafft sich seinen eigenen Charakter. Die Charaktere bilden ein
 Ihr spielt eine Piratencrew, also eine Gruppe, die zusammenarbeiten muss, wenn sie überleben, Schätze erbeuten und im Holo-Highscore aufsteigen will. Menschenscheue Einzelgänger, die nicht auf andere eingehen können, sind fehl am Platze, jeder muss hier seine Aufgabe erfüllen, egal ob als Kapitän, Pilot, Bordschütze oder Techniker des Schiffs.
 {% endcapture %}
 {% include hinweis.md title="Eine Piratencrew erschaffen" body=include_body %}
+
+***
+
+- [Hintergrund]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Hintergrund)
+- [Charakterwerte]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charakterwerte)
+- [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/)
