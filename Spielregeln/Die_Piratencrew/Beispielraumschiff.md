@@ -4,11 +4,11 @@ permalink: /Spielregeln/Die_Piratencrew/Beispielraumschiff
 title: Beispielraumschiff
 ---
 
-Dark Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nicht ganz so viel her und hat ein paar Macken; aber dafür stimmen die inneren Werte: Die Bewaffnung kann sich sehen lassen und aus dem Cabriodeck dröhnt der mächtige Hyperbass der eingebauten Stereoanlage.
+Darker Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nicht ganz so viel her und hat ein paar Macken; aber dafür stimmen die inneren Werte: Die Bewaffnung kann sich sehen lassen und das Antiphotonen-Schild taucht das Raumschiff in das schwärzeste Schwarz, das ein Pirat je gesehen hat.
 
 <table>
   <thead>
-    <tr><th>Name</th><td>Dark Star</td><th>Kosten neu</th><th>Kosten gebraucht</th></tr>
+    <tr><th>Name</th><td>Darker Star</td><th>Kosten neu</th><th>Kosten gebraucht</th></tr>
   </thead>
   <tbody>
     <tr><th>Typ</th><td>Hypergleiter</td><td>24.000</td><td>12.000</td></tr>
@@ -19,7 +19,7 @@ Dark Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nic
     <tr><th rowspan="4">Zubehör</th><td>Enterschleuse</td><td>4.000</td><td>2.000</td></tr>
     <tr><td>FTL2-Funk</td><td>4.000</td><td>2.000</td></tr>
     <tr><td>Versteckter Frachtraum</td><td>4.000</td><td>2.000</td></tr>
-    <tr><td>Cabriokit (für eine Macke ertauscht)</td><td>0</td><td>0</td></tr>
+    <tr><td>Antiphotonen-Schild (für eine Macke ertauscht)</td><td>0</td><td>0</td></tr>
     <tr><th>Macken</th>
       <td colspan="3">
         <ol>
@@ -45,6 +45,6 @@ Dark Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nic
 {% capture include_body %}
 Die Gruppe besteht aus 4 Spielern und bekommt daher 34.000 UC für das Raumschiff. Das Raumschiff kostet gebraucht 38.500 UC. Die Differenz (4.500 UC) müssen die Spieler aus dem Privatvermögen der Charaktere begleichen.
 
-Da das Schiff gebraucht ist und sie auch nur gebrauchte Teile einbauen, erhält das Schiff 6 Macken (2 für das gebrauchte Schiff und 4 für die 7 gebrauchten Teile). Zudem nimmt die Gruppe noch freiwillig eine zusätzliche Macke, um das Schiff mit einem Cabriokit auszustatten.
+Da das Schiff gebraucht ist und sie auch nur gebrauchte Teile einbauen, erhält das Schiff 6 Macken (2 für das gebrauchte Schiff und 4 für die 7 gebrauchten Teile). Zudem nimmt die Gruppe noch freiwillig eine zusätzliche Macke, um das Schiff mit einem Antiphotonen-Schild auszustatten.
 {% endcapture %}
 {% include beispiel.md title="Beispiel zu Raumschiffkosten und Macken" body=include_body %}
