@@ -4,8 +4,8 @@
     </div>
     <div class="card-footer bg-yellow">
         <div class="btn-group">
-          <button class="btn mi btn-yellow" title="Verkleinern">remove</button>
-          <button class="btn mi btn-yellow" title="Vergrößern">add</button>
+          <button class="btn mi btn-yellow" title="Verkleinern">&#xF62D;</button>
+          <button class="btn mi btn-yellow" title="Vergrößern">&#xF62C;</button>
         </div>
     </div>
 </div>
