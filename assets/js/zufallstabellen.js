@@ -62,7 +62,7 @@ tabellen["weltraumphaenomen"] = ["Schwarzes Loch", "Negatronenwolke", "Plasmawol
 tabellen["vorgehen"] = ["schärfere Gesetze und Strafen auf dem Planeten [existingPlaneten]", "neue Spezialeinheit auf dem Planeten [existingPlaneten] gegründet",
     "Spezialeinheit auf Planet [existingPlaneten] abgebaut"];
 
-tabellen["persoenlichkeit"] = ["Politiker/Repräsentant: [partei]", "Manager des Konzerns [konzern_neu_or_wichtig]", "Showstar [showstar]", "Sektenanführer der Sekte [sekte]",
+tabellen["persoenlichkeit"] = ["Politiker/Repräsentant: [partei]", "Manager des Konzerns [konzern_neu_or_wichtig]", "Promi [promi]", "Sektenanführer der Sekte [sekte]",
     "einer unbekannteren Person"];
 
 tabellen["kopfgeld"] = tabellen.persoenlichkeit.concat(["Mörders", "Rebellen", "Piraten"]);
@@ -150,19 +150,6 @@ tabellen["fraktion"] = ["Geheimorganisaton [rasse]", "Rebellenanführer [rasse]"
     "Mächtiger Händler [rasse]", "Kommandant einer Raumstation [rasse]", "Militärgeneral [rasse]", "Wissenschaftler [rasse]",
     "Anonymer Auftraggeber [rasse]", "Mitglied des Galaktischen Handelsrats [rasse]", "SpaceNinjas [ninjaclan]"];
 
-tabellen["ninjaclan"] = [
-    {%- assign i = 0 %}
-    {%- for org in site.data.Organisationen %}
-        {%- assign Name = org[1].Name %}
-        {%- assign Kategorie = org[1].Kategorie %}
-        {%- if Kategorie == 'Ninja-Clan' or Kategorie contains 'Ninja-Clan' %}
-            {%- if i == 1 %},{% endif %}
-            "{{ Name }}"
-            {%- assign i = 1%}
-        {%- endif %}
-    {%- endfor %}
-];
-
 tabellen["aliens"] = tabellen["existingRassen"].concat(["unbekannte Rasse"]);
 
 tabellen["rasse"] = tabellen["aliens"].concat(["Mensch"]);
@@ -243,6 +230,45 @@ tabellen["sekte"] = [
     {%- endfor %}
 ];
 
+tabellen["ninjaclan"] = [
+    {%- assign i = 0 %}
+    {%- for org in site.data.Organisationen %}
+        {%- assign Name = org[1].Name %}
+        {%- assign Kategorie = org[1].Kategorie %}
+        {%- if Kategorie == 'Ninja-Clan' or Kategorie contains 'Ninja-Clan' %}
+            {%- if i == 1 %},{% endif %}
+            "{{ Name }}"
+            {%- assign i = 1%}
+        {%- endif %}
+    {%- endfor %}
+];
+
+tabellen["bank"] = [
+    {%- assign i = 0 %}
+    {%- for org in site.data.Konzerne %}
+        {%- assign Name = org[1].Name %}
+        {%- assign Kategorie = org[1].Kategorie %}
+        {%- if Kategorie == 'Bank' or Kategorie contains 'Bank' %}
+            {%- if i == 1 %},{% endif %}
+            "{{ Name }}"
+            {%- assign i = 1%}
+        {%- endif %}
+    {%- endfor %}
+];
+
+tabellen["promi"] = [
+    {%- assign i = 0 %}
+    {%- for slc in site.data.Slc %}
+        {%- assign Name = slc[1].Name %}
+        {%- assign Kategorie = slc[1].Kategorie %}
+        {%- if Kategorie == 'Promi' or Kategorie contains 'Promi' %}
+            {%- if i == 1 %},{% endif %}
+            "{{ Name }}"
+            {%- assign i = 1%}
+        {%- endif %}
+    {%- endfor %}
+];
+
 tabellen["haendler"] = [
     {%- assign i = 0 %}
     {%- for org in site.data.Slc %}
@@ -254,19 +280,6 @@ tabellen["haendler"] = [
             {%- assign i = 1%}
         {%- endif %}
     {%- endfor %}
-];
-
-tabellen["bank"] = [
-{%- assign i = 0 %}
-{%- for org in site.data.Konzerne %}
-    {%- assign Name = org[1].Name %}
-    {%- assign Kategorie = org[1].Kategorie %}
-    {%- if Kategorie == 'Bank' or Kategorie contains 'Bank' %}
-        {%- if i == 1 %},{% endif %}
-        "{{ Name }}"
-        {%- assign i = 1%}
-    {%- endif %}
-{%- endfor %}
 ];
 
 tabellen["belohnung"] = ["[3W10].000 UC pro Charakter", "seltenes Raumschiffersatzteil", "[W4]0 % der Beute", "[4W10].000 UC Gesamt",
@@ -302,7 +315,7 @@ tabellen["schurkenplaene"] = ["Es ist eine tödliche Mission, er will die Charak
 
 tabellen["gegenspieler"] = ["Konzern [konzern_neu_or_wichtig]", "andere Piratengruppe", "Rebellen", "bekannte Alienrasse [rasse]", "Söldnertruppe",
     "Militär [rasse]", "Schmuggler / Drogenhändler", "unbekannte Alienrasse", "Sekte [sekte]", "[spacemafia]", "SpaceRocker [spacerocker]",
-    "Korrupter Geschäftsmann", "SpaceNinjas [ninjaclan]", "Händler / Halunke [haendler]", "Promi [showstar]", "[bank]", "Verrückter Wissenschaftler",
+    "Korrupter Geschäftsmann", "SpaceNinjas [ninjaclan]", "Händler / Halunke [haendler]", "Promi [promi]", "[bank]", "Verrückter Wissenschaftler",
     "[handelsrat]", "Korrupter Politiker", "Konzern [konzern_neu_or_wichtig]"];
 
 tabellen["gegenspielerverhalten"] = ["Beschützen aktiv die Zielperson/Gegenstand.",
@@ -318,37 +331,9 @@ tabellen["gegenspielerverhalten"] = ["Beschützen aktiv die Zielperson/Gegenstan
 
 tabellen["zwischenfallweltraum"] = tabellen["existingRaumflugEreignisse"];
 
-tabellen["zwischenfallraumstation"] = ["Die künstliche Schwerkraft fällt aus.",
-    "Schlägerei in einer Kneipe der Raumstation.",
-    "Die Raumstation wird von Rebellen angegriffen.",
-    "Die Raumstation wird vom Zoll gründlich durchsucht, sehr gründlich.",
-    "Die Charaktere finden einen Steckbrief mit ihren Gesichtern.",
-    "Eine Raumzeitkrümmung versetzt die Raumstation auf einmal in den Wilden Westen, wo sie von Viehräubern angegriffen wird.",
-    "Auf der Raumstation wuchert spontan ein blaues Moos, das jeden, der es berührt, scharf macht.",
-    "Die Narrenzunft taucht auf und beschließt spontan, dass jetzt Faschingsbeginn sei.",
-    "Auf der Raumstation bricht eine seltsame Krankheit aus, diese wird zur Quarantänezone erklärt.",
-    "Die Charaktere werden ständig von Piratenfans genervt.",
-    "Ein Alien verliebt sich in einen Charakter und stellt ihm unaufhörlich nach.",
-    "Die künstliche Schwerkraft wird viel, viel zu schwer.",
-    "Eine bewusstseinserweiternde Droge wird freigesetzt.",
-    "Die Charaktere werden eines Mordes beschuldigt.",
-    "Ein spontanes Unwahrscheinlichkeitsfeld befördert die Raumstation in einen zufälligen Sektor.",
-    "Stromausfall auf der Raumstation.",
-    "Das Raumschiff der Charaktere wird besetzt."];
+tabellen["zwischenfallraumstation"] = tabellen["existingRaumstationEreignisse"];
 
-tabellen["zwischenfallplanet"] = ["Ein Erdbeben tritt auf.",
-    "Die Regierung verhängt eine Ausreisesperre, weil Terroristen/Verbrecher gesucht werden.",
-    "Eine Epidemie bricht aus.",
-    "Die Charaktere geraten in eine Straßenschlacht.",
-    "Die Charaktere finden ein Steckbrief mit ihren Gesichtern.",
-    "Ein Meteoritenhagel stürzt auf den Planeten ein.",
-    "Ein Weltuntergangsprediger taucht auf und nervt die Charaktere.",
-    "Es findet ein Volksfest mit sehr komischen Traditionen statt.",
-    "Der Planet entpuppt sich als Rebellenhochburg.",
-    "Die Charaktere werden überfallen.",
-    "Großausbruch in einem naheliegenden Gefängnis.",
-    "Ein Vulkan bricht aus.",
-    "Die Regierung verhängt eine Ausgangssperre."];
+tabellen["zwischenfallplanet"] = tabellen["existingPlanetenEreignisse"];
 
 tabellen["orte"] = ["Ruine auf einem bekannten Planeten [existingPlaneten]",
     "Ruine auf neu entdeckten Planeten [planetneu]",

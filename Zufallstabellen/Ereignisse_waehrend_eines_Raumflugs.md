@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Zufallstabellen/Ereignisse_bei_einem_Raumflug
+permalink: /Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs
 title: Ereignisse bei einem Raumflug
 sitedata:
     RaumflugEreignisse:
@@ -27,6 +27,10 @@ sitedata:
         - "Eine Sekte will die Piraten bekehren: [sekte]"
         - "[weltraumtier] kreuzen"
         - "Eine Mail kommt an (Mails gibt es eigentlich seit 1000 Jahren nicht mehr)."
+        - "Die Piraten treffen auf eine befreundete Piratengruppe."
+        - "Die Piraten treffen auf ein altes Schlachtfeld."
+        - "Die Piraten werden mit jemanden verwechselt."
+        - "Es spukt im Raumschiff."
     RaumflugKrankheiten:
         - Seekrankheit
         - Extreme Langeweile
@@ -35,6 +39,6 @@ sitedata:
         - Lagerkoller
 ---
 
-Diese Zufallstabelle kann genutzt werden um einen Raumflug interessanter zu gestalten.
+Nichts ist langweiliger als mit FTL-Geschwindigkeit durch den Weltraum zu gondeln. Entweder man überspringt die Zeit einfach oder man schaut anhand dieser Tabelle was so geschieht.
 
 {% include zufallstabelle.md table="existingRaumflugEreignisse" %}

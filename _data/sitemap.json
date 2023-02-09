@@ -4098,13 +4098,29 @@
   "/Zufallstabellen/Beute": {
     "prev": "/Zufallstabellen/Auswirkungen_eines_Ionensturms",
     "firstInDir": false,
-    "next": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug",
+    "next": "/Zufallstabellen/Ereignisse_auf_einem_Planeten",
     "lastInDir": false,
     "parent": "/Zufallstabellen/",
     "title": "Beutegenerator"
   },
-  "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": {
+  "/Zufallstabellen/Ereignisse_auf_einem_Planeten": {
     "prev": "/Zufallstabellen/Beute",
+    "firstInDir": false,
+    "next": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation",
+    "lastInDir": false,
+    "parent": "/Zufallstabellen/",
+    "title": "Ereignisse auf einem Planeten"
+  },
+  "/Zufallstabellen/Ereignisse_auf_einer_Raumstation": {
+    "prev": "/Zufallstabellen/Ereignisse_auf_einem_Planeten",
+    "firstInDir": false,
+    "next": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug",
+    "lastInDir": false,
+    "parent": "/Zufallstabellen/",
+    "title": "Ereignisse auf einer Raumstation"
+  },
+  "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": {
+    "prev": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation",
     "firstInDir": false,
     "next": "/Zufallstabellen/Fehlfunktionen_von_Geraeten",
     "lastInDir": false,

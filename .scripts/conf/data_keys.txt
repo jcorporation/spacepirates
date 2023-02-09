@@ -6,10 +6,12 @@ Konzerne
 Organisationen
 Piratenmacken
 Planeten
+PlanetenEreignisse
 Rassen
 RaumflugEreignisse
 RaumflugKrankheiten
 Raumschiffmacken
+RaumstationEreignisse
 Raumstationen
 RaumzeitverschiebungEreignisse
 Sektoren

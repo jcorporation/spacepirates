@@ -1916,8 +1916,11 @@
   },
   "ereignisse": {
     "/Abenteuer/Zeitraub_II/Ereignisse": 100,
+    "/Zufallstabellen/Ereignisse_auf_einem_Planeten": 50,
+    "/Zufallstabellen/Ereignisse_auf_einer_Raumstation": 50,
     "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 50,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 27,
+    "/Zufallstabellen/": 25,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 2,
     "/Abenteuer/Zeitraub_II/": 1
   },
@@ -5517,6 +5520,7 @@
     "/Weltraum/Aliens/Wagonen/Windsor_Planet": 72,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 53,
     "/Weltraum/Zurueckgebliebene_Planeten": 51,
+    "/Zufallstabellen/Ereignisse_auf_einem_Planeten": 51,
     "/Abenteuer/Dungeonplanet/Einstieg": 30,
     "/Abenteuer/Zeitraub_II/Reise": 29,
     "/Weltraum/Sektoren/E1/Epsilon_Canabis": 29,
@@ -5700,6 +5704,7 @@
     "/Weltraum/Weltraumphaenomene/Brabenguertel": 1,
     "/Weltraum/Weltraumphaenomene/Weihnachts-Wurmloch": 1,
     "/Weltraum/Weltraumphaenomene/Weisses_Loch": 1,
+    "/Zufallstabellen/": 1,
     "/Zufallstabellen/Namensgenerator": 1
   },
   "planet im umkreis": {
@@ -5843,6 +5848,7 @@
     "/Weltraum/Promis": 181,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 10,
     "/Weltraum/Aliens/Trull/Golfplatz": 10,
+    "/Zufallstabellen/Ereignisse_auf_einer_Raumstation": 10,
     "/Abenteuer/Ideen/Stars_und_Sternchen": 1
   },
   "promis": {
@@ -6075,9 +6081,13 @@
   },
   "raumflug": {
     "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 51,
-    "/Zufallstabellen/": 26,
+    "/Zufallstabellen/": 25,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 1
+  },
+  "raumflugs": {
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege": 1,
+    "/Zufallstabellen/": 1
   },
   "raumhafen": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 27,
@@ -6198,6 +6208,7 @@
   "raumstation": {
     "/Weltraum/Aliens/SpaceWorms/Raumstationen": 131,
     "/Weltraum/Raumstationen/": 103,
+    "/Zufallstabellen/Ereignisse_auf_einer_Raumstation": 51,
     "/Abenteuer/Halloween/Station": 30,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 14,
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 12,
@@ -8663,6 +8674,11 @@
   },
   "vzfvomitglieds": {
     "/Abenteuer/Ostern/Loesung": 26
+  },
+  "waehrend": {
+    "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
+    "/Abenteuer/Der_grosse_Fang/Einstieg": 1,
+    "/Abenteuer/Der_grosse_Fang/Reise": 1
   },
   "waehrung": {
     "/Weltraum/Freihandelszone/Waehrungen_und_Banken": 26,

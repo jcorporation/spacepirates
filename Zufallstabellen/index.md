@@ -16,6 +16,12 @@ Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum vo
 - [Raumschiffe]({{ site.baseurl }}/Zufallstabellen/Raumschiffe)
 - [Spielleiter-Charaktere]({{ site.baseurl }}/Zufallstabellen/SLC-Generator)
 
+## Ereignisse
+
+- [Auf einem Planeten]({{ site.baseurl }}/Zufallstabellen/Ereignisse_auf_einem_Planeten)
+- [Während eines Raumflugs]({{ site.baseurl }}/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs)
+- [Auf einer Raumstation]({{ site.baseurl }}/Zufallstabellen/Ereignisse_auf_einer_Raumstation)
+
 ## Namen
 
 - [Namensgenerator]({{ site.baseurl }}/Zufallstabellen/Namensgenerator)
@@ -25,7 +31,6 @@ Die Zufallstabellen sollen dem SpacePirates Spielleiter helfen, das Universum vo
 - [Auswirkungen der Raumzeitverschiebung]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_der_Raumzeitverschiebung)
 - [Auswirkungen der Unwahrscheinlichkeitszone]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_der_Unwahrscheinlichkeitszone)
 - [Auswirkungen eines Ionensturms]({{ site.baseurl }}/Zufallstabellen/Auswirkungen_eines_Ionensturms)
-- [Ereignisse bei einem Raumflug]({{ site.baseurl }}/Zufallstabellen/Ereignisse_bei_einem_Raumflug)
 - [Sternensysteme]({{ site.baseurl }}/Zufallstabellen/Sternensysteme)
 
 ## Technik
