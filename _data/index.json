@@ -5740,7 +5740,7 @@
     "/Weltraum/Freihandelszone/System_der_Traeume/Der_Rote_Planet": 1
   },
   "pluesch": {
-    "/Weltraum/Konzerne/Ramsch_Incorporated": 1
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 3
   },
   "politik": {
     "/Weltraum/Politische_Lage/": 102,
@@ -8168,7 +8168,7 @@
     "/Weltraum/Technologie/": 1
   },
   "ted von pluesch": {
-    "/Weltraum/Konzerne/Ramsch_Incorporated": 150
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 170
   },
   "tek": {
     "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 212,
