@@ -12,8 +12,8 @@ sitedata:
     Konzerne:
         Ramsch_Incorporated:
             Name: "Ramsch Incorporated"
-            Besitzer: ""
-            Geschaeftsfuehrer: ""
+            Besitzer: "Ted von Plüsch"
+            Geschaeftsfuehrer: "Ted von Plüsch"
             Kategorie: "Handelskonzern"
             Konzernzentrale: "Streif"
             Niederlassungen: ""
