@@ -508,6 +508,23 @@ siteSearch.init = function(scope) {
     }, false);
 }
 
+const svg = {};
+svg.init = function(scope) {
+    const cards = scope.querySelectorAll('.card-svg');
+    for (const card of cards) {
+        const image = card.querySelector('img');
+        card.getElementsByTagName('button')[0].addEventListener('click', function() {
+            const curWidth = image.offsetWidth;
+            image.style.width = (curWidth * 0.8) + 'px';
+        }, false);
+
+        card.getElementsByTagName('button')[1].addEventListener('click', function() {
+            const curWidth = image.offsetWidth;
+            image.style.width = (curWidth * 1.2) + 'px';
+        }, false);
+    }
+}
+
 //init all
 function siteInit(scope) {
     if (typeof randgen === 'object') {
@@ -517,6 +534,7 @@ function siteInit(scope) {
     sitemap.init(scope);
     siteSearch.init(scope);
     tables.init(scope);
+    svg.init(scope);
 
     // clickable event handler
     const clickBoxes = document.querySelectorAll('.clickable');

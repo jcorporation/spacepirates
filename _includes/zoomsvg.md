@@ -9,4 +9,3 @@
         </div>
     </div>
 </div>
-<script src="/assets/js/svg-zoom.js"></script>
