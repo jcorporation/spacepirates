@@ -1306,6 +1306,13 @@
     "Position": "Piratenkapitän",
     "Link": "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa"
   },
+  "Ted_von_Pluesch": {
+    "Name": "Ted von Plüsch",
+    "Rasse": "Streifanier",
+    "Kategorie": "Konzernchef",
+    "Wohnort": "Streif",
+    "Link": "/Weltraum/Konzerne/Ramsch_Incorporated"
+  },
   "Troedler_Abraham": {
     "Name": "Trödler Abraham",
     "Rasse": "Trull",

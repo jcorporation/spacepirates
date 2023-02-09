@@ -176,6 +176,15 @@
     "Niederlassungen": "",
     "Link": "/Weltraum/Konzerne/Rabbit_Inc"
   },
+  "Ramsch_Incorporated": {
+    "Name": "Ramsch Incorporated",
+    "Besitzer": "",
+    "Geschaeftsfuehrer": "",
+    "Kategorie": "Handelskonzern",
+    "Konzernzentrale": "Streif",
+    "Niederlassungen": "",
+    "Link": "/Weltraum/Konzerne/Ramsch_Incorporated"
+  },
   "Raumschiff_und_Co": {
     "Name": "Raumschiff & Co.",
     "Besitzer": "Interstellarer Finanzinvestor Mind Group",

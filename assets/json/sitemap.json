@@ -1258,13 +1258,21 @@
   "/Weltraum/Konzerne/Rabbit_Inc": {
     "prev": "/Weltraum/Konzerne/Puugle_Incorporated",
     "firstInDir": false,
-    "next": "/Weltraum/Konzerne/Raumschiff_und_Co",
+    "next": "/Weltraum/Konzerne/Ramsch_Incorporated",
     "lastInDir": false,
     "parent": "/Weltraum/Konzerne/",
     "title": "Rabbit Inc"
   },
-  "/Weltraum/Konzerne/Raumschiff_und_Co": {
+  "/Weltraum/Konzerne/Ramsch_Incorporated": {
     "prev": "/Weltraum/Konzerne/Rabbit_Inc",
+    "firstInDir": false,
+    "next": "/Weltraum/Konzerne/Raumschiff_und_Co",
+    "lastInDir": false,
+    "parent": "/Weltraum/Konzerne/",
+    "title": "Ramsch Incorporated"
+  },
+  "/Weltraum/Konzerne/Raumschiff_und_Co": {
+    "prev": "/Weltraum/Konzerne/Ramsch_Incorporated",
     "firstInDir": false,
     "next": "/Weltraum/Konzerne/S_I_E_Robotermanufaktur",
     "lastInDir": false,

@@ -2792,6 +2792,7 @@
   },
   "handelskonzern": {
     "/Weltraum/Konzerne/Fedspex": 10,
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 10,
     "/Weltraum/Konzerne/Trullisch_Ost-Galaktische_Compagnie": 10,
     "/Weltraum/Konzerne/Vereinigte_Nahrungsmittel_eG": 10
   },
@@ -3155,6 +3156,7 @@
   },
   "incorporated": {
     "/Weltraum/Konzerne/Puugle_Incorporated": 52,
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 51,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 1
   },
   "informantin": {
@@ -3838,6 +3840,7 @@
     "/Weltraum/Konzerne/JCTech_IAG": 10,
     "/Weltraum/Konzerne/Omatic_Enterprise": 10,
     "/Weltraum/Konzerne/Puugle_Incorporated": 10,
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 10,
     "/Weltraum/Konzerne/SeeYou": 10,
     "/Weltraum/Konzerne/SpaceResearch": 10,
     "/Weltraum/Konzerne/SpaceShell": 10
@@ -5411,6 +5414,7 @@
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten": 1,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten": 1,
     "/Weltraum/Freihandelszone/Handelsrat": 1,
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/": 1,
     "/Weltraum/Neutrale_Zone/Scrabnambu": 1,
     "/Weltraum/Piraten/Treffpunkte/": 1,
@@ -5735,6 +5739,9 @@
     "/Weltraum/Promis": 151,
     "/Weltraum/Freihandelszone/System_der_Traeume/Der_Rote_Planet": 1
   },
+  "pluesch": {
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 1
+  },
   "politik": {
     "/Weltraum/Politische_Lage/": 102,
     "/Weltraum/": 2,
@@ -5970,6 +5977,10 @@
     "/Abenteuer/Laborratten/Railroading/": 50,
     "/Abenteuer/Laborratten/": 1,
     "/Abenteuer/Laborratten/Einstieg": 1
+  },
+  "ramsch incorporated": {
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 250,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 1
   },
   "rand": {
     "/Abenteuer/Schatzjagd/Rand": 52,
@@ -7887,6 +7898,7 @@
   },
   "streif": {
     "/Weltraum/Aliens/Streifanier/Streif": 261,
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 20,
     "/Weltraum/Aliens/Streifanier/": 14,
     "/Weltraum/Aliens/Streifanier/La_Chateau": 11,
     "/Weltraum/Promis": 10,
@@ -7898,6 +7910,7 @@
     "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 27,
     "/Weltraum/Aliens/Streifanier/Streif": 12,
     "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen": 11,
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 11,
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 10,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 1
   },
@@ -8153,6 +8166,9 @@
   "techtalk": {
     "/Weltraum/Technologie/Techtalk": 101,
     "/Weltraum/Technologie/": 1
+  },
+  "ted von pluesch": {
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 150
   },
   "tek": {
     "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 212,
