@@ -1918,7 +1918,7 @@
     "/Abenteuer/Zeitraub_II/Ereignisse": 100,
     "/Zufallstabellen/Ereignisse_auf_einem_Planeten": 50,
     "/Zufallstabellen/Ereignisse_auf_einer_Raumstation": 50,
-    "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 50,
+    "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs": 50,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 27,
     "/Zufallstabellen/": 25,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 2,
@@ -6080,7 +6080,7 @@
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 26
   },
   "raumflug": {
-    "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 51,
+    "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs": 50,
     "/Zufallstabellen/": 25,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 1
@@ -6868,7 +6868,7 @@
     "/Weltraum/Sekten/Weltraumpfleger": 11,
     "/Weltraum/Sekten/Marmonen": 10,
     "/Weltraum/Sekten/Verfechter_der_Nacktheit": 10,
-    "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": 10,
+    "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs": 10,
     "/Abenteuer/Ostern/Rabbit_Inc": 1
   },
   "sekten": {

@@ -4114,12 +4114,12 @@
   "/Zufallstabellen/Ereignisse_auf_einer_Raumstation": {
     "prev": "/Zufallstabellen/Ereignisse_auf_einem_Planeten",
     "firstInDir": false,
-    "next": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug",
+    "next": "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs",
     "lastInDir": false,
     "parent": "/Zufallstabellen/",
     "title": "Ereignisse auf einer Raumstation"
   },
-  "/Zufallstabellen/Ereignisse_bei_einem_Raumflug": {
+  "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs": {
     "prev": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation",
     "firstInDir": false,
     "next": "/Zufallstabellen/Fehlfunktionen_von_Geraeten",
@@ -4128,7 +4128,7 @@
     "title": "Ereignisse bei einem Raumflug"
   },
   "/Zufallstabellen/Fehlfunktionen_von_Geraeten": {
-    "prev": "/Zufallstabellen/Ereignisse_bei_einem_Raumflug",
+    "prev": "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs",
     "firstInDir": false,
     "next": "/Zufallstabellen/Folgen_von_Neutritium-_Negatritium-Strahlung",
     "lastInDir": false,
