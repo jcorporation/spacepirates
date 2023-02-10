@@ -173,9 +173,3 @@ Trotz allem sieht man immer noch ein Funkeln in ihren Augen, wenn sie darüber r
 Ursels Cafe ist berühmt für den leckeren selbst gebackenen Kuchen. Man kann bedenkenlos zuschlagen, denn Ursel kostet alle ihre Kreationen, um eine gleichbleibend hohe Qualität zu gewährleisten und ihre Figur beweist, dass diese Behauptung stimmt. Sie ist eine resolute Matrone und duldet keine Schlägereien in ihrem Caf&eacute;, weshalb ihre Sternenterrasse (mit romantischem Blick über den Brabengürtel) ein beliebtes Ziel verliebter Jungpiraten ist.
 
 {% include slc.md data=page.sitedata.Slc.Ursel %}
-
-## Karte
-
-<img alt="Erdgeschoss" src="{{ site.baseurl }}/assets/images/plaene/twoeyedjack-eg.webp" />
-
-<img alt="Obergeschoss" src="{{ site.baseurl }}/assets/images/plaene/twoeyedjack-og.webp" />
