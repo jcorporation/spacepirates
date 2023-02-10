@@ -1313,6 +1313,13 @@
     "Wohnort": "Streif",
     "Link": "/Weltraum/Konzerne/Ramsch_Incorporated"
   },
+  "To_Foo": {
+    "Name": "To Foo",
+    "Rasse": "Neuasiat",
+    "Kategorie": "Kneipenbesitzer",
+    "Wohnort": "Foo-Bar",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Foo-Bar"
+  },
   "Troedler_Abraham": {
     "Name": "Trödler Abraham",
     "Rasse": "Trull",
