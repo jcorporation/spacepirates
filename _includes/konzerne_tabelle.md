@@ -13,7 +13,7 @@
         <tr>
             <td>{% include printlink.md data=Name link=Link %}</td>
             <td>{% include printtext.md data=Kategorie %}</td>
-            <td>{% include printlink.md data=Konzernzentrale type="Planeten" %}</td>
+            <td>{% include printlink.md data=Konzernzentrale %}</td>
         </tr>
     {% endif %}
 {% endfor %}

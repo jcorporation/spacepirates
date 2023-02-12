@@ -1,3 +1,5 @@
+<hr/>
+
 <div class="card mb-3" data-info="{{ include.data }}">
     <div class="card-header bg-yellow text-dark">Konzerne und SLC auf dieser Raumstation</div>
     <div class="card-body">
