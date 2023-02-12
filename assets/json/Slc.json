@@ -233,6 +233,13 @@
     "Position": "",
     "Link": "/Weltraum/Promis"
   },
+  "Der_Schrauber": {
+    "Name": "Der Schrauber",
+    "Rasse": "Samnese",
+    "Kategorie": "Techniker",
+    "Wohnort": "Foo-Bar",
+    "Link": "/Weltraum/Piraten/Treffpunkte/Foo-Bar"
+  },
   "Detlev": {
     "Name": "Detlev",
     "Rasse": "Spacepear",

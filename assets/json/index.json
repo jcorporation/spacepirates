@@ -708,6 +708,9 @@
     "/Weltraum/Haendler_und_Halunken": 27,
     "/Weltraum/Weltraumphaenomene/Oyster-Cluster": 1
   },
+  "bazorakel": {
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 26
+  },
   "beaton": {
     "/Weltraum/Promis": 2,
     "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet": 1
@@ -2211,7 +2214,7 @@
     "/Ideenhalde/Orte/": 1
   },
   "foobar": {
-    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 264,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 275,
     "/Weltraum/Piraten/Treffpunkte/": 27,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 1
   },
@@ -4597,6 +4600,7 @@
   "namen": {
     "/Zufallstabellen/": 25,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 3,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1
   },
   "namensgenerator": {
@@ -5998,6 +6002,10 @@
     "/Abenteuer/Laborratten/": 1,
     "/Abenteuer/Laborratten/Einstieg": 1
   },
+  "ramsch": {
+    "/Weltraum/Konzerne/Ramsch_Incorporated": 53,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 1
+  },
   "ramsch incorporated": {
     "/Weltraum/Konzerne/Ramsch_Incorporated": 251,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 1
@@ -6153,9 +6161,9 @@
     "/Spielregeln/Die_Piratencrew/Uebersicht": 25,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 11,
     "/Abenteuer/Laborratten/Einstieg": 7,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 7,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 6,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 6,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 6,
     "/Abenteuer/": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 5,
@@ -6193,6 +6201,7 @@
     "/Weltraum/Historie": 2,
     "/Weltraum/Menschen/Foederation/Sisbert": 2,
     "/Weltraum/Militaer": 2,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 2,
     "/Weltraum/Sektoren/": 2,
     "/Weltraum/SpaceMafia/Italienische_Mafia/": 2,
     "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia": 2,
@@ -6240,11 +6249,11 @@
     "/Weltraum/Aliens/SpaceWorms/Raumstationen": 131,
     "/Weltraum/Raumstationen/": 103,
     "/Zufallstabellen/Ereignisse_auf_einer_Raumstation": 51,
-    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 36,
     "/Abenteuer/Halloween/Station": 30,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 14,
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 12,
     "/Weltraum/Freihandelszone/System_der_Traeume/Mimen-Mission": 12,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 12,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 12,
     "/Weltraum/Piraten/Treffpunkte/Halfway": 12,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 12,
@@ -6616,6 +6625,7 @@
     "/Abenteuer/Der_grosse_Fang/Danach": 11,
     "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen": 11,
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 11,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 11,
     "/Weltraum/Sektoren/D1/Trianguli_Sup_2": 11,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 10,
     "/Weltraum/Verrueckte_Wissenschaftler": 10,
@@ -6625,8 +6635,7 @@
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 1,
     "/Abenteuer/Zeitraub/Auftrag": 1,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 1,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 1,
-    "/Weltraum/": 1
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 1
   },
   "samnesischer": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 26,
@@ -6841,11 +6850,14 @@
     "/Abenteuer/Buschraub/SWIP": 1
   },
   "schnapsbrennerei": {
-    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 26,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 27,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 1
   },
   "schockstrahler": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 27
+  },
+  "schrauber": {
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 27
   },
   "schroeder": {
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 176
@@ -7968,7 +7980,7 @@
     "/Spielregeln/Die_Piratencrew/Ausruestung/": 1
   },
   "stylezubehoer": {
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 100,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 101,
     "/Spielregeln/Die_Piratencrew/Uebersicht": 1
   },
   "suchmission": {
@@ -8172,6 +8184,11 @@
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 1
   },
+  "techniker": {
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 10,
+    "/Abenteuer/Neutritiumklau/Lager": 3,
+    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 1
+  },
   "technologie": {
     "/Weltraum/Technologie/": 100,
     "/Weltraum/Aliens/Atlanter/": 2,
@@ -8256,6 +8273,11 @@
   "torteneckchen": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 27,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 25
+  },
+  "touristen": {
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 26,
+    "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 2,
+    "/Abenteuer/Wagonian_Wedding/Einleitung": 1
   },
   "town": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 25,
@@ -8521,6 +8543,7 @@
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Glutulhu": 3,
     "/Weltraum/Aliens/Syoner/": 3,
     "/Weltraum/Historie": 3,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 3,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 3,
     "/Abenteuer/": 2,
     "/Abenteuer/Zeitraub/Marmonen": 2,
@@ -8536,7 +8559,6 @@
     "/Weltraum/Konzerne/Universe_Broadcast": 2,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 2,
     "/Weltraum/Piraten/Treffpunkte/": 2,
-    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 2,
     "/Weltraum/SpaceMafia/Italienische_Mafia/Nuova_Sicilia": 2,
     "/Weltraum/SpaceNinjas/Clans/Leiser-Wind-des-Schicksals-Dojo": 2,
     "/Weltraum/SpaceRocker/Rockbands": 2,
@@ -8997,7 +9019,8 @@
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 26
   },
   "werkstatt": {
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Baustelle": 26
+    "/Abenteuer/Raumschiffdungeon/Sektoren/Baustelle": 26,
+    "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 1
   },
   "wesir": {
     "/Abenteuer/Blumenkind/SWIP": 23,
