@@ -5,7 +5,7 @@ title: Style-Zubehör
 order: /004
 ---
 
-
+Style-Zubehör bietet keine regeltechnischen Vorteile, können aber ein Raumschiff wesentlich cooler machen.
 
 | Zubehör | Kosten |
 | ------- | -----: |
@@ -36,7 +36,7 @@ order: /004
 - Die **Edel-Kombüse** ist mit allem Luxus ausgestattet, inklusive intelligenter Küchengeräten mit vernetzter KI.
 - **EHB-Auspuff:** Durch den integrierten Enhanced Hyper Bass röhrt das Raumschiff nun auch im luftleeren Raum.
 - Das **Entertainmentsystem** verwandelt die Brücke auf Knopfdruck in ein modernes 4D-Kino mit allem Schnickschnack. Es bietet Vibrosessel mit Rum- und Popkornhalter, ein Surround-System und natürlich eine gigantische Leinwand.
-- **Flauschwürfel / Wackeldackel:** Ein nettes kleines Accessoire, passend für jedes Cockpit. Beliebt sind auch Wackelpapageien, -affen oder -totenköpfe. Der neuste Schrei sind kleine Holoprojektoren, bei denen man zwischen verschiedenen Wackelfiguren umschalten kann. Traditionelle Piraten setzen aber natürlich auf die alten Modelle von Ramsch Incorporated.
+- **Flauschwürfel / Wackeldackel:** Ein nettes kleines Accessoire, passend für jedes Cockpit. Beliebt sind auch Wackelpapageien, -affen oder -totenköpfe. Der neuste Schrei sind kleine Holoprojektoren, bei denen man zwischen verschiedenen Wackelfiguren umschalten kann. Traditionelle Piraten setzen aber natürlich auf die alten Modelle von [Ramsch Incorporated]({{ site.baseurl }}/Weltraum/Konzerne/Ramsch_Incorporated).
 - Ein **Hologrammemittersystem** als Ergänzung zur Schiffs-KI. Mit diesem System kann die KI im gesamten Raumschiff fast lebensecht wirkende Hologramme projizieren, aber immer nur eines gleichzeitig.
 - Den **Luxussitz** gibt es in Ausführungen für Kapitäne, Piloten und Bordschützen. Er ist hauptsächlich verdammt bequem, bietet aber auch einige Extras, wie einen automatischen Rumflaschenhalter, Massagefunktion und viele Knöpfe für weitere Spezialeffekte.
 - Der **Meteorkrakenlederüberzug** ist der neuste Schrei bei hippen Piraten und macht jedes abgehalfterte Raumschiff zu einem Trendobjekt. Weltraumschutzorganisationen protestieren seit dem Aufkommen dieses Trends und treiben ein universumsweites Verbot voran, momentan hängt der Antrag in der wagonischen Bürokratie fest.
