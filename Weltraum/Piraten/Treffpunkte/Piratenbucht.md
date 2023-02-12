@@ -15,8 +15,8 @@ sitedata:
             Rasse: "Trull"
             Kategorie: "Pirat"
             Wohnort: "Piratenbucht"
-        Old_Williams:
-            Name: "Old Williams"
+        Old_William:
+            Name: "Old William"
             Rasse: "Mensch"
             Kategorie: "Händler"
             Wohnort: "Piratenbucht"
@@ -27,8 +27,6 @@ sitedata:
             Wohnort: "Piratenbucht"
             Position: ""
 ---
-
-
 
 Die Piratenbucht ist ein bekannter Weltraumhafen und Piratentreffpunkt. Diese Raumstation hat eine Macke, so dass sie von Zeit zu Zeit einen unberechenbaren Raumzeitsprung ausführt. Zum Glück springt sie meist weiter im Raum als in der Zeit, aber es kann durchaus passieren, dass temporär zwei Piratenbuchten existieren.
 
@@ -46,9 +44,9 @@ In der Piratenbucht gibt es den großen Piratenmarkt, der an jedem Tag der Woche
 
 ## Old Williams Spirituosen-Brennerei
 
-Old Williams ist der bekannteste Schnapsbrenner des Universums. Sein mit Falten durchgezogenes Gesicht und vor allem sein guter Schnaps hinterlassen einen bleibenden Eindruck. Er brennt ausschließlich harte Schnäpse, denen nur harte Piraten gewachsen sind. Das erste Glas ist gesund, das zweite macht blind, aber niemand ist so verrückt zwei Gläser von Old Williams Schnaps kurz hintereinander zu trinken und die meisten sind dazu auch nicht in der Lage.
+Old Williams ist der bekannteste Schnapsbrenner des Universums. Sein mit Falten durchgezogenes Gesicht und vor allem sein guter Schnaps hinterlassen einen bleibenden Eindruck. Er brennt ausschließlich harte Schnäpse, denen nur harte Piraten gewachsen sind. Das erste Glas ist gesund, das zweite macht blind, aber niemand ist so verrückt zwei Gläser von Old Williams Schnaps kurz hintereinander zu trinken und die meisten sind dazu auch nicht in der Lage. Old William besitzt auch die Schnapsbrennerei auf der [Foo-Bar]({{ site.baseurl}}/Weltraum/Piraten/Treffpunkte/Foo-Bar) Raumstation.
 
-{% include slc.md data=page.sitedata.Slc.Old_Williams %}
+{% include slc.md data=page.sitedata.Slc.Old_William %}
 
 ## Zorkas Wohnküche
 
