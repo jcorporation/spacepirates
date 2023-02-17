@@ -389,7 +389,7 @@ ul.sitemap {
     min-width: unset;
     width: 25% !important;
     overflow: hidden;
-    max-height: calc(100vh - 8rem);
+    max-height: calc(100vh - 9.5rem);
     background-color: transparent;
     color: var(--bs-gray-900);
   }
