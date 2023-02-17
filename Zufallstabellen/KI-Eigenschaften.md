@@ -15,6 +15,15 @@ sitedata:
         - "Schüchtern"
         - "Extrem euphorisch"
         - "Kommt nicht zum Punkt"
+        - "Schwerhörig"
+        - "Schnell beleidigt"
+        - "Stur"
+        - "Einschläfernder Tonfall"
+        - "Bringt ab und etwas durcheinander"
+        - "Verwirrt und fahrig"
+        - "Übergenau"
+        - "Oberlehrerhaft"
+        - "Extrem pragmatisch"
 ---
 
 Hier kann ausgewürfelt werden, wie sich eine KI gegenüber den Spielercharakteren verhält.
