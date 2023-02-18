@@ -11,6 +11,7 @@ Rassen
 RaumflugEreignisse
 RaumflugKrankheiten
 Raumschiffmacken
+Raumschiffe_Schilde
 RaumstationEreignisse
 Raumstationen
 RaumzeitverschiebungEreignisse

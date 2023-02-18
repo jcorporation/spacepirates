@@ -1,0 +1,26 @@
+{
+  "0": {
+    "Name": "Kleiner Schild",
+    "Schildwert": 4,
+    "Kosten": 12000,
+    "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde"
+  },
+  "1": {
+    "Name": "Mittlerer Schild",
+    "Schildwert": 6,
+    "Kosten": 16000,
+    "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde"
+  },
+  "2": {
+    "Name": "Großer Schild",
+    "Schildwert": 8,
+    "Kosten": 20000,
+    "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde"
+  },
+  "3": {
+    "Name": "Militärschild",
+    "Schildwert": 16,
+    "Kosten": 50000,
+    "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde"
+  }
+}

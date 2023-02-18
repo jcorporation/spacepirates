@@ -32,6 +32,15 @@ tabellen["existingKiEigenschaften"] = [
   "Mütterlich und überfürsorglich",
   "Ängstlich und vorsichtig",
   "Kommt nicht zum Punkt",
+  "Schwerhörig",
+  "Schnell beleidigt",
+  "Stur",
+  "Einschläfernder Tonfall",
+  "Bringt ab und etwas durcheinander",
+  "Verwirrt und fahrig",
+  "Übergenau",
+  "Oberlehrerhaft",
+  "Extrem pragmatisch",
   "Abenteuerlustig",
   "Spielt gern den Pausenclown",
   "Besserwisserisch und eingebildet",
@@ -61,6 +70,7 @@ tabellen["existingKonzerne"] = [
   "Omatic Enterprise",
   "Puugle Incorporated",
   "Rabbit Inc",
+  "Ramsch Incorporated",
   "Raumschiff & Co.",
   "S.I.E. Robotermanufaktur",
   "SeeYou",
@@ -316,6 +326,12 @@ tabellen["existingRaumschiffmacken"] = [
   "KI eingebaut",
   "Reboot nötig"
 ]
+tabellen["existingRaumschiffe_Schilde"] = [
+  "Kleiner Schild",
+  "Mittlerer Schild",
+  "Großer Schild",
+  "Militärschild"
+]
 tabellen["existingRaumstationEreignisse"] = [
   "Eine Schlägerei bricht aus.",
   "Ein Leck auf der Raumstation.",
@@ -431,6 +447,7 @@ tabellen["existingSlc"] = [
   "Daisy Klick",
   "Dar Balga",
   "David Freedomhoff",
+  "Der Schrauber",
   "Detlev",
   "Dia Mond",
   "Dimli",
@@ -510,7 +527,7 @@ tabellen["existingSlc"] = [
   "Neyla",
   "Noh Frut",
   "Ocean Sunflower",
-  "Old Williams",
+  "Old William",
   "Olf Dundgren",
   "Oliver Malbek",
   "Oma Binkel",
@@ -539,6 +556,8 @@ tabellen["existingSlc"] = [
   "Tanaka Mao",
   "Tanaka Mei",
   "Tatjana Molotowa",
+  "Ted von Plüsch",
+  "To Foo",
   "Trödler Abraham",
   "Tsagul",
   "Two Eyed Jack",
