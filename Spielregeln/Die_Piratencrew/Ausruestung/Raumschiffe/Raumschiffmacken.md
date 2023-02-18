@@ -4,7 +4,7 @@ permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken
 title: Raumschiffmacken
 order: /005
 sitedata:
-    Raumschiffmacken:
+    Raumschiffe_Macken:
         - Name: Schildfluktuationen
           Beschreibung: Alle <span class="dice">1W4</span> Runden versagen die Schilde.
         - Name: Antriebswackler
@@ -87,8 +87,6 @@ sitedata:
           Beschreibung: Der Autopilot spielt verrückt und macht was er will, vertauscht Rechts mit Links, usw., &minus;1 auf alle PILOT-Proben.
 ---
 
-
-
 Die Macken eines Raumschiffs werden zufällig bestimmt. Im Normalbetrieb (oder bei einer Probefahrt) treten die Macken nicht auf und auch der gewiefteste Tech sieht sie dem Schiff nicht an.
 
 Ein Schiff kann jede Macke nur einmal und maximal 10 Macken besitzen. Zeigen die Würfel beim Auswürfeln der Macken zweimal die gleiche Macke an, so wird der Wurf wiederholt.
@@ -98,18 +96,18 @@ Erst Macken machen ein Raumschiff zu einem individuellen Fortbewegungsmittel. Si
 {% endcapture %}
 {% include anmerkung.md title="Raumschiffmacken" body=include_body %}
 
-{% include zufallstabelle.md table="existingRaumschiffmacken" count=10 manual=false auto=false %}
+{% include zufallstabelle.md table="existingRaumschiffe_Macken" count=10 manual=false auto=false %}
 
 ***
 
-{% assign nrMacken = page.sitedata.Raumschiffmacken.size %}
+{% assign nrMacken = page.sitedata.Raumschiffe_Macken.size %}
 <table>
 <thead>
 <tr><th>W{{ nrMacken }}</th><th>Macke</th><th>Beschreibung</th></tr>
 </thead>
 <tbody>
 {% assign i = 1 %}
-{% for macke in page.sitedata.Raumschiffmacken %}
+{% for macke in page.sitedata.Raumschiffe_Macken %}
     <tr><td>{{ i }}</td><td>{{ macke["Name"] }}</td><td>{{ macke["Beschreibung"] }}</td></tr>
     {% assign i = i | plus: 1 %}
 {% endfor %}

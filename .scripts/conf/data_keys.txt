@@ -10,7 +10,7 @@ PlanetenEreignisse
 Rassen
 RaumflugEreignisse
 RaumflugKrankheiten
-Raumschiffmacken
+Raumschiffe_Macken
 Raumschiffe_Schilde
 RaumstationEreignisse
 Raumstationen

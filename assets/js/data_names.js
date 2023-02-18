@@ -284,7 +284,7 @@ tabellen["existingRaumflugKrankheiten"] = [
   "Hautausschlag",
   "Lagerkoller"
 ]
-tabellen["existingRaumschiffmacken"] = [
+tabellen["existingRaumschiffe_Macken"] = [
   "Schildfluktuationen",
   "Antriebswackler",
   "Sitze unbequem",

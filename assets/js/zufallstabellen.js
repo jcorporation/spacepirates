@@ -2,7 +2,7 @@
 ---
 "use strict";
 
-tabellen["rsmacken"] = tabellen["existingRaumschiffmacken"];
+tabellen["rsmacken"] = tabellen["existingRaumschiffe_Macken"];
 
 tabellen["scmacken"] = tabellen["existingPiratenmacken"];
 
