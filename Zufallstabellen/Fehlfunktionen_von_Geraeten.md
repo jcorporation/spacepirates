@@ -16,8 +16,10 @@ sitedata:
         - "Explodiert"
         - "Rattert"
         - "Klappert"
-        - "KI Eingebaut"
+        - "KI eingebaut: [existingKiEigenschaften]"
         - "Unbekannter Ausnahmefehler"
+        - "Überhitzt sich schnell"
+        - "Übermäßiger Energieverbrauch"
 ---
 
 Hier kann ausgewürfelt werden, was geschieht, wenn ein technisches Gerät kaputt geht.

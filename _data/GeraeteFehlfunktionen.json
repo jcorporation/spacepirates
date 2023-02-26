@@ -16,11 +16,19 @@
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
   "12": {
-    "Name": "KI Eingebaut",
+    "Name": "KI eingebaut: [existingKiEigenschaften]",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
   "13": {
     "Name": "Unbekannter Ausnahmefehler",
+    "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
+  },
+  "14": {
+    "Name": "Überhitzt sich schnell",
+    "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
+  },
+  "15": {
+    "Name": "Übermäßiger Energieverbrauch",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
   "2": {
