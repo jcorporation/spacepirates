@@ -1,0 +1,38 @@
+{
+  "0": {
+    "Name": "Geheimdienstunterlagen der [aliens]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "1": {
+    "Name": "Blaupausen von [existingBeuteTyp]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "2": {
+    "Name": "Beweisfotos",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "3": {
+    "Name": "Entwurf",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "4": {
+    "Name": "Geheimformel",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "5": {
+    "Name": "Schatzkarte",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "6": {
+    "Name": "Interne Aufzeichnungen von [existingKonzerne]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "7": {
+    "Name": "Bauplan",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "8": {
+    "Name": "Kochbuch",
+    "Link": "/Zufallstabellen/Beute"
+  }
+}

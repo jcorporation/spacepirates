@@ -6,7 +6,6 @@ sitedata:
     GeraeteFehlfunktionen:
         - "Rauch tritt aus"
         - "Piepst und blinkt wild"
-        - "Wird unglaublich heiß"
         - "Wird extrem kalt"
         - "Vibriert stark"
         - "Wackelkontakt"
@@ -20,6 +19,7 @@ sitedata:
         - "Unbekannter Ausnahmefehler"
         - "Überhitzt sich schnell"
         - "Übermäßiger Energieverbrauch"
+        - "Stürzt ständig ab"
 ---
 
 Hier kann ausgewürfelt werden, was geschieht, wenn ein technisches Gerät kaputt geht.

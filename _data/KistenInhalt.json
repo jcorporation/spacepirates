@@ -1,0 +1,42 @@
+{
+  "0": {
+    "Name": "Kleidung",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "1": {
+    "Name": "Elektronikersatzteile",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "2": {
+    "Name": "Schrott",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "3": {
+    "Name": "keinem Inhalt",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "4": {
+    "Name": "Fossilien",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "5": {
+    "Name": "Religiöse Schriften",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "6": {
+    "Name": "Holospiel",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "7": {
+    "Name": "4D-Kamasutra",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "8": {
+    "Name": "Kunst",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "9": {
+    "Name": "Antike Bücher",
+    "Link": "/Zufallstabellen/Beute"
+  }
+}

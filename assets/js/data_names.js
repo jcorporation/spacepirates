@@ -1,22 +1,84 @@
 //do not modify
 const tabellen = {};
+tabellen["existingBeute"] = [
+  "Uraltes Alienartefakt der [aliens], [existingBeuteTyp]",
+  "Gegenstand von Bedeutung: [bedeutung] der Alienrasse [aliens]",
+  "Prototyp: [existingBeuteTyp], [existingBeuteStatus]",
+  "Standardlieferung von [W500] [existingBeuteTyp]",
+  "Leichnam einer unbekannten Alienrasse",
+  "Geheime Dokumente: [existingDokumententyp], ursprünglicher Besitzer [organisation]",
+  "Ungewöhnliche Proben: [materie] vom Planeten [planetneu]",
+  "Lebende Materie: [materie] [materieverhalten]",
+  "Kisten mit [existingKistenInhalt]",
+  "Container mit [existingContainerInhalt]"
+]
+tabellen["existingBeuteTyp"] = [
+  "Handfeuerwaffe",
+  "Raumschiffwaffe",
+  "Energieerzeuger",
+  "Küchengerät",
+  "Raumschiffantrieb",
+  "Schutzschild",
+  "Zeitmaschine",
+  "Unterhaltungsgerät",
+  "Mikrochip",
+  "Roboter"
+]
+tabellen["existingBeuteStatus"] = [
+  "geheim",
+  "illegal",
+  "extrem selten",
+  "unbekannt",
+  "Unikat"
+]
+tabellen["existingContainerInhalt"] = [
+  "Schrott",
+  "Gestein",
+  "lebenden Tieren",
+  "Elektronikersatzteile",
+  "Altkleider",
+  "Kunst"
+]
+tabellen["existingKistenInhalt"] = [
+  "Kleidung",
+  "Elektronikersatzteile",
+  "Schrott",
+  "keinem Inhalt",
+  "Fossilien",
+  "Religiöse Schriften",
+  "Holospiel",
+  "4D-Kamasutra",
+  "Kunst",
+  "Antike Bücher"
+]
+tabellen["existingDokumententyp"] = [
+  "Geheimdienstunterlagen der [aliens]",
+  "Blaupausen von [existingBeuteTyp]",
+  "Beweisfotos",
+  "Entwurf",
+  "Geheimformel",
+  "Schatzkarte",
+  "Interne Aufzeichnungen von [existingKonzerne]",
+  "Bauplan",
+  "Kochbuch"
+]
 tabellen["existingGeraeteFehlfunktionen"] = [
   "Rauch tritt aus",
   "Piepst und blinkt wild",
-  "Rattert",
   "Klappert",
   "KI eingebaut: [existingKiEigenschaften]",
   "Unbekannter Ausnahmefehler",
   "Überhitzt sich schnell",
   "Übermäßiger Energieverbrauch",
-  "Wird unglaublich heiß",
+  "Stürzt ständig ab",
   "Wird extrem kalt",
   "Vibriert stark",
   "Wackelkontakt",
   "Pfeift nervend",
   "Schmilzt",
   "Zerspringt in 1000 Teile",
-  "Explodiert"
+  "Explodiert",
+  "Rattert"
 ]
 tabellen["existingIonensturmEreignisse"] = [
   "Der Schiffscomputer spielt verrückt solange das Raumschiff im Sturm ist: -2 auf alle Raumschiffproben",
@@ -271,6 +333,8 @@ tabellen["existingRaumflugEreignisse"] = [
   "Die Piraten treffen auf ein altes Schlachtfeld.",
   "Die Piraten werden mit jemanden verwechselt.",
   "Es spukt im Raumschiff.",
+  "Die Piraten geraten in ein altes Minenfeld.",
+  "Das Raumschiff gerät in den Einflussbereich von: [weltraumphaenomen]",
   "Eine zufällige Raumschiffmacke setzt ein: [rsmacken]",
   "Der Sprit (Neutritium) geht nach [W100]% der Flugzeit aus, obwohl die Tanknadel noch genügend Reserven zeigt.",
   "Die Crew leidet an: [raumflugkrankheit].",

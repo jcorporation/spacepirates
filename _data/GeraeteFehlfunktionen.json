@@ -8,59 +8,59 @@
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
   "10": {
-    "Name": "Rattert",
-    "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
-  },
-  "11": {
     "Name": "Klappert",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "12": {
+  "11": {
     "Name": "KI eingebaut: [existingKiEigenschaften]",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "13": {
+  "12": {
     "Name": "Unbekannter Ausnahmefehler",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "14": {
+  "13": {
     "Name": "Überhitzt sich schnell",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "15": {
+  "14": {
     "Name": "Übermäßiger Energieverbrauch",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "2": {
-    "Name": "Wird unglaublich heiß",
+  "15": {
+    "Name": "Stürzt ständig ab",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "3": {
+  "2": {
     "Name": "Wird extrem kalt",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "4": {
+  "3": {
     "Name": "Vibriert stark",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "5": {
+  "4": {
     "Name": "Wackelkontakt",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "6": {
+  "5": {
     "Name": "Pfeift nervend",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "7": {
+  "6": {
     "Name": "Schmilzt",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "8": {
+  "7": {
     "Name": "Zerspringt in 1000 Teile",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   },
-  "9": {
+  "8": {
     "Name": "Explodiert",
+    "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
+  },
+  "9": {
+    "Name": "Rattert",
     "Link": "/Zufallstabellen/Fehlfunktionen_von_Geraeten"
   }
 }

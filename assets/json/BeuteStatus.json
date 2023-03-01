@@ -1,0 +1,22 @@
+{
+  "0": {
+    "Name": "geheim",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "1": {
+    "Name": "illegal",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "2": {
+    "Name": "extrem selten",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "3": {
+    "Name": "unbekannt",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "4": {
+    "Name": "Unikat",
+    "Link": "/Zufallstabellen/Beute"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "0": {
+    "Name": "Uraltes Alienartefakt der [aliens], [existingBeuteTyp]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "1": {
+    "Name": "Gegenstand von Bedeutung: [bedeutung] der Alienrasse [aliens]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "2": {
+    "Name": "Prototyp: [existingBeuteTyp], [existingBeuteStatus]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "3": {
+    "Name": "Standardlieferung von [W500] [existingBeuteTyp]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "4": {
+    "Name": "Leichnam einer unbekannten Alienrasse",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "5": {
+    "Name": "Geheime Dokumente: [existingDokumententyp], ursprünglicher Besitzer [organisation]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "6": {
+    "Name": "Ungewöhnliche Proben: [materie] vom Planeten [planetneu]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "7": {
+    "Name": "Lebende Materie: [materie] [materieverhalten]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "8": {
+    "Name": "Kisten mit [existingKistenInhalt]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "9": {
+    "Name": "Container mit [existingContainerInhalt]",
+    "Link": "/Zufallstabellen/Beute"
+  }
+}

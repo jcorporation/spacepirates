@@ -79,6 +79,14 @@
     "Name": "Es spukt im Raumschiff.",
     "Link": "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs"
   },
+  "27": {
+    "Name": "Die Piraten geraten in ein altes Minenfeld.",
+    "Link": "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs"
+  },
+  "28": {
+    "Name": "Das Raumschiff gerät in den Einflussbereich von: [weltraumphaenomen]",
+    "Link": "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs"
+  },
   "3": {
     "Name": "Eine zufällige Raumschiffmacke setzt ein: [rsmacken]",
     "Link": "/Zufallstabellen/Ereignisse_waehrend_eines_Raumflugs"

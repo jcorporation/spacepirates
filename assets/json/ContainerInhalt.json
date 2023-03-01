@@ -1,0 +1,26 @@
+{
+  "0": {
+    "Name": "Schrott",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "1": {
+    "Name": "Gestein",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "2": {
+    "Name": "lebenden Tieren",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "3": {
+    "Name": "Elektronikersatzteile",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "4": {
+    "Name": "Altkleider",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "5": {
+    "Name": "Kunst",
+    "Link": "/Zufallstabellen/Beute"
+  }
+}

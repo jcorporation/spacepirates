@@ -225,6 +225,7 @@
     "/Weltraum/": 25,
     "/Weltraum/Neutrale_Zone/Scrabnambu": 10,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 4,
+    "/Zufallstabellen/Beute": 3,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Weltraum/Aliens/Glukorianer/": 2,
     "/Weltraum/Aliens/Spaceamazonen/": 2,
@@ -4312,8 +4313,8 @@
   },
   "materie": {
     "/Ideenhalde/Weltraumphaenomene": 27,
-    "/Abenteuer/Raumschiffdungeon/Hintergrund": 1,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/": 1
+    "/Zufallstabellen/Beute": 2,
+    "/Abenteuer/Raumschiffdungeon/Hintergrund": 1
   },
   "media": {
     "/Weltraum/Konzerne/Asia_Media": 202,
@@ -5733,6 +5734,7 @@
     "/Weltraum/Weltraumphaenomene/Weihnachts-Wurmloch": 1,
     "/Weltraum/Weltraumphaenomene/Weisses_Loch": 1,
     "/Zufallstabellen/": 1,
+    "/Zufallstabellen/Beute": 1,
     "/Zufallstabellen/Namensgenerator": 1
   },
   "planet im umkreis": {

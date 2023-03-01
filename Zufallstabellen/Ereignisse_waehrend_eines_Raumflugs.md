@@ -31,6 +31,8 @@ sitedata:
         - "Die Piraten treffen auf ein altes Schlachtfeld."
         - "Die Piraten werden mit jemanden verwechselt."
         - "Es spukt im Raumschiff."
+        - "Die Piraten geraten in ein altes Minenfeld."
+        - "Das Raumschiff gerät in den Einflussbereich von: [weltraumphaenomen]"
     RaumflugKrankheiten:
         - Seekrankheit
         - Extreme Langeweile

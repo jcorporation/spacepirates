@@ -1,0 +1,42 @@
+{
+  "0": {
+    "Name": "Handfeuerwaffe",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "1": {
+    "Name": "Raumschiffwaffe",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "2": {
+    "Name": "Energieerzeuger",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "3": {
+    "Name": "Küchengerät",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "4": {
+    "Name": "Raumschiffantrieb",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "5": {
+    "Name": "Schutzschild",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "6": {
+    "Name": "Zeitmaschine",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "7": {
+    "Name": "Unterhaltungsgerät",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "8": {
+    "Name": "Mikrochip",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "9": {
+    "Name": "Roboter",
+    "Link": "/Zufallstabellen/Beute"
+  }
+}
