@@ -9,9 +9,6 @@ Ich arbeite gerade an einer neuen SpacePirates Publikation: Ein Abenteuersammelb
 
 Die Abenteuer gibt es natürlich auch weiterhin als einzelne PDFs zum Download und werden auch aktuell gehalten.
 
-<li>
-**[Abenteuerband herunterladen]({{ site.baseurl }}/Publikationen/)**
-
-</li>
+[Abenteuerband herunterladen]({{ site.baseurl }}/Publikationen/)
 
 Momentan bin ich auch noch auf der Suche nach einem passenden Titelmotiv für den Abenteuerband, wenn du also eine Idee dafür hast, immer her damit. Natürlich ist auch Feedback zu den Abenteuern immer willkommen.
