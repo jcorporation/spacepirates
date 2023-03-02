@@ -4,7 +4,7 @@ permalink: /Zufallstabellen/Ereignisse_auf_einem_Planeten
 title: Ereignisse auf einem Planeten
 sitedata:
     PlanetenEreignisse:
-        - "Ein Erdbeben tritt auf."
+        - "Ein Erdbeben tritt ein."
         - "Die Regierung verhängt eine Ausreisesperre, weil Terroristen/Verbrecher gesucht werden."
         - "Eine Epidemie bricht aus."
         - "Die Charaktere geraten in eine Straßenschlacht."

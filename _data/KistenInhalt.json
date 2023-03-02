@@ -7,6 +7,22 @@
     "Name": "Elektronikersatzteile",
     "Link": "/Zufallstabellen/Beute"
   },
+  "10": {
+    "Name": "Medikamente",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "11": {
+    "Name": "Werkzeug",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "12": {
+    "Name": "Drogen: [droge]",
+    "Link": "/Zufallstabellen/Beute"
+  },
+  "13": {
+    "Name": "Alkohol (kein Rum)",
+    "Link": "/Zufallstabellen/Beute"
+  },
   "2": {
     "Name": "Schrott",
     "Link": "/Zufallstabellen/Beute"

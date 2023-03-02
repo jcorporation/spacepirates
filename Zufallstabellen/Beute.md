@@ -42,6 +42,10 @@ sitedata:
         - "4D-Kamasutra"
         - "Kunst"
         - "Antike Bücher"
+        - "Medikamente"
+        - "Werkzeug"
+        - "Drogen: [droge]"
+        - "Alkohol (kein Rum)"
     ContainerInhalt:
         - "Schrott"
         - "Gestein"

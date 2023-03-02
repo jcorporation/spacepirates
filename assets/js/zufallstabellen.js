@@ -28,9 +28,9 @@ tabellen["geruechte"] = ["ausschweifendem und skandalösem Verhalten [persoenlic
     "einem mysteriösen und unheimlichen Geschehnis: [mystgeschehnis]",
     "neues Vorgehen gegen Piraten: [vorgehen]",
     "Großer Konzernskandal [konzern_neu_or_wichtig]: [skandal]",
-    "einer wertvollen Fracht die in den kommenden Tagen von [planet_neu_or_wichtig] zu [planet_neu_or_wichtig] transportiert wird. Fracht: [beute], Transporteur: [partei]",
+    "einer wertvollen Fracht die in den kommenden Tagen von [planet_neu_or_wichtig] zu [planet_neu_or_wichtig] transportiert wird. Fracht: [existingBeute], Transporteur: [partei]",
     "einem Schiffswrack, Ort: [weltraumort], Eigentümer: [rasse]",
-    "Auftauchen von illegaler Ware, Warenursprung [aliens], Ware: [beute]",
+    "Auftauchen von illegaler Ware, Warenursprung [aliens], Ware: [existingBeute]",
     "Neues Handelsabkommen zwischen [handelspartei] und [handelspartei]",
     "Ausgesetztes Kopfgeld auf: [nameneu] ([kopfgeld]) von [partei]",
     "Neuer Spaceamazonenraubzug im Sektor [sektoren]",
@@ -68,7 +68,7 @@ tabellen["persoenlichkeit"] = ["Politiker/Repräsentant: [partei]", "Manager des
 tabellen["kopfgeld"] = tabellen.persoenlichkeit.concat(["Mörders", "Rebellen", "Piraten"]);
 
 tabellen["unruhegrund"] = ["gefälschter Wahl", "Mangel an Nahrungsmittel", "Unterdrückung einer ethnischen Minderheit", "Religiöse Aufruhr",
-    "Menschen wurden aufgehetzt", "politischer Umsturz"];
+    "Menschen wurden aufgehetzt", "politischer Umsturz", "Fake-News"];
 
 tabellen["militaeraktion"] = ["Sicherung von Rohstoffen", "Behütung eines militärischen Geheimnisses", "Beseitigung eines Gegners", "Eroberung eines Alienartefakts"];
 
@@ -129,16 +129,16 @@ tabellen["quelle"] = ["wurde gezielt von einem Feind oder Rivalen gestreut", "wu
 tabellen["vertraulichkeit"] = ["wird offen erzählt", "wird nur hinter der Hand erzählt", "man braucht Überredungskünste / gute Beziehungen um es zu erfahren",
     "wird nur in ganz engen Kreisen erzählt", "ist gerade Tratschthema Nummer 1"];
 
-tabellen["auftraege"] = ["Beschaffung eines Gegenstands ([beute]), der noch nicht geborgen ist. Planet: [planetneu]",
-    "Beschaffung eines Gegenstands ([beute]), den eine andere Fraktion besitzt. [fraktion]",
+tabellen["auftraege"] = ["Beschaffung eines Gegenstands ([existingBeute]), der noch nicht geborgen ist. Planet: [planetneu]",
+    "Beschaffung eines Gegenstands ([existingBeute]), den eine andere Fraktion besitzt. [fraktion]",
     "Abwicklung eines schwierigen Handels. [auftraggeber]",
-    "Zerstörung eines Gegenstands [beute] [orte].",
-    "Transport eines heiklen Gegenstands [beute] von [orte] nach [orte].",
+    "Zerstörung eines Gegenstands [existingBeute] [orte].",
+    "Transport eines heiklen Gegenstands [existingBeute] von [orte] nach [orte].",
     "Eliminierung einer Person [fraktion].",
     "Befreiung eines Gefangenen aus den Fingern einer Organisation [organisation], [orte], [fraktion].",
     "Rettung eines verschollenen Forschungsschiffs, das zuletzt auf dem unbekanntem Planeten [planetneu] war.",
     "Rettung eines verschollenen Kriegsschiffs, das zuletzt in unbekannten Sektor war.",
-    "Beschaffung von geheimen Informationen einer Organisation oder Konzerns [beute] [organisation]."];
+    "Beschaffung von geheimen Informationen einer Organisation oder Konzerns [existingBeute] [organisation]."];
 
 tabellen["auftraggeber"] = ["Geheimorganisaton [rasse]", "Rebellenanführer [rasse]", "Piratenanführer [rasse]", "Politiker [rasse]",
     "Mächtiger Händler [rasse]", "Kommandant einer Raumstation [rasse]", "Militärgeneral [rasse]", "Wissenschaftler [rasse]",
@@ -172,6 +172,8 @@ tabellen["materie"] = ["Gestein", "Blut", "Pflanze", "Erde", "Gas", "Schleim", "
 tabellen["bedeutung"] = ["religiös", "politisch", "esoterisch"];
 
 tabellen["handelsrat"] = ["Handelsrat", "SpaceHawks", "Space-Steuerfahnder"];
+
+tabellen["droge"] = ["Alcid", "SpaceShit", "Starcoke", "Sundope", "Unbekannt"];
 
 tabellen["organisation"] = tabellen.existingKonzerne.concat(["Rebellen", "Piraten", "Militär ([rasse])", "Schmuggler", "Drogenhändler",
     "Korrupter Geschäftsmann"], tabellen.existingOrganisationen, tabellen["handelsrat"]);
@@ -343,9 +345,10 @@ tabellen["sternensysteme_bewohnbar_unbewohnbar"] = ["[sternensysteme_bewohnbar]"
 
 tabellen["sternensysteme_unbewohnbar"] = ["Überrest einer Supernova", "Weißer Zwerg", "Roter Riese", "Neutronenstern", "Schwarzes Loch", "Hyperriese"];
 
-tabellen["sternensysteme_bewohnbar"] = ["Eine aktive Sonne", "Doppelsonnenystem"];
+tabellen["sternensysteme_bewohnbar"] = ["Eine aktive Sonne", "Doppelsonnensystem"];
 
-tabellen["farbe"] = ["pink", "rot", "lila", "türkis", "blau", "orange", "braun", "flieder", "gelb", "schwarz", "weiß"];
+tabellen["farbe"] = ["pink", "rot", "lila", "türkis", "blau", "orange", "braun", "flieder", "gelb", "schwarz", "weiß",
+    "grau", "magenta", "rosa", "grün"];
 
 tabellen["planetentyp_unbewohnbar"] = ["kleiner Feuerplanet, [trabanten]", "großer, heißer Felsplanet, [trabanten]", "kleiner Gasriese, [trabanten]",
     "Giftiger Planet, [trabanten]", "Felsplanet, [trabanten]", "großer Gasriese, [trabanten]", "Vulkanplanet, [trabanten]", "kleiner Felsplanet",
@@ -396,17 +399,16 @@ tabellen["raumschiffe_namen"] = ["[raumschiffprefixe] [raumschiffnamen]", "[raum
 tabellen["raumschiffe_typen"] = ["kleines Handelsschiff: [raumschiffe_ware]", "großes Handelsschiff: [raumschiffe_ware]", "großer Schlachtkreuzer", "kleines Militärschiff",
     "kleines Forschungsschiff", "großes Forschungsschiff", "kleines Urlaubsschiff", "großes Urlaubsschiff", "Bergbauschiff", "Jahrmarktschiff", "Agrarschiff"];
 
-tabellen["raumschiffe_owner"] = ["Föderation", "Sternenrepublik Neuasien", "Trull", "Spaceamazonen", "Kahadrier", "Samnesen", "Wagone", "Streifanier", "Spacepear", "Syoner",
-    "Glukorianer", "unbekannte Rasse", "Piraten", "Rebellen"];
+tabellen["raumschiffe_owner"] = ["[handelspartei]", "[partei]", "[verbrecher]"];
 
-tabellen["raumschiffe_hotstuff"] = tabellen.beute.concat(["nichts außergewöhnliches"]);
+tabellen["raumschiffe_hotstuff"] = tabellen.existingBeute.concat(["nichts außergewöhnliches"]);
 
-tabellen["raumschiffe_besatzung"] = ["Rumpfmannschaft", "volle Besatzung", "Anfängerbesatzung", "Alte Veteranen"];
+tabellen["raumschiffe_besatzung"] = ["Rumpfmannschaft", "volle Besatzung", "Anfängerbesatzung", "Alte Veteranen", "Niemand", "KI: [existingKiEigenschaften]"];
 
 tabellen["raumschiffe_ware"] = ["Raumschiffersatzteile", "Nahrungsmittel", "Forschungsausrüstung", "Waffen", "Lebende Tiere"];
 
-tabellen["raumschiffe_besonderheit"] = ["von [weltraumphaenomen] beschädigt", "nichts", "Seuche an Bord", "nichts", "Raumschiff ist verstrahlt", "nichts",
-    "Heiße Ware: [beute]"];
+tabellen["raumschiffe_besonderheit"] = ["von [weltraumphaenomen] beschädigt", "nichts Besonderes", "Seuche an Bord", "Raumschiff ist verstrahlt",
+    "Heiße Ware: [existingBeute]", "Wird verfolgt von [verbrecher]", "Versteckter Peilsender", "Probleme auf dem Schiff: [rsmacken]"];
 
 tabellen["staedtenamen"] = ["Tanru", "Anat", "Reya", "Kishar", "Wood", "Brick", "West", "Iron", "Alien", "Fox", "Taru", "Upper", "Yellow", "Old", "New", "Harris", "Woodside",
     "Fair", "Water", "Lucky", "Paradise", "Canton", "River", "East", "South", "Wank", "Mohr", "Siena", "Carming", "Glam", "Blooming", "Ironmore",
@@ -616,17 +618,6 @@ tabellen["raumzeitverschiebung"] = tabellen["existingRaumzeitverschiebungEreigni
 tabellen["unwahrscheinlichkeitszone"] = tabellen["existingUnwahrscheinlichkeitsZoneEreignisse"];
 tabellen["ionensturm"] = tabellen["existingIonensturmEreignisse"];
 tabellen["ionensturm_ki"] = tabellen["existingIonensturmKi"];
-
-tabellen["neutritiumstrahlung"] = ["Es wächst ein zusätzliches Gliedmaß an einer praktischen Stelle: [w4gliedmassen]",
-    "Das Haarwachstum nimmt exponentiell zu, auch an Stellen an denen bisher keine Haare gewachsen sind.",
-    "Alte Narben verschwinden spurlos.",
-    "Es wächst ein zusätzliches Gliedmaß an einer unpraktischen Stelle: [w4gliedmassen]",
-    "Die Haut verfärbt sich [farben].",
-    "Es bilden sich überall auf der Haut eitrige Pickel.",
-    "Alle Haare fallen auf einmal aus und wachsen auch nicht mehr nach.",
-    "Es fällt ein zufälliges Gliedmaß ab: [w6gliedmassen]",
-    "Die Haut wird durchsichtig.",
-    "Alle Haare verfärben sich [farben]."];
 
 tabellen["farben"] = ["rot", "blau", "grün", "schwarz", "lila", "rosa", "flieder", "pink", "weiß"];
 tabellen["w4gliedmassen"] = ["Arm", "Arm", "Bein", "Bein", "Schwanz"];

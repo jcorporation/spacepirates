@@ -42,6 +42,10 @@ tabellen["existingContainerInhalt"] = [
 tabellen["existingKistenInhalt"] = [
   "Kleidung",
   "Elektronikersatzteile",
+  "Medikamente",
+  "Werkzeug",
+  "Drogen: [droge]",
+  "Alkohol (kein Rum)",
   "Schrott",
   "keinem Inhalt",
   "Fossilien",
@@ -150,6 +154,20 @@ tabellen["existingKonzerne"] = [
   "Vereinigten Nahrungsmittel eG",
   "Yabadoo",
   "Yellow Stone Group"
+]
+tabellen["existingNeutritiumstrahlung"] = [
+  "Es wächst ein zusätzliches Gliedmaß an einer praktischen Stelle: [w4gliedmassen]",
+  "Das Haarwachstum nimmt exponentiell zu, auch an Stellen an denen bisher keine Haare gewachsen sind.",
+  "Der Körper leuchtet im Dunkeln leicht [farben]",
+  "Der Körper erzeugt ein eigenes Antischwerkraftfeld",
+  "Alte Narben verschwinden spurlos.",
+  "Es wächst ein zusätzliches Gliedmaß an einer unpraktischen Stelle: [w4gliedmassen]",
+  "Die Haut verfärbt sich [farben].",
+  "Es bilden sich überall auf der Haut eitrige Pickel.",
+  "Alle Haare fallen auf einmal aus und wachsen auch nicht mehr nach.",
+  "Es fällt ein zufälliges Gliedmaß ab: [w6gliedmassen]",
+  "Die Haut wird durchsichtig.",
+  "Alle Haare verfärben sich [farben]."
 ]
 tabellen["existingOrganisationen"] = [
   "Akamachi-Clan",
@@ -281,7 +299,7 @@ tabellen["existingPlaneten"] = [
   "Zeno"
 ]
 tabellen["existingPlanetenEreignisse"] = [
-  "Ein Erdbeben tritt auf.",
+  "Ein Erdbeben tritt ein.",
   "Die Regierung verhängt eine Ausreisesperre, weil Terroristen/Verbrecher gesucht werden.",
   "Großausbruch in einem naheliegenden Gefängnis.",
   "Ein Vulkan bricht aus.",
