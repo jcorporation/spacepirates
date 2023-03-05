@@ -171,7 +171,7 @@ tabellen["materie"] = ["Gestein", "Blut", "Pflanze", "Erde", "Gas", "Schleim", "
 
 tabellen["bedeutung"] = ["religiös", "politisch", "esoterisch"];
 
-tabellen["handelsrat"] = ["Handelsrat", "SpaceHawks", "Space-Steuerfahnder"];
+tabellen["handelsrat"] = ["Handelsrat", "SpaceHawks", "Space-Steuerfahnder", "SpaceTÜV"];
 
 tabellen["droge"] = ["Alcid", "SpaceShit", "Starcoke", "Sundope", "Unbekannt"];
 

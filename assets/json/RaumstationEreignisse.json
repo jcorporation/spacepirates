@@ -4,15 +4,15 @@
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "1": {
-    "Name": "Ein Leck auf der Raumstation.",
+    "Name": "Ein Leck auf der Raumstation, verursacht durch: [existingRaumstationEreignisseUrsache]",
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "10": {
-    "Name": "Der Strom fällt aus.",
+    "Name": "Der Strom fällt aus, verursacht durch: [existingRaumstationEreignisseUrsache]",
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "11": {
-    "Name": "Die Umweltsteuerung spielt verrückt.",
+    "Name": "Die Umweltsteuerung spielt verrückt, verursacht durch: [existingRaumstationEreignisseUrsache]",
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "12": {
@@ -20,7 +20,7 @@
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "13": {
-    "Name": "Die künstliche Schwerkraft fällt aus.",
+    "Name": "Die künstliche Schwerkraft fällt aus, verursacht durch: [existingRaumstationEreignisseUrsache]",
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "14": {
@@ -60,11 +60,11 @@
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "22": {
-    "Name": "Die künstliche Schwerkraft wird viel, viel zu schwer.",
+    "Name": "Die künstliche Schwerkraft wird viel, viel zu schwer, verursacht durch: [existingRaumstationEreignisseUrsache]",
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "23": {
-    "Name": "Eine bewusstseinserweiternde Droge wird freigesetzt.",
+    "Name": "Eine bewusstseinserweiternde Droge wird freigesetzt, verursacht durch: [existingRaumstationEreignisseUrsache]",
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "24": {
@@ -77,6 +77,14 @@
   },
   "26": {
     "Name": "Das Raumschiff der Charaktere wird besetzt.",
+    "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
+  },
+  "27": {
+    "Name": "Der SpaceTÜV entdeckt die abgelaufene AU Plakette",
+    "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
+  },
+  "28": {
+    "Name": "Die Space-Steuerfahner suchen den Piratenkapitän",
     "Link": "/Zufallstabellen/Ereignisse_auf_einer_Raumstation"
   },
   "3": {

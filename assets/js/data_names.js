@@ -418,11 +418,11 @@ tabellen["existingRaumschiffe_Schilde"] = [
 ]
 tabellen["existingRaumstationEreignisse"] = [
   "Eine Schlägerei bricht aus.",
-  "Ein Leck auf der Raumstation.",
-  "Der Strom fällt aus.",
-  "Die Umweltsteuerung spielt verrückt.",
+  "Ein Leck auf der Raumstation, verursacht durch: [existingRaumstationEreignisseUrsache]",
+  "Der Strom fällt aus, verursacht durch: [existingRaumstationEreignisseUrsache]",
+  "Die Umweltsteuerung spielt verrückt, verursacht durch: [existingRaumstationEreignisseUrsache]",
   "Die Raumstation wird angegriffen von [verbrecher].",
-  "Die künstliche Schwerkraft fällt aus.",
+  "Die künstliche Schwerkraft fällt aus, verursacht durch: [existingRaumstationEreignisseUrsache]",
   "Die Raumstation wird von den Space-Steuerfahndern gründlich durchsucht, sehr gründlich.",
   "Die Charaktere finden einen Steckbrief mit ihren Gesichtern.",
   "Eine Raumzeitkrümmung versetzt die Raumstation auf einmal in den Wilden Westen, wo sie von Viehräubern angegriffen wird.",
@@ -432,11 +432,13 @@ tabellen["existingRaumstationEreignisse"] = [
   "Die Weltraumpolizei schaut für eine Routinekontrolle vorbei.",
   "Die Charaktere werden ständig von Piratenfans genervt.",
   "Ein Alien verliebt sich in einen Charakter und stellt ihm unaufhörlich nach.",
-  "Die künstliche Schwerkraft wird viel, viel zu schwer.",
-  "Eine bewusstseinserweiternde Droge wird freigesetzt.",
+  "Die künstliche Schwerkraft wird viel, viel zu schwer, verursacht durch: [existingRaumstationEreignisseUrsache]",
+  "Eine bewusstseinserweiternde Droge wird freigesetzt, verursacht durch: [existingRaumstationEreignisseUrsache]",
   "Die Charaktere werden eines Mordes beschuldigt.",
   "Ein spontanes Unwahrscheinlichkeitsfeld befördert die Raumstation in einen zufälligen Sektor.",
   "Das Raumschiff der Charaktere wird besetzt.",
+  "Der SpaceTÜV entdeckt die abgelaufene AU Plakette",
+  "Die Space-Steuerfahner suchen den Piratenkapitän",
   "Die Sekte [sekte] versucht die Charaktere zu bekehren.",
   "Die Piraten werden mit jemanden verwechselt.",
   "Die Piraten treffen auf eine befreundete Piratengruppe.",
@@ -444,6 +446,12 @@ tabellen["existingRaumstationEreignisse"] = [
   "Ein Konzert findet statt, die komplette Raumstation ist überfüllt.",
   "Fans eines Promis belagern die Raumstation: [promi]",
   "Der Rum geht aus."
+]
+tabellen["existingRaumstationEreignisseUrsache"] = [
+  "Fehlgeschlagenes Experiment eines verrückten Wissenschaftlers",
+  "Technische Fehlfunktion",
+  "Sabotage",
+  "KI / Softwarefehler"
 ]
 tabellen["existingRaumstationen"] = [
   "AbuXabi",
