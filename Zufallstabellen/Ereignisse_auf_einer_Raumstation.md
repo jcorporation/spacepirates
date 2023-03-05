@@ -32,7 +32,7 @@ sitedata:
         - "Ein spontanes Unwahrscheinlichkeitsfeld befördert die Raumstation in einen zufälligen Sektor."
         - "Das Raumschiff der Charaktere wird besetzt."
         - "Der SpaceTÜV entdeckt die abgelaufene AU Plakette"
-        - "Die Space-Steuerfahner suchen den Piratenkapitän"
+        - "Die Space-Steuerfahnder suchen den Piratenkapitän"
     RaumstationEreignisseUrsache:
         - "Fehlgeschlagenes Experiment eines verrückten Wissenschaftlers"
         - "Technische Fehlfunktion"
