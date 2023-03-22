@@ -391,13 +391,15 @@ tabellen["raumschiffe"] = ["<table>" +
     "<tr><th>Eigentümer</th><td>[raumschiffe_owner]</td></tr>" +
     "<tr><th>Besatzung</th><td>[raumschiffe_besatzung]</td></tr>" +
     "<tr><th>Besonderes</th><td>[raumschiffe_besonderheit]</td></tr>" +
+    "<tr><th>Zustand</th><td>[raumschiffe_zustand]</td></tr>" +
     "</tbody>" +
     "</table>"];
 
 tabellen["raumschiffe_namen"] = ["[raumschiffprefixe] [raumschiffnamen]", "[raumschiffnamen] [raumschiffsuffixe]"]
 
 tabellen["raumschiffe_typen"] = ["kleines Handelsschiff: [raumschiffe_ware]", "großes Handelsschiff: [raumschiffe_ware]", "großer Schlachtkreuzer", "kleines Militärschiff",
-    "kleines Forschungsschiff", "großes Forschungsschiff", "kleines Urlaubsschiff", "großes Urlaubsschiff", "Bergbauschiff", "Jahrmarktschiff", "Agrarschiff"];
+    "kleines Forschungsschiff", "großes Forschungsschiff", "kleines Urlaubsschiff", "großes Urlaubsschiff", "Bergbauschiff", "Jahrmarktschiff", "Agrarschiff",
+    "Piratenschiff", "Fregatte"];
 
 tabellen["raumschiffe_owner"] = ["[handelspartei]", "[partei]", "[verbrecher]"];
 
@@ -409,6 +411,8 @@ tabellen["raumschiffe_ware"] = ["Raumschiffersatzteile", "Nahrungsmittel", "Fors
 
 tabellen["raumschiffe_besonderheit"] = ["von [weltraumphaenomen] beschädigt", "nichts Besonderes", "Seuche an Bord", "Raumschiff ist verstrahlt",
     "Heiße Ware: [existingBeute]", "Wird verfolgt von [verbrecher]", "Versteckter Peilsender", "Probleme auf dem Schiff: [rsmacken]"];
+
+tabellen["raumschiffe_zustand"] = ["Fabrikneu", "Neuwertig", "Gut", "Ordentlich", "Leicht beschädigt", "Beschädigt", "Schwer beschädigt", "Kampfunfähig"];
 
 tabellen["staedtenamen"] = ["Tanru", "Anat", "Reya", "Kishar", "Wood", "Brick", "West", "Iron", "Alien", "Fox", "Taru", "Upper", "Yellow", "Old", "New", "Harris", "Woodside",
     "Fair", "Water", "Lucky", "Paradise", "Canton", "River", "East", "South", "Wank", "Mohr", "Siena", "Carming", "Glam", "Blooming", "Ironmore",
