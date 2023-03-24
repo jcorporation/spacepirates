@@ -9,7 +9,6 @@ sitedata:
             Rasse: "Trull"
             Kategorie: "Händler"
             Wohnort: "Kozel 5"
-    Slc:
         Dr__Haagel:
             Name: "Dr. Haagel"
             Rasse: "Samnese"
