@@ -93,6 +93,13 @@
     "Position": "",
     "Link": "/Abenteuer/Buschraub/Bahir"
   },
+  "Baquis": {
+    "Name": "Baquis",
+    "Rasse": "Trull",
+    "Kategorie": "Händler",
+    "Wohnort": "Kozel 5",
+    "Link": "/Abenteuer/Der_grosse_Fang/Danach"
+  },
   "Barbara_Streifsand": {
     "Name": "Barbara Streifsand",
     "Rasse": "Streifanierin",
