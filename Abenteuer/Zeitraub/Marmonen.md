@@ -53,4 +53,4 @@ Die Marmonen werden die Piraten in der Nähe von Two Eyed Jack aufsuchen, je nac
 ***
 
 - **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Zeitraub/Nachforschungen)
-- **Weiter:** [Überfall]({{ site.baseurl }}/Abenteuer/Zeitraub/Überfall)
+- **Weiter:** [Überfall]({{ site.baseurl }}/Abenteuer/Zeitraub/Ueberfall)

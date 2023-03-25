@@ -1,10 +1,8 @@
 ---
 layout: page
-permalink: /Abenteuer/Zeitraub/Überfall
+permalink: /Abenteuer/Zeitraub/Ueberfall
 title: Überfall
 ---
-
-
 
 Wie die Piraten an die Kiste kommen, bleibt natürlich ihnen überlassen. Hier gibt es interessante Informationen über das Transportschiff und ein paar Möglichkeiten, wie die Piraten es überfallen könnten.
 
