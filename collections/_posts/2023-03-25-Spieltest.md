@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update"
+title: "Spieltest"
 tag: SpacePirates
 permalink: /Aktuelles/2023-03-25-Spieltest
 ---
