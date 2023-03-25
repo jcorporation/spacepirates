@@ -1689,12 +1689,12 @@
   "einfache": {
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 51,
     "/Spielregeln/Abenteuer_erleben/Konflikte/": 2,
-    "/Abenteuer/Neutritiumklau/Lager": 1
+    "/Abenteuer/Der_grosse_Fang/Reise": 1
   },
   "einfache konflikte": {
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 101,
     "/Spielregeln/Abenteuer_erleben/Konflikte/": 2,
-    "/Spielregeln/": 1
+    "/Abenteuer/Der_grosse_Fang/Reise": 1
   },
   "eingang": {
     "/Abenteuer/Dungeonplanet/Einstieg": 26,
@@ -1722,10 +1722,10 @@
     "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
   },
   "einsiedler": {
+    "/Abenteuer/Der_grosse_Fang/Chinese": 12,
     "/Weltraum/Neutrale_Zone/Bharani_8": 12,
     "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet": 11,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 3,
-    "/Abenteuer/Der_grosse_Fang/Chinese": 2,
     "/Abenteuer/Der_grosse_Fang/Einstieg": 1
   },
   "einsiedlerplanet": {
@@ -4101,7 +4101,7 @@
     "/Weltraum/Weltraumphaenomene/Lila_Loecher_und_Plasmaregenbogen": 2
   },
   "lilaloch": {
-    "/Abenteuer/Der_grosse_Fang/Reise": 29,
+    "/Abenteuer/Der_grosse_Fang/Reise": 30,
     "/Abenteuer/Der_grosse_Fang/Chinese": 1
   },
   "linker und rechter turm": {
@@ -4127,22 +4127,11 @@
     "/Weltraum/Weltraumphaenomene/Weisses_Loch": 52,
     "/Weltraum/Weltraumphaenomene/Schwarzes_Loch": 51,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Ende": 26,
-    "/Abenteuer/Der_grosse_Fang/Reise": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 2,
     "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 2,
     "/Weltraum/Piraten/Treffpunkte/Halfway": 2,
     "/Weltraum/Weltraumphaenomene/Lila_Loecher_und_Plasmaregenbogen": 2,
-    "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1,
-    "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 1,
-    "/Abenteuer/Die_Eisgalaxis/": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1,
-    "/Abenteuer/Gefangen_im_SpaceSchnee/": 1,
-    "/Abenteuer/Neutritiumklau/Auftrag": 1,
-    "/Abenteuer/Neutritiumklau/Pipeline": 1,
-    "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 1,
-    "/Abenteuer/Schatz_von_Menkar/Koordinaten": 1,
-    "/Abenteuer/SpaceDrache/Drachenhort": 1,
-    "/Abenteuer/SpaceDrache/John_Marric": 1
+    "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Auf_Scrabnambu": 1
   },
   "loecher": {
     "/Weltraum/Weltraumphaenomene/Lila_Loecher_und_Plasmaregenbogen": 52,
@@ -5874,7 +5863,7 @@
   "profile": {
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 28,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
-    "/Abenteuer/Halloween/Nebel": 1
+    "/Abenteuer/Der_grosse_Fang/Reise": 1
   },
   "promi": {
     "/Weltraum/Promis": 181,
@@ -6790,6 +6779,7 @@
     "/Abenteuer/Buschraub/SWIP": 2,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
     "/Abenteuer/Der_grosse_Fang/Chinese": 2,
+    "/Abenteuer/Der_grosse_Fang/Reise": 2,
     "/Abenteuer/Laborratten/Dahinter": 2,
     "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 2,
     "/Abenteuer/Spritprobleme/Einleitung": 2,
@@ -7194,15 +7184,15 @@
     "/Abenteuer/Zeitraub/Auftrag": 3,
     "/Abenteuer/Blumenkind/Blumenkind": 2,
     "/Abenteuer/Buschraub/Bahir": 2,
+    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 2,
     "/Abenteuer/Dungeonplanet/Ebene1": 2,
     "/Abenteuer/Halloween/Station": 2,
     "/Abenteuer/Weihnachten_II/Santa_24": 2,
     "/Abenteuer/Zeitraub_II/Laborkarte": 2,
     "/Abenteuer/Buschraub/SWIP": 1,
     "/Abenteuer/Der_grosse_Fang/Einstieg": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1
+    "/Abenteuer/Der_grosse_Fang/Reise": 1,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 1
   },
   "soeldner konsequenzen": {
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": 25

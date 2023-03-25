@@ -1247,7 +1247,12 @@
     "Rasse": "Neuasiat",
     "Kategorie": "Ninja",
     "Wohnort": "Einsiedlerplanet in der Nähe von Freeport",
-    "Position": "",
+    "Position": "Einsiedler",
+    "SOELDNER": 5,
+    "TECH": 3,
+    "PILOT": 3,
+    "HAENDLER": 7,
+    "Zaehigkeit": 6,
     "Link": "/Abenteuer/Der_grosse_Fang/Chinese"
   },
   "Simone_de_Montfort": {

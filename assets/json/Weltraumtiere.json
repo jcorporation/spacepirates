@@ -41,6 +41,9 @@
   },
   "Weltraumkaefer": {
     "Name": "Weltraumkäfer",
+    "Profilwert": 9,
+    "SM": 2,
+    "Schadenspunkte": 40,
     "Link": "/Weltraum/Weltraumtiere"
   },
   "Weltraumspinnen": {
