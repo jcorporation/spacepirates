@@ -8750,6 +8750,7 @@
     "/Spielregeln/": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 2,
     "/Spielregeln/Die_Piratencrew/": 2,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/": 2,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten": 2,
     "/Weltraum/SpaceNinjas/": 2,
     "/Abenteuer/Buschraub/Bahir": 1,
@@ -8757,8 +8758,7 @@
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 1,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 1,
     "/Abenteuer/Weihnachten/Santa_24": 1,
-    "/Abenteuer/Zeitraub/Überfall": 1,
-    "/Ideenhalde/Bewohner/Aquarianer_Carrassius_Auratus": 1
+    "/Abenteuer/Zeitraub/Überfall": 1
   },
   "wagner": {
     "/Weltraum/Konzerne/S_I_E_Robotermanufaktur": 160,
