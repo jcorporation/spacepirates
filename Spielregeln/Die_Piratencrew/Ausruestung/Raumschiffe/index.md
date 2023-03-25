@@ -29,7 +29,7 @@ Das Raumschiff sollte zumindest mit folgenden Dingen ausgestattet sein:
 - Zumindest kleine Schilde.
 - Sensoren, Standardsensoren reichen meist aus.
 - FTL-Funk
-- Pro gutem Söldner eine Waffe.
+- Pro gutem Söldner eine Waffe. Besser nur eine Waffe mit hohem Schadensmodifikator als zwei Waffen mit einem niedrigen.
 - Eine Enterschleuse ist sehr praktisch, sonst benötigt man zum Entern Raumanzüge.
 {% endcapture %}
 {% include hinweis.md title="Tipps zum Kauf eines Raumschiffs" body=include_body %}
