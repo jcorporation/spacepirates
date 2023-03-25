@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Der_grosse_Fang/Portal
 title: Das Portal
+order: /008
 ---
-
-
 
 Das Ziel der Suche ist ein gut verschlossener Raum tief im Inneren des Raumschiffs. An einer Wand ist ein großes, offenes Tor montiert, das mit komischen Apparaten und Schriftzeichen versehen ist, das deaktiviert zu sein scheint. Ein Tech kann dieses Tor mit 4 Erfolgen in Betrieb nehmen. Danach schimmert die Luft zwischen dem Portal lila und man kann auch die Wand dahinter nicht mehr erkennen.
 
@@ -27,8 +26,3 @@ Der Schatz ist über den ganzen Vergnügungspark verteilt.
 Nach dem alle Schätze zusammengerafft wurden, gilt es aus der künstlichen Welt zu entkommen, vom Planeten zu verschwinden und den Weg zurück in den bekannten Raum zu finden.
 
 Der eigentliche Schatz ist natürlich der Syonerleichnam und nicht der Krempel aus dem Vergnügungspark.
-
-***
-
-- **Zurück:** [Proxy Sigma II]({{ site.baseurl }}/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II)
-- **Weiter:** [Danach]({{ site.baseurl }}/Abenteuer/Der_grosse_Fang/Danach)

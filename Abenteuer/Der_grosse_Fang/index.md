@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Der_grosse_Fang/
 title: Der große Fang
+order: /001
 ---
-
-
 
 Eine geheimnisvolle Schatzkarte zeigt einen unbekannten Bereich der Galaxis. Die Karte will entziffert werden und anschließend geht es daran den Schatz zu bergen. Bei dem Schatz handelt es sich um den mysteriösen „großen Fang“. Neben einem dreiköpfigen Affen bekommen auch SpaceNinjas ihren Auftritt.
 

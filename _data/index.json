@@ -733,8 +733,8 @@
   },
   "beim alten chinesen": {
     "/Abenteuer/Der_grosse_Fang/Chinese": 100,
-    "/Abenteuer/Der_grosse_Fang/Reise": 2,
-    "/Abenteuer/Der_grosse_Fang/": 1
+    "/Abenteuer/Der_grosse_Fang/": 1,
+    "/Abenteuer/Der_grosse_Fang/Reise": 1
   },
   "beispielpiraten": {
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 100,
@@ -1242,8 +1242,8 @@
   },
   "chinesen": {
     "/Abenteuer/Der_grosse_Fang/Chinese": 51,
-    "/Abenteuer/Der_grosse_Fang/Reise": 2,
-    "/Abenteuer/Der_grosse_Fang/": 1
+    "/Abenteuer/Der_grosse_Fang/": 1,
+    "/Abenteuer/Der_grosse_Fang/Reise": 1
   },
   "chip": {
     "/Abenteuer/Zeitraub/Nachforschungen": 26,
@@ -5785,8 +5785,7 @@
   },
   "portal": {
     "/Abenteuer/Der_grosse_Fang/Portal": 79,
-    "/Abenteuer/Der_grosse_Fang/": 1,
-    "/Abenteuer/Der_grosse_Fang/Danach": 1
+    "/Abenteuer/Der_grosse_Fang/": 1
   },
   "poseidons dreizack": {
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 27
@@ -5891,30 +5890,26 @@
   },
   "proxima": {
     "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 53,
-    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 52,
-    "/Abenteuer/Der_grosse_Fang/Reise": 52,
-    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 51,
+    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 51,
+    "/Abenteuer/Der_grosse_Fang/Reise": 51,
+    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 50,
     "/Abenteuer/Der_grosse_Fang/": 2,
-    "/Abenteuer/Der_grosse_Fang/Chinese": 2,
-    "/Weltraum/Weltraumphaenomene/Lila_Loecher_und_Plasmaregenbogen": 1
+    "/Abenteuer/Der_grosse_Fang/Chinese": 1
   },
   "proxima sigma": {
     "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 252,
-    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 102,
-    "/Abenteuer/Der_grosse_Fang/Reise": 52,
-    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 51,
+    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 101,
+    "/Abenteuer/Der_grosse_Fang/Reise": 51,
+    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 50,
     "/Abenteuer/Der_grosse_Fang/": 2,
-    "/Abenteuer/Der_grosse_Fang/Chinese": 2,
-    "/Weltraum/Weltraumphaenomene/Lila_Loecher_und_Plasmaregenbogen": 1
+    "/Abenteuer/Der_grosse_Fang/Chinese": 1
   },
   "proxima sigma ii": {
     "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 150,
     "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 100
   },
   "proxy": {
-    "/Abenteuer/Der_grosse_Fang/": 1,
-    "/Abenteuer/Der_grosse_Fang/Portal": 1,
-    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 1
+    "/Abenteuer/Der_grosse_Fang/": 1
   },
   "pub": {
     "/Weltraum/Piraten/Treffpunkte/Freeport": 26
@@ -6396,8 +6391,6 @@
     "/Abenteuer/Der_grosse_Fang/Reise": 51,
     "/Abenteuer/Zeitraub_II/Reise": 51,
     "/Abenteuer/Schatzjagd/Reise": 50,
-    "/Abenteuer/Der_grosse_Fang/Chinese": 2,
-    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 2,
     "/Abenteuer/Buschraub/Bahir": 1
   },
   "reise nach javar 3": {
@@ -6405,8 +6398,7 @@
   },
   "reise nach proxima sigma": {
     "/Abenteuer/Der_grosse_Fang/Reise": 50,
-    "/Abenteuer/Der_grosse_Fang/": 1,
-    "/Abenteuer/Der_grosse_Fang/Chinese": 1
+    "/Abenteuer/Der_grosse_Fang/": 1
   },
   "reitner": {
     "/Weltraum/Promis": 176,
@@ -7138,14 +7130,13 @@
   },
   "sigma": {
     "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 351,
-    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 53,
-    "/Abenteuer/Der_grosse_Fang/Reise": 52,
     "/Weltraum/Aliens/Trull/Sigma_9": 52,
-    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 51,
+    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 51,
+    "/Abenteuer/Der_grosse_Fang/Reise": 51,
+    "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 50,
     "/Abenteuer/Der_grosse_Fang/": 3,
-    "/Abenteuer/Der_grosse_Fang/Chinese": 2,
     "/Abenteuer/SpaceDrache/Drachenhort": 2,
-    "/Abenteuer/Der_grosse_Fang/Portal": 1
+    "/Abenteuer/Der_grosse_Fang/Chinese": 1
   },
   "sigma 9": {
     "/Weltraum/Aliens/Trull/Sigma_9": 251,
@@ -7377,12 +7368,12 @@
     "/Abenteuer/Der_grosse_Fang/SpaceNinjas": 104,
     "/Weltraum/SpaceNinjas/": 104,
     "/Abenteuer/Ideen/SpaceNinjas": 53,
-    "/Abenteuer/Der_grosse_Fang/Chinese": 3,
     "/Publikationen/": 3,
     "/Abenteuer/": 2,
     "/Abenteuer/Der_grosse_Fang/": 2,
+    "/Abenteuer/Der_grosse_Fang/Chinese": 2,
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 2,
-    "/Abenteuer/Der_grosse_Fang/Einstieg": 1
+    "/Abenteuer/Der_grosse_Fang/Reise": 1
   },
   "spacepear": {
     "/Weltraum/Aliens/Spacepears/": 254,

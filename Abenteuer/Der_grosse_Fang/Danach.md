@@ -2,6 +2,7 @@
 layout: page
 permalink: /Abenteuer/Der_grosse_Fang/Danach
 title: Danach
+order: /009
 sitedata:
     Slc:
         Baquis:
@@ -16,8 +17,6 @@ sitedata:
             Wohnort: "Sampuk"
             Position: ""
 ---
-
-
 
 Hier gibt es noch ein paar Ideen, was nach dem Bergen des Syonerleichnams geschehen kann und wo ihn die Piraten gewinnbringend verkaufen können, damit sich der große Fang für die Piraten auch gelohnt hat.
 
@@ -60,7 +59,3 @@ Falls die Piraten etwas zuviel über ihre Syonerleiche plaudern, werden auch die
 ### Syonerfans
 
 Eine Gruppe Syonerfans verfolgen die Piraten auf Schritt und Tritt und nerven tierisch, besitzen aber leider auch nicht so viel Geld um die Leiche zu kaufen. Aber zumindest anschauen und berühren wollen sie den Syonern und sind auch bereit dafür einen Obolus zu entrichten.
-
-***
-
-- **Zurück:** [Das Portal]({{ site.baseurl }}/Abenteuer/Der_grosse_Fang/Portal)

@@ -5,6 +5,9 @@ sitedata:
     Weltraumtiere:
         Weltraumkaefer:
             Name: Weltraumkäfer
+            Profilwert: 9
+            SM: 2
+            Schadenspunkte: 40
 ---
 
 Der Weltraumkäfer hat die Größe eines kleinen Mondes und die Form eines übergroßen Marienkäfers. Sein Panzer ist aber in Grautönen gehalten. Er kann eine Art Plasma spucken und bewegt sich erschreckend schnell durch den Weltraum.

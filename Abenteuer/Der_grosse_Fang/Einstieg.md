@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Der_grosse_Fang/Einstieg
 title: Einstieg
+order: /002
 ---
-
-
 
 Die Piraten befinden sich im freien Raumhafen Freeport. Vielleicht haben sie eine Ladung geheimer Zutaten zu Oma Binkel gebracht, vielleicht hat aber auch etwas ganz anderes Sie nach Freeport verschlagen. In einem abgelegenen Teil des Raumhafens hören die Charaktere Kampflärm und einen Schrei, folgen sie den Geräuschen, entdecken sie einen toten Piraten, welcher kopfüber in einem Müllhaufen steckt. Bei dem Piraten handelt es sich um Rauhbein Ralle, aber scheinbar war jemand rauer als er. Er wurde getötet und ausgeraubt.
 
@@ -19,7 +18,3 @@ Die 2 Ninjas, die Ralle überfallen haben, beobachten diese Szene aus einem sehr
 Selbst der beste Navigationscomputer vermag es nicht die Schriftzeichen zu entschlüsseln. Alles was das Starnet ausspuckt ist, dass es sich um uralte chinesische Schriftzeichen handeln muss.
 
 Durch ein bisschen Beinarbeit finden die Piraten heraus, das der alte Chinese Phren ein Experte für alte und unbekannte Schriften und Karten ist. Phren lebt als Einsiedler auf einem kleinen Asteroiden nicht weit (10 Lichtjahre) von Freeport entfernt.
-
-***
-
-- **Weiter:** [SpaceNinjas]({{ site.baseurl }}/Abenteuer/Der_grosse_Fang/SpaceNinjas)

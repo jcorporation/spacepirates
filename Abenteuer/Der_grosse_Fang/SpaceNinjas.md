@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Der_grosse_Fang/SpaceNinjas
 title: SpaceNinjas
+order: /003
 ---
-
-
 
 Die SpaceNinjas sind hinter dem Cyberaffen her um selber den großen Fang zu machen, die Piraten haben sie beim Überfall auf Ralle überrascht und nun sind die SpaceNinjas hinter den Piraten her, solange diese den Cyberaffen besitzen oder auf dem Weg zum großen Fang sind. Die SpaceNinjas können die Karte selber Entschlüsseln und benötigen keine Hilfe dazu.
 
@@ -15,9 +14,9 @@ Die Ninjas greifen selber nie ein, wenn sie in der Unterzahl sind und flüchten 
 <table>
 <caption>SpaceNinjas</caption>
 <tbody>
-<tr><th>SÖLDNER</th><td>3</td></tr>
+<tr><th>SÖLDNER</th><td>2</td></tr>
 <tr><th>Zähigkeit</th><td>1</td></tr>
-<tr><th>Bewaffnung</th><td>Shurikenwerfer (WB 1), Ninjaschwert (WB 0)</td></tr>
+<tr><th>Bewaffnung</th><td>Shuriken (P+0), Ninjaschwert (P+0)</td></tr>
 </tbody>
 </table>
 
@@ -28,23 +27,17 @@ Auf dem Ninja-Spaceflitzer sind 8 SpaceNinjas untergebracht, es ist also kuschel
 <table>
 <caption>Ninja-Spaceflitzer</caption>
 <tbody>
-<tr><th>Pilotenwert</th><td>5</td></tr>
-<tr><th>Techwert</th><td>5</td></tr>
-<tr><th>Söldnerwert</th><td>5</td></tr>
+<tr><th>PILOT</th><td>5</td></tr>
+<tr><th>TECH</th><td>5</td></tr>
+<tr><th>SÖLDNER</th><td>5</td></tr>
 <tr><th>Antrieb</th><td>FTL2</td></tr>
-<tr><th>Geschwindigkeit</th><td>5</td></tr>
 <tr><th>Wendigkeit</th><td>4</td></tr>
 <tr><th>Zuverlässigkeit</th><td>1</td></tr>
-<tr><th>Hilfsenergie</th><td>3</td></tr>
+<tr><th>Personen</th><td>4</td></tr>
 <tr><th>Schadenspunkte</th><td>12</td></tr>
 <tr><th>Schilde</th><td>4</td></tr>
 <tr><th>Sensoren</th><td>Kurz</td></tr>
-<tr><th>Bewaffnung</th><td>2 Duallaserkanonen: WB 2, SM 2</td></tr>
+<tr><th>Bewaffnung</th><td>2 Duallaserkanonen: P+1, SM 2</td></tr>
 <tr><th>Zubehör</th><td>Ninja-Tarnschild</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Der_grosse_Fang/Einstieg)
-- **Weiter:** [Beim alten Chinesen]({{ site.baseurl }}/Abenteuer/Der_grosse_Fang/Chinese)
