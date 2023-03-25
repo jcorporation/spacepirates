@@ -17,8 +17,6 @@ sitedata:
             Heimatplanet: Trullmania
 ---
 
-
-
 - **Heimatplanet:** [Trullmania]({{ site.baseurl }}/Weltraum/Aliens/Trull/Trullmania)
 - **Botschaftsplanet:** [Kozel 5]({{ site.baseurl }}/Weltraum/Freihandelszone/Kozel_5)
 - **Reich:** Trullimperium
