@@ -2,7 +2,7 @@
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses
 title: Diverses
-order: /003
+order: /004
 ---
 
 Hier gibt es allerlei nützliches Zubehör für Raumschiffe.

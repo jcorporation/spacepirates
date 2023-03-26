@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer
+permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style
 title: Style-Zubehör
-order: /004
+order: /005
 ---
 
 Style-Zubehör bietet keine regeltechnischen Vorteile, können aber ein Raumschiff wesentlich cooler machen.
