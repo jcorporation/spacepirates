@@ -2340,6 +2340,7 @@
     "/Abenteuer/Schatz_von_Menkar/Ende": 1
   },
   "ftlfunk": {
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Funk": 101,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": 27,
     "/Weltraum/Technologie/Techtalk": 25,
     "/Abenteuer/Spritprobleme/Einleitung": 1
@@ -2354,6 +2355,11 @@
   },
   "fuerstenfamilie": {
     "/Weltraum/Aliens/Streifanier/": 26
+  },
+  "funk": {
+    "/Abenteuer/Spritprobleme/Neutritiumpipeline": 1,
+    "/Spielregeln/": 1,
+    "/Spielregeln/Die_Piratencrew/": 1
   },
   "galaktischer": {
     "/Weltraum/Freihandelszone/Handelsrat": 50,
@@ -3176,7 +3182,7 @@
   "incorporated": {
     "/Weltraum/Konzerne/Puugle_Incorporated": 52,
     "/Weltraum/Konzerne/Ramsch_Incorporated": 52,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 1
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": 1
   },
   "informantin": {
     "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": 26
@@ -5303,7 +5309,7 @@
     "/Abenteuer/Weihnachten/Auftrag": 5,
     "/Abenteuer/Weihnachten/Santa_24": 5,
     "/Abenteuer/Zeitraub/Marmonen": 5,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 5,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": 5,
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 5,
     "/Abenteuer/Buschraub/Ende": 4,
     "/Abenteuer/Buschraub/SWIP": 4,
@@ -5990,11 +5996,11 @@
   },
   "ramsch": {
     "/Weltraum/Konzerne/Ramsch_Incorporated": 53,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 1
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": 1
   },
   "ramsch incorporated": {
     "/Weltraum/Konzerne/Ramsch_Incorporated": 251,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 1
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": 1
   },
   "rand": {
     "/Abenteuer/Schatzjagd/Rand": 52,
@@ -6147,7 +6153,7 @@
     "/Spielregeln/Die_Piratencrew/Uebersicht": 25,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 11,
     "/Abenteuer/Laborratten/Einstieg": 7,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 7,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": 7,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 6,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 6,
     "/Abenteuer/": 5,
@@ -6537,7 +6543,7 @@
     "/Abenteuer/Weihnachten/Auftrag": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung/": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": 2,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 2,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": 2,
     "/Abenteuer/": 1
   },
   "runde 1": {
@@ -7963,7 +7969,7 @@
     "/Spielregeln/Die_Piratencrew/Ausruestung/": 1
   },
   "stylezubehoer": {
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style-Zubehoer": 101,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": 101,
     "/Spielregeln/Die_Piratencrew/Uebersicht": 1
   },
   "suchmission": {
@@ -9355,7 +9361,7 @@
   "zubehoer": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/": 27,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": 3,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 1
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Funk": 1
   },
   "zuerich": {
     "/Abenteuer/Dungeonplanet/Ebene2": 27
