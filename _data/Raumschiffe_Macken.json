@@ -136,7 +136,7 @@
   },
   "33": {
     "Name": "Überhitzung",
-    "Beschreibung": "Die Systeme sind überhitzt, sogar der Kapitänssitz glüht schon fast. Das Schiff muss alle <span class=\"dice\">1W20</span> Minuten 1W6 Minuten abkühlen.",
+    "Beschreibung": "Die Systeme sind überhitzt, sogar der Kapitänssitz glüht schon fast. Das Schiff muss alle <span class=\"dice\">1W20</span> Minuten <span class=\"dice\">1W6</span> Minuten abkühlen.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken"
   },
   "34": {
@@ -186,7 +186,7 @@
   },
   "7": {
     "Name": "Spontane Raumzeitkrümmung",
-    "Beschreibung": "Die Raumzeit krümmt sich und das Raumschiff befindet sich fünf Minuten früher in einem zufälligen Sternensystem. Das wiederholt sich alle 1W6 Stunden, bis die Macke repariert wurde.",
+    "Beschreibung": "Die Raumzeit krümmt sich und das Raumschiff befindet sich fünf Minuten früher in einem zufälligen Sternensystem. Das wiederholt sich alle <span class=\"dice\">1W6</span> Stunden, bis die Macke repariert wurde.",
     "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken"
   },
   "8": {
