@@ -20,7 +20,7 @@ sitedata:
         - Name: Waffenproblem
           Beschreibung: Die Bordwaffen haben nur noch die halbe Reichweite. Warum alle? Keine Ahnung!
         - Name: Spontane Raumzeitkrümmung
-          Beschreibung: Die Raumzeit krümmt sich und das Raumschiff befindet sich fünf Minuten früher in einem zufälligen Sternensystem. Das wiederholt sich alle 1W6 Stunden, bis die Macke repariert wurde.
+          Beschreibung: Die Raumzeit krümmt sich und das Raumschiff befindet sich fünf Minuten früher in einem zufälligen Sternensystem. Das wiederholt sich alle <span class="dice">1W6</span> Stunden, bis die Macke repariert wurde.
         - Name: KI eingebaut
           Beschreibung: Irgendwie ist eine KI in das Raumschiff gekommen und will jetzt jede Aktion begründet wissen.
         - Name: Reboot nötig
@@ -72,7 +72,7 @@ sitedata:
         - Name: Wartemusik
           Beschreibung: Aus allen, aus wirklich allen Lautsprechern ertönt ohrenbetäubende Wartemusik, man kann sich kaum noch verständigen.
         - Name: Überhitzung
-          Beschreibung: Die Systeme sind überhitzt, sogar der Kapitänssitz glüht schon fast. Das Schiff muss alle <span class="dice">1W20</span> Minuten 1W6 Minuten abkühlen.
+          Beschreibung: Die Systeme sind überhitzt, sogar der Kapitänssitz glüht schon fast. Das Schiff muss alle <span class="dice">1W20</span> Minuten <span class="dice">1W6</span> Minuten abkühlen.
         - Name: Klappert
           Beschreibung: Irgendwas klappert im Schiff, keine Ahnung was und wo, aber es ist unheimlich nervig, &minus;1 auf alle Proben.
         - Name: Stromschwankungen
