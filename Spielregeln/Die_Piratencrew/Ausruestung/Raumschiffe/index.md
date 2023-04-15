@@ -58,7 +58,7 @@ Jedes Raumschiff kann mit beliebig viel Zubehör ausgerüstet werden.
 - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen)
 - [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde)
 - [Sensoren]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren)
-- [Funk]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Funk)
+- [FTL-Funk]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk)
 - [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses)
 - [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style)
 

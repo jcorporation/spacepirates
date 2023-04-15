@@ -2340,9 +2340,9 @@
     "/Abenteuer/Schatz_von_Menkar/Ende": 1
   },
   "ftlfunk": {
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Funk": 101,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": 27,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk": 102,
     "/Weltraum/Technologie/Techtalk": 25,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/": 2,
     "/Abenteuer/Spritprobleme/Einleitung": 1
   },
   "ftlphone": {
@@ -2355,11 +2355,6 @@
   },
   "fuerstenfamilie": {
     "/Weltraum/Aliens/Streifanier/": 26
-  },
-  "funk": {
-    "/Abenteuer/Spritprobleme/Neutritiumpipeline": 1,
-    "/Spielregeln/": 1,
-    "/Spielregeln/Die_Piratencrew/": 1
   },
   "galaktischer": {
     "/Weltraum/Freihandelszone/Handelsrat": 50,
@@ -6160,7 +6155,6 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 5,
     "/Abenteuer/Zeitraub_II/Reise": 5,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": 4,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 4,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 4,
     "/Weltraum/Aliens/Spaceamazonen/": 4,
@@ -6173,6 +6167,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 3,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 3,
     "/Spielregeln/": 3,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": 3,
     "/Weltraum/Aliens/Spacepears/": 3,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 3,
     "/Abenteuer/Buschraub/Bahir": 2,
@@ -9360,8 +9355,8 @@
   },
   "zubehoer": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/": 27,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": 3,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Funk": 1
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": 2,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 1
   },
   "zuerich": {
     "/Abenteuer/Dungeonplanet/Ebene2": 27

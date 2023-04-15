@@ -20,7 +20,7 @@ Dieser Abschnitt beschreibt die Erstellung von Charakteren. Hier finden sich auc
     - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen)
     - [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde)
     - [Sensoren]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren)
-    - [Funk]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Funk)
+    - [FTL-Funk]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk)
     - [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses)
     - [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style)
     - [Raumschiffmacken]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken)

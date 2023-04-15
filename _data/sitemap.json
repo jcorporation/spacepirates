@@ -146,12 +146,12 @@
   "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren": {
     "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde",
     "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Funk",
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk",
     "lastInDir": false,
     "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
     "title": "Sensoren"
   },
-  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Funk": {
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk": {
     "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren",
     "firstInDir": false,
     "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses",
@@ -160,7 +160,7 @@
     "title": "FTL-Funk"
   },
   "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Funk",
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk",
     "firstInDir": false,
     "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style",
     "lastInDir": false,

@@ -416,6 +416,12 @@ tabellen["existingRaumschiffe_Schilde"] = [
   "Großer Schild",
   "Militärschild"
 ]
+tabellen["existingRaumschiffe_FTLFunk"] = [
+  "FTL10-Funk",
+  "FTL20-Funk",
+  "FTL30-Funk",
+  "FTL40-Funk"
+]
 tabellen["existingRaumstationEreignisse"] = [
   "Eine Schlägerei bricht aus.",
   "Ein Leck auf der Raumstation, verursacht durch: [existingRaumstationEreignisseUrsache]",

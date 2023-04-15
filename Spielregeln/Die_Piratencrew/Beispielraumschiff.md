@@ -17,7 +17,7 @@ Darker Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht n
     <tr><th rowspan="2">Bewaffnung</th><td>Plasmakanone: Bonus 2, SM 2</td><td>16.000</td><td>8.000</td></tr>
     <tr><td>Laserkanone: Bonus 1, SM 1</td><td>7.000</td><td>3.500</td></tr>
     <tr><th rowspan="4">Zubehör</th><td>Enterschleuse</td><td>4.000</td><td>2.000</td></tr>
-    <tr><td>FTL2-Funk</td><td>4.000</td><td>2.000</td></tr>
+    <tr><td>FTL20-Funk</td><td>4.000</td><td>2.000</td></tr>
     <tr><td>Versteckter Frachtraum</td><td>4.000</td><td>2.000</td></tr>
     <tr><td>Antiphotonen-Schild (für eine Macke ertauscht)</td><td>0</td><td>0</td></tr>
     <tr><th>Macken</th>
