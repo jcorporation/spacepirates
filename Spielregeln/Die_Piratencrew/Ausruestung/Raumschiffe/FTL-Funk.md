@@ -15,7 +15,7 @@ sitedata:
           Kosten: 25000
 ---
 
-Raumschiffe verfügen standardmäßig nur über normalen Funk. FTL-Funk ist in Ausführungen von FTL10 bis FTL80 verfügbar, die Funksprüche verbreiten sich also bis zu achtzig Lichtjahren pro Stunde. Schneller geht es beim besten Willen nicht mehr.
+Raumschiffe verfügen standardmäßig nur über normalen Funk. FTL-Funk ist in Ausführungen von FTL10 bis FTL40 verfügbar, die Funksprüche verbreiten sich also bis zu 40 Lichtjahren pro Stunde. Schneller geht es beim besten Willen nicht mehr.
 
 <table>
 <thead>
