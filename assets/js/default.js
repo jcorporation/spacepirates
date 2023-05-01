@@ -125,7 +125,7 @@ sitemap.showCurrent = function() {
     if (cur !== null) {
         cur.classList.remove('sm-current');
     }
-    let siteLink = sitemap.container.querySelector('#sitemap-' + path);
+    const siteLink = sitemap.container.querySelector('#sitemap-' + path);
     siteLink.classList.add('sm-current');
     if (siteLink.firstChild.classList.contains('sm-expand')) {
         sitemap.showNode(siteLink.firstChild);
