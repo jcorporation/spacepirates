@@ -654,10 +654,10 @@ function contentInit(scope) {
     // clickable event handler
     const clickBoxes = document.querySelectorAll('.clickable');
     for (const box of clickBoxes) {
-        const link = box.querySelector('a');
-        if (link) {
+        const href = box.querySelector('a');
+        if (href) {
             box.addEventListener('click', function() {
-                link.click();
+                href.click();
             }, false);
         }
     }
