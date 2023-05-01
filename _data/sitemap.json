@@ -162,29 +162,29 @@
   "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": {
     "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk",
     "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken",
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style",
     "lastInDir": false,
     "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
     "title": "Diverses"
   },
-  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": {
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": {
     "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses",
     "firstInDir": false,
-    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style",
+    "next": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken",
     "lastInDir": false,
     "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
-    "title": "Raumschiffmacken"
+    "title": "Style-Zubehör"
   },
-  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken",
+  "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": {
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style",
     "firstInDir": false,
     "next": "/Spielregeln/Die_Piratencrew/Beispielpiraten",
     "lastInDir": true,
     "parent": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/",
-    "title": "Style-Zubehör"
+    "title": "Raumschiffmacken"
   },
   "/Spielregeln/Die_Piratencrew/Beispielpiraten": {
-    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style",
+    "prev": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken",
     "firstInDir": true,
     "next": "/Spielregeln/Die_Piratencrew/Beispielraumschiff",
     "lastInDir": false,
