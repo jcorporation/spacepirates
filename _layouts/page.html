@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<main class="col col-xl-12 col-xxl-9 pe-0">
-  {% if page.url != '/' %}
-    <h1>
-      {%if page.icon %}<span class="mi">{{ page.icon }}</span>{% endif %}
-      {{page.title}}
-    </h1>
-  {% endif %}
-  {{ content }}
-</main>
+<div class="col col-xl-12 col-xxl-9 pe-0">
+  <h1 id="mainTitle" class="{% if page.url == '/' %}d-none{% endif %}"><span class="mi {% if page.icon == nil %}d-none{% endif %}">{%if page.icon %}{{ page.icon }}{% endif %}</span>{{ page.title }}</h1>
+  <div class="row row-cols-1 row-cols-xl-2 me-0">
+      <main class="col col-xl-12 pe-0">
+          {{ content }}
+          {% if content_data %}
+              {{ content_data }}
+          {% endif %}
+      </main>
+      <aside class="col col-xl-4 pe-0 d-none"></aside>
+  </div>
+</div>

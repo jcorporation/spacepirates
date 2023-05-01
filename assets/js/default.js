@@ -1,5 +1,9 @@
 "use strict";
 
+var ignoreLinks = [
+    "/Weltraum/Sternenkarte/"
+];
+
 // helper functions
 function getParent(el, parentNodeName) {
     while (el.nodeName !== parentNodeName) {
@@ -13,8 +17,60 @@ function getParent(el, parentNodeName) {
     return el;
 }
 
+function execFunctionByName(functionName) {
+    const namespace = functionName.split('.');
+    if (namespace.length === 2) {
+        const context = namespace.shift();
+        const functionToExecute = namespace.shift();
+        const initFunc = window[context][functionToExecute];
+        initFunc();
+    }
+    else {
+        functionName();
+    }
+}
+
+// startunes
+var startunes = {};
+
+startunes.play = function(event) {
+    event.preventDefault();
+    event.stopPropagation();
+    const audioEl = document.createElement('source');
+    audioEl.setAttribute('type', 'audio/mpeg');
+    audioEl.setAttribute('src', event.target.getAttribute('data-href'));
+    if (startunes.audioEl.firstChild) {
+        startunes.audioEl.replaceChild(audioEl, startunes.audioEl.firstChild);
+    }
+    else {
+        startunes.audioEl.appendChild(audioEl);
+    }
+    startunes.songEl.textContent = 'Lade...';
+    startunes.songName = event.target.textContent;
+    startunes.audioEl.load();
+    
+}
+
+startunes.init = function() {
+    startunes.songName = '';
+    startunes.songEl = document.getElementById('startunessong');
+    startunes.audioEl = document.getElementById('startunesaudio');
+    startunes.songButtons = document.getElementById('startunesbottom').getElementsByTagName('a');
+
+    startunes.audioEl.addEventListener('canplay', function() {
+        startunes.songEl.textContent = 'Spiele: ' + startunes.songName;
+        startunes.audioEl.play();
+    }, false);
+
+    for (let i = 0; i < startunes.songButtons.length; i++) {
+        startunes.songButtons[i].addEventListener('click', function(event) {
+            startunes.play(event);
+        }, false);
+    }
+}
+
 // sitemap
-const sitemap = {};
+var sitemap = {};
 
 sitemap.showNode = function(node) {
     node.setAttribute('data-expanded', 'true');
@@ -47,6 +103,10 @@ sitemap.show = function() {
 
 sitemap.showCurrent = function() {
     const path = decodeURI(window.location.pathname).replace(/[^\w]/g, '_').replace(/__/g, '_');
+    const cur = sitemap.container.querySelector('.sm-current');
+    if (cur !== null) {
+        cur.classList.remove('sm-current');
+    }
     let site = sitemap.container.querySelector('#sitemap-' + path);
     site.classList.add('sm-current');
     if (site.firstChild.classList.contains('sm-expand')) {
@@ -67,7 +127,9 @@ sitemap.showCurrent = function() {
 sitemap.fetch = async function() {
     try {
       const response = await fetch('/assets/html/sitemap.html');
-      document.querySelector('#sitemap-body').innerHTML = await response.text();
+      const sitemapEl = document.querySelector('#sitemap-body');
+      sitemapEl.innerHTML = await response.text();
+      contentInit(sitemapEl);
       sitemap.show();
     }
     catch (err) {
@@ -80,18 +142,16 @@ sitemap.init = function(scope) {
     if (sitemapEl === null) {
         return;
     }
-    sitemapEl.addEventListener('show.bs.tab', function() {
-        if (scope.getElementById('main-menu').querySelector('.sitemap') === null) {
-            sitemap.fetch();
-        }
-        else {
-            sitemap.showCurrent();
-        }
-    }, false);
+    if (scope.getElementById('main-menu').querySelector('.sitemap') === null) {
+        sitemap.fetch();
+    }
+    else {
+        sitemap.showCurrent();
+    }
 }
 
 // enhance tables
-const tables = {};
+var tables = {};
 
 tables.init = function(scope) {
     tables.allTables = scope.querySelectorAll('table');
@@ -272,7 +332,7 @@ tables.randomTable = function(table) {
 }
 
 // dice tags
-const dice = {};
+var dice = {};
 
 dice.init = function(scope) {
     dice.dices = scope.querySelectorAll('.dice');
@@ -326,7 +386,7 @@ dice.roll = function(el) {
 }
 
 // search
-const siteSearch = {};
+var siteSearch = {};
 
 siteSearch.fetchJSON = async function(dataFile, callback) {
     try {
@@ -448,6 +508,9 @@ siteSearch.doSearch = function(value, resultEl) {
         a.href = match; 
         a.classList.add('list-group-item');
         resultEl.appendChild(a);
+        a.addEventListener('click', function(event) {
+            link.open(event);
+        }, false);
         i++;
         if (i > 49) {
             break;
@@ -487,20 +550,17 @@ siteSearch.init = function(scope) {
     siteSearch.sitemap = null;
     siteSearch.inputSearch = scope.querySelector('#inputSearch');
     siteSearch.searchResult = scope.querySelector('#searchResult');
+    
+    if (siteSearch.cbSearchInitialized() === false) {
+        siteSearch.inputSearch.setAttribute('disabled', 'disabled');
+        siteSearch.inputSearch.setAttribute('placeholder','Wird initializiert...');
+        siteSearch.fetchJSON('index', siteSearch.cbSearchInitialized);
+        siteSearch.fetchJSON('index_stompkeys', siteSearch.cbSearchInitialized);
+        siteSearch.fetchJSON('sitemap', siteSearch.cbSearchInitialized);
+    }
 
-    searchEl.addEventListener('show.bs.tab', function() {
-        if (siteSearch.cbSearchInitialized() === false) {
-            siteSearch.inputSearch.setAttribute('disabled', 'disabled');
-            siteSearch.inputSearch.setAttribute('placeholder','Wird initializiert...');
-            siteSearch.fetchJSON('index', siteSearch.cbSearchInitialized);
-            siteSearch.fetchJSON('index_stompkeys', siteSearch.cbSearchInitialized);
-            siteSearch.fetchJSON('sitemap', siteSearch.cbSearchInitialized);
-        }
-    }, false);
-
-    siteSearch.inputSearch.addEventListener('click', function(event) {
-        // do not close dropdown
-        event.stopPropagation();
+    searchEl.addEventListener('shown.bs.tab', function() {
+        siteSearch.inputSearch.focus();
     }, false);
 
     siteSearch.inputSearch.addEventListener('keyup', function(event) {
@@ -508,7 +568,7 @@ siteSearch.init = function(scope) {
     }, false);
 }
 
-const svg = {};
+var svg = {};
 svg.init = function(scope) {
     const cards = scope.querySelectorAll('.card-svg');
     for (const card of cards) {
@@ -525,16 +585,71 @@ svg.init = function(scope) {
     }
 }
 
-//init all
-function siteInit(scope) {
-    if (typeof randgen === 'object') {
-        randgen.init(scope);
+var link = {};
+link.init = function(scope) {
+    const as = scope.querySelectorAll('a');
+    for (const a of as) {
+        a.addEventListener('click', function(event) {
+            link.open(event);
+        }, false);
     }
+}
+
+link.open = async function(event) {
+    // get nearest link
+    let target = event.target;
+    let href = target.getAttribute('href');
+    while (href === null) {
+        target = target.parentNode;
+        href = target.getAttribute('href');
+    }
+    // handle only site internal links
+    if (href.charAt(0) !== '/' ||
+        ignoreLinks.includes(href)
+    ) {
+        return;
+    }
+    // prevent default action
+    event.preventDefault();
+    event.stopPropagation();
+    // fetch site and replace elements
+    const response = await fetch(href);
+    const data = await response.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(data, 'text/html');
+    const title = doc.querySelector('title');
+    document.querySelector('title').replaceWith(title);
+    for (const elName of ['header', '#mainTitle', 'main', 'aside']) {
+        const newEl = doc.querySelector(elName);
+        document.querySelector(elName).replaceWith(newEl);
+        if (elName === 'main') {
+            contentInit(newEl);
+        }
+        else {
+            link.init(newEl);
+        }
+    }
+    if (href === '/') {
+        document.querySelector('#mainTitle').classList.add('d-none');
+    }
+    else {
+        document.querySelector('#mainTitle').classList.remove('d-none');
+    }
+    // update browser history and sitemap
+    history.pushState({}, "", href);
+    sitemap.showCurrent();
+    // update navigation buttons in footer
+    const navBottom = doc.querySelector('footer > nav > div:last-child');
+    document.querySelector('footer > nav > div:last-child').replaceWith(navBottom);
+    link.init(navBottom);
+}
+
+function contentInit(scope) {
+    randgen.init(scope);
     dice.init(scope);
-    sitemap.init(scope);
-    siteSearch.init(scope);
     tables.init(scope);
     svg.init(scope);
+    link.init(scope);
 
     // clickable event handler
     const clickBoxes = document.querySelectorAll('.clickable');
@@ -546,6 +661,18 @@ function siteInit(scope) {
             }, false);
         }
     }
+    //data-init handler
+    const customInits = document.querySelectorAll('[data-init]');
+    for (const init of customInits) {
+        execFunctionByName(init.getAttribute('data-init'));
+    }
+}
+
+//init all
+function siteInit(scope) {
+    contentInit(scope);
+    siteSearch.init(scope);
+    sitemap.init(scope);
 
     if ('serviceWorker' in navigator) {
         //add serviceworker

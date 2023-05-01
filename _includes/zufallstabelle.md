@@ -1,6 +1,3 @@
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
 <div data-type="zufallstabelle" data-table="{{ include.table }}" data-manual="{{ include.manual }}" data-auto="{{ include.auto }}">
     {% if include.count %}
         {%assign count = include.count %}

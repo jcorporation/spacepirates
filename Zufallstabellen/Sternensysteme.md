@@ -6,7 +6,7 @@ title: Sternensysteme
 
 Dieser Zufallsgenerator generiert komplette Sternensysteme, entweder total zufällig oder auch mit ein paar Rahmenparameter.
 
-<table>
+<table data-init="galaxygen.init">
 <tr><th>Bewohnbar</th><td>
 <select name="optbewohnt" id="optbewohnt" class="form-select">
 <option value="zufall">zufällig</option>
@@ -37,7 +37,3 @@ Dieser Zufallsgenerator generiert komplette Sternensysteme, entweder total zufä
 <h3>Planeten</h3>
 <ol id="planetenlist">
 </ol>
-<script src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-<script src="{{ site.baseurl }}/assets/js/sternensysteme.js"></script>

@@ -4,7 +4,7 @@ permalink: /Zufallstabellen/Namensgenerator
 title: Namensgenerator
 ---
 
-<div class="input-group" style="max-width: 50rem">
+<div class="input-group" style="max-width: 50rem" data-init="namensgen.init">
     <select id="type" class="form-select">
         <option value="alien">Aliens</option>
         <option value="foederationm">Föderation - männlich</option>
@@ -21,8 +21,3 @@ title: Namensgenerator
 </div>
 
 <div id="namensgenout" class="list-group mt-2"></div>
-
-<script src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-<script src="{{ site.baseurl }}/assets/js/namensgen.js"></script>

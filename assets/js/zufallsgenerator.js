@@ -1,6 +1,6 @@
 "use strict";
 
-const randgen = {};
+var randgen = {};
 
 randgen.generate = function(target) {
     const table = target.getAttribute('data-table');
@@ -143,4 +143,243 @@ randgen.parser = function(x) {
         }
     }
     return u;
+}
+
+// Sternensysteme
+var galaxygen = {};
+
+galaxygen.generate = function () {
+    let anzplaneten = 0;
+    let groesse;
+    let bewohnbareplaneten;
+    let optbewohnt = document.getElementById('optbewohnt').options[document.getElementById('optbewohnt').selectedIndex].value;
+    let optgroesse = document.getElementById('optgroesse').options[document.getElementById('optgroesse').selectedIndex].value;
+
+    document.getElementById('galaxyname').textContent = randgen.parser(randgen.randTable(tabellen["planetenprefix"])) + " " +
+        randgen.parser(randgen.randTable(tabellen["planetennamen"])) + " " + randgen.parser(randgen.randTable(tabellen["planetensuffix"]));
+
+    if (optgroesse === "zufall") {
+        optgroesse = randgen.randNr(2) === 0 ? "gross" : "klein";
+    }
+    if (optgroesse === "klein") {
+        anzplaneten = randgen.randNr(10) + 1;
+        groesse = (randgen.randNr(5) + anzplaneten) * 500;
+    }
+    else if (optgroesse === "gross") {
+        anzplaneten = randgen.randNr(20) + 5;
+        groesse = (randgen.randNr(12) + anzplaneten) * 500;
+    }
+    document.getElementById('planeten').textContent = anzplaneten + " Planeten / " + groesse + " Millionen km";
+
+    if (optbewohnt === "zufall") {
+        optbewohnt = randgen.randNr(2) === 0 ? "ja" : "nein";
+    }
+
+    document.getElementById("zentralgestirn").textContent = optbewohnt === "ja" ?
+        randgen.parser(tabellen["sternensysteme_bewohnbar_unbewohnbar"][0]) :
+        randgen.parser(tabellen["sternensysteme_bewohnbar_unbewohnbar"][1]);
+
+    document.getElementById("besonderheit").textContent = randgen.parser(randgen.randTable(tabellen["gal_besonderheit"]));
+
+    if (optbewohnt === "ja") {
+        bewohnbareplaneten = randgen.randNr(3) + 1;
+        if (bewohnbareplaneten > anzplaneten) { bewohnbareplaneten = anzplaneten; }
+        document.getElementById('bewohnbar').textContent = "ja, " + bewohnbareplaneten + " Planeten";
+    }
+    else if (optbewohnt === "nein") {
+        bewohnbareplaneten = 0;
+        document.getElementById('bewohnbar').textContent = "nein";
+    }
+
+    const unbewohnbareplaneten = anzplaneten - bewohnbareplaneten;
+    const ersteplaneten = Math.floor(unbewohnbareplaneten / 2);
+    const letzteplaneten = Math.floor(unbewohnbareplaneten / 2) + unbewohnbareplaneten % 2;
+    const planetenlistEl = document.getElementById('planetenlist');
+    planetenlistEl.textContent = '';
+    for (let i = 0; i < ersteplaneten; i++) {
+        const li = document.createElement('li');
+        li.textContent = randgen.parser(randgen.randTable(tabellen["planetentyp_unbewohnbar"]));
+        planetenlistEl.appendChild(li);
+    }
+    for (let i = 0; i < bewohnbareplaneten; i++) {
+        const li = document.createElement('li');
+        li.textContent = randgen.parser(randgen.randTable(tabellen["gal_planetneu"])) + "; Bewohner: " +
+            randgen.parser(randgen.randTable(tabellen["gal_bewohnt"]))
+        planetenlistEl.appendChild(li);
+    }
+    for (let i = 0; i < letzteplaneten; i++) {
+        const li = document.createElement('li');
+        li.textContent = randgen.parser(randgen.randTable(tabellen["planetentyp_unbewohnbar"]));
+        planetenlistEl.appendChild(li);
+    }
+}
+
+galaxygen.init = function() {
+    galaxygen.generate();
+    document.getElementsByName('generate')[0].addEventListener('click', function() {
+        galaxygen.generate();
+    }, false);
+}
+
+// SLC Generator
+var slcgen = {};
+
+slcgen.isduplicate = function(t, r) {
+    for (let i = 0; i < t.length; i++) {
+        if ((t[i][0] === r[0]) && (t[i][1] === r[1]) && (t[i][2] === r[2]) && (t[i][3] === r[3])) {
+            return 1;
+        }
+    }
+    return 0;
+}
+
+slcgen.gentupel = function(x) {
+    const t = new Array();
+    for (let p1 = 1; p1 < x; p1++) {
+        for (let p2 = 1; p2 < x; p2++) {
+            for (let p3 = 1; p3 < x; p3++) {
+                for (let p4 = 1; p4 < x; p4++) {
+                    if (p1 + p2 + p3 + p4 === x) {
+                        const r = new Array(p1, p2, p3, p4).sort(randgen.numSort);
+                        if ((r[0] + 2 >= r[1]) && (r[1] + 2 >= r[2]) && (r[2] + 2 >= r[3])) {
+                            if (slcgen.isduplicate(t, r) === 0) { t.push(r); }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    const tupel = randgen.randTable(t);
+    return (tupel.sort(randgen.randOrd));
+};
+
+slcgen.generate = function() {
+    const or = document.getElementById('optrasse').options[document.getElementById('optrasse').selectedIndex].value;
+    let r = or === "Zufall" ? randgen.randTable(tabellen["rasse"]) : or;
+    if (r === "Mensch") {
+        const x = randgen.randNr(4);
+        switch(x) {
+            case 1:
+                document.getElementById('name').value = randgen.randTable(tabellen["foederationvormann"]) + " " + randgen.randTable(tabellen["foederationnachnamen"]);
+                break;
+            case 2:
+                document.getElementById('name').value = randgen.randTable(tabellen["foederationvorweib"]) + " " + randgen.randTable(tabellen["foederationnachnamen"]);
+                break;
+            case 3:
+                document.getElementById('name').value = randgen.randTable(tabellen["neuchinanachnamen"]) + " " + randgen.randTable(tabellen["neuchinavormann"]);
+                break;
+            default:
+                document.getElementById('name').value = randgen.randTable(tabellen["neuchinanachnamen"]) + " " + randgen.randTable(tabellen["neuchinavorweib"]);
+        }
+    }
+    else {
+        r = randgen.randTable(tabellen["aliens"]);
+        document.getElementById('name').value = randgen.randTable(tabellen["aliennamen"]) + randgen.randTable(tabellen["aliensuffix"]);
+    }
+    document.getElementById('rasse').value = r;
+    const m1 = randgen.randTable(tabellen["scmacken"]);
+    let m2 = m1;
+    while (m1 === m2) {
+        m2 = randgen.randTable(tabellen["scmacken"]);
+    }
+    document.getElementById('macke1').textContent = m1;
+    document.getElementById('macke2').textContent = m2;
+    const optstufe = document.getElementById('optstufe');
+    let stufe = optstufe.options[optstufe.selectedIndex].value;
+    if (stufe === "-1") {
+        stufe = randgen.randTable(tabellen["stufen"]);
+    }
+    else {
+        stufe = tabellen["stufen"][stufe];
+    }
+    document.getElementById('stufe').value = stufe[0];
+    if (r !== 'Mensch') {
+        stufe[1]++;
+    }
+    const profile = slcgen.gentupel(stufe[1]);
+    document.getElementById('haendler').value = profile[0];
+    document.getElementById('pilot').value = profile[1];
+    document.getElementById('tech').value = profile[2];
+    document.getElementById('soeldner').value = profile[3];
+}
+
+slcgen.init = function() {
+    slcgen.generate();
+    document.getElementById('generate').addEventListener('click', function() {
+        slcgen.generate();
+    }, false);
+}
+
+// Namensgenerator
+var namensgen = {};
+
+namensgen.generate = function () {
+    const w = document.getElementById('type').value;
+    const z = document.getElementById('anzahl').value;
+    const out = document.getElementById("namensgenout");
+    out.textContent = '';
+    for (let i = 0; i < z; i++) {
+        const item = document.createElement('div');
+        item.classList.add('list-group-item');
+        
+        switch(w) {
+            case 'konzern':
+                if (randgen.randNr(2) > 0) {
+                    item.innerHTML = randgen.randTable(tabellen.konzernprefix) + " " +
+                        randgen.randTable(tabellen.konzernnamen);
+                } else {
+                    item.innerHTML = randgen.randTable(tabellen.konzernnamen) + " " +
+                        randgen.randTable(tabellen.konzernsuffix);
+                }
+                break;
+            case 'planet':
+                item.innerHTML = randgen.parser(randgen.randTable(tabellen.planetenprefix)) + " " +
+                    randgen.parser(randgen.randTable(tabellen.planetennamen)) + " " +
+                    randgen.parser(randgen.randTable(tabellen.planetensuffix));
+                break;
+            case 'stadt':
+                item.innerHTML = randgen.randTable(tabellen.staedtenamen) +
+                    randgen.randTable(tabellen.staedtesuffix);
+                break;
+            case 'alien':
+                item.innerHTML = randgen.randTable(tabellen.aliennamen) +
+                    randgen.randTable(tabellen.aliensuffix);
+                break;
+            case 'foederationm':
+                item.innerHTML = randgen.randTable(tabellen.foederationvormann) + " " +
+                    randgen.randTable(tabellen.foederationnachnamen);
+                break;
+            case 'foederationw':
+                item.innerHTML = randgen.randTable(tabellen.foederationvorweib) + " " +
+                    randgen.randTable(tabellen.foederationnachnamen);
+                break;
+            case 'neuasienm':
+                item.innerHTML = randgen.randTable(tabellen.neuchinanachnamen) + " " +
+                    randgen.randTable(tabellen.neuchinavormann);
+                break;
+            case 'neuasienw':
+                item.innerHTML = randgen.randTable(tabellen.neuchinanachnamen) + " " +
+                    randgen.randTable(tabellen.neuchinavorweib);
+                break;
+            case 'raumschiff':
+                if (randgen.randNr(2) > 0) {
+                    item.innerHTML = randgen.randTable(tabellen.raumschiffprefixe) + " " +
+                        randgen.randTable(tabellen.raumschiffnamen);
+                } else {
+                    item.innerHTML = randgen.randTable(tabellen.raumschiffnamen) + " " +
+                        randgen.parser(randgen.randTable(tabellen.raumschiffsuffixe));
+                }
+                break;
+        }
+        out.appendChild(item);
+    }
+}
+
+namensgen.init = function() {
+    document.getElementById('generate').addEventListener('click', function() {
+        namensgen.generate();
+    }, false);
+    document.getElementById('type').addEventListener('change', function() {
+        namensgen.generate();
+    }, false);
 }

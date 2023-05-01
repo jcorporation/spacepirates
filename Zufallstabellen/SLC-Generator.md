@@ -6,7 +6,7 @@ title: SLC-Generator
 
 Dieses Tool generiert zufällige Spielleiter-Charaktere, es hält sich an die Charaktererschaffungsregeln.
 
-<div class="row mb-3">
+<div class="row mb-3" data-init="slcgen.init">
     <label class="col-sm-2 col-form-label">Stufe</label>
     <div class="col-sm-10">
         <select id="optstufe" class="form-select">
@@ -88,8 +88,3 @@ Dieses Tool generiert zufällige Spielleiter-Charaktere, es hält sich an die Ch
     <div class="list-group-item" id="macke1">Macke 1</div>
     <div class="list-group-item" id="macke2">Macke 2</div>
 </div>
-
-<script src="{{ site.baseurl }}/assets/js/data_names.js"></script>
-<script src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>
-<script src="{{ site.baseurl }}/assets/js/zufallsgenerator.js"></script>
-<script src="{{ site.baseurl }}/assets/js/slcgen.js"></script>

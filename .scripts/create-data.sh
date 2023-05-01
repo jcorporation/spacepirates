@@ -67,7 +67,7 @@ echo ""
 echo "Sorting"
 # sort, convert, cleanup
 echo "//do not modify" > "$TMPDIR/data_names.js"
-echo "const tabellen = {};" >> "$TMPDIR/data_names.js"
+echo "var tabellen = {};" >> "$TMPDIR/data_names.js"
 for L in $LISTS
 do
     TMPFILE="$TMPDIR/$L.json.tmp"
