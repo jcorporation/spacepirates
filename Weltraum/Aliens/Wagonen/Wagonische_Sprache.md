@@ -4,8 +4,6 @@ permalink: /Weltraum/Aliens/Wagonen/Wagonische_Sprache
 title: Wagonisch
 ---
 
-
-
 Wenn man bedenkt wie kompliziert die Bürokratie der Wagonen wirkt, ist *Wagonisch* erstaunlich leicht.
 
 Hier werde ich die grundsätzliche Grammatik und ein paar Wörter zeigen, um leichte Sätze auf Wagonisch zu bilden.
@@ -72,4 +70,4 @@ Wörterbuch: [https://lingojam.com/Wagonisch](https://lingojam.com/Wagonisch)
 
 ***
 
-Autor: sirericson@web.de
+Autor: [sirericson@web.de](mailto:sirericson@web.de)

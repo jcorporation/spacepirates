@@ -9,4 +9,4 @@ Wie schon im vorigen Blogbeitrag erwähnt, habe ich jetzt mit der Arbeit an der 
 
 Ich entwickle SpacePirates v5 auch wieder online, der jederzeit aktuelle Arbeitsstand kann [hier]({{ site.baseurl }}/Spielregeln/) eingesehen werden und wer über die Änderungen auf dem Laufenden bleiben will, für den gibt es das Änderungslogbuch.
 
-Jetzt ist auch genau die richtige Zeit um Kommentare und Verbesserungsvorschläge für SpacePirates loszuwerden. Entweder einfach hier als Kommentar oder gerne auch per Mail an mail@jcgames.de.
+Jetzt ist auch genau die richtige Zeit um Kommentare und Verbesserungsvorschläge für SpacePirates loszuwerden. Entweder einfach hier als Kommentar oder gerne auch per Mail an [mail@jcgames.de](mail@jcgames.de).

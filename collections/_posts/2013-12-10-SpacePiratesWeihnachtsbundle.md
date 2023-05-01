@@ -11,4 +11,4 @@ Das Grundregelwerk und alle drei verfügbaren Themenhefte zu einem einmaligen So
 
 Also schlagt schnell zu, falls ihr SpacePirates schon immer mal kaufen wolltet. Natürlich ist SpacePirates auch ein ideales Geschenk für jeden Rollenspieler!
 
-Bestellen könnt ihr einfach per Mail an mail@jcgames.de.
+Bestellen könnt ihr einfach per Mail an [mail@jcgames.de](mail@jcgames.de).
