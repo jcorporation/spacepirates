@@ -122,6 +122,7 @@ sitemap.showCurrent = function() {
         }
         site = site.parentNode;
     }
+    site.scrollIntoView();
 }
 
 sitemap.fetch = async function() {
@@ -638,6 +639,7 @@ link.open = async function(event) {
     // update browser history and sitemap
     history.pushState({}, "", href);
     sitemap.showCurrent();
+    window.scrollTo(0, 0);
     // update navigation buttons in footer
     const navBottom = doc.querySelector('footer > nav > div:last-child');
     document.querySelector('footer > nav > div:last-child').replaceWith(navBottom);
