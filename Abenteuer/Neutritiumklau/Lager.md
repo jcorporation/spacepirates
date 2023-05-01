@@ -1,10 +1,8 @@
 ---
 layout: page
 permalink: /Abenteuer/Neutritiumklau/Lager
-title: Überfall eines Lagers
+title: "Überfall eines Lagers"
 ---
-
-
 
 Die Charaktere können entweder eines der beiden großen Lager in der Nähe von Katpar oder Stratum Nova überfallen, dort befindet sich auf jeden Fall genug Neutritium, oder sie überfallen ein kleineres Lager und riskieren, dass sie nicht genug Neutritium erbeuten können.
 

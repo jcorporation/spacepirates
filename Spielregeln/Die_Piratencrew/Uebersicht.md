@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/Uebersicht
-title: Übersicht der Charaktererschaffung
+title: "Übersicht der Charaktererschaffung"
 order: /000
 ---
 
