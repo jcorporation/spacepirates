@@ -613,9 +613,20 @@ var link = {};
 link.init = function(scope) {
     const as = scope.querySelectorAll('a');
     for (const a of as) {
-        a.addEventListener('click', function(event) {
-            link.open(event);
-        }, false);
+        const bsToggle = a.getAttribute('data-bs-toggle');
+        if (bsToggle !== null) {
+            if (bsToggle === 'offcanvas') {
+                a.addEventListener('click', function() {
+                    const mainMenuInit = BSN.Offcanvas.getInstance(document.getElementById('main-menu'));
+                    mainMenuInit.show();
+                }, false);
+            }
+        }
+        else {
+            a.addEventListener('click', function(event) {
+                link.open(event);
+            }, false);
+        }
     }
 }
 
@@ -635,7 +646,6 @@ link.open = async function(event) {
     }
     // prevent default action
     event.preventDefault();
-    event.stopPropagation();
     // fetch site and replace elements
     const response = await fetch(href);
     const data = await response.text();
@@ -698,6 +708,11 @@ function siteInit(scope) {
     contentInit(scope);
     siteSearch.init(scope);
     sitemap.init(scope);
+
+    const mainMenuInit = BSN.Offcanvas.getInstance(document.getElementById('main-menu'));
+    document.getElementById('main-menu-body').addEventListener('click', function() {
+        mainMenuInit.hide();
+    })
 
     if ('serviceWorker' in navigator) {
         //add serviceworker
