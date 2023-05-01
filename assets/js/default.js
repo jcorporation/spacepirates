@@ -30,6 +30,17 @@ function execFunctionByName(functionName) {
     }
 }
 
+function getYpos(el, parent) {
+    let yPos = 0;
+    while (el !== parent &&
+           el !== null
+    ) {
+        yPos += (el.offsetTop + el.clientTop);
+        el = el.offsetParent;
+    }
+    return yPos;
+}
+
 // startunes
 var startunes = {};
 
@@ -101,18 +112,25 @@ sitemap.show = function() {
     sitemap.showCurrent();
 }
 
+sitemap.scrollIntoView = function(el) {
+    const mainMenu = document.getElementById('main-menu');
+    const posY = getYpos(el, mainMenu);
+    const mainMenuBody = document.getElementById('main-menu-body');
+    mainMenuBody.scrollTop = posY - 80 - (mainMenuBody.offsetHeight / 2);
+}
+
 sitemap.showCurrent = function() {
     const path = decodeURI(window.location.pathname).replace(/[^\w]/g, '_').replace(/__/g, '_');
     const cur = sitemap.container.querySelector('.sm-current');
     if (cur !== null) {
         cur.classList.remove('sm-current');
     }
-    let site = sitemap.container.querySelector('#sitemap-' + path);
-    site.classList.add('sm-current');
-    if (site.firstChild.classList.contains('sm-expand')) {
-        sitemap.showNode(site.firstChild);
+    let siteLink = sitemap.container.querySelector('#sitemap-' + path);
+    siteLink.classList.add('sm-current');
+    if (siteLink.firstChild.classList.contains('sm-expand')) {
+        sitemap.showNode(siteLink.firstChild);
     }
-
+    let site = siteLink;
     while (site.nodeName !== 'DIV') {
         if (site.nodeName === 'UL') {
             const ex = site.previousElementSibling;
@@ -122,7 +140,7 @@ sitemap.showCurrent = function() {
         }
         site = site.parentNode;
     }
-    site.scrollIntoView();
+    sitemap.scrollIntoView(siteLink);
 }
 
 sitemap.fetch = async function() {
@@ -149,6 +167,11 @@ sitemap.init = function(scope) {
     else {
         sitemap.showCurrent();
     }
+
+    sitemapEl.addEventListener('shown.bs.tab', function() {
+        const cur = sitemap.container.querySelector('.sm-current');
+        sitemap.scrollIntoView(cur);
+    }, false);
 }
 
 // enhance tables
@@ -638,8 +661,8 @@ link.open = async function(event) {
     }
     // update browser history and sitemap
     history.pushState({}, "", href);
-    sitemap.showCurrent();
     window.scrollTo(0, 0);
+    sitemap.showCurrent();
     // update navigation buttons in footer
     const navBottom = doc.querySelector('footer > nav > div:last-child');
     document.querySelector('footer > nav > div:last-child').replaceWith(navBottom);
