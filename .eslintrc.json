@@ -6,7 +6,8 @@
     "extends": "eslint:recommended",
     "globals": {
         "randgen": true,
-        "tabellen": true
+        "tabellen": true,
+        "BSN": true
     },
     "overrides": [
     ],
