@@ -2076,10 +2076,7 @@
     "/Abenteuer/Der_grosse_Fang/Danach": 1
   },
   "faruk der sternenfahrer": {
-    "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 161
-  },
-  "faruk_der_sternenfahrer": {
-    "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 100
+    "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 261
   },
   "fast unbewohnt": {
     "/Weltraum/Sektoren/E1/Epsilon_Canabis": 10
@@ -7786,7 +7783,7 @@
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 25
   },
   "sternenfahrer": {
-    "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 161
+    "/Weltraum/Piraten/Piratencrews/Faruk_der_Sternenfahrer": 211
   },
   "sternenkarte": {
     "/Weltraum/Sternenkarte/": 110,
