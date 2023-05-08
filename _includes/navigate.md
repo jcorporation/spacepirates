@@ -22,4 +22,6 @@
             <a class="btn mi border disabled" disabled="disabled" href="#" rel="nofollow">&#xF285;</a>
         {% endif %}
     </div>
+{% else %}
+    <div class="btn-group"></div>
 {% endif %}

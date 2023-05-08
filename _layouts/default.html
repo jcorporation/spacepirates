@@ -74,8 +74,13 @@
     </div>
     <footer class="footer-bottom bg-light" id="footer">
       <nav class="container-xxl d-flex align-items-center justify-content-between pb-4">
-        <div class="btn-group">
-          <a href="https://github.com/jcorporation/spacepirates/tree/master/{{ page.path }}" class="btn border mi" title="Editieren" target="_blank" rel="nofollow">&#xF4CA;</a>
+        <div>
+          <div class="btn-group">
+            <a href="https://github.com/jcorporation/spacepirates/tree/master/{{ page.path }}" class="btn border mi" title="Editieren" target="_blank" rel="nofollow">&#xF4CA;</a>
+          </div>
+          <div class="btn-group">
+            <a id="offlineBtn" data-enabled="false" href="#" class="btn border mi" title="Offline verfügbar machen" rel="nofollow">&#xF29B;</a>
+          </div>
         </div>
         <div>
           <a class="p-2" href="https://www.jcgames.de/">
@@ -85,6 +90,14 @@
         {% include navigate.md data=page.permalink %}
       </nav>
     </footer>
+    <div class="toast-container">
+      <div id="errorToast" class="toast">
+        <div class="toast-header bg-danger text-light">
+          <strong class="mr-auto">Fehler</strong>
+        </div>
+        <div class="toast-body bg-light" id="errorText"></div>
+      </div>
+    </div>
     <script src="{{ site.baseurl }}/assets/js/bootstrap-native.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/data_names.js"></script>
     <script src="{{ site.baseurl }}/assets/js/zufallstabellen.js"></script>

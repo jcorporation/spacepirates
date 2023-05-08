@@ -124,6 +124,10 @@ karte.getInfo = async function(text, link) {
     }
 
     const response = await fetch(link);
+    if (response.status !== 200) {
+        showError('Fehler beim Aufruf von ' + link);
+        return;
+    }
     const data = await response.text();
     const parser = new DOMParser();
     const doc = parser.parseFromString(data, 'text/html');

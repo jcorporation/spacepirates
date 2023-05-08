@@ -351,6 +351,12 @@ ul.sitemap {
   border-color: var(--sp-orange);
 }
 
+.toast-container {
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+}
+
 @media (width >= 1200px) {
   aside > table {
     width: 100%;

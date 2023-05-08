@@ -1,8 +1,13 @@
 "use strict";
 
-var ignoreLinks = [
+var ignoreLinksTo = [
     "/Weltraum/Sternenkarte/"
 ];
+var ignoreLinksFrom = [
+    "/Weltraum/Sternenkarte/"
+];
+
+var toast = new BSN.Toast('#errorToast');
 
 // helper functions
 function getParent(el, parentNodeName) {
@@ -126,26 +131,32 @@ sitemap.showCurrent = function() {
         cur.classList.remove('sm-current');
     }
     const siteLink = sitemap.container.querySelector('#sitemap-' + path);
-    siteLink.classList.add('sm-current');
-    if (siteLink.firstChild.classList.contains('sm-expand')) {
-        sitemap.showNode(siteLink.firstChild);
-    }
-    let site = siteLink;
-    while (site.nodeName !== 'DIV') {
-        if (site.nodeName === 'UL') {
-            const ex = site.previousElementSibling;
-            if (ex) {
-                sitemap.showNode(ex.previousElementSibling);
-            }
+    if (siteLink) {
+        siteLink.classList.add('sm-current');
+        if (siteLink.firstChild.classList.contains('sm-expand')) {
+            sitemap.showNode(siteLink.firstChild);
         }
-        site = site.parentNode;
+        let site = siteLink;
+        while (site.nodeName !== 'DIV') {
+            if (site.nodeName === 'UL') {
+                const ex = site.previousElementSibling;
+                if (ex) {
+                    sitemap.showNode(ex.previousElementSibling);
+                }
+            }
+            site = site.parentNode;
+        }
+        sitemap.scrollIntoView(siteLink);
     }
-    sitemap.scrollIntoView(siteLink);
 }
 
 sitemap.fetch = async function() {
     try {
       const response = await fetch('/assets/html/sitemap.html');
+      if (response.status !== 200) {
+        showError('Fehler beim Aufruf von /assets/html/sitemap.html');
+        return;
+      }
       const sitemapEl = document.querySelector('#sitemap-body');
       sitemapEl.innerHTML = await response.text();
       contentInit(sitemapEl);
@@ -415,6 +426,10 @@ var siteSearch = {};
 siteSearch.fetchJSON = async function(dataFile, callback) {
     try {
       const response = await fetch('/assets/json/' + dataFile + '.json');
+      if (response.status !== 200) {
+        showError('Fehler beim Aufruf von /assets/json/' + dataFile + '.json');
+        return;
+      }
       const data = await response.json();
       siteSearch.cbFetchJSON(dataFile, data, callback);
     }
@@ -640,7 +655,10 @@ link.open = async function(event) {
     }
     // handle only site internal links
     if (href.charAt(0) !== '/' ||
-        ignoreLinks.includes(href)
+        ignoreLinksTo.includes(href) ||
+        ignoreLinksFrom.includes(window.location.pathname) ||
+        href.indexOf('/Publikationen/') === 0 ||
+        href.indexOf('/assets/') === 0
     ) {
         return;
     }
@@ -648,6 +666,10 @@ link.open = async function(event) {
     event.preventDefault();
     // fetch site and replace elements
     const response = await fetch(href);
+    if (response.status !== 200) {
+        showError('Fehler beim Aufruf von ' + href);
+        return;
+    }
     const data = await response.text();
     const parser = new DOMParser();
     const doc = parser.parseFromString(data, 'text/html');
@@ -679,6 +701,11 @@ link.open = async function(event) {
     link.init(navBottom);
 }
 
+function showError(text) {
+    document.getElementById('errorText').textContent = text;
+    toast.show();
+}
+
 function contentInit(scope) {
     randgen.init(scope);
     dice.init(scope);
@@ -703,26 +730,78 @@ function contentInit(scope) {
     }
 }
 
+async function checkServiceWorker() {
+    const swRegistration = await navigator.serviceWorker.getRegistration();
+    const offlineBtn = document.getElementById('offlineBtn');
+    if (swRegistration === undefined) {
+        offlineBtn.innerHTML = '&#xF29B;';
+        offlineBtn.title = 'Offline verfügbar machen';
+        offlineBtn.setAttribute('data-enabled', 'false');
+    }
+    else {
+        offlineBtn.innerHTML = '&#xF29A;';
+        offlineBtn.title = 'Offline verfügbar';
+        offlineBtn.setAttribute('data-enabled', 'true');
+    }
+    offlineBtn.classList.remove('disabled');
+}
+
+async function unregisterWorker() {
+    const swRegistration = await navigator.serviceWorker.getRegistration();
+    if (swRegistration === undefined) {
+        return;
+    }
+    await swRegistration.unregister();
+    caches.keys().then((keyList) => {
+        keyList.map((key) => {
+            caches.delete(key);
+        })
+    });
+    checkServiceWorker();
+}
+
 //init all
 function siteInit(scope) {
     contentInit(scope);
+
+    const mainMenuBody = document.getElementById('main-menu-body');
+    if (mainMenuBody === null) {
+        return;
+    }
+
     siteSearch.init(scope);
     sitemap.init(scope);
 
     const mainMenuInit = BSN.Offcanvas.getInstance(document.getElementById('main-menu'));
-    document.getElementById('main-menu-body').addEventListener('click', function() {
+    mainMenuBody.addEventListener('click', function() {
         mainMenuInit.hide();
-    })
+    });
 
+    const offlineBtn = document.getElementById('offlineBtn');
     if ('serviceWorker' in navigator) {
-        //add serviceworker
-        navigator.serviceWorker.register('/sw.js', {scope: '/'}).then(function(registration) {
-            //Registration was successful
-            registration.update();
-        }, function(err) {
-            //Registration failed
-            console.error('ServiceWorker registration failed: ' + err);
-        });
+        offlineBtn.classList.remove('d-none');
+        offlineBtn.addEventListener('click', function(event) {
+            event.preventDefault();
+            offlineBtn.classList.add('disabled');
+            if (offlineBtn.getAttribute('data-enabled') === 'true') {
+                unregisterWorker();
+            }
+            else {
+                //add serviceworker
+                navigator.serviceWorker.register('/sw.js', {scope: '/'}).then(function(registration) {
+                    //Registration was successful
+                    registration.update();
+                    checkServiceWorker();
+                }, function(err) {
+                    //Registration failed
+                    console.error('ServiceWorker registration failed: ' + err);
+                });
+            }
+        }, false);
+        checkServiceWorker();
+    }
+    else {
+        offlineBtn.classList.add('d-none');
     }
 }
 
