@@ -1,5 +1,6 @@
 ---
 ---
+const channel = new BroadcastChannel('sw-messages');
 const cacheName = "{{ "now" | date: "%Y-%m-%d_%H-%M" }}";
 const contentToCache = [
     {%- assign pages = site.pages %}
@@ -13,7 +14,8 @@ const contentToCache = [
     {%- for file in site.static_files %}
         {%- if file.path == '/README.md' %}{% continue %}{% endif %}
         {%- if file.path == '/CNAME' %}{% continue %}{% endif %}
-        {%- if file.path == '/spacepirates.webmanifest' %}{% continue %}{% endif %}
+        {%- if file.path contains '.pdf' %}{% continue %}{% endif %}
+        {%- if file.path contains '.mp3' %}{% continue %}{% endif %}
         "{{file.path}}"
         {%- unless forloop.last %},{%- endunless %}
     {%- endfor %}
@@ -22,8 +24,17 @@ const contentToCache = [
 self.addEventListener("install", (event) => {
     event.waitUntil(
       (async () => {
+        channel.postMessage({id: 'caching_start', message: 'Seite wird gecached.'});
         const cache = await caches.open(cacheName);
-        await cache.addAll(contentToCache);
+        try {
+          await cache.addAll(contentToCache);
+        }
+        catch(error) {
+          channel.postMessage({id: 'caching_error', message: error});
+        }
+        finally {
+          channel.postMessage({id: 'caching_finished', message: 'Seite wurde erfolgreich gecached.'});
+        }
       })()
     );
 });

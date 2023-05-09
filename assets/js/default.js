@@ -7,7 +7,8 @@ var ignoreLinksFrom = [
     "/Weltraum/Sternenkarte/"
 ];
 
-var toast = new BSN.Toast('#errorToast');
+var errorToast = new BSN.Toast('#errorToast');
+var infoToast = new BSN.Toast('#infoToast');
 
 // helper functions
 function getParent(el, parentNodeName) {
@@ -703,7 +704,12 @@ link.open = async function(event) {
 
 function showError(text) {
     document.getElementById('errorText').textContent = text;
-    toast.show();
+    errorToast.show();
+}
+
+function showInfo(text) {
+    document.getElementById('infoText').textContent = text;
+    infoToast.show();
 }
 
 function contentInit(scope) {
@@ -739,7 +745,7 @@ async function checkServiceWorker() {
         offlineBtn.setAttribute('data-enabled', 'false');
     }
     else {
-        offlineBtn.innerHTML = '&#xF29A;';
+        offlineBtn.innerHTML = '&#xF298;';
         offlineBtn.title = 'Offline verfügbar';
         offlineBtn.setAttribute('data-enabled', 'true');
     }
@@ -749,8 +755,10 @@ async function checkServiceWorker() {
 async function unregisterWorker() {
     const swRegistration = await navigator.serviceWorker.getRegistration();
     if (swRegistration === undefined) {
+        showError('Fehler beim Entfernen des ServiceWorkers.');
         return;
     }
+    showInfo('ServiceWorker wird entfernt.');
     await swRegistration.unregister();
     caches.keys().then((keyList) => {
         keyList.map((key) => {
@@ -779,6 +787,28 @@ function siteInit(scope) {
 
     const offlineBtn = document.getElementById('offlineBtn');
     if ('serviceWorker' in navigator) {
+        const channel = new BroadcastChannel('sw-messages');
+        channel.addEventListener('message', event => {
+            const offlineBtn = document.getElementById('offlineBtn');
+            switch(event.data.id) {
+                case 'caching_start':
+                    showInfo(event.data.message);
+                    offlineBtn.innerHTML = '&#xF116;';
+                    offlineBtn.title = event.data.message;
+                    offlineBtn.setAttribute('data-enabled', 'false');
+                    offlineBtn.classList.add('disabled');
+                    break;
+                case 'caching_finished':
+                    showInfo(event.data.message);
+                    offlineBtn.innerHTML = '&#xF298;';
+                    offlineBtn.title = 'Offline verfügbar';
+                    offlineBtn.setAttribute('data-enabled', 'true');
+                    offlineBtn.classList.remove('disabled');
+                    break;
+                default:
+                    showError(event.data.message);
+            }
+        });
         offlineBtn.classList.remove('d-none');
         offlineBtn.addEventListener('click', function(event) {
             event.preventDefault();
@@ -791,7 +821,6 @@ function siteInit(scope) {
                 navigator.serviceWorker.register('/sw.js', {scope: '/'}).then(function(registration) {
                     //Registration was successful
                     registration.update();
-                    checkServiceWorker();
                 }, function(err) {
                     //Registration failed
                     console.error('ServiceWorker registration failed: ' + err);
