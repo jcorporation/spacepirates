@@ -65,7 +65,6 @@ startunes.play = function(event) {
     startunes.songEl.textContent = 'Lade...';
     startunes.songName = event.target.textContent;
     startunes.audioEl.load();
-    
 }
 
 startunes.init = function() {
@@ -153,18 +152,18 @@ sitemap.showCurrent = function() {
 
 sitemap.fetch = async function() {
     try {
-      const response = await fetch('/assets/html/sitemap.html');
-      if (response.status !== 200) {
-        showError('Fehler beim Aufruf von /assets/html/sitemap.html');
-        return;
-      }
-      const sitemapEl = document.querySelector('#sitemap-body');
-      sitemapEl.innerHTML = await response.text();
-      contentInit(sitemapEl);
-      sitemap.show();
+        const response = await fetch('/assets/html/sitemap.html');
+        if (response.status !== 200) {
+            showError('Fehler beim Aufruf von /assets/html/sitemap.html');
+            return;
+        }
+        const sitemapEl = document.querySelector('#sitemap-body');
+        sitemapEl.innerHTML = await response.text();
+        contentInit(sitemapEl);
+        sitemap.show();
     }
-    catch (err) {
-      console.log(err);
+    catch(error) {
+        showError(error);
     }
 }
 
@@ -426,16 +425,16 @@ var siteSearch = {};
 
 siteSearch.fetchJSON = async function(dataFile, callback) {
     try {
-      const response = await fetch('/assets/json/' + dataFile + '.json');
-      if (response.status !== 200) {
-        showError('Fehler beim Aufruf von /assets/json/' + dataFile + '.json');
-        return;
-      }
-      const data = await response.json();
-      siteSearch.cbFetchJSON(dataFile, data, callback);
+        const response = await fetch('/assets/json/' + dataFile + '.json');
+        if (response.status !== 200) {
+            showError('Fehler beim Aufruf von /assets/json/' + dataFile + '.json');
+            return;
+        }
+        const data = await response.json();
+        siteSearch.cbFetchJSON(dataFile, data, callback);
     }
-    catch (err) {
-      console.log(err);
+    catch(error) {
+        showError(error);
     }
 }
 
@@ -789,7 +788,6 @@ function siteInit(scope) {
     if ('serviceWorker' in navigator) {
         const channel = new BroadcastChannel('sw-messages');
         channel.addEventListener('message', event => {
-            const offlineBtn = document.getElementById('offlineBtn');
             switch(event.data.id) {
                 case 'caching_start':
                     showInfo(event.data.message);
@@ -820,10 +818,11 @@ function siteInit(scope) {
                 //add serviceworker
                 navigator.serviceWorker.register('/sw.js', {scope: '/'}).then(function(registration) {
                     //Registration was successful
+                    showInfo('Registrierung des ServiceWorkers war erfolgreich.');
                     registration.update();
-                }, function(err) {
+                }, function(error) {
                     //Registration failed
-                    console.error('ServiceWorker registration failed: ' + err);
+                    showError('Registrierung des ServiceWorkers fehlgeschlagen: ' + error);
                 });
             }
         }, false);

@@ -23,47 +23,47 @@ const contentToCache = [
 
 self.addEventListener("install", (event) => {
     event.waitUntil(
-      (async () => {
-        channel.postMessage({id: 'caching_start', message: 'Seite wird gecached.'});
-        const cache = await caches.open(cacheName);
-        try {
-          await cache.addAll(contentToCache);
-        }
-        catch(error) {
-          channel.postMessage({id: 'caching_error', message: error});
-        }
-        finally {
-          channel.postMessage({id: 'caching_finished', message: 'Seite wurde erfolgreich gecached.'});
-        }
-      })()
+        (async() => {
+            channel.postMessage({id: 'caching_start', message: 'Seite wird gecached.'});
+            const cache = await caches.open(cacheName);
+            try {
+                await cache.addAll(contentToCache);
+            }
+            catch(error) {
+                channel.postMessage({id: 'caching_error', message: error});
+            }
+            finally {
+                channel.postMessage({id: 'caching_finished', message: 'Seite wurde erfolgreich gecached.'});
+            }
+        })()
     );
 });
 
 self.addEventListener("fetch", (event) => {
     event.respondWith(
-      (async () => {
-        const cache = await caches.open(cacheName);
-        const cache_response = await cache.match(event.request);
-        if (cache_response) {
-          return cache_response;
-        }
-        const response = await fetch(event.request);
-        return response;
-      })()
+        (async() => {
+            const cache = await caches.open(cacheName);
+            const cache_response = await cache.match(event.request);
+            if (cache_response) {
+                return cache_response;
+            }
+            const response = await fetch(event.request);
+            return response;
+        })()
     );
 });
 
 self.addEventListener("activate", (event) => {
     event.waitUntil(
-      caches.keys().then((keyList) => {
-        return Promise.all(
-          keyList.map((key) => {
-            if (key === cacheName) {
-              return;
-            }
-            return caches.delete(key);
-          })
-        );
-      })
+        caches.keys().then((keyList) => {
+            return Promise.all(
+                keyList.map((key) => {
+                    if (key === cacheName) {
+                        return;
+                    }
+                    return caches.delete(key);
+                })
+            );
+        })
     );
 });
