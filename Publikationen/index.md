@@ -300,7 +300,7 @@ Dies ist die erste Version von SpacePirates.
                     <div class="col">
                         <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
                         <p>DIN A3</p>
-                        <p>Preis: 1,- EUR</p>
+                        <p>Preis: ausverkauft</p>
                     </div>
                 </div>
             </div>
