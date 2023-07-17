@@ -46,10 +46,6 @@ Durch das Erleben von Abenteuern sammeln die Charaktere Erfahrung und können si
 
 SpacePirates verwendet einen einheitlichen Lösungsansatz für alle Arten von Konflikten, der vom Handel, über eine Kneipenschlägerei bis hin zum Raumkampf angewendet wird. Um Konflikte aufzulösen wird gewürfelt, wie viele Würfel geworfen werden, hängt vom eingesetzten Profil und Ausrüstung ab. Jeder Würfel hat dabei eine 50%ige Chance, einen Erfolg anzuzeigen (gerade Zahl). Wie viel Erfolge benötigt werden, hängt von der gegnerischen Partei oder der Schwierigkeit der Handlung ab. Jeder Konflikt wird dabei nur mit einem Wurf jedes Beteiligten abgehandelt, bei wichtigen Konflikten werden die Ereignisse danach gemeinsam nacherzählt, wobei Erfolgswürfel für positive und Misserfolgswürfel für negative Aspekte stehen.
 
-## Dieses Buch
-
-Dieses Buch enthält alles, um das erste Abenteuer im SpacePirates-Universum zu erleben. Im ersten Teil des Buches wird das Universum von SpacePirates beschrieben: Von bekannten Piratenstationen über Weltraumphänomenen bis hin zu den bunten Alienrassen, beschreibt dieser Teil alles, um sich im Universum zurechtzufinden. Im zweiten Teil werden die Spielregeln von SpacePirates erklärt: Wie eine Piratencrew erschaffen wird, wie ein Abenteuer abläuft und Konflikte aufgelöst werden. Zudem erhält der Spielleiter Tipps, wie er Abenteuer vorbereitet und eigene schreiben kann. Im Anhang befindet sich auch gleich ein erstes Abenteuer für SpacePirates. Viele weitere Abenteuer gibt es im Abenteuerband für SpacePirates und auf der Homepage als PDF.
-
 ***
 
 - [Lite](https://lite.jcgames.de)
