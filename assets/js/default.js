@@ -664,6 +664,10 @@ link.open = async function(event) {
     }
     // prevent default action
     event.preventDefault();
+    link.fetch(href);
+}
+
+link.fetch = async function(href) {
     // fetch site and replace elements
     const response = await fetch(href);
     if (response.status !== 200) {
@@ -775,6 +779,11 @@ function siteInit(scope) {
     if (mainMenuBody === null) {
         return;
     }
+
+    window.addEventListener('popstate', function() {
+        // The popstate event is fired each time when the current history entry changes.
+        link.fetch(window.location.pathname);
+    }, false);
 
     siteSearch.init(scope);
     sitemap.init(scope);
