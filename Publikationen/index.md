@@ -5,7 +5,7 @@ title: Publikationen
 icon: "&#xF194;"
 ---
 
-Damit niemand die Katze im Sack kaufen muss, gibt es alle SpacePirates Publikationen als kostenlose PDF. Die Bücher können direkt bei mir per Mail an [mail@jcgames.de](mailto:mail@jcgames.de) erstanden werden.
+SpacePirates wird aktuell nur online entwickelt und publiziert, es gibt keine aktuellen PDF oder Bücher. Ältere Versionen von SpacePirates findet ihr hier als kostenlose PDF. Wer noch etwas nostalgisch ist, kann den alten Abenteuersammelband erwerben. Schreib dazu einfach eine kurze Mail an [mail@jcgames.de](mailto:mail@jcgames.de).
 
 Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu SpacePirates. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt) zu SpacePirates.
 
@@ -13,7 +13,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
 
 ## SpacePirates NG
 
-Dies wird die neue Version von SpacePirates, alle PDFs sind Previews. Der genaue Titel steht noch nicht fest.
+Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht fest. Alle Texte dieser Version stehen momentan nur online zur Verfügung, aktuelle PDFs gibt es nur von der Sternenkarte und dem Piraten- und Raumschiffbogen.
 
 <div class="row row-cols-1 row-cols-sm-2 g-4">
     <div class="col">
@@ -32,6 +32,25 @@ Dies wird die neue Version von SpacePirates, alle PDFs sind Previews. Der genaue
             </div>
             <div class="card-footer bg-yellow">
                 &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/sp-karte_2023-02-05.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Piraten- und Raumschiffbogen</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv5.webp" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Der Piraten- und Raumschiffbogen als PDF.</p>
+                        <p>DIN A4</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/piratenbogen_2023-07-18.pdf">Kostenlos herunterladen</a>
             </div>
         </div>
     </div>
