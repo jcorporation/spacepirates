@@ -173,9 +173,9 @@
     "/Abenteuer/Zeitraub/Marmonen": 25
   },
   "aktuelle": {
+    "/Publikationen/": 1,
     "/Weltraum/": 1,
-    "/Weltraum/Historie": 1,
-    "/Weltraum/Konzerne/NAKGF": 1
+    "/Weltraum/Historie": 1
   },
   "al banchigo": {
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 152
@@ -5281,6 +5281,7 @@
     "/Weltraum/Piraten/Piratencrews/Tanaka_Mao": 10,
     "/Weltraum/Piraten/Piratencrews/Zamtor": 10,
     "/Weltraum/Piraten/Treffpunkte/Gimis_Bar": 10,
+    "/Publikationen/": 9,
     "/StarTunes/Lyrics": 9,
     "/Abenteuer/Buschraub/Bahir": 8,
     "/Abenteuer/Zeitraub/Auftrag": 8,
@@ -5289,7 +5290,6 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 7,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 7,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 6,
-    "/Publikationen/": 6,
     "/Abenteuer/Der_grosse_Fang/Danach": 5,
     "/Abenteuer/Dungeonplanet/Ebene1": 5,
     "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": 5,
@@ -5902,7 +5902,7 @@
     "/Weltraum/Piraten/Treffpunkte/Freeport": 26
   },
   "publikationen": {
-    "/Publikationen/": 111
+    "/Publikationen/": 110
   },
   "puugle": {
     "/Weltraum/Konzerne/Puugle_Incorporated": 52,
@@ -7788,7 +7788,7 @@
   "sternenkarte": {
     "/Weltraum/Sternenkarte/": 110,
     "/Abenteuer/Blumenkind/Einstieg": 25,
-    "/Publikationen/": 6,
+    "/Publikationen/": 7,
     "/Abenteuer/Blumenkind/": 1
   },
   "sternenleere": {
