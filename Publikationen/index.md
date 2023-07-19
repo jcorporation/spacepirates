@@ -13,7 +13,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
 
 ## SpacePirates NG
 
-Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht fest. Alle Texte dieser Version stehen momentan nur online zur Verfügung, aktuelle PDFs gibt es nur von der Sternenkarte und dem Piraten- und Raumschiffbogen.
+Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht fest. Alle Texte dieser Version stehen momentan nur online zur Verfügung, aktuelle PDF gibt es nur von der Sternenkarte und dem Piraten- und Raumschiffbogen.
 
 <div class="row row-cols-1 row-cols-sm-2 g-4">
     <div class="col">
