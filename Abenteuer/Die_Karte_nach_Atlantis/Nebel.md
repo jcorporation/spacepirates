@@ -4,8 +4,6 @@ permalink: /Abenteuer/Die_Karte_nach_Atlantis/Nebel
 title: Nebel von Atlantis
 ---
 
-
-
 Direkt vor dem Piratenraumschiff befindet sich der Nebel, in einiger Entfernung hinter ihnen die Raumzeitverschiebung. Sie scheinen in eine andere Zeit oder in einen weit entfernten Sektor katapultiert worden zu sein.
 
 Der Nebel leuchtet in einem hellen Azur, es scheine regelmäßige Wellen durch ihn zu laufen, die aus der Mitte kommen. Der Nebel ist von den Sensoren kaum zu durchdringen und hat etwa einen Durchmesser von 120.000 km.
@@ -42,6 +40,7 @@ Wegen der geringen Reichweite der Sensoren ist es nicht zu empfehlen, mit FTL in
 <tr><td>FTL1</td><td>9</td></tr>
 </tbody>
 </table>
+
 ## Leviathan
 
 Im Nebel von Atlantis lebt ein gewaltiger Leviathan, ein bläuliches, schlangenförmiges Wesen, das vorne ein riesiges Maul mit spitzen Zähnen besitzt. Das Maul ist so groß, dass der Leviathan sogar kleinere Frachtschiffe mit einem Happs verschlucken kann und genau das wird er auch versuchen, wenn das Piratenschiff in den Nebel fliegt. Der Leviathan wird durch die Schwingungen, die das Raumschiff verursacht, angelockt und wird es sofort angreifen. Er besitzt keine Intelligenz und keine Augen. Er kann das Schiff nur durch seine Geräusche und Energiesignaturen im Nebel ausmachen, das aber in einem Umkreis von 6000 km.
