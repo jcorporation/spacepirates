@@ -5,7 +5,7 @@ title: Publikationen
 icon: "&#xF194;"
 ---
 
-SpacePirates wird aktuell nur online entwickelt und publiziert, es gibt keine aktuellen PDF oder Bücher. Ältere Versionen von SpacePirates findet ihr hier als kostenlose PDF. Wer noch etwas nostalgisch ist, kann den alten Abenteuersammelband erwerben. Schreib dazu einfach eine kurze Mail an [mail@jcgames.de](mailto:mail@jcgames.de).
+SpacePirates wird aktuell nur online entwickelt und publiziert, es gibt keine aktuellen PDF oder Bücher. Ältere Versionen von SpacePirates findet ihr hier als kostenlose PDF.
 
 Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu SpacePirates. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt) zu SpacePirates.
 
@@ -94,7 +94,7 @@ Dies ist die dritte Version von SpacePirates.
                     <div class="col">
                         <p>Das SpacePirates Universum auf einer A3 Karte, die auf A5 faltbar ist.</p>
                         <p>DIN A3</p>
-                        <p>Preis: 1,- EUR</p>
+                        <p>Preis: ausverkauft</p>
                     </div>
                 </div>
             </div>
@@ -132,7 +132,7 @@ Dies ist die dritte Version von SpacePirates.
                     </div>
                     <div class="col">
                         <p>StarTunes in einer schicken CD-Box.</p>
-                        <p>Preis: 7,- EUR</p>
+                        <p>Preis: ausverkauft</p>
                     </div>
                 </div>
             </div>
@@ -231,7 +231,7 @@ Dies ist die zweite Version von SpacePirates.
                     <div class="col">
                         <p>Ein Sammelband mit 14 SpacePirates Abenteuern, die jeweils in 1-2 Abenden durchgespielt werden können.</p>
                         <p>DIN A5 Hardcover, 116 Seiten</p>
-                        <p>Preis: 5,- EUR</p>
+                        <p>Preis: ausverkauft</p>
                     </div>
                 </div>
             </div>
