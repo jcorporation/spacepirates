@@ -15,7 +15,15 @@ export default [
             reportUnusedDisableDirectives: "off"
         },
         languageOptions: {
-            sourceType: "script"
+            sourceType: "script",
+            globals: {
+                ...globals.browser,
+                "Atomics": "readonly",
+                "SharedArrayBuffer": "readonly",
+                "BSN": true,
+                "tabellen": true,
+                "randgen": true
+            }
         },
         rules: {
             "block-scoped-var": "error",
