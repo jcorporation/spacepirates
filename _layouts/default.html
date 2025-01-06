@@ -16,15 +16,20 @@
     <link href="{{ site.baseurl }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.title }}"/>
   </head>
   <body>
-    <header id="top-bar" class="navbar py-2 mb-0 bg-yellow sticky-top">
+    <header id="top-bar" class="navbar pt-2 pb-0 mb-2 bg-yellow sticky-top">
       <div class="container-xxl flex-nowrap">
         <div class="btn-group yellow" id="main-menu-btn">
           <a data-bs-toggle="offcanvas" id="main-menu-toggle" href="#main-menu" class="btn mi me-3">&#xF479;</a>
         </div>
-        <nav class="breadcrumb flex-wrap flex-grow-1 mb-0 justify-content-start me-3">
+        <div class="flex-grow-1 text-center">
+          <img src="{{ site.baseurl }}/assets/images/logo-schriftzug-web-black.svg" heigth="30">
+        </div>
+        {% include navigate.md data=page.permalink class="yellow" %}
+      </div>
+      <div class="container-fluid flex-nowrap bg-white mt-2">
+        <nav class="container-xxl breadcrumb flex-wrap mb-0">
           {% include breadcrumbs.md %}
         </nav>
-        {% include navigate.md data=page.permalink class="yellow" %}
       </div>
     </header>
     <div class="container-xxl py-2 flex-grow-1 pt-0">
