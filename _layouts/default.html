@@ -22,13 +22,15 @@
           <a data-bs-toggle="offcanvas" id="main-menu-toggle" href="#main-menu" class="btn mi me-3">&#xF479;</a>
         </div>
         <div class="flex-grow-1 text-center">
-          <img src="{{ site.baseurl }}/assets/images/logo-icon-web-black.svg" heigth="30"/>
+          <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/logo-icon-web-black.svg" heigth="30"/></a>
         </div>
         {% include navigate.md data=page.permalink class="yellow" %}
       </div>
-      <div class="container-fluid flex-nowrap bg-white mt-2">
-        <nav class="container-xxl breadcrumb flex-wrap mb-0">
-          {% include breadcrumbs.md %}
+      <div class="container-fluid flex-nowrap bg-white mt-2 px-0">
+        <nav class="container-xxl flex-wrap mb-0">
+          <div class="breadcrumb mb-0 py-2">
+            {% include breadcrumbs.md %}
+          </div>
         </nav>
       </div>
     </header>
