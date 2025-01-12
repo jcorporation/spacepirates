@@ -288,9 +288,7 @@
   "anschlag": {
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 100,
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 50,
-    "/Abenteuer/Rache_des_Akamachi-Clans/": 2,
-    "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 2,
-    "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf": 1
+    "/Abenteuer/Rache_des_Akamachi-Clans/": 2
   },
   "antigravitation": {
     "/Weltraum/Technologie/": 25,
@@ -402,19 +400,18 @@
   },
   "atlantis": {
     "/Weltraum/Aliens/Atlanter/Atlantis": 423,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 59,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 58,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 54,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Nebel": 52,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Nebel": 51,
     "/Abenteuer/": 26,
     "/Weltraum/Aliens/Atlanter/": 12,
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 6,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 5,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 2,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 4,
     "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Rebellen": 1,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl": 1,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 1,
     "/Weltraum/Freihandelszone/System_der_Traeume/Avantgardia": 1
@@ -440,7 +437,7 @@
   "aufloesung": {
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung": 100,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/": 1,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 1
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 1
   },
   "auftrag": {
     "/Abenteuer/Weihnachten/Auftrag": 102,
@@ -451,18 +448,7 @@
     "/Abenteuer/": 3,
     "/Abenteuer/Ideen/SpaceNinjas": 2,
     "/Abenteuer/Weihnachten/": 2,
-    "/Abenteuer/Zeitraub/Nachforschungen": 2,
-    "/Abenteuer/Buschraub/": 1,
-    "/Abenteuer/Buschraub/Ende": 1,
-    "/Abenteuer/Buschraub/Eris": 1,
-    "/Abenteuer/Buschraub/JCTech_IAG": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 1,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 1,
-    "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": 1,
-    "/Abenteuer/Ideen/SpaceWorms": 1,
-    "/Abenteuer/Neutritiumklau/Auftrag": 1,
-    "/Abenteuer/Rache_des_Akamachi-Clans/": 1,
-    "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler": 1
+    "/Abenteuer/Buschraub/": 1
   },
   "auftraggeber": {
     "/Abenteuer/Zeitraub/Uebersicht": 26,
@@ -474,16 +460,16 @@
     "/Abenteuer/Neutritiumklau/Auftrag": 100,
     "/Abenteuer/Zeitraub/Auftrag": 100,
     "/Abenteuer/Zeitraub_II/Auftragserteilung": 100,
-    "/Abenteuer/Zeitraub/Uebersicht": 26,
+    "/Abenteuer/Zeitraub/Uebersicht": 25,
     "/Abenteuer/Neutritiumklau/": 1
   },
   "auftritt": {
-    "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler": 52,
-    "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen": 52,
-    "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": 52,
-    "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 52,
-    "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 51,
-    "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": 51,
+    "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 50,
+    "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler": 50,
+    "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen": 50,
+    "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": 50,
+    "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 50,
+    "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": 50,
     "/Abenteuer/Wagonian_Wedding/": 6,
     "/Weltraum/Promis": 3,
     "/Abenteuer/": 1
@@ -698,7 +684,7 @@
   },
   "bauteil": {
     "/Abenteuer/Zeitraub/Bauteil": 52,
-    "/Abenteuer/Zeitraub/Ueberfall": 28,
+    "/Abenteuer/Zeitraub/Ueberfall": 27,
     "/Abenteuer/Zeitraub/Uebersicht": 2,
     "/Abenteuer/Zeitraub/": 1
   },
@@ -898,7 +884,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 82,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 27,
     "/Publikationen/": 26,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 3,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 2,
     "/Abenteuer/Der_grosse_Fang/Einstieg": 1
   },
   "birgit": {
@@ -943,8 +929,8 @@
     "/Abenteuer/Blumenkind/": 104,
     "/Abenteuer/Blumenkind/Blumenkind": 54,
     "/Abenteuer/": 26,
-    "/Abenteuer/Blumenkind/Doradus": 3,
     "/Abenteuer/Blumenkind/Einstieg": 3,
+    "/Abenteuer/Blumenkind/Doradus": 2,
     "/Abenteuer/Blumenkind/SWIP": 2,
     "/Abenteuer/Blumenkind/Woodstock": 2,
     "/Abenteuer/Blumenkind/Zeitleiste": 2,
@@ -1127,8 +1113,7 @@
   "ceti": {
     "/Abenteuer/Buschraub/Nova_Ceti": 55,
     "/Weltraum/Aliens/Samnesen/Nova_Ceti": 53,
-    "/Abenteuer/Buschraub/Sperrzone": 28,
-    "/Abenteuer/Buschraub/Ende": 2,
+    "/Abenteuer/Buschraub/Sperrzone": 27,
     "/Abenteuer/Buschraub/": 1
   },
   "chamberlain": {
@@ -1391,7 +1376,6 @@
   "dimensionsriss": {
     "/Weltraum/Weltraumphaenomene/Dimensionsriss": 251,
     "/Abenteuer/Buschraub/Dimensionsriss": 101,
-    "/Abenteuer/Buschraub/Eris": 2,
     "/Abenteuer/Buschraub/Sperrzone": 2,
     "/Weltraum/Aliens/Samnesen/Sperrzone": 2,
     "/Abenteuer/Buschraub/": 1
@@ -1485,8 +1469,7 @@
     "/Abenteuer/Blumenkind/Doradus": 52,
     "/Abenteuer/Blumenkind/": 2,
     "/Abenteuer/Blumenkind/Einstieg": 2,
-    "/Abenteuer/Blumenkind/Woodstock": 2,
-    "/Abenteuer/Blumenkind/Blumenkind": 1
+    "/Abenteuer/Blumenkind/SWIP": 1
   },
   "download": {
     "/Abenteuer/Blumenkind/": 25,
@@ -1534,8 +1517,8 @@
   },
   "drachenhort": {
     "/Abenteuer/SpaceDrache/Drachenhort": 102,
-    "/Abenteuer/SpaceDrache/Ende": 2,
-    "/Abenteuer/SpaceDrache/": 1
+    "/Abenteuer/SpaceDrache/": 1,
+    "/Abenteuer/SpaceDrache/Ende": 1
   },
   "drachenpersoenlichkeit": {
     "/Abenteuer/SpaceDrache/SpaceDrache": 27
@@ -1624,8 +1607,8 @@
   },
   "ebene": {
     "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Gefaengnisebenen": 79,
-    "/Abenteuer/Dungeonplanet/Ebene1": 52,
-    "/Abenteuer/Dungeonplanet/Ebene2": 51,
+    "/Abenteuer/Dungeonplanet/Ebene1": 51,
+    "/Abenteuer/Dungeonplanet/Ebene2": 50,
     "/Abenteuer/Dungeonplanet/": 2,
     "/Abenteuer/Blumenkind/Doradus": 1
   },
@@ -1660,8 +1643,7 @@
   },
   "effects": {
     "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": 50,
-    "/Abenteuer/Wagonian_Wedding/": 1,
-    "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen": 1
+    "/Abenteuer/Wagonian_Wedding/": 1
   },
   "egg": {
     "/Abenteuer/Ostern/Loesung": 28,
@@ -1718,8 +1700,7 @@
   },
   "einleitung hein the mono": {
     "/Abenteuer/Wagonian_Wedding/Einleitung": 100,
-    "/Abenteuer/Wagonian_Wedding/": 1,
-    "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
+    "/Abenteuer/Wagonian_Wedding/": 1
   },
   "einsiedler": {
     "/Abenteuer/Der_grosse_Fang/Chinese": 12,
@@ -1750,8 +1731,8 @@
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 27,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 25,
     "/Abenteuer/Blumenkind/": 1,
-    "/Abenteuer/Blumenkind/Zeitleiste": 1,
-    "/Abenteuer/Buschraub/": 1
+    "/Abenteuer/Buschraub/": 1,
+    "/Abenteuer/Buschraub/Nova_Ceti": 1
   },
   "eisgalaxis": {
     "/Weltraum/Aliens/SpaceYetis/Eisgalaxis": 252,
@@ -1806,12 +1787,12 @@
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Einstieg": 1,
     "/Abenteuer/Buschraub/Nachforschungen": 1,
-    "/Abenteuer/Buschraub/Nova_Ceti": 1,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1,
-    "/Abenteuer/Halloween/": 1
+    "/Abenteuer/Halloween/": 1,
+    "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": 1,
+    "/Abenteuer/Laborratten/Railroading/Schatzinsel": 1
   },
   "ende des ychromosoms": {
     "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25
@@ -1981,7 +1962,6 @@
   "eris": {
     "/Abenteuer/Buschraub/Eris": 283,
     "/Abenteuer/Buschraub/Nachforschungen": 28,
-    "/Abenteuer/Buschraub/JCTech_IAG": 2,
     "/Abenteuer/Buschraub/": 1
   },
   "eris wohnung": {
@@ -1997,15 +1977,13 @@
   },
   "erste": {
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 51,
-    "/Abenteuer/Schatzjagd/Einstieg": 2,
-    "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": 2,
     "/Publikationen/": 2,
     "/Abenteuer/Laborratten/Einstieg": 1
   },
   "erste piratengruppe": {
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 101,
-    "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": 2,
-    "/Abenteuer/Schatzjagd/": 1
+    "/Abenteuer/Schatzjagd/": 1,
+    "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": 1
   },
   "erster": {
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 25,
@@ -2019,8 +1997,7 @@
   },
   "eskorte": {
     "/Abenteuer/Weihnachten/Eskorte": 100,
-    "/Abenteuer/Weihnachten/": 1,
-    "/Abenteuer/Weihnachten/Knecht_Ruprecht": 1
+    "/Abenteuer/Weihnachten/": 1
   },
   "eunuchen": {
     "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten": 176,
@@ -2482,8 +2459,7 @@
   },
   "giftmuellentsorgung": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 100,
-    "/Abenteuer/Die_Karte_nach_Atlantis/": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1
+    "/Abenteuer/Die_Karte_nach_Atlantis/": 1
   },
   "gilbert rogers": {
     "/Weltraum/Konzerne/SpaceResearch": 170
@@ -2771,7 +2747,6 @@
   },
   "hafen": {
     "/Abenteuer/Laborratten/Railroading/Hafen": 51,
-    "/Abenteuer/Laborratten/Loesung": 2,
     "/Abenteuer/Laborratten/Railroading/": 2,
     "/Abenteuer/Laborratten/": 1
   },
@@ -2955,8 +2930,7 @@
   "hein": {
     "/Abenteuer/Wagonian_Wedding/Einleitung": 51,
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 26,
-    "/Abenteuer/Wagonian_Wedding/": 3,
-    "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
+    "/Abenteuer/Wagonian_Wedding/": 3
   },
   "hein mono": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 175,
@@ -3008,7 +2982,6 @@
   "herz": {
     "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": 50,
     "/Abenteuer/Wagonian_Wedding/": 2,
-    "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 2,
     "/Abenteuer/Der_grosse_Fang/Portal": 1
   },
   "heuraum": {
@@ -3041,7 +3014,6 @@
   },
   "hintergrundinformationen": {
     "/Abenteuer/SpaceDrache/Hintergrund": 100,
-    "/Abenteuer/SpaceDrache/Einstieg": 1,
     "/Abenteuer/Zeitraub/Ueberfall": 1
   },
   "hinweise": {
@@ -3134,12 +3106,9 @@
     "/Abenteuer/Buschraub/Nova_Ceti": 26,
     "/Abenteuer/Buschraub/Eris": 3,
     "/Abenteuer/Buschraub/": 2,
-    "/Abenteuer/Buschraub/Nachforschungen": 2,
     "/Abenteuer/Buschraub/SWIP": 2,
     "/Weltraum/Menschen/Foederation/Omar": 2,
-    "/Abenteuer/": 1,
-    "/Abenteuer/Buschraub/Sperrzone": 1,
-    "/Weltraum/Freihandelszone/Handelsrat": 1
+    "/Abenteuer/": 1
   },
   "ideenhalde": {
     "/Ideenhalde/": 110
@@ -3343,7 +3312,7 @@
     "/Weltraum/Piraten/Treffpunkte/Freeport": 1
   },
   "javar": {
-    "/Abenteuer/Zeitraub_II/Reise": 78,
+    "/Abenteuer/Zeitraub_II/Reise": 77,
     "/Weltraum/Neutrale_Zone/Javar_3": 52,
     "/Abenteuer/Zeitraub_II/Javar_3": 50,
     "/Abenteuer/Zeitraub/Nachforschungen": 33,
@@ -3352,7 +3321,7 @@
   },
   "javar 3": {
     "/Weltraum/Neutrale_Zone/Javar_3": 251,
-    "/Abenteuer/Zeitraub_II/Reise": 78,
+    "/Abenteuer/Zeitraub_II/Reise": 77,
     "/Abenteuer/Zeitraub_II/Javar_3": 50,
     "/Abenteuer/Zeitraub/Nachforschungen": 33,
     "/Abenteuer/Zeitraub/Ueberfall": 28,
@@ -3372,12 +3341,9 @@
     "/Abenteuer/Buschraub/Nova_Ceti": 26,
     "/Abenteuer/Buschraub/Eris": 3,
     "/Abenteuer/Buschraub/": 2,
-    "/Abenteuer/Buschraub/Nachforschungen": 2,
     "/Abenteuer/Buschraub/SWIP": 2,
     "/Weltraum/Menschen/Foederation/Omar": 2,
-    "/Abenteuer/": 1,
-    "/Abenteuer/Buschraub/Sperrzone": 1,
-    "/Weltraum/Freihandelszone/Handelsrat": 1
+    "/Abenteuer/": 1
   },
   "jctech iag": {
     "/Weltraum/Konzerne/JCTech_IAG": 253,
@@ -3386,12 +3352,9 @@
     "/Abenteuer/Buschraub/Nova_Ceti": 26,
     "/Abenteuer/Buschraub/Eris": 3,
     "/Abenteuer/Buschraub/": 2,
-    "/Abenteuer/Buschraub/Nachforschungen": 2,
     "/Abenteuer/Buschraub/SWIP": 2,
     "/Weltraum/Menschen/Foederation/Omar": 2,
-    "/Abenteuer/": 1,
-    "/Abenteuer/Buschraub/Sperrzone": 1,
-    "/Weltraum/Freihandelszone/Handelsrat": 1
+    "/Abenteuer/": 1
   },
   "jctech iag swip": {
     "/Abenteuer/Buschraub/Nova_Ceti": 25
@@ -3454,9 +3417,9 @@
     "/Weltraum/SpaceNinjas/Clans/Leiser-Wind-des-Schicksals-Dojo": 10,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/": 3,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 2,
-    "/Abenteuer/Weihnachten_II/Santa_24": 2,
     "/Abenteuer/": 1,
-    "/Abenteuer/Ideen/SpaceNinjas": 1
+    "/Abenteuer/Ideen/SpaceNinjas": 1,
+    "/Abenteuer/Rache_des_Akamachi-Clans/": 1
   },
   "kabukichoprimes": {
     "/Weltraum/SpaceNinjas/Clans/Hattori-Hanzo-Akademie": 2,
@@ -3621,8 +3584,7 @@
   },
   "karte des labors": {
     "/Abenteuer/Zeitraub_II/Laborkarte": 100,
-    "/Abenteuer/Zeitraub_II/": 1,
-    "/Abenteuer/Zeitraub_II/Javar_3": 1
+    "/Abenteuer/Zeitraub_II/": 1
   },
   "karte nach atlantis": {
     "/Abenteuer/Die_Karte_nach_Atlantis/": 50,
@@ -3739,13 +3701,11 @@
   "knecht": {
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 79,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 7,
-    "/Abenteuer/Weihnachten/Santa_24": 2,
     "/Abenteuer/Weihnachten/": 1
   },
   "knecht ruprecht": {
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 278,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 4,
-    "/Abenteuer/Weihnachten/Santa_24": 2,
     "/Abenteuer/Weihnachten/": 1
   },
   "kneipenbesitzer": {
@@ -3790,8 +3750,7 @@
   },
   "komplikationen": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 101,
-    "/Abenteuer/Die_Karte_nach_Atlantis/": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 1
+    "/Abenteuer/Die_Karte_nach_Atlantis/": 1
   },
   "konflikt": {
     "/Spielregeln/Abenteuer_erleben/Konflikte/": 105,
@@ -3887,7 +3846,6 @@
     "/Abenteuer/Schatz_von_Menkar/Koordinaten": 51,
     "/Abenteuer/Buschraub/Einstieg": 28,
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 3,
-    "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Rebellen": 1
   },
   "kozel": {
@@ -3976,8 +3934,8 @@
   },
   "labors": {
     "/Abenteuer/Zeitraub_II/Laborkarte": 51,
-    "/Abenteuer/Zeitraub_II/Javar_3": 2,
-    "/Abenteuer/SpaceDrache/John_Marric": 1
+    "/Abenteuer/SpaceDrache/John_Marric": 1,
+    "/Abenteuer/Zeitraub_II/": 1
   },
   "labortrakt": {
     "/Abenteuer/Halloween/Station": 26,
@@ -4039,11 +3997,11 @@
   "lea": {
     "/Abenteuer/SpaceDrache/Prinzessin_Lea": 51,
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 30,
-    "/Abenteuer/SpaceDrache/Spuren": 28,
+    "/Abenteuer/SpaceDrache/Spuren": 27,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 4,
-    "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 3,
     "/Abenteuer/SpaceDrache/": 2,
     "/Abenteuer/SpaceDrache/SpaceDrache": 2,
+    "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 2,
     "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": 2,
     "/Abenteuer/": 1
   },
@@ -4144,8 +4102,7 @@
   },
   "loesungsmoeglichkeiten": {
     "/Abenteuer/Ostern/Loesung": 100,
-    "/Abenteuer/Ostern/": 1,
-    "/Abenteuer/Ostern/VzFvO": 1
+    "/Abenteuer/Ostern/": 1
   },
   "logbuch": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 26
@@ -4274,7 +4231,6 @@
     "/Weltraum/Verrueckte_Wissenschaftler": 177,
     "/Abenteuer/SpaceDrache/John_Marric": 56,
     "/Abenteuer/SpaceDrache/": 2,
-    "/Abenteuer/SpaceDrache/Einstieg": 2,
     "/Abenteuer/SpaceDrache/SpaceDrache": 2,
     "/Abenteuer/": 1
   },
@@ -4515,8 +4471,7 @@
   "mono": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 175,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 51,
-    "/Abenteuer/Wagonian_Wedding/": 3,
-    "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
+    "/Abenteuer/Wagonian_Wedding/": 3
   },
   "montfort": {
     "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa": 2
@@ -4557,7 +4512,7 @@
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 100,
     "/Abenteuer/Zeitraub/Nachforschungen": 100,
     "/Abenteuer/Weihnachten_II/Santa_24": 25,
-    "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 3,
+    "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 2,
     "/Abenteuer/": 1
   },
   "nackheit": {
@@ -4606,22 +4561,21 @@
   "nebel": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Nebel": 81,
     "/Abenteuer/Halloween/Nebel": 52,
-    "/Abenteuer/Halloween/Einstieg": 4,
+    "/Abenteuer/Halloween/Einstieg": 3,
     "/Abenteuer/Halloween/Hintergrund": 3,
-    "/Abenteuer/Halloween/Zentrum": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 2,
     "/Abenteuer/Halloween/": 2,
+    "/Abenteuer/Halloween/Zentrum": 2,
     "/Abenteuer/": 1
   },
   "nebel erkunden": {
     "/Abenteuer/Halloween/Nebel": 100,
-    "/Abenteuer/Halloween/": 1,
-    "/Abenteuer/Halloween/Einstieg": 1
+    "/Abenteuer/Halloween/": 1
   },
   "nebel von atlantis": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Nebel": 101,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 1,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1
+    "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 1
   },
   "nebelmaschine": {
     "/Abenteuer/Halloween/Nebelmaschine": 102,
@@ -4630,9 +4584,8 @@
   },
   "nebels": {
     "/Abenteuer/Halloween/Zentrum": 51,
-    "/Abenteuer/Halloween/Nebel": 3,
     "/Abenteuer/Halloween/Hintergrund": 2,
-    "/Abenteuer/Halloween/Vampir-Planet": 2,
+    "/Abenteuer/Halloween/Nebel": 2,
     "/Weltraum/Weltraumphaenomene/Halloween-Nebel": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1
   },
@@ -4893,10 +4846,9 @@
     "/Abenteuer/Buschraub/Nova_Ceti": 55,
     "/Weltraum/Aliens/Samnesen/Nova_Ceti": 53,
     "/Weltraum/Freihandelszone/Stratum_Nova": 53,
-    "/Abenteuer/Buschraub/Sperrzone": 28,
+    "/Abenteuer/Buschraub/Sperrzone": 27,
     "/Weltraum/Freihandelszone/Handelsrat": 4,
     "/Weltraum/Konzerne/Hired_Guns": 3,
-    "/Abenteuer/Buschraub/Ende": 2,
     "/Abenteuer/Neutritiumklau/Lager": 2,
     "/Abenteuer/Neutritiumklau/SpaceShell": 2,
     "/Weltraum/Freihandelszone/": 2,
@@ -4904,6 +4856,7 @@
     "/Weltraum/Freihandelszone/Waehrungen_und_Banken": 2,
     "/Weltraum/Konzerne/Strat_1": 2,
     "/Abenteuer/Buschraub/": 1,
+    "/Abenteuer/Buschraub/Ende": 1,
     "/Abenteuer/Buschraub/Syoner": 1,
     "/Abenteuer/Zeitraub/": 1,
     "/Abenteuer/Zeitraub/Auftrag": 1,
@@ -4914,8 +4867,7 @@
   "nova ceti": {
     "/Weltraum/Aliens/Samnesen/Nova_Ceti": 252,
     "/Abenteuer/Buschraub/Nova_Ceti": 55,
-    "/Abenteuer/Buschraub/Sperrzone": 28,
-    "/Abenteuer/Buschraub/Ende": 2,
+    "/Abenteuer/Buschraub/Sperrzone": 27,
     "/Abenteuer/Buschraub/": 1
   },
   "novas": {
@@ -4984,13 +4936,13 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 81,
     "/Weltraum/Piraten/Treffpunkte/Freeport": 27,
     "/Publikationen/": 26,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 3,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 2,
     "/Abenteuer/Der_grosse_Fang/Einstieg": 1
   },
   "oma binkel": {
     "/Weltraum/Piraten/Treffpunkte/Freeport": 151,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 106,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 3,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 2,
     "/Abenteuer/Der_grosse_Fang/Einstieg": 1
   },
   "oma binkels spacepirates": {
@@ -5167,15 +5119,10 @@
     "/Abenteuer/Zeitraub_II/Javar_3": 1
   },
   "pergament": {
-    "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 103,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 54,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Universitaet": 3,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 102,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 53,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 2,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 2,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff": 2,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 2,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner": 2,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 1
+    "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1
   },
   "persoenliche ausruestung": {
     "/Spielregeln/Die_Piratencrew/Uebersicht": 25
@@ -5258,8 +5205,8 @@
   },
   "pipeline": {
     "/Abenteuer/Spritprobleme/Neutritiumpipeline": 54,
-    "/Abenteuer/Neutritiumklau/SpaceShell": 4,
     "/Abenteuer/Neutritiumklau/Pipeline": 3,
+    "/Abenteuer/Neutritiumklau/SpaceShell": 3,
     "/Abenteuer/Neutritiumklau/": 1
   },
   "pirat": {
@@ -5464,8 +5411,8 @@
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 1
   },
   "piratengruppe": {
-    "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 103,
-    "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": 102,
+    "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 102,
+    "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": 101,
     "/Abenteuer/Schatzjagd/": 4,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 2,
     "/Abenteuer/": 1
@@ -5607,12 +5554,12 @@
     "/Weltraum/Freihandelszone/System_der_Traeume/Mimen-Mission": 6,
     "/Weltraum/Technologie/Raumschiffe": 6,
     "/Weltraum/Weltraumtiere": 6,
-    "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 5,
     "/StarTunes/Lyrics": 5,
     "/Abenteuer/Der_grosse_Fang/Proxima_Sigma": 4,
     "/Abenteuer/Die_Eisgalaxis/": 4,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 4,
     "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": 4,
+    "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 4,
     "/Weltraum/Raumstationen/Saloniki": 4,
     "/Weltraum/Sekten/Weltraumpfleger": 4,
     "/Weltraum/Technologie/": 4,
@@ -5678,7 +5625,6 @@
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/": 1,
     "/Abenteuer/Schatz_von_Menkar/": 1,
-    "/Abenteuer/Schatz_von_Menkar/Ende": 1,
     "/Abenteuer/SpaceDrache/Spuren": 1,
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 1,
     "/Abenteuer/Zeitraub/": 1,
@@ -5798,8 +5744,8 @@
   "prinzessin": {
     "/Abenteuer/SpaceDrache/Prinzessin_Lea": 52,
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 41,
-    "/Abenteuer/SpaceDrache/Spuren": 32,
-    "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 5,
+    "/Abenteuer/SpaceDrache/Spuren": 31,
+    "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 4,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 4,
     "/Abenteuer/SpaceDrache/": 2,
     "/Abenteuer/SpaceDrache/SpaceDrache": 2,
@@ -5809,11 +5755,11 @@
   "prinzessin lea": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 177,
     "/Abenteuer/SpaceDrache/Prinzessin_Lea": 101,
-    "/Abenteuer/SpaceDrache/Spuren": 28,
-    "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 3,
+    "/Abenteuer/SpaceDrache/Spuren": 27,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 3,
     "/Abenteuer/SpaceDrache/": 2,
     "/Abenteuer/SpaceDrache/SpaceDrache": 2,
+    "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 2,
     "/Abenteuer/": 1
   },
   "prison": {
@@ -5984,8 +5930,7 @@
   },
   "railroading": {
     "/Abenteuer/Laborratten/Railroading/": 50,
-    "/Abenteuer/Laborratten/": 1,
-    "/Abenteuer/Laborratten/Einstieg": 1
+    "/Abenteuer/Laborratten/": 1
   },
   "ramsch": {
     "/Weltraum/Konzerne/Ramsch_Incorporated": 53,
@@ -5996,18 +5941,18 @@
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": 1
   },
   "rand": {
-    "/Abenteuer/Schatzjagd/Rand": 52,
-    "/Abenteuer/Schatzjagd/Reise": 52,
+    "/Abenteuer/Schatzjagd/Rand": 51,
+    "/Abenteuer/Schatzjagd/Reise": 51,
     "/Weltraum/Raumstationen/Saloniki": 3,
     "/Abenteuer/Schatzjagd/": 2,
     "/Abenteuer/Laborratten/Railroading/Schatzinsel": 1
   },
   "rand des universums": {
-    "/Abenteuer/Schatzjagd/Rand": 102,
-    "/Abenteuer/Schatzjagd/Reise": 52,
+    "/Abenteuer/Schatzjagd/Rand": 101,
+    "/Abenteuer/Schatzjagd/Reise": 51,
     "/Weltraum/Raumstationen/Saloniki": 12,
     "/Abenteuer/Schatzjagd/": 2,
-    "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": 1
+    "/Weltraum/Promis": 1
   },
   "randul zac": {
     "/Weltraum/Haendler_und_Halunken": 176
@@ -6145,9 +6090,9 @@
     "/Abenteuer/Zeitraub_II/Javar_3": 27,
     "/Spielregeln/Die_Piratencrew/Uebersicht": 25,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 11,
-    "/Abenteuer/Laborratten/Einstieg": 7,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style": 7,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 6,
+    "/Abenteuer/Laborratten/Einstieg": 6,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 6,
     "/Abenteuer/": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 5,
@@ -6560,7 +6505,6 @@
   "ruprecht": {
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 228,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 4,
-    "/Abenteuer/Weihnachten/Santa_24": 2,
     "/Abenteuer/Weihnachten/": 1
   },
   "sabrwal": {
@@ -6639,21 +6583,19 @@
     "/Abenteuer/Weihnachten_II/Santa_24": 157,
     "/Abenteuer/Weihnachten/Santa_24": 52,
     "/Weltraum/Neutrale_Zone/Santa_24": 52,
-    "/Abenteuer/Weihnachten/Knecht_Ruprecht": 3,
-    "/Abenteuer/Weihnachten/Treffpunkt": 3,
-    "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 3,
+    "/Abenteuer/Weihnachten/Knecht_Ruprecht": 2,
+    "/Abenteuer/Weihnachten/Treffpunkt": 2,
     "/Abenteuer/Weihnachten/Weihnachtsmann": 2,
-    "/Abenteuer/Weihnachten_II/Einstieg": 2,
+    "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 2,
     "/Abenteuer/Weihnachten/": 1
   },
   "santa 24": {
     "/Weltraum/Neutrale_Zone/Santa_24": 251,
     "/Abenteuer/Weihnachten/Santa_24": 102,
     "/Abenteuer/Weihnachten_II/Santa_24": 51,
-    "/Abenteuer/Weihnachten/Knecht_Ruprecht": 12,
+    "/Abenteuer/Weihnachten/Knecht_Ruprecht": 11,
     "/Abenteuer/Weihnachten/Weihnachtsmann": 10,
-    "/Abenteuer/Weihnachten/Treffpunkt": 3,
-    "/Abenteuer/Weihnachten_II/Einstieg": 2,
+    "/Abenteuer/Weihnachten/Treffpunkt": 2,
     "/Abenteuer/Weihnachten/": 1
   },
   "santas": {
@@ -6722,8 +6664,7 @@
   "schatzjagd": {
     "/Abenteuer/Schatzjagd/": 100,
     "/Abenteuer/": 26,
-    "/Abenteuer/Rache_des_Akamachi-Clans/": 2,
-    "/Abenteuer/Schatzjagd/Einstieg": 1
+    "/Abenteuer/Rache_des_Akamachi-Clans/": 2
   },
   "schatzkammer": {
     "/Abenteuer/Dungeonplanet/Ebene1": 26,
@@ -6772,7 +6713,6 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen": 4,
     "/Abenteuer/Zeitraub/Ueberfall": 4,
     "/Abenteuer/Buschraub/Sperrzone": 3,
-    "/Abenteuer/Laborratten/Railroading/Sturm": 3,
     "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 3,
     "/Abenteuer/Blumenkind/SWIP": 2,
     "/Abenteuer/Buschraub/SWIP": 2,
@@ -6780,6 +6720,7 @@
     "/Abenteuer/Der_grosse_Fang/Chinese": 2,
     "/Abenteuer/Der_grosse_Fang/Reise": 2,
     "/Abenteuer/Laborratten/Dahinter": 2,
+    "/Abenteuer/Laborratten/Railroading/Sturm": 2,
     "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 2,
     "/Abenteuer/Spritprobleme/Einleitung": 2,
     "/Abenteuer/Spritprobleme/Weltraumpfleger": 2,
@@ -6808,7 +6749,6 @@
   "schlaeger": {
     "/Abenteuer/Schatz_von_Menkar/Schlaeger": 55,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 11,
-    "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
     "/Abenteuer/Schatz_von_Menkar/": 1
   },
   "schlingpflanzen": {
@@ -6928,17 +6868,13 @@
     "/Weltraum/Sektoren/Z2/": 52,
     "/Weltraum/Sektoren/Z3/": 52,
     "/Weltraum/Sektoren/Z4/": 52,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Supernova": 7,
+    "/Abenteuer/Raumschiffdungeon/Sektoren/Supernova": 6,
     "/Ideenhalde/Bewohner/Raptorianer/": 4,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Drache": 3,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 3,
     "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 3,
     "/Weltraum/Weltraumphaenomene/Halloween-Nebel": 3,
-    "/Abenteuer/Raumschiffdungeon/Einstieg": 2,
     "/Abenteuer/Raumschiffdungeon/Hintergrund": 2,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Baustelle": 2,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Nazis": 2,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen": 2,
+    "/Abenteuer/Raumschiffdungeon/Sektoren/Drache": 2,
+    "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 2,
     "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 2,
     "/Weltraum/Aliens/SpaceYetis/Eisgalaxis": 2,
@@ -7027,8 +6963,7 @@
   },
   "selbstdarsteller": {
     "/Abenteuer/Wagonian_Wedding/Selbstdarsteller": 100,
-    "/Abenteuer/Wagonian_Wedding/": 1,
-    "/Abenteuer/Wagonian_Wedding/Einleitung": 1
+    "/Abenteuer/Wagonian_Wedding/": 1
   },
   "sensoren": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren": 101,
@@ -7140,8 +7075,7 @@
   },
   "sing": {
     "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": 50,
-    "/Abenteuer/Wagonian_Wedding/": 1,
-    "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler": 1
+    "/Abenteuer/Wagonian_Wedding/": 1
   },
   "sinn der operation": {
     "/Abenteuer/Laborratten/Dahinter": 25
@@ -7212,9 +7146,9 @@
     "/Abenteuer/Ostern/Sonden": 104,
     "/Abenteuer/Ostern/Loesung": 4,
     "/Abenteuer/Buschraub/Bahir": 3,
-    "/Abenteuer/Ostern/VzFvO": 3,
     "/Abenteuer/Ostern/Captain_Rogers": 2,
     "/Abenteuer/Ostern/Rabbit_Inc": 2,
+    "/Abenteuer/Ostern/VzFvO": 2,
     "/Weltraum/Historie": 2,
     "/Abenteuer/Ostern/": 1
   },
@@ -7299,7 +7233,7 @@
     "/Abenteuer/SpaceDrache/SpaceDrache": 103,
     "/Abenteuer/SpaceDrache/": 102,
     "/Abenteuer/": 26,
-    "/Abenteuer/SpaceDrache/Drachenhort": 3,
+    "/Abenteuer/SpaceDrache/Drachenhort": 2,
     "/Abenteuer/SpaceDrache/Hintergrund": 1
   },
   "spacedrachen": {
@@ -7332,7 +7266,7 @@
   },
   "spacehippies": {
     "/Abenteuer/Blumenkind/SpaceHippies": 106,
-    "/Abenteuer/Blumenkind/Konfliktnetz": 3,
+    "/Abenteuer/Blumenkind/Konfliktnetz": 2,
     "/Abenteuer/Blumenkind/": 1
   },
   "spaceindianer": {
@@ -7435,7 +7369,6 @@
     "/Abenteuer/Neutritiumklau/SpaceShell": 128,
     "/Abenteuer/Spritprobleme/Neutritiumpipeline": 4,
     "/Weltraum/Menschen/Foederation/Katpar": 3,
-    "/Abenteuer/Neutritiumklau/Auftrag": 2,
     "/Abenteuer/Neutritiumklau/Lager": 2,
     "/Abenteuer/": 1
   },
@@ -7498,8 +7431,7 @@
   },
   "special": {
     "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": 50,
-    "/Abenteuer/Wagonian_Wedding/": 1,
-    "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen": 1
+    "/Abenteuer/Wagonian_Wedding/": 1
   },
   "sperrzone": {
     "/Abenteuer/Buschraub/Sperrzone": 129,
@@ -7752,10 +7684,9 @@
   },
   "station": {
     "/Abenteuer/Halloween/Station": 54,
-    "/Abenteuer/Halloween/Zentrum": 4,
+    "/Abenteuer/Halloween/Zentrum": 3,
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 3,
     "/Abenteuer/Blumenkind/Blumenkind": 2,
-    "/Abenteuer/Halloween/Nebelmaschine": 2,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten": 2,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten": 2,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 2,
@@ -7950,7 +7881,6 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen": 27,
     "/Ideenhalde/Weltraumphaenomene": 26,
     "/Abenteuer/Laborratten/Railroading/": 2,
-    "/Abenteuer/Laborratten/Railroading/Schatzinsel": 2,
     "/Abenteuer/Laborratten/": 1
   },
   "sturm kommt auf": {
@@ -8007,21 +7937,13 @@
   "swip": {
     "/Abenteuer/Blumenkind/SWIP": 104,
     "/Abenteuer/Buschraub/SWIP": 103,
-    "/Abenteuer/Blumenkind/Woodstock": 53,
+    "/Abenteuer/Blumenkind/Woodstock": 52,
     "/Abenteuer/Buschraub/Ende": 27,
     "/Abenteuer/Buschraub/Nova_Ceti": 26,
     "/Abenteuer/Blumenkind/Zeitleiste": 3,
-    "/Abenteuer/Blumenkind/SpaceHippies": 2,
     "/Abenteuer/Buschraub/": 2,
     "/Abenteuer/Buschraub/JCTech_IAG": 2,
-    "/Abenteuer/": 1,
-    "/Abenteuer/Blumenkind/": 1,
-    "/Abenteuer/Blumenkind/Blumenkind": 1,
-    "/Abenteuer/Blumenkind/Konfliktnetz": 1,
-    "/Abenteuer/Buschraub/Nachforschungen": 1,
-    "/Abenteuer/Buschraub/Sperrzone": 1,
-    "/Abenteuer/Buschraub/Syoner": 1,
-    "/Weltraum/Aliens/SpaceWorms/BigBong/SWIP": 1
+    "/Abenteuer/": 1
   },
   "syoner": {
     "/Weltraum/Aliens/Syoner/": 105,
@@ -8217,7 +8139,7 @@
   "teufel": {
     "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler": 50,
     "/Abenteuer/Wagonian_Wedding/": 1,
-    "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": 1
+    "/Weltraum/Sekten/Heavensgate": 1
   },
   "than": {
     "/Weltraum/Konzerne/Better_Than_Broadcast": 201,
@@ -8455,16 +8377,15 @@
   },
   "ueberfall eines lagers": {
     "/Abenteuer/Neutritiumklau/Lager": 100,
-    "/Abenteuer/Neutritiumklau/": 1,
-    "/Abenteuer/Neutritiumklau/Pipeline": 1
+    "/Abenteuer/Neutritiumklau/": 1
   },
   "ueberfallmoeglichkeiten": {
     "/Abenteuer/Zeitraub/Ueberfall": 25
   },
   "uebersetzung": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 50,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff": 2,
-    "/Abenteuer/Die_Karte_nach_Atlantis/": 1
+    "/Abenteuer/Die_Karte_nach_Atlantis/": 1,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff": 1
   },
   "uebersicht": {
     "/Abenteuer/Zeitraub/Uebersicht": 100,
@@ -8513,8 +8434,8 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 1
   },
   "universum": {
-    "/Abenteuer/Schatzjagd/Rand": 54,
-    "/Abenteuer/Schatzjagd/Reise": 54,
+    "/Abenteuer/Schatzjagd/Rand": 53,
+    "/Abenteuer/Schatzjagd/Reise": 53,
     "/Weltraum/Freihandelszone/System_der_Traeume/": 26,
     "/Weltraum/Raumstationen/Saloniki": 15,
     "/Weltraum/Promis": 9,
@@ -8801,7 +8722,6 @@
     "/Abenteuer/SpaceDrache/Wagonische_Ausschreibung": 50,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Abenteuer/SpaceDrache/": 2,
-    "/Abenteuer/SpaceDrache/Prinzessin_Lea": 2,
     "/Weltraum/Aliens/Wagonen/": 2,
     "/Abenteuer/": 1
   },
@@ -8886,7 +8806,6 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 3,
     "/Abenteuer/Buschraub/Nova_Ceti": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 2,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 2,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 2,
     "/Abenteuer/Blumenkind/Woodstock": 1
   },
@@ -8910,11 +8829,11 @@
   },
   "weihnachtsmann": {
     "/Abenteuer/Weihnachten/Weihnachtsmann": 251,
-    "/Abenteuer/Weihnachten/Auftrag": 4,
     "/Abenteuer/Weihnachten/Eskorte": 4,
     "/Abenteuer/Weihnachten/Santa_24": 4,
-    "/Abenteuer/Weihnachten/Treffpunkt": 3,
+    "/Abenteuer/Weihnachten/Auftrag": 3,
     "/Abenteuer/Weihnachten/": 2,
+    "/Abenteuer/Weihnachten/Treffpunkt": 2,
     "/Abenteuer/": 1
   },
   "weihnachtswurmloch": {
@@ -9077,7 +8996,6 @@
   "woodstock": {
     "/Weltraum/Neutrale_Zone/Woodstock": 253,
     "/Abenteuer/Blumenkind/Woodstock": 64,
-    "/Abenteuer/Blumenkind/SWIP": 2,
     "/Abenteuer/Blumenkind/Zeitleiste": 2,
     "/Abenteuer/Blumenkind/": 1
   },
@@ -9097,7 +9015,7 @@
   },
   "wurmloch": {
     "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 52,
-    "/Abenteuer/Schatz_von_Menkar/Koordinaten": 29,
+    "/Abenteuer/Schatz_von_Menkar/Koordinaten": 28,
     "/Abenteuer/Weihnachten/Treffpunkt": 4,
     "/Abenteuer/Raumschiffdungeon/Sektoren/": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Nazis": 2,
@@ -9108,8 +9026,8 @@
   },
   "wurmlochdemodulator": {
     "/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator": 103,
-    "/Abenteuer/Raumschiffdungeon/Sektoren/": 2,
-    "/Abenteuer/Raumschiffdungeon/": 1
+    "/Abenteuer/Raumschiffdungeon/": 1,
+    "/Abenteuer/Raumschiffdungeon/Sektoren/": 1
   },
   "wurmloecher": {
     "/Abenteuer/Raumschiffdungeon/Sektoren/": 27,
@@ -9274,7 +9192,7 @@
   },
   "zeitstrahl": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl": 100,
-    "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 26,
+    "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 25,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 1
   },
   "zeitwelle": {
@@ -9299,15 +9217,13 @@
   },
   "zentrum": {
     "/Abenteuer/Halloween/Zentrum": 51,
-    "/Abenteuer/Halloween/Nebel": 3,
-    "/Abenteuer/Halloween/Vampir-Planet": 2,
+    "/Abenteuer/Halloween/Nebel": 2,
     "/Weltraum/Freihandelszone/System_der_Traeume/": 2,
     "/Abenteuer/Halloween/": 1
   },
   "zentrum des nebels": {
     "/Abenteuer/Halloween/Zentrum": 101,
-    "/Abenteuer/Halloween/Nebel": 3,
-    "/Abenteuer/Halloween/Vampir-Planet": 2,
+    "/Abenteuer/Halloween/Nebel": 2,
     "/Abenteuer/Halloween/": 1
   },
   "zhao xue": {
@@ -9388,8 +9304,7 @@
   },
   "zweite piratengruppe": {
     "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": 100,
-    "/Abenteuer/Schatzjagd/": 1,
-    "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 1
+    "/Abenteuer/Schatzjagd/": 1
   },
   "zweiter": {
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 50,
@@ -9398,8 +9313,7 @@
   },
   "zweiter anschlag": {
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 100,
-    "/Abenteuer/Rache_des_Akamachi-Clans/": 1,
-    "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf": 1
+    "/Abenteuer/Rache_des_Akamachi-Clans/": 1
   },
   "zweiter schluessel": {
     "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": 25
