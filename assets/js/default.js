@@ -479,7 +479,7 @@ siteSearch.doSearch = function(value, resultEl) {
     do {
         // replace all prefixes
         valueOld = value;
-        value = value.replace(/^\s*(aus|bis|zum|für|hinter|in|im|mehr|zu|nach|vor|dem|den|an|auf|der|die|das|ein|eine|\d+\.?)\s+/, '')
+        value = value.replace(/^\s*(aus|bis|zum|fuer|hinter|in|im|mehr|zu|nach|vor|dem|den|an|auf|der|die|das|ein|eine|\d+\.?)\s+/, '')
     } while (value !== valueOld)
     // stomp searchstring
     const stomp = siteSearch.stompWords[value];
