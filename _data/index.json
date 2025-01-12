@@ -140,7 +140,7 @@
   },
   "agrarplaneten": {
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/": 103,
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 1,
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 1,
     "/Weltraum/Aliens/SpaceWorms/": 1
   },
   "ahoi": {
@@ -221,10 +221,10 @@
     "/Ideenhalde/Bewohner/Haustiere": 25
   },
   "aliens": {
-    "/Weltraum/Aliens/": 107,
+    "/Weltraum/Aliens/": 106,
     "/Weltraum/": 25,
     "/Weltraum/Neutrale_Zone/Scrabnambu": 10,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 4,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 3,
     "/Zufallstabellen/Beute": 3,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Weltraum/Aliens/Glukorianer/": 2,
@@ -499,6 +499,7 @@
   "ausruestung": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/": 103,
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 102,
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 100,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 28,
     "/Spielregeln/Die_Piratencrew/Uebersicht": 26,
     "/Abenteuer/Weihnachten_II/Santa_24": 25,
@@ -515,8 +516,7 @@
     "/Spielregeln/Die_Piratencrew/Charaktere": 1,
     "/Spielregeln/Spielleiter/": 1,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 1,
-    "/Spielregeln/Spielleiter/Kampagnen/Beute": 1,
-    "/Weltraum/Aliens/Trull/": 1
+    "/Spielregeln/Spielleiter/Kampagnen/Beute": 1
   },
   "ausruestung kaufen": {
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 25,
@@ -758,11 +758,11 @@
     "/Weltraum/Technologie/Starnet": 2,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Einstieg": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 1,
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 1,
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Rauschmittel": 1,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 1,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 1,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 1,
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 1,
     "/Weltraum/Aliens/Syoner/": 1,
     "/Weltraum/Freihandelszone/System_der_Traeume/Serius_80": 1,
     "/Weltraum/Konzerne/Spacewood-Klinik/": 1,
@@ -801,7 +801,7 @@
     "/Abenteuer/Buschraub/Sperrzone": 1
   },
   "beta carotin": {
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 26
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 26
   },
   "beta prison": {
     "/Weltraum/Freihandelszone/Beta_Prison/": 252,
@@ -844,7 +844,7 @@
     "/Abenteuer/Blumenkind/": 1
   },
   "beziehungen": {
-    "/Weltraum/Aliens/Raptorianer/": 25,
+    "/Ideenhalde/Bewohner/Raptorianer/": 25,
     "/Weltraum/Haendler_und_Halunken": 2,
     "/Weltraum/Weltraumphaenomene/Halloween-Nebel": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1
@@ -1039,12 +1039,12 @@
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 27
   },
   "burger": {
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 53,
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 27,
-    "/Weltraum/Aliens/Raptorianer/": 1
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 53,
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 27,
+    "/Ideenhalde/Bewohner/Raptorianer/": 1
   },
   "burger prince": {
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 36
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 36
   },
   "burgplan": {
     "/Abenteuer/Weihnachten/Knecht_Ruprecht": 25
@@ -1106,7 +1106,7 @@
     "/Abenteuer/Ideen/Stars_und_Sternchen": 1
   },
   "carotin": {
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 26
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 26
   },
   "carrassius": {
     "/Ideenhalde/Bewohner/Aquarianer_Carrassius_Auratus": 51,
@@ -1353,7 +1353,7 @@
   "daten": {
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 26,
     "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 26,
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 25,
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 25,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren": 3,
     "/Abenteuer/Laborratten/Dahinter": 1
   },
@@ -1401,14 +1401,14 @@
     "/Weltraum/Freihandelszone/System_der_Traeume/Hollywood": 1
   },
   "dino": {
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 51,
-    "/Weltraum/Aliens/Raptorianer/": 1,
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 1
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 51,
+    "/Ideenhalde/Bewohner/Raptorianer/": 1,
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 1
   },
   "dino burger": {
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 250,
-    "/Weltraum/Aliens/Raptorianer/": 1,
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 1
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 250,
+    "/Ideenhalde/Bewohner/Raptorianer/": 1,
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 1
   },
   "dinofanatics": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 176
@@ -1422,7 +1422,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 2
   },
   "diplomatische beziehungen": {
-    "/Weltraum/Aliens/Raptorianer/": 25,
+    "/Ideenhalde/Bewohner/Raptorianer/": 25,
     "/Weltraum/Aliens/Spacepears/": 1
   },
   "diverse": {
@@ -1568,7 +1568,7 @@
   "dschungelplanet": {
     "/Weltraum/Technologie/Starnet-Sendungen": 26,
     "/Weltraum/Rebellen/Alastor": 11,
-    "/Weltraum/Aliens/Raptorianer/Greeenhl": 10,
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 10,
     "/Weltraum/Aliens/Wagonen/Xawang": 10,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Neuchina": 10,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 10,
@@ -1760,7 +1760,7 @@
     "/Weltraum/Aliens/SpaceYetis/": 2
   },
   "eisionenblaster": {
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 27
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 27
   },
   "eisplanet": {
     "/Weltraum/Neutrale_Zone/Santa_24": 11,
@@ -1825,7 +1825,7 @@
     "/Weltraum/Technologie/": 26
   },
   "energiepeitschenschwanz": {
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 27
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 27
   },
   "engel": {
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 176,
@@ -2217,7 +2217,7 @@
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 1
   },
   "foodtopia": {
-    "/Weltraum/Aliens/Raptorianer/Greeenhl": 186
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 186
   },
   "forscher": {
     "/Abenteuer/Zeitraub_II/Javar_3": 27,
@@ -2328,7 +2328,7 @@
   },
   "frost": {
     "/Abenteuer/Die_Eisgalaxis/": 4,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 2,
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 2,
     "/Weltraum/Aliens/SpaceYetis/Eisgalaxis": 1
   },
   "frut": {
@@ -2409,8 +2409,9 @@
   },
   "gegner": {
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 28,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 6,
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 4,
     "/Abenteuer/Dungeonplanet/Einstieg": 2,
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 2,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Abenteuer/Blumenkind/Blumenkind": 1
   },
@@ -2454,7 +2455,7 @@
   },
   "geschichte": {
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Geschichte": 100,
-    "/Weltraum/Aliens/Raptorianer/": 26,
+    "/Ideenhalde/Bewohner/Raptorianer/": 26,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1
   },
   "getraenkemaerkte": {
@@ -2649,9 +2650,9 @@
     "/Weltraum/Technologie/Techtalk": 26
   },
   "greeenhl": {
-    "/Weltraum/Aliens/Raptorianer/Greeenhl": 262,
-    "/Weltraum/Aliens/Raptorianer/": 15,
-    "/StarTunes/Lyrics": 1
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 262,
+    "/Ideenhalde/Bewohner/Raptorianer/": 15,
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 1
   },
   "green": {
     "/Weltraum/Sekten/Weltraumpfleger": 175,
@@ -2906,10 +2907,10 @@
     "/Weltraum/Aliens/Samnesen/Sampuk": 11,
     "/Weltraum/Freihandelszone/Neusirius": 11,
     "/Weltraum/Menschen/Foederation/Erde": 11,
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 10,
     "/Weltraum/Aliens/Atlanter/Atlantis": 10,
     "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 10,
     "/Weltraum/Aliens/Kahadrier/Kahadria": 10,
-    "/Weltraum/Aliens/Raptorianer/Greeenhl": 10,
     "/Weltraum/Aliens/Streifanier/Streif": 10,
     "/Weltraum/Aliens/Trull/Trullmania": 10,
     "/Weltraum/Aliens/Wagonen/Xawang": 10,
@@ -3309,7 +3310,7 @@
   },
   "jahrhundert": {
     "/Weltraum/Historie": 403,
-    "/Weltraum/Aliens/Raptorianer/": 2,
+    "/Ideenhalde/Bewohner/Raptorianer/": 2,
     "/Abenteuer/Halloween/Vampir-Planet": 1
   },
   "jambal": {
@@ -3468,7 +3469,7 @@
   "kahadria": {
     "/Weltraum/Aliens/Kahadrier/Kahadria": 261,
     "/Weltraum/Aliens/Kahadrier/": 21,
-    "/StarTunes/Lyrics": 1
+    "/Ideenhalde/Bewohner/Raptorianer/": 1
   },
   "kahadrier": {
     "/Weltraum/Aliens/Kahadrier/": 253,
@@ -3784,8 +3785,8 @@
   },
   "kommunikation": {
     "/Abenteuer/Halloween/Nebel": 25,
-    "/Abenteuer/Spritprobleme/Neutritiumpipeline": 1,
-    "/Weltraum/Neutrale_Zone/Kappa_Gamma/Gamma": 1
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": 25,
+    "/Abenteuer/Spritprobleme/Neutritiumpipeline": 1
   },
   "komplikationen": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 101,
@@ -3959,7 +3960,7 @@
     "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet": 1
   },
   "kybernetischer": {
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 26
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 26
   },
   "la chateau": {
     "/Weltraum/Aliens/Streifanier/La_Chateau": 101,
@@ -5073,7 +5074,7 @@
   "oystercluster": {
     "/Weltraum/Weltraumphaenomene/Oyster-Cluster": 251,
     "/Weltraum/Haendler_und_Halunken": 11,
-    "/StarTunes/Lyrics": 1
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 1
   },
   "ozeanus": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Ozeanus_5": 52,
@@ -5191,7 +5192,7 @@
   },
   "personal": {
     "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Personal": 101,
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 1,
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 1,
     "/Weltraum/Freihandelszone/Beta_Prison/": 1
   },
   "personen": {
@@ -5410,6 +5411,9 @@
     "/Abenteuer/Zeitraub_II/Javar_3": 1,
     "/Abenteuer/Zeitraub_II/Reise": 1,
     "/Ideenhalde/Bewohner/Haustiere": 1,
+    "/Ideenhalde/Bewohner/Raptorianer/": 1,
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 1,
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 1,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 1,
@@ -5418,9 +5422,6 @@
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 1,
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 1,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Danach": 1,
-    "/Weltraum/Aliens/Raptorianer/": 1,
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 1,
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 1,
     "/Weltraum/Aliens/Samnesen/Sperrzone": 1,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten": 1,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Persoenlichkeiten": 1,
@@ -5594,8 +5595,8 @@
     "/Weltraum/Sektoren/D1/Ennos": 11,
     "/Weltraum/Sektoren/D1/Trianguli_Sup_2": 11,
     "/Weltraum/SpaceRocker/Baneros_Banditos/Los_Mochis": 11,
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 10,
     "/Weltraum/Aliens/Kahadrier/Kahadria": 10,
-    "/Weltraum/Aliens/Raptorianer/Greeenhl": 10,
     "/Weltraum/Aliens/Streifanier/La_Chateau": 10,
     "/Weltraum/Aliens/Streifanier/Streif": 10,
     "/Weltraum/Aliens/Trull/Xanar_1": 10,
@@ -5640,9 +5641,9 @@
     "/Abenteuer/Wagonian_Wedding/Einleitung": 2,
     "/Abenteuer/Zeitraub/Ueberfall": 2,
     "/Abenteuer/Zeitraub_II/Ereignisse": 2,
+    "/Ideenhalde/Bewohner/Raptorianer/": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren": 2,
     "/Weltraum/": 2,
-    "/Weltraum/Aliens/Raptorianer/": 2,
     "/Weltraum/Aliens/Streifanier/": 2,
     "/Weltraum/Historie": 2,
     "/Weltraum/Konzerne/ImmoTrade": 2,
@@ -5785,11 +5786,11 @@
   },
   "priester": {
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 10,
-    "/Weltraum/Aliens/Glukorianer/": 1,
-    "/Weltraum/Aliens/Glukorianer/Ghultar": 1
+    "/Ideenhalde/Bewohner/Raptorianer/": 1,
+    "/Weltraum/Aliens/Glukorianer/": 1
   },
   "prince": {
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 36
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 36
   },
   "prinz bruno morphium": {
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 175
@@ -6012,22 +6013,22 @@
     "/Weltraum/Haendler_und_Halunken": 176
   },
   "raptorianer": {
-    "/Weltraum/Aliens/Raptorianer/": 283,
-    "/Weltraum/Aliens/Raptorianer/Greeenhl": 12,
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 11,
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 11,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 2,
-    "/Spielregeln/Die_Piratencrew/Charakterwerte": 1
+    "/Ideenhalde/Bewohner/Raptorianer/": 283,
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 12,
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 11,
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 11,
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 2,
+    "/Ideenhalde/Bewohner/": 1
   },
   "raptorianische": {
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 26,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 1
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 26,
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 1
   },
   "rashad": {
     "/Weltraum/Aliens/SpaceWorms/AlXambra/": 151
   },
   "rassen": {
-    "/Weltraum/Aliens/Raptorianer/": 2,
+    "/Ideenhalde/Bewohner/Raptorianer/": 2,
     "/Weltraum/Aliens/Syoner/": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 1
   },
@@ -6219,7 +6220,7 @@
     "/Weltraum/Weltraumphaenomene/Quantenfluktuation": 1
   },
   "raumschiffkapitaen": {
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 10
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 10
   },
   "raumschiffmacken": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 101,
@@ -6288,7 +6289,7 @@
     "/Weltraum/Freihandelszone/Handelsrat": 27
   },
   "razzngool": {
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 151
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 151
   },
   "rebell": {
     "/Weltraum/Rebellen/": 20,
@@ -6403,7 +6404,7 @@
   },
   "restaurant": {
     "/Weltraum/Raumstationen/Saloniki": 31,
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 1
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 1
   },
   "rettet den rum": {
     "/Abenteuer/Ideen/Stars_und_Sternchen": 25
@@ -6493,7 +6494,7 @@
   "romaha": {
     "/Weltraum/Aliens/Romaha/": 253,
     "/Abenteuer/Raumschiffdungeon/Hintergrund": 3,
-    "/Weltraum/Aliens/Raptorianer/": 3,
+    "/Ideenhalde/Bewohner/Raptorianer/": 3,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Glutulhu": 2,
@@ -6800,9 +6801,9 @@
     "/Weltraum/SpaceNinjas/Clans/": 1
   },
   "schlachtkreuzer": {
-    "/Weltraum/Aliens/Raptorianer/Schlachtkreuzer": 128,
-    "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 1,
-    "/Weltraum/Aliens/Glukorianer/Glutulhu/Glutulhu": 1
+    "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 128,
+    "/Ideenhalde/Bewohner/Raptorianer/": 1,
+    "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 1
   },
   "schlaeger": {
     "/Abenteuer/Schatz_von_Menkar/Schlaeger": 55,
@@ -6928,18 +6929,18 @@
     "/Weltraum/Sektoren/Z3/": 52,
     "/Weltraum/Sektoren/Z4/": 52,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Supernova": 7,
-    "/Weltraum/Aliens/Raptorianer/": 4,
+    "/Ideenhalde/Bewohner/Raptorianer/": 4,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Drache": 3,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 3,
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 3,
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 3,
     "/Weltraum/Weltraumphaenomene/Halloween-Nebel": 3,
     "/Abenteuer/Raumschiffdungeon/Einstieg": 2,
     "/Abenteuer/Raumschiffdungeon/Hintergrund": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Baustelle": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Nazis": 2,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen": 2,
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 2,
-    "/Weltraum/Aliens/Raptorianer/Greeenhl": 2,
     "/Weltraum/Aliens/SpaceYetis/Eisgalaxis": 2,
     "/Weltraum/Piraten/Treffpunkte/Gimis_Bar": 2,
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 2,
@@ -6954,9 +6955,9 @@
   },
   "sektor b0": {
     "/Weltraum/Sektoren/B0/": 250,
-    "/Weltraum/Aliens/Raptorianer/": 10,
-    "/Weltraum/Aliens/Raptorianer/Dino_Burger": 10,
-    "/Weltraum/Aliens/Raptorianer/Greeenhl": 10,
+    "/Ideenhalde/Bewohner/Raptorianer/": 10,
+    "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 10,
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 10,
     "/Weltraum/Weltraumphaenomene/Oyster-Cluster": 10
   },
   "sektor b4": {
@@ -7171,8 +7172,8 @@
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 26
   },
   "soeldner": {
-    "/Spielregeln/Die_Piratencrew/Charakterwerte": 31,
     "/Abenteuer/Zeitraub_II/Javar_3": 30,
+    "/Spielregeln/Die_Piratencrew/Charakterwerte": 30,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 25,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": 25,
     "/Abenteuer/Dungeonplanet/Einstieg": 11,
@@ -7379,6 +7380,7 @@
     "/Spielregeln/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
+    "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 2,
     "/Spielregeln/Spielmaterial": 2,
     "/StarTunes/Lyrics": 2,
     "/Weltraum/Technologie/Techtalk": 2,
@@ -7389,8 +7391,7 @@
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 1,
     "/Ideenhalde/": 1,
-    "/Ideenhalde/Bewohner/": 1,
-    "/Ideenhalde/Bewohner/Haustiere": 1
+    "/Ideenhalde/Bewohner/": 1
   },
   "spacepirates ng": {
     "/Publikationen/": 25
@@ -7641,7 +7642,7 @@
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 31,
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok": 28,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 13,
-    "/Weltraum/Aliens/Raptorianer/Greeenhl": 4,
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 4,
     "/Weltraum/Freihandelszone/Stratum_Nova": 4,
     "/Weltraum/Aliens/Atlanter/Atlantis": 3,
     "/Weltraum/Aliens/Kahadrier/Kahadria": 3,
@@ -8152,6 +8153,7 @@
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 2,
     "/Weltraum/Aliens/Wagonen/": 2,
     "/Weltraum/Militaer": 2,
+    "/Weltraum/Technologie/": 2,
     "/Weltraum/Technologie/Techtalk": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 1,
@@ -8162,8 +8164,7 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/": 1,
     "/Abenteuer/Zeitraub/Marmonen": 1,
     "/Abenteuer/Zeitraub_II/Auftragserteilung": 1,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 1,
-    "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 1
+    "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 1
   },
   "techniker": {
     "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 10,
@@ -8173,7 +8174,7 @@
   "technologie": {
     "/Weltraum/Technologie/": 100,
     "/Weltraum/Aliens/Atlanter/": 2,
-    "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 1
+    "/Ideenhalde/Bewohner/Raptorianer/Greeenhl": 1
   },
   "technologiekonzern": {
     "/Weltraum/Konzerne/JCTech_IAG": 10,
@@ -8740,6 +8741,7 @@
     "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 111,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen": 100,
     "/Weltraum/Technologie/": 28,
+    "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 25,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Wikinger": 3,
     "/Spielregeln/Die_Piratencrew/Ausruestung/": 3,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 3,
@@ -8755,8 +8757,7 @@
     "/Abenteuer/Laborratten/Railroading/Sturm": 1,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 1,
     "/Abenteuer/Wagonian_Wedding/Einleitung": 1,
-    "/Abenteuer/Weihnachten/Santa_24": 1,
-    "/Abenteuer/Zeitraub/Ueberfall": 1
+    "/Abenteuer/Weihnachten/Santa_24": 1
   },
   "wagner": {
     "/Weltraum/Konzerne/S_I_E_Robotermanufaktur": 160,
