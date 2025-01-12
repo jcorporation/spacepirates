@@ -4,8 +4,6 @@ permalink: /Weltraum/Technologie/Raumschiffe
 title: Raumschiffe
 ---
 
-
-
 ## Raumkreuzer
 
 Raumkreuzer sind die größten Raumschiffe. Sie sind gigantisch und können Tausende von Personen auf Dauer versorgen. Damit sind sie eher eine bewegliche Stadt als ein Fortbewegungsmittel.

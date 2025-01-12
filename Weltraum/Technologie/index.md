@@ -4,8 +4,6 @@ permalink: /Weltraum/Technologie/
 title: Technologie
 ---
 
-
-
 Die Technik bei SpacePirates bietet alles, um Raumflüge angenehm zu gestalten. Im Weltraum zu reisen und mit Überlichtgeschwindigkeit von Planet zu Planet zu fliegen, ist für jeden SpacePiraten Alltag. Computer und fliegende Autos sind alltäglich und die Medizin kann quasi alle Krankheiten heilen.
 
 ## Antigravitation

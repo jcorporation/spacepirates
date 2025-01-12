@@ -4,8 +4,6 @@ permalink: /Weltraum/Technologie/Starnet-Sendungen
 title: Beliebte Starnet-Sendungen
 ---
 
-
-
 ## Dschungelplanet
 
 Der &raquo;Dschungelplanet&laquo; ist eine Revivalshow für B- und C-Promis. Hier tritt jeder auf, der dringend ein paar UC oder Bühnenpräsenz braucht, und dafür auch seine Würde aufs Spiel setzt. Die Teilnehmer werden auf einen abgelegenen, wilden Dschungelplaneten abgesetzt, wo sie eklige Prüfungen ablegen müssen, um an überlebensnotwendige Dinge heranzukommen.

@@ -4,8 +4,6 @@ permalink: /Weltraum/Piraten/
 title: Piraten
 ---
 
-
-
 - [Piratentreffpunkte]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/)
 - [Bekannte Piratencrews]({{ site.baseurl }}/Weltraum/Piraten/Piratencrews/)
 

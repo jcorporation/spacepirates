@@ -4,8 +4,6 @@ permalink: /Weltraum/Technologie/Starnet
 title: Starnet
 ---
 
-
-
 - [Beliebte Starnetsendungen]({{ site.baseurl }}/Weltraum/Technologie/Starnet-Sendungen)
 
 Das Starnet ist das beliebteste und größte frei zugängliche Datennetz im SpacePirates-Universum. Jeder, der wichtig ist oder sich für wichtig hält, hat eine eigene Starnetpräsenz. Daher ist das Starnet der erste Anlaufpunkt, wenn man etwas herausfinden will.
