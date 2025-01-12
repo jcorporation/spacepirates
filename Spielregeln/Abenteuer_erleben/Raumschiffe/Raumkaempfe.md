@@ -60,12 +60,12 @@ Hier ein paar Beispiele, wie Erfolgs- und Misserfolgswürfel in einem Raumkampf 
   - 2 Erfolge: Mit der Enterschleuse andocken (Schilde beider Schiffe müssen deaktiviert sein)
 - SÖLDNER
   - pro Erfolg einen Treffer (SM der Bordkanone Schaden beim gegnerischen Raumschiff)
-  - 2 Erfolge: ausschalten eines bestimmten Subsystems (Schilde des Gegners müssen deaktiviert sein)
-  - 2 Erfolge: der Schuss durchdringt das Schild und verursacht SM der Bordkanone Schaden am beim gegnerischen Raumschiff
+  - 2 Erfolge: Ausschalten eines bestimmten Subsystems (Schilde des Gegners müssen deaktiviert sein)
+  - 2 Erfolge: Der Schuss durchdringt das Schild und verursacht SM der Bordkanone Schaden beim gegnerischen Raumschiff
 - TECH
   - Schilde regenerieren um 2 Punkte je eingesetztem Erfolg (Hilfsenergie wird umgeleitet)
   - Schaden des nächsten Schusses erhöht sich um einen Punkt je eingesetztem Erfolg
-  - Wiederinstandsetzung eines Subsystems
+  - 2 Erfolge: Wiederinstandsetzung eines Subsystems
 
 ##### Misserfolgswürfel
 
@@ -76,7 +76,7 @@ Hier ein paar Beispiele, wie Erfolgs- und Misserfolgswürfel in einem Raumkampf 
 - SÖLDNER
   - trifft einen Meteoriten und nimmt sich selber die Sicht
   - der Schuss geht völlig daneben
-  - 2 Misserfolge: überhitzt durch den Schnellfeuermodus die Waffe und kann eine Runde nicht feuern
+  - 2 Misserfolge: Überhitzt durch den Schnellfeuermodus die Waffe und kann eine Runde nicht feuern
 - TECH
   - leitet aus Versehen die Hauptenergie in die Kombüse um
   - Überhitzt den Neutritiumreaktor
