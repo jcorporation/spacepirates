@@ -74,6 +74,7 @@ Dies ist die dritte Version von SpacePirates.
                     <div class="col">
                         <p>Die fünfte Version (ok, eigentlich die dritte) des SpacePirates Grundregelwerks.</p>
                         <p>DIN A5 Hardcover, 182 Seiten</p>
+                        <p>Erscheinungsdatum: 30.04.2016</p>
                         <p>Preis: ausverkauft</p>
                     </div>
                 </div>
@@ -132,6 +133,7 @@ Dies ist die dritte Version von SpacePirates.
                     </div>
                     <div class="col">
                         <p>StarTunes in einer schicken CD-Box.</p>
+                        <p>Erscheinungsdatum: 17.07.2017</p>
                         <p>Preis: ausverkauft</p>
                     </div>
                 </div>
@@ -172,6 +174,7 @@ Dies ist die zweite Version von SpacePirates.
                     <div class="col">
                         <p>Die zweite Version des SpacePirates Grundregelwerks.</p>
                         <p>DIN A5 Hardcover, 132 Seiten</p>
+                        <p>Erscheinungsdatum: 26.04.2012</p>
                         <p>Preis: ausverkauft</p>
                     </div>
                 </div>
@@ -231,6 +234,7 @@ Dies ist die zweite Version von SpacePirates.
                     <div class="col">
                         <p>Ein Sammelband mit 14 SpacePirates Abenteuern, die jeweils in 1-2 Abenden durchgespielt werden können.</p>
                         <p>DIN A5 Hardcover, 116 Seiten</p>
+                        <p>Erscheinungsdatum: 13.04.2015</p>
                         <p>Preis: ausverkauft</p>
                     </div>
                 </div>
@@ -251,6 +255,27 @@ Dies ist die zweite Version von SpacePirates.
                     <div class="col">
                         <p>Der Sammelband der Themenhefte SpaceNinjas, BigBong-Theorie, Atlanter vs. Spaceamazonen, Stars & Sternchen und der SP:Insider.</p>
                         <p>DIN A5 Hardcover, 144 Seiten</p>
+                        <p>Erscheinungsdatum: 13.04.2015</p>
+                        <p>Preis: ausverkauft</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V2/Themenhefte_2015-03-22.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Schatz.Box</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/schatzbox.webp" width="224" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Die streng limitierte Schatz.Box mit ebenso streng limitierten SpacePirates Handtuch.</p>
+                        <p>Erscheinungsdatum: 04.07.2014</p>
                         <p>Preis: ausverkauft</p>
                     </div>
                 </div>
@@ -280,6 +305,7 @@ Dies ist die erste Version von SpacePirates.
                     <div class="col">
                         <p>Die erste Version des SpacePirates Grundregelwerks.</p>
                         <p>DIN A5 Softcover, 130 Seiten</p>
+                        <p>Erscheinungsdatum: 01.10.2010</p>
                         <p>Preis: ausverkauft</p>
                     </div>
                 </div>
@@ -339,6 +365,48 @@ Dies ist die erste Version von SpacePirates.
                     <div class="col">
                         <p>Das SpaceNinjas Themenheft.</p>
                         <p>DIN A5 Heft, 28 Seiten</p>
+                        <p>Erscheinungsdatum: 28.04.2011</p>
+                        <p>Preis: ausverkauft</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V1/SpaceNinjas_1-0-0.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">SpaceNinjas Pizzabox</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/spaceninjas-box.webp" width="143" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Die streng limitierte SpaceNinjas Pizzabox.</p>
+                        <p>Inhalt: SpacePirates Hardcover, SpaceNinjas Themenheft, Sternenkarte, Button</p>
+                        <p>Erscheinungsdatum: 28.04.2011</p>
+                        <p>Preis: ausverkauft</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V1/SpaceNinjas_1-0-0.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">SpacePirates Würfel</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/wuerfel.webp" width="140" height="92">
+                    </div>
+                    <div class="col">
+                        <p>Die streng limitierten SpacePirates Würfel.</p>
+                        <p>Erscheinungsdatum: 10.10.2011</p>
                         <p>Preis: ausverkauft</p>
                     </div>
                 </div>
