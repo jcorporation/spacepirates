@@ -31,7 +31,7 @@ Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht f
                 </div>
             </div>
             <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/sp-karte_2023-02-05.pdf">Kostenlos herunterladen</a>
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/sp-karte_2025-01-12.pdf">Kostenlos herunterladen</a>
             </div>
         </div>
     </div>

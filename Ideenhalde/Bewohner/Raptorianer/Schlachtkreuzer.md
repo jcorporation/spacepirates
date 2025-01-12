@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Raptorianer/Schlachtkreuzer
+permalink: /Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer
 title: Schlachtkreuzer
 sitedata:
     Slc:
@@ -11,8 +11,6 @@ sitedata:
             Wohnort: "Burger Prince"
 ---
 
-
-
 ## Burger Prince
 
 Die Burger Prince ist der wohl bekannteste Schlachtkreuzer der Raptorianer. Razzngool, der Captain der Burger Prince ist mittlerweile, aufgrund seines ständigen Hungers in der ganzen Galaxis berüchtigt. Bei einem Burgerwettessen soll er einst 127 Dino Burger verschlungen und nach mehr verlangt haben. Sollten die Proteinressourcen an Bord seines Schiffes mal zur Neige gehen, schreckt er auch nicht davor zurück seinen Bedarf auch durch intelligente Alienspezies zu decken.
@@ -21,7 +19,7 @@ Die Burger Prince ist der wohl bekannteste Schlachtkreuzer der Raptorianer. Razz
 
 ## Beta Carotin
 
-Die Beta Carotin wird von einer Gruppe Veganoraptorianern geführt und ist eines der wenigen Piratenschiffe die einst auf [Greeenhl]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Greeenhl) beheimatet waren. Aufgrund ihrer Ablehnung tierischer Proteine ist das Verhältnis zu ihren Artgenossen eher als gestört zu betrachten und so haben sich viele Veganoraptorianer zu einem Leben als Piraten entschlossen. Ziellos streifen sie durchs All und überfallen gelegentlich kleinere Agrarplaneten um ihren Bedarf an Gemüse aufzustocken. Einem gewaltsamen Konflikt versuchen sie jedoch stets aus dem Wege zu gehen und ersuchen daher die Einwohner der Agrarplaneten, ihre Ernte gewaltlos zu übergeben. Zum großen Bedauern scheitern diese Versuche jedoch meistens und es kommt unweigerlich zu einer Auseinandersetzung mit Waffengewalt.
+Die Beta Carotin wird von einer Gruppe Veganoraptorianern geführt und ist eines der wenigen Piratenschiffe die einst auf [Greeenhl]({{ site.baseurl }}/Ideenhalde/Bewohner/Raptorianer/Greeenhl) beheimatet waren. Aufgrund ihrer Ablehnung tierischer Proteine ist das Verhältnis zu ihren Artgenossen eher als gestört zu betrachten und so haben sich viele Veganoraptorianer zu einem Leben als Piraten entschlossen. Ziellos streifen sie durchs All und überfallen gelegentlich kleinere Agrarplaneten um ihren Bedarf an Gemüse aufzustocken. Einem gewaltsamen Konflikt versuchen sie jedoch stets aus dem Wege zu gehen und ersuchen daher die Einwohner der Agrarplaneten, ihre Ernte gewaltlos zu übergeben. Zum großen Bedauern scheitern diese Versuche jedoch meistens und es kommt unweigerlich zu einer Auseinandersetzung mit Waffengewalt.
 
 ***
 

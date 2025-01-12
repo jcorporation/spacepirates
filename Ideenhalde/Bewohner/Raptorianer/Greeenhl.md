@@ -1,6 +1,6 @@
 ---
 layout: planet
-permalink: /Weltraum/Aliens/Raptorianer/Greeenhl
+permalink: /Ideenhalde/Bewohner/Raptorianer/Greeenhl
 title: Greeenhl
 sitedata:
     Staedte:
@@ -20,8 +20,6 @@ sitedata:
             Besiedelung: "Wenige, große Städte"
             Politisches: "Heimatplanet der Raptorianer"
 ---
-
-
 
 Der Heimatplanet der Raptorianer, Greeenhl, befindet sich außerhalb der bekannten Sektoren, einige Lichtjahre vom Oyster-Cluster entfernt. Die vorhandene Landmasse scheint ausschließlich aus einer dichten Dschungelvegetation zu bestehen. Einzig die dort großen ansässigen Städte stellen ein Gemisch aus Stahl, einer glasähnlichen Substanz und einer Vielzahl von Dschungelpflanzen dar, welche die künstlichen Konstrukte förmlich zu überwuchern scheinen. Das Klima ist subtropisch und der Sauerstoffgehalt ist erdähnlich.
 

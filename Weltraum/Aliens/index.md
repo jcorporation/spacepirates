@@ -9,7 +9,6 @@ In SpacePirates gibt es jede Menge unterschiedlicher Alienrassen. Viele sind gru
 - [Atlanter]({{ site.baseurl }}/Weltraum/Aliens/Atlanter/) – die weißen Aliens
 - [Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/) – die bösen Aliens
 - [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/) – die kriegerischen Aliens
-- [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/) – echsenartige Aliens
 - [Romaha]({{ site.baseurl }}/Weltraum/Aliens/Romaha/)– eine untergegangene Alienkultur
 - [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/) – die Wissenschaftler und Forscher
 - [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/) – Amazonen im Weltraum

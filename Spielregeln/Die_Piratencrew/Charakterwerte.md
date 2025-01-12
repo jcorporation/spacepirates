@@ -18,7 +18,6 @@ Aliens erhalten nach der Verteilung noch einen zusätzlichen Punkt im, ihrer Ras
 | Alienrasse | Profil |
 | ---------- | ------ |
 | Kahadrier | SÖLDNER |
-| Raptorianer | SÖLDNER |
 | Samnese | TECH |
 | Spaceamazone | SÖLDNER |
 | Spacepear | TECH |

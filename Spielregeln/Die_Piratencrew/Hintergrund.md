@@ -80,7 +80,6 @@ Kathy nennt ihren Charakter Sun Chen, sie ist Neuasiatin und kommt vom Planeten 
 Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich gibt es auch Alienpiraten. Zur Auswahl stehen die folgenden Rassen:
 
 - [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/) – kriegerische, zwergenähnliche Aliens
-- [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/) – echsenartige Aliens
 - [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/) – forschende, wissbegierige Cyborgs
 - [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/) – niedliche kleine Pelzwesen
 - [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/) – sexy, kriegerische Aliens

@@ -4,8 +4,6 @@ permalink: /Ideenhalde/Bewohner/
 title: Bewohner
 ---
 
-
-
 Auf dieser Seite sind Ideen für zusätzliche Bewohner des SpacePirates Universums gesammelt.
 
 ## Tiere
@@ -16,6 +14,7 @@ Auf dieser Seite sind Ideen für zusätzliche Bewohner des SpacePirates Universu
 ## Intelligente Spezies
 
 - [Aquarianer]({{ site.baseurl }}/Ideenhalde/Bewohner/Aquarianer)
+- [Raptorianer]({{ site.baseurl }}/Ideenhalde/Bewohner/Raptorianer/)
 - [SpaceIndianer]({{ site.baseurl }}/Ideenhalde/Bewohner/Spaceindianer)
 - Hippie-Öko-Spezies
 - [Glos]({{ site.baseurl }}/Ideenhalde/Bewohner/Glos)

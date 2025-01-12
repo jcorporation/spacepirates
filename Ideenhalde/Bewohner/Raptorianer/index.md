@@ -1,6 +1,6 @@
 ---
 layout: aside
-permalink: /Weltraum/Aliens/Raptorianer/
+permalink: /Ideenhalde/Bewohner/Raptorianer/
 title: Raptorianer
 sitedata:
     Rassen:
@@ -10,11 +10,9 @@ sitedata:
             Heimatplanet: "Greeenhl"
 ---
 
-
-
-- Heimatplanet: [Greeenhl]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Greeenhl)
-- [Dino Burger]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Dino_Burger)
-- [Schlachtkreuzer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/Schlachtkreuzer)
+- Heimatplanet: [Greeenhl]({{ site.baseurl }}/Ideenhalde/Bewohner/Raptorianer/Greeenhl)
+- [Dino Burger]({{ site.baseurl }}/Ideenhalde/Bewohner/Raptorianer/Dino_Burger)
+- [Schlachtkreuzer]({{ site.baseurl }}/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer)
 
 Die Raptorianer sind eine echsenartige Alienrasse, die auf Greeenhl beheimatet ist. Charakteristisch ist die grün-braune schuppige Reptilienhaut, manchmal mit gelblichen oder orangefarbenen Farbeinschlag und einem großen weißen Fleck im Kehlbereich. Die meisten ihrer Spezies sind um einiges größer als die meisten humanoiden Rassen. Messerscharfe Klauen und Reißzähne machen sie zu hervorragenden und gefürchteten Nahkämpfern. Ihre typischen Reptilienaugen, die durch die schlitzförmige Pupille geprägt ist, ermöglicht es ihnen auch in absoluter Dunkelheit die Wärmesignatur von Lebewesen wahrzunehmen.
 

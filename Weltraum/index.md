@@ -48,7 +48,6 @@ Der Weltraum – unendliche Weiten. Zumindest beinahe, denn es gibt ja noch die 
 - [Glukorianer]({{ site.baseurl }}/Weltraum/Aliens/Glukorianer/)
 - [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/)
 - [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/)
-- [Raptorianer]({{ site.baseurl }}/Weltraum/Aliens/Raptorianer/)
 - [Romaha]({{ site.baseurl }}/Weltraum/Aliens/Romaha/)
 - [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/)
 - [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Weltraum/Aliens/Raptorianer/Dino_Burger
+permalink: /Ideenhalde/Bewohner/Raptorianer/Dino_Burger
 title: Dino Burger
 sitedata:
     Raumstationen:
@@ -10,8 +10,6 @@ sitedata:
             Bewohner: "Raptorianer"
             Politisches: ""
 ---
-
-
 
 Vor kurzer Zeit, ist die bekannte Galaxis um eine lukullische Attraktion reicher geworden. Der erste Dino-Burger hat in der Nähe des [Oyster-Clusters]({{ site.baseurl }}/Weltraum/Weltraumphaenomene/Oyster-Cluster) seine Pforten eröffnet um hungrige Gäste mit wahren Fast-Food-Köstlichkeiten zu verwöhnen. Schnell sprach es sich in bekannten Sektoren herum, dass dort wohl die schmackhaftesten Burger des Universums serviert werden. Das zu einem Restaurant umgebaute Frachtschiff ist schon aus weiter Ferne zu erkennen, da zahllose Leuchtreklamen auf das umfangreiche Angebot hinweisen. Rein äußerlich erinnert das gesamte Konstrukt an ein Diner, aus der Mitte des 20. Jahrhunderts.
 
