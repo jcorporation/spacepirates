@@ -12,7 +12,9 @@ Der Sprung ins All wurde erst mit der Konstruktion eines funktionierenden Antigr
 
 ## Datennetze
 
-Aufgrund der interstellaren Entfernungen haben sich auch die Datennetze weiterentwickeln müssen. Wichtigstes Übertragungsmedium ist überlichtschneller Funk, mit dem Daten, Bilder, Videos und Sprache übermittelt werden. Die Übertragungskapazität ist enorm, weshalb in den verschiedenen Datennetzen auch vollständige 3-D-Seiten verbreitet sind. (Das größte und beliebteste frei zugängliche Datennetz ist übrigens das Starnet). Auf großen Raumschiffen ist Überlichtfunk inzwischen Standard, kleinere Raumschiffe sind meist auf Relaisstationen angewiesen.
+Aufgrund der interstellaren Entfernungen haben sich auch die Datennetze entsprechend weiterentwickelt. Klassischer Funk mit Lichtgeschwindigkeit ist einfach viel zu langsam und störanfällig. Die einzige Übertragungstechnik, die latenzarm und breitbandig genug ist, ist überlichtschneller Funk auf Basis von quantenverschränkten Quasiteilchen in Baz-Quix-Singuletts. Diese Technik wird der Einfachheit halber nur FTL-Funk genannt.
+
+Die Übertragungskapazität ist enorm und die Latenz erstaunlich niedrig, weshalb in den verschiedenen Datennetzen auch vollständige 3-D-Seiten verbreitet sind. (Das größte und beliebteste frei zugängliche Datennetz ist übrigens das Starnet). Auf modernen Raumschiffen ist Überlichtfunk inzwischen Standard, kleinere oder ältere Raumschiffe sind meist auf Relaisstationen angewiesen.
 
 Jedes Raumschiff, Raumstation und besiedelte Planeten besitzen Funknetze, damit sich Smartphones und Computer in das Starnet einklinken können. FTL-Funkmodule sind für tragbare Geräte noch viel zu klobig und schwer.
 
