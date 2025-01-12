@@ -709,6 +709,7 @@ function contentInit(scope) {
     tables.init(scope);
     svg.init(scope);
     link.init(scope);
+    setOffcanvas();
 
     // clickable event handler
     const clickBoxes = document.querySelectorAll('.clickable');
@@ -759,6 +760,13 @@ async function unregisterWorker() {
     checkServiceWorker();
 }
 
+function setOffcanvas() {
+    const topBarHeight = document.getElementById('top-bar').offsetHeight;
+    const mainMenuEl = document.getElementById('main-menu');
+    mainMenuEl.style.top = 'calc(' + topBarHeight + 'px + 0.5rem)';
+    mainMenuEl.style.maxHeight = 'calc(100vh - ' + topBarHeight + 'px - 5rem)';
+}
+
 //init all
 function siteInit(scope) {
     contentInit(scope);
@@ -767,6 +775,14 @@ function siteInit(scope) {
     if (mainMenuBody === null) {
         return;
     }
+
+    //update offcanvas top on window resize
+    const resizeObserver = new ResizeObserver(function() {
+        requestAnimationFrame(() => {
+            setOffcanvas();
+        });
+    });
+    resizeObserver.observe(document.querySelector('body'));
 
     window.addEventListener('popstate', function() {
         // The popstate event is fired each time when the current history entry changes.
