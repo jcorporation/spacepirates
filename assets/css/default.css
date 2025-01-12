@@ -398,6 +398,7 @@ ul.sitemap {
     overflow: hidden;
     background-color: transparent;
     color: var(--bs-gray-900);
+    z-index: 0;
   }
 
   .offcanvas-header img,
