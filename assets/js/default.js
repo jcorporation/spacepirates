@@ -11,18 +11,6 @@ var errorToast = new BSN.Toast('#errorToast');
 var infoToast = new BSN.Toast('#infoToast');
 
 // helper functions
-function getParent(el, parentNodeName) {
-    while (el.nodeName !== parentNodeName) {
-        if (el.parentNode !== null) {
-            el = el.parentNode;
-        }
-        else {
-            break;
-        }
-    }
-    return el;
-}
-
 function execFunctionByName(functionName) {
     const namespace = functionName.split('.');
     if (namespace.length === 2) {
@@ -233,7 +221,7 @@ tables.filterTable = function(table) {
 }
 
 tables.showHideFilter = function(event) {
-    const table = getParent(event.target, 'TABLE');
+    const table = event.target.closest('TABLE');
     const inputEl = event.target.querySelector('input');
     if (inputEl !== null) {
         inputEl.remove();
@@ -265,8 +253,8 @@ tables.showAllRows = function(table) {
 
 tables.filterRows = function(event) {
     const filter = event.target.value.toLowerCase();
-    const firstRow = getParent(event.target, 'TR');
-    const cell = getParent(event.target, 'TH');
+    const firstRow = event.target.closest('TR');
+    const cell = event.target.closest('TH');
     const cols = firstRow.querySelectorAll('th');
     let colNr;
     for (let i = 0, j = cols.length; i < j; i++) {
@@ -275,7 +263,7 @@ tables.filterRows = function(event) {
             break;
         }
     }
-    const table = getParent(event.target, 'TABLE');
+    const table = event.target.closest('TABLE');
     const tbody = table.querySelector('tbody');
     for (let i = 0, j = tbody.rows.length; i < j; i++) {
         if (tbody.rows[i].cells[colNr].textContent.toLowerCase().indexOf(filter) > -1) {
@@ -301,8 +289,8 @@ tables.sortTable = function(table) {
 }
 
 tables.sortRows = function(event) {
-    const firstRow = getParent(event.target, 'TR');
-    const table = getParent(event.target, 'TABLE');
+    const firstRow = event.target.closest('TR');
+    const table = event.target.closest('TABLE');
     const tbody = table.querySelector('tbody');
     const cols = firstRow.querySelectorAll('th');
     let colNr;
