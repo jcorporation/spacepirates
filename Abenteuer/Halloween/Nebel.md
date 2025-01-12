@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Halloween/Nebel
 title: Nebel erkunden
+order: /04
 ---
-
-
 
 In relativer Nähe des Piratenraumschiffs befinden sich ein Planet, der eine Erkundung wert sein könnten. Am interessantesten ist aber der kürbisförmige Planet im Zentrum des Nebels, der aber momentan außerhalb der Reichweite der stark eingeschränkt funktionierenden Sensoren liegt.
 
@@ -27,8 +26,3 @@ Ein geschickter Tech kann eine Übersetzungsapparat bauen (TECH-Probe: 4 Erfolge
 Der Planet besitzen eine atembare Atmosphäre und ist erdähnlich. Auf den Kontinenten gibt es überall kleinere Städte, die sich alle ähneln. Mehr kann mit der Hilfe der Sensoren nicht festgestellt werden.
 
 - [Vampir-Planet]({{ site.baseurl }}/Abenteuer/Halloween/Vampir-Planet)
-
-***
-
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Halloween/Einstieg)
-- **Weiter:** [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum)

@@ -2,6 +2,7 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Nebel
 title: Nebel von Atlantis
+order: /14
 ---
 
 Direkt vor dem Piratenraumschiff befindet sich der Nebel, in einiger Entfernung hinter ihnen die Raumzeitverschiebung. Sie scheinen in eine andere Zeit oder in einen weit entfernten Sektor katapultiert worden zu sein.
@@ -55,8 +56,3 @@ Im Nebel von Atlantis lebt ein gewaltiger Leviathan, ein bläuliches, schlangenf
 </table>
 
 Der Leviathan ist zwar ein extrem gefährlicher Gegner, aber die Piraten können mit guter Taktik den Leviathan auch ablenken und ihm so entkommen, da er blind ist. Die Charaktere können natürlich auch die Rebellen als Ablenkung benutzen. Der Leviathan reagiert stark auf Geräusche und Energiesignaturen. So bieten sich entfernt gesprengte Bomben, Torpedos oder Ähnliches an, um den Leviathan zu verwirren.
-
-***
-
-- **Zurück:** [Der Weg]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Weg)
-- **Weiter:** [Auf Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis)

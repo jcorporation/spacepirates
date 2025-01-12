@@ -2,6 +2,7 @@
 layout: page
 permalink: /Abenteuer/Neutritiumklau/Lager
 title: "Überfall eines Lagers"
+order: /05
 ---
 
 Die Charaktere können entweder eines der beiden großen Lager in der Nähe von Katpar oder Stratum Nova überfallen, dort befindet sich auf jeden Fall genug Neutritium, oder sie überfallen ein kleineres Lager und riskieren, dass sie nicht genug Neutritium erbeuten können.
@@ -68,8 +69,3 @@ Wieviel Neutritium lagert ist immer unterschiedlich, da SpaceShell die Belieferu
 <tr><td>4</td><td>10 Liter</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Anzapfen der Pipeline]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Pipeline)
-- **Weiter:** [Entführung eines Transportschiffs]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Transportschiff)

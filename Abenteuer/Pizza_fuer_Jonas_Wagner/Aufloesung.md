@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung
 title: Auflösung
+order: /04
 ---
-
-
 
 Die Piraten selbst können wenig mit dem Buch anfangen, da sie dafür zunächst eine Ninja-Ausbildung durchlaufen müssten. Sobald sich herumspricht, dass sie es haben, sind zudem sämtliche Ninjas des Universums hinter ihnen her.
 
@@ -36,7 +35,3 @@ Shuriken: WB 0</td></tr>
 ## Verkauf des Buchs
 
 Wenn die Charaktere jemals wieder ihre Ruhe vor angreifenden Ninjas wollen, so müssen sie das Buch loswerden: Verkaufen, verschenken, zerstören oder vergraben und Schatzkarten streuen. Sowohl die Ninja-Clans als auch reiche Sammler bieten bis zu 20.000 UC für das Buch, wenn die Piraten das Buch verstecken, die Schatzkarte stückeln und die Stücke einzeln verkaufen, so können sie bis zu 25.000 UC verdienen.
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen)

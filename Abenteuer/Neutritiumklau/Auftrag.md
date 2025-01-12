@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Neutritiumklau/Auftrag
 title: Auftragserteilung
+order: /02
 ---
-
-
 
 Stan, der vertrauenswürdige Gebrauchtraumschiffhändler, von [Two Eyed Jack]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack), hat einen Auftrag für die Charaktere. Sein Neutritiumlager ist schon fast leer und er braucht dringend Nachschub. Natürlich kann er von keiner offiziellen Stelle, wie z.B. von SpaceShell, Neutritium erwerben, da er es hier illegal in großen Mengen vertickt und man immer nur sehr kleine Mengen Neutritium einkaufen kann. Stan&rsquo;s olde Spacecraft Shoppe ist einer der wenigen Tankstellen, die an jeden Neutritium verkaufen, ohne irgendwelche Fragen zu stellen.
 
@@ -36,7 +35,3 @@ Daher wird Neutritium in speziellen 0,1 Liter Flaschen gelagert, die speziell ab
 In der Nähe von Planeten werden nur kleine Mengen, maximal 10 Liter, Neutritium gelagert. Mehr Neutritium ist auch auf einem Tanker nicht erlaubt.
 
 Die gefährliche Omegastrahlung entsteht aber nur bei einer Neutritiumfusion oder bei einer Singularitätskaskade.
-
-***
-
-- **Weiter:** [SpaceShell]({{ site.baseurl }}/Abenteuer/Neutritiumklau/SpaceShell)

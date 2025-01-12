@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Halloween/Einstieg
 title: Einstieg
+order: /03
 ---
-
-
 
 Die Piraten sind gerade mit ihrem Raumschiff unterwegs, als mitten im Niemandsland in einem Nebel auf einmal der FTL-Antrieb ihres Raumschiffs den Geist aufgibt. Der Nebel ist recht dicht, so dass die Sensoren des Raumschiffs nur eine sehr geringe Reichweite haben und auch der Funkverkehr scheint durch den Nebel gestört zu sein. Ohne FTL-Antrieb braucht das Raumschiff etwa eine Woche um aus dem Nebel herauszukommen.
 
@@ -27,8 +26,3 @@ Kaum ist das Gespenst verschwunden, wird das Raumschiff von 12 SpaceKürbissen a
 <tr><th>Schadenspunkte</th><td>3</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Hintergrund]({{ site.baseurl }}/Abenteuer/Halloween/Hintergrund)
-- **Weiter:** [Nebel erkunden]({{ site.baseurl }}/Abenteuer/Halloween/Nebel)

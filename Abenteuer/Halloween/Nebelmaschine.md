@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Halloween/Nebelmaschine
 title: Nebelmaschine
+order: /09
 ---
-
-
 
 Die gigantische Nebelmaschine ist im Inneren des Planeten untergebracht. Es führen nur geheime Wartungsschächte bzw. die Öffnung des Mundes zu dieser Maschine. Allerdings ist es unklug über den Mund zur Maschine vorzudringen, da man unweigerlich im Inneren der Maschine landet.
 
@@ -17,8 +16,3 @@ Die KI wird natürlich alles in ihrer Macht stehende unternehmen um die Charakte
 1. Sie schickt die restliche CyberKürbisse in die Halle, falls die Piraten nicht alle 40 bei der Erkundung der Raumstation vernichtet haben.
 2. Die KI verdichtet den Nebel in der Halle: Die Charaktere müssen eine Mutationsprobe mit 4 Erfolgen schaffen, sonst sinkt die Zähigkeit aller Profile um eins.
 3. Sie schaltet alle Computerterminals in der Halle ab.
-
-***
-
-- **Zurück:** [Auf der Station]({{ site.baseurl }}/Abenteuer/Halloween/Station)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Halloween/Ende)

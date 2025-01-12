@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Laborratten/Railroading/Hafen
 title: "Szene 3: Hafen"
+order: /06
 ---
-
-
 
 Die Charaktere finden sich inmitten einer typischen Hafenkneipe wieder und trinken Rum (der nach Sherry schmeckt). Überall sitzen angetrunkene Seeleute, ein Kapitän versucht gerade Leute für seine Mannschaft zu rekrutieren und Dirnen bieten ihre Dienste an. Es spielt ein alter Kerl auf seinen Akkordeon und singt dazu Seemannslieder. Die Stimmung ist daher ausgelassenen und die Betrunkenen grölen auch die Lieder mit.
 
@@ -28,8 +27,3 @@ Das Gefängnis hat mehrere große Zellen. Die Charaktere landen zusammen in eine
 Bei Sonnenaufgang steht die Hinrichtung der Charaktere an, sie sollen am Galgen baumeln. Warum erfahren die Charaktere nur per Zufall, sie sind wegen Piraterie gesucht.
 
 **Sobald die Szene ihren dramatischen Höhepunkt erreicht macht es *SWITCH* und die Charaktere befinden sich inmitten der ersten Szene ([Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Sturm)) wieder. Alle Piratenpunkte und Zähigkeiten regenerieren komplett.**
-
-***
-
-- **Zurück:** [Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Schatzinsel)
-- **Weiter:** [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Loesung)

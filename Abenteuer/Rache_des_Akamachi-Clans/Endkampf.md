@@ -10,9 +10,8 @@ sitedata:
             PILOT: "2"
             HAENDLER: "6"
             Zaehigkeit: "4"
+order: /05
 ---
-
-
 
 Die Zentrale des Akamachi-Clans befindet sich in „Parfum Town“, einem großen, von der Kosmetikbranche dominierten Industriegebiet in Neu-Neo-Tokio. In der Fabrik gibt es allerlei lustige chemische Apparaturen, Behälter mit flüssigen, festen und gasförmigen Zutaten und was man sonst noch so braucht. Selbstverständlich liegt jederzeit explosiver Parfümrauch in der Luft, weshalb Laser- und Plasmawaffen hier unangenehme Nebenwirkungen zeigen. (Die Ninjas stört das nicht weiter, da sie eh nur mit parfümierten Rauchgranaten, Ninjaschwerter und Shurikenwerfern kämpfen).
 
@@ -39,7 +38,3 @@ Rauchbomben: WB 0</td></tr>
 Sha Dong ist das weise alte Oberhaupt des Akamachi-Clans. Wie alle Ninjas wird der mit dem Alter aber nur gefährlicher, weil er mehr geheime Ninja-Kampftechniken kennt. Er wird in den Kampf eingreifen, wenn er das Gefühl hat, seine Schüler seien dabei, zu verlieren.
 
 {% include slc_profile.md data=page.sitedata.Slc.Sha_Dong %}
-
-***
-
-- **Zurück:** [Zweiter Anschlag]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag)

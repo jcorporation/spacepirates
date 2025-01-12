@@ -5,8 +5,6 @@ title: In der Quantenfluktuation
 order: 04
 ---
 
-
-
 In welche der beiden Quantenfluktuationen die Charaktere fliegen ist herzlich egal, da sie miteinander verschränkt sind und daher ohne Zeitverzug immer exakt das gleiche geschieht.
 
 Die Beschreibung der Geister reicht aus, um innerhalb der Quantenfluktuation zum alten Bandraumschiff zu finden. Mit folgender Tabelle kann bestimmt werden, auf wen die Charaktere in der Quantenfluktuation treffen.

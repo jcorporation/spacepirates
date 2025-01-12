@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Zeitraub_II/Ereignisse
 title: Ereignisse
+order: /02
 ---
-
-
 
 Das Abenteuer spielt nach dem Abenteuer „Zeitraub“. Die Charaktere haben das Zeitmaschinenteil gestohlen und bei Jangba abgeliefert. Da sie die Warnung der Marmonen nicht beachtet haben, sind diese verärgert.
 
@@ -13,7 +12,3 @@ Auf Javar 3 gab es eine große Zeitanomalie, durch die unbemerkt aggressive und 
 In der Zwischenzeit hat Jangba das Forschungslabor in Besitz genommen und führt die Experimente unter der Leitung von Edward Bakutha fort. Bakutha war einer der wenigen Forscher, dem die Flucht von diesem Planeten gelang und Jangba nutzt seine Fähigkeiten, um eine Zeitmaschine zu bauen, mit der er noch mächtiger werden kann.
 
 Durch die Experimente hat er in der nahen Zukunft einen neuen Urknall verursacht und das bestehende Universum ausgelöscht. Jangba konnte aber durch die Zeitmaschine 3 Tage in die Vergangenheit flüchten.
-
-***
-
-- **Weiter:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Auftragserteilung)

@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Baustelle
 title: Baustelle
+order: /12
 ---
-
-
 
 - **Wurmlochdemodulatorteil:** Modulationseinheit
 
@@ -34,7 +33,3 @@ Hinter der Tür befindet sich eine große, moderne Werkstatt, auch hier ist alle
 </table>
 
 Auf einer Werkbank befindet sich ein Gegenstand, der aus wild angeordneten Röhren besteht (Modulationseinheit des Wurmlochdemodulators). Es ist offensichtlich, dass dem Gegenstand noch zwei Einheiten fehlen.
-
-***
-
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

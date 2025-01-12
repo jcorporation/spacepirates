@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Ostern/Captain_Rogers
 title: Captain Rogers
+order: /06
 ---
-
-
 
 Captain Rogers hat quasi das Monopol auf Rum und ist auf dem Planeten Cygni Tek im kahadrischen Reich beheimatet.
 
@@ -25,7 +24,3 @@ Auch die Konzernzentrale und Fabriken von Captain Rogers sehen aus wie ein Oster
 ### VzFvO
 
 Auf Cygni Tek sind auch Agenten der VzFvO aktiv und kontrollieren den Osterwahnsinn auf dem Planeten. Sie werden misstrauisch, falls die Piraten zu offensichtlich herumschnüffeln.
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)

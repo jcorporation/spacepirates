@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Nazis
 title: Nazis
+order: /10
 ---
-
-
 
 - **Wurmlochdemodulatorteil:** Sender
 
@@ -28,7 +27,3 @@ Tagsüber kann die Ausstellung ohne Probleme betreten werden, die Museumsführer
 <tr><th>Bewaffnung</th><td>Maschinenpistole: WB 1</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

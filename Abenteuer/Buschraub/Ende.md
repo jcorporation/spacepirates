@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Buschraub/Ende
 title: Ende
+order: /13
 ---
-
-
 
 Wenn es die Piraten geschafft haben, Vox Rubusch von Nova Ceti zu rauben, bieten sich ihnen drei Möglichkeiten, den Busch zu Geld zu machen.
 
@@ -19,7 +18,3 @@ Natürlich können die Piraten Herr Schmidtz auch Herr Schmidtz sein lassen und 
 ## SWIP
 
 Das SWIP bietet den Piraten auf Nachfrage ebenfalls 20.000 UC für den Busch und Informationen zu seinem Wachstumsort. Falls die Piraten Eris befreit haben, winkt dafür noch eine zusätzliche Belohnung (bis zu 10.000 UC), wenn sich die Piraten intelligent anstellen.
-
-***
-
-- **Zurück:** [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Nova_Ceti)

@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis
 title: Auf Atlantis
+order: /15
 ---
-
-
 
 Sind die Charaktere in der Mitte des Nebels angelangt, so sind sie die Ersten, die nach tausend Jahren einen Blick auf Atlantis, den verschollenen Planeten, werfen können. Der Planet sieht beschaulich aus, auf der Südhalbkugel scheint ein Stück des Planeten zu fehlen.
 
@@ -38,8 +37,3 @@ Fragen die Charaktere nach der Geschichte, erzählt ihnen Aristoteles, dass sie 
 ### Atlantisches Weinfest
 
 Es ist Spätsommer auf Atlantis, daher laufen gerade die Vorbereitungen für das große Weinfest, dem größten atlantischen Volksfest überhaupt. Die Piraten werden von Aristoteles herzlich eingeladen, ja, er schwärmt ihnen geradezu davon vor. Das Fest bietet neben der Verkostung von viel, extrem gutem, atlantischem Wein auch volkstümliche Schlagermusik, inklusive eines Liveauftritts des beliebtesten atlantischen Stars, Udos Jurgenios. Zum Weinfest herrscht Ausnahmezustand auf Atlantis, quasi jeder Bürger ist auf den Beinen und die komplette Innenstadt ist voller feiernder Atlanter – eine gute Gelegenheit für die Piraten, von Atlantis zu fliehen und ein paar atlantische Artefakte in Sicherheit zu bringen.
-
-***
-
-- **Zurück:** [Nebel von Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Nebel)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Ende)

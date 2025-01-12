@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Buschraub/Sperrzone
 title: Sperrzone
+order: /11
 ---
-
-
 
 Die Sperrzone ist schnell gefunden, sie befindet sich zwischen dem Trullimperium und Samara an der Ecke zur neutralen Zone und hat einen Durchmesser von 25 Lichtjahren. Natürlich ist die Sperrzone gesichert; rund um die Sperrzone befinden sich in kleinen Abständen kleine intelligente Raumbojen, die rot blinken.
 
@@ -46,8 +45,3 @@ Wenn die Piraten den Peilsender der JCTech IAG nicht entdeckt haben, werden die 
 </table>
 
 Nova Ceti befindet sich dicht am Dimensionsriss, weshalb eine ordentliche Landung eine PILOTEN-Probe mit 5 Erfolgen erfordert.
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
-- **Weiter:** [Auf Nova Ceti]({{ site.baseurl }}/Abenteuer/Buschraub/Nova_Ceti)

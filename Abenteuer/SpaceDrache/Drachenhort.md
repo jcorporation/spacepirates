@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/SpaceDrache/Drachenhort
 title: Drachenhort
+order: /09
 ---
-
-
 
 Der Spacedrache hat sich zwischen dem weißen Loch und den Plasmastürmen einen Drachenhort eingerichtet. Dieser liegt auf dem 4. Planeten des Doppelsternensystems Sigma 9. Zwischen den Planeten treiben zerstörte Raumschiffe, sie sind angekokelt und zerfetzt.
 
@@ -15,8 +14,3 @@ Der Drachenhort befindet sich natürlich auf dem höchsten Berg des Planeten in 
 Prinzessin Lea bewohnt eine kleinere Höhle gleich nebenan und hat es sich hier hübsch eingerichtet. Auf seinen Raubzügen bringt der SpaceDrache Prinzessin Lea auch immer ein kleines Präsent mit.
 
 - [mehr zum Sternensystem Sigma 9]({{ site.baseurl }}/Weltraum/Aliens/Trull/Sigma_9)
-
-***
-
-- **Zurück:** [SpaceDrache]({{ site.baseurl }}/Abenteuer/SpaceDrache/SpaceDrache)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/SpaceDrache/Ende)

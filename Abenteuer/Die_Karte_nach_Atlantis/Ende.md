@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Ende
 title: Ende
+order: /16
 ---
-
-
 
 Wenn sich die Charaktere dazu entscheiden, den Atlantern die Karte zu überlassen, können sie auf Atlantis bleiben so lange sie wollen oder auch abreisen, wenn sie bereit sind, sich das Wissen über den Standort von Atlantis aus dem Gedächtnis löschen zu lassen.
 
@@ -39,7 +38,3 @@ Die Atlanter haben das Problem der Antiphotonenverteilung endgültig gelöst und
 ### Tragbarer Antivakuumkraftfeldgenerator
 
 Der tragbare Antivakuumkraftfeldgenerator ist nicht nur ein praktischer Ersatz für Raumanzüge, sondern dank seiner formschönen Gestaltung in Form eines Gürtels auch ein modisches Accessoire. Das exakt auf den Körper des Trägers angepasste Antivakuumkraftfeld bietet den gleichen Schutz wie ein Raumanzug, aber ohne dessen Einschränkungen. Daher ist er besonders bei Spaceamazonen äußerst beliebt.
-
-***
-
-- **Zurück:** [Auf Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis)

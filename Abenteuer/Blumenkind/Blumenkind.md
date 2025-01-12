@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Blumenkind/Blumenkind
 title: Die Blumenkind
+order: /009
 ---
-
-
 
 Die Form der Blumenkind erinnert an ein Hanf-Blatt: Sieben linsenförmige, viktorianische Palmenhäuser laufen an einem Punkt zusammen. Die feinmaschige Stahlkonstruktion verhindert ein Scannen der Station: Die Sensoren zeigen lediglich „viel Leben“ an.
 
@@ -47,7 +46,3 @@ Jeder Charakter verliert 1 Punkt Zähigkeit auf SÖLDNER durch Raumstrahlung, fa
 <tr><th>W</th><td>SpaceWorms</td><td>5</td><td>2</td><td>SpaceWorm Arbeiter</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Auf Doradus]({{ site.baseurl }}/Abenteuer/Blumenkind/Doradus)

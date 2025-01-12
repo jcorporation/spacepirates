@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch
 title: Hinter dem Wurmloch
+order: /05
 ---
-
-
 
 Hinter dem Wurmloch ist es wesentlich ruhiger als davor. Ein halbes Lichtjahr entfernt befindet sich ein seltsames Sternensystem. Es besteht aus einem hell leuchtenden Tetraeder im Zentrum und nur einen erdähnlichen Planeten der ihn umkreist. Das Sternensystem selber umkreist ein gigantisches schwarzes Loch, daher vergeht hier die Zeit wesentlich langsamer, was man aber nur merkt, wenn man sich einige Lichtjahre entfernt.
 
@@ -27,8 +26,3 @@ Die meiste Zeit verbringt Quetzalcoatl schlafend um den Tetraeder geschwungen, e
 <tr><th>Schadenspunkte</th><td>30</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Koordinaten)
-- **Weiter:** [Auf dem Planeten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten)

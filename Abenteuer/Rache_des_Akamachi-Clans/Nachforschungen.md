@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen
 title: Nachforschungen
+order: /03
 ---
-
-
 
 Die Ninjas wissen nichts über den Hintergrund des Angriffs. Sie haben von ihrem Clanoberhaupt lediglich erfahren, dass sie die Crew verächtlich machen und möglichst aufmischen sollen. Sie sind per Anhalter auf der Station angekommen. Zurück nach Neu-Neo-Tokio wollten sie mit dem Schiff der Piraten fliegen.
 
@@ -27,8 +26,3 @@ Egal wie, die SpacePirates sollten diverse Spuren erhalten, die darauf hinweisen
 In Neu-Neo-Tokio müssen die Piraten sich dann nicht nur vor der Polizei verstecken, sondern auch vor den Ninjas des Akamachi-Clans. Und diese werden den Piraten im überrannten Neu-Neo-Tokio überall auflauern…
 
 Trotzdem kann es den Piraten gelingen, zu überleben und das Hauptquartier der Ninjas zu finden – etwa, indem sie fliehende Ninjas verfolgen, ein Clan-Mitglied verführen, einen Peilsender dorthin schmuggeln lassen oder Ähnliches. Ein derartiger Plan wird erfolgreich ausgeführt, wenn in Neu-Neo-Tokio eine Probe mit 5 Erfolgen auf ein passendes Profil gelingt.
-
-***
-
-- **Zurück:** [Anschlag]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Anschlag)
-- **Weiter:** [Zweiter Anschlag]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag)

@@ -15,6 +15,7 @@ sitedata:
             HAENDLER: "5"
             Zaehigkeit: 2
             Bewaffnung: Laserpistole (WB 0)
+order: /02
 ---
 
 - [Wagonische Königsfamilie]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie)
@@ -39,7 +40,3 @@ Leibgarde der Königin. Gut ausgebildete, schwer bewaffnete männliche Kahadrier
 <tr><th>Bewaffnung</th><td colspan="3" rowspan="1">Ionisierte Axt (WB 2)</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Weiter:** [Einleitung: Hein the Mono]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Einleitung)

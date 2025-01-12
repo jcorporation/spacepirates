@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Schatzjagd/Rand
 title: Rand des Universums
+order: /06
 ---
-
-
 
 Der Rand des Universums ist ein faszinierender Anblick, der jeden gefangen hält. Das Universum scheint, einem Wasserfall ähnlich, in einen aus Nichts bestehenden Abgrund zu stürzen, um noch einmal kurz aufschäumend zu verschwinden.
 
@@ -67,7 +66,3 @@ Der Schatz befindet sich natürlich in einer großen Kiste, die in einer kleinen
 - Weihnachtsdekoration für ein Frachtschiff
 - 200 Rabattmarken für ein Langhaarshampoo
 - Ionisierte Axt des Klassikers „Space Hero“
-
-***
-
-- **Zurück:** [Reise zum Rand des Universums]({{ site.baseurl }}/Abenteuer/Schatzjagd/Reise)

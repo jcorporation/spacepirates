@@ -2,6 +2,7 @@
 layout: page
 permalink: /Abenteuer/Zeitraub/Ueberfall
 title: "Überfall"
+order: /06
 ---
 
 Wie die Piraten an die Kiste kommen, bleibt natürlich ihnen überlassen. Hier gibt es interessante Informationen über das Transportschiff und ein paar Möglichkeiten, wie die Piraten es überfallen könnten.
@@ -86,8 +87,3 @@ Die Piraten können entweder das Schiff entern oder den Kapitän zwingen, das Ba
 - Sie befindet sich in einem separaten Laderaum, der speziell abgeschirmt ist. Nur der Kapitän besitzt den Zahlencode, um den Raum zu betreten.
 - Sie ist verschlossen und mit einem Zahlenschloss gesichert, auf ihr prangt das Logo der Föderation.
 - In der Kiste steckt ein Bauteil für eine Zeitmaschine.
-
-***
-
-- **Zurück:** [Marmonen]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen)
-- **Weiter:** [Das Bauteil]({{ site.baseurl }}/Abenteuer/Zeitraub/Bauteil)

@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Rache_des_Akamachi-Clans/
 title: Rache des Akamachi-Clans
+order: /01
 ---
-
-
 
 Im Abenteuer &bdquo;[Schatzjagd]({{ site.baseurl }}/Abenteuer/Schatzjagd/)&ldquo; haben es sich die Piraten mit [Tanaka Mao]({{ site.baseurl }}/Abenteuer/Schatzjagd/Zweite_Piratengruppe) verscherzt. Gleichzeitig sind sie dabei aber auch dem [Ninja-Clan]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/) der Akamachi auf die Füße getreten, in deren Auftrag Tanaka Mao unterwegs war. Dieser sinnt nun auf Rache für die Niederlage und hat seine Mitglieder ausgeschickt, die Piraten zu töten.
 

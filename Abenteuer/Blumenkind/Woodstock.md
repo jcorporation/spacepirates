@@ -10,9 +10,8 @@ sitedata:
             Kategorie: "Hippie"
             Wohnort: "Woodstock"
             Position: ""
+order: /007
 ---
-
-
 
 - Details zu [Woodstock]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Woodstock)
 
@@ -57,8 +56,3 @@ Jeder kennt Ocean Sunflower und man kann den Charakteren auch den Weg zu seinem 
 </table>
 
 Die SWIP kommt auf jeden Fall am 2. Tag an und wird versuchen Sunflower zu entführen, auch wenn die Charaktere in der Nähe von Sunflower sind. Haben die Charaktere Sunflower auf ihr Raumschiff mitgenommen, wird die SWIP nach einer kurzen Aufforderung Sunflower zu übergeben das Raumschiff angreifen oder es verfolgen.
-
-***
-
-- **Zurück:** [SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/SWIP)
-- **Weiter:** [Auf Doradus]({{ site.baseurl }}/Abenteuer/Blumenkind/Doradus)

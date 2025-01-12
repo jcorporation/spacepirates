@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Buschraub/JCTech_IAG
 title: JCTech IAG
+order: /04
 ---
-
-
 
 Die JCTech IAG will aus Vox Rubusch ein neues Medikament bzw. eine neue Droge herstellen, weil sie einen gigantischen Markt dafür wittert. Natürlich wird sie offiziell nur legale Mittel anwenden, um an den Busch zu gelangen. Im Hintergrund lässt sie aber durch geheime Tochtergesellschaften auch andere Fäden ziehen.
 
@@ -49,9 +48,3 @@ Wenn die Piraten aufmerksam sind und aus irgendeinem Grund Verfolger oder Bescha
 <tr><th>Bewaffnung</th><td>Duallaserkanone: WB 2, SM 2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
-- **Weiter:** [Eris]({{ site.baseurl }}/Abenteuer/Buschraub/Eris)
-- **Weiter:** [Bahir]({{ site.baseurl }}/Abenteuer/Buschraub/Bahir)

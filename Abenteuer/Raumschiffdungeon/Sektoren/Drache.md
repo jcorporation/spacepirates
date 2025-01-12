@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Drache
 title: Drache
+order: /11
 ---
-
-
 
 - **Wurmlochdemodulatorteil:** Modulationseinheit
 
@@ -36,7 +35,3 @@ Klauen: 3</td></tr>
 <tr><th>Schadenspunkte</th><td>30</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

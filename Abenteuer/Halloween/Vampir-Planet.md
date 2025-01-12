@@ -14,10 +14,8 @@ sitedata:
             HAENDLER: "8"
             Zaehigkeit: "4 (regeneriert jede Runde um 1 Punkt)"
             Position: ""
-
+order: /05
 ---
-
-
 
 Der Vampir-Planet ist auf dem Entwicklungsstand des 18. Jahrhundert der Erde. Auf dem Planeten ist es fast immer dunkel oder dämmrig, trotzdem existiert eine Pflanzenwelt, wie man sie von der Erde kennt. Die normale Bevölkerung ist verängstigt und wagt sich kaum auf die Straßen.
 
@@ -86,8 +84,3 @@ Graf Dracula scheint aus einem alten Horrorfilm zu stammen. Er sieht uralt aus, 
 #### Keller
 
 Der Keller ist mehr eine Gruft als ein Keller. Die Decken sind hoch und an ihnen hängen Kokons, in denen Vampire schlummern, die durch einen Blitz zum Leben erweckt werden sollen. Der Keller besitzt einen offenen Ausgang aus dem die geschlüpften Vampire ins Freie fliegen können.
-
-***
-
-- **Zurück:** [Nebel erkunden]({{ site.baseurl }}/Abenteuer/Halloween/Nebel)
-- **Weiter:** [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum)

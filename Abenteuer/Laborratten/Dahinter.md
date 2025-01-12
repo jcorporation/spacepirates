@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Laborratten/Dahinter
 title: Dahinter
+order: /08
 ---
-
-
 
 Sobald die Charaktere dem Hologramm entflohen sind, können sie das restliche Raumschiff erkunden oder eben wieder zurück auf ihr Schiff, das immer noch angedockt ist.
 
@@ -51,7 +50,3 @@ Entweder die Charaktere überwältigen die Glukorianer auf ihrem eigenen Schiff 
 2 Gravitationskanonen: WB 3, SM 3</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Lösung]({{ site.baseurl }}/Abenteuer/Laborratten/Loesung)

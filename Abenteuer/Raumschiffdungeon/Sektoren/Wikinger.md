@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Wikinger
 title: Wikinger
+order: /09
 ---
-
-
 
 - **Wurmlochdemodulatorteil:** Sender
 
@@ -44,7 +43,3 @@ Die Wikinger lassen sich mit Waffen oder Ähnlichem bestechen, wären auch an pr
 <tr><th>Bewaffnung</th><td>Disruptor: WB 2</td><td>Axt: WB 0</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Weihnachten/Santa_24
 title: Santa 24
+order: /05
 ---
-
-
 
 Aus dem Wurmloch herausgekommen erblicken die Piraten direkt vor sich Santa 24. Es ist ein Eisplanet der schon vom Weltraum aus weihnachtlich aussieht, da er von einem großen Asteroidengürtel umgeben ist, der sehr stark an Lametta erinnert.
 
@@ -24,8 +23,3 @@ Nach ein paar Minuten kommt auch der Weihnachtsmann aus dem Fabriktor und begrü
 - **3 Erfolg:** Aus dem großen Sack auf dem Schlitten ist ein leises Ticken zu hören
 
 Wenn die Piraten die Elfen auf den falschen Weihnachtsmann ansprechen, rücken sie nach einigem Zögern mit der Wahrheit heraus: Der böse Knecht Ruprecht hat den Weihnachtsmann entführt und zwingt sie jetzt für ihn zu arbeiten. Statt Geschenken müssen sie jetzt Bomben bauen. Er droht, den Weihnachtsmann umzubringen, wenn sie ihn verraten oder seinen Befehlen nicht gehorchen. Die Elfen wollen den Piraten, nachdem jetzt die Wahrheit ans Licht gekommen ist, helfen, den Weihnachtsmann zu befreien.
-
-***
-
-- **Zurück:** [Treffpunkt]({{ site.baseurl }}/Abenteuer/Weihnachten/Treffpunkt)
-- **Weiter:** [Knecht Ruprecht]({{ site.baseurl }}/Abenteuer/Weihnachten/Knecht_Ruprecht)

@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Laborratten/Loesung
 title: Lösung
+order: /07
 ---
-
-
 
 Spätestens nach dem ersten Durchlauf der Szenen sollten offensichtliche Lösungshinweise eingebaut werden.
 
@@ -23,8 +22,3 @@ Viele Passanten reagieren exakt gleich und sind kaum zu anderen Handlungen fähi
 ## Dem Hologramm entfliehen
 
 Da der Computer, der das Hologramm berechnet, auch nur über begrenzte Ressourcen verfügt, kann man diesen überlasten, was zu Darstellungsfehlern und Unbedienbarkeit und schlussendlich zum Zusammenbruch des Hologramms führt. Sie befinden sich dann in einem ganz schwarzen Raum, der nur über einen Ausgang verfügt. Der Ausgang ist verschlossen, kann aber mit einer TECH-Probe mit 3 Erfolgen geöffnet oder mit einer SÖLDNER-Probte mit 4 Erfolgen aufgebrochen werden. Wird die Tür gewaltsam geöffnet wird ein Alarm ausgelöst.
-
-***
-
-- **Zurück:** [Hafen]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Hafen)
-- **Weiter:** [Dahinter]({{ site.baseurl }}/Abenteuer/Laborratten/Dahinter)

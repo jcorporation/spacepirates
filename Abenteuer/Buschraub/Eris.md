@@ -10,9 +10,8 @@ sitedata:
             Kategorie: "Forscher"
             Wohnort: "BigBong"
             Position: ""
+order: /08
 ---
-
-
 
 Eris wurde schon seit zwei Tagen nicht mehr gesehen. Er erschien weder auf der Arbeit noch in seinem Stammlokal Abodabi, das können die Charaktere durch etwas Herumfragen herausfinden. In der Tat wurde Eris vor zwei Tagen von Agenten der JCtech IAG aus seinem privaten Labor entführt.
 
@@ -75,8 +74,3 @@ Die Entführer haben den Lagerraum natürlich unter einem Pseudonym angemietet u
 ## Eris&#39; Informationen
 
 Eris ist schon seit langer Zeit auf der Suche nach Vox Rubusch und glaubt, einen Durchbruch gelandet zu haben. Er ist sich sehr sicher, dass Vox Rubusch nur in der Nähe eines Dimensionsrisses wachsen kann. Er glaubt auch, so einen Dimensionsriss gefunden zu haben, der sich aber in einer Sperrzone befindet. Er würde die Piraten gerne begleiten.
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
-- **Weiter:** [Dimensionsriss]({{ site.baseurl }}/Abenteuer/Buschraub/Dimensionsriss)

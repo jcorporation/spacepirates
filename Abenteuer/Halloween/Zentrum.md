@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Halloween/Zentrum
 title: Zentrum des Nebels
+order: /06
 ---
-
-
 
 Im Zentrum des Nebels befindet sich eine Raumstation die in einen kleinen Planeten in der Form eines großen Halloweenkürbisses integriert ist. Von dieser Plattform aus starten auch die kleinen SpaceKürbisse, die den Piraten am Anfang des Abenteuers zugesetzt haben. Aus dem mit grotesken Zähnen besetzten Mund strömt ein dichter Nebel. Dies scheint die Quelle des Nebels zu sein.
 
@@ -37,8 +36,3 @@ Wenn die Piraten die Station angreifen oder versuchen auf ihr zu landen starten 
 </table>
 
 Wenn die Charaktere die Station etwas genauer untersuchen (TECH-Probe auf Sensoren mit 4 Erfolgen) können sie ein extrem schwaches Notsignal, das von der Station kommt, ausmachen.
-
-***
-
-- **Zurück:** [Nebel erkunden]({{ site.baseurl }}/Abenteuer/Halloween/Nebel)
-- **Weiter:** [Auf der Station]({{ site.baseurl }}/Abenteuer/Halloween/Station)

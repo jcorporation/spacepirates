@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Zeitraub_II/Laborkarte
 title: Karte des Labors
+order: /06
 ---
-
-
 
 <img alt="Laborplan" src="{{ site.baseurl }}/assets/images/abenteuer/zeitraub2/laborplan.webp" />
 
@@ -12,7 +11,3 @@ title: Karte des Labors
 2. Negatronenwerfer auf dem Flachdach des Labors
 3. Söldner im Wachdienst
 4. Schlafende Söldner
-
-***
-
-- **Zurück:** [Auf Javar 3]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Javar_3)

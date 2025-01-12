@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Schatz_von_Menkar/Koordinaten
 title: Bei den Koordinaten
+order: /04
 ---
-
-
 
 Angekommen bei den Koordinaten bietet sich den Charakteren ein unerwartetes Schauspiel. Sie sind ganz und garnicht die einzigen in dieser Gegend. Überall sind Starnet Reporter, Übertragungsraumschiffe und Schaulustige. Es gibt mobile Fly-Through-Schalter bekannter Fastfood-Ketten und auch Gimis Bar ist in der Ecke zu finden. Dominiert wird die Szenerie von einem gigantischen Countdown, der von einer Stunde nach unten zählt. Die Sternenkonstellation scheint wohl nicht ganz unbekannt zu sein. Noh Frut ist genauso perplex wie die Charaktere, hätten sie wohl besser die ganzen Werbeeinblendungen mehr beachtet…
 
@@ -26,8 +25,3 @@ Die Reise durch das Wurmloch ist holprig, sollte aber einem erfahrenen Piloten k
 <tr><th>Schadensmodifikator</th><td>2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Einstieg)
-- **Weiter:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch)

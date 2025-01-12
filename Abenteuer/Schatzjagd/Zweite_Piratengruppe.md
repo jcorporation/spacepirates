@@ -16,10 +16,8 @@ sitedata:
             Zaehigkeit: "4"
             Bewaffnung: "Laserpistole: WB 0"
             Position: ""
-
+order: /04
 ---
-
-
 
 ## Zweiter Schlüssel
 
@@ -43,8 +41,3 @@ Diese Gruppe hat nur zufällig etwas von der Schatzkarte mitbekommen.
 Die Informantin heißt Xia Xu, ist eine asiatische Schönheit und eine ausgewiesene Expertin in Unwahrscheinlichkeitsphänomenen. Sie wird zufällig auftauchen und den Charakteren helfen, die Effekte der Unwahrscheinlichkeitszone auszunutzen und diese Kenntnisse ihrer Gruppe zuzuspielen. Sie scheut sich natürlich auch nicht davor einem Charakter schöne Augen zu machen, um an Informationen zu kommen, wird aber in erster Linie ihr Wissen betonen.
 
 {% include slc_profile.md data=page.sitedata.Slc.Xia_Xu %}
-
-***
-
-- **Zurück:** [Erste Piratengruppe]({{ site.baseurl }}/Abenteuer/Schatzjagd/Erste_Piratengruppe)
-- **Weiter:** [Reise zum Rand des Universums]({{ site.baseurl }}/Abenteuer/Schatzjagd/Reise)

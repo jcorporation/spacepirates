@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Schatz_von_Menkar/Schlaeger
 title: Die Schläger
+order: /03
 ---
-
-
 
 Die sechs Schläger sind Samnesen und wie es sich für ein Kasino gehört in edlen Anzügen gekleidet. Ihr Anführer ist SM-400 und etwas kleiner, dafür aber umso fieser.
 
@@ -41,8 +40,3 @@ Wenn die Schläger Noh Frut nicht auf Two Eyed Jack stellen können oder er unan
 <tr><th>Bewaffnung</th><td>1 Duallaserkanone: WB 2, SM 2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Einstieg)
-- **Weiter:** [Bei den Koordinaten]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Koordinaten)

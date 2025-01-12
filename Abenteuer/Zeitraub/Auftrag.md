@@ -13,9 +13,8 @@ sitedata:
             SOELDNER: "5"
             Zaehigkeit: "4"
             Bewaffnung: "Laserpistole: Bonus 0"
+order: /03
 ---
-
-
 
 ## Der Bote
 
@@ -88,8 +87,3 @@ Jangba erläutert den Charakteren den Auftrag in einem gelassenen Ton und lässt
 Sie sollen eine Kiste der Föderation entwenden, die von einem Frachtschiff von Stratum Nova (Freihandelszone) nach Javar 3 (Neutrale Zone) gebracht wird. Weitere Details zum Auftrag bekommen die Charaktere auf einem Computerchip. Als Entlohnung bietet Jangba 4.000 UC pro Kopf an. Er gibt den Piraten 8 Tage Zeit, um die Kiste zu ihm zu bringen. Natürlich kann mit Jangba verhandelt werden.
 
 Jangba wird den Charakteren bei ihrem Auftrag nicht weiter unter die Arme greifen, da er weder mit Piraten noch mit dem Raub in Verbindung gebracht werden will. Er macht den Charakteren auch deutlich, dass es nicht gut wäre, den Deal abzulehnen oder platzen zu lassen und stellt klar, dass die Gerüchte über Folterungen nicht erfunden sind.
-
-***
-
-- **Zurück:** [Übersicht]({{ site.baseurl }}/Abenteuer/Zeitraub/Uebersicht)
-- **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Zeitraub/Nachforschungen)

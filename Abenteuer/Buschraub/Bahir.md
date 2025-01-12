@@ -16,9 +16,8 @@ sitedata:
             Zaehigkeit: "4"
             Bewaffnung: "Laserpistole"
             Position: ""
+order: /09
 ---
-
-
 
 Bahir ist nicht schwer zu finden, nur die Reise ist weit. Er lebt auf einem kleinen Mond im System Epsilon Canabis, das sich weit (100 Lichtjahre) hinter Freeport befindet.
 
@@ -59,8 +58,3 @@ Allein durch gutes Zureden kann Bahir kaum beruhigt werden, er wird wild auf die
 #### Bahirs Informationen
 
 Wenn Bahir beruhigt ist, hilft er den Piraten gerne weiter. Er kommt aber nie wirklich zum Punkt und verzettelt sich in seinen Erzählungen immer wieder. Jedenfalls vermutet er, dass Vox Rubusch nur in der Nähe eines Dimensionsrisses wachsen kann. Wo aber so ein Riss ist, kann er den Piraten natürlich nicht sagen, da er sein Gewächshaus schon Jahrzehnte nicht mehr verlassen hat.
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
-- **Weiter:** [Dimensionsriss]({{ site.baseurl }}/Abenteuer/Buschraub/Dimensionsriss)

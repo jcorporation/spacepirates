@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Blumenkind/SpaceHippies
 title: SpaceHippies
+order: /005
 ---
-
-
 
 Die SpaceHippies sind schon länger an der Blumenkind interessiert, konnten sie aber bisher noch nicht finden. Sie haben auch keine Ahnung, das Sunflower von Doradus kommt und den Schlüssel zur Blumenkind hat. Die Karte der Piraten ist ihre heißeste Spur.
 
@@ -73,8 +72,3 @@ Der Space-VW-Bus ist ein bunt angemaltes Raumschiff, das an einen VW Bully mit R
 <tr><th>Bewaffnung</th><td>Duallaserkanone: Bonus 1, SM 2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Konfliktnetz]({{ site.baseurl }}/Abenteuer/Blumenkind/Konfliktnetz)
-- **Weiter:** [SWIP]({{ site.baseurl }}/Abenteuer/Blumenkind/SWIP)

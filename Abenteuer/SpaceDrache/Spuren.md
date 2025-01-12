@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/SpaceDrache/Spuren
 title: Spuren
+order: /07
 ---
-
-
 
 ## Zu Prinzessin Lea
 
@@ -40,8 +39,3 @@ Natürlich bietet das Starnet auch einige Informationsquellen zu Drachen- oder D
 <tr><td>4</td><td>Vor einem Jahr soll ein Drachenei gefunden worden sein. Dieses wurde aber aus den Forschungslaboren gestohlen.</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Prinzessin Lea]({{ site.baseurl }}/Abenteuer/SpaceDrache/Prinzessin_Lea)
-- **Weiter:** [SpaceDrache]({{ site.baseurl }}/Abenteuer/SpaceDrache/SpaceDrache)

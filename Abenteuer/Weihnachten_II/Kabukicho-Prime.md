@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Weihnachten_II/Kabukicho-Prime
 title: Kabukicho-Prime
+order: /04
 ---
-
-
 
 Auf Kabukicho-Prime müssen sich die Piraten Zutritt zur Fabrik verschaffen. Auf dem Fabrikschild ist eine angebissene Zuckerstange abgebildet. Die Wagonenwachen sind hier besser ausgebildet.
 
@@ -61,7 +60,3 @@ Eventuell kann Knecht Ruprecht seine Kanonen nicht abfeuern, weil er die Wagonen
 {% include slc.md data=site.data.Slc.Knecht_Ruprecht %}
 
 Damit ist Weihnachten gerettet, Santa wird geheilt, die Elfen klotzen noch mal ran (es wird eh immer alles auf dem letzten Drücker fertig), und eine Strafe für Knecht Ruprecht könnt ihr euch selber ausdenken.
-
-***
-
-- **Zurück:** [Auf Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Santa_24)

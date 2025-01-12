@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Supernova
 title: Supernova
+order: /08
 ---
-
-
 
 - **Wurmlochdemodulatorteil:** Parabolantenne
 
@@ -78,7 +77,3 @@ Feuerwesen sind groß, dumm und angriffslustig. Sie halten sich zwar bevorzugt a
 </table>
 
 *Schaden von normalen Waffen wird halbiert (abrunden) und von Eis/Wasser verdoppelt.
-
-***
-
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

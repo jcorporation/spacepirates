@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Zombierechner
 title: Zombierechner
+order: /07
 ---
-
-
 
 Die Piraten können sich auch ein Netzwerk aus Zombierechnern aufbauen, welches die Entschlüsselung für sie übernimmt. Dafür sind Proben auf HÄNDLER (für das Social Engineering) und TECH (für das Programmieren des Bots) notwendig. Es sind mindestens zwei Erfolge für jede Probe notwendig. Die Grundzeit für die Entschlüsselung sind zwei Monate. Für jeden zusätzlichen Erfolg sinkt die Entschlüsselungszeit um 3 Tage.
 
@@ -38,8 +37,3 @@ Aber die Piraten sollten sich vor der Starnetpolizei in Acht nehmen, die regelm�
 <tr><th>Bewaffnung</th><td>2 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
-- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung)

@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Ostern/VzFvO
 title: Vereinigung zur Förderung von Ostern - VzFvO
+order: /08
 ---
-
-
 
 Die Sekte „Vereinigung zur Förderung von Ostern“ kurz VzFvO, folgt dem verrückt geworden Osterhasen bedingungslos. Ihr Ziel ist es endlich Ostern unter der normalen Bevölkerung wichtiger zu machen als Weihnachten. Da ihre Straßenprediger und Promotionsveranstaltungen der letzten Jahrzehnte keine bedeutenden Erfolge vorweisen können, haben sie sich entschlossen, zu einem radikaleren Mittel zu greifen.
 
@@ -43,8 +42,3 @@ Hier wird von den entführten Forschern an noch mächtigeren Sonden gearbeitet u
 <tr><th>Bewaffnung</th><td>6 Negatronenkanonen: WB 3, SM 3</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Sonden]({{ site.baseurl }}/Abenteuer/Ostern/Sonden)
-- **Weiter:** [Lösungsmöglichkeiten]({{ site.baseurl }}/Abenteuer/Ostern/Loesung)

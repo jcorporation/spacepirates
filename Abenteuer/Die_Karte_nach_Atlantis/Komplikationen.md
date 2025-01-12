@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Komplikationen
 title: Komplikationen
+order: /12
 ---
-
-
 
 Natürlich läuft kein Abenteuer ohne Komplikationen ab, so auch hier. Aber die Piraten können sich viel Ärger vom Hals halten, wenn sie umsichtig vorgehen.
 
@@ -24,8 +23,3 @@ Sollten die Charaktere zu unvorsichtig vorgehen und irgendwie Informationen übe
 ## Spaceamazonen
 
 Am 19. Tag entdeckt ein Spaceamzonen-Raumschiff die Überreste der antiken Spaceamazonenschiffe und wird sich an Nachforschungen machen. Sie können die Blackbox des Raumschiffs retten und daraus Informationen zum Raumschiff der Charaktere herausfinden, falls sich die Charaktere keine Gedanken gemacht haben, ob sie Spuren hinterlassen.
-
-***
-
-- **Zurück:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung)
-- **Weiter:** [Der Weg nach Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Weg)

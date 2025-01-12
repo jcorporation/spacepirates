@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Zeitraub/Nachforschungen
 title: Nachforschungen
+order: /04
 ---
-
-
 
 Nachdem die Piraten wieder auf ihrem Schiff sind oder vielleicht nach Two-Eyed-Jack zurückkehren, können sie sich die Informationen auf dem Chip ansehen und vielleicht auch noch etwas Informationen zum Transportschiff und Javar 3 herausfinden.
 
@@ -45,8 +44,3 @@ Durch eine Probe auf HÄNDLER können die Spieler schauen, was ihre Charaktere �
 <tr><td>4</td><td>Auf Javar 3 wird an einer Zeitmaschine geforscht (wahr)</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Auftrag]({{ site.baseurl }}/Abenteuer/Zeitraub/Auftrag)
-- **Weiter:** [Marmonen]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen)

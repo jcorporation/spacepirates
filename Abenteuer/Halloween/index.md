@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Halloween/
 title: Halloween
+order: /01
 ---
-
-
 
 Die Piraten sind gerade mit ihrem Raumschiff unterwegs, als mitten im Niemandsland in einem Nebel auf einmal der FTL-Antrieb ihres Raumschiffs den Geist aufgibt. Dies ist ein „gruseliges“ Halloweenabenteuer für SpacePirates.
 

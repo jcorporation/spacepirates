@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Neutritiumklau/Transportschiff
 title: Entführung eines Transportschiffs
+order: /06
 ---
-
-
 
 <table>
 <caption>Wartungsschiff</caption>
@@ -28,7 +27,3 @@ Die Tankerschiffe sehen aus, wie gewöhnliche Transportschiffe. Die Transportsch
 Desweiteren ist es auch sehr ungesund auf die Schiffe zu schießen, da durch eine Explosion eine Singularitätskaskade ausgelöst werden könnte und alles im Umkreis von &frac34; Lichtjahr zerstören würde.
 
 Auf dem Transportschiff befindet sich nur ein Pilot und ein Techniker, da SpaceShell die neueste Generation von intelligenten Tankerschiffen testet. Die eingebaute KI ist programmiert, bei einer Entführung das Schiff so schnell wie möglich zum nächsten SpaceShell Stützpunkt zu fliegen und alle Computerkonsolen zu deaktivieren.
-
-***
-
-- **Zurück:** [Überfall eines Lagers]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Lager)

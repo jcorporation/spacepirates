@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/SpaceDrache/John_Marric
 title: John Marric
+order: /04
 ---
-
-
 
 John Marric ist ein verrückter, samnesischer Wissenschaftler, der aus uralten Fosilien und bioelektronischen Techniken eine sich selbst fortpflanzende Drachenarmee schaffen will, um sich zum Herrscher des bekannten Universums aufzuschwingen. Sein Laboratorium ist auf einem Mond nahe des weißen Lochs eingerichtet. Er trägt immerzu einen weißen, etwas verschmutzten Laborkittel und ist um die 60 Jahre alt.
 
@@ -56,8 +55,3 @@ Wenn sich die Charaktere aber auch etwas außerhalb des Labors umschauen, könne
 <tr><th>Schildwert</th><td>12</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/SpaceDrache/Einstieg)
-- **Weiter:** [Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/SpaceDrache/Wagonische_Ausschreibung)

@@ -4,8 +4,6 @@ permalink: /Abenteuer/Die_Eisgalaxis/
 title: Die Eisgalaxis
 ---
 
-
-
 Die Piraten sitzen gerade wie so oft bei (selbstverständlich je) einem Eimer Rum in der [Scrum Bar]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport), als sie ein dringender Hilferuf auf ihrem Pager erreicht.
 
 Ein unfassbarer Notfall! Es herrschen sommerliche 41&deg; C im Schatten, die Bewohner sitzen in Badehosen am Strand, die Drogerien haben keine Sonnencreme mehr vorrätig, Sonnenbrand ist die Todesursache Nummer 1…

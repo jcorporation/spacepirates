@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Zeitraub/Ende
 title: Ende
+order: /08
 ---
-
-
 
 Je nach Erfolg der Charaktere und Entscheidungen der Spieler kann das Abenteuer auf zwei Weisen enden.
 
@@ -15,7 +14,3 @@ Wenn die Piraten das Zeitmaschinenteil erbeutet haben, wird Jangbas Bote es entg
 ## Neuer Feind
 
 Falls die Charaktere das Teil nicht erbeutet haben oder Jangba hintergehen, wird Jangba ihnen ein gut bewaffnetes Killerkommando auf den Hals hetzen, um die Charaktere tot oder lebendig zu ihm zu bringen. Freiwillig sollten sich die Charaktere jedenfalls nicht bei Jangba blicken lassen.
-
-***
-
-- **Zurück:** [Bauteil]({{ site.baseurl }}/Abenteuer/Zeitraub/Bauteil)

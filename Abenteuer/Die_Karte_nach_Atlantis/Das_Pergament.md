@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament
 title: Das Pergament
+order: /04
 ---
-
-
 
 Bei dem Pergament handelt es sich um die Karte, die den Weg zum verschollenen Planeten Atlantis beschreibt. Bei einer Analyse des Pergaments und 2 Erfolgen auf TECH lässt sich folgendes feststellen: Das Pergament ist instabil, da sich zwei Exemplare einer Karte im gleichen Universum befinden. Nach 10 Tagen werden sie sich in einem Mikrowurmloch miteinander verbinden und dabei alles in 2 m Umkreis um sich herum auf die jeweils andere Seite des Wurmlochs ziehen. Piraten könnten sich also unter Umständen plötzlich auf dem Rebellenschiff wiederfinden (und umgekehrt).
 
@@ -26,8 +25,3 @@ Natürlich könnte man auch einen Atlanter bitten, die Schrift für einen zu ent
 
 - [Atlantereinsiedler]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler)
 - [Atlantisches Forschungsschiff]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff)
-
-***
-
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Einstieg)
-- **Weiter:** [Übersetzung des Pergaments]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung)

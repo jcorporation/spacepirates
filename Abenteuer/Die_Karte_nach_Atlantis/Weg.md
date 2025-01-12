@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Weg
 title: Der Weg
+order: /13
 ---
-
-
 
 Die Karte führt die Piratencrew zu Koordinaten, die sich inmitten der Raumzeitverschiebung befindet. Fliegt das Raumschiff in diese, wird auf folgender Tabelle gewürfelt, um zu sehen, was geschieht.
 
@@ -46,8 +45,3 @@ Sobald der Schadenspool der Raumzeitverschiebung auf 0 Punkte sinkt, hat das Rau
 <tr><td>4</td><td>Das Schiff und die Piraten werden um 50 % verkleinert.</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Komplikationen]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen)
-- **Weiter:** [Nebel von Atlantis]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Nebel)

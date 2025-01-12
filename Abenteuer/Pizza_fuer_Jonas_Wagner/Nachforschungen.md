@@ -16,9 +16,8 @@ sitedata:
             Zaehigkeit: "4"
             Bewaffnung: "keine"
             Position: ""
+order: /03
 ---
-
-
 
 ## Informationen der angreifenden Ninjas
 
@@ -80,8 +79,3 @@ Er kennt sich tatsächlich gut mit alten Schriftrollen aus, ist aber eher mürri
 **Zwei Erfolge:** Hu Xing guckt sich den Ebook-Reader genauer an und identifiziert das darin enthaltene Werk als die ultimative Kampftechnik, welche den Ninja-Clan, der sie in ihren Besitz bringt, zum unangefochtenen Herrscher über alle Ninjas macht. Wenn die Piraten bereit sind, es an einen Clan zu verkaufen, könnten sie dafür 15.000 bis 20.000 UC erhalten. Er stellt zudem fest, dass nur ein Ninja-Großmeister den Schutz aufheben kann.
 
 {% include slc_profile.md data=page.sitedata.Slc.Hu_Xing %}
-
-***
-
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg)
-- **Weiter:** [Auflösung]({{ site.baseurl }}/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung)

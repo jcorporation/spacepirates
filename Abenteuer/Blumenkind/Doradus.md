@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Blumenkind/Doradus
 title: Auf Doradus
+order: /008
 ---
-
-
 
 - Details zu [Doradus]({{ site.baseurl }}/Weltraum/Neutrale_Zone/Doradus)
 
@@ -21,8 +20,3 @@ Die Hippie-Kommune besitzt den ursprüngliche Bauplan der Blumenkind und den Ers
 - **Bob Sunflower:** Der Sprecher der Kommune und Vater von Ocean Sunflower.
 - **Grace Sunflower:** Die verstorbene Mutter von Ocean Sunflower.
 - **Hannah, Lilly, Violet, Ethan, Rufus:** Die restlichen noch lebenden Hippies
-
-***
-
-- **Zurück:** [Auf Woodstock]({{ site.baseurl }}/Abenteuer/Blumenkind/Woodstock)
-- **Weiter:** [Die Blumenkind]({{ site.baseurl }}/Abenteuer/Blumenkind/Blumenkind)

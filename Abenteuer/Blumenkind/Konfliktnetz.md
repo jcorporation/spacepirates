@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Blumenkind/Konfliktnetz
 title: Konfliktnetz
+order: /004
 ---
-
-
 
 - Die SWIP wird mit niemanden zusammenarbeiten.
 - Die SpaceHippies sind froh, wenn sie überhaupt etwas abbekommen.
@@ -13,8 +12,3 @@ title: Konfliktnetz
 {% include zoomsvg.md data="/assets/images/abenteuer/blumenkind/cweb-web.svg" %}
 
 [Erklärung eines Konfliktnetzes]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien)
-
-***
-
-- **Zurück:** [Zeitleiste]({{ site.baseurl }}/Abenteuer/Blumenkind/Zeitleiste)
-- **Weiter:** [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/SpaceHippies)

@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Raumschiffdungeon/Sektoren/
 title: Sektoren
+order: /04
 ---
-
-
 
 Jeder Sektor des Dungeons besteht aus einer Kugel mit einem Durchmesser von zehn Lichtjahren, eingefasst in energieabsorbierende und unzerstörbare Dunkle Materie. Sie reagiert mit keinem Material und sendet auch keine Strahlung aus und man muss aufpassen, dass man nicht einfach gegen sie fliegt, da sie die Sensoren nicht erfassen und einfach nichts anzeigen, was aber einem guten Tech oder Piloten seltsam genug vorkommt um vorsichtig zu sein.
 
@@ -29,8 +28,3 @@ Die Wurmlöcher sind mehrere hundert Meter im Durchmesser, so dass man bequem du
 Natürlich lassen sich die Wurmlöcher steuern, allerdings benötigt man dafür einen [Wurmlochdemodulator]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator). Nur dieser kann auf die Wurmlochsteuerungseinheit zugreifen, die Technik auf dem Piratenschiff ist einfach nicht weit genug entwickelt.
 
 Vor jeder Reise durch ein Wurmloch hat ein TECH die Möglichkeit, die Steuerungseinheit zu entdecken, dafür benötigt er 4 Erfolge auf eine Sensorenprobe.
-
-***
-
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Einstieg)
-- **Weiter:** [Wurmlochdemodulator]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator)

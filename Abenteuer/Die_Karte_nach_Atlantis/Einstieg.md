@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Einstieg
 title: Einstieg
+order: /02
 ---
-
-
 
 Die Piraten sind mit ihrem Schiff gerade in der Nähe der Raumzeitverschiebung unterwegs, als rings um sie her plötzlich mehrere Schiffe auftauchen und in gigantischen Feuerbällen explodieren. Glücklicherweise halten die Schilde des Piratenschiffs, weshalb lediglich die Sensoren für einige Sekunden geblendet werden. Nachdem sich das Blickfeld klärt, sehen die Piraten die Wracks einiger Dutzend altertümlicher Raumschiffe rings um sich durchs All treiben.
 
@@ -81,8 +80,3 @@ Diejenigen, die zurück aufs Piratenraumschiff gelangen, haben zumindest für de
 <tr><td>20</td><td>Abruf des Logbuchs (-2 Minuten pro Erfolg mehr als 2)</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Zeitstrahl]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl)
-- **Weiter:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)

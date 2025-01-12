@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Dungeonplanet/Ebene1
 title: Ebene 1
+order: /03
 ---
-
-
 
 <img alt="Dugeon Ebene 1" src="{{ site.baseurl }}/assets/images/abenteuer/dungeonplanet/ebene1-web.webp"/>
 
@@ -69,8 +68,3 @@ Der Rißraum hat drei Ausgänge: zum Brunnenraum, zum Heuraum und zum Lavaraum.
 In diesem Raum steht ein Brunnen. Der Brunnen ist intelligent, gelangweilt und kann sprechen. Er kann den Piraten alles über diese Ebene des Dungeon erzählen, wenn sie ihn fragen. Zudem hat er davon gehört, dass in der Ebene tiefer Gnome mit viel Gold wohnen. Er weiß außerdem, dass man gegen das „Feuer“ aus dem Rißraum immun ist, wenn man ihn ihm badet. Allerdings hat das Wasser einen Nebeneffekt: Man leuchtet anschließend rosa, das Feuer aus dem Rißraum verfärbte diese Tönung zu einem permanenten lila…
 
 Wenn man ihm etwas gegen die Langeweile da lässt (z.B. Hörbücher), kann er mit einer Flasche echtem Selters (für die dekadente Menschen bis zu 1000 UC bieten) bezahlen.
-
-***
-
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Einstieg)
-- **Weiter:** [Ebene 2]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene2)

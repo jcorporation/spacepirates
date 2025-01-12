@@ -2,6 +2,7 @@
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/
 title: Wagonian Wedding
+order: /01
 ---
 
 ## Die royale Hochzeit der Wagonen

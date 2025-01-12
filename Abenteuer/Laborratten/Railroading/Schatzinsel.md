@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Laborratten/Railroading/Schatzinsel
 title: "Szene 2: Schatzinsel"
+order: /05
 ---
-
-
 
 Die Charaktere finden sich durchnässt an einem malerischen Strand in der Südsee wieder, an den auch Einzelteile der Kogge aus der vorigen Szene angeschwemmt wurden. Anscheinend haben sie Schiffbruch erlitten und wurden zum Glück an diesen Strand angeschwemmt. Die Charaktere haben noch etwas Wasser im Mund, das nach Sherry schmeckt.
 
@@ -25,8 +24,3 @@ Nach der Gefangennahme werden die Charaktere in typische Holzkäfige am Rande de
 Am Tag der Opferung werden die Holzkäfig mit den Charakteren in eine nahe gelegenen Höhle getragen. Dort wird die Opferung stattfinden. Am Ende der natürlichen Höhle befindet sich eine große Kaverne die von einer großen, steinerne Götzenstatue dominiert wird. Davor befindet sich ein Opferaltar, mit Fesseln und Blutablaufrinnen. Das Ritual wird von hypnotischen Gesängen und Getrommel begleitet und vom allseits gefürchteten Dorfpriester durchgeführt, der wie ein Pfau gekleidet ist.
 
 **Sobald die Opferung ihren Höhepunkt erreicht macht es *SWITCH* und die Charaktere befinden sich inmitten der nächsten Szene.**
-
-***
-
-- **Zurück:** [Sturm]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Sturm)
-- **Weiter:** [Hafen]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Hafen)

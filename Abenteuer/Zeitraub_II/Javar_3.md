@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Zeitraub_II/Javar_3
 title: Auf Javar 3
+order: /05
 ---
-
-
 
 Auf dem Planeten befindet sich ein ganzer Trupp Söldner um Jangbas Forscher zu beschützen. Sie sind ziemlich mit den Affen beschäftigt, die immer wieder das Labor angreifen. Da Jangba wissenschaftlich interessiert ist, befindet er sich auch auf dem Planeten. Nicht alle Wissenschaftler arbeiten ganz freiwillig für Jangba.
 
@@ -76,8 +75,3 @@ Die Zeitmaschine befindet sich neben dem Labortrakt. Sie sieht sehr futuristisch
 
 - Wenn das Zeitmaschinenteil aus dem Kraftfeld genommen wird, treten die Auswirkungen auf, wie sie unter [„Das Bauteil“]({{ site.baseurl }}/Abenteuer/Zeitraub/Marmonen) beschrieben sind.
 - Wenn auf die Zeitmaschine geschossen wird (z.B. mit den Laserkanonen des Raumschiffs) bleibt die Zeit außerhalb des Raumschiffs stehen und auch das Raumschiff kann sich nur innerhalb seiner Schilde bewegen.
-
-***
-
-- **Zurück:** [Reise]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Reise)
-- **Weiter:** [Karte des Labors]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Laborkarte)

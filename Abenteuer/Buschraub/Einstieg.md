@@ -13,10 +13,8 @@ sitedata:
             Zaehigkeit: "4"
             Bewaffnung: "Laserpistole: P+0"
             Position: ""
-
+order: /02
 ---
-
-
 
 Die Charaktere wachen nach einer durchzechten Nacht, die in Gimis Bar begonnen hat, mit einem höllischen Kater auf. Niemand von ihnen weiß, wo sie gerade sind und wie zur Hölle sie überhaupt hierher gekommen sind. Sie liegen in einem orientalisch angehauchten Zimmer. Überall um sie herum liegen leere Rumflaschen und auf dem niedrigen Tisch in der Raummitte steht eine Bong. Sie müssen wohl eine höllische Party gefeiert und die Bong nicht ganz so gut vertragen haben.
 
@@ -54,7 +52,3 @@ Herr Schmidtz würde den Piraten bis zu 15.000 UC bezahlen, wenn sie einen Busch
 #### Vox Rubusch
 
 Vox Rubusch sieht einem Kastanienbaum ähnlicher als einem Busch, er besitzt die gleiche Blätterform und an ihm wachsen kastanienähnliche Früchte, die eine extrem starke berauschende Wirkung haben, gegen die LSD harmlos wirkt.
-
-***
-
-- **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)

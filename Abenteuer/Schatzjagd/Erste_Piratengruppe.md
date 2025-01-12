@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Schatzjagd/Erste_Piratengruppe
 title: Erste Piratengruppe
+order: /03
 ---
-
-
 
 ## Erster Schlüssel: Alexa Reed
 
@@ -24,8 +23,3 @@ Zamtor ist ein kleiner, stämmiger und immer übel gelaunter Kahadrier, der stä
 1. Sie heuern ein paar Schläger (3 Söldner mit SÖLDNER 4) auf Two Eyed Jack an, um in den Besitz der Karte zu kommen.
 2. Sie versuchen, ein Mitglied der Charaktergruppe zu bestechen (5.000 UC), damit er die Karte und den Schlüssel veruntreut.
 3. Sie greifen die Charaktere mit ihrem Raumschiff an.
-
-***
-
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Schatzjagd/Einstieg)
-- **Weiter:** [Zweite Piratengruppe]({{ site.baseurl }}/Abenteuer/Schatzjagd/Zweite_Piratengruppe)

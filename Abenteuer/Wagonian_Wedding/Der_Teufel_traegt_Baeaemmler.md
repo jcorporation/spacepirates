@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler
 title: "Auftritt: Der Teufel trägt Bäämmler"
+order: /06
 ---
-
-
 
 Giorgio Bäämmler ist ein Genie. Leider wissen das noch immer nicht alle, aber das wird sich schon bald ändern. (Besonders die Glukorianer widersetzen sich seinen Missionierungsversuchen vehement).
 
@@ -15,8 +14,3 @@ Der Auftrag als königlicher Brautmodendesigner kam daher genau richtig, denn de
 Der Plan des Modemachers ist so simpel wie genial: Er hat eine Fälschung anfertigen lassen, die er am Tag der Hochzeit in das Brautkleid einpassen will, während er sich mit dem echten Stein auf und davon macht. Da der exaltierte Bäämmler aber nicht die Klappe halten kann und seine eigene PR-Abteilung ist, wird er des Öfteren Hinweise darauf fallen lassen, dass er ein Meisterstück mit einem wertvollen Edelstein plant.
 
 Vorsicht: Wenn die Spieler zu langsam sind, stehlen sie unter Umständen die Kopie anstatt des Originals! Der Spielleiter sollte hier unbedingt ausreichend Hinweise streuen.
-
-***
-
-- **Zurück:** [Auftritt: Der Spion, der aus dem Weltall kam]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam)
-- **Weiter:** [Auftritt: Sing es selber, (Bi-)sam!]({{ site.baseurl }}/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam)

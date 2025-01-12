@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Raumschiffdungeon/Wurmlochdemodulator
 title: Wurmlochdemodulator
+order: /13
 ---
-
-
 
 Die Piraten können den Dungeon nur verlassen, wenn sie einen Wurmlochdemodulator zusammensetzen. Dieser besteht aus drei Teilen, die im ganzen Dungeon verstreut sind. Jedes Teil gibt es zweimal, damit das Abenteuer nicht in einer Sackgasse endet, weil die Spieler etwas übersehen oder ihre Piraten an einer Hürde scheitern.
 
@@ -21,7 +20,3 @@ Mit diesem kann ein Wurmloch so beeinflusst werden, dass es nicht in einen Raum,
 Die Bestandteile des Wurmlochdemodulators lassen sich entdecken, indem man die Sensoren auf deren Energiesignatur justiert. Dazu benötigt man aber schon ein Teil des Wurmlochdemodulators.
 
 - **Sensoren justieren:** 3 Erfolge auf TECH
-
-***
-
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

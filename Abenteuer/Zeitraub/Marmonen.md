@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Zeitraub/Marmonen
 title: Marmonen
+order: /05
 ---
-
-
 
 Die Marmonen-Gruppe besteht aus vier menschlichen Fanatikern um die vierzig, die allesamt altmodische, schwarz-marmorierte Anzüge mit dazu passenden Hüten tragen. Zudem besitzt jeder von ihnen einen gepflegten Vollbart. Sie sind gegen die allgegenwärtige Technik, insbesondere gegen experimentelle Technik wie Zeitmaschinen. Sie sind überzeugt, die Zeitmaschine werde nicht nur die Menschheit ruinieren, sondern auch das Universum zerstören. Sie sind natürlich alle tief religiös und jeder trägt ein kleines Gebetsbuch bei sich, aus dem sie gerne rezitieren.
 
@@ -49,8 +48,3 @@ Die Marmonen werden die Piraten in der Nähe von Two Eyed Jack aufsuchen, je nac
 <tr><th>Bewaffnung</th><td>Torpedo: Bonus 1, SM 1</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Zeitraub/Nachforschungen)
-- **Weiter:** [Überfall]({{ site.baseurl }}/Abenteuer/Zeitraub/Ueberfall)

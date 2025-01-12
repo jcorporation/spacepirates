@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Zeitstrahl
 title: Zeitstrahl
+order: /01
 ---
-
-
 
 <table>
 <thead>
@@ -20,7 +19,3 @@ title: Zeitstrahl
 <tr><td>Tag 30</td><td>Die Rebellen kommen auf Atlantis an.</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Weiter:** [Einstieg]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Einstieg)

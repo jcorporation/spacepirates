@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Blumenkind/Zeitleiste
 title: Zeitleiste
+order: /003
 ---
-
-
 
 <table>
 <thead>
@@ -31,8 +30,3 @@ title: Zeitleiste
 <tr><td>Doradus zur Blumenkind</td><td>26 Lichtjahre</td><td>bei FTL2 ca. 0,5 Tage</td></tr>
 </thead>
 </table>
-
-***
-
-- **Zurück:** [Einstieg]({{ site.baseurl }}/Abenteuer/Blumenkind/Einstieg)
-- **Weiter:** [Konfliktnetz]({{ site.baseurl }}/Abenteuer/Blumenkind/Konfliktnetz)

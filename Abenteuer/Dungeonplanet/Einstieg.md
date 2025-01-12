@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Dungeonplanet/Einstieg
 title: Einstieg
+order: /02
 ---
-
-
 
 ## Der Planet
 
@@ -81,7 +80,3 @@ Es ist nicht nötig, die Gegner zu töten. Man kann sie auch hereinlegen, sie si
 </table>
 
 Es ist möglich, die Scanner zu zerstören. Wenn man 5 Erfolge erreicht, werden sie ausgeschaltet, bevor sie den Alarm auslösen können. Bei 3 Erfolgen werden sie zerstört, lösen aber vorher noch einen Alarm aus. Räume, in denen der Scanner zerstört wurde, können die Piraten problemlos betreten. Scanner werden erst repariert, wenn die Piraten den Planeten verlassen.
-
-***
-
-- **Weiter:** [Ebene 1]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene1)

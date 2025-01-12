@@ -2,9 +2,8 @@
 layout: aside
 permalink: /Abenteuer/Zeitraub/Bauteil
 title: Das Bauteil
+order: /07
 ---
-
-
 
 Falls die Piraten die Kiste öffnen (TECH-Probe mit 3 Erfolgen, um sie unauffällig zu öffnen) entdecken sie ein seltsam aussehendes, zylindrisches Teil, das die gesamte Kiste ausfüllt. Um die Achse sind viele, sehr kompliziert aussehende Teile angeordnet. Einige davon blinken, das Teil scheint in Betrieb oder im Bereitschaftsmodus zu sein.
 
@@ -42,8 +41,3 @@ Die Auswirkungen halten immer 2W12 Stunden bzw. bis zur nächsten Auswirkung an,
 <tr><td>9,0</td><td>Alle 1W20 Minuten taucht in der Nähe eine Urzeit-Riesen-Nacktschnecke für 10 Sekunden auf.</td><td>Alle 1W20 Minuten taucht in der Nähe eine Urzeit-Riesen-Nacktschnecke für 1W10 Minuten auf und ihr Schleim ist säurehaltig.</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Überfall]({{ site.baseurl }}/Abenteuer/Zeitraub/Ueberfall)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Zeitraub/Ende)

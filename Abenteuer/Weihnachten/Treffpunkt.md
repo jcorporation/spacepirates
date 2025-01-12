@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Weihnachten/Treffpunkt
 title: Treffpunkt
+order: /04
 ---
-
-
 
 Der Treffpunkt liegt nahe der Raumzeitverschiebung, an der glukorianischen Grenze. Dort öffnet sich zur Weihnachtszeit ein temporäres Wurmloch, das zu Santa 24, dem Heimatplaneten des Weihnachtsmannes, führt. Direkt vor dem Wurmloch sollen die Piraten den Weihnachtsmann mit seinem Schlitten treffen.
 
@@ -20,8 +19,3 @@ Die Reise durch das Wurmloch ist holprig, sollte aber einem erfahrenen Piloten k
 <tr><th>Schadensmodifikator</th><td>2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Weihnachtsmann]({{ site.baseurl }}/Abenteuer/Weihnachten/Weihnachtsmann)
-- **Weiter:** [Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten/Santa_24)

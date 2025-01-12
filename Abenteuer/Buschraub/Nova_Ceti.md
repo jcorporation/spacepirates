@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Buschraub/Nova_Ceti
 title: Auf Nova Ceti
+order: /12
 ---
-
-
 
 Nova Ceti sieht auf den ersten Blick aus wie ein gewöhnlicher, stark bewaldeter und unbewohnter Planet. Auf ihm ist es immer hell, da er auf der einen Seite von einer Sonne und von der anderen Seite vom Dimensionsriss beleuchtet wird.
 
@@ -71,8 +70,3 @@ Dort wächst natürlich nicht nur ein Busch, sondern eine ganze Gruppe von ihnen
 Der Rückweg ist genauso gefährlich wie der Hinweg. Haben die Piraten ihr Raumschiff unvorsichtigerweise in der Nähe von Hängeweiden gelandet, greifen diese das Raumschiff an und verbeulen es gewaltig, das Raumschiff nimmt dabei 1W20 Schadenspunkte.
 
 Wenn die Piraten zurückkommen, werden sich die Killerweiden aber auf die Piraten fokussieren und das Raumschiff in Ruhe lassen.
-
-***
-
-- **Zurück:** [Sperrzone]({{ site.baseurl }}/Abenteuer/Buschraub/Sperrzone)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Buschraub/Ende)

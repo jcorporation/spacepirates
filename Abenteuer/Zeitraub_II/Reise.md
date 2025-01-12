@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Zeitraub_II/Reise
 title: Reise nach Javar 3
+order: /04
 ---
-
-
 
 Javar 3 liegt knapp 53 Lichtjahre vom Brabengürtel entfernt. Die Reise dauert somit mit einem FTL1-Antrieb 53 Stunden.
 
@@ -40,8 +39,3 @@ Der Planet wird nur selten von den Patrouillen der neutralen Zone angeflogen, ab
 - Das Piratenschiff schleicht sich irgendwie an Jangbas Raumschiff vorbei und landet auf dem Planeten.
 - Die Piraten liefern sich einen etwas aussichtslosen Kampf mit dem Raumschiff und flüchten dann mehr oder weniger unbeschadet auf den Planeten.
 - Der mitgereiste Jangba versucht, die Raumschiffbesatzung zu überzeugen, dass er der richtige Jangba ist.
-
-***
-
-- **Zurück:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Auftragserteilung)
-- **Weiter:** [Auf Javar 3]({{ site.baseurl }}/Abenteuer/Zeitraub_II/Javar_3)

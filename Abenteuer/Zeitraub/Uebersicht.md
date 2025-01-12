@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Zeitraub/Uebersicht
 title: "Übersicht"
+order: /02
 ---
-
-
 
 ## Der Auftrag
 
@@ -28,7 +27,3 @@ Die Charaktere werden von einem Boten unterrichtet, dass Jangba einen Auftrag f�
 - Die Kiste enthält ein wichtiges Teil für den Bau einer Zeitmaschine (funktioniert nur im Zusammenhang mit der Raumzeitverschiebung).
 - Religiöse Fanatiker verfolgen die Charaktere bzw. das Transportschiff und wollen das seltene Bauteil zerstören, weil sie befürchten, dass die Zeitmaschine den Untergang des Universums verursachen wird.
 - Das Bauteil ist im Bereitschaftsmodus und reagiert seltsam auf äußere Einflüsse.
-
-***
-
-- **Weiter:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Zeitraub/Auftrag)

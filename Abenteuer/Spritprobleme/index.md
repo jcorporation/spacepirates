@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Spritprobleme/
 title: Spritprobleme
+order: /01
 ---
-
-
 
 Die Piraten sind inmitten eines Sperrgebiets von SpaceShell gestrandet, weil ihr Neutritium-Tank leer ist – und nur Neutritiumreaktoren können ausreichend Energie für ein Raumschiff bereitstellen.
 

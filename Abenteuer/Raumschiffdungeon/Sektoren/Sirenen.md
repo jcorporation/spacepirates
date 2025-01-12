@@ -2,6 +2,7 @@
 layout: page
 permalink: /Abenteuer/Raumschiffdungeon/Sektoren/Sirenen
 title: Sirenen
+order: /07
 ---
 
 - **Wurmlochdemodulatorteil:** Parabolantenne
@@ -75,7 +76,3 @@ Es sind 8 Sirenen im Dorf:
 <tr><th>Bewaffnung</th><td>Amorbogen: WB 1</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Sektoren]({{ site.baseurl }}/Abenteuer/Raumschiffdungeon/Sektoren/)

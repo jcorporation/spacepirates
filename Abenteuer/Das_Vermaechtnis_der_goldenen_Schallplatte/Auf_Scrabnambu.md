@@ -5,8 +5,6 @@ title: Auf Scrabnambu
 order: 03
 ---
 
-
-
 Der Raumhafen von Scrabnambu liegt gleich neben den großen Lagerhallen des Schrottplatzes. Innerhalb der Lagerhallen ist der Schrott sortiert und ausgezeichnet, außerhalb der Hallen gibt es aber noch wesentlich mehr Schrott, der noch nicht sortiert ist. Der Schrott wird von Robotern bewacht, sortiert und verkauft, [Iyani Dizalo]({{ site.baseurl }}/Weltraum/Haendler_und_Halunken) beschäftigt keine Menschen.
 
 Die Charaktere haben Glück und es gibt tatsächlich einen funktionierenden 3D-Schallplattenspieler zu erwerben, er ist allerdings mit 1.000 UC recht teuer.

@@ -15,9 +15,8 @@ sitedata:
             HAENDLER: "7"
             Zaehigkeit: "4"
             Bewaffnung: "keine"
+order: /03
 ---
-
-
 
 Der Weihnachtsmann sieht in der Tat so aus, wie man ihn sich vorstellt. Er hat einen dicken Bauch, einen langen grauen Bart und trägt das typische rot-weiße und kuschelige Weihnachtsmannkostüm. Sein Rufname ist einfach Santa.
 
@@ -41,8 +40,3 @@ Durch den Weltraum reist er auf seinem Weihnachtsschlitten, der von 9 Cyber-Rent
 <tr><th>Bewaffnung</th><td>keine</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Auftrag]({{ site.baseurl }}/Abenteuer/Weihnachten/Auftrag)
-- **Weiter:** [Treffpunkt]({{ site.baseurl }}/Abenteuer/Weihnachten/Treffpunkt)

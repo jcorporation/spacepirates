@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg
 title: Einstieg
+order: /02
 ---
-
-
 
 Die Piraten durchstreifen gerade einen Meteoritengürtel in der Nähe der kapitalistischen Sonderrechtszone Neuasiens, also sie plötzlich aus zwei Richtungen unter Beschuss geraten. Zwei Spaceflitzer nähern sich aus entgegengesetzten Richtungen und feuern auf sie! Beim Ausweichversuch gerät das Piratenschiff zu allem Überfluss in den Weg eines Pizzalieferraumschiffs, welches daraufhin die Spur verliert, einen Meteoriten rammt und qualmend liegen bleibt.
 
@@ -43,7 +42,3 @@ Nach dem Zusammenstoß mit dem Meteoriten ist das Raumschiff arg verbeult und qu
 Bei der unbekannten Signatur handelt es sich um einen als Pizzaschachtel getarnten Ebook-Reader, der mit äußerst leistungsfähigen DRM-Techniken geschützt wird und (außer dem Bildschirm) keinerlei Zugriffsmöglichkeiten bietet. Hier beißt sich selbst der beste Tech die Zähne aus.
 
 Wie bei Lieferpizza üblich klebt auch hier ein Klebezettel auf dem Karton, anstatt der Adresse steht hier aber nur der Name „Jonas Wagner“.
-
-***
-
-- **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen)

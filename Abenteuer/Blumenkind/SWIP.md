@@ -10,9 +10,8 @@ sitedata:
             Kategorie: "Wesir"
             Wohnort: "BigBong"
             Position: "Wesir"
+order: /006
 ---
-
-
 
 Die SWIP ([SpaceWorm-Improvement-Project]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/BigBong/SWIP)) ist ein extrem geheimes Projekt der SpaceWorms und wird von Kalif Kulwa von BigBong geleitet. Ziel des Projekts ist es, durch den Einsatz von bewusstseinserweiternden Drogen die nächste Existenzstufe zu erreichen.
 
@@ -49,8 +48,3 @@ Wenn die Entführung nicht gelingt, wird die SWIP entweder die Charaktere angrei
 <tr><th>Bewaffnung</th><td>2 Duallaserkanonen: Bonus 2, SM 2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [SpaceHippies]({{ site.baseurl }}/Abenteuer/Blumenkind/SpaceHippies)
-- **Weiter:** [Auf Woodstock]({{ site.baseurl }}/Abenteuer/Blumenkind/Woodstock)

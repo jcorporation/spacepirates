@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Weihnachten_II/Einstieg
 title: Einstieg
+order: /02
 ---
-
-
 
 Es ist etwas mehr als eine Woche vor Weihnachten. Die Piraten sind mit ihrem Schiff unterwegs, als sie eine Nachricht auf der Notfallfrequenz empfangen.
 
@@ -19,7 +18,3 @@ Die Reise durch das Wurmloch ist holprig, sollte aber einem erfahrenen Piloten k
 <tr><th>Schadensmodifikator</th><td>2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Weiter:** [Auf Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten_II/Santa_24)

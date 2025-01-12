@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Schatz_von_Menkar/
 title: Schatz von Menkar
+order: /01
 ---
-
-
 
 Die Charaktere kommen in den Besitz der Schatzkarte, die zum legendären Schatz von Menkar führen soll. Aber mehr wie eine extrem seltene Sternenkonstellation, die in ein paar Tagen in der Nähe von Xanar 1 zustandekommen soll, und ein paar Punkte und ein Dreieck ist darauf nicht abgebildet.
 

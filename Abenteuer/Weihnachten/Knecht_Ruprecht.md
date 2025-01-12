@@ -15,9 +15,8 @@ sitedata:
             HAENDLER: "7"
             Zaehigkeit: "4"
             Bewaffnung: "Laserrute: P+2"
+order: /06
 ---
-
-
 
 Knecht Ruprecht lebt auch auf Santa 24. Er ist ein Glukorianer, trägt einen schwarzen, angeklebten Bart und ist in eine braune, grobe Kutte gehüllt und hat die Nase voll von Weihnachten, weil immer alle Angst vor ihm haben. Daher will er das Weihnachtsfest mit seinen Bomben zerstören und hat daher eine kleine Allianz mit anderen Glukorianern geschmiedet.
 
@@ -86,8 +85,3 @@ Knecht Ruprecht befindet sich in seinem Arbeitszimmer, in dem er an weiteren bö
 <tr><th>Bewaffnung</th><td>2 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Santa 24]({{ site.baseurl }}/Abenteuer/Weihnachten/Santa_24)
-- **Weiter:** [Eskorte]({{ site.baseurl }}/Abenteuer/Weihnachten/Eskorte)

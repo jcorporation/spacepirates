@@ -5,8 +5,6 @@ title: Trauerzeremonie
 order: 02
 ---
 
-
-
 Die Trauerzeremonie findet auf dem kleinen Friedhofsplaneten [Burial Planet]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Burial_Planet) in der Nähe von [Xawang]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/Xawang) statt. Egal wo sich die Charaktere gerade aufhalten, sie haben gerade noch genügend Zeit, um pünktlich dort einzutreffen.
 
 Da Nic Jäger durchaus bekannt war, ist auf dem Raumhafen und in der Kirche viel los. Es ist sogar ein Filmteam der [StarIllu]({{ site.baseurl }}/Weltraum/Konzerne/StarIllu) anwesend, ansonsten auch einige andere Reporter und Fans. Es haben sich auch die zwei Rockerbanden [SpaceAngels]({{ site.baseurl }}/Weltraum/SpaceRocker/SpaceAngels/) und [Baneros Banditos]({{ site.baseurl }}/Weltraum/SpaceRocker/Baneros_Banditos/) eingefunden, die sich augenscheinlich nicht leiden können. Die Piraten fallen also absolut nicht auf, wenn sie sich unauffällig verhalten.

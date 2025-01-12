@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Laborratten/Einstieg
 title: Einstieg
+order: /02
 ---
-
-
 
 Die Charaktere entdecken im Trullimperium, in der Nähe der großen Plasmastürme, ein seltsames Raumschiff, dem wohl die Energie ausgegangen ist. Sie wären keine Piraten, wenn sie nicht nachschauen würden, ob man etwas wertvolles bergen kann.
 
@@ -35,7 +34,3 @@ Die Charaktere können ohne größere Probleme manuell an das unbekannte Raumsch
 Der Eingang des Raumschiffs verschwindet, sobald der letzte Pirat das fremde Raumschiff betreten hat. Bleiben Charaktere auf ihrem Schiff zurück, werden diese vollautomatisch in die erste Szene gebeamt, was die Charaktere leicht verwirren dürfte.
 
 Natürlich sind die Charaktere im fremden Raumschiff angekommen und nicht in der Zeit zurückgereist. Dieses Raumschiff simuliert mit unbekannter Holotechnik das irdische 17. Jahrhundert bis in das kleinste Detail. Die Erbauer scheinen wohl zu viele alte Piratenfilme geschaut zu haben.
-
-***
-
-- **Weiter:** [Railroading auf dem Raumschiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/)

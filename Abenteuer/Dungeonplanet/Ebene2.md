@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Dungeonplanet/Ebene2
 title: Ebene 2
+order: /04
 ---
-
-
 
 ## Zürich
 
@@ -29,8 +28,3 @@ bzw. Ninjaschwert (WB 0)</td></tr>
 </table>
 
 Die Soldaten des Handelsrats kämpfen mit Lasergewehren vom Typ 08/15 und Ionenäxten, die Ninjas sind mit Shurikenwerfern und Katanas bewaffnet.
-
-***
-
-- **Zurück:** [Ebene 1]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Ebene1)
-- **Weiter:** [Endkampf]({{ site.baseurl }}/Abenteuer/Dungeonplanet/Endkampf)

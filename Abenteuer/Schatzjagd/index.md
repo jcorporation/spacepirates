@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Schatzjagd/
 title: Schatzjagd
+order: /01
 ---
-
-
 
 Die Charaktere kommen in den Besitz einer digitalen Schatzkarte. Zur Entschlüsselung der Karte müssen sie noch zwei Schlüssel organisieren. Und natürlich sind noch zwei weitere Piratenbanden hinter dem Schatz her.
 

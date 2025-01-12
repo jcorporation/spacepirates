@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Weihnachten/Eskorte
 title: Eskorte
+order: /07
 ---
-
-
 
 Der Weihnachtsmann fliegt natürlich auf seinem Schlitten nach Two-Eyed-Jack und lässt sich davon auch nicht abbringen, aber auf dem Schlitten ist noch Platz für eine weitere Person.
 
@@ -31,8 +30,3 @@ Hinter dem Wurmloch kommt gerade ein glukorianisches Raumschiff an, als Ablösun
 Die restliche Reise nach Two-Eyed Jack verläuft ohne nennenswerte Probleme, sieht man mal von den Weltraumpflegern ab, die kurz vor dem Brabengürtel den Weihnachtsmann aufsuchen, um ihn von ihrer Sache zu überzeugen und versuchen, ihn als Frontmann einer großen Werbekampagne zu gewinnen.
 
 Falls die Piraten den falschen Weihnachtsmann bis hierher eskortiert haben, dann fällt den Weltraumpflegern die Bombe im Geschenkesack auf und sie warnen die Piraten.
-
-***
-
-- **Zurück:** [Knecht Ruprecht]({{ site.baseurl }}/Abenteuer/Weihnachten/Knecht_Ruprecht)
-- **Weiter:** [Weihnachtsfeier]({{ site.baseurl }}/Abenteuer/Weihnachten/Weihnachtsfeier)

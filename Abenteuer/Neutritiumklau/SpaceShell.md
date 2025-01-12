@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Neutritiumklau/SpaceShell
 title: SpaceShell
+order: /03
 ---
-
-
 
 SpaceShell hält das Quasimonopol auf Neutritium und ist das einzige Ziel in der Gegend um die geforderte Menge Neutritium zu erbeuten.
 
@@ -41,8 +40,3 @@ Das Kampfgeschwader besteht aus 4 Kampfschiffen die jeweils mit einem Piloten, v
 <tr><th>Bewaffnung</th><td>1 Duallaserkanone: WB 2, SM 2</td><td>4 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Auftragserteilung]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Auftrag)
-- **Weiter:** [Anzapfen der Pipeline]({{ site.baseurl }}/Abenteuer/Neutritiumklau/Pipeline)

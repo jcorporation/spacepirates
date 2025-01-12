@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel
 title: Oma Binkel
+order: /05
 ---
-
-
 
 Oma Binkel ist eigentlich eine ganz normale alte Dame, die auf Free Port ein rustikales Caf&eacute; betreibt. Nebenberuflich ist sie aber auch eine der berüchtigsten Giftmüllschmugglerinnen der Galaxis. Entsprechend hat Beziehungen zu vielen Großunternehmen und daher bestimmt auch Möglichkeiten, etwas durchrechnen zu lassen. Allerdings ist sie eine skrupellose Geschäftsfrau, wenn sie einen Gefallen tut, verlangt sie einen größeren Gefallen als Gegenleistung.
 
@@ -28,8 +27,3 @@ Die Kampfrobotersessel stehen, scheinbar zufällig verteilt, im Torteneckchen, s
 </table>
 
 Wenn die Piraten anstatt zu Oma Binkel zu fahren, ihr Glück auf dem Schrottplatz von Scrabnambu versuchen, kann dieses Szenario nach dort verlegt werden. In dem Fall bittet nicht Oma Binkel, sondern Iyani Dizalo um den Gefallen.
-
-***
-
-- **Zurück:** [Das Pergament]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament)
-- **Weiter:** [Giftmüllentsorgung]({{ site.baseurl }}/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung)

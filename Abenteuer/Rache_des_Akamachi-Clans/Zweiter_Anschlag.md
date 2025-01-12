@@ -15,9 +15,8 @@ sitedata:
             HAENDLER: "4"
             Zaehigkeit: "4"
             Position: ""
+order: /04
 ---
-
-
 
 Sollten die Piraten bei ihren Nachforschungen irgendwo ihre Telefonnummer hinterlassen, so werden sie nach einiger Zeit von einer Frau mit erotischer Stimme angerufen, die behauptet, den Piraten helfen zu können. Wenn man sie nach ihren Namen fragt, wird sie behaupten, sie heiße „Long Mei“.
 
@@ -38,8 +37,3 @@ Ihre Kleidung und ihr Benehmen entsprechen dem einer edlen Dame. Sie trägt eine
 ### Giftiges Parfum
 
 Dieses Parfüm wirkt tatsächlich so, wie es in der Werbung angepriesen wird. Jeder, der damit besprüht wird, muss eine Probe auf PILOT ablegen. Sollte dabei kein oder nur ein Erfolg erzielt werden, so ist der Betroffene Tanaka Mei vollkommen verfallen und tut alles, was sie sagt. Bei zwei Erfolgen erhält man einen Malus von 2 auf alle Proben, bei drei Erfolgen einen Malus von 1. Ab vier Erfolgen hat das Parfüm keine Auswirkungen mehr.
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen)
-- **Weiter:** [Endkampf]({{ site.baseurl }}/Abenteuer/Rache_des_Akamachi-Clans/Endkampf)

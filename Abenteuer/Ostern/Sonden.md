@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Ostern/Sonden
 title: Sonden
+order: /07
 ---
-
-
 
 Die Sonden sind die Verursacher des Osterwahnsinns auf den Planeten. Sie senden eine spezielle Strahlung aus, die alle Leute in einer Entfernung von 10.000 km langsam, aber sicher osterverrückt werden lässt.
 
@@ -25,8 +24,3 @@ Halten sich die Piraten insgesamt zu lange in der Nähe so einer Sonde auf, kann
 ## Kontrollsignal
 
 Die Sonden werden zentral gesteuert, so dass ein Kontrollsignal zurückverfolgt werden kann. Es werden 4 Erfolge auf TECH benötigt, um die Quelle des Kontrollsignals auszumachen. Das Kontrollsignal führt die Piraten direkt zum Osterhasen.
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)
-- **Weiter:** [Vereinigung zur Förderung von Ostern]({{ site.baseurl }}/Abenteuer/Ostern/VzFvO)

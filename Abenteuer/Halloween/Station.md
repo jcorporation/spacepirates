@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Halloween/Station
 title: Auf der Station
+order: /07
 ---
-
-
 
 Auf der Station sind neben dem kahadrischen Wissenschaftler noch 10 Kahadriersöldner stationiert, die aber alle von der KI der Station getötet wurden. Die Leichen sind auf der gesamten Station verteilt und stark angefressen bzw. schon stärker verwest. Dementsprechend streng riecht es in den Gängen der Raumstation. Die Station ist verstaubt und voller Spinnweben. Auf dem Boden finden sich aber seltsame Fußabdrücke, die nicht zuzuordnen sind.
 
@@ -59,8 +58,3 @@ Die Tür zum Labortrakt ist besonders gut gesichert. Hier ist ein Wissenschaftle
 Der Maschinenraum der Station wird von einem großen Neutritiumreaktor dominiert. Überall sind Konsolen angebracht. Im Maschinenraum gibt es neben den üblichen Wartungsschächten auch einen geheimen Wartungsschacht. Mit einer TECH-Probe mit 3 Erfolgen kann er entdeckt werden. Der geheime Wartungsschacht führt zur Nebelmaschine.
 
 - [Nebelmaschine]({{ site.baseurl }}/Abenteuer/Halloween/Nebelmaschine)
-
-***
-
-- **Zurück:** [Zentrum des Nebels]({{ site.baseurl }}/Abenteuer/Halloween/Zentrum)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Halloween/Ende)

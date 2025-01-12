@@ -5,8 +5,6 @@ title: Das alte Bandraumschiff
 order: 05
 ---
 
-
-
 Bei dem alten Bandraumschiff handelt es sich um einen Luxusjumper, der führungslos inmitten der Quantenfluktuation herumtrudelt. Das Logo der Band macht es unverkennbar. Ein kurzer Check mit den Sensoren zeigt, dass das Raumschiff keine Energie mehr besitzt und es daher ratsam ist, mit Raumanzügen das Schiff zu betreten. Wegen des Trudelns ist eine PILOT-Probe mit 4 Erfolgen notwendig, um anzudocken.
 
 ## Im Raumschiff

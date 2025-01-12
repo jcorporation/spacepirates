@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Buschraub/SWIP
 title: SWIP
+order: /05
 ---
-
-
 
 Das SWIP ist der geheime Auftraggeber der Piraten und Herr Schmidtz nur ein Strohmann, allerdings weiß das SWIP nichts von seiner Nebenbeschäftigung bei der JCTech IAG.
 
@@ -43,9 +42,3 @@ Das SWIP wird auch die Agenten der JCTech IAG angehen, falls diese den Piraten z
 <tr><th>Bewaffnung</th><td>2 Duallaserkanonen: WB 2, SM 2</td></tr>
 </tbody>
 </table>
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Buschraub/Nachforschungen)
-- **Weiter:** [Eris]({{ site.baseurl }}/Abenteuer/Buschraub/Eris)
-- **Weiter:** [Bahir]({{ site.baseurl }}/Abenteuer/Buschraub/Bahir)

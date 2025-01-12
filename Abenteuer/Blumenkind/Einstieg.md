@@ -2,10 +2,8 @@
 layout: page
 permalink: /Abenteuer/Blumenkind/Einstieg
 title: Einstieg
+order: /002
 ---
-
-
-
 
 Die Charaktere gewinnen in Jacksons Bar auf [Halfway]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Halfway) beim SpacePoker eine Karte auf der das, nahe einer Sonne treibende Raumschiff Blumenkind verzeichnet ist. Auf der Karte ist aber auch noch der Planet Woodstock mit einem Schlüsselsymbol gekennzeichnet unter dem „Sunflower“ (Der Name des letzten Nachkommens der Hippies von Doradus) steht.
 
@@ -23,7 +21,3 @@ Die Charaktere haben mehrere Möglichkeiten einen Schlüssel zur Blumenkind zu e
 ## Sternenkarte
 
 <img alt="Sternenkarte - Neutrale Zone" width="400" height="400" src="{{ site.baseurl }}/assets/images/abenteuer/blumenkind/sternenkarte-web.webp"/>
-
-***
-
-- **Weiter:** [Zeitleiste]({{ site.baseurl }}/Abenteuer/Blumenkind/Zeitleiste)

@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Laborratten/Railroading/Sturm
 title: "Szene 1: Der Sturm"
+order: /04
 ---
-
-
 
 Die Charaktere finden sie sich auf einer altertümlichen Kogge wieder, die mitten auf einem azurblauen Meer treibt. Ihre Segel sind vom Wind gefüllt, hoch am Mast weht eine Piratenflagge und am Steuerrad steht ein typischer Kapitän des 17. Jahrhunderts mit Holzfuß, Papagei und Kopftuch.
 
@@ -19,8 +18,3 @@ Der Kapitän könnte einem klischeehaften Piratenroman entspringen. Er trägt le
 Sobald sich die Charaktere einigermaßen orientiert haben, zieht auch schon ein Sturm auf und der Kapitän am Steuer brüllt wie selbstverständlich irgendwelche komischen Befehle in die Richtung der Charaktere, die natürlich mit den nautischen Begriffen dieses Jahrhunderts nichts anfangen können. Damit es den Charakteren nicht langweilig wird, kommt im gleichen Augenblick noch ein feindliches Schiff auf die Kogge zu und beschießt diese mit Kanonenkugeln, während auf der anderen Seite des Schiffs eine Riesenkrake auftaucht und das Schiff als seinen Nachtisch betrachtet.
 
 **Sobald die Szene ihren dramatischen Höhepunkt erreicht macht es *SWITCH* und die Charaktere befinden sich inmitten der nächsten Szene.**
-
-***
-
-- **Zurück:**[Railroading auf dem Schiff]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/)
-- **Weiter:**[Schatzinsel]({{ site.baseurl }}/Abenteuer/Laborratten/Railroading/Schatzinsel)

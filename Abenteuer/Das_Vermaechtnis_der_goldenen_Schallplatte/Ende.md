@@ -5,8 +5,6 @@ title: Ende
 order: 06
 ---
 
-
-
 Haben die Charaktere alle 6 goldenen Schallplatten zusammen, können sie auf das letzte Konzert der Crashing Meteorits gehen. Die restlichen Gegenstände vom alten Bandraumschiff sind etwa 5.000 UC wert. Das alte Bandraumschiff ist stark beschädigt, aber bringt nochmal 20.000 UC ein.
 
 ## Das Konzert

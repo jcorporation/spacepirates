@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Ostern/Nachforschungen
 title: Nachforschungen
+order: /04
 ---
-
-
 
 Hier ein paar Möglichkeiten, wie die Piraten auf die Spur des Osterhasen kommen, der hinter der ganzen Sache steckt.
 

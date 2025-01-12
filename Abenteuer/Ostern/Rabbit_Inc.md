@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Ostern/Rabbit_Inc
 title: Rabbit Inc
+order: /05
 ---
-
-
 
 Rabbit Inc gehört der Finanzinvestoren „Yellow Stone Group“ und ist mit ihrer Zentrale auf Pessach 4 beheimatet. Der Konzernvorstand ist aber von Mitgliedern der Sekte VzFvO (Vereinigung zur Förderung von Ostern) durchdrungen. Rabbit Inc wird faktisch von ihnen kontrolliert.
 
@@ -33,7 +32,3 @@ Rabbit Inc wird von dem verrückt geworden Manager Harrison Welch geleitet. Er m
 Harrison Welch ist ein Mensch und auf der Erde aufgewachsen. Er ist in mittlerem Alter und trägt immer sehr schicke Anzüge, wie es sich für einen Manager gehört. Er ist momentan total osterverrückt, aber ein vernünftiger Mensch, wenn er außerhalb des Einflusses der Sonden ist.
 
 {% include slc_profile.md data=site.data.Slc.Harrison_Welch %}
-
-***
-
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)

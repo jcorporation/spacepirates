@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Schatzjagd/Einstieg
 title: Einstieg
+order: /02
 ---
-
-
 
 Wie immer treiben sich die Piraten auf Two Eyed Jack herum. Sie haben gerade bei einem Glücksspiel eine Schatzkarte, die zu einem versteckten Schatz führen soll, gewonnen. Kaum haben die Piraten die Karte in ihrem Besitz, wird dem Tech relativ schnell klar, dass für die Entschlüsselung der digitalen Schatzkarte zwei Schlüssel notwendig sind.
 
@@ -33,8 +32,3 @@ Die Karte ist 30 × 20 cm hoch, besteht aus gebürstetem Aluminium und besitzt e
 - **2 Erfolge:** Der erste Schlüssel scheint ein Fingerabdruck zu sein.
 - **2 Erfolge:** Der zweite Schlüssel ist wohl ein uralter, mechanischer Schlüssel mit einem digitalen Innenleben.
 - **3 Erfolge:** Die Karte ist mit einem Selbstzerstörungsmechanismus ausgestattet, der ausgelöst wird, wenn die Karte ohne die Schlüssel geöffnet wird.
-
-***
-
-- **Zurück:** [Schatzjagd]({{ site.baseurl }}/Abenteuer/Schatzjagd/)
-- **Weiter:** [Erste Piratengruppe]({{ site.baseurl }}/Abenteuer/Schatzjagd/Erste_Piratengruppe)

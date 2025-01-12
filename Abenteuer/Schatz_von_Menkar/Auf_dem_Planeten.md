@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten
 title: Auf dem Planeten
+order: /06
 ---
-
-
 
 Der Planet besteht zum großen Teil aus dichtem Dschungel und großen Ozeanen. Etwas von der Energiesignatur entfernt gibt es aber eine kleine Lichtung auf der man landen kann. Ganz in der Nähe befindet sich auch ein hoher Berg.
 
@@ -68,8 +67,3 @@ Der Silberschatz (Gesamtwert ca. 1.000.000 UC) befindet sich im verschlossenen L
 - Kaputte Shai Goddul Statue
 - Diverse Kirchenutensilien (Kerzenständer, etc.)
 - Religiöse Bilder
-
-***
-
-- **Zurück:** [Hinter dem Wurmloch]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Schatz_von_Menkar/Ende)

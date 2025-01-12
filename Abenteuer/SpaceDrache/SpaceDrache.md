@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/SpaceDrache/SpaceDrache
 title: SpaceDrache
+order: /08
 ---
-
-
 
 Der SpaceDrache erinnert an einen typischen Drachen aus alten Fantasygeschichten. Er ist reptilienartig, besitzt vier Klauen, zwei mächtige Flügel und extrem harte Schuppen, denen eine normale Laserpistole nichts anhaben kann. Aber einige Teile an ihm sind nicht organisch, so dass er wie ein Drachencyborg aussieht. Die Klauen scheinen aus Metall zu sein und die typischen Schwachstellen eines Drachen sind mit Metallplatten geschützt, die kleinen Düsen an seinen Flügeln ermöglichen es ihm auch durch den luftleeren Raum zu fliegen. Der Drache ist intelligent, obwohl das Marric nicht beabsichtigt hatte, kann reden und er verfügt über ein extrem gutes Gehör.
 
@@ -39,8 +38,3 @@ Die Drachenpersönlichkeit ist raffgierig und aggressiv. Sie will möglichst vie
 ### Liebenswerte Persönlichkeit
 
 Unter der harten Schale verbirgt sich auch ein weicher Kern. Diesen weichen Kern hat Prinzessin Lea hervorgeholt. Diese Persönlichkeit ist vernünftig und nicht aggressiv. Neben der Zuneigung zu Prinzessin Lea hat diese Persönlichkeit aber auch eine emotionale Bindung zu seinem Schöpfer John Marric.
-
-***
-
-- **Zurück:** [Spuren]({{ site.baseurl }}/Abenteuer/SpaceDrache/Spuren)
-- **Weiter:** [Drachenhort]({{ site.baseurl }}/Abenteuer/SpaceDrache/Drachenhort)

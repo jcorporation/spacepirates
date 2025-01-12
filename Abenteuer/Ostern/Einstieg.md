@@ -10,9 +10,8 @@ sitedata:
             Kategorie: "Kneipenbesitzer"
             Wohnort: "Gimis Bar"
             Position: ""
+order: /03
 ---
-
-
 
 Die Piraten sind gerade mit ihrem Raumschiff gerade zu Gimis Bar unterwegs um dort die Osterfeiertage bei der großen Fiestas-el-Caribe Osterparty zu verbringen. Was gibt es schöneres als Ostern unter Palmen zu feiern und im Sand nach Rumostereiern zu suchen? Gimis Bar befindet sich gerade im Sektor der Föderation.
 
@@ -37,8 +36,3 @@ Hemla, der Wirt dieser Bar ist gerade sehr gestresst und schimpft vor sich hin. 
 Wenn die Piraten also nicht länger auf dem Trockenen sitzen wollen, müssen sie sich wohl selber dem Problem widmen. Wenn die Piraten das nicht von selbst aus anbieten, bietet ihnen Hemla kostenlose Logi über Ostern an, wenn sie herausfinden, wo der Rum geblieben ist. Das sollte Ansporn genug sein, die Piraten werden sicherlich auch als Retter des Osterfests gefeiert, wenn sie den Rumnachschub wieder in Gang setzen.
 
 {% include slc.md data=page.sitedata.Slc.Hemla %}
-
-***
-
-- **Zurück:** [Hintergrund]({{ site.baseurl }}/Abenteuer/Ostern/Hintergrund)
-- **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Ostern/Nachforschungen)

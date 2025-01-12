@@ -2,9 +2,8 @@
 layout: page
 permalink: /Abenteuer/SpaceDrache/Prinzessin_Lea
 title: Prinzessin Lea
+order: /06
 ---
-
-
 
 Prinzessin Lea ist gar nicht entführt worden. Sie ist eine wunderhübsche, 18-jährige wagonische Prinzessin, die kein Faible für Bürokratie hat. Sie wollte ihrem bürokratischen Elternhaus und der wagonischen Bürokratie endlich entkommen und hat daher die Entführung und ihren Tod vorgetäuscht, daher ist sie gar nicht so begeistert, falls die Piraten sie retten wollen.
 
@@ -13,8 +12,3 @@ Sie ist extrem romantisch und verhimmelt alte Geschichten mit Drachen. Sie ist e
 Drachen (auch künstlich erschaffene SpaceDrachen) stehen unter Artenschutz, so dass der Drache keine große Gefahr dabei einging.
 
 {% include slc_profile.md data=site.data.Slc.Prinzessin_Lea %}
-
-***
-
-- **Zurück:** [Wagonische Ausschreibung]({{ site.baseurl }}/Abenteuer/SpaceDrache/Wagonische_Ausschreibung)
-- **Weiter:** [Spuren]({{ site.baseurl }}/Abenteuer/SpaceDrache/Spuren)
