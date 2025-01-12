@@ -3540,7 +3540,7 @@
   },
   "kampagnen": {
     "/Spielregeln/Spielleiter/Kampagnen/": 51,
-    "/Spielregeln/": 1,
+    "/Spielregeln/": 2,
     "/Spielregeln/Spielleiter/": 1
   },
   "kampfroboter": {
@@ -7357,7 +7357,7 @@
     "/Abenteuer/Der_grosse_Fang/SpaceNinjas": 104,
     "/Weltraum/SpaceNinjas/": 104,
     "/Abenteuer/Ideen/SpaceNinjas": 53,
-    "/Publikationen/": 3,
+    "/Publikationen/": 6,
     "/Abenteuer/": 2,
     "/Abenteuer/Der_grosse_Fang/": 2,
     "/Abenteuer/Der_grosse_Fang/Chinese": 2,
@@ -7372,7 +7372,7 @@
     "/Abenteuer/Die_Eisgalaxis/": 1
   },
   "spacepirates": {
-    "/Publikationen/": 118,
+    "/Publikationen/": 122,
     "/Spielregeln/Spielleiter/Kampagnen/": 51,
     "/Weltraum/Historie": 6,
     "/Weltraum/Haendler_und_Halunken": 3,
@@ -7789,7 +7789,7 @@
   "sternenkarte": {
     "/Weltraum/Sternenkarte/": 110,
     "/Abenteuer/Blumenkind/Einstieg": 25,
-    "/Publikationen/": 7,
+    "/Publikationen/": 8,
     "/Abenteuer/Blumenkind/": 1
   },
   "sternenleere": {
