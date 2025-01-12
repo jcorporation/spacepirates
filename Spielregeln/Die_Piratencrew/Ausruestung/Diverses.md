@@ -24,6 +24,16 @@ Hier sind nur wichtige und interessante Ausrüstungsgegenstände aufgeführt. Al
 - **Rum** ist in piratenüblichen Mengen kostenlos, ansonsten fallen 20 UC pro Fass an.
 - Die **Schmuggel-Hakenhand** hat ein integriertes Versteck.
 
+## Kommunikation
+
+| Ausrüstungsgegenstand | Bonus | Kosten |
+| --------------------- | :---: | -----: |
+| Intergalaxy S9000 Smartphone | P+1 auf Informationsbeschaffung | 150 |
+| SmartRing 5000 | P+1 auf Informationsbeschaffung | 300 |
+| xPhone 3Gx | P+1 auf Informationsbeschaffung | 150 |
+
+- Der **SmartRing 5000** ist ein Smartphone im Format eines normalen Ringes. Er ist als Finger-, Zehen- oder als Ring für Piercings verfügbar.
+
 ## Diverses
 
 Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
@@ -38,7 +48,6 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 | Elektronischer Dietrich | P+1 für Schlösser knacken | 450 |
 | Ganzkörperschleier | je nach Anwendung | 1.000 |
 | Handscanner | je nach Anwendung | 4.500 |
-| Intergalaxy S9000 Smartphone | P+1 auf Informationsbeschaffung | 150 |
 | Jetpack | je nach Anwendung | 2.000 |
 | MediKit – Standard | Voraussetzung für medizinische Versorgung | 300 |
 | MediKit – Expert | P+1 für medizinische Proben | 450 |
@@ -47,7 +56,6 @@ Jeder Ausrüstungsgegenstand kann unabhängig von einem anderen gekauft werden.
 | Überwachungsset | je nach Anwendung | 400 |
 | Universalwerkzeug – Standard | Voraussetzung für Reparaturen | 350 |
 | Universalwerkzeug – Tech | P+1 auf Tech | 550 |
-| xPhone 3Gx | P+1 auf Informationsbeschaffung | 150 |
 
 - Das **Anti-Schwerkraft-Spray** wird in praktischen Sprühdosen verkauft. Es gibt sie im handlichen 100-ml Format für die Handtasche bis hin zur 50-Liter-Flasche, die auf dem Rücken getragen werden kann. Das Anti-Schwerkraft-Spray versprüht eine durchsichtige Flüssigkeit, die von jedem Material absorbiert wird. Pro 10 ml Spray wird der eingesprühte Gegenstand um 1 kg leichter. Die Wirkung hält dabei 24 Stunden an.
 - Die **Antigrav-Sänfte** ist eine Nachbildung einer traditionellen Sänfte mit Baldachin, nur wird sie nicht mehr von Sklaven getragen, sondern durch einen Antigravgenerator fortbewegt. Sie kann schweben, aber nicht fliegen.
@@ -86,3 +94,4 @@ Cyberhaustiere sind der neueste Schrei unter den Möchtegernpiraten, alte Pirate
 
 - Cyberafken sind kleinen, niedlichen Affen nachempfunden.
 - Der **Spionageafke** ist mit allerhand Sensoren ausgestattet und ist daher ideal für Spionageeinsätze geeignet.
+- Cyberafken werden mit einem, zwei oder drei Köpfen angeboten.
