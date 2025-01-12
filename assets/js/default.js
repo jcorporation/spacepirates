@@ -726,6 +726,8 @@ function contentInit(scope) {
     for (const init of customInits) {
         execFunctionByName(init.getAttribute('data-init'));
     }
+    //BSN
+    BSN.initCallback(document.querySelector('main'));
 }
 
 async function checkServiceWorker() {
