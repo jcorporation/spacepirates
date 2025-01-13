@@ -280,9 +280,7 @@ Dies ist die zweite Version von SpacePirates.
                     </div>
                 </div>
             </div>
-            <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V2/Themenhefte_2015-03-22.pdf">Kostenlos herunterladen</a>
-            </div>
+            <div class="card-footer bg-yellow"></div>
         </div>
     </div>
 </div>
@@ -391,9 +389,7 @@ Dies ist die erste Version von SpacePirates.
                     </div>
                 </div>
             </div>
-            <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V1/SpaceNinjas_1-0-0.pdf">Kostenlos herunterladen</a>
-            </div>
+            <div class="card-footer bg-yellow"></div>
         </div>
     </div>
     <div class="col">
@@ -411,9 +407,7 @@ Dies ist die erste Version von SpacePirates.
                     </div>
                 </div>
             </div>
-            <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V1/SpaceNinjas_1-0-0.pdf">Kostenlos herunterladen</a>
-            </div>
+            <div class="card-footer bg-yellow"></div>
         </div>
     </div>
 </div>
