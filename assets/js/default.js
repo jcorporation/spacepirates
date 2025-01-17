@@ -685,7 +685,9 @@ link.fetch = async function(href) {
     }
     // update browser history and sitemap
     history.pushState({}, "", href);
-    window.scrollTo(0, 0);
+    requestAnimationFrame(() => {
+        window.scrollTo(0, 0);
+    });
     sitemap.showCurrent();
     // update navigation buttons in footer
     const navBottom = doc.querySelector('footer > nav > div:last-child');
