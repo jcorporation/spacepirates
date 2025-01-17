@@ -6,7 +6,7 @@ icon: "&#xF3E3;"
 order: /001
 ---
 
-Dieses Kapitel beschreibt die Regeln von SpacePirates. Im ersten Teil geht es um die Piratencrew, darin wird beschrieben, wie die Spieler in wenigen Minuten ihre Charaktere und ihr Raumschiff erschaffen können. Auch die Ausrüstungslisten befinden sich hier. Im zweiten Teil geht es um den Ablauf eines Abenteuers und wie Konflikte aufgelöst werden können, egal ob es sich um einen Handel, eine Kneipenschlägerei oder einen Raumschiffkampf handelt. Abschließend wird noch erklärt, wie der Spielleiter Abenteuer vorbereiten und eigene Abenteuer schreiben kann. Zudem gibt es hier noch ein paar Tipps für SpacePirates Kampagnen.
+Das Regelwerk von SpacePirates ist in drei Teile gegliedert. Im ersten Teil geht es um die Piratencrew, darin wird beschrieben, wie die Spieler in wenigen Minuten ihre Charaktere und ihr Raumschiff erschaffen können. Auch die Ausrüstungslisten befinden sich hier. Im zweiten Teil geht es um den Ablauf eines Abenteuers und wie Konflikte aufgelöst werden können, egal ob es sich um einen Handel, eine Kneipenschlägerei oder einen Raumschiffkampf handelt. Abschließend wird noch erklärt, wie der Spielleiter Abenteuer vorbereiten und eigene Abenteuer schreiben kann. Zudem gibt es hier noch ein paar Tipps für SpacePirates Kampagnen.
 
 - [Was wird alles zum Spielen benötigt?]({{ site.baseurl }}/Spielregeln/Spielmaterial)
 - [Vor dem Spiel]({{ site.baseurl }}/Spielregeln/Vor_dem_Spiel)
