@@ -70,10 +70,8 @@ sitedata:
                 - Halunke
             Wohnort: "Neuchina"
             Position: ""
-
+order: /023
 ---
-
-
 
 Natürlich gibt es in SpacePirates neben den großen Konzernen auch kleinere Händler und Halunken, mit denen die Piraten krumme Geschäfte abschließen können. Hier einige bekannte Halunken.
 

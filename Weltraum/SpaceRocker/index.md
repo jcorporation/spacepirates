@@ -2,9 +2,8 @@
 layout: page
 permalink: /Weltraum/SpaceRocker/
 title: SpaceRocker
+order: /020
 ---
-
-
 
 Die SpaceRocker flitzen mit ihren aufgemotzten SpaceBikes und SpaceChoppern durch das Universum und verbreiten Anarchie und Chaos. Sie beteiligen sich an diversen, meist illegalen, Geschäften, denn auch Rocker müssen ein Auskommen haben, um zu viel Bier und Schnaps zu trinken und ihre SpaceChopper weiter aufzumotzen.
 

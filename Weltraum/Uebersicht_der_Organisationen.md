@@ -2,6 +2,7 @@
 layout: page
 permalink: /Weltraum/Uebersicht_der_Organisationen
 title: "Übersicht der Organisationen"
+order: /028
 ---
 
 Hier eine Zusammenstellung von bekannten Organisationen die im Grundregelwerk, Themenheften, SP:Insidern und Abenteuern verstreut sind.

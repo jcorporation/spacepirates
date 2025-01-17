@@ -20,6 +20,7 @@ sitedata:
             Kategorie: "Rebell"
             Wohnort: "Alastor"
             Position: "Rebellenanführer"
+order: /017
 ---
 
 

@@ -29,9 +29,8 @@ sitedata:
             Kategorie: Militär
             Position: "Admiral der Flotte Neuasiens."
             Wohnort: Neuchina
+order: /026
 ---
-
-
 
 Natürlich besitzt jedes Sternenreich sein eigenes Militär. Schon wegen der immerwährenden Bedrohung durch die Glukorianer ist jeder Sternenstaat gezwungen, eine schlagkräftige Flotte zu unterhalten. Neben diesen Militärs gibt es auch die Flotte des galaktischen Handelsrates, die sich aus Abordnungen seiner Mitglieder zusammensetzt und unter der Kontrolle des Handelsrates steht.
 

@@ -2,9 +2,8 @@
 layout: aside
 permalink: /Weltraum/SpaceNinjas/
 title: SpaceNinjas
+order: /019
 ---
-
-
 
 - [Ninja-Clans]({{ site.baseurl }}/Weltraum/SpaceNinjas/Clans/)
 

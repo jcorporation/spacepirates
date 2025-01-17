@@ -2,9 +2,8 @@
 layout: page
 permalink: /Weltraum/Planeten_und_Sternensysteme
 title: Planeten und Sternensysteme
+order: /010
 ---
-
-
 
 Hier sind alle wichtigen Planeten und Sternensysteme des SpacePirates Universums aufgelistet.
 

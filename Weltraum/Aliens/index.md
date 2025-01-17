@@ -2,6 +2,7 @@
 layout: page
 permalink: /Weltraum/Aliens/
 title: Aliens
+order: /015
 ---
 
 In SpacePirates gibt es jede Menge unterschiedlicher Alienrassen. Viele sind grundsätzlich freundlich gesonnen, manche skeptisch und manche erstaunlich wenige feindselig, aber es gibt auch bösartige Aliens.

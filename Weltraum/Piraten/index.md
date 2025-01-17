@@ -2,6 +2,7 @@
 layout: aside
 permalink: /Weltraum/Piraten/
 title: Piraten
+order: /016
 ---
 
 - [Piratentreffpunkte]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/)

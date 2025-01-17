@@ -2,6 +2,7 @@
 layout: aside
 permalink: /Weltraum/Weltraumtiere
 title: Weltraumtiere
+order: /008
 ---
 
 {% for weltraumtier in site.Weltraumtiere %}

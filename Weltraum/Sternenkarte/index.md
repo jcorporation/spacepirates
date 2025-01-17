@@ -2,6 +2,7 @@
 layout: sternenkarte
 permalink: /Weltraum/Sternenkarte/
 title: Sternenkarte
+order: /001
 ---
 
 <div class="overflow-auto bg-sterne p-2 rounded" id="kartenpanel">

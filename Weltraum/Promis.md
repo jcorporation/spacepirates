@@ -119,10 +119,8 @@ sitedata:
             Kategorie: "Promi"
             Wohnort: ""
             Position: ""
-
+order: /021
 ---
-
-
 
 Natürlich hat das SpacePirates-Universum auch seine Stars und Sternchen, von schillernden Popgören bis hin zu extravaganten Showstars ist alles vertreten, was im Universum Aufmerksamkeit erregt. Denn nur extrem schrille und außergewöhnliche Persönlichkeiten können noch die Massen begeistern, die durch das Starnet extrem abgestumpft sind.
 

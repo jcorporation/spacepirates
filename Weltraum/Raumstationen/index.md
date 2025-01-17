@@ -2,9 +2,8 @@
 layout: page
 permalink: /Weltraum/Raumstationen/
 title: Raumstationen
+order: /012
 ---
-
-
 
 Raumstationen oder Raumhäfen findet man in allen Sektoren des Weltraums. Sie dienen sehr unterschiedlichen Zwecken und sind teils in privater, teils in staatlicher bzw. militärischer Hand. Mittlerweile gibt es sogar Raumstationen, die, dank FTL-Antrieb, ihren Standort regelmäßig ändern. Die meisten Raumstationen wurden explizit als Raumstationen gebaut, viele bestehen auch aus umgebauten Transportschiffen. Daneben gibt es aber einige Raumstationen, die in kleine Monde hineingebaut wurden.
 

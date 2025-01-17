@@ -2,9 +2,8 @@
 layout: page
 permalink: /Weltraum/Sekten/
 title: Sekten
+order: /025
 ---
-
-
 
 Neben Piraten, Rocker, Mafiosi, Ninjas, Händler, Halunken, Konzerne und verrückte Wissenschaftler gibt es in SpacePirates natürlich auch noch Sekten, die voller Überzeugung die Ungläubigen bekehren und verzweifelte Menschen und Aliens ausnutzen, um möglichst reich und bekannt zu werden.
 
