@@ -42,7 +42,7 @@ Für die Piratencrew muss das aber nicht das Ende des Abenteuers bedeuten. Durch
 
 Um das Schiff wieder flottzubekommen, kann eine einmalige Notfall-Wartung durchgeführt werden, bei der natürlich die ganze Crew helfen sollte.
 
-- **Benötigte Erfolge:** 10 + Summer der Stufen aller Charaktere
+- **Benötigte Erfolge:** 10 + Summe der Stufen aller Charaktere
 
 {% capture include_body %}
 Der Spielleiter sollte vermeiden, die komplette Piratencrew in die nicht vorhandene Luft zu jagen, außer sie haben es natürlich so gewollt.
