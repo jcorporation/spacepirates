@@ -5,8 +5,6 @@ title: Vor dem Abenteuer
 order: /000
 ---
 
-
-
 Direkt vor Beginn des Abenteuers sollte jeder Spieler seinen Charakter kurz und vor allem plastisch beschreiben. Er soll nicht nur die Ausrüstung des Charakters aufzählen, sondern auch seine Charakterzüge und äußerlichen Merkmale schildern, damit sich die Mitspieler den Charakter vorstellen können. Normalerweise sollte hierbei auch angeschnitten werden, woher sich die Charaktere kennen, um langwierige (und oft gekünstelt wirkende) Zusammenführungsszenen zu vermeiden.
 
 Falls ein Abenteuer fortgesetzt wird, entfällt die Vorstellung der Charaktere, stattdessen werden gemeinsam die Geschehnisse des letzten Abends zusammengefasst. Wenn die Spieler dabei grobe Fehler machen, sollte der Spielleiter eingreifen und Missverständnisse klarstellen. So kommen alle auf dem gleichen Stand und das Abenteuer kann beginnen.

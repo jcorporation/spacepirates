@@ -5,8 +5,6 @@ title: Ablauf einer Szene
 order: /002
 ---
 
-
-
 ## Szenenstart
 
 Zum Start der Szene beschreibt der Spielleiter den Ort, die anwesenden Personen, hervorstechende Objekte und was sich gerade ereignet. Eben alles, was für die Szene von Bedeutung ist. Dabei sollte er darauf achten, dass es offensichtliche Einstiegsmöglichkeiten für die Spielercharaktere gibt.

@@ -5,8 +5,6 @@ title: Sensoren
 order: /002
 ---
 
-
-
 Jedes Raumschiff sollte mindestens über **Standardsensoren** verfügen, die zur Navigation und zur Landung gebraucht werden. Mehrere Sensorentypen können kombiniert werden.
 
 | Sensor | Reichweite | Kosten |

@@ -5,8 +5,6 @@ title: Nach dem Abenteuer
 order: /003
 ---
 
-
-
 Durch das Erleben des Abenteuers sammeln die Charaktere in jedem Fall Erfahrung an. Das wird durch Holo-Highscore-Punkte (HHP) symbolisiert. Pro bestandenem Abenteuer erhält jeder teilnehmende Charakter 2 HHP.
 
 {% capture include_body %}

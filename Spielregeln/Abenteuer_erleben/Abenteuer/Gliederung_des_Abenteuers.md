@@ -5,8 +5,6 @@ title: Gliederung des Abenteuers
 order: /001
 ---
 
-
-
 Ein Abenteuer untergliedert sich in Szenen. Eine Szene umfasst dabei alle Handlungen und Ereignisse an einem bestimmten Schauplatz. Wechselt der Schauplatz, beginnt eine neue Szene. Im Mittelpunkt einer Szene stehen oft auch ein großer Konflikt oder mehrere kleinere Konflikte.
 
 {% capture include_body %}
