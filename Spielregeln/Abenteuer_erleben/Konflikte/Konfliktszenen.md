@@ -45,21 +45,21 @@ Passive Hindernisse besitzen wie Spielleitercharaktere einen Profilwert und eine
 
 ## Siegreiche Partei ermitteln
 
-1. **Profil:** Für jeden Beteiligten wird das passende Profil für den Konflikt gewählt. Wenn das Profil unklar ist, wird es vom Spielleiter festgelegt. Die Summe aus Profilwert und eventuellen Boni und Mali ergibt die Anzahl an Würfeln, die geworfen werden dürfen.
+1. **Profil:** Für jeden Beteiligten wird das passende Profil für den Konflikt gewählt. Wenn das Profil unklar ist, wird es vom Spielleiter festgelegt. Die Summe aus Profilwert und eventuellen Boni und Malusse ergibt die Anzahl an Würfeln, die geworfen werden dürfen.
 2. **Piratenwürfel:** Jeder Spieler kann Piratenwürfel ausgeben, um die Anzahl der Würfel zu erhöhen. Pro investierten Piratenwürfel erhält man 2 Würfel.
 3. **Probe:** Jeder Spieler würfelt, lässt die Würfel vor sich liegen und zählt die Erfolge. Die Anzahl der Erfolge einer Partei werden addiert. Der Spielleiter macht dasselbe für seine Charaktere und passive Hindernisse.
 4. **Sieger ermitteln:** Die Partei mit mehr Erfolgen kann die Szene für sich entscheiden. Bei einem Patt gewinnt niemand und jede Partei erreicht nur einen Teil ihres Ziels.
 
 {% capture include_body %}
-Boni und Mali erhöhen bzw. verringern die Anzahl der Würfel, mit denen gewürfelt werden darf.
+Boni und Malusse erhöhen bzw. verringern die Anzahl der Würfel, mit denen gewürfelt werden darf.
 
-Boni und Mali ergeben sich aus:
+Boni und Malusse ergeben sich aus:
 
 - Ausrüstungsgegenstände (diese sollten die Spieler selber berücksichtigen). Wenn mehrere Ausrüstungsgegenstände eingesetzt werden, wird immer nur der Ausrüstungsgegenstand berücksichtigt, der den größten Bonus gibt.
 - Auswirkungen von Aktionen, dazu zählen z. B. die Auswirkungen von Raumschiffmacken.
 - Vorteilhafte bzw. ungünstige Umstände in der Szene. Würde ein Umstand alle Parteien einen Bonus oder Malus gewähren, kann er einfach ignoriert werden.
 {% endcapture %}
-{% include hinweis.md title="Boni und Mali" body=include_body %}
+{% include hinweis.md title="Boni und Malusse" body=include_body %}
 
 {% capture include_body %}
 Kann der Spieler vor einer medizinischen, technischen oder wissenschaftlichen Probe mit einer Reihe Fremdbegriffe fachlich plausibel (es sollte gut und passend klingen) erklären, was der Charakter genau tut und warum es dadurch funktionieren muss, kann der Spielleiter einen Bonus auf den Wurf geben.
@@ -123,7 +123,7 @@ Jeder Spieler sollte versuchen, einen Spannungsbogen aufzubauen und wenn möglic
 {% capture include_body %}
 Wird in einer Konfliktszene eine Aktion ausgeführt, die dem Gegner einen Malus (egal wie hoch) einbringt, muss der Gegner einen zusätzlichen Erfolg einsetzen, um in seinem Zug einen Erfolg ausgeben zu dürfen. Wird er z.B. von einer Rauchbombe getroffen, muss er zwei Erfolge ausgeben, um zurückzuschießen, oder er kann einen Misserfolg ausgeben, um den negativen Effekt der Rauchbombe zu akzeptieren.
 {% endcapture %}
-{% include hinweis.md title="Mali innerhalb einer Konfliktszene" body=include_body %}
+{% include hinweis.md title="Malusse innerhalb einer Konfliktszene" body=include_body %}
 
 {% capture include_body %}
 Nur weil eine Konfliktszene für die Spieler verloren geht, muss das nicht nur negative Folgen haben. Durch den geschickten Einsatz der Erfolgswürfel können wichtige Teilerfolge erzielt werden, die im Abenteuer noch wichtig werden können.

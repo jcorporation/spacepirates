@@ -8,7 +8,7 @@ Das Heimtückische an Macken ist es, dass sie nicht immer auftreten, sondern nur
 
 ## Mackencheck
 
-Jedes Mal, wenn eine PILOT-Probe fällig ist, würfelt der Kapitän vorher mit einem W10 auf die Mackenliste des Raumschiffs. Steht in der Liste auf dieser Position eine Macke, tritt deren Wirkung sofort ein, andernfalls geschieht einfach nichts. Falls bereits eine andere Macke aktiv ist, ist nun eine weitere aktiv. Falls eine Macke erwürfelt wurde, die schon aktiv ist, verschlimmert sich ihre Auswirkung (Mali werden verdoppelt).
+Jedes Mal, wenn eine PILOT-Probe fällig ist, würfelt der Kapitän vorher mit einem W10 auf die Mackenliste des Raumschiffs. Steht in der Liste auf dieser Position eine Macke, tritt deren Wirkung sofort ein, andernfalls geschieht einfach nichts. Falls bereits eine andere Macke aktiv ist, ist nun eine weitere aktiv. Falls eine Macke erwürfelt wurde, die schon aktiv ist, verschlimmert sich ihre Auswirkung (Malusse werden verdoppelt).
 
 ## Temporäre Behebung von Macken
 

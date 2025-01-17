@@ -12,7 +12,7 @@ sitedata:
         - Name: Lack bröckelt
           Beschreibung: Die Lackierung des Raumschiffs bröckelt ab, das Schiff bekommt +1 auf die Wendigkeit und nimmt 2 Schadenspunkte (es war tragender Lack).
         - Name: Instrumente blinken
-          Beschreibung: Die Instrumente blinken wie wild, Mali von &minus;1 auf alle Proben.
+          Beschreibung: Die Instrumente blinken wie wild, Malus von &minus;1 auf alle Proben.
         - Name: Licht aus
           Beschreibung: Das Licht im Raumschiff geht aus, alle an Bord befindlichen Glühbirnen sind durchgebrannt (egal, ob in Gebrauch oder nicht).
         - Name: Schiff wird rosa
