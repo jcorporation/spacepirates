@@ -8,7 +8,7 @@ order: /000
 SpacePirates ist ein Papier-und-Bleistift-Rollenspiel. Bei einem solchen Spiel geht es um das gemeinsame Erleben und Gestalten eines fiktiven Abenteuers, von dem vorab niemand weiß, was genau geschieht und wie es genau ausgehen wird. Daher sind die Fantasie, Spontanität und Improvisationskunst aller Beteiligten gefragt.
 
 {% capture include_body %}
-… denn SpacePirates nimmt sich selber nicht ernst. Es ist in erster Linie ein Spiel, an dem alle Spaß haben sollen. Der Weltraum von SpacePirates ist voller Klischees und Absurditäten, nutzt sie, um damit verrückte Abenteuer zu erleben.
+… denn SpacePirates nimmt sich selber nicht zu 100% ernst. Es ist in erster Linie ein Spiel, an dem alle Spaß haben sollen. Der Weltraum von SpacePirates ist voller Klischees und Absurditäten, nutzt sie, um damit verrückte Abenteuer zu erleben.
 {% endcapture %}
 {% include hinweis.md title="Nehmt SpacePirates nicht zu ernst …" body=include_body %}
 
