@@ -992,7 +992,6 @@
     "/Abenteuer/Dungeonplanet/Ebene1": 3,
     "/Abenteuer/Blumenkind/Blumenkind": 2,
     "/Abenteuer/Laborratten/Dahinter": 2,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 2,
     "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 1
   },
   "bruessel": {
@@ -1208,8 +1207,8 @@
   },
   "chen": {
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 28,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 6,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 6,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 5,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 3,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": 1
@@ -1282,7 +1281,7 @@
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 1
   },
   "crew": {
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 28,
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 27,
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 3,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 3,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 2,
@@ -1778,8 +1777,6 @@
     "/Abenteuer/Zeitraub/Ende": 100,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 26,
     "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 2,
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Einstieg": 1,
     "/Abenteuer/Buschraub/Nachforschungen": 1,
@@ -1788,7 +1785,9 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1,
     "/Abenteuer/Halloween/": 1,
     "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": 1,
-    "/Abenteuer/Laborratten/Railroading/Schatzinsel": 1
+    "/Abenteuer/Laborratten/Railroading/Schatzinsel": 1,
+    "/Abenteuer/Schatz_von_Menkar/": 1,
+    "/Abenteuer/SpaceDrache/": 1
   },
   "ende des ychromosoms": {
     "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25
@@ -1923,8 +1922,8 @@
   "erfolg": {
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 178,
     "/Abenteuer/Weihnachten_II/Santa_24": 51,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 34,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 15,
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 33,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 14,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 10,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 6,
     "/Abenteuer/Halloween/Station": 5,
@@ -2222,7 +2221,7 @@
     "/Abenteuer/Zeitraub_II/Ereignisse": 1
   },
   "frachtschiffs": {
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 28,
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 27,
     "/Weltraum/Weltraumtiere": 1
   },
   "fraktale regenboegen": {
@@ -3758,7 +3757,6 @@
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 3,
     "/Abenteuer/Raumschiffdungeon/Hintergrund": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 2,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 2,
     "/Weltraum/Historie": 2,
     "/Weltraum/Politische_Lage/": 2,
     "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 2,
@@ -3768,7 +3766,8 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Weg": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Zombierechner": 1,
-    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 1
+    "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 1,
+    "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 1
   },
   "konflikte aufloesen": {
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 25
@@ -5071,9 +5070,9 @@
   },
   "partei": {
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien": 108,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 66,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 29,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 3,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 38,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 4,
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 3,
     "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 3,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
@@ -5275,7 +5274,6 @@
     "/Abenteuer/Ostern/Nachforschungen": 3,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg": 3,
     "/Abenteuer/Raumschiffdungeon/Sektoren/Drache": 3,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 3,
     "/Weltraum/Freihandelszone/System_der_Traeume/Mimen-Mission": 3,
     "/Weltraum/Haendler_und_Halunken": 3,
     "/Weltraum/Historie": 3,
@@ -5357,6 +5355,7 @@
     "/Ideenhalde/Bewohner/Raptorianer/": 1,
     "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 1,
     "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 1,
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 1,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 1,
@@ -5777,14 +5776,14 @@
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 2,
     "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": 2,
     "/Abenteuer/Spritprobleme/Neutritiumpipeline": 2,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 2,
     "/Abenteuer/Der_grosse_Fang/Proxima_Sigma_II": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Giftmuellentsorgung": 1,
-    "/Abenteuer/Halloween/Nebel": 1
+    "/Abenteuer/Halloween/Nebel": 1,
+    "/Abenteuer/Ostern/Sonden": 1
   },
   "probeast": {
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 176
@@ -6744,7 +6743,7 @@
   },
   "schlaeger": {
     "/Abenteuer/Schatz_von_Menkar/Schlaeger": 55,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 11,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 10,
     "/Abenteuer/Schatz_von_Menkar/": 1
   },
   "schlingpflanzen": {
@@ -7038,11 +7037,6 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1,
     "/Abenteuer/Ideen/Die_Affaere_um_Roboter_4711": 1
   },
-  "siegreiche": {
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 27,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 26,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 1
-  },
   "siga spaceport": {
     "/Weltraum/Neutrale_Zone/Siga_Spaceport": 251,
     "/StarTunes/Lyrics": 1,
@@ -7308,6 +7302,7 @@
     "/Weltraum/Haendler_und_Halunken": 3,
     "/Abenteuer/Ideen/SpaceNinjas": 2,
     "/Spielregeln/": 2,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 2,
@@ -7320,8 +7315,7 @@
     "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Koenigin_Maud": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 1,
-    "/Ideenhalde/": 1,
-    "/Ideenhalde/Bewohner/": 1
+    "/Ideenhalde/": 1
   },
   "spacepirates ng": {
     "/Publikationen/": 25
@@ -7966,7 +7960,7 @@
     "/Abenteuer/Laborratten/Railroading/Schatzinsel": 52,
     "/Abenteuer/Laborratten/Railroading/Sturm": 51,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 28,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 6,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 5,
     "/Abenteuer/Laborratten/Railroading/": 3,
     "/Abenteuer/Laborratten/Einstieg": 2,
     "/Abenteuer/Der_grosse_Fang/Einstieg": 1
@@ -8039,7 +8033,7 @@
     "/Abenteuer/Schatzjagd/Einstieg": 26,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": 25,
     "/Abenteuer/Dungeonplanet/Einstieg": 11,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 9,
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 8,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": 5,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": 4,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung": 4,
@@ -8228,8 +8222,7 @@
   },
   "treppe": {
     "/Abenteuer/Dungeonplanet/Ebene1": 54,
-    "/Abenteuer/Halloween/Vampir-Planet": 2,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1
+    "/Abenteuer/Halloween/Vampir-Planet": 2
   },
   "trianguli sup 2": {
     "/Weltraum/Sektoren/D1/Trianguli_Sup_2": 251,
@@ -8994,6 +8987,11 @@
     "/Abenteuer/Blumenkind/Woodstock": 64,
     "/Abenteuer/Blumenkind/Zeitleiste": 2,
     "/Abenteuer/Blumenkind/": 1
+  },
+  "wuerfeln": {
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 54,
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 25,
+    "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": 1
   },
   "wuestenplanet": {
     "/Weltraum/Aliens/Kahadrier/Proxima_Sigma": 11,
