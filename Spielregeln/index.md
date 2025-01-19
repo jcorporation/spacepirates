@@ -2,7 +2,7 @@
 layout: page
 permalink: /Spielregeln/
 title: Spielregeln
-icon: "&#xF3E3;"
+icon: "&#xF2FB;"
 order: /001
 ---
 
