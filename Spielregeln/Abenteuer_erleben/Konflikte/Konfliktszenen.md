@@ -4,9 +4,9 @@ permalink: /Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen
 title: Konfliktszenen
 ---
 
-Eine Konfliktszene umfasst alle Handlungen aller Parteien innerhalb eines Konflikts. Eine Partei kann dabei aus mehreren Beteiligten bestehen und auch passive Hindernisse umfassen. Die Konfliktszene dreht sich immer um die Ziele der Parteien, nicht um einzelne Handlungen.
+Eine Konfliktszene umfasst alle Handlungen aller Parteien innerhalb eines Konflikts. Eine Partei kann dabei aus mehreren Beteiligten bestehen und auch passive Hindernisse umfassen. Die Konfliktszene dreht sich immer um die Ziele der Parteien, nicht um die einzelne Handlungen der Akteure.
 
-Sobald in einer Szene klar ist, wer die einzelnen Parteien sind und was das jeweilige Ziel ist, wird die siegreiche Partei bestimmt. Danach wird gemeinsam beschrieben, wie es genau dazu gekommen ist und dabei auch der Schaden verteilt. Im letzten Schritt werden eventuelle Konsequenzen abgehandelt.
+Sobald in einer Szene klar ist, wer die einzelnen Parteien sind und was das jeweilige Ziel ist, wird gewürfelt. Das Würfelergebnis bestimmt den Verlauf und somit auch den Ausgang der Konfliktszene. Die Erzählrechte werden durch das Einsetzen von Erfolgs- und Misserfolgswürfel vergeben. Im letzten Schritt werden eventuelle Konsequenzen abgehandelt.
 
 {% capture include_body %}
 
@@ -43,12 +43,14 @@ Passive Hindernisse besitzen wie Spielleitercharaktere einen Profilwert und eine
 {% endcapture %}
 {% include hinweis.md title="Passive Hindernisse" body=include_body %}
 
-## Siegreiche Partei ermitteln
+## Würfeln
 
-1. **Profil:** Für jeden Beteiligten wird das passende Profil für den Konflikt gewählt. Wenn das Profil unklar ist, wird es vom Spielleiter festgelegt. Die Summe aus Profilwert und eventuellen Boni und Malusse ergibt die Anzahl an Würfeln, die geworfen werden dürfen.
-2. **Piratenwürfel:** Jeder Spieler kann Piratenwürfel ausgeben, um die Anzahl der Würfel zu erhöhen. Pro investierten Piratenwürfel erhält man 2 Würfel.
-3. **Probe:** Jeder Spieler würfelt, lässt die Würfel vor sich liegen und zählt die Erfolge. Die Anzahl der Erfolge einer Partei werden addiert. Der Spielleiter macht dasselbe für seine Charaktere und passive Hindernisse.
-4. **Sieger ermitteln:** Die Partei mit mehr Erfolgen kann die Szene für sich entscheiden. Bei einem Patt gewinnt niemand und jede Partei erreicht nur einen Teil ihres Ziels.
+Bei SpacePirates können beliebige Würfel mit einer geraden Seitenzahl verwendet werden. Zeigt der Würfel eine ungerade Zahl, so handelt es sich um einen Misserfolg, zeigt er eine gerade Zahl, dann ist dieser Würfel ein Erfolg.
+
+1. **Profile festlegen:** Für jeden Beteiligten wird das passende Profil für den Konflikt gewählt. Wenn das Profil unklar ist, wird es vom Spielleiter festgelegt. Die Summe aus Profilwert und eventuellen Boni und Malusse ergibt die Anzahl an Würfeln, die geworfen werden dürfen.
+2. **Piratenwürfel ausgeben:** Jeder Spieler kann Piratenwürfel ausgeben, um die Anzahl der Würfel zu erhöhen. Pro investierten Piratenwürfel erhält man 2 Würfel.
+3. **Würfeln:** Jeder Spieler würfelt und lässt die Würfel vor sich liegen. Der Spielleiter macht dasselbe für seine Charaktere und passive Hindernisse.
+4. **Misserfolge streichen:** Da SpacePirates den Fokus auf den Erfolg legt, darf nun jeder die Hälfte der Misserfolge (aufgerundet) wegstreichen.
 
 {% capture include_body %}
 Boni und Malusse erhöhen bzw. verringern die Anzahl der Würfel, mit denen gewürfelt werden darf.
@@ -67,32 +69,24 @@ Kann der Spieler vor einer medizinischen, technischen oder wissenschaftlichen Pr
 {% include hinweis.md title="Technobabbel" body=include_body %}
 
 {% capture include_body %}
-Bei SpacePirates können beliebige Würfel mit einer geraden Seitenzahl verwendet werden.
-
-Zeigt der Würfel eine ungerade Zahl, so handelt es sich um einen Misserfolg, zeigt er eine gerade Zahl, dann ist dieser Würfel ein Erfolg.
-{% endcapture %}
-{% include hinweis.md title="Würfel" body=include_body %}
-
-{% capture include_body %}
 
 ##### Die Spieler würfeln:
 
-- Xenur würfelt mit seinem SÖLDNER-Profil (5) und gibt noch einen Piratenwürfel (+2 Würfel) aus, um Chen zu beeindrucken: (1 **2** 5 **6** **8** 9 **0**) = 4 Erfolge
-- Chen würfelt mit ihrem SÖLDNER-Profil (3): (1 **6** **0**) = 2 Erfolge
+- Xenur würfelt mit seinem SÖLDNER-Profil (5) und gibt noch einen Piratenwürfel (+2 Würfel) aus, um Chen zu beeindrucken: (1 **2** 5 **6** **8** 9 **0**) = 4 Erfolge und 3 Misserfolge, es werden 2 Misserfolge gestrichen
+- Chen würfelt mit ihrem SÖLDNER-Profil (3): (1 3 **6**) = 1 Erfolg und 2 Misserfolge, es wird 1 Misserfolg gestrichen
 
 ##### Der Spielleiter würfelt für die 3 Möchtegernschläger (SÖLDNER 3, Zähigkeit 2):
 
-- Schläger 1: (3 **4** **0**) = 2 Erfolge
-- Schläger 2: (**2** 3 9) = 1 Erfolg
-- Schläger 3: (**2** **6** 7) = 2 Erfolge
+- Schläger 1: (3 **4** **0**) = 2 Erfolge und 1 Misserfolg, es wird 1 Misserfolg gestrichen
+- Schläger 2: (**2** 3 9) = 1 Erfolg und 2 Misserfolge, es wird 1 Misserfolg gestrichen
+- Schläger 3: (**2** **6** 7) = 2 Erfolge und 1 Misserfolg, es wird 1 Misserfolg gestrichen
 
-Xenur und Chen erreichen zusammen 6 Erfolge, die Schläger nur 5, somit gewinnen die Spielercharaktere die Konfliktszene.
 {% endcapture %}
 {% include beispiel.md title="Beispiel zu siegreiche Partei ermitteln" body=include_body %}
 
 ## Was genau ist geschehen?
 
-Nachdem der Sieger bestimmt ist, wird die Konfliktszene gemeinsam erzählt. Der Spielleiter bestimmt, in wie viel Runden sie abgehandelt wird.
+Nachdem gewürfelt wurde, wird die Konfliktszene gemeinsam erzählt. Der Spielleiter bestimmt, in wie viel Runden sie abgehandelt wird. Im Rahmen dieser Runden muss jeder Beteiligte alle seine Würfel ausgeben.
 
 <img src="{{ site.baseurl }}/assets/images/konfliktszenenreihenfolge-web.svg"/>
 
@@ -101,7 +95,7 @@ Der Spieler, nie der Spielleiter, mit den meisten geworfenen Würfeln beginnt. B
 - **Würfel zeigt einen Erfolg:** Die Aktion gelingt oder der Umstand ist positiv für seinen Charakter oder Partei. Betrifft die Beschreibung direkt einen Gegner, erleidet dieser einen Abzug in Höhe der Effektivität der eingesetzten Waffe auf seine Zähigkeit. Falls ein eingesetzter Ausrüstungsgegenstand des Gegners eine Zähigkeit besitzt, wird zuerst diese gesenkt.
 - **Würfel zeigt einen Misserfolg:** Die Aktion scheitert oder der Umstand ist negativ für seine Partei.
 
-Der Spieler beschreibt nun, pro ausgegebenen Würfel, eine Aktion seines Charakters oder einen Umstand bzw. Ereignis in der Szene, die je nach gewähltem Würfel positive oder negative Folgen hat. Der Spieler beschreibt also auch das Ergebnis und die Auswirkungen seiner Aktion oder des Ereignisses. Ziel jeder Beschreibung soll dabei sein, die Szene möglichst farbig, dramatisch und aktionsreich zu beschreiben und dem vorher bestimmten Ausgang zuzusteuern.
+Der Spieler beschreibt nun, pro ausgegebenen Würfel, eine Aktion seines Charakters oder einen Umstand bzw. Ereignis in der Szene, die je nach gewähltem Würfel positive oder negative Folgen hat. Der Spieler beschreibt also auch das Ergebnis und die Auswirkungen seiner Aktion oder des Ereignisses. Ziel jeder Beschreibung soll dabei sein, die Szene möglichst farbig, dramatisch und aktionsreich zu beschreiben.
 
 Dies geht so lange im Uhrzeigersinn von Spieler zu Spieler reihum, bis die angesagte Anzahl an Runden erreicht ist. Bis dahin müssen alle Würfel in der Tischmitte liegen. Spieler, die keine Würfel mehr vor sich liegen haben, werden dabei einfach ausgelassen. Ein Spieler kann sich auch entscheiden eine Runde auszusetzen, um in der nächsten wieder zu handeln. Dies kann z.B. sinnvoll sein, wenn er nur noch wenig Würfel vor sich hat und zum Ende der Szene nochmals eingreifen will.
 
@@ -113,8 +107,6 @@ Um die Spannung einer Konfliktszene aufrechtzuerhalten ist es sinnvoll sie nicht
 Die Würfel sollten möglichst gleichmäßig auf die Runden verteilt werden.
 
 Mit mehr eingesetzten Würfeln kann man entweder mehrere Aktionen oder Umstände beschreiben oder eben auch etwas mit größerem Einfluss auf die Szene.
-
-Bei einer Niederlage ist es sinnvoll, die Misserfolgswürfel am Ende auszugeben, bei einem Sieg gibt man sie besser früh aus.
 
 Jeder Spieler sollte versuchen, einen Spannungsbogen aufzubauen und wenn möglich auf die Aktionen der anderen Charaktere einzugehen.
 {% endcapture %}
