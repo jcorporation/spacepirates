@@ -77,7 +77,7 @@ Kathy nennt ihren Charakter Sun Chen, sie ist Neuasiatin und kommt vom Planeten 
 
 ## Rassenwahl
 
-Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich gibt es auch Alienpiraten. Zur Auswahl stehen die folgenden Rassen:
+Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich gibt es auch Alienpiraten und eine Piratencrew ist oft ein zusammengewürfelter, bunter Haufen. Zur Auswahl stehen die folgenden Rassen:
 
 - [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/) – kriegerische, zwergenähnliche Aliens
 - [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/) – forschende, wissbegierige Cyborgs
@@ -111,10 +111,10 @@ Hier eine kurze Beschreibung der Alienrassen, mehr Details zu den Aliens sind in
 
 ## Macken
 
-Zum Hintergrund des Charakters gehören bei SpacePirates auch seine Macken. Sie dienen nur zur Individualisierung des Charakters und haben keine regeltechnischen Auswirkungen, bringen aber dafür etwas mehr Farbe ins Spiel. Jeder Pirat sollte zwei Macken besitzen, der Spieler kann sie entweder frei erfinden oder sie anhand der folgenden Liste bestimmen, indem er daraus wählt oder würfelt. Es ist jederzeit möglich, eine Macke abzulegen oder zu ersetzen, falls sie nicht zum Charakter passt, den der Spieler spielen will.
+Zum Hintergrund des Charakters gehören bei SpacePirates auch seine Macken. Sie dienen nur zur Individualisierung des Charakters und haben keine regeltechnischen Auswirkungen, bringen aber dafür etwas mehr Farbe ins Spiel. Jeder Pirat sollte zwei Macken besitzen, der Spieler kann sie entweder frei erfinden oder sie anhand der folgenden Liste bestimmen, indem er daraus wählt oder würfelt. Es ist jederzeit möglich, eine Macke zu ersetzen.
 
 {% capture include_body %}
-Insbesondere bei OneShots oder Spielrunden auf Cons ist es zu empfehlen, die Macken auszuwürfeln, da dies flott erledigt ist. Sollte aber ein längeres Abenteuer oder sogar eine kleine Kampagne gespielt werden, sollte man sich Zeit lassen und die Macken individueller gestalten.
+Insbesondere bei OneShots oder Spielrunden auf Cons ist es zu empfehlen, die Macken auszuwürfeln, da dies flott erledigt ist. Sollte aber ein längeres Abenteuer oder eine Kampagne gespielt werden, sollte man sich Zeit lassen und die Macken individueller gestalten.
 
 Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben, aber übertreibe es dabei nicht.
 {% endcapture %}
