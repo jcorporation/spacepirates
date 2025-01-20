@@ -224,7 +224,7 @@
     "/Weltraum/Aliens/": 106,
     "/Weltraum/": 25,
     "/Weltraum/Neutrale_Zone/Scrabnambu": 10,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 3,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 7,
     "/Zufallstabellen/Beute": 3,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Weltraum/Aliens/Glukorianer/": 2,
@@ -2722,6 +2722,7 @@
     "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": 3,
     "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": 2,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 2,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Weltraum/": 2,
     "/Weltraum/Aliens/Trull/Trullmania": 2,
     "/Weltraum/Freihandelszone/System_der_Traeume/Mimen-Mission": 2,
@@ -3412,9 +3413,9 @@
     "/Weltraum/SpaceNinjas/Clans/Leiser-Wind-des-Schicksals-Dojo": 10,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/": 3,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 2,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Abenteuer/": 1,
-    "/Abenteuer/Ideen/SpaceNinjas": 1,
-    "/Abenteuer/Rache_des_Akamachi-Clans/": 1
+    "/Abenteuer/Ideen/SpaceNinjas": 1
   },
   "kabukichoprimes": {
     "/Weltraum/SpaceNinjas/Clans/Hattori-Hanzo-Akademie": 2,
@@ -3446,10 +3447,10 @@
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 10,
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 3,
     "/Abenteuer/Halloween/Station": 2,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Weltraum/Historie": 2,
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 2,
-    "/Abenteuer/Schatzjagd/Rand": 1,
-    "/Abenteuer/Wagonian_Wedding/Selbstdarsteller": 1
+    "/Abenteuer/Schatzjagd/Rand": 1
   },
   "kahadrische": {
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/": 53,
@@ -4538,6 +4539,7 @@
   "namen": {
     "/Zufallstabellen/": 25,
     "/Weltraum/Piraten/Treffpunkte/Two_Eyed_Jack": 3,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Weltraum/Piraten/Treffpunkte/Foo-Bar": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1
   },
@@ -4803,6 +4805,7 @@
     "/Abenteuer/": 1,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/": 1,
     "/Abenteuer/Rache_des_Akamachi-Clans/": 1,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/": 1
   },
   "ninjaspaceflitzer": {
@@ -5357,7 +5360,6 @@
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken": 1,
-    "/Spielregeln/Die_Piratencrew/Beispielpiraten": 1,
     "/Spielregeln/Die_Piratencrew/Beispielraumschiff": 1,
     "/Spielregeln/Die_Piratencrew/Charaktere": 1,
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 1,
@@ -6550,12 +6552,12 @@
     "/Weltraum/Piraten/Treffpunkte/Freeport": 10,
     "/Weltraum/Verrueckte_Wissenschaftler": 10,
     "/Weltraum/Historie": 3,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 1,
     "/Abenteuer/Schatz_von_Menkar/Schlaeger": 1,
     "/Abenteuer/Schatzjagd/Erste_Piratengruppe": 1,
     "/Abenteuer/Zeitraub/Auftrag": 1,
-    "/Spielregeln/Die_Piratencrew/Charakterwerte": 1,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 1
+    "/Spielregeln/Die_Piratencrew/Charakterwerte": 1
   },
   "samnesischer": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Waffen": 26,
@@ -7185,13 +7187,13 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 2,
     "/Abenteuer/Ideen/Rosa_Loch": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 2,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Weltraum/Aliens/Atlanter/": 2,
     "/Weltraum/Aliens/Atlanter/Atlantis": 2,
     "/Weltraum/Historie": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 1,
-    "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": 1,
-    "/Abenteuer/Ideen/Gilgamesch_und_die_Diamanten_der_Koenigin_Maud": 1
+    "/Abenteuer/Ideen/Auftraege_auf_der_Mimen-Mission": 1
   },
   "spaceameisen": {
     "/Weltraum/SpaceAmeisen": 162,
@@ -7292,6 +7294,7 @@
     "/Weltraum/Promis": 32,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 12,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 11,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Abenteuer/Die_Eisgalaxis/": 1
   },
   "spacepirates": {
@@ -7403,10 +7406,10 @@
     "/Abenteuer/Blumenkind/Blumenkind": 2,
     "/Abenteuer/Blumenkind/Woodstock": 2,
     "/Abenteuer/Buschraub/Nachforschungen": 2,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 2,
     "/Weltraum/Aliens/SpaceWorms/BigBong/SWIP": 2,
-    "/Abenteuer/Blumenkind/SpaceHippies": 1,
-    "/Abenteuer/Buschraub/Syoner": 1
+    "/Abenteuer/Blumenkind/SpaceHippies": 1
   },
   "spacewormimprovementproject": {
     "/Weltraum/Aliens/SpaceWorms/BigBong/SWIP": 101,
@@ -7416,6 +7419,7 @@
   "spaceyeti": {
     "/Weltraum/Aliens/SpaceYetis/": 253,
     "/Weltraum/Aliens/SpaceYetis/Eisgalaxis": 31,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Abenteuer/Die_Eisgalaxis/": 1
   },
   "special": {
@@ -7470,12 +7474,12 @@
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 3,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 3,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": 3,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 3,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 3,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": 2,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 2,
@@ -7494,7 +7498,6 @@
     "/Spielregeln/": 26,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 9,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/": 2,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Gegenspieler": 2,
@@ -7506,7 +7509,8 @@
     "/Abenteuer/Zeitraub/Ueberfall": 1,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 1,
     "/Spielregeln/Abenteuer_erleben/Konflikte/": 1,
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 1
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 1,
+    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege": 1
   },
   "spielleitercharaktere": {
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 102,
@@ -7851,6 +7855,7 @@
     "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen": 11,
     "/Weltraum/Konzerne/Ramsch_Incorporated": 11,
     "/Weltraum/Aliens/Wagonen/Wagonische_Koenigsfamilie": 10,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 1
   },
   "streifsand": {
@@ -8259,6 +8264,7 @@
     "/Weltraum/Piraten/Treffpunkte/Halfway": 10,
     "/Weltraum/Piraten/Treffpunkte/Piratenbucht": 10,
     "/Weltraum/Verrueckte_Wissenschaftler": 10,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Weltraum/Historie": 2,
     "/Abenteuer/Buschraub/Dimensionsriss": 1
   },
@@ -8598,6 +8604,7 @@
     "/Weltraum/Historie": 3,
     "/Ideenhalde/Weltraumphaenomene": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 2,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten": 2,
     "/Weltraum/Konzerne/": 2,
@@ -8609,8 +8616,7 @@
     "/Weltraum/Weltraumphaenomene/Raumzeitverschiebung": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlantereinsiedler": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Oma_Binkel": 1,
-    "/Abenteuer/Dungeonplanet/": 1,
-    "/Abenteuer/Gefangen_im_SpaceSchnee/": 1
+    "/Abenteuer/Dungeonplanet/": 1
   },
   "viele hauptstaedte": {
     "/Weltraum/Aliens/Wagonen/Terra_20CAD": 10
@@ -8697,6 +8703,7 @@
     "/Weltraum/Weltraumphaenomene/Ionensturm": 10,
     "/Weltraum/Historie": 3,
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 2,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
     "/StarTunes/Lyrics": 2,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 2,
     "/Weltraum/Freihandelszone/Handelsrat": 2,
