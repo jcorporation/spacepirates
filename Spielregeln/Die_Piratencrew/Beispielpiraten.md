@@ -73,8 +73,8 @@ Sun Chen ist eine wunderschöne chinesische Händlerin, die ihre Reize einzusetz
     <tr><th>Macken</th>
       <td colspan="3">
         <ol>
-          <li>wirkt für andere Piraten zu weibisch</li>
-          <li>hat einen Putzfimmel</li>
+          <li>sehr modebewusst und auf sein Äußeres bedacht</li>
+          <li>das machen wir mal kurz</li>
         </ol>
       </td>
     </tr>

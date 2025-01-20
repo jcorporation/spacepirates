@@ -54,7 +54,7 @@ Erschaffe einen Hintergrund, der den Charakter für die anderen Spieler interess
 
 Ein cooler Hintergrund bringt nichts, wenn er im Spiel untergeht. Also gestalte deinen Charakterhintergrund nützlich. Erstens für dich, um ihn besser auszuspielen, zweitens für die Gruppe und den Spielleiter, damit sie den Hintergrund deines Charakters anspielen können.
 
-Klischees sind wunderbar, jeder kennt sie und man hat schnell ein Bild vor Augen. Also verwende Klischees, um deinen Charakter typische oder untypische Merkmale zu geben.
+Klischees sind wunderbar, jeder kennt sie und man hat schnell ein Bild vor Augen. Also verwende Klischees, um deinen Charakter typische oder untypische Merkmale zu geben, aber übertreibe es dabei nicht.
 {% endcapture %}
 {% include hinweis.md title="Tipps zum Hintergrund" body=include_body %}
 
@@ -68,10 +68,10 @@ Folgende Fragen können helfen, um die wichtigsten Fakten des Charakterhintergru
 {% capture include_body %}
 Kathy nennt ihren Charakter Sun Chen, sie ist Neuasiatin und kommt vom Planeten Kabukicho-Prime. Sie ist 30 Jahre alt. Kathy beantwortet die Hintergrundfragen wie folgt:
 
-1. Lange, schwarze Haare, die sie im Alltag hochgesteckt trägt. Sie trägt meist hochgeschlossene, aber figurbetonte Kleidung.
-2. Sie weiß ihre Reize einzusetzen und hat eine flotte Zunge.
+1. Sie hat lange, schwarze Haare, die sie im Alltag meist hochsteckt, da es einfach praktischer ist. Sie trägt meist hochgeschlossene, aber figurbetonte Kleidung, was ihr mit ihrer sportlichen Figur sehr gut steht.
+2. Sie weiß ihre weiblichen Reize einzusetzen und hat eine flotte Zunge.
 3. Sie war Händlerin.
-4. Sie hat durch einen aufgeflogenen Betrug all ihre Handelskontakte verloren und muss ihr Geld jetzt anders verdienen.
+4. Sie hat durch einen aufgeflogenen Betrug all ihre Handelskontakte verloren und muss ihr Geld jetzt anders verdienen. Besitzt aber durchaus noch den ein oder anderen guten Kontakt zu den Ninja-Clans von Kabukicho-Prime.
 {% endcapture %}
 {% include beispiel.md title="Beispiel zum Charakterhintergrund" body=include_body %}
 
@@ -89,7 +89,25 @@ Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich
 - [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/) – käferähnliche Händler
 - [Wagonen]({{ site.baseurl }}/Weltraum/Aliens/Wagonen/) – bürokratische Marsmenschen
 
-Wenn der Spieler will, kann er natürlich auch eine neue Alienrasse erschaffen, das sollte er aber mit der Gruppe und insbesondere mit dem Spielleiter absprechen, der selbstverständlich ein Vetorecht hat.
+Hier eine kurze Beschreibung der Alienrassen, mehr Details zu den Aliens sind in der Weltbeschreibung zu finden.
+
+**Kahadrier** sind kriegerische, zwergenähnliche Aliens bei denen auch Frauen stolz ihren Bart tragen und ihr Waffen oft größer als sie selbst sind. Sie werden auch „Spacezwerge“ genannt.
+
+**Samnesen** sind forschende, wissbegierige Cyborgs. Ihr Körperbau ähnelt dem der Menschen. Sie sind technisch weit fortgeschritten und können nahezu jedes Körperteil durch Cyberware ersetzen,
+
+**Streifanier** sind niedliche kleine Pelzwesen, nur echt mit Knopf im Ohr. Sie sind etwa einen halben Meter groß, besitzen große Glupschaugen und sehen einfach knuddelig aus.
+
+**Spaceamazonen** sind humanoide, ausschließlich weibliche Aliens. Sie sind sexy und kriegerisch. Sie werden auch die „Damen des Universums“ genannt.
+
+**Spacepears** sind, wie ihr Namen andeutet, birnenförmige Aliens. Sie besitzen keine Beine, können dafür aber mühelos über den Boden schweben.
+
+**SpaceWorms** sind 1 m große, aufrecht kriechende Würmer mit menschlichen Gesichtszügen und Armen erinnert. Sie tragen immer einen Hut und ist notorische Kettenraucher.
+
+**SpaceYetis** sind zwischen zwei und zweieinhalb Meter groß und besitzen ein weißes, wuscheliges Fell, das meist sehr zottelig ist. Sie sind eine friedliebende Alienrasse und verhandlungssichere Händler.
+
+**Trull** sehen aus wie aufrecht gehende Käfer und besitzen zwischen vier und sechs Arme und zwei Beine. Der Handel ist ihr die große Leidenschaft.
+
+**Wagonen** sehen aus wie man sich den typischen Marsmenschen vorstellt. Sie sind ein extrem bürokratisches und distanziertes Volk mit vielen gesellschaftlichen Regeln und Gesetzen.
 
 ## Macken
 
