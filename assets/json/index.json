@@ -61,7 +61,7 @@
     "/Abenteuer/Ideen/": 111,
     "/Abenteuer/Ideen/SpaceNinjas": 51,
     "/Abenteuer/": 2,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 1
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 1
   },
   "abenteuers": {
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 52,
@@ -96,7 +96,7 @@
     "/Spielregeln/Abenteuer_erleben/": 1
   },
   "ablenkungsmanoever": {
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 25,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Rache": 1
   },
   "abodabi": {
@@ -228,7 +228,7 @@
     "/Zufallstabellen/Beute": 3,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Weltraum/Aliens/Glukorianer/": 2,
-    "/Weltraum/Aliens/Spaceamazonen/": 2,
+    "/Weltraum/Aliens/SpaceAmazonen/": 2,
     "/Abenteuer/Der_grosse_Fang/Danach": 1
   },
   "alles gut": {
@@ -246,13 +246,13 @@
     "/Weltraum/Aliens/SpaceWorms/Raumstationen": 1
   },
   "amazon": {
-    "/Weltraum/Aliens/Spaceamazonen/Amazon": 252,
-    "/Weltraum/Aliens/Spaceamazonen/": 12
+    "/Weltraum/Aliens/SpaceAmazonen/Amazon": 252,
+    "/Weltraum/Aliens/SpaceAmazonen/": 12
   },
   "amazonenkreuzer": {
-    "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 101,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 1,
-    "/Weltraum/Aliens/Spaceamazonen/": 1
+    "/Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer": 101,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 1,
+    "/Weltraum/Aliens/SpaceAmazonen/": 1
   },
   "andere piraten": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 25,
@@ -339,7 +339,7 @@
     "/Weltraum/Freihandelszone/System_der_Traeume/Hollywood": 1
   },
   "arrow": {
-    "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 27
+    "/Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer": 27
   },
   "artefakte": {
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 26,
@@ -368,8 +368,8 @@
   },
   "atlanter": {
     "/Weltraum/Aliens/Atlanter/": 256,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 54,
-    "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 53,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 54,
+    "/Weltraum/Politische_Lage/Atlanter_vs_SpaceAmazonen": 53,
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 27,
     "/Weltraum/Aliens/Atlanter/Atlantis": 13,
     "/Weltraum/Neutrale_Zone/Bharani_8": 10,
@@ -378,7 +378,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 4,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 3,
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 2,
-    "/Weltraum/Aliens/Spaceamazonen/": 2,
+    "/Weltraum/Aliens/SpaceAmazonen/": 2,
     "/Abenteuer/": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Atlanterschiff": 1,
@@ -386,11 +386,11 @@
     "/Publikationen/": 1,
     "/Weltraum/": 1,
     "/Weltraum/Aliens/": 1,
-    "/Weltraum/Aliens/Spaceamazonen/Amazon": 1
+    "/Weltraum/Aliens/SpaceAmazonen/Amazon": 1
   },
   "atlanter vs spaceamazonen": {
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 100,
-    "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 100,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 100,
+    "/Weltraum/Politische_Lage/Atlanter_vs_SpaceAmazonen": 100,
     "/Publikationen/": 1
   },
   "atlantereinsiedler": {
@@ -407,7 +407,7 @@
     "/Weltraum/Aliens/Atlanter/": 12,
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 6,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 4,
-    "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 2,
+    "/Weltraum/Politische_Lage/Atlanter_vs_SpaceAmazonen": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Das_Pergament": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Rebellen": 1,
@@ -817,7 +817,7 @@
   },
   "bewaffnung": {
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 25,
-    "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 25,
+    "/Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer": 25,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 4,
     "/Abenteuer/Halloween/Xergul": 1
   },
@@ -1173,7 +1173,7 @@
     "/Abenteuer/Halloween/Ende": 2,
     "/Abenteuer/Halloween/Nebel": 2,
     "/Abenteuer/Halloween/Nebelmaschine": 2,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 2,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 2,
     "/Abenteuer/Laborratten/": 2,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 2,
     "/Abenteuer/Schatz_von_Menkar/Hinter_dem_Wurmloch": 2,
@@ -1332,7 +1332,7 @@
   },
   "daten": {
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 26,
-    "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 26,
+    "/Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer": 26,
     "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 25,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren": 3,
     "/Abenteuer/Laborratten/Dahinter": 1
@@ -1402,7 +1402,7 @@
   },
   "diplomatische beziehungen": {
     "/Ideenhalde/Bewohner/Raptorianer/": 25,
-    "/Weltraum/Aliens/Spacepears/": 1
+    "/Weltraum/Aliens/SpacePears/": 1
   },
   "diverse": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Diverses": 50,
@@ -1776,7 +1776,7 @@
     "/Abenteuer/Schatz_von_Menkar/Ende": 100,
     "/Abenteuer/Zeitraub/Ende": 100,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 26,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 25,
     "/Abenteuer/Buschraub/": 1,
     "/Abenteuer/Buschraub/Einstieg": 1,
     "/Abenteuer/Buschraub/Nachforschungen": 1,
@@ -1790,7 +1790,7 @@
     "/Abenteuer/SpaceDrache/": 1
   },
   "ende des ychromosoms": {
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 25
   },
   "endkampf": {
     "/Abenteuer/Dungeonplanet/Endkampf": 100,
@@ -1861,7 +1861,7 @@
     "/Weltraum/Menschen/Foederation/Pessach_4": 11,
     "/Weltraum/Aliens/Atlanter/Atlantis": 10,
     "/Weltraum/Aliens/Kahadrier/Cygni_Tek": 10,
-    "/Weltraum/Aliens/Spaceamazonen/Amazon": 10,
+    "/Weltraum/Aliens/SpaceAmazonen/Amazon": 10,
     "/Weltraum/Aliens/Wagonen/Windsor_Planet": 10,
     "/Weltraum/Freihandelszone/Neusirius": 10,
     "/Weltraum/Freihandelszone/System_der_Traeume/Avantgardia": 10,
@@ -2000,7 +2000,7 @@
     "/Weltraum/Aliens/SpaceWorms/BigBong/": 1
   },
   "expedition": {
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 25
   },
   "exploration": {
     "/Weltraum/Konzerne/Fedspex": 52
@@ -2129,7 +2129,7 @@
   },
   "flotten": {
     "/Weltraum/Militaer": 26,
-    "/Weltraum/Aliens/Spaceamazonen/": 2,
+    "/Weltraum/Aliens/SpaceAmazonen/": 2,
     "/Weltraum/Konzerne/SpaceResearch": 1
   },
   "flucht": {
@@ -2486,7 +2486,7 @@
   "gleiter": {
     "/Weltraum/Technologie/": 28,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 25,
-    "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 25
+    "/Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer": 25
   },
   "gliederung des abenteuers": {
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 100,
@@ -3759,7 +3759,7 @@
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 2,
     "/Weltraum/Historie": 2,
     "/Weltraum/Politische_Lage/": 2,
-    "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 2,
+    "/Weltraum/Politische_Lage/Atlanter_vs_SpaceAmazonen": 2,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie": 1,
     "/Abenteuer/Der_grosse_Fang/Reise": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Ende": 1,
@@ -3865,7 +3865,7 @@
     "/Abenteuer/Ideen/Stars_und_Sternchen": 26
   },
   "kriegsflotten": {
-    "/Weltraum/Aliens/Spaceamazonen/": 25
+    "/Weltraum/Aliens/SpaceAmazonen/": 25
   },
   "kriegsschiff": {
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 28,
@@ -5075,7 +5075,7 @@
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 38,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 4,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 3,
-    "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 3,
+    "/Weltraum/Politische_Lage/Atlanter_vs_SpaceAmazonen": 3,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 2,
@@ -5195,7 +5195,7 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/Supernova": 26
   },
   "pink arrow": {
-    "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 27
+    "/Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer": 27
   },
   "pinky der schlitzer": {
     "/Weltraum/Freihandelszone/Beta_Prison/Gefaengnis/Insassen": 175
@@ -5290,7 +5290,7 @@
     "/Abenteuer/Dungeonplanet/Ebene2": 2,
     "/Abenteuer/Halloween/Einstieg": 2,
     "/Abenteuer/Halloween/Zentrum": 2,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 2,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 2,
     "/Abenteuer/Ideen/Spacewood-Klinik": 2,
     "/Abenteuer/Laborratten/Einstieg": 2,
     "/Abenteuer/Ostern/Sonden": 2,
@@ -5496,8 +5496,8 @@
     "/Weltraum/Freihandelszone/System_der_Traeume/Stummfilm-Planet": 22,
     "/Weltraum/Menschen/Foederation/Erde": 22,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Zeno": 22,
+    "/Weltraum/Aliens/SpaceAmazonen/Amazon": 21,
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 21,
-    "/Weltraum/Aliens/Spaceamazonen/Amazon": 21,
     "/Weltraum/Menschen/Foederation/Omatic": 21,
     "/Weltraum/Menschen/Foederation/Pandar_5": 21,
     "/Weltraum/Menschen/Foederation/Pessach_4": 21,
@@ -5568,11 +5568,11 @@
     "/Abenteuer/SpaceDrache/Drachenhort": 3,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 3,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Erwachen": 3,
+    "/Weltraum/Aliens/SpaceAmazonen/": 3,
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/": 3,
-    "/Weltraum/Aliens/Spaceamazonen/": 3,
     "/Weltraum/Menschen/Foederation/": 3,
     "/Weltraum/Neutrale_Zone/Kappa_Gamma/Geschichte": 3,
-    "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 3,
+    "/Weltraum/Politische_Lage/Atlanter_vs_SpaceAmazonen": 3,
     "/Abenteuer/Dungeonplanet/": 2,
     "/Abenteuer/Halloween/Nebelmaschine": 2,
     "/Abenteuer/Halloween/Zentrum": 2,
@@ -5613,7 +5613,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Nebel": 1,
     "/Abenteuer/Halloween/Ende": 1,
     "/Abenteuer/Halloween/Vampir-Planet": 1,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 1,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 1,
     "/Abenteuer/Ideen/Die_Affaere_um_Roboter_4711": 1,
     "/Abenteuer/Neutritiumklau/Auftrag": 1,
     "/Abenteuer/Ostern/Hintergrund": 1,
@@ -6067,7 +6067,7 @@
   "raumkreuzer": {
     "/Weltraum/Technologie/Raumschiffe": 29,
     "/Abenteuer/Laborratten/Einstieg": 1,
-    "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 1
+    "/Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer": 1
   },
   "raumschiff": {
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/": 161,
@@ -6096,7 +6096,7 @@
     "/Abenteuer/Zeitraub_II/Reise": 5,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 4,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 4,
-    "/Weltraum/Aliens/Spaceamazonen/": 4,
+    "/Weltraum/Aliens/SpaceAmazonen/": 4,
     "/Weltraum/Haendler_und_Halunken": 4,
     "/Weltraum/Piraten/Piratencrews/Tatjana_Molotowa": 4,
     "/Weltraum/Weltraumphaenomene/Quantenfluktuation": 4,
@@ -6107,7 +6107,7 @@
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 3,
     "/Spielregeln/": 3,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses": 3,
-    "/Weltraum/Aliens/Spacepears/": 3,
+    "/Weltraum/Aliens/SpacePears/": 3,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/Neu-Neo-Tokio": 3,
     "/Abenteuer/Buschraub/Bahir": 2,
     "/Abenteuer/Buschraub/Nova_Ceti": 2,
@@ -6709,7 +6709,7 @@
     "/Abenteuer/Raumschiffdungeon/Sektoren/Sirenen": 4,
     "/Abenteuer/Zeitraub/Ueberfall": 4,
     "/Abenteuer/Buschraub/Sperrzone": 3,
-    "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 3,
+    "/Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer": 3,
     "/Abenteuer/Blumenkind/SWIP": 2,
     "/Abenteuer/Buschraub/SWIP": 2,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 2,
@@ -7174,15 +7174,15 @@
     "/Weltraum/Militaer": 26
   },
   "spaceamazonen": {
-    "/Weltraum/Aliens/Spaceamazonen/": 259,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 54,
-    "/Weltraum/Politische_Lage/Atlanter_vs_Spaceamazonen": 53,
+    "/Weltraum/Aliens/SpaceAmazonen/": 259,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 54,
+    "/Weltraum/Politische_Lage/Atlanter_vs_SpaceAmazonen": 53,
     "/Abenteuer/Die_Karte_nach_Atlantis/Komplikationen": 26,
-    "/Weltraum/Aliens/Spaceamazonen/Amazon": 13,
+    "/Weltraum/Aliens/SpaceAmazonen/Amazon": 13,
     "/Weltraum/Promis": 13,
     "/Weltraum/Konzerne/Spacewood-Klinik/Personal": 11,
     "/Abenteuer/Die_Karte_nach_Atlantis/Einstieg": 4,
-    "/Weltraum/Aliens/Spaceamazonen/Amazonenkreuzer": 4,
+    "/Weltraum/Aliens/SpaceAmazonen/Amazonenkreuzer": 4,
     "/Abenteuer/Die_Karte_nach_Atlantis/Rebellen": 2,
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 2,
     "/Abenteuer/Ideen/Rosa_Loch": 2,
@@ -7290,7 +7290,7 @@
     "/Abenteuer/Der_grosse_Fang/Reise": 1
   },
   "spacepear": {
-    "/Weltraum/Aliens/Spacepears/": 254,
+    "/Weltraum/Aliens/SpacePears/": 254,
     "/Weltraum/Promis": 32,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 12,
     "/Abenteuer/Gefangen_im_SpaceSchnee/": 11,
@@ -7592,7 +7592,7 @@
     "/Weltraum/SpaceMafia/Kahadrische_Mafia/Xorlok": 26
   },
   "stadtschiff": {
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 52,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 52,
     "/Weltraum/Aliens/Atlanter/Stadtschiffe": 1
   },
   "stadtschiffe": {
@@ -7757,7 +7757,7 @@
     "/Weltraum/Aliens/SpaceYetis/Eisgalaxis": 10,
     "/Weltraum/Aliens/Trull/Golfplatz": 10,
     "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren": 4,
-    "/Weltraum/Aliens/Spaceamazonen/": 2,
+    "/Weltraum/Aliens/SpaceAmazonen/": 2,
     "/Abenteuer/Buschraub/Bahir": 1
   },
   "sternensysteme": {
@@ -8074,7 +8074,7 @@
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 1,
     "/Abenteuer/Die_Karte_nach_Atlantis/Uebersetzung": 1,
     "/Abenteuer/Dungeonplanet/Einstieg": 1,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 1,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 1,
     "/Abenteuer/Ideen/SpaceNinjas": 1,
     "/Abenteuer/Pizza_fuer_Jonas_Wagner/Nachforschungen": 1,
     "/Abenteuer/Raumschiffdungeon/Sektoren/": 1,
@@ -8568,7 +8568,7 @@
   "verrueckte": {
     "/Weltraum/Verrueckte_Wissenschaftler": 51,
     "/Abenteuer/Zeitraub_II/Javar_3": 26,
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 1
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 1
   },
   "verrueckte affen": {
     "/Abenteuer/Zeitraub_II/Javar_3": 26,
@@ -8583,7 +8583,7 @@
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten": 25
   },
   "verschollen": {
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25,
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 25,
     "/Abenteuer/Schatz_von_Menkar/Einstieg": 1,
     "/Weltraum/Verrueckte_Wissenschaftler": 1
   },
@@ -9095,7 +9095,7 @@
     "/Weltraum/SpaceNinjas/Clans/Clan_der_Schildkroete": 151
   },
   "ychromosoms": {
-    "/Abenteuer/Ideen/Atlanter_vs_Spaceamazonen": 25
+    "/Abenteuer/Ideen/Atlanter_vs_SpaceAmazonen": 25
   },
   "yellow": {
     "/Weltraum/Konzerne/Yellow_Stone_Group": 52,

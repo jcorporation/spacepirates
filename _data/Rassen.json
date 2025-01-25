@@ -47,6 +47,18 @@
     "Heimatplanet": "Sampuk",
     "Link": "/Weltraum/Aliens/Samnesen/"
   },
+  "SpaceAmazone": {
+    "Name": "SpaceAmazone",
+    "Sektor": "",
+    "Heimatplanet": "Amazon",
+    "Link": "/Weltraum/Aliens/SpaceAmazonen/"
+  },
+  "SpacePear": {
+    "Name": "SpacePear",
+    "Sektor": "",
+    "Heimatplanet": "",
+    "Link": "/Weltraum/Aliens/SpacePears/"
+  },
   "SpaceWorm": {
     "Name": "SpaceWorm",
     "Sektor": [
@@ -62,18 +74,6 @@
     "Sektor": "Sektor D1",
     "Heimatplanet": "Trullmania",
     "Link": "/Weltraum/Aliens/SpaceYetis/"
-  },
-  "Spaceamazone": {
-    "Name": "Spaceamazone",
-    "Sektor": "",
-    "Heimatplanet": "Amazon",
-    "Link": "/Weltraum/Aliens/Spaceamazonen/"
-  },
-  "Spacepear": {
-    "Name": "Spacepear",
-    "Sektor": "",
-    "Heimatplanet": "",
-    "Link": "/Weltraum/Aliens/Spacepears/"
   },
   "Streifanier": {
     "Name": "Streifanier",

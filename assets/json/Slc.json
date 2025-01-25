@@ -1,7 +1,7 @@
 {
   "Aal_Jarreau": {
     "Name": "Aal Jarreau",
-    "Rasse": "Spacepear",
+    "Rasse": "SpacePear",
     "Kategorie": "Promi",
     "Wohnort": "Freeport",
     "Position": "",
@@ -73,7 +73,7 @@
   },
   "Arnold_Easteregger": {
     "Name": "Arnold Easteregger",
-    "Rasse": "Spacepear",
+    "Rasse": "SpacePear",
     "Kategorie": "Promi",
     "Wohnort": "",
     "Position": "",
@@ -128,7 +128,7 @@
   },
   "Birgit_Niels": {
     "Name": "Birgit Niels",
-    "Rasse": "Spaceamazone",
+    "Rasse": "SpaceAmazone",
     "Kategorie": "Promi",
     "Wohnort": "",
     "Position": "",
@@ -163,7 +163,7 @@
   },
   "Britney_S_Pears": {
     "Name": "Britney S. Pears",
-    "Rasse": "Spacepear",
+    "Rasse": "SpacePear",
     "Kategorie": "Promi",
     "Wohnort": "",
     "Position": "",
@@ -249,7 +249,7 @@
   },
   "Detlev": {
     "Name": "Detlev",
-    "Rasse": "Spacepear",
+    "Rasse": "SpacePear",
     "Kategorie": "SpaceTrucker",
     "Wohnort": "",
     "SOELDNER": "4",
@@ -1017,7 +1017,7 @@
   },
   "Noh_Frut": {
     "Name": "Noh Frut",
-    "Rasse": "Spacepear",
+    "Rasse": "SpacePear",
     "Kategorie": "Pirat",
     "Wohnort": "Two Eyed Jack",
     "SOELDNER": "6",
