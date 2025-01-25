@@ -59,7 +59,7 @@ Der Schatz befindet sich natürlich in einer großen Kiste, die in einer kleinen
 
 **Der Schatz besteht aus:**
 
-- Kiste Spaceamazonengold im Tauschwert von 100.000 UC (Hehler zahlen maximal 5 %)
+- Kiste SpaceAmazonengold im Tauschwert von 100.000 UC (Hehler zahlen maximal 5 %)
 - Raumschiffspoiler
 - Plan für einen 0,5FTL-Antrieb
 - Erste 3-D-Digitalkamera des Universums ohne Ladegerät

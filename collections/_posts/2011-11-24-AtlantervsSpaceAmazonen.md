@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Atlanter vs Spaceamazonen"
+title: "Atlanter vs SpaceAmazonen"
 tag: SpacePirates
-permalink: /Aktuelles/2011-11-24-AtlantervsSpaceamazonen
+permalink: /Aktuelles/2011-11-24-AtlantervsSpaceAmazonen
 ---
 
 

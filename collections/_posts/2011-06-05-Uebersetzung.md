@@ -9,4 +9,4 @@ Die erste, grobe Übersetzung des SpacePirates Quickstarts ist abgeschlossen. Da
 
 ## Themenhefte
 
-Zum Themenheft &bdquo;Atlanter vs Spaceamazonen&ldquo; gibt es jetzt das erste Preview-PDF. Desweiteren sind die Themen für die nächsten Hefte bereits festgelegt. Das dritte Themenheft wird die absolut bösen Glukorianer näher beleuchten und das vierte Themenheft trägt den bezeichnenden Namen &bdquo;Banden, Verbrecher und Promis&ldquo;.
+Zum Themenheft &bdquo;Atlanter vs SpaceAmazonen&ldquo; gibt es jetzt das erste Preview-PDF. Desweiteren sind die Themen für die nächsten Hefte bereits festgelegt. Das dritte Themenheft wird die absolut bösen Glukorianer näher beleuchten und das vierte Themenheft trägt den bezeichnenden Namen &bdquo;Banden, Verbrecher und Promis&ldquo;.

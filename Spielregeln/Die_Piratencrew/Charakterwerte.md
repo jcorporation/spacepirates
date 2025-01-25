@@ -19,8 +19,8 @@ Aliens erhalten nach der Verteilung noch einen zusätzlichen Punkt im, ihrer Ras
 | ---------- | ------ |
 | Kahadrier | SÖLDNER |
 | Samnese | TECH |
-| Spaceamazone | SÖLDNER |
-| Spacepear | TECH |
+| SpaceAmazone | SÖLDNER |
+| SpacePear | TECH |
 | SpaceWorm | HÄNDLER |
 | SpaceYeti | HÄNDLER |
 | Streifanier | HÄNDLER |

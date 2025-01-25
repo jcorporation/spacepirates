@@ -67,12 +67,12 @@ Die Spieler können und sollen einer Szene einzelne Fakten hinzufügen, solange 
 - Sie müssen die SpacePirates-Genrekonventionen einhalten.
 - Der Fakt darf weder die Szene noch das Abenteuer auflösen.
 
-So erhält die Szene mehr Details, ohne dass die Spieler wegen jeder Kleinigkeit nachfragen müssen. Ein Fakt kann dabei ein beliebiges Szenenelement sein, wie z.B. ein Gegenstand oder ein Ereignis. Wenn also im Ballsaal ein Kronleuchter fehlt oder in der Bar eine Spaceamazone, dann sollen die Spieler solche Details ergänzen. Erzählt einfach davon und es ist Fakt!
+So erhält die Szene mehr Details, ohne dass die Spieler wegen jeder Kleinigkeit nachfragen müssen. Ein Fakt kann dabei ein beliebiges Szenenelement sein, wie z.B. ein Gegenstand oder ein Ereignis. Wenn also im Ballsaal ein Kronleuchter fehlt oder in der Bar eine SpaceAmazone, dann sollen die Spieler solche Details ergänzen. Erzählt einfach davon und es ist Fakt!
 
 Wichtige Fakten kosten einen Piratenwürfel pro Fakt. Der Spielleiter entscheidet, was ein wichtiger Fakt ist und er hat ein Vetorecht.
 
 {% capture include_body %}
-Wichtige Fakten beeinflussen eine Szene maßgeblich. Bei der Planung eines Überfalls auf ein Schiff wäre z.B. das Einfügen eines Asteroidengürtels oder Nebels in die Flugroute des Handelsschiffs ein wichtiger Fakt. Die Spaceamazone zum Anflirten am Tresen ist kein wichtiger Fakt.
+Wichtige Fakten beeinflussen eine Szene maßgeblich. Bei der Planung eines Überfalls auf ein Schiff wäre z.B. das Einfügen eines Asteroidengürtels oder Nebels in die Flugroute des Handelsschiffs ein wichtiger Fakt. Die SpaceAmazone zum Anflirten am Tresen ist kein wichtiger Fakt.
 {% endcapture %}
 {% include hinweis.md title="Wichtige Fakten" body=include_body %}
 

@@ -38,7 +38,7 @@ sitedata:
     Slc:
         Schwester_Heike:
             Name: "Schwester Heike"
-            Rasse: "Spaceamazone"
+            Rasse: "SpaceAmazone"
             Kategorie: "Klinikpersonal"
             Wohnort: "Spacewood-Klinik"
             Position: "Krankenschwester"
@@ -103,7 +103,7 @@ Hildegard ist nicht nur eine einfache Oberschwester, sie ist Angehörige einer g
 
 ## Schwester Heike
 
-Schwester Heike ist das klassische Bild der jungen, sexy und aufstrebenden Krankenschwester, dass in vielen männlichen Patientenköpfen herumgeistert. Sie ist in der Tat eine wunderschöne Spaceamazone mit schwarzen, langem, wallenden Haar, einer nicht zu verachtenden Oberweite und einem knackigen Po unter ihrer meist etwas zu eng sitzenden Schwesterntracht. Sie ist bei den Patienten sehr beliebt, obwohl sie oft etwas „ungeschickt“ ist, aber das verzeiht ihr jeder gern, außer natürlich Oberschwester Hildegard. Schwester Heike ist aber nicht wirklich ungeschickt, sondern versteckt ihren ausgeprägten Sadismus dahinter.
+Schwester Heike ist das klassische Bild der jungen, sexy und aufstrebenden Krankenschwester, dass in vielen männlichen Patientenköpfen herumgeistert. Sie ist in der Tat eine wunderschöne SpaceAmazone mit schwarzen, langem, wallenden Haar, einer nicht zu verachtenden Oberweite und einem knackigen Po unter ihrer meist etwas zu eng sitzenden Schwesterntracht. Sie ist bei den Patienten sehr beliebt, obwohl sie oft etwas „ungeschickt“ ist, aber das verzeiht ihr jeder gern, außer natürlich Oberschwester Hildegard. Schwester Heike ist aber nicht wirklich ungeschickt, sondern versteckt ihren ausgeprägten Sadismus dahinter.
 
 Die beiden Schwestern sind sich absolut nicht grün und zu Intimfeinden geworden. Oberschwester Hildegard kann aber zu ihrem Leidwesen nicht viel gegen Schwester Heike ausrichten, da sie im Hintergrund von Alfred Mührmann geschützt wird. Schwester Heike dominiert und kontrolliert den Verwaltungschef nach Belieben.
 

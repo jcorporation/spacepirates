@@ -12,8 +12,8 @@ In SpacePirates gibt es jede Menge unterschiedlicher Alienrassen. Viele sind gru
 - [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/) – die kriegerischen Aliens
 - [Romaha]({{ site.baseurl }}/Weltraum/Aliens/Romaha/)– eine untergegangene Alienkultur
 - [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/) – die Wissenschaftler und Forscher
-- [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/) – Amazonen im Weltraum
-- [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/) – Birnenähnlich, exotische Aliens
+- [SpaceAmazonen]({{ site.baseurl }}/Weltraum/Aliens/SpaceAmazonen/) – Amazonen im Weltraum
+- [SpacePears]({{ site.baseurl }}/Weltraum/Aliens/SpacePears/) – Birnenähnlich, exotische Aliens
 - [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/) – Rauchende Würmer
 - [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/SpaceYetis/) – Kuschelige Yetis
 - [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/) – die niedlichen Pelzwesen

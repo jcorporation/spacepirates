@@ -82,8 +82,8 @@ Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich
 - [Kahadrier]({{ site.baseurl }}/Weltraum/Aliens/Kahadrier/) – kriegerische, zwergenähnliche Aliens
 - [Samnesen]({{ site.baseurl }}/Weltraum/Aliens/Samnesen/) – forschende, wissbegierige Cyborgs
 - [Streifanier]({{ site.baseurl }}/Weltraum/Aliens/Streifanier/) – niedliche kleine Pelzwesen
-- [Spaceamazonen]({{ site.baseurl }}/Weltraum/Aliens/Spaceamazonen/) – sexy, kriegerische Aliens
-- [Spacepears]({{ site.baseurl }}/Weltraum/Aliens/Spacepears/) – schwebende, birnenförmige Aliens
+- [SpaceAmazonen]({{ site.baseurl }}/Weltraum/Aliens/SpaceAmazonen/) – sexy, kriegerische Aliens
+- [SpacePears]({{ site.baseurl }}/Weltraum/Aliens/SpacePears/) – schwebende, birnenförmige Aliens
 - [SpaceWorms]({{ site.baseurl }}/Weltraum/Aliens/SpaceWorms/) – rauchende Würmer
 - [SpaceYetis]({{ site.baseurl }}/Weltraum/Aliens/SpaceYetis/) – kuschelige Yetis
 - [Trull]({{ site.baseurl }}/Weltraum/Aliens/Trull/) – käferähnliche Händler
@@ -97,9 +97,9 @@ Hier eine kurze Beschreibung der Alienrassen, mehr Details zu den Aliens sind in
 
 **Streifanier** sind niedliche kleine Pelzwesen, nur echt mit Knopf im Ohr. Sie sind etwa einen halben Meter groß, besitzen große Glupschaugen und sehen einfach knuddelig aus.
 
-**Spaceamazonen** sind humanoide, ausschließlich weibliche Aliens. Sie sind sexy und kriegerisch. Sie werden auch die „Damen des Universums“ genannt.
+**SpaceAmazonen** sind humanoide, ausschließlich weibliche Aliens. Sie sind sexy und kriegerisch. Sie werden auch die „Damen des Universums“ genannt.
 
-**Spacepears** sind, wie ihr Namen andeutet, birnenförmige Aliens. Sie besitzen keine Beine, können dafür aber mühelos über den Boden schweben.
+**SpacePears** sind, wie ihr Namen andeutet, birnenförmige Aliens. Sie besitzen keine Beine, können dafür aber mühelos über den Boden schweben.
 
 **SpaceWorms** sind 1 m große, aufrecht kriechende Würmer mit menschlichen Gesichtszügen und Armen erinnert. Sie tragen immer einen Hut und ist notorische Kettenraucher.
 

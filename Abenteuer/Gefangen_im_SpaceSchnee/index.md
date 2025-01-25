@@ -26,7 +26,7 @@ sitedata:
             Bewaffnung: "Laserpistole: P+0"
         Detlev:
             Name: "Detlev"
-            Rasse: "Spacepear"
+            Rasse: "SpacePear"
             Kategorie: "SpaceTrucker"
             Wohnort: ""
             SOELDNER: "4"
@@ -79,7 +79,7 @@ Ein bunt angemaltes Raumschiff, das an einen VW Bully mit Raketendüsen erinnert
 
 ## SpaceTruck
 
-Detlev, der SpaceTrucker, ist ein Spacepear, aber nicht nur deswegen schlecht gelaunt. Mit jeder Minute Verspätung verwandelt sich sein Lieferbonus in einen Malus. Zu allem Unglück hat er auch noch Gefahrgut geladen. Am liebsten würde er sich richtig die Kante geben, aber sein Gewissen und der Alkoholmangel halten ihn zurück. Wenn es den Piraten gelingt, ihn betrunken zu machen, wird er ihnen alles über Fracht und Sicherheitsvorkehrungen erzählen.
+Detlev, der SpaceTrucker, ist ein SpacePear, aber nicht nur deswegen schlecht gelaunt. Mit jeder Minute Verspätung verwandelt sich sein Lieferbonus in einen Malus. Zu allem Unglück hat er auch noch Gefahrgut geladen. Am liebsten würde er sich richtig die Kante geben, aber sein Gewissen und der Alkoholmangel halten ihn zurück. Wenn es den Piraten gelingt, ihn betrunken zu machen, wird er ihnen alles über Fracht und Sicherheitsvorkehrungen erzählen.
 
 Der SpaceTruck ist doppelt gesichert, zunächst die übliche Raumschiffpanzerung, darunter eine Gefahrgutschutzwand. Wenn die Sicherung durchbrochen wird, reagiert der transportierte Negatritiumabfall mit dem SpaceSchnee und wird zu einer gigantischen Negatronenbombe, die alles im Umkreis zerstört. Ein geschickter Tech kann es allerdings so manipulieren, dass das Ding als Negatronenkanone agiert und so bloß ein großes Loch in die Schneewehe schießt.
 

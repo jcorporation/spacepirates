@@ -18,7 +18,7 @@ Liu Ren ist ein abgebrannter chinesischer Piratenkapitän. Er trägt einen alten
 
 ## Gerüchte über den Schatz
 
-- es ist ein Teil des legendären Spaceamazonenschatzes (wahr)
+- es ist ein Teil des legendären SpaceAmazonenschatzes (wahr)
 - der Schatz ist verflucht und wurde deshalb versteckt (falsch)
 - der Schatz besteht aus alten Romahaartefakten (falsch)
 - der Schatz wird von griechischen Fabelwesen beschützt (teilweise wahr: Warnung vor der Meteorkrake)

@@ -5,7 +5,7 @@ title: Rebellen
 order: /03
 ---
 
-Die Rebellen haben die „Kopie“ des Spaceamazonen-Schiffs gefunden, es sind die Schemen, die die Piraten gesehen haben (und umgekehrt). Ihre Anführerin ist die Spaceamazone Eriboea, welche bei ihren Schwestern in Ungnade gefallen ist. Sie erkennt die Karte schnell als solche und hofft, ehrenhaft zu den Amazonen zurückkehren zu können, wenn sie Atlantis findet und der Amazonenkönigin dessen Koordinaten übergibt. Sie nutzt die Verbindung der Rebellen zu aufmüpfigen Studentenvereinigungen, um eine Übersetzung der Karte zu erhalten.
+Die Rebellen haben die „Kopie“ des SpaceAmazonen-Schiffs gefunden, es sind die Schemen, die die Piraten gesehen haben (und umgekehrt). Ihre Anführerin ist die SpaceAmazone Eriboea, welche bei ihren Schwestern in Ungnade gefallen ist. Sie erkennt die Karte schnell als solche und hofft, ehrenhaft zu den Amazonen zurückkehren zu können, wenn sie Atlantis findet und der Amazonenkönigin dessen Koordinaten übergibt. Sie nutzt die Verbindung der Rebellen zu aufmüpfigen Studentenvereinigungen, um eine Übersetzung der Karte zu erhalten.
 
 Die Rebellen erkennen auch die Instabilität der Karte. Entsprechend heuern sie Söldner an, um den Piraten die Karte abzunehmen (und, wenn möglich, zu zerstören). Wenn die Piraten auf Oma Binkels Hilfe zurückgreifen, lauern die Söldner den Piraten bei der Rückkehr auf Freeport auf. Ansonsten brauchen die Söldner 1W6 Tage, um die Piraten aufzuspüren.
 
@@ -38,7 +38,7 @@ Die Rebellen erkennen auch die Instabilität der Karte. Entsprechend heuern sie 
 </tbody>
 </table>
 
-Sollten die Söldner versagen, wird Eriboea das Risiko eingehen, andere Spaceamazonen auf die Piraten aufmerksam zu machen. Sie wird behaupten, die Piraten wären für die Zerstörung der antiken Spaceamazonenschiffe verantwortlich, um die Spaceamazonen gegen die Piraten aufzuhetzen.
+Sollten die Söldner versagen, wird Eriboea das Risiko eingehen, andere SpaceAmazonen auf die Piraten aufmerksam zu machen. Sie wird behaupten, die Piraten wären für die Zerstörung der antiken SpaceAmazonenschiffe verantwortlich, um die SpaceAmazonen gegen die Piraten aufzuhetzen.
 
 <table>
 <caption>Rebellen Werte</caption>

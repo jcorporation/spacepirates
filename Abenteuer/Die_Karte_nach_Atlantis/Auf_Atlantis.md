@@ -32,7 +32,7 @@ Auf Atlantis angekommen, entdecken die Charaktere wirklich eine Idylle. Die Natu
 
 Aristoteles ist der gewählte Präsident von Atlantis und begrüßt die Charaktere im Namen aller Atlanter. Die Charaktere dürfen sich beliebig lange hier aufhalten und bekommen auch eine Schlafstatt gestellt. Nur die Technikräume dürfen sie nicht betreten.
 
-Fragen die Charaktere nach der Geschichte, erzählt ihnen Aristoteles, dass sie den Planeten mit einem Dimensionsriss von der Zerstörungswut der Atlanter und der Spaceamazonen retteten und seitdem hier ein friedliches Leben verbringen. Sie haben sich mit Absicht von den restlichen Atlantern getrennt und wollen auch weder zurückkommen, noch wollen sie, dass jemand den genauen Standort von Atlantis erfährt.
+Fragen die Charaktere nach der Geschichte, erzählt ihnen Aristoteles, dass sie den Planeten mit einem Dimensionsriss von der Zerstörungswut der Atlanter und der SpaceAmazonen retteten und seitdem hier ein friedliches Leben verbringen. Sie haben sich mit Absicht von den restlichen Atlantern getrennt und wollen auch weder zurückkommen, noch wollen sie, dass jemand den genauen Standort von Atlantis erfährt.
 
 ### Atlantisches Weinfest
 

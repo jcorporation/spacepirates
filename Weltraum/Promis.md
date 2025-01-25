@@ -13,7 +13,7 @@ sitedata:
             Position: ""
         Aal_Jarreau:
             Name: "Aal Jarreau"
-            Rasse: "Spacepear"
+            Rasse: "SpacePear"
             Kategorie: "Promi"
             Wohnort: "Freeport"
             Position: ""
@@ -25,13 +25,13 @@ sitedata:
             Position: ""
         Birgit_Niels:
             Name: "Birgit Niels"
-            Rasse: "Spaceamazone"
+            Rasse: "SpaceAmazone"
             Kategorie: "Promi"
             Wohnort: ""
             Position: ""
         Britney_S_Pears:
             Name: "Britney S. Pears"
-            Rasse: "Spacepear"
+            Rasse: "SpacePear"
             Kategorie: "Promi"
             Wohnort: ""
             Position: ""
@@ -73,7 +73,7 @@ sitedata:
             Position: ""
         Arnold_Easteregger:
             Name: "Arnold Easteregger"
-            Rasse: "Spacepear"
+            Rasse: "SpacePear"
             Kategorie: "Promi"
             Wohnort: ""
             Position: ""
@@ -132,7 +132,7 @@ Alexa Reed ist eine Samnesin, die künstliche Gelenke, Haare und zwei zusätzlic
 
 ## Aal Jarreau
 
-Dieser legendäre Jazz-Sänger ist ganz sicher der dünnste Spacepear des Universums, was zusammen mit seinen swingenden Bewegungen für seinen Künstlernamen gesorgt hat. Aal ist einem Auftritt in berühmten Kneipen oder großen Kasinos nicht abgeneigt. Derzeit ist er in einer Spelunke in [Freeport]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport) (für Kenner: im „Eimer“) unter Vertrag, wo er jeden Besucher mit einer spontanen und passenden Gesangseinlage begrüßen muss. Dabei sieht er so unglücklich aus, dass auch der unsensibelste Wagone erkennt, dass diesem Mann einfach geholfen werden muss. Er steht allerdings beim Wirt mit 10.000 UC in der Kreide und müsste entweder aus dem Vertrag herausgekauft oder in einer Hauruck-Aktion befreit werden.
+Dieser legendäre Jazz-Sänger ist ganz sicher der dünnste SpacePear des Universums, was zusammen mit seinen swingenden Bewegungen für seinen Künstlernamen gesorgt hat. Aal ist einem Auftritt in berühmten Kneipen oder großen Kasinos nicht abgeneigt. Derzeit ist er in einer Spelunke in [Freeport]({{ site.baseurl }}/Weltraum/Piraten/Treffpunkte/Freeport) (für Kenner: im „Eimer“) unter Vertrag, wo er jeden Besucher mit einer spontanen und passenden Gesangseinlage begrüßen muss. Dabei sieht er so unglücklich aus, dass auch der unsensibelste Wagone erkennt, dass diesem Mann einfach geholfen werden muss. Er steht allerdings beim Wirt mit 10.000 UC in der Kreide und müsste entweder aus dem Vertrag herausgekauft oder in einer Hauruck-Aktion befreit werden.
 
 {% include slc.md data=page.sitedata.Slc.Aal_Jarreau %}
 
@@ -144,11 +144,11 @@ Barbara Streifsand ist die erfolgreichste streifanische Musikerin und Schauspiel
 
 ## Birgit Niels (aka „Green Sonja“)
 
-Die wohl berühmteste Spaceamazone des Universums, sie spielte die Titelrolle der „Green Sonja“ in einem legendären Holo-Film. Ihre Brustimplantate sind vermutlich die älteste bekannte Materie des Universums. Die launige und mittlerweile völlig abgebrannte Ex-Diva versteht keinerlei Spaß, wenn man sich über ihre schauspielerischen Qualitäten lustig macht oder gar über ihre gescheiterte Ehe mit dem rasierten Kahadrier Schlei Schdalone. Zuletzt machte sie nur durch ihre Rum-Abhängigkeit und ihren Auftritt auf dem „Dschungelplaneten“ von LTR auf sich aufmerksam.
+Die wohl berühmteste SpaceAmazone des Universums, sie spielte die Titelrolle der „Green Sonja“ in einem legendären Holo-Film. Ihre Brustimplantate sind vermutlich die älteste bekannte Materie des Universums. Die launige und mittlerweile völlig abgebrannte Ex-Diva versteht keinerlei Spaß, wenn man sich über ihre schauspielerischen Qualitäten lustig macht oder gar über ihre gescheiterte Ehe mit dem rasierten Kahadrier Schlei Schdalone. Zuletzt machte sie nur durch ihre Rum-Abhängigkeit und ihren Auftritt auf dem „Dschungelplaneten“ von LTR auf sich aufmerksam.
 
 ## Britney S. Pears
 
-Britney S. Pears ist die bekannteste Spacepear-Sängerin des Universums. Mit ihren eingängigen Popsongs weiß sie vor allem die Jugend zu begeistern. Ihre Konzerte sind allesamt ausverkauft und sie besitzt ein junges und braves Image, obwohl ihr nachgesagt wird, dass sie schon die eine oder andere Genkur hinter sich hat, um nicht zu altern. Ihre Songs handeln vor allem um die Probleme, die die Pubertät mit sich bringt. Mit ihrer Debütsingle „Strip me baby (on more time)“ landete sie auf Anhieb einen Nummer-eins-Hit in den galaktischen Charts. Der Titel wurde derart oft gespielt, dass er bei anfälligen Zeitgenossen psychosomatische Störungen auslöste, woraufhin sich Heerscharen von Psychiatern auf die Behandlung der Krankheit stürzten und Millionäre wurden.
+Britney S. Pears ist die bekannteste SpacePear-Sängerin des Universums. Mit ihren eingängigen Popsongs weiß sie vor allem die Jugend zu begeistern. Ihre Konzerte sind allesamt ausverkauft und sie besitzt ein junges und braves Image, obwohl ihr nachgesagt wird, dass sie schon die eine oder andere Genkur hinter sich hat, um nicht zu altern. Ihre Songs handeln vor allem um die Probleme, die die Pubertät mit sich bringt. Mit ihrer Debütsingle „Strip me baby (on more time)“ landete sie auf Anhieb einen Nummer-eins-Hit in den galaktischen Charts. Der Titel wurde derart oft gespielt, dass er bei anfälligen Zeitgenossen psychosomatische Störungen auslöste, woraufhin sich Heerscharen von Psychiatern auf die Behandlung der Krankheit stürzten und Millionäre wurden.
 
 {% capture include_body %}
 Britney S. Pears schwebt nicht nur über den Charts, sondern jetzt auch zu ihren Fans! Gestern startete ihr gigantisches Tourschiff, die Slave4You. „Ich freue mich schon wahnsinnig darauf, meinen Fans im ganzen Universums einmal live gegenüber zu stehen“, so die sympathische Sängerin. Der Start ist auf jeden Fall geglückt, vom ersten Konzert schwärmen alle Beteiligten: „total geile Atmosphäre“.
@@ -161,7 +161,7 @@ Aber Britney S. Pears hat nicht nur eine große Stimme, sondern auch ein großes
 
 ## Dia Mond
 
-Dia Mond ist die momentan angesagteste Talkshow-Moderatorin der bekannten Galaxis. Mit Themen wie „Glukorianer sind keine guten Väter“ und „Ich bin eine Spaceamazone und hasse keine Männer“ ist sie die Quotenkönigin der Nachmittagsshows und bringt regelmäßig das öffentliche Leben zum Erliegen. Diesen Erfolg hätte die Samnesin niemals ohne ihre speziellen Showimplantate erzielt, mit denen sie regelmäßig für große Peinlichkeiten bei ihren Gästen sorgt.
+Dia Mond ist die momentan angesagteste Talkshow-Moderatorin der bekannten Galaxis. Mit Themen wie „Glukorianer sind keine guten Väter“ und „Ich bin eine SpaceAmazone und hasse keine Männer“ ist sie die Quotenkönigin der Nachmittagsshows und bringt regelmäßig das öffentliche Leben zum Erliegen. Diesen Erfolg hätte die Samnesin niemals ohne ihre speziellen Showimplantate erzielt, mit denen sie regelmäßig für große Peinlichkeiten bei ihren Gästen sorgt.
 
 {% include slc.md data=page.sitedata.Slc.Dia_Mond %}
 
@@ -185,7 +185,7 @@ Der streifanische Hexballspieler und Mittelfeldregisseur Raul Reitner, ebenso be
 
 ## Wicker
 
-Der einzige Schauspieler der wohl immer noch berühmtesten Holo-Steinzeit-Serie „Stone Wars“, der tatsächlich Kapital aus seinem kurzen Ruhm schlagen konnte. Obwohl er nur in einem einzigen Film der Originalserie auftrat (und in zwei weiteren Streifen, über die man das Mäntelchen des Schweigens breiten sollte), gelang es dem possierlichen Streifanier seine Rolle so gut zu vermarkten, dass auch jetzt, etliche Hundert Jahre später, noch „Wicker-Cornflakes“ und „Wicker-Zahnpasta“ sowie etliche andere Merchandising-Artikel in Umlauf sind. Angeblich schläft er auf einem gigantischen Haufen aus Edelsteinen und wertvoller Kunstgegenstände. Geld gibt er eigentlich nur aus, um sich lebensverlängernde Drogen und die Dienste atombusiger Spaceamazonen zu sichern.
+Der einzige Schauspieler der wohl immer noch berühmtesten Holo-Steinzeit-Serie „Stone Wars“, der tatsächlich Kapital aus seinem kurzen Ruhm schlagen konnte. Obwohl er nur in einem einzigen Film der Originalserie auftrat (und in zwei weiteren Streifen, über die man das Mäntelchen des Schweigens breiten sollte), gelang es dem possierlichen Streifanier seine Rolle so gut zu vermarkten, dass auch jetzt, etliche Hundert Jahre später, noch „Wicker-Cornflakes“ und „Wicker-Zahnpasta“ sowie etliche andere Merchandising-Artikel in Umlauf sind. Angeblich schläft er auf einem gigantischen Haufen aus Edelsteinen und wertvoller Kunstgegenstände. Geld gibt er eigentlich nur aus, um sich lebensverlängernde Drogen und die Dienste atombusiger SpaceAmazonen zu sichern.
 
 {% include slc.md data=page.sitedata.Slc.Wicker %}
 
@@ -193,7 +193,7 @@ Der einzige Schauspieler der wohl immer noch berühmtesten Holo-Steinzeit-Serie 
 
 | Name | Rasse |
 | ---- | ----- |
-| Arnold Easteregger | Spacepear |
+| Arnold Easteregger | SpacePear |
 | David Freedomhoff | Mensch |
 | Dolly Laster | Trull |
 | Jean Damme van Raumcloud | Streifanier |

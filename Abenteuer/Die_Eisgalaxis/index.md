@@ -92,7 +92,7 @@ Erst einmal auf Ennos angekommen wirft Fürst Los den Piraten alles entgegen, wa
     </tbody>
     </table>
 </td></tr>
-<tr><td>8</td><td>Durch die Hitze schrumpfen alle Spacepears unter den Piraten auf Birnengröße zusammen.</td></tr>
+<tr><td>8</td><td>Durch die Hitze schrumpfen alle SpacePears unter den Piraten auf Birnengröße zusammen.</td></tr>
 <tr><td>9</td><td>Fürst Los wartet schon in seinem Palast, wo die Sprengladung angebracht werden muss und attackiert bei der Landung mit einem Lichtschwert.</td></tr>
 <tr><td>10</td><td>254 Schüsse aus Lichtkanonen atomisieren das Schiff der Piraten bei ihrer Ankunft.</td></tr>
 </tbody>

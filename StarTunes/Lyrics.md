@@ -34,7 +34,7 @@ Das Raumschiff ist unser Zuhaus&lsquo; / und die Schwerkraft, die schalten wir a
 
 +++NEWSFLASH+++
 
-Neue Anschläge der Emanzipationsbewegung der Spaceamazonen im Luftraum von Trullmania.
+Neue Anschläge der Emanzipationsbewegung der SpaceAmazonen im Luftraum von Trullmania.
 
 Vergessen zu atmen: wieder ein Wagone bei der Arbeit erstickt.
 

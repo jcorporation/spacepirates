@@ -253,7 +253,7 @@ Dies ist die zweite Version von SpacePirates.
                         <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/themenhefte.webp" width="100" height="140">
                     </div>
                     <div class="col">
-                        <p>Der Sammelband der Themenhefte SpaceNinjas, BigBong-Theorie, Atlanter vs. Spaceamazonen, Stars & Sternchen und der SP:Insider.</p>
+                        <p>Der Sammelband der Themenhefte SpaceNinjas, BigBong-Theorie, Atlanter vs. SpaceAmazonen, Stars & Sternchen und der SP:Insider.</p>
                         <p>DIN A5 Hardcover, 144 Seiten</p>
                         <p>Erscheinungsdatum: 13.04.2015</p>
                         <p>Preis: ausverkauft</p>
