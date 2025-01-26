@@ -186,29 +186,29 @@
   "/Spielregeln/Ausruestung/Raumschiffe/Diverses": {
     "prev": "/Spielregeln/Ausruestung/Raumschiffe/FTL-Funk",
     "firstInDir": false,
-    "next": "/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken",
+    "next": "/Spielregeln/Ausruestung/Raumschiffe/Style",
     "lastInDir": false,
     "parent": "/Spielregeln/Ausruestung/Raumschiffe/",
     "title": "Diverses"
   },
-  "/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken": {
+  "/Spielregeln/Ausruestung/Raumschiffe/Style": {
     "prev": "/Spielregeln/Ausruestung/Raumschiffe/Diverses",
     "firstInDir": false,
-    "next": "/Spielregeln/Ausruestung/Raumschiffe/Style",
+    "next": "/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken",
     "lastInDir": false,
     "parent": "/Spielregeln/Ausruestung/Raumschiffe/",
-    "title": "Raumschiffmacken"
+    "title": "Style-Zubehör"
   },
-  "/Spielregeln/Ausruestung/Raumschiffe/Style": {
-    "prev": "/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken",
+  "/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken": {
+    "prev": "/Spielregeln/Ausruestung/Raumschiffe/Style",
     "firstInDir": false,
     "next": "/Spielregeln/Abenteuer_erleben/",
     "lastInDir": true,
     "parent": "/Spielregeln/Ausruestung/Raumschiffe/",
-    "title": "Style-Zubehör"
+    "title": "Raumschiffmacken"
   },
   "/Spielregeln/Abenteuer_erleben/": {
-    "prev": "/Spielregeln/Ausruestung/Raumschiffe/Style",
+    "prev": "/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken",
     "firstInDir": true,
     "next": "/Spielregeln/Abenteuer_erleben/Abenteuer/",
     "lastInDir": true,
@@ -2650,133 +2650,77 @@
   "/Abenteuer/Blumenkind/Blumenkind": {
     "prev": "/Abenteuer/Blumenkind/Doradus",
     "firstInDir": false,
-    "next": "/Abenteuer/Weihnachten_II/",
+    "next": "/Abenteuer/Zeitraub/",
     "lastInDir": true,
     "parent": "/Abenteuer/Blumenkind/",
     "title": "Die Blumenkind"
   },
-  "/Abenteuer/Weihnachten_II/": {
+  "/Abenteuer/Zeitraub/": {
     "prev": "/Abenteuer/Blumenkind/Blumenkind",
     "firstInDir": true,
-    "next": "/Abenteuer/Weihnachten_II/Einstieg",
+    "next": "/Abenteuer/Zeitraub/Uebersicht",
     "lastInDir": true,
     "parent": "/Abenteuer/",
-    "title": "Weihnachten II"
+    "title": "Zeitraub"
   },
-  "/Abenteuer/Weihnachten_II/Einstieg": {
-    "prev": "/Abenteuer/Weihnachten_II/",
+  "/Abenteuer/Zeitraub/Uebersicht": {
+    "prev": "/Abenteuer/Zeitraub/",
     "firstInDir": true,
-    "next": "/Abenteuer/Weihnachten_II/Santa_24",
+    "next": "/Abenteuer/Zeitraub/Auftrag",
     "lastInDir": false,
-    "parent": "/Abenteuer/Weihnachten_II/",
-    "title": "Einstieg"
+    "parent": "/Abenteuer/Zeitraub/",
+    "title": "Übersicht"
   },
-  "/Abenteuer/Weihnachten_II/Santa_24": {
-    "prev": "/Abenteuer/Weihnachten_II/Einstieg",
+  "/Abenteuer/Zeitraub/Auftrag": {
+    "prev": "/Abenteuer/Zeitraub/Uebersicht",
     "firstInDir": false,
-    "next": "/Abenteuer/Weihnachten_II/Kabukicho-Prime",
+    "next": "/Abenteuer/Zeitraub/Nachforschungen",
     "lastInDir": false,
-    "parent": "/Abenteuer/Weihnachten_II/",
-    "title": "Auf Santa 24"
+    "parent": "/Abenteuer/Zeitraub/",
+    "title": "Auftragserteilung"
   },
-  "/Abenteuer/Weihnachten_II/Kabukicho-Prime": {
-    "prev": "/Abenteuer/Weihnachten_II/Santa_24",
+  "/Abenteuer/Zeitraub/Nachforschungen": {
+    "prev": "/Abenteuer/Zeitraub/Auftrag",
     "firstInDir": false,
-    "next": "/Abenteuer/Spritprobleme/",
-    "lastInDir": true,
-    "parent": "/Abenteuer/Weihnachten_II/",
-    "title": "Kabukicho-Prime"
-  },
-  "/Abenteuer/Spritprobleme/": {
-    "prev": "/Abenteuer/Weihnachten_II/Kabukicho-Prime",
-    "firstInDir": true,
-    "next": "/Abenteuer/Spritprobleme/Einleitung",
-    "lastInDir": true,
-    "parent": "/Abenteuer/",
-    "title": "Spritprobleme"
-  },
-  "/Abenteuer/Spritprobleme/Einleitung": {
-    "prev": "/Abenteuer/Spritprobleme/",
-    "firstInDir": true,
-    "next": "/Abenteuer/Spritprobleme/Karte",
+    "next": "/Abenteuer/Zeitraub/Marmonen",
     "lastInDir": false,
-    "parent": "/Abenteuer/Spritprobleme/",
-    "title": "Einleitung"
-  },
-  "/Abenteuer/Spritprobleme/Karte": {
-    "prev": "/Abenteuer/Spritprobleme/Einleitung",
-    "firstInDir": false,
-    "next": "/Abenteuer/Spritprobleme/Neutritiumpipeline",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Spritprobleme/",
-    "title": "Karte"
-  },
-  "/Abenteuer/Spritprobleme/Neutritiumpipeline": {
-    "prev": "/Abenteuer/Spritprobleme/Karte",
-    "firstInDir": false,
-    "next": "/Abenteuer/Spritprobleme/Spaceameisen",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Spritprobleme/",
-    "title": "Neutritiumpipeline"
-  },
-  "/Abenteuer/Spritprobleme/Spaceameisen": {
-    "prev": "/Abenteuer/Spritprobleme/Neutritiumpipeline",
-    "firstInDir": false,
-    "next": "/Abenteuer/Spritprobleme/Weltraumpfleger",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Spritprobleme/",
-    "title": "Spaceameisen"
-  },
-  "/Abenteuer/Spritprobleme/Weltraumpfleger": {
-    "prev": "/Abenteuer/Spritprobleme/Spaceameisen",
-    "firstInDir": false,
-    "next": "/Abenteuer/Rache_des_Akamachi-Clans/",
-    "lastInDir": true,
-    "parent": "/Abenteuer/Spritprobleme/",
-    "title": "Weltraumpfleger"
-  },
-  "/Abenteuer/Rache_des_Akamachi-Clans/": {
-    "prev": "/Abenteuer/Spritprobleme/Weltraumpfleger",
-    "firstInDir": true,
-    "next": "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag",
-    "lastInDir": true,
-    "parent": "/Abenteuer/",
-    "title": "Rache des Akamachi-Clans"
-  },
-  "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": {
-    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/",
-    "firstInDir": true,
-    "next": "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Rache_des_Akamachi-Clans/",
-    "title": "Anschlag"
-  },
-  "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": {
-    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag",
-    "firstInDir": false,
-    "next": "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Rache_des_Akamachi-Clans/",
+    "parent": "/Abenteuer/Zeitraub/",
     "title": "Nachforschungen"
   },
-  "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": {
-    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen",
+  "/Abenteuer/Zeitraub/Marmonen": {
+    "prev": "/Abenteuer/Zeitraub/Nachforschungen",
     "firstInDir": false,
-    "next": "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf",
+    "next": "/Abenteuer/Zeitraub/Ueberfall",
     "lastInDir": false,
-    "parent": "/Abenteuer/Rache_des_Akamachi-Clans/",
-    "title": "Zweiter Anschlag"
+    "parent": "/Abenteuer/Zeitraub/",
+    "title": "Marmonen"
   },
-  "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf": {
-    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag",
+  "/Abenteuer/Zeitraub/Ueberfall": {
+    "prev": "/Abenteuer/Zeitraub/Marmonen",
+    "firstInDir": false,
+    "next": "/Abenteuer/Zeitraub/Bauteil",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Zeitraub/",
+    "title": "Überfall"
+  },
+  "/Abenteuer/Zeitraub/Bauteil": {
+    "prev": "/Abenteuer/Zeitraub/Ueberfall",
+    "firstInDir": false,
+    "next": "/Abenteuer/Zeitraub/Ende",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Zeitraub/",
+    "title": "Das Bauteil"
+  },
+  "/Abenteuer/Zeitraub/Ende": {
+    "prev": "/Abenteuer/Zeitraub/Bauteil",
     "firstInDir": false,
     "next": "/Abenteuer/SpaceDrache/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Rache_des_Akamachi-Clans/",
-    "title": "Endkampf"
+    "parent": "/Abenteuer/Zeitraub/",
+    "title": "Ende"
   },
   "/Abenteuer/SpaceDrache/": {
-    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf",
+    "prev": "/Abenteuer/Zeitraub/Ende",
     "firstInDir": true,
     "next": "/Abenteuer/SpaceDrache/Hintergrund",
     "lastInDir": true,
@@ -2850,13 +2794,189 @@
   "/Abenteuer/SpaceDrache/Ende": {
     "prev": "/Abenteuer/SpaceDrache/Drachenhort",
     "firstInDir": false,
-    "next": "/Abenteuer/Laborratten/",
+    "next": "/Abenteuer/Buschraub/",
     "lastInDir": true,
     "parent": "/Abenteuer/SpaceDrache/",
     "title": "Ende"
   },
-  "/Abenteuer/Laborratten/": {
+  "/Abenteuer/Buschraub/": {
     "prev": "/Abenteuer/SpaceDrache/Ende",
+    "firstInDir": true,
+    "next": "/Abenteuer/Buschraub/Einstieg",
+    "lastInDir": true,
+    "parent": "/Abenteuer/",
+    "title": "Buschraub"
+  },
+  "/Abenteuer/Buschraub/Einstieg": {
+    "prev": "/Abenteuer/Buschraub/",
+    "firstInDir": true,
+    "next": "/Abenteuer/Buschraub/Nachforschungen",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "Einstieg"
+  },
+  "/Abenteuer/Buschraub/Nachforschungen": {
+    "prev": "/Abenteuer/Buschraub/Einstieg",
+    "firstInDir": false,
+    "next": "/Abenteuer/Buschraub/JCTech_IAG",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "Nachforschungen"
+  },
+  "/Abenteuer/Buschraub/JCTech_IAG": {
+    "prev": "/Abenteuer/Buschraub/Nachforschungen",
+    "firstInDir": false,
+    "next": "/Abenteuer/Buschraub/SWIP",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "JCTech IAG"
+  },
+  "/Abenteuer/Buschraub/SWIP": {
+    "prev": "/Abenteuer/Buschraub/JCTech_IAG",
+    "firstInDir": false,
+    "next": "/Abenteuer/Buschraub/Syoner",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "SWIP"
+  },
+  "/Abenteuer/Buschraub/Syoner": {
+    "prev": "/Abenteuer/Buschraub/SWIP",
+    "firstInDir": false,
+    "next": "/Abenteuer/Buschraub/Eris",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "Syoner"
+  },
+  "/Abenteuer/Buschraub/Eris": {
+    "prev": "/Abenteuer/Buschraub/Syoner",
+    "firstInDir": false,
+    "next": "/Abenteuer/Buschraub/Bahir",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "Eris"
+  },
+  "/Abenteuer/Buschraub/Bahir": {
+    "prev": "/Abenteuer/Buschraub/Eris",
+    "firstInDir": false,
+    "next": "/Abenteuer/Buschraub/Dimensionsriss",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "Bahir"
+  },
+  "/Abenteuer/Buschraub/Dimensionsriss": {
+    "prev": "/Abenteuer/Buschraub/Bahir",
+    "firstInDir": false,
+    "next": "/Abenteuer/Buschraub/Sperrzone",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "Dimensionsriss"
+  },
+  "/Abenteuer/Buschraub/Sperrzone": {
+    "prev": "/Abenteuer/Buschraub/Dimensionsriss",
+    "firstInDir": false,
+    "next": "/Abenteuer/Buschraub/Nova_Ceti",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "Sperrzone"
+  },
+  "/Abenteuer/Buschraub/Nova_Ceti": {
+    "prev": "/Abenteuer/Buschraub/Sperrzone",
+    "firstInDir": false,
+    "next": "/Abenteuer/Buschraub/Ende",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "Auf Nova Ceti"
+  },
+  "/Abenteuer/Buschraub/Ende": {
+    "prev": "/Abenteuer/Buschraub/Nova_Ceti",
+    "firstInDir": false,
+    "next": "/Abenteuer/Wagonian_Wedding/",
+    "lastInDir": true,
+    "parent": "/Abenteuer/Buschraub/",
+    "title": "Ende"
+  },
+  "/Abenteuer/Wagonian_Wedding/": {
+    "prev": "/Abenteuer/Buschraub/Ende",
+    "firstInDir": true,
+    "next": "/Abenteuer/Wagonian_Wedding/Selbstdarsteller",
+    "lastInDir": true,
+    "parent": "/Abenteuer/",
+    "title": "Wagonian Wedding"
+  },
+  "/Abenteuer/Wagonian_Wedding/Selbstdarsteller": {
+    "prev": "/Abenteuer/Wagonian_Wedding/",
+    "firstInDir": true,
+    "next": "/Abenteuer/Wagonian_Wedding/Konfliktuebersicht",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Wagonian_Wedding/",
+    "title": "(Selbst-)Darsteller"
+  },
+  "/Abenteuer/Wagonian_Wedding/Konfliktuebersicht": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Selbstdarsteller",
+    "firstInDir": false,
+    "next": "/Abenteuer/Wagonian_Wedding/Einleitung",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Wagonian_Wedding/",
+    "title": "Konfliktübersicht"
+  },
+  "/Abenteuer/Wagonian_Wedding/Einleitung": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Konfliktuebersicht",
+    "firstInDir": false,
+    "next": "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Wagonian_Wedding/",
+    "title": "Einleitung: Hein the Mono"
+  },
+  "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Einleitung",
+    "firstInDir": false,
+    "next": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Wagonian_Wedding/",
+    "title": "Auftritt: Der Spion, der aus dem Weltall kam"
+  },
+  "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam",
+    "firstInDir": false,
+    "next": "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Wagonian_Wedding/",
+    "title": "Auftritt: Der Teufel trägt Bäämmler"
+  },
+  "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler",
+    "firstInDir": false,
+    "next": "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Wagonian_Wedding/",
+    "title": "Auftritt: Sing es selber, (Bi-)sam!"
+  },
+  "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam",
+    "firstInDir": false,
+    "next": "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Wagonian_Wedding/",
+    "title": "Auftritt: Ein Herz und ein Wagone"
+  },
+  "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone",
+    "firstInDir": false,
+    "next": "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Wagonian_Wedding/",
+    "title": "Auftritt: Die üblichen Verdächtigen"
+  },
+  "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen",
+    "firstInDir": false,
+    "next": "/Abenteuer/Laborratten/",
+    "lastInDir": true,
+    "parent": "/Abenteuer/Wagonian_Wedding/",
+    "title": "Auftritt: Special Effects für alle!"
+  },
+  "/Abenteuer/Laborratten/": {
+    "prev": "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle",
     "firstInDir": true,
     "next": "/Abenteuer/Laborratten/Einstieg",
     "lastInDir": true,
@@ -2986,205 +3106,141 @@
   "/Abenteuer/Ostern/Loesung": {
     "prev": "/Abenteuer/Ostern/VzFvO",
     "firstInDir": false,
-    "next": "/Abenteuer/Halloween/",
+    "next": "/Abenteuer/Rache_des_Akamachi-Clans/",
     "lastInDir": true,
     "parent": "/Abenteuer/Ostern/",
     "title": "Lösungsmöglichkeiten"
   },
-  "/Abenteuer/Halloween/": {
+  "/Abenteuer/Rache_des_Akamachi-Clans/": {
     "prev": "/Abenteuer/Ostern/Loesung",
     "firstInDir": true,
-    "next": "/Abenteuer/Halloween/Hintergrund",
+    "next": "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag",
     "lastInDir": true,
     "parent": "/Abenteuer/",
-    "title": "Halloween"
+    "title": "Rache des Akamachi-Clans"
   },
-  "/Abenteuer/Halloween/Hintergrund": {
-    "prev": "/Abenteuer/Halloween/",
+  "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag": {
+    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/",
     "firstInDir": true,
-    "next": "/Abenteuer/Halloween/Einstieg",
+    "next": "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen",
     "lastInDir": false,
-    "parent": "/Abenteuer/Halloween/",
-    "title": "Hintergrund"
+    "parent": "/Abenteuer/Rache_des_Akamachi-Clans/",
+    "title": "Anschlag"
   },
-  "/Abenteuer/Halloween/Einstieg": {
-    "prev": "/Abenteuer/Halloween/Hintergrund",
+  "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen": {
+    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/Anschlag",
     "firstInDir": false,
-    "next": "/Abenteuer/Halloween/Nebel",
+    "next": "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag",
     "lastInDir": false,
-    "parent": "/Abenteuer/Halloween/",
+    "parent": "/Abenteuer/Rache_des_Akamachi-Clans/",
+    "title": "Nachforschungen"
+  },
+  "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag": {
+    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/Nachforschungen",
+    "firstInDir": false,
+    "next": "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Rache_des_Akamachi-Clans/",
+    "title": "Zweiter Anschlag"
+  },
+  "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf": {
+    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/Zweiter_Anschlag",
+    "firstInDir": false,
+    "next": "/Abenteuer/Schatzjagd/",
+    "lastInDir": true,
+    "parent": "/Abenteuer/Rache_des_Akamachi-Clans/",
+    "title": "Endkampf"
+  },
+  "/Abenteuer/Schatzjagd/": {
+    "prev": "/Abenteuer/Rache_des_Akamachi-Clans/Endkampf",
+    "firstInDir": true,
+    "next": "/Abenteuer/Schatzjagd/Einstieg",
+    "lastInDir": true,
+    "parent": "/Abenteuer/",
+    "title": "Schatzjagd"
+  },
+  "/Abenteuer/Schatzjagd/Einstieg": {
+    "prev": "/Abenteuer/Schatzjagd/",
+    "firstInDir": true,
+    "next": "/Abenteuer/Schatzjagd/Erste_Piratengruppe",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Schatzjagd/",
     "title": "Einstieg"
   },
-  "/Abenteuer/Halloween/Nebel": {
-    "prev": "/Abenteuer/Halloween/Einstieg",
+  "/Abenteuer/Schatzjagd/Erste_Piratengruppe": {
+    "prev": "/Abenteuer/Schatzjagd/Einstieg",
     "firstInDir": false,
-    "next": "/Abenteuer/Halloween/Vampir-Planet",
+    "next": "/Abenteuer/Schatzjagd/Zweite_Piratengruppe",
     "lastInDir": false,
-    "parent": "/Abenteuer/Halloween/",
-    "title": "Nebel erkunden"
+    "parent": "/Abenteuer/Schatzjagd/",
+    "title": "Erste Piratengruppe"
   },
-  "/Abenteuer/Halloween/Vampir-Planet": {
-    "prev": "/Abenteuer/Halloween/Nebel",
+  "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": {
+    "prev": "/Abenteuer/Schatzjagd/Erste_Piratengruppe",
     "firstInDir": false,
-    "next": "/Abenteuer/Halloween/Zentrum",
+    "next": "/Abenteuer/Schatzjagd/Reise",
     "lastInDir": false,
-    "parent": "/Abenteuer/Halloween/",
-    "title": "Vampir-Planet"
+    "parent": "/Abenteuer/Schatzjagd/",
+    "title": "Zweite Piratengruppe"
   },
-  "/Abenteuer/Halloween/Zentrum": {
-    "prev": "/Abenteuer/Halloween/Vampir-Planet",
+  "/Abenteuer/Schatzjagd/Reise": {
+    "prev": "/Abenteuer/Schatzjagd/Zweite_Piratengruppe",
     "firstInDir": false,
-    "next": "/Abenteuer/Halloween/Station",
+    "next": "/Abenteuer/Schatzjagd/Rand",
     "lastInDir": false,
-    "parent": "/Abenteuer/Halloween/",
-    "title": "Zentrum des Nebels"
+    "parent": "/Abenteuer/Schatzjagd/",
+    "title": "Reise zum Rand des Universums"
   },
-  "/Abenteuer/Halloween/Station": {
-    "prev": "/Abenteuer/Halloween/Zentrum",
+  "/Abenteuer/Schatzjagd/Rand": {
+    "prev": "/Abenteuer/Schatzjagd/Reise",
     "firstInDir": false,
-    "next": "/Abenteuer/Halloween/Xergul",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Halloween/",
-    "title": "Auf der Station"
-  },
-  "/Abenteuer/Halloween/Xergul": {
-    "prev": "/Abenteuer/Halloween/Station",
-    "firstInDir": false,
-    "next": "/Abenteuer/Halloween/Nebelmaschine",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Halloween/",
-    "title": "Xergul"
-  },
-  "/Abenteuer/Halloween/Nebelmaschine": {
-    "prev": "/Abenteuer/Halloween/Xergul",
-    "firstInDir": false,
-    "next": "/Abenteuer/Halloween/Ende",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Halloween/",
-    "title": "Nebelmaschine"
-  },
-  "/Abenteuer/Halloween/Ende": {
-    "prev": "/Abenteuer/Halloween/Nebelmaschine",
-    "firstInDir": false,
-    "next": "/Abenteuer/Weihnachten/",
+    "next": "/Abenteuer/Dungeonplanet/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Halloween/",
-    "title": "Ende"
+    "parent": "/Abenteuer/Schatzjagd/",
+    "title": "Rand des Universums"
   },
-  "/Abenteuer/Weihnachten/": {
-    "prev": "/Abenteuer/Halloween/Ende",
+  "/Abenteuer/Dungeonplanet/": {
+    "prev": "/Abenteuer/Schatzjagd/Rand",
     "firstInDir": true,
-    "next": "/Abenteuer/Weihnachten/Auftrag",
+    "next": "/Abenteuer/Dungeonplanet/Einstieg",
     "lastInDir": true,
     "parent": "/Abenteuer/",
-    "title": "Weihnachten"
+    "title": "Dungeonplanet"
   },
-  "/Abenteuer/Weihnachten/Auftrag": {
-    "prev": "/Abenteuer/Weihnachten/",
+  "/Abenteuer/Dungeonplanet/Einstieg": {
+    "prev": "/Abenteuer/Dungeonplanet/",
     "firstInDir": true,
-    "next": "/Abenteuer/Weihnachten/Weihnachtsmann",
+    "next": "/Abenteuer/Dungeonplanet/Ebene1",
     "lastInDir": false,
-    "parent": "/Abenteuer/Weihnachten/",
-    "title": "Auftrag"
+    "parent": "/Abenteuer/Dungeonplanet/",
+    "title": "Einstieg"
   },
-  "/Abenteuer/Weihnachten/Weihnachtsmann": {
-    "prev": "/Abenteuer/Weihnachten/Auftrag",
+  "/Abenteuer/Dungeonplanet/Ebene1": {
+    "prev": "/Abenteuer/Dungeonplanet/Einstieg",
     "firstInDir": false,
-    "next": "/Abenteuer/Weihnachten/Treffpunkt",
+    "next": "/Abenteuer/Dungeonplanet/Ebene2",
     "lastInDir": false,
-    "parent": "/Abenteuer/Weihnachten/",
-    "title": "Weihnachtsmann"
+    "parent": "/Abenteuer/Dungeonplanet/",
+    "title": "Ebene 1"
   },
-  "/Abenteuer/Weihnachten/Treffpunkt": {
-    "prev": "/Abenteuer/Weihnachten/Weihnachtsmann",
+  "/Abenteuer/Dungeonplanet/Ebene2": {
+    "prev": "/Abenteuer/Dungeonplanet/Ebene1",
     "firstInDir": false,
-    "next": "/Abenteuer/Weihnachten/Santa_24",
+    "next": "/Abenteuer/Dungeonplanet/Endkampf",
     "lastInDir": false,
-    "parent": "/Abenteuer/Weihnachten/",
-    "title": "Treffpunkt"
+    "parent": "/Abenteuer/Dungeonplanet/",
+    "title": "Ebene 2"
   },
-  "/Abenteuer/Weihnachten/Santa_24": {
-    "prev": "/Abenteuer/Weihnachten/Treffpunkt",
-    "firstInDir": false,
-    "next": "/Abenteuer/Weihnachten/Knecht_Ruprecht",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Weihnachten/",
-    "title": "Santa 24"
-  },
-  "/Abenteuer/Weihnachten/Knecht_Ruprecht": {
-    "prev": "/Abenteuer/Weihnachten/Santa_24",
-    "firstInDir": false,
-    "next": "/Abenteuer/Weihnachten/Eskorte",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Weihnachten/",
-    "title": "Knecht Ruprecht"
-  },
-  "/Abenteuer/Weihnachten/Eskorte": {
-    "prev": "/Abenteuer/Weihnachten/Knecht_Ruprecht",
-    "firstInDir": false,
-    "next": "/Abenteuer/Weihnachten/Weihnachtsfeier",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Weihnachten/",
-    "title": "Eskorte"
-  },
-  "/Abenteuer/Weihnachten/Weihnachtsfeier": {
-    "prev": "/Abenteuer/Weihnachten/Eskorte",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub_II/",
-    "lastInDir": true,
-    "parent": "/Abenteuer/Weihnachten/",
-    "title": "Weihnachtsfeier"
-  },
-  "/Abenteuer/Zeitraub_II/": {
-    "prev": "/Abenteuer/Weihnachten/Weihnachtsfeier",
-    "firstInDir": true,
-    "next": "/Abenteuer/Zeitraub_II/Ereignisse",
-    "lastInDir": true,
-    "parent": "/Abenteuer/",
-    "title": "Zeitraub II"
-  },
-  "/Abenteuer/Zeitraub_II/Ereignisse": {
-    "prev": "/Abenteuer/Zeitraub_II/",
-    "firstInDir": true,
-    "next": "/Abenteuer/Zeitraub_II/Auftragserteilung",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub_II/",
-    "title": "Ereignisse"
-  },
-  "/Abenteuer/Zeitraub_II/Auftragserteilung": {
-    "prev": "/Abenteuer/Zeitraub_II/Ereignisse",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub_II/Reise",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub_II/",
-    "title": "Auftragserteilung"
-  },
-  "/Abenteuer/Zeitraub_II/Reise": {
-    "prev": "/Abenteuer/Zeitraub_II/Auftragserteilung",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub_II/Javar_3",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub_II/",
-    "title": "Reise nach Javar 3"
-  },
-  "/Abenteuer/Zeitraub_II/Javar_3": {
-    "prev": "/Abenteuer/Zeitraub_II/Reise",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub_II/Laborkarte",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub_II/",
-    "title": "Auf Javar 3"
-  },
-  "/Abenteuer/Zeitraub_II/Laborkarte": {
-    "prev": "/Abenteuer/Zeitraub_II/Javar_3",
+  "/Abenteuer/Dungeonplanet/Endkampf": {
+    "prev": "/Abenteuer/Dungeonplanet/Ebene2",
     "firstInDir": false,
     "next": "/Abenteuer/Schatz_von_Menkar/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Zeitraub_II/",
-    "title": "Karte des Labors"
+    "parent": "/Abenteuer/Dungeonplanet/",
+    "title": "Endkampf"
   },
   "/Abenteuer/Schatz_von_Menkar/": {
-    "prev": "/Abenteuer/Zeitraub_II/Laborkarte",
+    "prev": "/Abenteuer/Dungeonplanet/Endkampf",
     "firstInDir": true,
     "next": "/Abenteuer/Schatz_von_Menkar/Einstieg",
     "lastInDir": true,
@@ -3322,157 +3378,45 @@
   "/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator": {
     "prev": "/Abenteuer/Raumschiffdungeon/Sektoren/Baustelle",
     "firstInDir": true,
-    "next": "/Abenteuer/Wagonian_Wedding/",
+    "next": "/Abenteuer/Weihnachten_II/",
     "lastInDir": true,
     "parent": "/Abenteuer/Raumschiffdungeon/",
     "title": "Wurmlochdemodulator"
   },
-  "/Abenteuer/Wagonian_Wedding/": {
+  "/Abenteuer/Weihnachten_II/": {
     "prev": "/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator",
     "firstInDir": true,
-    "next": "/Abenteuer/Wagonian_Wedding/Selbstdarsteller",
+    "next": "/Abenteuer/Weihnachten_II/Einstieg",
     "lastInDir": true,
     "parent": "/Abenteuer/",
-    "title": "Wagonian Wedding"
+    "title": "Weihnachten II"
   },
-  "/Abenteuer/Wagonian_Wedding/Selbstdarsteller": {
-    "prev": "/Abenteuer/Wagonian_Wedding/",
+  "/Abenteuer/Weihnachten_II/Einstieg": {
+    "prev": "/Abenteuer/Weihnachten_II/",
     "firstInDir": true,
-    "next": "/Abenteuer/Wagonian_Wedding/Konfliktuebersicht",
+    "next": "/Abenteuer/Weihnachten_II/Santa_24",
     "lastInDir": false,
-    "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "(Selbst-)Darsteller"
+    "parent": "/Abenteuer/Weihnachten_II/",
+    "title": "Einstieg"
   },
-  "/Abenteuer/Wagonian_Wedding/Konfliktuebersicht": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Selbstdarsteller",
+  "/Abenteuer/Weihnachten_II/Santa_24": {
+    "prev": "/Abenteuer/Weihnachten_II/Einstieg",
     "firstInDir": false,
-    "next": "/Abenteuer/Wagonian_Wedding/Einleitung",
+    "next": "/Abenteuer/Weihnachten_II/Kabukicho-Prime",
     "lastInDir": false,
-    "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "Konfliktübersicht"
+    "parent": "/Abenteuer/Weihnachten_II/",
+    "title": "Auf Santa 24"
   },
-  "/Abenteuer/Wagonian_Wedding/Einleitung": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Konfliktuebersicht",
-    "firstInDir": false,
-    "next": "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "Einleitung: Hein the Mono"
-  },
-  "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Einleitung",
-    "firstInDir": false,
-    "next": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "Auftritt: Der Spion, der aus dem Weltall kam"
-  },
-  "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Der_Spion_der_aus_dem_Weltall_kam",
-    "firstInDir": false,
-    "next": "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "Auftritt: Der Teufel trägt Bäämmler"
-  },
-  "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Der_Teufel_traegt_Baeaemmler",
-    "firstInDir": false,
-    "next": "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "Auftritt: Sing es selber, (Bi-)sam!"
-  },
-  "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Sing_es_selber_Bisam",
-    "firstInDir": false,
-    "next": "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "Auftritt: Ein Herz und ein Wagone"
-  },
-  "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Ein_Herz_und_ein_Wagone",
-    "firstInDir": false,
-    "next": "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "Auftritt: Die üblichen Verdächtigen"
-  },
-  "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Die_ueblichen_Verdaechtigen",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub/",
-    "lastInDir": true,
-    "parent": "/Abenteuer/Wagonian_Wedding/",
-    "title": "Auftritt: Special Effects für alle!"
-  },
-  "/Abenteuer/Zeitraub/": {
-    "prev": "/Abenteuer/Wagonian_Wedding/Special_Effects_für_alle",
-    "firstInDir": true,
-    "next": "/Abenteuer/Zeitraub/Uebersicht",
-    "lastInDir": true,
-    "parent": "/Abenteuer/",
-    "title": "Zeitraub"
-  },
-  "/Abenteuer/Zeitraub/Uebersicht": {
-    "prev": "/Abenteuer/Zeitraub/",
-    "firstInDir": true,
-    "next": "/Abenteuer/Zeitraub/Auftrag",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub/",
-    "title": "Übersicht"
-  },
-  "/Abenteuer/Zeitraub/Auftrag": {
-    "prev": "/Abenteuer/Zeitraub/Uebersicht",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub/Nachforschungen",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub/",
-    "title": "Auftragserteilung"
-  },
-  "/Abenteuer/Zeitraub/Nachforschungen": {
-    "prev": "/Abenteuer/Zeitraub/Auftrag",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub/Marmonen",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub/",
-    "title": "Nachforschungen"
-  },
-  "/Abenteuer/Zeitraub/Marmonen": {
-    "prev": "/Abenteuer/Zeitraub/Nachforschungen",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub/Ueberfall",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub/",
-    "title": "Marmonen"
-  },
-  "/Abenteuer/Zeitraub/Ueberfall": {
-    "prev": "/Abenteuer/Zeitraub/Marmonen",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub/Bauteil",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub/",
-    "title": "Überfall"
-  },
-  "/Abenteuer/Zeitraub/Bauteil": {
-    "prev": "/Abenteuer/Zeitraub/Ueberfall",
-    "firstInDir": false,
-    "next": "/Abenteuer/Zeitraub/Ende",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Zeitraub/",
-    "title": "Das Bauteil"
-  },
-  "/Abenteuer/Zeitraub/Ende": {
-    "prev": "/Abenteuer/Zeitraub/Bauteil",
+  "/Abenteuer/Weihnachten_II/Kabukicho-Prime": {
+    "prev": "/Abenteuer/Weihnachten_II/Santa_24",
     "firstInDir": false,
     "next": "/Abenteuer/Neutritiumklau/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Zeitraub/",
-    "title": "Ende"
+    "parent": "/Abenteuer/Weihnachten_II/",
+    "title": "Kabukicho-Prime"
   },
   "/Abenteuer/Neutritiumklau/": {
-    "prev": "/Abenteuer/Zeitraub/Ende",
+    "prev": "/Abenteuer/Weihnachten_II/Kabukicho-Prime",
     "firstInDir": true,
     "next": "/Abenteuer/Neutritiumklau/Auftrag",
     "lastInDir": true,
@@ -3514,149 +3458,205 @@
   "/Abenteuer/Neutritiumklau/Transportschiff": {
     "prev": "/Abenteuer/Neutritiumklau/Lager",
     "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/",
+    "next": "/Abenteuer/Zeitraub_II/",
     "lastInDir": true,
     "parent": "/Abenteuer/Neutritiumklau/",
     "title": "Entführung eines Transportschiffs"
   },
-  "/Abenteuer/Buschraub/": {
+  "/Abenteuer/Zeitraub_II/": {
     "prev": "/Abenteuer/Neutritiumklau/Transportschiff",
     "firstInDir": true,
-    "next": "/Abenteuer/Buschraub/Einstieg",
+    "next": "/Abenteuer/Zeitraub_II/Ereignisse",
     "lastInDir": true,
     "parent": "/Abenteuer/",
-    "title": "Buschraub"
+    "title": "Zeitraub II"
   },
-  "/Abenteuer/Buschraub/Einstieg": {
-    "prev": "/Abenteuer/Buschraub/",
+  "/Abenteuer/Zeitraub_II/Ereignisse": {
+    "prev": "/Abenteuer/Zeitraub_II/",
     "firstInDir": true,
-    "next": "/Abenteuer/Buschraub/Nachforschungen",
+    "next": "/Abenteuer/Zeitraub_II/Auftragserteilung",
     "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "Einstieg"
+    "parent": "/Abenteuer/Zeitraub_II/",
+    "title": "Ereignisse"
   },
-  "/Abenteuer/Buschraub/Nachforschungen": {
-    "prev": "/Abenteuer/Buschraub/Einstieg",
+  "/Abenteuer/Zeitraub_II/Auftragserteilung": {
+    "prev": "/Abenteuer/Zeitraub_II/Ereignisse",
     "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/JCTech_IAG",
+    "next": "/Abenteuer/Zeitraub_II/Reise",
     "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "Nachforschungen"
+    "parent": "/Abenteuer/Zeitraub_II/",
+    "title": "Auftragserteilung"
   },
-  "/Abenteuer/Buschraub/JCTech_IAG": {
-    "prev": "/Abenteuer/Buschraub/Nachforschungen",
+  "/Abenteuer/Zeitraub_II/Reise": {
+    "prev": "/Abenteuer/Zeitraub_II/Auftragserteilung",
     "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/SWIP",
+    "next": "/Abenteuer/Zeitraub_II/Javar_3",
     "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "JCTech IAG"
+    "parent": "/Abenteuer/Zeitraub_II/",
+    "title": "Reise nach Javar 3"
   },
-  "/Abenteuer/Buschraub/SWIP": {
-    "prev": "/Abenteuer/Buschraub/JCTech_IAG",
+  "/Abenteuer/Zeitraub_II/Javar_3": {
+    "prev": "/Abenteuer/Zeitraub_II/Reise",
     "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/Syoner",
+    "next": "/Abenteuer/Zeitraub_II/Laborkarte",
     "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "SWIP"
+    "parent": "/Abenteuer/Zeitraub_II/",
+    "title": "Auf Javar 3"
   },
-  "/Abenteuer/Buschraub/Syoner": {
-    "prev": "/Abenteuer/Buschraub/SWIP",
+  "/Abenteuer/Zeitraub_II/Laborkarte": {
+    "prev": "/Abenteuer/Zeitraub_II/Javar_3",
     "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/Eris",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "Syoner"
-  },
-  "/Abenteuer/Buschraub/Eris": {
-    "prev": "/Abenteuer/Buschraub/Syoner",
-    "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/Bahir",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "Eris"
-  },
-  "/Abenteuer/Buschraub/Bahir": {
-    "prev": "/Abenteuer/Buschraub/Eris",
-    "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/Dimensionsriss",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "Bahir"
-  },
-  "/Abenteuer/Buschraub/Dimensionsriss": {
-    "prev": "/Abenteuer/Buschraub/Bahir",
-    "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/Sperrzone",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "Dimensionsriss"
-  },
-  "/Abenteuer/Buschraub/Sperrzone": {
-    "prev": "/Abenteuer/Buschraub/Dimensionsriss",
-    "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/Nova_Ceti",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "Sperrzone"
-  },
-  "/Abenteuer/Buschraub/Nova_Ceti": {
-    "prev": "/Abenteuer/Buschraub/Sperrzone",
-    "firstInDir": false,
-    "next": "/Abenteuer/Buschraub/Ende",
-    "lastInDir": false,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "Auf Nova Ceti"
-  },
-  "/Abenteuer/Buschraub/Ende": {
-    "prev": "/Abenteuer/Buschraub/Nova_Ceti",
-    "firstInDir": false,
-    "next": "/Abenteuer/Dungeonplanet/",
+    "next": "/Abenteuer/Weihnachten/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Buschraub/",
-    "title": "Ende"
+    "parent": "/Abenteuer/Zeitraub_II/",
+    "title": "Karte des Labors"
   },
-  "/Abenteuer/Dungeonplanet/": {
-    "prev": "/Abenteuer/Buschraub/Ende",
+  "/Abenteuer/Weihnachten/": {
+    "prev": "/Abenteuer/Zeitraub_II/Laborkarte",
     "firstInDir": true,
-    "next": "/Abenteuer/Dungeonplanet/Einstieg",
+    "next": "/Abenteuer/Weihnachten/Auftrag",
     "lastInDir": true,
     "parent": "/Abenteuer/",
-    "title": "Dungeonplanet"
+    "title": "Weihnachten"
   },
-  "/Abenteuer/Dungeonplanet/Einstieg": {
-    "prev": "/Abenteuer/Dungeonplanet/",
+  "/Abenteuer/Weihnachten/Auftrag": {
+    "prev": "/Abenteuer/Weihnachten/",
     "firstInDir": true,
-    "next": "/Abenteuer/Dungeonplanet/Ebene1",
+    "next": "/Abenteuer/Weihnachten/Weihnachtsmann",
     "lastInDir": false,
-    "parent": "/Abenteuer/Dungeonplanet/",
+    "parent": "/Abenteuer/Weihnachten/",
+    "title": "Auftrag"
+  },
+  "/Abenteuer/Weihnachten/Weihnachtsmann": {
+    "prev": "/Abenteuer/Weihnachten/Auftrag",
+    "firstInDir": false,
+    "next": "/Abenteuer/Weihnachten/Treffpunkt",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Weihnachten/",
+    "title": "Weihnachtsmann"
+  },
+  "/Abenteuer/Weihnachten/Treffpunkt": {
+    "prev": "/Abenteuer/Weihnachten/Weihnachtsmann",
+    "firstInDir": false,
+    "next": "/Abenteuer/Weihnachten/Santa_24",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Weihnachten/",
+    "title": "Treffpunkt"
+  },
+  "/Abenteuer/Weihnachten/Santa_24": {
+    "prev": "/Abenteuer/Weihnachten/Treffpunkt",
+    "firstInDir": false,
+    "next": "/Abenteuer/Weihnachten/Knecht_Ruprecht",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Weihnachten/",
+    "title": "Santa 24"
+  },
+  "/Abenteuer/Weihnachten/Knecht_Ruprecht": {
+    "prev": "/Abenteuer/Weihnachten/Santa_24",
+    "firstInDir": false,
+    "next": "/Abenteuer/Weihnachten/Eskorte",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Weihnachten/",
+    "title": "Knecht Ruprecht"
+  },
+  "/Abenteuer/Weihnachten/Eskorte": {
+    "prev": "/Abenteuer/Weihnachten/Knecht_Ruprecht",
+    "firstInDir": false,
+    "next": "/Abenteuer/Weihnachten/Weihnachtsfeier",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Weihnachten/",
+    "title": "Eskorte"
+  },
+  "/Abenteuer/Weihnachten/Weihnachtsfeier": {
+    "prev": "/Abenteuer/Weihnachten/Eskorte",
+    "firstInDir": false,
+    "next": "/Abenteuer/Halloween/",
+    "lastInDir": true,
+    "parent": "/Abenteuer/Weihnachten/",
+    "title": "Weihnachtsfeier"
+  },
+  "/Abenteuer/Halloween/": {
+    "prev": "/Abenteuer/Weihnachten/Weihnachtsfeier",
+    "firstInDir": true,
+    "next": "/Abenteuer/Halloween/Hintergrund",
+    "lastInDir": true,
+    "parent": "/Abenteuer/",
+    "title": "Halloween"
+  },
+  "/Abenteuer/Halloween/Hintergrund": {
+    "prev": "/Abenteuer/Halloween/",
+    "firstInDir": true,
+    "next": "/Abenteuer/Halloween/Einstieg",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Halloween/",
+    "title": "Hintergrund"
+  },
+  "/Abenteuer/Halloween/Einstieg": {
+    "prev": "/Abenteuer/Halloween/Hintergrund",
+    "firstInDir": false,
+    "next": "/Abenteuer/Halloween/Nebel",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Halloween/",
     "title": "Einstieg"
   },
-  "/Abenteuer/Dungeonplanet/Ebene1": {
-    "prev": "/Abenteuer/Dungeonplanet/Einstieg",
+  "/Abenteuer/Halloween/Nebel": {
+    "prev": "/Abenteuer/Halloween/Einstieg",
     "firstInDir": false,
-    "next": "/Abenteuer/Dungeonplanet/Ebene2",
+    "next": "/Abenteuer/Halloween/Vampir-Planet",
     "lastInDir": false,
-    "parent": "/Abenteuer/Dungeonplanet/",
-    "title": "Ebene 1"
+    "parent": "/Abenteuer/Halloween/",
+    "title": "Nebel erkunden"
   },
-  "/Abenteuer/Dungeonplanet/Ebene2": {
-    "prev": "/Abenteuer/Dungeonplanet/Ebene1",
+  "/Abenteuer/Halloween/Vampir-Planet": {
+    "prev": "/Abenteuer/Halloween/Nebel",
     "firstInDir": false,
-    "next": "/Abenteuer/Dungeonplanet/Endkampf",
+    "next": "/Abenteuer/Halloween/Zentrum",
     "lastInDir": false,
-    "parent": "/Abenteuer/Dungeonplanet/",
-    "title": "Ebene 2"
+    "parent": "/Abenteuer/Halloween/",
+    "title": "Vampir-Planet"
   },
-  "/Abenteuer/Dungeonplanet/Endkampf": {
-    "prev": "/Abenteuer/Dungeonplanet/Ebene2",
+  "/Abenteuer/Halloween/Zentrum": {
+    "prev": "/Abenteuer/Halloween/Vampir-Planet",
+    "firstInDir": false,
+    "next": "/Abenteuer/Halloween/Station",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Halloween/",
+    "title": "Zentrum des Nebels"
+  },
+  "/Abenteuer/Halloween/Station": {
+    "prev": "/Abenteuer/Halloween/Zentrum",
+    "firstInDir": false,
+    "next": "/Abenteuer/Halloween/Xergul",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Halloween/",
+    "title": "Auf der Station"
+  },
+  "/Abenteuer/Halloween/Xergul": {
+    "prev": "/Abenteuer/Halloween/Station",
+    "firstInDir": false,
+    "next": "/Abenteuer/Halloween/Nebelmaschine",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Halloween/",
+    "title": "Xergul"
+  },
+  "/Abenteuer/Halloween/Nebelmaschine": {
+    "prev": "/Abenteuer/Halloween/Xergul",
+    "firstInDir": false,
+    "next": "/Abenteuer/Halloween/Ende",
+    "lastInDir": false,
+    "parent": "/Abenteuer/Halloween/",
+    "title": "Nebelmaschine"
+  },
+  "/Abenteuer/Halloween/Ende": {
+    "prev": "/Abenteuer/Halloween/Nebelmaschine",
     "firstInDir": false,
     "next": "/Abenteuer/Pizza_fuer_Jonas_Wagner/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Dungeonplanet/",
-    "title": "Endkampf"
+    "parent": "/Abenteuer/Halloween/",
+    "title": "Ende"
   },
   "/Abenteuer/Pizza_fuer_Jonas_Wagner/": {
-    "prev": "/Abenteuer/Dungeonplanet/Endkampf",
+    "prev": "/Abenteuer/Halloween/Ende",
     "firstInDir": true,
     "next": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Einstieg",
     "lastInDir": true,
@@ -3690,61 +3690,61 @@
   "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung": {
     "prev": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Aufloesung",
     "firstInDir": false,
-    "next": "/Abenteuer/Schatzjagd/",
+    "next": "/Abenteuer/Spritprobleme/",
     "lastInDir": true,
     "parent": "/Abenteuer/Pizza_fuer_Jonas_Wagner/",
     "title": "Zusammenfassung"
   },
-  "/Abenteuer/Schatzjagd/": {
+  "/Abenteuer/Spritprobleme/": {
     "prev": "/Abenteuer/Pizza_fuer_Jonas_Wagner/Zusammenfassung",
     "firstInDir": true,
-    "next": "/Abenteuer/Schatzjagd/Einstieg",
+    "next": "/Abenteuer/Spritprobleme/Einleitung",
     "lastInDir": true,
     "parent": "/Abenteuer/",
-    "title": "Schatzjagd"
+    "title": "Spritprobleme"
   },
-  "/Abenteuer/Schatzjagd/Einstieg": {
-    "prev": "/Abenteuer/Schatzjagd/",
+  "/Abenteuer/Spritprobleme/Einleitung": {
+    "prev": "/Abenteuer/Spritprobleme/",
     "firstInDir": true,
-    "next": "/Abenteuer/Schatzjagd/Erste_Piratengruppe",
+    "next": "/Abenteuer/Spritprobleme/Karte",
     "lastInDir": false,
-    "parent": "/Abenteuer/Schatzjagd/",
-    "title": "Einstieg"
+    "parent": "/Abenteuer/Spritprobleme/",
+    "title": "Einleitung"
   },
-  "/Abenteuer/Schatzjagd/Erste_Piratengruppe": {
-    "prev": "/Abenteuer/Schatzjagd/Einstieg",
+  "/Abenteuer/Spritprobleme/Karte": {
+    "prev": "/Abenteuer/Spritprobleme/Einleitung",
     "firstInDir": false,
-    "next": "/Abenteuer/Schatzjagd/Zweite_Piratengruppe",
+    "next": "/Abenteuer/Spritprobleme/Neutritiumpipeline",
     "lastInDir": false,
-    "parent": "/Abenteuer/Schatzjagd/",
-    "title": "Erste Piratengruppe"
+    "parent": "/Abenteuer/Spritprobleme/",
+    "title": "Karte"
   },
-  "/Abenteuer/Schatzjagd/Zweite_Piratengruppe": {
-    "prev": "/Abenteuer/Schatzjagd/Erste_Piratengruppe",
+  "/Abenteuer/Spritprobleme/Neutritiumpipeline": {
+    "prev": "/Abenteuer/Spritprobleme/Karte",
     "firstInDir": false,
-    "next": "/Abenteuer/Schatzjagd/Reise",
+    "next": "/Abenteuer/Spritprobleme/Spaceameisen",
     "lastInDir": false,
-    "parent": "/Abenteuer/Schatzjagd/",
-    "title": "Zweite Piratengruppe"
+    "parent": "/Abenteuer/Spritprobleme/",
+    "title": "Neutritiumpipeline"
   },
-  "/Abenteuer/Schatzjagd/Reise": {
-    "prev": "/Abenteuer/Schatzjagd/Zweite_Piratengruppe",
+  "/Abenteuer/Spritprobleme/Spaceameisen": {
+    "prev": "/Abenteuer/Spritprobleme/Neutritiumpipeline",
     "firstInDir": false,
-    "next": "/Abenteuer/Schatzjagd/Rand",
+    "next": "/Abenteuer/Spritprobleme/Weltraumpfleger",
     "lastInDir": false,
-    "parent": "/Abenteuer/Schatzjagd/",
-    "title": "Reise zum Rand des Universums"
+    "parent": "/Abenteuer/Spritprobleme/",
+    "title": "Spaceameisen"
   },
-  "/Abenteuer/Schatzjagd/Rand": {
-    "prev": "/Abenteuer/Schatzjagd/Reise",
+  "/Abenteuer/Spritprobleme/Weltraumpfleger": {
+    "prev": "/Abenteuer/Spritprobleme/Spaceameisen",
     "firstInDir": false,
     "next": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/",
     "lastInDir": true,
-    "parent": "/Abenteuer/Schatzjagd/",
-    "title": "Rand des Universums"
+    "parent": "/Abenteuer/Spritprobleme/",
+    "title": "Weltraumpfleger"
   },
   "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/": {
-    "prev": "/Abenteuer/Schatzjagd/Rand",
+    "prev": "/Abenteuer/Spritprobleme/Weltraumpfleger",
     "firstInDir": true,
     "next": "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Einstieg",
     "lastInDir": true,
