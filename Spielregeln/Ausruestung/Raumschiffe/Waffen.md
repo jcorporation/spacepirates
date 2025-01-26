@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen
+permalink: /Spielregeln/Ausruestung/Raumschiffe/Waffen
 title: Waffen
 order: /000
 ---

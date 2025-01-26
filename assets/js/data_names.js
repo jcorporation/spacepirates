@@ -1,5 +1,5 @@
 //do not modify
-const tabellen = {};
+var tabellen = {};
 tabellen["existingBeute"] = [
   "Uraltes Alienartefakt der [aliens], [existingBeuteTyp]",
   "Gegenstand von Bedeutung: [bedeutung] der Alienrasse [aliens]",
@@ -322,10 +322,10 @@ tabellen["existingRassen"] = [
   "Raptorianer",
   "Romaha",
   "Samnese",
+  "SpaceAmazone",
+  "SpacePear",
   "SpaceWorm",
   "SpaceYeti",
-  "Spaceamazone",
-  "Spacepear",
   "Streifanier",
   "Trull",
   "Wagone"

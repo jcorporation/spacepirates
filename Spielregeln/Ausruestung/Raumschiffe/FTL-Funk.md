@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk
+permalink: /Spielregeln/Ausruestung/Raumschiffe/FTL-Funk
 title: FTL-Funk
 order: /003
 sitedata:

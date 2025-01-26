@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde
+permalink: /Spielregeln/Ausruestung/Raumschiffe/Schilde
 title: Schilde
 order: /001
 sitedata:

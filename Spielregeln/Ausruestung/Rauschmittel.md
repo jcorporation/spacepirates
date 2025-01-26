@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Rauschmittel
+permalink: /Spielregeln/Ausruestung/Rauschmittel
 title: Rauschmittel
 order: /003
 ---

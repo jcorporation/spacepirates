@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/Beispielraumschiff
 title: Beispielraumschiff
+order: /006
 ---
 
 Darker Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht nicht ganz so viel her und hat ein paar Macken; aber dafür stimmen die inneren Werte: Die Bewaffnung kann sich sehen lassen und das Antiphotonen-Schild taucht das Raumschiff in das schwärzeste Schwarz, das ein Pirat je gesehen hat.
@@ -41,10 +42,3 @@ Darker Star ist das Raumschiff der Piratengruppe. Es ist zwar gebraucht, macht n
     <tr><th colspan="2">Gesamt</th><th>77.000</th><th>38.500</th></tr>
   </tfoot>
 </table>
-
-{% capture include_body %}
-Die Gruppe besteht aus 4 Spielern und bekommt daher 34.000 UC für das Raumschiff. Das Raumschiff kostet gebraucht 38.500 UC. Die Differenz (4.500 UC) müssen die Spieler aus dem Privatvermögen der Charaktere begleichen.
-
-Da das Schiff gebraucht ist und sie auch nur gebrauchte Teile einbauen, erhält das Schiff 6 Macken (2 für das gebrauchte Schiff und 4 für die 7 gebrauchten Teile). Zudem nimmt die Gruppe noch freiwillig eine zusätzliche Macke, um das Schiff mit einem Antiphotonen-Schild auszustatten.
-{% endcapture %}
-{% include beispiel.md title="Beispiel zu Raumschiffkosten und Macken" body=include_body %}

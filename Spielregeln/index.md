@@ -19,21 +19,26 @@ Das Regelwerk von SpacePirates ist in drei Teile gegliedert. Im ersten Teil geht
 - [Die Charaktere]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charaktere)
 - [Hintergrund]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Hintergrund)
 - [Charakterwerte]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charakterwerte)
-- [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/)
-  - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Waffen)
-  - [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Diverses)
-  - [Spezialkleidung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Spezialkleidung)
-  - [Rauschmittel]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Rauschmittel)
-  - [Raumschiffe]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/)
-    - [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen)
-    - [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde)
-    - [Sensoren]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren)
-    - [FTL-Funk]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk)
-    - [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses)
-    - [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style)
-    - [Raumschiffmacken]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken)
+- [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung)
 - [Beispielpiraten]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Beispielpiraten)
 - [Beispielraumschiff]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Beispielraumschiff)
+
+## Ausrüstung
+
+- [Übersicht]({{ site.baseurl }}/Spielregeln/Ausruestung/)
+- [Waffen]({{ site.baseurl }}/Spielregeln/Ausruestung/Waffen)
+- [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Ausruestung/Diverses)
+- [Spezialkleidung]({{ site.baseurl }}/Spielregeln/Ausruestung/Spezialkleidung)
+- [Rauschmittel]({{ site.baseurl }}/Spielregeln/Ausruestung/Rauschmittel)
+- [Raumschiffe]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/)
+  - [Waffen]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Waffen)
+  - [Schilde]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Schilde)
+  - [Sensoren]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Sensoren)
+  - [FTL-Funk]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/FTL-Funk)
+  - [Diverses]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Diverses)
+  - [Style]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Style)
+  - [Raumschiffmacken]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken)
+
 {% endcapture %}
 
 {% capture include_col2 %}

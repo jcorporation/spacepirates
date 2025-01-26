@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses
+permalink: /Spielregeln/Ausruestung/Raumschiffe/Diverses
 title: Diverses
 order: /004
 ---

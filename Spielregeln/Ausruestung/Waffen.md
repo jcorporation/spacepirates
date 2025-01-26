@@ -1,6 +1,6 @@
 ---
 layout: aside
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Waffen
+permalink: /Spielregeln/Ausruestung/Waffen
 title: Waffen
 order: /000
 ---

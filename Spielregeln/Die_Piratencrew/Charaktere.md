@@ -25,4 +25,4 @@ Ihr spielt eine Piratencrew, also eine Gruppe, die zusammenarbeiten muss, wenn s
 
 - [Hintergrund]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Hintergrund)
 - [Charakterwerte]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Charakterwerte)
-- [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/)
+- [Ausrüstung]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung)

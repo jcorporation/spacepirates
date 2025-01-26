@@ -2,10 +2,8 @@
 layout: page
 permalink: /Spielregeln/Spielleiter/
 title: Spielleiter
-order: /030
+order: /040
 ---
-
-
 
 - [Abenteuer vorbereiten]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_vorbereiten)
 - [Abenteuer erstellen]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/)

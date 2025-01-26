@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren
+permalink: /Spielregeln/Ausruestung/Raumschiffe/Sensoren
 title: Sensoren
 order: /002
 ---

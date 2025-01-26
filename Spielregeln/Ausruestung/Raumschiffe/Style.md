@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style
+permalink: /Spielregeln/Ausruestung/Raumschiffe/Style
 title: Style-Zubehör
 order: /005
 ---

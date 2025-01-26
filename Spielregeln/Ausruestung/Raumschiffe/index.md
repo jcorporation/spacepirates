@@ -1,18 +1,10 @@
 ---
 layout: aside
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/
+permalink: /Spielregeln/Ausruestung/Raumschiffe/
 title: Raumschiffe
 ---
 
 Wie das Raumschiff genau aussieht, bleibt natürlich den Spielern überlassen. Es kann z. B. ein aufgemotztes Proll-Raumschiff sein oder auch ein Schrottkahn mit guten inneren Werten, je nachdem wie sich die Piratengruppe nach außen präsentieren will.
-
-## Gebrauchte Raumschiffe
-
-Da sich die Piratencrew wohl kein neues Raumschiff leisten kann, können alle Raumschiffe und das gesamte Zubehör gebraucht erworben werden. Gebrauchte Raumschiffe und Zubehör kostet nur die Hälfte des Neupreises. Im Gegenzug haben gebrauchte Raumschiffe ein paar unbedeutende Nachteile:
-
-- 2 zufällige Macken
-- &minus;1 auf Zuverlässigkeit
-- 2 gebrauchte Teile: +1 Macke
 
 ## Begriffsklärung
 
@@ -55,13 +47,13 @@ Das Raumschiff sollte zumindest mit folgenden Dingen ausgestattet sein:
 
 Jedes Raumschiff kann mit beliebig viel Zubehör ausgerüstet werden.
 
-- [Waffen]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Waffen)
-- [Schilde]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Schilde)
-- [Sensoren]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Sensoren)
-- [FTL-Funk]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk)
-- [Diverses]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Diverses)
-- [Style]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Style)
+- [Waffen]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Waffen)
+- [Schilde]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Schilde)
+- [Sensoren]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Sensoren)
+- [FTL-Funk]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/FTL-Funk)
+- [Diverses]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Diverses)
+- [Style]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Style)
 
 ## Raumschiffmacken
 
-- [Raumschiffmacken]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken)
+- [Raumschiffmacken]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken)

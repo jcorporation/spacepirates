@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken
+permalink: /Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken
 title: Raumschiffmacken
 order: /005
 sitedata:

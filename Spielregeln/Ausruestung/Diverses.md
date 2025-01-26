@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Diverses
+permalink: /Spielregeln/Ausruestung/Diverses
 title: Diverse Ausrüstungsgegenstände
 order: /001
 ---

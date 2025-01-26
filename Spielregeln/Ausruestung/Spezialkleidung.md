@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Spielregeln/Die_Piratencrew/Ausruestung/Spezialkleidung
-title: Kleidung
+permalink: /Spielregeln/Ausruestung/Spezialkleidung
+title: Spezialkleidung
 order: /002
 ---
 

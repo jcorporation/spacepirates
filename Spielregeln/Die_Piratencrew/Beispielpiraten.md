@@ -2,6 +2,7 @@
 layout: page
 permalink: /Spielregeln/Die_Piratencrew/Beispielpiraten
 title: Beispielpiraten
+order: /005
 ---
 
 ## Oliver G. Stardust

@@ -20,6 +20,6 @@ Wenn die Wartungsprobe gelingt, werden alle Schadenspunkte gestrichen. Falls die
 {% capture include_body %}
 Das [Piratenschiff]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Beispielraumschiff) hat 4 Schadenspunkte erlitten und somit mehr als &frac14; und weniger als &frac12; der Gesamtschadenspunkte des Schiffs. Drake will es reparieren (TECH 5) und benutzt sein Tech-Universalwerkzeug (Bonus 1) dafür.
 
-Er würfelt (1 3 5 **6** 7 **8**) = 2 Erfolge und hat somit die 3 nötigen Erfolge bei seiner Probe nicht erreicht. Drake kann nur 2 Schadenspunkte reparieren und würfelt auf die [Raumschiffmackentabelle]({{ site.baseurl }}/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/Raumschiffmacken) und erwürfelt den Weltraumherpes, der als 7. Macke des Raumschiffs notiert wird.
+Er würfelt (1 3 5 **6** 7 **8**) = 2 Erfolge und hat somit die 3 nötigen Erfolge bei seiner Probe nicht erreicht. Drake kann nur 2 Schadenspunkte reparieren und würfelt auf die [Raumschiffmackentabelle]({{ site.baseurl }}/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken) und erwürfelt den Weltraumherpes, der als 7. Macke des Raumschiffs notiert wird.
 {% endcapture %}
 {% include beispiel.md title="Beispiel einer Wartung" body=include_body %}

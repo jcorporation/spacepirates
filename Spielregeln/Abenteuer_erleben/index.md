@@ -2,7 +2,7 @@
 layout: page
 permalink: /Spielregeln/Abenteuer_erleben/
 title: Abenteuer erleben
-order: /020
+order: /030
 ---
 
 Dieser Abschnitt beschreibt wie Abenteuer gegliedert sind, wie Konflikte aufgelöst werden können und auch wie der Raumkampf abgehandelt wird.
