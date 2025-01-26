@@ -41,7 +41,7 @@ Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht f
             <div class="card-body">
                 <div class="row">
                     <div class="col col-thumbnail">
-                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv5.webp" width="100" height="140">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/piratenbogenv6.webp" width="100" height="140">
                     </div>
                     <div class="col">
                         <p>Der Piraten- und Raumschiffbogen als PDF.</p>
@@ -50,7 +50,7 @@ Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht f
                 </div>
             </div>
             <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/piratenbogen_2023-07-18.pdf">Kostenlos herunterladen</a>
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/piratenbogen_2025-01-26.pdf">Kostenlos herunterladen</a>
             </div>
         </div>
     </div>
