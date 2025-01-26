@@ -1132,6 +1132,7 @@
     "/Abenteuer/": 6,
     "/Abenteuer/Laborratten/Railroading/Hafen": 6,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/": 6,
+    "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 6,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/In_der_Quantenfluktuation": 5,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Trauerzeremonie": 5,
     "/Abenteuer/Die_Karte_nach_Atlantis/Auf_Atlantis": 5,
@@ -1139,7 +1140,6 @@
     "/Abenteuer/Laborratten/Railroading/Schatzinsel": 5,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 5,
     "/Abenteuer/Zeitraub/Auftrag": 5,
-    "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 5,
     "/Abenteuer/Blumenkind/Einstieg": 4,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Einstieg": 4,
     "/Abenteuer/Halloween/Station": 4,
@@ -4134,7 +4134,7 @@
   },
   "macken": {
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": 77,
-    "/Spielregeln/Die_Piratencrew/Hintergrund": 29,
+    "/Spielregeln/Die_Piratencrew/Hintergrund": 28,
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 4,
     "/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken": 3,
     "/Spielregeln/Die_Piratencrew/Ausruestung": 3,
@@ -5449,7 +5449,7 @@
   "piratenwuerfel": {
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 54,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 33,
-    "/Spielregeln/Die_Piratencrew/Charakterwerte": 30,
+    "/Spielregeln/Die_Piratencrew/Charakterwerte": 31,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Abenteuer/Die_Eisgalaxis/": 1
   },
@@ -9127,7 +9127,7 @@
     "/Weltraum/Haendler_und_Halunken": 176
   },
   "zaehigkeit": {
-    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 28,
+    "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 30,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 28,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 27,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 5,
