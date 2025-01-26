@@ -145,6 +145,7 @@
   },
   "ahoi": {
     "/Publikationen/": 26,
+    "/Spielregeln/": 1,
     "/StarTunes/Lyrics": 1
   },
   "akamachiclan": {
@@ -663,6 +664,7 @@
   },
   "barslan": {
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 27,
+    "/Spielregeln/": 1,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1
   },
   "basar": {
@@ -1140,13 +1142,13 @@
     "/Abenteuer/Laborratten/Railroading/Schatzinsel": 5,
     "/Abenteuer/Schatz_von_Menkar/Auf_dem_Planeten": 5,
     "/Abenteuer/Zeitraub/Auftrag": 5,
+    "/Spielregeln/": 5,
     "/Abenteuer/Blumenkind/Einstieg": 4,
     "/Abenteuer/Das_Vermaechtnis_der_goldenen_Schallplatte/Einstieg": 4,
     "/Abenteuer/Halloween/Station": 4,
     "/Abenteuer/Laborratten/Einstieg": 4,
     "/Abenteuer/Laborratten/Railroading/Sturm": 4,
     "/Abenteuer/Zeitraub/Uebersicht": 4,
-    "/Spielregeln/": 4,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": 4,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": 4,
     "/Abenteuer/Blumenkind/Blumenkind": 3,
@@ -1193,8 +1195,9 @@
   },
   "charaktererschaffung": {
     "/Spielregeln/Die_Piratencrew/Uebersicht": 50,
+    "/Spielregeln/": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
-    "/Spielregeln/": 1
+    "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": 1
   },
   "charakterwerte": {
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 100,
@@ -1524,6 +1527,7 @@
   },
   "drake khan": {
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 26,
+    "/Spielregeln/": 1,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1
   },
   "drakulaschloss": {
@@ -2156,6 +2160,7 @@
     "/Weltraum/Freihandelszone/Neusirius": 3,
     "/Weltraum/Historie": 3,
     "/Abenteuer/Zeitraub/Uebersicht": 2,
+    "/Spielregeln/": 2,
     "/Weltraum/": 2,
     "/Weltraum/Konzerne/Fedspex": 2,
     "/Weltraum/Menschen/": 2,
@@ -3618,7 +3623,7 @@
   "khan": {
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 26,
     "/Weltraum/Promis": 2,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1
+    "/Spielregeln/": 1
   },
   "khan keyne": {
     "/Weltraum/Promis": 151,
@@ -4362,6 +4367,7 @@
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 4,
     "/Weltraum/Aliens/Wagonen/": 3,
     "/Weltraum/Historie": 3,
+    "/Spielregeln/": 2,
     "/Weltraum/Aliens/SpaceWorms/Agrarplaneten/Al_Hadir": 2,
     "/Weltraum/Aliens/Streifanier/": 2,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Sonderrechtszone/Kabukicho-Prime/": 2,
@@ -4635,6 +4641,7 @@
     "/Spielregeln/Die_Piratencrew/Hintergrund": 1
   },
   "neuasiatische": {
+    "/Spielregeln/": 1,
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Neuchina": 1,
     "/Weltraum/Technologie/": 1
   },
@@ -4924,7 +4931,8 @@
     "/Abenteuer/Blumenkind/Einstieg": 1
   },
   "oliver g stardust": {
-    "/Spielregeln/Die_Piratencrew/Beispielpiraten": 27
+    "/Spielregeln/Die_Piratencrew/Beispielpiraten": 27,
+    "/Spielregeln/": 1
   },
   "oliver malbek": {
     "/Weltraum/Sekten/Marmonen": 176
@@ -7307,9 +7315,9 @@
     "/Publikationen/": 122,
     "/Spielregeln/Spielleiter/Kampagnen/": 51,
     "/Weltraum/Historie": 6,
+    "/Spielregeln/": 3,
     "/Weltraum/Haendler_und_Halunken": 3,
     "/Abenteuer/Ideen/SpaceNinjas": 2,
-    "/Spielregeln/": 2,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/": 2,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere": 2,
@@ -7459,8 +7467,9 @@
     "/Spielregeln/Vor_dem_Spiel": 51,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 3,
     "/Spielregeln/Spielleiter/Abenteuer_vorbereiten": 3,
+    "/Spielregeln/": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 2,
-    "/Spielregeln/": 1
+    "/Spielregeln/Abenteuer_erleben/Abenteuer/": 1
   },
   "spielberichte": {
     "/Publikationen/": 1
@@ -7481,6 +7490,7 @@
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 3,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": 3,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 3,
+    "/Spielregeln/": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": 2,
     "/Spielregeln/Die_Piratencrew/Ausruestung": 2,
@@ -7530,7 +7540,7 @@
     "/Spielregeln/": 1
   },
   "spielregeln": {
-    "/Spielregeln/": 111
+    "/Spielregeln/": 112
   },
   "spielwerte": {
     "/Weltraum/Weltraumtiere": 25
@@ -7632,7 +7642,7 @@
   "stardust": {
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 27,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 7,
-    "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": 1
+    "/Spielregeln/": 1
   },
   "starillu": {
     "/Weltraum/Konzerne/StarIllu": 251,
@@ -9058,6 +9068,7 @@
   },
   "xenur barslan": {
     "/Spielregeln/Die_Piratencrew/Beispielpiraten": 27,
+    "/Spielregeln/": 1,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1
   },
   "xerbar raxes": {
