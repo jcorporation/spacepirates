@@ -94,7 +94,7 @@ Die anderen Spieler wollen nicht genannt werden, aber ihre Charaktere sind:
 
 - Oliver G. Stardust – Pilot, Mensch (Föderation)
 - Drake Khan – Tech, Mensch (Föderation)
-- Xenur Barslan – Söldner, Kahardier
+- Xenur Barslan – Söldner, Kahadrier
 {% endcapture %}
 {% include beispiel.md title="Beispiele" body=include_body %}
 
