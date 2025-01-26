@@ -14,6 +14,6 @@ Konfliktszenen sollten für dramatische und wichtige Szenen im Abenteuer genutzt
 - [Konsequenzen]({{ site.baseurl }}/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen)
 
 {% capture include_body %}
-An einem Konflikt können nur Charaktere teilnehmen, deren Zähigkeit des eingesetzten Profils mindestens 1 beträgt.
+An einem Konflikt können nur Charaktere teilnehmen, deren Zähigkeit mindestens 1 beträgt.
 {% endcapture %}
 {% include hinweis.md title="Teilnehmer" body=include_body %}

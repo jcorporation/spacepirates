@@ -22,7 +22,7 @@ Oliver war in seinem vorigen Leben einmal ein langweiliger Regierungsbeamter und
     <tr><th>Status</th><td colspan="3">Möchtegernpirat</td></tr>
     <tr><th>SÖLDNER</th><td>2</td><th>TECH</th><td>3</td></tr>
     <tr><th>PILOT</th><td>5</td><th>HÄNDLER</th><td>2</td></tr>
-    <tr><th>Zähigkeit</th><td>6</td><th>Piratenwürfel</th><td>6</td></tr>
+    <tr><th>Zähigkeit</th><td>8</td><th>Piratenwürfel</th><td>6</td></tr>
     <tr><th>Macken</th>
       <td colspan="3">
         <ol>
@@ -70,7 +70,7 @@ Sun Chen ist eine wunderschöne chinesische Händlerin, die ihre Reize einzusetz
     <tr><th>Status</th><td colspan="3">Möchtegernpirat</td></tr>
     <tr><th>SÖLDNER</th><td>3</td><th>TECH</th><td>3</td></tr>
     <tr><th>PILOT</th><td>1</td><th>HÄNDLER</th><td>5</td></tr>
-    <tr><th>Zähigkeit</th><td>6</td><th>Piratenwürfel</th><td>6</td></tr>
+    <tr><th>Zähigkeit</th><td>8</td><th>Piratenwürfel</th><td>6</td></tr>
     <tr><th>Macken</th>
       <td colspan="3">
         <ol>
@@ -117,7 +117,7 @@ Drake ist ein begnadeter Tech und gehörte früher einem hochrangigen Expertente
     <tr><th>Status</th><td colspan="3">Möchtegernpirat</td></tr>
     <tr><th>SÖLDNER</th><td>2</td><th>TECH</th><td>5</td></tr>
     <tr><th>PILOT</th><td>2</td><th>HÄNDLER</th><td>3</td></tr>
-    <tr><th>Zähigkeit</th><td>6</td><th>Piratenwürfel</th><td>6</td></tr>
+    <tr><th>Zähigkeit</th><td>8</td><th>Piratenwürfel</th><td>6</td></tr>
     <tr><th>Macken</th>
       <td colspan="3">
         <ol>
@@ -166,7 +166,7 @@ Xenur Barslan wurde früher häufig von Sun Chen als Geleitschutz für halbseide
     <tr><th>Status</th><td colspan="3">Möchtegernpirat</td></tr>
     <tr><th>SÖLDNER</th><td>5</td><th>TECH</th><td>3</td></tr>
     <tr><th>PILOT</th><td>3</td><th>HÄNDLER</th><td>2</td></tr>
-    <tr><th>Zähigkeit</th><td>6</td><th>Piratenwürfel</th><td>5</td></tr>
+    <tr><th>Zähigkeit</th><td>8</td><th>Piratenwürfel</th><td>5</td></tr>
     <tr><th>Macken</th>
       <td colspan="3">
         <ol>

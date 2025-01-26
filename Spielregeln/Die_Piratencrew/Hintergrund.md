@@ -114,9 +114,7 @@ Hier eine kurze Beschreibung der Alienrassen, mehr Details zu den Aliens sind in
 Zum Hintergrund des Charakters gehören bei SpacePirates auch seine Macken. Sie dienen nur zur Individualisierung des Charakters und haben keine regeltechnischen Auswirkungen, bringen aber dafür etwas mehr Farbe ins Spiel. Jeder Pirat sollte zwei Macken besitzen, der Spieler kann sie entweder frei erfinden oder sie anhand der folgenden Liste bestimmen, indem er daraus wählt oder würfelt. Es ist jederzeit möglich, eine Macke zu ersetzen.
 
 {% capture include_body %}
-Insbesondere bei OneShots oder Spielrunden auf Cons ist es zu empfehlen, die Macken auszuwürfeln, da dies flott erledigt ist. Sollte aber ein längeres Abenteuer oder eine Kampagne gespielt werden, sollte man sich Zeit lassen und die Macken individueller gestalten.
-
-Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben, aber übertreibe es dabei nicht.
+Insbesondere bei OneShots oder Spielrunden auf Cons ist es zu empfehlen, die Macken auszuwürfeln, da dies flott erledigt ist. Wird aber ein längeres Abenteuer  gespielt werden, sollte man sich Zeit lassen und die Macken individueller gestalten. Nutzt die Macken des Charakters, um ihm etwas mehr Profil zu geben, aber übertreibt es dabei nicht.
 {% endcapture %}
 {% include hinweis.md title="Macken" body=include_body %}
 

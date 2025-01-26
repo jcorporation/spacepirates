@@ -18,7 +18,7 @@ Um Spielleitercharaktere glaubhaft darstellen zu können und um sie unterscheidb
 
 Hauptcharaktere sind die Auftraggeber, der Anführer einer gegnerischen Partei oder auch die Zielperson eines Auftrags. Hauptcharaktere verfügen über vier Profile, Ausrüstung besitzen sie nach Bedarf. Sie sollten während des Abenteuers intelligent handeln und auf die Aktionen der Charaktere reagieren. Sie sollten auch agieren, falls die Charaktere zu passiv sind, wieso sollten sie auch auf die Charaktere warten?
 
-In einem Abenteuer sollten nicht mehr als ein oder zwei Hauptcharaktere vorkommen. Der Spielleiter verwaltet und erschafft sie nach den Regeln für Spielercharaktere. Hauptcharaktere sind zwei Stufen höher als der höchste Spielercharakter und besitzen eine Zähigkeit von 6. Sie sind somit mächtiger als ein einzelner Spielercharakter.
+In einem Abenteuer sollten nicht mehr als ein oder zwei Hauptcharaktere vorkommen. Der Spielleiter verwaltet und erschafft sie nach den Regeln für Spielercharaktere. Hauptcharaktere sind zwei Stufen höher als der höchste Spielercharakter und besitzen eine Zähigkeit von 8. Sie sind somit mächtiger als ein einzelner Spielercharakter.
 
 ## Wichtige Charaktere
 

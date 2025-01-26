@@ -13,7 +13,7 @@ Falls ein Abenteuer fortgesetzt wird, entfällt die Vorstellung der Charaktere, 
 
 Zum Start des Abenteuers regenerieren vollständig:
 
-- Die Zähigkeit aller Profile
+- Die Zähigkeit aller Charaktere
 - Die Zähigkeit der Ausrüstung
 - Die Piratenwürfel
 - Die Schilde und Schadenspunkte des Piratenschiffs

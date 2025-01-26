@@ -65,11 +65,11 @@ Kathy entscheidet sich, in Absprache mit der Gruppe, die Kapitänin zu spielen, 
 
 ## Zähigkeit
 
-Jedes Profil besitzt neben seinem Profilwert auch eine Zähigkeit von sechs Punkten. Während eines Konflikts kann die Zähigkeit sinken, aber nicht unter null. Beträgt die Zähigkeit eines Profils null, erleidet der Charakter eine Konsequenz. Die Zähigkeit regeneriert nur durch die Ausgabe eines Piratenwürfels oder beim Start in ein neues Abenteuer.
+Jeder Charakter besitzt neben seinen Profilwerten auch eine Zähigkeit von acht Punkten. Während eines Konflikts kann die Zähigkeit sinken, aber nicht unter null. Beträgt die Zähigkeit null, erleidet der Charakter eine Konsequenz. Die Zähigkeit regeneriert nur durch die Ausgabe eines Piratenwürfels oder beim Start in ein neues Abenteuer.
 
 ## Konsequenzen
 
-Konsequenzen sind Nachteile des Charakters, die ausgespielt werden müssen, aber keinen regeltechnischen Einfluss besitzen. Direkt nach der Erschaffung hat der Charakter keine Konsequenzen. Konsequenzen erleidet der Charaktere innerhalb eines Abenteuers, wenn die Zähigkeit eines Profils auf null sinkt. Sie sind so lange gültig, bis sie durch einen Stufenaufstieg gestrichen werden.
+Konsequenzen sind Nachteile des Charakters, die ausgespielt werden müssen, aber keinen regeltechnischen Einfluss besitzen. Direkt nach der Erschaffung hat der Charakter keine Konsequenzen. Konsequenzen erleidet der Charaktere innerhalb eines Abenteuers, wenn die Zähigkeit auf null sinkt. Sie sind so lange gültig, bis sie durch einen Stufenaufstieg gestrichen werden.
 
 ## Holo-Highscore-Punkte
 
@@ -80,13 +80,14 @@ Jeder Charakter beginnt als Möchtegernpirat mit 0 Holo-Highscore-Punkten (HHP).
 Piratenwürfel sind Ressourcen, die der Spieler jederzeit ausgeben kann. Mit Piratenwürfeln kann man:
 
 - Die Würfelzahl in einem Konflikt um zwei Würfel erhöhen
-- Die Zähigkeit eines Profils um drei Punkte auffrischen
+- Die Zähigkeit um drei Punkte auffrischen
 - Wichtige Fakten kaufen
 
 Bei der Charaktererschaffung erhält jeder Charakter fünf Piratenwürfel, Menschen bekommen noch einen Bonuswürfel obendrauf. Diese werden zu Beginn jedes Abenteuers vollständig aufgefrischt. Während des Abenteuers vergibt der Spielleiter für gelungene Charakterszenen frische Piratenwürfel.
 
 {% capture include_body %}
-Da Piratenwürfel ständig ausgegeben und wieder aufgefrischt werden, zählt man sie am besten mit irgendwelchen Spielsteinen oder Countern.
+Da Piratenwürfel ständig ausgegeben und wieder aufge­frischt werden, zählt man sie am besten mit irgendwelchen Spielsteinen oder Countern.
+Sei nicht geizig mit deinen Piratenwürfeln, umso fleissiger du sie ausgibst umso größer ist dein Einfluss auf das Spielgeschehen und umso  höher die Wahrscheinlichkeit weitere Piratenwürfel zu verdienen.
 {% endcapture %}
 {% include hinweis.md title="Piratenwürfel" body=include_body %}
 

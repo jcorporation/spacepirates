@@ -98,9 +98,9 @@ Eine Niederlage darf nicht in eine Sackgasse führen. Auch ein verlorener Konfli
 
 ### Zähigkeit regenerieren
 
-Es kann zu jeder Zeit ein Piratenwürfel ausgegeben werden, um die Zähigkeit eines Profils oder eines Ausrüstungsgegenstandes um drei Punkte zu regenerieren.
+Es kann zu jeder Zeit ein Piratenwürfel ausgegeben werden, um die Zähigkeit des Charakters oder eines Ausrüstungsgegenstandes um drei Punkte zu regenerieren.
 
-Alternativ kann auch zu passender Zeit versucht werden das Profil zu heilen oder den Gegenstand zu reparieren. Dies funktioniert selbstverständlich nur mit passender Ausrüstung, genügend Zeit und wenn es logisch ins Setting passt. Dazu wird ein einfacher Konflikt ausgeführt, es werden soviel Erfolge benötigt, wie Zähigkeit verloren wurde. Ist der Konflikt gewonnen, werden drei Punkte Zähigkeit regeneriert. Natürlich kann die Zähigkeit nicht über ihren ursprünglichen Wert hinaus regeneriert werden.
+Alternativ kann auch zu passender Zeit versucht werden die Zähigkeit zu heilen oder den Gegenstand zu reparieren. Dies funktioniert selbstverständlich nur mit passender Ausrüstung, genügend Zeit und wenn es logisch ins Setting passt. Dazu wird ein einfacher Konflikt ausgeführt, es werden soviel Erfolge benötigt, wie Zähigkeit verloren wurde. Ist der Konflikt gewonnen, werden drei Punkte Zähigkeit regeneriert. Natürlich kann die Zähigkeit nicht über ihren ursprünglichen Wert hinaus regeneriert werden.
 
 {% capture include_body %}
 Passende Ausrüstungsgegenstände um das SÖLDNER-Profil zu regenerieren sind z.B. ein Medikit oder Medipapagei.
