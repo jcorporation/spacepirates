@@ -18,6 +18,25 @@ Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht f
 <div class="row row-cols-1 row-cols-sm-2 g-4">
     <div class="col">
         <div class="card text-dark h-100">
+            <div class="card-header bg-yellow">Spielregeln &ndash; Preview</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col col-thumbnail">
+                        <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/spielregelnv6.webp" width="100" height="140">
+                    </div>
+                    <div class="col">
+                        <p>Preview der Spielregeln.</p>
+                        <p>DIN A5</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-yellow">
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/spielregeln_2025-01-26.pdf">Kostenlos herunterladen</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card text-dark h-100">
             <div class="card-header bg-yellow">Sternenkarte</div>
             <div class="card-body">
                 <div class="row">
