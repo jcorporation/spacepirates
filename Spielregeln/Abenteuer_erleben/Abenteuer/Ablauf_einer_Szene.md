@@ -65,7 +65,7 @@ Die Spieler können und sollen einer Szene einzelne Fakten hinzufügen, solange 
 - Fakten dürfen der Beschreibung des Spielleiters nicht widersprechen.
 - Sie müssen sich stimmig in die Szene einfügen.
 - Sie müssen die SpacePirates-Genrekonventionen einhalten.
-- Der Fakt darf weder die Szene noch das Abenteuer auflösen.
+- Der Fakt darf das Abenteuer nicht auflösen.
 
 So erhält die Szene mehr Details, ohne dass die Spieler wegen jeder Kleinigkeit nachfragen müssen. Ein Fakt kann dabei ein beliebiges Szenenelement sein, wie z.B. ein Gegenstand oder ein Ereignis. Wenn also im Ballsaal ein Kronleuchter fehlt oder in der Bar eine SpaceAmazone, dann sollen die Spieler solche Details ergänzen. Erzählt einfach davon und es ist Fakt!
 
