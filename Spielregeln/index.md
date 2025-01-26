@@ -80,6 +80,24 @@ Das Regelwerk von SpacePirates ist in drei Teile gegliedert. Im ersten Teil geht
 
 {% include columns3.md col1=include_col1 col2=include_col2 col3=include_col3%}
 
+{% capture include_body %}
+Ahoi Landratte!
+
+Ich bin Skully, das SpacePirates Maskottchen. Ich gebe euch in diesen Boxen immer wieder hilfreiche Tipps zu diesem Spiel. Ihr müsst nicht auf mich hören, aber besser wäre es. Also sagt nicht, ich habe euch nicht gewarnt. Aber jetzt will ich euch nicht länger aufhalten und wünsche euch viel Spaß mit SpacePirates!
+{% endcapture %}
+{% include hinweis.md title="Scully" body=include_body %}
+
+{% capture include_body %}
+In diesen Boxen findet ihr Beispiele, um die Spielregeln zu illustrieren. Durch die Charaktererschaffung führt euch Kathy, die eine Neuasiatische Händlerin und auch die Kapitänen spielt.
+
+Die anderen Spieler wollen nicht genannt werden, aber ihre Charaktere sind:
+
+- Oliver G. Stardust – Pilot, Mensch (Föderation)
+- Drake Khan – Tech, Mensch (Föderation)
+- Xenur Barslan – Söldner, Kahardier
+{% endcapture %}
+{% include beispiel.md title="Beispiele" body=include_body %}
+
 ***
 
 Die Spielregeln basieren auf [Lite](https://lite.jcgames.de/).
