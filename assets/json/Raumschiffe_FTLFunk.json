@@ -2,21 +2,21 @@
   "0": {
     "Name": "FTL10-Funk",
     "Kosten": 2000,
-    "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk"
+    "Link": "/Spielregeln/Ausruestung/Raumschiffe/FTL-Funk"
   },
   "1": {
     "Name": "FTL20-Funk",
     "Kosten": 4000,
-    "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk"
+    "Link": "/Spielregeln/Ausruestung/Raumschiffe/FTL-Funk"
   },
   "2": {
     "Name": "FTL30-Funk",
     "Kosten": 10000,
-    "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk"
+    "Link": "/Spielregeln/Ausruestung/Raumschiffe/FTL-Funk"
   },
   "3": {
     "Name": "FTL40-Funk",
     "Kosten": 25000,
-    "Link": "/Spielregeln/Die_Piratencrew/Ausruestung/Raumschiffe/FTL-Funk"
+    "Link": "/Spielregeln/Ausruestung/Raumschiffe/FTL-Funk"
   }
 }
