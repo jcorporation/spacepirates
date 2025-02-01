@@ -484,7 +484,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Neuchina": 1
   },
   "ausruestung": {
-    "/Spielregeln/Ausruestung/": 125,
+    "/Spielregeln/Ausruestung/": 127,
     "/Spielregeln/Die_Piratencrew/Ausruestung": 103,
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 102,
     "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 100,
@@ -511,8 +511,8 @@
   },
   "ausruestungsgegenstaende": {
     "/Spielregeln/Ausruestung/Diverses": 51,
-    "/Abenteuer/Buschraub/Nova_Ceti": 1,
-    "/Abenteuer/Laborratten/Railroading/Sturm": 1
+    "/Spielregeln/Ausruestung/": 3,
+    "/Abenteuer/Buschraub/Nova_Ceti": 1
   },
   "ausruestungslisten": {
     "/Spielregeln/Die_Piratencrew/Ausruestung": 26,
@@ -5318,6 +5318,7 @@
     "/Abenteuer/Weihnachten/Weihnachtsfeier": 2,
     "/Abenteuer/Weihnachten_II/Einstieg": 2,
     "/Abenteuer/Zeitraub/Bauteil": 2,
+    "/Spielregeln/Ausruestung/": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Beute": 2,
     "/Weltraum/": 2,
     "/Abenteuer/Blumenkind/Konfliktnetz": 1,
@@ -5369,7 +5370,6 @@
     "/Ideenhalde/Bewohner/Raptorianer/Dino_Burger": 1,
     "/Ideenhalde/Bewohner/Raptorianer/Schlachtkreuzer": 1,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumkaempfe": 1,
-    "/Spielregeln/Ausruestung/": 1,
     "/Spielregeln/Ausruestung/Raumschiffe/": 1,
     "/Spielregeln/Ausruestung/Raumschiffe/Raumschiffmacken": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung": 1,
@@ -6087,7 +6087,7 @@
     "/Weltraum/Technologie/Raumschiffe": 103,
     "/Zufallstabellen/Raumschiffe": 102,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/": 101,
-    "/Spielregeln/Die_Piratencrew/Ausruestung": 82,
+    "/Spielregeln/Die_Piratencrew/Ausruestung": 83,
     "/Weltraum/Konzerne/Raumschiff_und_Co": 53,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": 52,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Wartung": 51,
@@ -7489,11 +7489,11 @@
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 3,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 3,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": 3,
+    "/Spielregeln/Die_Piratencrew/Ausruestung": 3,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 3,
     "/Spielregeln/": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": 2,
-    "/Spielregeln/Die_Piratencrew/Ausruestung": 2,
     "/Spielregeln/Die_Piratencrew/Charaktere": 2,
     "/Spielregeln/Die_Piratencrew/Charakterwerte": 2,
     "/Spielregeln/Die_Piratencrew/Hintergrund": 2,
@@ -7899,8 +7899,8 @@
     "/Abenteuer/Laborratten/Railroading/Sturm": 25
   },
   "style": {
+    "/Spielregeln/Ausruestung/": 2,
     "/Spielregeln/": 1,
-    "/Spielregeln/Ausruestung/": 1,
     "/Spielregeln/Ausruestung/Raumschiffe/": 1
   },
   "stylezubehoer": {
@@ -8672,7 +8672,7 @@
     "/Weltraum/Freihandelszone/Waehrungen_und_Banken": 100
   },
   "waffen": {
-    "/Spielregeln/Ausruestung/Waffen": 111,
+    "/Spielregeln/Ausruestung/Waffen": 110,
     "/Spielregeln/Ausruestung/Raumschiffe/Waffen": 100,
     "/Weltraum/Technologie/": 28,
     "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 25,
@@ -9154,6 +9154,7 @@
     "/Abenteuer/Weihnachten_II/Kabukicho-Prime": 1,
     "/Spielregeln/Abenteuer_erleben/Konflikte/": 1,
     "/Spielregeln/Abenteuer_erleben/Konflikte/Einfache_Konflikte": 1,
+    "/Spielregeln/Ausruestung/": 1,
     "/Spielregeln/Ausruestung/Spezialkleidung": 1,
     "/Spielregeln/Die_Piratencrew/Ausruestung": 1
   },
