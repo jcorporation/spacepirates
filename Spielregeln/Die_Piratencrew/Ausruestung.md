@@ -29,11 +29,15 @@ Kathy schaut sich die Ausrüstungsliste an und sucht sich einen Laserdegen (1.80
 
 ## Raumschiff
 
-Die gesamte Gruppe bekommt ein Raumschiff im Wert von 14.000 + 5.000 × Gruppenmitglieder UC, das sie gemeinsam gestalten können und sollen. Zusätzlich kann je 4 Spieler (aufgerundet) ein Style-Zubehörteil für eine weitere Macke ertauscht werden. Überschüssige UC, die nicht für das Schiff benötigt werden, verfallen.
+Da die Piratengruppe keine Anhalter sein sollen, bekommen sie Startkapital zum Kauf eines gemeinsamen Raumschiffs. Das Raumschiff wird gemeinsam ausgesucht und nach Belieben der Spieler ausgerüstet.
+
+Wenn das Raumschiff noch etwas stylischer sein soll, kann je 4 Spieler (aufgerundet) ein Style-Zubehörteil für eine weitere Macke ertauscht werden.
 
 Zu einem vernünftigen Piratenschiff gehören natürlich Bordkanonen, Sensoren, Schilde, ein spaciger Name und eine kurze Beschreibung.
 
 - **Raumschiffwert:** 14.000 + 5.000 × Gruppenmitglieder UC
+
+Überschüssige UC, die nicht für das Schiff benötigt werden, verfallen.
 
 ### Gebrauchte Raumschiffe
 
@@ -46,7 +50,7 @@ Da sich die Piratencrew wohl kein neues Raumschiff leisten kann, können alle Ra
 {% capture include_body %}
 Die Gruppe besteht aus 4 Spielern und bekommt daher 34.000 UC für das Raumschiff. Das Raumschiff kostet gebraucht 38.500 UC. Die Differenz (4.500 UC) müssen die Spieler aus dem Privatvermögen der Charaktere begleichen.
 
-Da das Schiff gebraucht ist und sie auch nur gebrauchte Teile einbauen, erhält das Schiff 6 Macken (2 für das gebrauchte Schiff und 4 für die 7 gebrauchten Teile). Zudem nimmt die Gruppe noch freiwillig eine zusätzliche Macke, um das Schiff mit einem Antiphotonen-Schild auszustatten.
+Da das Schiff gebraucht ist und sie auch nur gebrauchte Teile einbauen, erhält das Schiff 6 Macken (2 für das gebrauchte Schiff und 4 für die 7 gebrauchten Teile). Zudem nimmt die Gruppe noch eine zusätzliche Macke, um das Schiff mit einem Antiphotonen-Schild auszustatten.
 {% endcapture %}
 {% include beispiel.md title="Beispiel zu Raumschiffkosten und Macken" body=include_body %}
 

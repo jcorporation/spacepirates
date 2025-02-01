@@ -26,12 +26,13 @@ Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht f
                     </div>
                     <div class="col">
                         <p>Preview der Spielregeln.</p>
+                        <p>Letzte Aktualisierung: 1.2.2025</p>
                         <p>DIN A5</p>
                     </div>
                 </div>
             </div>
             <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/spielregeln_2025-01-26.pdf">Kostenlos herunterladen</a>
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/spielregeln_2025-02-01.pdf">Kostenlos herunterladen</a>
             </div>
         </div>
     </div>
@@ -45,6 +46,7 @@ Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht f
                     </div>
                     <div class="col">
                         <p>Die Sternenkarte des SpacePirates Universums.</p>
+                        <p>Letzte Aktualisierung: 12.1.2025</p>
                         <p>Es gibt die Sternenkarte auch <a href="{{ site.baseurl }}/Weltraum/Sternenkarte/">online</a>, mit interaktiven Funktionen.</p>
                     </div>
                 </div>
@@ -64,6 +66,7 @@ Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht f
                     </div>
                     <div class="col">
                         <p>Der Piraten- und Raumschiffbogen als PDF.</p>
+                        <p>Letzte Aktualisierung: 26.1.2025</p>
                         <p>DIN A4</p>
                     </div>
                 </div>

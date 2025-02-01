@@ -5,7 +5,7 @@ title: Waffen
 order: /000
 ---
 
-Es gibt alle möglichen und unmöglichen Waffen. Die billigen geben keinen Bonuswürfel, da sie oft recht einfach gefertigt und nur etwas zu bunt lackiert sind. Je höher der Bonus, umso besser ist die Waffe. In einem Kampf kann immer nur eine Waffe genutzt werden. Natürlich können Fernkampfwaffen auch im Nahkampf als Prügel benutzt werden, geben dann aber keinen Bonus.
+Es gibt alle möglichen und unmöglichen Waffen. Die billigen geben keinen Bonuswürfel, da sie oft recht einfach gefertigt und nur etwas zu bunt lackiert sind. In einem Kampf kann immer nur eine Waffe genutzt werden. Natürlich können Fernkampfwaffen auch im Nahkampf als Prügel benutzt werden, geben dann aber keinen Bonus.
 
 ## Fernkampfwaffen
 
