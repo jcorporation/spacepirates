@@ -7,7 +7,7 @@ order: /020
 
 ## Persönliche Ausrüstung
 
-Gute Ausrüstungsgegenstände geben einen Bonus auf das Profil oder auf die Zähigkeit. Je höher der Bonus, umso besser ist der Ausrüstungsgegenstand. Wie genau die Ausrüstung aussieht bleibt jedem selber überlassen, manche Piraten bevorzugen einen Vintagelook, andere dagegen eher modernes Design. Ein cooler Style kostet keinen Aufpreis.
+Gute Ausrüstungsgegenstände geben einen Bonus auf das Profil oder auf die Zähigkeit. Je höher der Bonus, umso besser ist die Aus­rüstung. Wie genau sie aussieht bleibt jedem selber überlassen, manche Piraten bevorzugen einen Vintage­look, andere dagegen eher modernes Design. Ein cooler Style kostet keinen Aufpreis.
 
 Bei einem Profilbonus dürfen beim Einsatz der Ausrüstung mehr Würfel geworfen werden. Bei einem Zähigkeitsbonus absorbiert der Gegenstand Schaden.
 
