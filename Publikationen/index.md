@@ -32,7 +32,7 @@ Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht f
                 </div>
             </div>
             <div class="card-footer bg-yellow">
-                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/spielregeln_2025-02-01.pdf">Kostenlos herunterladen</a>
+                &raquo; <a class="link-dark" href="{{ site.baseurl }}/Publikationen/V6/spielregeln_2025-02-07.pdf">Kostenlos herunterladen</a>
             </div>
         </div>
     </div>
