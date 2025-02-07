@@ -26,7 +26,7 @@ Dies wird die neue Version von SpacePirates, der genaue Titel steht noch nicht f
                     </div>
                     <div class="col">
                         <p>Preview der Spielregeln.</p>
-                        <p>Letzte Aktualisierung: 1.2.2025</p>
+                        <p>Letzte Aktualisierung: 7.2.2025</p>
                         <p>DIN A5</p>
                     </div>
                 </div>
