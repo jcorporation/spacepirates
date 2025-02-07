@@ -19,8 +19,8 @@
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Vor_dem_Abenteuer": 53,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": 52,
     "/Spielregeln/": 31,
+    "/Spielregeln/Vor_dem_Spiel": 28,
     "/Publikationen/": 27,
-    "/Spielregeln/Vor_dem_Spiel": 27,
     "/Zufallstabellen/": 25,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Ablauf_einer_Szene": 5,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Gliederung_des_Abenteuers": 5,
@@ -484,7 +484,7 @@
     "/Weltraum/Menschen/Sternenrepublik_Neuasien/Neuchina": 1
   },
   "ausruestung": {
-    "/Spielregeln/Ausruestung/": 127,
+    "/Spielregeln/Ausruestung/": 126,
     "/Spielregeln/Die_Piratencrew/Ausruestung": 103,
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 102,
     "/Ideenhalde/Bewohner/Raptorianer/Ausruestung": 100,
@@ -5377,6 +5377,7 @@
     "/Spielregeln/Die_Piratencrew/Charaktere": 1,
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 1,
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 1,
+    "/Spielregeln/Vor_dem_Spiel": 1,
     "/Weltraum/Aliens/Glukorianer/Glutulhu/Danach": 1,
     "/Weltraum/Aliens/Samnesen/Sperrzone": 1,
     "/Weltraum/Aliens/SpaceWorms/BigBong/Lokalitaeten": 1,
@@ -6136,6 +6137,7 @@
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konfliktszenen": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Raumfluege": 2,
     "/Spielregeln/Ausruestung/Raumschiffe/Sensoren": 2,
+    "/Spielregeln/Vor_dem_Spiel": 2,
     "/Weltraum/Aliens/Atlanter/": 2,
     "/Weltraum/Historie": 2,
     "/Weltraum/Menschen/Foederation/Sisbert": 2,
@@ -7491,6 +7493,7 @@
     "/Spielregeln/Abenteuer_erleben/Konflikte/Konsequenzen": 3,
     "/Spielregeln/Die_Piratencrew/Ausruestung": 3,
     "/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf": 3,
+    "/Spielregeln/Vor_dem_Spiel": 3,
     "/Spielregeln/": 2,
     "/Spielregeln/Abenteuer_erleben/Abenteuer/Nach_dem_Abenteuer": 2,
     "/Spielregeln/Abenteuer_erleben/Raumschiffe/Macken": 2,
@@ -7501,7 +7504,6 @@
     "/Spielregeln/Spielleiter/Kampagnen/Ausruestung": 2,
     "/Spielregeln/Spielleiter/Kampagnen/Freunde": 2,
     "/Spielregeln/Spielmaterial": 2,
-    "/Spielregeln/Vor_dem_Spiel": 2,
     "/Abenteuer/Raumschiffdungeon/Wurmlochdemodulator": 1
   },
   "spieler wuerfeln": {
