@@ -175,8 +175,8 @@ Hier findest du weitere Abenteuer, die nicht im unteren Sammelband enthalten sin
 
 | Titel | Version | Format |
 | ----- | ------- | ------ |
-| [Blumenkind]({{ site.baseurl }}/Publikationen/V5/Abenteuer/Blumenkind_2016-09-20.pdf)| 2016.09.20 | PDFA5 |
-| [Das Vermächtnis der goldenen Schallplatte]({{ site.baseurl }}/Publikationen/V5/Abenteuer/GoldeneSchallplatte_2017-03-12.pdf)| 2017.03.12 | PDFA5 |
+| [Blumenkind]({{ site.baseurl }}/Publikationen/V5/Abenteuer/Blumenkind_2016-09-20.pdf) | 2016.09.20 | PDFA5 |
+| [Das Vermächtnis der goldenen Schallplatte]({{ site.baseurl }}/Publikationen/V5/Abenteuer/GoldeneSchallplatte_2017-03-12.pdf) | 2017.03.12 | PDFA5 |
 
 ***
 
