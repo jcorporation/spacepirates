@@ -9,8 +9,8 @@ sitedata:
 
 | Waffe | Bonus | Kosten | Kurzbeschreibung |
 | ----- | :---: | -----: | ---------------- |
-| Eis-Ionenblaster „Onkel Frost“ | P+2 | 3.500 |  |
-| Kybernetischer Energie-Peitschenschwanz | P+1 | 2.000 |  |
+| Eis-Ionenblaster „Onkel Frost“ | P+2 | 3.500 | |
+| Kybernetischer Energie-Peitschenschwanz | P+1 | 2.000 | |
 
 ### Eis-Ionenblaster
 
