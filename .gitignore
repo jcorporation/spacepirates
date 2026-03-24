@@ -4,3 +4,6 @@ Gemfile.lock
 _site/
 .jekyll-cache/
 _tmp
+/node_modules/
+/package-lock.json
+/package.json

@@ -6,7 +6,7 @@ echo "Linting javascript"
 for F in _site/assets/js/*.js
 do
     [ "$F" = "_site/assets/js/bootstrap-native.min.js" ] && continue
-    if ! npx eslint "$F"
+    if ! npx eslint -c eslint.config.mjs "$F"
     then
         rc=1
     fi
